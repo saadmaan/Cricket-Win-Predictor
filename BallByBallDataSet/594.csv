@@ -1,0 +1,486 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,SW Masakadza,2010-10-22,1st,HM Amla,0,,GC Smith,0,South Africa,Zimbabwe,0,South Africa,Willowmoore Park,0,South Africa
+1,0.2,0,SW Masakadza,2010-10-22,1st,HM Amla,0,,GC Smith,0,South Africa,Zimbabwe,1,South Africa,Willowmoore Park,0,South Africa
+2,0.3,0,SW Masakadza,2010-10-22,1st,HM Amla,0,,GC Smith,0,South Africa,Zimbabwe,1,South Africa,Willowmoore Park,0,South Africa
+3,0.4,0,SW Masakadza,2010-10-22,1st,HM Amla,0,,GC Smith,0,South Africa,Zimbabwe,1,South Africa,Willowmoore Park,0,South Africa
+4,0.5,0,SW Masakadza,2010-10-22,1st,HM Amla,0,,GC Smith,0,South Africa,Zimbabwe,2,South Africa,Willowmoore Park,0,South Africa
+5,0.6,1,SW Masakadza,2010-10-22,1st,HM Amla,0,,GC Smith,1,South Africa,Zimbabwe,3,South Africa,Willowmoore Park,0,South Africa
+6,0.7,0,SW Masakadza,2010-10-22,1st,GC Smith,1,,HM Amla,0,South Africa,Zimbabwe,3,South Africa,Willowmoore Park,0,South Africa
+7,0.8,0,SW Masakadza,2010-10-22,1st,GC Smith,1,,HM Amla,0,South Africa,Zimbabwe,3,South Africa,Willowmoore Park,0,South Africa
+8,1.1,1,IA Nicolson,2010-10-22,1st,HM Amla,0,,GC Smith,2,South Africa,Zimbabwe,4,South Africa,Willowmoore Park,0,South Africa
+9,1.2,0,IA Nicolson,2010-10-22,1st,GC Smith,2,,HM Amla,0,South Africa,Zimbabwe,4,South Africa,Willowmoore Park,0,South Africa
+10,1.3,6,IA Nicolson,2010-10-22,1st,GC Smith,2,,HM Amla,6,South Africa,Zimbabwe,10,South Africa,Willowmoore Park,0,South Africa
+11,1.4,0,IA Nicolson,2010-10-22,1st,GC Smith,2,,HM Amla,6,South Africa,Zimbabwe,10,South Africa,Willowmoore Park,0,South Africa
+12,1.5,0,IA Nicolson,2010-10-22,1st,GC Smith,2,,HM Amla,6,South Africa,Zimbabwe,10,South Africa,Willowmoore Park,0,South Africa
+13,1.6,4,IA Nicolson,2010-10-22,1st,GC Smith,2,,HM Amla,10,South Africa,Zimbabwe,14,South Africa,Willowmoore Park,0,South Africa
+14,2.1,0,SW Masakadza,2010-10-22,1st,HM Amla,10,,GC Smith,2,South Africa,Zimbabwe,14,South Africa,Willowmoore Park,0,South Africa
+15,2.2,4,SW Masakadza,2010-10-22,1st,HM Amla,10,,GC Smith,6,South Africa,Zimbabwe,18,South Africa,Willowmoore Park,0,South Africa
+16,2.3,0,SW Masakadza,2010-10-22,1st,HM Amla,10,,GC Smith,6,South Africa,Zimbabwe,18,South Africa,Willowmoore Park,0,South Africa
+17,2.4,1,SW Masakadza,2010-10-22,1st,HM Amla,10,,GC Smith,7,South Africa,Zimbabwe,19,South Africa,Willowmoore Park,0,South Africa
+18,2.5,1,SW Masakadza,2010-10-22,1st,GC Smith,7,,HM Amla,11,South Africa,Zimbabwe,20,South Africa,Willowmoore Park,0,South Africa
+19,2.6,0,SW Masakadza,2010-10-22,1st,HM Amla,11,,GC Smith,7,South Africa,Zimbabwe,20,South Africa,Willowmoore Park,0,South Africa
+20,3.1,0,IA Nicolson,2010-10-22,1st,GC Smith,7,,HM Amla,11,South Africa,Zimbabwe,20,South Africa,Willowmoore Park,0,South Africa
+21,3.2,0,IA Nicolson,2010-10-22,1st,GC Smith,7,,HM Amla,11,South Africa,Zimbabwe,20,South Africa,Willowmoore Park,0,South Africa
+22,3.3,4,IA Nicolson,2010-10-22,1st,GC Smith,7,,HM Amla,15,South Africa,Zimbabwe,24,South Africa,Willowmoore Park,0,South Africa
+23,3.4,1,IA Nicolson,2010-10-22,1st,GC Smith,7,,HM Amla,16,South Africa,Zimbabwe,26,South Africa,Willowmoore Park,0,South Africa
+24,3.5,4,IA Nicolson,2010-10-22,1st,HM Amla,16,,GC Smith,11,South Africa,Zimbabwe,30,South Africa,Willowmoore Park,0,South Africa
+25,3.6,0,IA Nicolson,2010-10-22,1st,HM Amla,16,,GC Smith,11,South Africa,Zimbabwe,31,South Africa,Willowmoore Park,0,South Africa
+26,3.7,6,IA Nicolson,2010-10-22,1st,HM Amla,16,,GC Smith,17,South Africa,Zimbabwe,37,South Africa,Willowmoore Park,0,South Africa
+27,3.8,4,IA Nicolson,2010-10-22,1st,HM Amla,16,,GC Smith,21,South Africa,Zimbabwe,41,South Africa,Willowmoore Park,0,South Africa
+28,4.1,1,SW Masakadza,2010-10-22,1st,GC Smith,21,,HM Amla,17,South Africa,Zimbabwe,42,South Africa,Willowmoore Park,0,South Africa
+29,4.2,0,SW Masakadza,2010-10-22,1st,HM Amla,17,,GC Smith,21,South Africa,Zimbabwe,42,South Africa,Willowmoore Park,0,South Africa
+30,4.3,1,SW Masakadza,2010-10-22,1st,HM Amla,17,,GC Smith,22,South Africa,Zimbabwe,43,South Africa,Willowmoore Park,0,South Africa
+31,4.4,0,SW Masakadza,2010-10-22,1st,GC Smith,22,,HM Amla,17,South Africa,Zimbabwe,43,South Africa,Willowmoore Park,0,South Africa
+32,4.5,4,SW Masakadza,2010-10-22,1st,GC Smith,22,,HM Amla,21,South Africa,Zimbabwe,47,South Africa,Willowmoore Park,0,South Africa
+33,4.6,2,SW Masakadza,2010-10-22,1st,GC Smith,22,,HM Amla,23,South Africa,Zimbabwe,49,South Africa,Willowmoore Park,0,South Africa
+34,5.1,0,P Utseya,2010-10-22,1st,HM Amla,23,,GC Smith,22,South Africa,Zimbabwe,49,South Africa,Willowmoore Park,0,South Africa
+35,5.2,4,P Utseya,2010-10-22,1st,HM Amla,23,,GC Smith,26,South Africa,Zimbabwe,53,South Africa,Willowmoore Park,0,South Africa
+36,5.3,0,P Utseya,2010-10-22,1st,HM Amla,23,GC Smith,GC Smith,26,South Africa,Zimbabwe,53,South Africa,Willowmoore Park,1,South Africa
+37,5.4,0,P Utseya,2010-10-22,1st,HM Amla,23,,JP Duminy,0,South Africa,Zimbabwe,53,South Africa,Willowmoore Park,1,South Africa
+38,5.5,0,P Utseya,2010-10-22,1st,HM Amla,23,,JP Duminy,0,South Africa,Zimbabwe,53,South Africa,Willowmoore Park,1,South Africa
+39,5.6,0,P Utseya,2010-10-22,1st,HM Amla,23,,JP Duminy,0,South Africa,Zimbabwe,53,South Africa,Willowmoore Park,1,South Africa
+40,6.1,1,SW Masakadza,2010-10-22,1st,JP Duminy,0,,HM Amla,24,South Africa,Zimbabwe,54,South Africa,Willowmoore Park,1,South Africa
+41,6.2,0,SW Masakadza,2010-10-22,1st,HM Amla,24,,JP Duminy,0,South Africa,Zimbabwe,54,South Africa,Willowmoore Park,1,South Africa
+42,6.3,0,SW Masakadza,2010-10-22,1st,HM Amla,24,,JP Duminy,0,South Africa,Zimbabwe,54,South Africa,Willowmoore Park,1,South Africa
+43,6.4,4,SW Masakadza,2010-10-22,1st,HM Amla,24,,JP Duminy,4,South Africa,Zimbabwe,58,South Africa,Willowmoore Park,1,South Africa
+44,6.5,1,SW Masakadza,2010-10-22,1st,HM Amla,24,,JP Duminy,5,South Africa,Zimbabwe,59,South Africa,Willowmoore Park,1,South Africa
+45,6.6,0,SW Masakadza,2010-10-22,1st,JP Duminy,5,HM Amla,HM Amla,24,South Africa,Zimbabwe,59,South Africa,Willowmoore Park,2,South Africa
+46,7.1,1,P Utseya,2010-10-22,1st,AB de Villiers,0,,JP Duminy,6,South Africa,Zimbabwe,60,South Africa,Willowmoore Park,2,South Africa
+47,7.2,1,P Utseya,2010-10-22,1st,JP Duminy,6,,AB de Villiers,1,South Africa,Zimbabwe,61,South Africa,Willowmoore Park,2,South Africa
+48,7.3,0,P Utseya,2010-10-22,1st,AB de Villiers,1,,JP Duminy,6,South Africa,Zimbabwe,61,South Africa,Willowmoore Park,2,South Africa
+49,7.4,2,P Utseya,2010-10-22,1st,AB de Villiers,1,,JP Duminy,8,South Africa,Zimbabwe,63,South Africa,Willowmoore Park,2,South Africa
+50,7.5,0,P Utseya,2010-10-22,1st,AB de Villiers,1,,JP Duminy,8,South Africa,Zimbabwe,63,South Africa,Willowmoore Park,2,South Africa
+51,7.6,1,P Utseya,2010-10-22,1st,AB de Villiers,1,,JP Duminy,9,South Africa,Zimbabwe,64,South Africa,Willowmoore Park,2,South Africa
+52,8.1,0,SW Masakadza,2010-10-22,1st,AB de Villiers,1,,JP Duminy,9,South Africa,Zimbabwe,64,South Africa,Willowmoore Park,2,South Africa
+53,8.2,1,SW Masakadza,2010-10-22,1st,AB de Villiers,1,,JP Duminy,10,South Africa,Zimbabwe,65,South Africa,Willowmoore Park,2,South Africa
+54,8.3,1,SW Masakadza,2010-10-22,1st,JP Duminy,10,,AB de Villiers,2,South Africa,Zimbabwe,66,South Africa,Willowmoore Park,2,South Africa
+55,8.4,0,SW Masakadza,2010-10-22,1st,AB de Villiers,2,,JP Duminy,10,South Africa,Zimbabwe,66,South Africa,Willowmoore Park,2,South Africa
+56,8.5,0,SW Masakadza,2010-10-22,1st,AB de Villiers,2,,JP Duminy,10,South Africa,Zimbabwe,66,South Africa,Willowmoore Park,2,South Africa
+57,8.6,4,SW Masakadza,2010-10-22,1st,AB de Villiers,2,,JP Duminy,14,South Africa,Zimbabwe,70,South Africa,Willowmoore Park,2,South Africa
+58,9.1,1,P Utseya,2010-10-22,1st,JP Duminy,14,,AB de Villiers,3,South Africa,Zimbabwe,71,South Africa,Willowmoore Park,2,South Africa
+59,9.2,4,P Utseya,2010-10-22,1st,AB de Villiers,3,,JP Duminy,18,South Africa,Zimbabwe,75,South Africa,Willowmoore Park,2,South Africa
+60,9.3,1,P Utseya,2010-10-22,1st,AB de Villiers,3,,JP Duminy,19,South Africa,Zimbabwe,76,South Africa,Willowmoore Park,2,South Africa
+61,9.4,0,P Utseya,2010-10-22,1st,JP Duminy,19,,AB de Villiers,3,South Africa,Zimbabwe,76,South Africa,Willowmoore Park,2,South Africa
+62,9.5,0,P Utseya,2010-10-22,1st,JP Duminy,19,,AB de Villiers,3,South Africa,Zimbabwe,76,South Africa,Willowmoore Park,2,South Africa
+63,9.6,0,P Utseya,2010-10-22,1st,JP Duminy,19,,AB de Villiers,3,South Africa,Zimbabwe,76,South Africa,Willowmoore Park,2,South Africa
+64,10.1,1,SW Masakadza,2010-10-22,1st,AB de Villiers,3,,JP Duminy,20,South Africa,Zimbabwe,77,South Africa,Willowmoore Park,2,South Africa
+65,10.2,0,SW Masakadza,2010-10-22,1st,JP Duminy,20,,AB de Villiers,3,South Africa,Zimbabwe,77,South Africa,Willowmoore Park,2,South Africa
+66,10.3,1,SW Masakadza,2010-10-22,1st,JP Duminy,20,,AB de Villiers,4,South Africa,Zimbabwe,78,South Africa,Willowmoore Park,2,South Africa
+67,10.4,1,SW Masakadza,2010-10-22,1st,AB de Villiers,4,,JP Duminy,21,South Africa,Zimbabwe,79,South Africa,Willowmoore Park,2,South Africa
+68,10.5,1,SW Masakadza,2010-10-22,1st,JP Duminy,21,,AB de Villiers,5,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,2,South Africa
+69,10.6,0,SW Masakadza,2010-10-22,1st,AB de Villiers,5,,JP Duminy,21,South Africa,Zimbabwe,81,South Africa,Willowmoore Park,2,South Africa
+70,10.7,0,SW Masakadza,2010-10-22,1st,AB de Villiers,5,,JP Duminy,21,South Africa,Zimbabwe,82,South Africa,Willowmoore Park,2,South Africa
+71,11.1,0,P Utseya,2010-10-22,1st,AB de Villiers,5,,JP Duminy,21,South Africa,Zimbabwe,82,South Africa,Willowmoore Park,2,South Africa
+72,11.2,0,P Utseya,2010-10-22,1st,AB de Villiers,5,,JP Duminy,21,South Africa,Zimbabwe,82,South Africa,Willowmoore Park,2,South Africa
+73,11.3,0,P Utseya,2010-10-22,1st,AB de Villiers,5,,JP Duminy,21,South Africa,Zimbabwe,82,South Africa,Willowmoore Park,2,South Africa
+74,11.4,1,P Utseya,2010-10-22,1st,AB de Villiers,5,,JP Duminy,22,South Africa,Zimbabwe,83,South Africa,Willowmoore Park,2,South Africa
+75,11.5,0,P Utseya,2010-10-22,1st,JP Duminy,22,,AB de Villiers,5,South Africa,Zimbabwe,83,South Africa,Willowmoore Park,2,South Africa
+76,11.6,1,P Utseya,2010-10-22,1st,JP Duminy,22,,AB de Villiers,6,South Africa,Zimbabwe,84,South Africa,Willowmoore Park,2,South Africa
+77,12.1,1,IA Nicolson,2010-10-22,1st,JP Duminy,22,,AB de Villiers,7,South Africa,Zimbabwe,85,South Africa,Willowmoore Park,2,South Africa
+78,12.2,0,IA Nicolson,2010-10-22,1st,AB de Villiers,7,,JP Duminy,22,South Africa,Zimbabwe,85,South Africa,Willowmoore Park,2,South Africa
+79,12.3,0,IA Nicolson,2010-10-22,1st,AB de Villiers,7,,JP Duminy,22,South Africa,Zimbabwe,85,South Africa,Willowmoore Park,2,South Africa
+80,12.4,1,IA Nicolson,2010-10-22,1st,AB de Villiers,7,,JP Duminy,23,South Africa,Zimbabwe,86,South Africa,Willowmoore Park,2,South Africa
+81,12.5,0,IA Nicolson,2010-10-22,1st,JP Duminy,23,,AB de Villiers,7,South Africa,Zimbabwe,86,South Africa,Willowmoore Park,2,South Africa
+82,12.6,0,IA Nicolson,2010-10-22,1st,JP Duminy,23,,AB de Villiers,7,South Africa,Zimbabwe,86,South Africa,Willowmoore Park,2,South Africa
+83,13.1,1,P Utseya,2010-10-22,1st,AB de Villiers,7,,JP Duminy,24,South Africa,Zimbabwe,87,South Africa,Willowmoore Park,2,South Africa
+84,13.2,1,P Utseya,2010-10-22,1st,JP Duminy,24,,AB de Villiers,8,South Africa,Zimbabwe,88,South Africa,Willowmoore Park,2,South Africa
+85,13.3,1,P Utseya,2010-10-22,1st,AB de Villiers,8,,JP Duminy,25,South Africa,Zimbabwe,89,South Africa,Willowmoore Park,2,South Africa
+86,13.4,0,P Utseya,2010-10-22,1st,JP Duminy,25,,AB de Villiers,8,South Africa,Zimbabwe,89,South Africa,Willowmoore Park,2,South Africa
+87,13.5,1,P Utseya,2010-10-22,1st,JP Duminy,25,,AB de Villiers,9,South Africa,Zimbabwe,90,South Africa,Willowmoore Park,2,South Africa
+88,13.6,1,P Utseya,2010-10-22,1st,AB de Villiers,9,,JP Duminy,26,South Africa,Zimbabwe,91,South Africa,Willowmoore Park,2,South Africa
+89,14.1,1,IA Nicolson,2010-10-22,1st,AB de Villiers,9,,JP Duminy,27,South Africa,Zimbabwe,92,South Africa,Willowmoore Park,2,South Africa
+90,14.2,0,IA Nicolson,2010-10-22,1st,JP Duminy,27,,AB de Villiers,9,South Africa,Zimbabwe,92,South Africa,Willowmoore Park,2,South Africa
+91,14.3,1,IA Nicolson,2010-10-22,1st,JP Duminy,27,,AB de Villiers,10,South Africa,Zimbabwe,93,South Africa,Willowmoore Park,2,South Africa
+92,14.4,4,IA Nicolson,2010-10-22,1st,AB de Villiers,10,,JP Duminy,31,South Africa,Zimbabwe,97,South Africa,Willowmoore Park,2,South Africa
+93,14.5,1,IA Nicolson,2010-10-22,1st,AB de Villiers,10,,JP Duminy,32,South Africa,Zimbabwe,98,South Africa,Willowmoore Park,2,South Africa
+94,14.6,1,IA Nicolson,2010-10-22,1st,JP Duminy,32,,AB de Villiers,11,South Africa,Zimbabwe,99,South Africa,Willowmoore Park,2,South Africa
+95,15.1,0,P Utseya,2010-10-22,1st,JP Duminy,32,,AB de Villiers,11,South Africa,Zimbabwe,99,South Africa,Willowmoore Park,2,South Africa
+96,15.2,0,P Utseya,2010-10-22,1st,JP Duminy,32,,AB de Villiers,11,South Africa,Zimbabwe,99,South Africa,Willowmoore Park,2,South Africa
+97,15.3,0,P Utseya,2010-10-22,1st,JP Duminy,32,,AB de Villiers,11,South Africa,Zimbabwe,99,South Africa,Willowmoore Park,2,South Africa
+98,15.4,1,P Utseya,2010-10-22,1st,JP Duminy,32,,AB de Villiers,12,South Africa,Zimbabwe,100,South Africa,Willowmoore Park,2,South Africa
+99,15.5,1,P Utseya,2010-10-22,1st,AB de Villiers,12,,JP Duminy,33,South Africa,Zimbabwe,101,South Africa,Willowmoore Park,2,South Africa
+100,15.6,1,P Utseya,2010-10-22,1st,JP Duminy,33,,AB de Villiers,13,South Africa,Zimbabwe,102,South Africa,Willowmoore Park,2,South Africa
+101,16.1,4,IA Nicolson,2010-10-22,1st,JP Duminy,33,,AB de Villiers,17,South Africa,Zimbabwe,106,South Africa,Willowmoore Park,2,South Africa
+102,16.2,0,IA Nicolson,2010-10-22,1st,JP Duminy,33,,AB de Villiers,17,South Africa,Zimbabwe,106,South Africa,Willowmoore Park,2,South Africa
+103,16.3,4,IA Nicolson,2010-10-22,1st,JP Duminy,33,,AB de Villiers,21,South Africa,Zimbabwe,110,South Africa,Willowmoore Park,2,South Africa
+104,16.4,0,IA Nicolson,2010-10-22,1st,JP Duminy,33,,AB de Villiers,21,South Africa,Zimbabwe,110,South Africa,Willowmoore Park,2,South Africa
+105,16.5,4,IA Nicolson,2010-10-22,1st,JP Duminy,33,,AB de Villiers,25,South Africa,Zimbabwe,114,South Africa,Willowmoore Park,2,South Africa
+106,16.6,1,IA Nicolson,2010-10-22,1st,JP Duminy,33,,AB de Villiers,26,South Africa,Zimbabwe,115,South Africa,Willowmoore Park,2,South Africa
+107,17.1,0,KM Dabengwa,2010-10-22,1st,JP Duminy,33,,AB de Villiers,26,South Africa,Zimbabwe,115,South Africa,Willowmoore Park,2,South Africa
+108,17.2,1,KM Dabengwa,2010-10-22,1st,JP Duminy,33,,AB de Villiers,27,South Africa,Zimbabwe,116,South Africa,Willowmoore Park,2,South Africa
+109,17.3,0,KM Dabengwa,2010-10-22,1st,AB de Villiers,27,,JP Duminy,33,South Africa,Zimbabwe,116,South Africa,Willowmoore Park,2,South Africa
+110,17.4,2,KM Dabengwa,2010-10-22,1st,AB de Villiers,27,,JP Duminy,35,South Africa,Zimbabwe,118,South Africa,Willowmoore Park,2,South Africa
+111,17.5,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,27,,JP Duminy,36,South Africa,Zimbabwe,119,South Africa,Willowmoore Park,2,South Africa
+112,17.6,0,KM Dabengwa,2010-10-22,1st,JP Duminy,36,,AB de Villiers,27,South Africa,Zimbabwe,119,South Africa,Willowmoore Park,2,South Africa
+113,18.1,1,AG Cremer,2010-10-22,1st,AB de Villiers,27,,JP Duminy,37,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,2,South Africa
+114,18.2,0,AG Cremer,2010-10-22,1st,JP Duminy,37,,AB de Villiers,27,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,2,South Africa
+115,18.3,0,AG Cremer,2010-10-22,1st,JP Duminy,37,,AB de Villiers,27,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,2,South Africa
+116,18.4,0,AG Cremer,2010-10-22,1st,JP Duminy,37,,AB de Villiers,27,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,2,South Africa
+117,18.5,0,AG Cremer,2010-10-22,1st,JP Duminy,37,,AB de Villiers,27,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,2,South Africa
+118,18.6,0,AG Cremer,2010-10-22,1st,JP Duminy,37,,AB de Villiers,27,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,2,South Africa
+119,19.1,0,KM Dabengwa,2010-10-22,1st,AB de Villiers,27,,JP Duminy,37,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,2,South Africa
+120,19.2,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,27,,JP Duminy,38,South Africa,Zimbabwe,121,South Africa,Willowmoore Park,2,South Africa
+121,19.3,1,KM Dabengwa,2010-10-22,1st,JP Duminy,38,,AB de Villiers,28,South Africa,Zimbabwe,122,South Africa,Willowmoore Park,2,South Africa
+122,19.4,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,28,,JP Duminy,39,South Africa,Zimbabwe,123,South Africa,Willowmoore Park,2,South Africa
+123,19.5,1,KM Dabengwa,2010-10-22,1st,JP Duminy,39,,AB de Villiers,29,South Africa,Zimbabwe,124,South Africa,Willowmoore Park,2,South Africa
+124,19.6,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,29,,JP Duminy,40,South Africa,Zimbabwe,125,South Africa,Willowmoore Park,2,South Africa
+125,20.1,1,AG Cremer,2010-10-22,1st,AB de Villiers,29,,JP Duminy,41,South Africa,Zimbabwe,126,South Africa,Willowmoore Park,2,South Africa
+126,20.2,1,AG Cremer,2010-10-22,1st,JP Duminy,41,,AB de Villiers,30,South Africa,Zimbabwe,127,South Africa,Willowmoore Park,2,South Africa
+127,20.3,1,AG Cremer,2010-10-22,1st,AB de Villiers,30,,JP Duminy,42,South Africa,Zimbabwe,128,South Africa,Willowmoore Park,2,South Africa
+128,20.4,0,AG Cremer,2010-10-22,1st,JP Duminy,42,,AB de Villiers,30,South Africa,Zimbabwe,128,South Africa,Willowmoore Park,2,South Africa
+129,20.5,1,AG Cremer,2010-10-22,1st,JP Duminy,42,,AB de Villiers,31,South Africa,Zimbabwe,129,South Africa,Willowmoore Park,2,South Africa
+130,20.6,0,AG Cremer,2010-10-22,1st,AB de Villiers,31,,JP Duminy,42,South Africa,Zimbabwe,129,South Africa,Willowmoore Park,2,South Africa
+131,21.1,1,KM Dabengwa,2010-10-22,1st,JP Duminy,42,,AB de Villiers,32,South Africa,Zimbabwe,130,South Africa,Willowmoore Park,2,South Africa
+132,21.2,0,KM Dabengwa,2010-10-22,1st,AB de Villiers,32,,JP Duminy,42,South Africa,Zimbabwe,130,South Africa,Willowmoore Park,2,South Africa
+133,21.3,0,KM Dabengwa,2010-10-22,1st,AB de Villiers,32,,JP Duminy,42,South Africa,Zimbabwe,130,South Africa,Willowmoore Park,2,South Africa
+134,21.4,0,KM Dabengwa,2010-10-22,1st,AB de Villiers,32,,JP Duminy,42,South Africa,Zimbabwe,130,South Africa,Willowmoore Park,2,South Africa
+135,21.5,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,32,,JP Duminy,43,South Africa,Zimbabwe,131,South Africa,Willowmoore Park,2,South Africa
+136,21.6,0,KM Dabengwa,2010-10-22,1st,JP Duminy,43,,AB de Villiers,32,South Africa,Zimbabwe,131,South Africa,Willowmoore Park,2,South Africa
+137,22.1,6,AG Cremer,2010-10-22,1st,AB de Villiers,32,,JP Duminy,49,South Africa,Zimbabwe,137,South Africa,Willowmoore Park,2,South Africa
+138,22.2,2,AG Cremer,2010-10-22,1st,AB de Villiers,32,,JP Duminy,51,South Africa,Zimbabwe,139,South Africa,Willowmoore Park,2,South Africa
+139,22.3,1,AG Cremer,2010-10-22,1st,AB de Villiers,32,,JP Duminy,52,South Africa,Zimbabwe,140,South Africa,Willowmoore Park,2,South Africa
+140,22.4,4,AG Cremer,2010-10-22,1st,JP Duminy,52,,AB de Villiers,36,South Africa,Zimbabwe,144,South Africa,Willowmoore Park,2,South Africa
+141,22.5,4,AG Cremer,2010-10-22,1st,JP Duminy,52,,AB de Villiers,40,South Africa,Zimbabwe,148,South Africa,Willowmoore Park,2,South Africa
+142,22.6,1,AG Cremer,2010-10-22,1st,JP Duminy,52,,AB de Villiers,41,South Africa,Zimbabwe,149,South Africa,Willowmoore Park,2,South Africa
+143,23.1,6,KM Dabengwa,2010-10-22,1st,JP Duminy,52,,AB de Villiers,47,South Africa,Zimbabwe,155,South Africa,Willowmoore Park,2,South Africa
+144,23.2,0,KM Dabengwa,2010-10-22,1st,JP Duminy,52,,AB de Villiers,47,South Africa,Zimbabwe,155,South Africa,Willowmoore Park,2,South Africa
+145,23.3,1,KM Dabengwa,2010-10-22,1st,JP Duminy,52,,AB de Villiers,48,South Africa,Zimbabwe,156,South Africa,Willowmoore Park,2,South Africa
+146,23.4,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,48,,JP Duminy,53,South Africa,Zimbabwe,157,South Africa,Willowmoore Park,2,South Africa
+147,23.5,1,KM Dabengwa,2010-10-22,1st,JP Duminy,53,,AB de Villiers,49,South Africa,Zimbabwe,158,South Africa,Willowmoore Park,2,South Africa
+148,23.6,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,49,,JP Duminy,54,South Africa,Zimbabwe,159,South Africa,Willowmoore Park,2,South Africa
+149,24.1,1,AG Cremer,2010-10-22,1st,AB de Villiers,49,,JP Duminy,55,South Africa,Zimbabwe,160,South Africa,Willowmoore Park,2,South Africa
+150,24.2,1,AG Cremer,2010-10-22,1st,JP Duminy,55,,AB de Villiers,50,South Africa,Zimbabwe,161,South Africa,Willowmoore Park,2,South Africa
+151,24.3,0,AG Cremer,2010-10-22,1st,AB de Villiers,50,,JP Duminy,55,South Africa,Zimbabwe,161,South Africa,Willowmoore Park,2,South Africa
+152,24.4,0,AG Cremer,2010-10-22,1st,AB de Villiers,50,,JP Duminy,55,South Africa,Zimbabwe,161,South Africa,Willowmoore Park,2,South Africa
+153,24.5,1,AG Cremer,2010-10-22,1st,AB de Villiers,50,,JP Duminy,56,South Africa,Zimbabwe,162,South Africa,Willowmoore Park,2,South Africa
+154,24.6,1,AG Cremer,2010-10-22,1st,JP Duminy,56,,AB de Villiers,51,South Africa,Zimbabwe,163,South Africa,Willowmoore Park,2,South Africa
+155,25.1,0,CJ Chibhabha,2010-10-22,1st,JP Duminy,56,,AB de Villiers,51,South Africa,Zimbabwe,163,South Africa,Willowmoore Park,2,South Africa
+156,25.2,1,CJ Chibhabha,2010-10-22,1st,JP Duminy,56,,AB de Villiers,52,South Africa,Zimbabwe,164,South Africa,Willowmoore Park,2,South Africa
+157,25.3,2,CJ Chibhabha,2010-10-22,1st,AB de Villiers,52,,JP Duminy,58,South Africa,Zimbabwe,166,South Africa,Willowmoore Park,2,South Africa
+158,25.4,1,CJ Chibhabha,2010-10-22,1st,AB de Villiers,52,,JP Duminy,59,South Africa,Zimbabwe,167,South Africa,Willowmoore Park,2,South Africa
+159,25.5,1,CJ Chibhabha,2010-10-22,1st,JP Duminy,59,,AB de Villiers,53,South Africa,Zimbabwe,168,South Africa,Willowmoore Park,2,South Africa
+160,25.6,0,CJ Chibhabha,2010-10-22,1st,AB de Villiers,53,,JP Duminy,59,South Africa,Zimbabwe,168,South Africa,Willowmoore Park,2,South Africa
+161,26.1,0,AG Cremer,2010-10-22,1st,JP Duminy,59,,AB de Villiers,53,South Africa,Zimbabwe,168,South Africa,Willowmoore Park,2,South Africa
+162,26.2,1,AG Cremer,2010-10-22,1st,JP Duminy,59,,AB de Villiers,54,South Africa,Zimbabwe,169,South Africa,Willowmoore Park,2,South Africa
+163,26.3,1,AG Cremer,2010-10-22,1st,AB de Villiers,54,,JP Duminy,60,South Africa,Zimbabwe,170,South Africa,Willowmoore Park,2,South Africa
+164,26.4,1,AG Cremer,2010-10-22,1st,JP Duminy,60,,AB de Villiers,55,South Africa,Zimbabwe,171,South Africa,Willowmoore Park,2,South Africa
+165,26.5,1,AG Cremer,2010-10-22,1st,AB de Villiers,55,,JP Duminy,61,South Africa,Zimbabwe,172,South Africa,Willowmoore Park,2,South Africa
+166,26.6,6,AG Cremer,2010-10-22,1st,JP Duminy,61,,AB de Villiers,61,South Africa,Zimbabwe,178,South Africa,Willowmoore Park,2,South Africa
+167,27.1,1,CJ Chibhabha,2010-10-22,1st,AB de Villiers,61,,JP Duminy,62,South Africa,Zimbabwe,179,South Africa,Willowmoore Park,2,South Africa
+168,27.2,0,CJ Chibhabha,2010-10-22,1st,JP Duminy,62,,AB de Villiers,61,South Africa,Zimbabwe,179,South Africa,Willowmoore Park,2,South Africa
+169,27.3,6,CJ Chibhabha,2010-10-22,1st,JP Duminy,62,,AB de Villiers,67,South Africa,Zimbabwe,185,South Africa,Willowmoore Park,2,South Africa
+170,27.4,1,CJ Chibhabha,2010-10-22,1st,JP Duminy,62,,AB de Villiers,68,South Africa,Zimbabwe,186,South Africa,Willowmoore Park,2,South Africa
+171,27.5,1,CJ Chibhabha,2010-10-22,1st,AB de Villiers,68,,JP Duminy,63,South Africa,Zimbabwe,187,South Africa,Willowmoore Park,2,South Africa
+172,27.6,1,CJ Chibhabha,2010-10-22,1st,JP Duminy,63,,AB de Villiers,69,South Africa,Zimbabwe,188,South Africa,Willowmoore Park,2,South Africa
+173,28.1,2,E Chigumbura,2010-10-22,1st,JP Duminy,63,,AB de Villiers,71,South Africa,Zimbabwe,190,South Africa,Willowmoore Park,2,South Africa
+174,28.2,1,E Chigumbura,2010-10-22,1st,JP Duminy,63,,AB de Villiers,72,South Africa,Zimbabwe,191,South Africa,Willowmoore Park,2,South Africa
+175,28.3,1,E Chigumbura,2010-10-22,1st,AB de Villiers,72,,JP Duminy,64,South Africa,Zimbabwe,192,South Africa,Willowmoore Park,2,South Africa
+176,28.4,1,E Chigumbura,2010-10-22,1st,JP Duminy,64,,AB de Villiers,73,South Africa,Zimbabwe,193,South Africa,Willowmoore Park,2,South Africa
+177,28.5,0,E Chigumbura,2010-10-22,1st,AB de Villiers,73,,JP Duminy,64,South Africa,Zimbabwe,193,South Africa,Willowmoore Park,2,South Africa
+178,28.6,1,E Chigumbura,2010-10-22,1st,AB de Villiers,73,,JP Duminy,65,South Africa,Zimbabwe,194,South Africa,Willowmoore Park,2,South Africa
+179,29.1,1,CJ Chibhabha,2010-10-22,1st,AB de Villiers,73,,JP Duminy,66,South Africa,Zimbabwe,195,South Africa,Willowmoore Park,2,South Africa
+180,29.2,1,CJ Chibhabha,2010-10-22,1st,JP Duminy,66,,AB de Villiers,74,South Africa,Zimbabwe,196,South Africa,Willowmoore Park,2,South Africa
+181,29.3,1,CJ Chibhabha,2010-10-22,1st,AB de Villiers,74,,JP Duminy,67,South Africa,Zimbabwe,197,South Africa,Willowmoore Park,2,South Africa
+182,29.4,1,CJ Chibhabha,2010-10-22,1st,JP Duminy,67,,AB de Villiers,75,South Africa,Zimbabwe,198,South Africa,Willowmoore Park,2,South Africa
+183,29.5,1,CJ Chibhabha,2010-10-22,1st,AB de Villiers,75,,JP Duminy,68,South Africa,Zimbabwe,199,South Africa,Willowmoore Park,2,South Africa
+184,29.6,0,CJ Chibhabha,2010-10-22,1st,JP Duminy,68,,AB de Villiers,75,South Africa,Zimbabwe,199,South Africa,Willowmoore Park,2,South Africa
+185,30.1,1,E Chigumbura,2010-10-22,1st,AB de Villiers,75,,JP Duminy,69,South Africa,Zimbabwe,200,South Africa,Willowmoore Park,2,South Africa
+186,30.2,1,E Chigumbura,2010-10-22,1st,JP Duminy,69,,AB de Villiers,76,South Africa,Zimbabwe,201,South Africa,Willowmoore Park,2,South Africa
+187,30.3,1,E Chigumbura,2010-10-22,1st,AB de Villiers,76,,JP Duminy,70,South Africa,Zimbabwe,202,South Africa,Willowmoore Park,2,South Africa
+188,30.4,1,E Chigumbura,2010-10-22,1st,JP Duminy,70,,AB de Villiers,77,South Africa,Zimbabwe,203,South Africa,Willowmoore Park,2,South Africa
+189,30.5,1,E Chigumbura,2010-10-22,1st,AB de Villiers,77,,JP Duminy,71,South Africa,Zimbabwe,204,South Africa,Willowmoore Park,2,South Africa
+190,30.6,1,E Chigumbura,2010-10-22,1st,JP Duminy,71,,AB de Villiers,78,South Africa,Zimbabwe,205,South Africa,Willowmoore Park,2,South Africa
+191,31.1,2,P Utseya,2010-10-22,1st,JP Duminy,71,,AB de Villiers,80,South Africa,Zimbabwe,207,South Africa,Willowmoore Park,2,South Africa
+192,31.2,1,P Utseya,2010-10-22,1st,JP Duminy,71,,AB de Villiers,81,South Africa,Zimbabwe,208,South Africa,Willowmoore Park,2,South Africa
+193,31.3,0,P Utseya,2010-10-22,1st,AB de Villiers,81,,JP Duminy,71,South Africa,Zimbabwe,208,South Africa,Willowmoore Park,2,South Africa
+194,31.4,1,P Utseya,2010-10-22,1st,AB de Villiers,81,,JP Duminy,72,South Africa,Zimbabwe,209,South Africa,Willowmoore Park,2,South Africa
+195,31.5,1,P Utseya,2010-10-22,1st,JP Duminy,72,,AB de Villiers,82,South Africa,Zimbabwe,210,South Africa,Willowmoore Park,2,South Africa
+196,31.6,1,P Utseya,2010-10-22,1st,AB de Villiers,82,,JP Duminy,73,South Africa,Zimbabwe,211,South Africa,Willowmoore Park,2,South Africa
+197,32.1,1,E Chigumbura,2010-10-22,1st,AB de Villiers,82,,JP Duminy,74,South Africa,Zimbabwe,212,South Africa,Willowmoore Park,2,South Africa
+198,32.2,1,E Chigumbura,2010-10-22,1st,JP Duminy,74,,AB de Villiers,83,South Africa,Zimbabwe,213,South Africa,Willowmoore Park,2,South Africa
+199,32.3,2,E Chigumbura,2010-10-22,1st,AB de Villiers,83,,JP Duminy,76,South Africa,Zimbabwe,215,South Africa,Willowmoore Park,2,South Africa
+200,32.4,0,E Chigumbura,2010-10-22,1st,AB de Villiers,83,,JP Duminy,76,South Africa,Zimbabwe,215,South Africa,Willowmoore Park,2,South Africa
+201,32.5,1,E Chigumbura,2010-10-22,1st,AB de Villiers,83,,JP Duminy,77,South Africa,Zimbabwe,216,South Africa,Willowmoore Park,2,South Africa
+202,32.6,1,E Chigumbura,2010-10-22,1st,JP Duminy,77,,AB de Villiers,84,South Africa,Zimbabwe,217,South Africa,Willowmoore Park,2,South Africa
+203,33.1,0,P Utseya,2010-10-22,1st,JP Duminy,77,,AB de Villiers,84,South Africa,Zimbabwe,217,South Africa,Willowmoore Park,2,South Africa
+204,33.2,6,P Utseya,2010-10-22,1st,JP Duminy,77,,AB de Villiers,90,South Africa,Zimbabwe,223,South Africa,Willowmoore Park,2,South Africa
+205,33.3,1,P Utseya,2010-10-22,1st,JP Duminy,77,,AB de Villiers,91,South Africa,Zimbabwe,224,South Africa,Willowmoore Park,2,South Africa
+206,33.4,4,P Utseya,2010-10-22,1st,AB de Villiers,91,,JP Duminy,81,South Africa,Zimbabwe,228,South Africa,Willowmoore Park,2,South Africa
+207,33.5,1,P Utseya,2010-10-22,1st,AB de Villiers,91,,JP Duminy,82,South Africa,Zimbabwe,229,South Africa,Willowmoore Park,2,South Africa
+208,33.6,2,P Utseya,2010-10-22,1st,JP Duminy,82,,AB de Villiers,93,South Africa,Zimbabwe,231,South Africa,Willowmoore Park,2,South Africa
+209,34.1,2,E Chigumbura,2010-10-22,1st,AB de Villiers,93,,JP Duminy,84,South Africa,Zimbabwe,233,South Africa,Willowmoore Park,2,South Africa
+210,34.2,1,E Chigumbura,2010-10-22,1st,AB de Villiers,93,,JP Duminy,85,South Africa,Zimbabwe,234,South Africa,Willowmoore Park,2,South Africa
+211,34.3,0,E Chigumbura,2010-10-22,1st,JP Duminy,85,,AB de Villiers,93,South Africa,Zimbabwe,239,South Africa,Willowmoore Park,2,South Africa
+212,34.4,2,E Chigumbura,2010-10-22,1st,JP Duminy,85,,AB de Villiers,95,South Africa,Zimbabwe,241,South Africa,Willowmoore Park,2,South Africa
+213,34.5,1,E Chigumbura,2010-10-22,1st,JP Duminy,85,,AB de Villiers,96,South Africa,Zimbabwe,242,South Africa,Willowmoore Park,2,South Africa
+214,34.6,1,E Chigumbura,2010-10-22,1st,AB de Villiers,96,,JP Duminy,86,South Africa,Zimbabwe,243,South Africa,Willowmoore Park,2,South Africa
+215,34.7,1,E Chigumbura,2010-10-22,1st,JP Duminy,86,,AB de Villiers,97,South Africa,Zimbabwe,244,South Africa,Willowmoore Park,2,South Africa
+216,35.1,1,KM Dabengwa,2010-10-22,1st,JP Duminy,86,,AB de Villiers,98,South Africa,Zimbabwe,245,South Africa,Willowmoore Park,2,South Africa
+217,35.2,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,98,,JP Duminy,87,South Africa,Zimbabwe,246,South Africa,Willowmoore Park,2,South Africa
+218,35.3,1,KM Dabengwa,2010-10-22,1st,JP Duminy,87,,AB de Villiers,99,South Africa,Zimbabwe,247,South Africa,Willowmoore Park,2,South Africa
+219,35.4,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,99,,JP Duminy,88,South Africa,Zimbabwe,248,South Africa,Willowmoore Park,2,South Africa
+220,35.5,0,KM Dabengwa,2010-10-22,1st,JP Duminy,88,,AB de Villiers,99,South Africa,Zimbabwe,248,South Africa,Willowmoore Park,2,South Africa
+221,35.6,1,KM Dabengwa,2010-10-22,1st,JP Duminy,88,,AB de Villiers,100,South Africa,Zimbabwe,249,South Africa,Willowmoore Park,2,South Africa
+222,36.1,1,E Chigumbura,2010-10-22,1st,JP Duminy,88,,AB de Villiers,101,South Africa,Zimbabwe,250,South Africa,Willowmoore Park,2,South Africa
+223,36.2,0,E Chigumbura,2010-10-22,1st,AB de Villiers,101,,JP Duminy,88,South Africa,Zimbabwe,254,South Africa,Willowmoore Park,2,South Africa
+224,36.3,0,E Chigumbura,2010-10-22,1st,AB de Villiers,101,,JP Duminy,88,South Africa,Zimbabwe,255,South Africa,Willowmoore Park,2,South Africa
+225,36.4,0,E Chigumbura,2010-10-22,1st,JP Duminy,88,,AB de Villiers,101,South Africa,Zimbabwe,255,South Africa,Willowmoore Park,2,South Africa
+226,36.5,6,E Chigumbura,2010-10-22,1st,JP Duminy,88,,AB de Villiers,107,South Africa,Zimbabwe,261,South Africa,Willowmoore Park,2,South Africa
+227,36.6,0,E Chigumbura,2010-10-22,1st,JP Duminy,88,,AB de Villiers,107,South Africa,Zimbabwe,261,South Africa,Willowmoore Park,2,South Africa
+228,37.1,6,KM Dabengwa,2010-10-22,1st,AB de Villiers,107,,JP Duminy,94,South Africa,Zimbabwe,267,South Africa,Willowmoore Park,2,South Africa
+229,37.2,0,KM Dabengwa,2010-10-22,1st,AB de Villiers,107,,JP Duminy,94,South Africa,Zimbabwe,268,South Africa,Willowmoore Park,2,South Africa
+230,37.3,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,107,,JP Duminy,95,South Africa,Zimbabwe,269,South Africa,Willowmoore Park,2,South Africa
+231,37.4,1,KM Dabengwa,2010-10-22,1st,JP Duminy,95,,AB de Villiers,108,South Africa,Zimbabwe,270,South Africa,Willowmoore Park,2,South Africa
+232,37.5,4,KM Dabengwa,2010-10-22,1st,AB de Villiers,108,,JP Duminy,99,South Africa,Zimbabwe,274,South Africa,Willowmoore Park,2,South Africa
+233,37.6,1,KM Dabengwa,2010-10-22,1st,AB de Villiers,108,,JP Duminy,100,South Africa,Zimbabwe,275,South Africa,Willowmoore Park,2,South Africa
+234,37.7,0,KM Dabengwa,2010-10-22,1st,JP Duminy,100,,AB de Villiers,108,South Africa,Zimbabwe,276,South Africa,Willowmoore Park,2,South Africa
+235,38.1,1,H Masakadza,2010-10-22,1st,JP Duminy,100,,AB de Villiers,109,South Africa,Zimbabwe,277,South Africa,Willowmoore Park,2,South Africa
+236,38.2,0,H Masakadza,2010-10-22,1st,AB de Villiers,109,,JP Duminy,100,South Africa,Zimbabwe,277,South Africa,Willowmoore Park,2,South Africa
+237,38.3,1,H Masakadza,2010-10-22,1st,AB de Villiers,109,,JP Duminy,101,South Africa,Zimbabwe,278,South Africa,Willowmoore Park,2,South Africa
+238,38.4,0,H Masakadza,2010-10-22,1st,JP Duminy,101,AB de Villiers,AB de Villiers,109,South Africa,Zimbabwe,278,South Africa,Willowmoore Park,3,South Africa
+239,38.5,1,H Masakadza,2010-10-22,1st,JA Morkel,0,,JP Duminy,102,South Africa,Zimbabwe,279,South Africa,Willowmoore Park,3,South Africa
+240,38.6,1,H Masakadza,2010-10-22,1st,JP Duminy,102,,JA Morkel,1,South Africa,Zimbabwe,280,South Africa,Willowmoore Park,3,South Africa
+241,39.1,0,P Utseya,2010-10-22,1st,JP Duminy,102,,JA Morkel,1,South Africa,Zimbabwe,280,South Africa,Willowmoore Park,3,South Africa
+242,39.2,1,P Utseya,2010-10-22,1st,JP Duminy,102,,JA Morkel,2,South Africa,Zimbabwe,281,South Africa,Willowmoore Park,3,South Africa
+243,39.3,1,P Utseya,2010-10-22,1st,JA Morkel,2,,JP Duminy,103,South Africa,Zimbabwe,282,South Africa,Willowmoore Park,3,South Africa
+244,39.4,1,P Utseya,2010-10-22,1st,JP Duminy,103,,JA Morkel,3,South Africa,Zimbabwe,283,South Africa,Willowmoore Park,3,South Africa
+245,39.5,1,P Utseya,2010-10-22,1st,JA Morkel,3,,JP Duminy,104,South Africa,Zimbabwe,284,South Africa,Willowmoore Park,3,South Africa
+246,39.6,1,P Utseya,2010-10-22,1st,JP Duminy,104,,JA Morkel,4,South Africa,Zimbabwe,285,South Africa,Willowmoore Park,3,South Africa
+247,40.1,1,SW Masakadza,2010-10-22,1st,JP Duminy,104,,JA Morkel,5,South Africa,Zimbabwe,286,South Africa,Willowmoore Park,3,South Africa
+248,40.2,6,SW Masakadza,2010-10-22,1st,JA Morkel,5,,JP Duminy,110,South Africa,Zimbabwe,292,South Africa,Willowmoore Park,3,South Africa
+249,40.3,0,SW Masakadza,2010-10-22,1st,JA Morkel,5,,JP Duminy,110,South Africa,Zimbabwe,292,South Africa,Willowmoore Park,3,South Africa
+250,40.4,2,SW Masakadza,2010-10-22,1st,JA Morkel,5,,JP Duminy,112,South Africa,Zimbabwe,294,South Africa,Willowmoore Park,3,South Africa
+251,40.5,1,SW Masakadza,2010-10-22,1st,JA Morkel,5,,JP Duminy,113,South Africa,Zimbabwe,295,South Africa,Willowmoore Park,3,South Africa
+252,40.6,4,SW Masakadza,2010-10-22,1st,JP Duminy,113,,JA Morkel,9,South Africa,Zimbabwe,299,South Africa,Willowmoore Park,3,South Africa
+253,41.1,0,P Utseya,2010-10-22,1st,JA Morkel,9,,JP Duminy,113,South Africa,Zimbabwe,300,South Africa,Willowmoore Park,3,South Africa
+254,41.2,4,P Utseya,2010-10-22,1st,JA Morkel,9,,JP Duminy,117,South Africa,Zimbabwe,304,South Africa,Willowmoore Park,3,South Africa
+255,41.3,1,P Utseya,2010-10-22,1st,JA Morkel,9,,JP Duminy,118,South Africa,Zimbabwe,305,South Africa,Willowmoore Park,3,South Africa
+256,41.4,1,P Utseya,2010-10-22,1st,JP Duminy,118,,JA Morkel,10,South Africa,Zimbabwe,306,South Africa,Willowmoore Park,3,South Africa
+257,41.5,0,P Utseya,2010-10-22,1st,JA Morkel,10,,JP Duminy,118,South Africa,Zimbabwe,306,South Africa,Willowmoore Park,3,South Africa
+258,41.6,1,P Utseya,2010-10-22,1st,JA Morkel,10,,JP Duminy,119,South Africa,Zimbabwe,307,South Africa,Willowmoore Park,3,South Africa
+259,41.7,0,P Utseya,2010-10-22,1st,JP Duminy,119,,JA Morkel,10,South Africa,Zimbabwe,307,South Africa,Willowmoore Park,3,South Africa
+260,42.1,0,SW Masakadza,2010-10-22,1st,JA Morkel,10,,JP Duminy,119,South Africa,Zimbabwe,307,South Africa,Willowmoore Park,3,South Africa
+261,42.2,1,SW Masakadza,2010-10-22,1st,JA Morkel,10,,JP Duminy,120,South Africa,Zimbabwe,308,South Africa,Willowmoore Park,3,South Africa
+262,42.3,1,SW Masakadza,2010-10-22,1st,JP Duminy,120,,JA Morkel,11,South Africa,Zimbabwe,309,South Africa,Willowmoore Park,3,South Africa
+263,42.4,1,SW Masakadza,2010-10-22,1st,JA Morkel,11,,JP Duminy,121,South Africa,Zimbabwe,310,South Africa,Willowmoore Park,3,South Africa
+264,42.5,4,SW Masakadza,2010-10-22,1st,JP Duminy,121,,JA Morkel,15,South Africa,Zimbabwe,314,South Africa,Willowmoore Park,3,South Africa
+265,42.6,6,SW Masakadza,2010-10-22,1st,JP Duminy,121,,JA Morkel,21,South Africa,Zimbabwe,320,South Africa,Willowmoore Park,3,South Africa
+266,43.1,0,IA Nicolson,2010-10-22,1st,JA Morkel,21,,JP Duminy,121,South Africa,Zimbabwe,320,South Africa,Willowmoore Park,3,South Africa
+267,43.2,6,IA Nicolson,2010-10-22,1st,JA Morkel,21,,JP Duminy,127,South Africa,Zimbabwe,326,South Africa,Willowmoore Park,3,South Africa
+268,43.3,0,IA Nicolson,2010-10-22,1st,JA Morkel,21,,JP Duminy,127,South Africa,Zimbabwe,326,South Africa,Willowmoore Park,3,South Africa
+269,43.4,2,IA Nicolson,2010-10-22,1st,JA Morkel,21,,JP Duminy,129,South Africa,Zimbabwe,328,South Africa,Willowmoore Park,3,South Africa
+270,43.5,0,IA Nicolson,2010-10-22,1st,JA Morkel,21,JP Duminy,JP Duminy,129,South Africa,Zimbabwe,328,South Africa,Willowmoore Park,4,South Africa
+271,43.6,0,IA Nicolson,2010-10-22,1st,DA Miller,0,,JA Morkel,21,South Africa,Zimbabwe,328,South Africa,Willowmoore Park,4,South Africa
+272,44.1,0,BRM Taylor,2010-10-22,1st,JA Morkel,21,,DA Miller,0,South Africa,Zimbabwe,328,South Africa,Willowmoore Park,4,South Africa
+273,44.2,1,BRM Taylor,2010-10-22,1st,JA Morkel,21,,DA Miller,1,South Africa,Zimbabwe,329,South Africa,Willowmoore Park,4,South Africa
+274,44.3,4,BRM Taylor,2010-10-22,1st,DA Miller,1,,JA Morkel,25,South Africa,Zimbabwe,333,South Africa,Willowmoore Park,4,South Africa
+275,44.4,1,BRM Taylor,2010-10-22,1st,DA Miller,1,,JA Morkel,26,South Africa,Zimbabwe,334,South Africa,Willowmoore Park,4,South Africa
+276,44.5,0,BRM Taylor,2010-10-22,1st,JA Morkel,26,,DA Miller,1,South Africa,Zimbabwe,334,South Africa,Willowmoore Park,4,South Africa
+277,44.6,4,BRM Taylor,2010-10-22,1st,JA Morkel,26,,DA Miller,5,South Africa,Zimbabwe,338,South Africa,Willowmoore Park,4,South Africa
+278,45.1,4,IA Nicolson,2010-10-22,1st,DA Miller,5,,JA Morkel,30,South Africa,Zimbabwe,342,South Africa,Willowmoore Park,4,South Africa
+279,45.2,1,IA Nicolson,2010-10-22,1st,DA Miller,5,,JA Morkel,31,South Africa,Zimbabwe,343,South Africa,Willowmoore Park,4,South Africa
+280,45.3,4,IA Nicolson,2010-10-22,1st,JA Morkel,31,,DA Miller,9,South Africa,Zimbabwe,347,South Africa,Willowmoore Park,4,South Africa
+281,45.4,0,IA Nicolson,2010-10-22,1st,JA Morkel,31,,DA Miller,9,South Africa,Zimbabwe,347,South Africa,Willowmoore Park,4,South Africa
+282,45.5,1,IA Nicolson,2010-10-22,1st,JA Morkel,31,,DA Miller,10,South Africa,Zimbabwe,348,South Africa,Willowmoore Park,4,South Africa
+283,45.6,1,IA Nicolson,2010-10-22,1st,DA Miller,10,,JA Morkel,32,South Africa,Zimbabwe,349,South Africa,Willowmoore Park,4,South Africa
+284,46.1,4,SW Masakadza,2010-10-22,1st,DA Miller,10,,JA Morkel,36,South Africa,Zimbabwe,353,South Africa,Willowmoore Park,4,South Africa
+285,46.2,1,SW Masakadza,2010-10-22,1st,DA Miller,10,,JA Morkel,37,South Africa,Zimbabwe,354,South Africa,Willowmoore Park,4,South Africa
+286,46.3,1,SW Masakadza,2010-10-22,1st,JA Morkel,37,,DA Miller,11,South Africa,Zimbabwe,355,South Africa,Willowmoore Park,4,South Africa
+287,46.4,0,SW Masakadza,2010-10-22,1st,DA Miller,11,JA Morkel,JA Morkel,37,South Africa,Zimbabwe,355,South Africa,Willowmoore Park,5,South Africa
+288,46.5,2,SW Masakadza,2010-10-22,1st,CA Ingram,0,,DA Miller,13,South Africa,Zimbabwe,357,South Africa,Willowmoore Park,5,South Africa
+289,46.6,6,SW Masakadza,2010-10-22,1st,CA Ingram,0,,DA Miller,19,South Africa,Zimbabwe,363,South Africa,Willowmoore Park,5,South Africa
+290,47.1,1,E Chigumbura,2010-10-22,1st,DA Miller,19,,CA Ingram,1,South Africa,Zimbabwe,364,South Africa,Willowmoore Park,5,South Africa
+291,47.2,1,E Chigumbura,2010-10-22,1st,CA Ingram,1,,DA Miller,20,South Africa,Zimbabwe,365,South Africa,Willowmoore Park,5,South Africa
+292,47.3,1,E Chigumbura,2010-10-22,1st,DA Miller,20,,CA Ingram,2,South Africa,Zimbabwe,366,South Africa,Willowmoore Park,5,South Africa
+293,47.4,2,E Chigumbura,2010-10-22,1st,CA Ingram,2,,DA Miller,22,South Africa,Zimbabwe,368,South Africa,Willowmoore Park,5,South Africa
+294,47.5,1,E Chigumbura,2010-10-22,1st,CA Ingram,2,,DA Miller,23,South Africa,Zimbabwe,369,South Africa,Willowmoore Park,5,South Africa
+295,47.6,0,E Chigumbura,2010-10-22,1st,DA Miller,23,,CA Ingram,2,South Africa,Zimbabwe,370,South Africa,Willowmoore Park,5,South Africa
+296,47.7,1,E Chigumbura,2010-10-22,1st,DA Miller,23,,CA Ingram,3,South Africa,Zimbabwe,371,South Africa,Willowmoore Park,5,South Africa
+297,48.1,6,SW Masakadza,2010-10-22,1st,DA Miller,23,,CA Ingram,9,South Africa,Zimbabwe,377,South Africa,Willowmoore Park,5,South Africa
+298,48.2,4,SW Masakadza,2010-10-22,1st,DA Miller,23,,CA Ingram,13,South Africa,Zimbabwe,381,South Africa,Willowmoore Park,5,South Africa
+299,48.3,1,SW Masakadza,2010-10-22,1st,DA Miller,23,,CA Ingram,14,South Africa,Zimbabwe,382,South Africa,Willowmoore Park,5,South Africa
+300,48.4,2,SW Masakadza,2010-10-22,1st,CA Ingram,14,,DA Miller,25,South Africa,Zimbabwe,384,South Africa,Willowmoore Park,5,South Africa
+301,48.5,1,SW Masakadza,2010-10-22,1st,CA Ingram,14,,DA Miller,26,South Africa,Zimbabwe,385,South Africa,Willowmoore Park,5,South Africa
+302,48.6,6,SW Masakadza,2010-10-22,1st,DA Miller,26,,CA Ingram,20,South Africa,Zimbabwe,391,South Africa,Willowmoore Park,5,South Africa
+303,49.1,1,E Chigumbura,2010-10-22,1st,CA Ingram,20,,DA Miller,27,South Africa,Zimbabwe,392,South Africa,Willowmoore Park,5,South Africa
+304,49.2,0,E Chigumbura,2010-10-22,1st,DA Miller,27,CA Ingram,CA Ingram,20,South Africa,Zimbabwe,392,South Africa,Willowmoore Park,6,South Africa
+305,49.3,0,E Chigumbura,2010-10-22,1st,DA Miller,27,,J Botha,0,South Africa,Zimbabwe,393,South Africa,Willowmoore Park,6,South Africa
+306,49.4,0,E Chigumbura,2010-10-22,1st,J Botha,0,,DA Miller,27,South Africa,Zimbabwe,393,South Africa,Willowmoore Park,6,South Africa
+307,49.5,2,E Chigumbura,2010-10-22,1st,J Botha,0,,DA Miller,29,South Africa,Zimbabwe,395,South Africa,Willowmoore Park,6,South Africa
+308,49.6,4,E Chigumbura,2010-10-22,1st,J Botha,0,,DA Miller,33,South Africa,Zimbabwe,399,South Africa,Willowmoore Park,6,South Africa
+309,0.1,1,JA Morkel,2010-10-22,2nd,H Masakadza,0,,BRM Taylor,0,South Africa,Zimbabwe,1,South Africa,Willowmoore Park,0,South Africa
+310,0.2,2,JA Morkel,2010-10-22,2nd,BRM Taylor,0,,H Masakadza,0,South Africa,Zimbabwe,3,South Africa,Willowmoore Park,0,South Africa
+311,0.3,1,JA Morkel,2010-10-22,2nd,BRM Taylor,0,,H Masakadza,0,South Africa,Zimbabwe,4,South Africa,Willowmoore Park,0,South Africa
+312,0.4,0,JA Morkel,2010-10-22,2nd,H Masakadza,0,,BRM Taylor,0,South Africa,Zimbabwe,4,South Africa,Willowmoore Park,0,South Africa
+313,0.5,4,JA Morkel,2010-10-22,2nd,H Masakadza,0,,BRM Taylor,0,South Africa,Zimbabwe,8,South Africa,Willowmoore Park,0,South Africa
+314,0.6,0,JA Morkel,2010-10-22,2nd,H Masakadza,0,,BRM Taylor,0,South Africa,Zimbabwe,8,South Africa,Willowmoore Park,0,South Africa
+315,1.1,0,LL Tsotsobe,2010-10-22,2nd,BRM Taylor,0,,H Masakadza,0,South Africa,Zimbabwe,8,South Africa,Willowmoore Park,0,South Africa
+316,1.2,0,LL Tsotsobe,2010-10-22,2nd,BRM Taylor,0,,H Masakadza,0,South Africa,Zimbabwe,8,South Africa,Willowmoore Park,0,South Africa
+317,1.3,0,LL Tsotsobe,2010-10-22,2nd,BRM Taylor,0,,H Masakadza,0,South Africa,Zimbabwe,8,South Africa,Willowmoore Park,0,South Africa
+318,1.4,1,LL Tsotsobe,2010-10-22,2nd,BRM Taylor,0,,H Masakadza,0,South Africa,Zimbabwe,9,South Africa,Willowmoore Park,0,South Africa
+319,1.5,0,LL Tsotsobe,2010-10-22,2nd,H Masakadza,0,,BRM Taylor,0,South Africa,Zimbabwe,9,South Africa,Willowmoore Park,1,South Africa
+320,1.6,0,LL Tsotsobe,2010-10-22,2nd,CJ Chibhabha,0,,H Masakadza,0,South Africa,Zimbabwe,9,South Africa,Willowmoore Park,1,South Africa
+321,2.1,0,JA Morkel,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Willowmoore Park,1,South Africa
+322,2.2,0,JA Morkel,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Willowmoore Park,1,South Africa
+323,2.3,0,JA Morkel,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Willowmoore Park,1,South Africa
+324,2.4,0,JA Morkel,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Willowmoore Park,1,South Africa
+325,2.5,2,JA Morkel,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,11,South Africa,Willowmoore Park,1,South Africa
+326,2.6,0,JA Morkel,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,11,South Africa,Willowmoore Park,1,South Africa
+327,3.1,1,LL Tsotsobe,2010-10-22,2nd,CJ Chibhabha,0,,H Masakadza,0,South Africa,Zimbabwe,12,South Africa,Willowmoore Park,1,South Africa
+328,3.2,0,LL Tsotsobe,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,12,South Africa,Willowmoore Park,1,South Africa
+329,3.3,0,LL Tsotsobe,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,12,South Africa,Willowmoore Park,1,South Africa
+330,3.4,0,LL Tsotsobe,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,12,South Africa,Willowmoore Park,1,South Africa
+331,3.5,6,LL Tsotsobe,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,18,South Africa,Willowmoore Park,1,South Africa
+332,3.6,0,LL Tsotsobe,2010-10-22,2nd,H Masakadza,0,,CJ Chibhabha,0,South Africa,Zimbabwe,18,South Africa,Willowmoore Park,1,South Africa
+333,4.1,0,JA Morkel,2010-10-22,2nd,CJ Chibhabha,0,,H Masakadza,0,South Africa,Zimbabwe,18,South Africa,Willowmoore Park,2,South Africa
+334,4.2,1,JA Morkel,2010-10-22,2nd,T Taibu,0,,CJ Chibhabha,0,South Africa,Zimbabwe,19,South Africa,Willowmoore Park,2,South Africa
+335,4.3,0,JA Morkel,2010-10-22,2nd,CJ Chibhabha,0,,T Taibu,0,South Africa,Zimbabwe,19,South Africa,Willowmoore Park,2,South Africa
+336,4.4,0,JA Morkel,2010-10-22,2nd,CJ Chibhabha,0,,T Taibu,0,South Africa,Zimbabwe,19,South Africa,Willowmoore Park,2,South Africa
+337,4.5,4,JA Morkel,2010-10-22,2nd,CJ Chibhabha,0,,T Taibu,0,South Africa,Zimbabwe,23,South Africa,Willowmoore Park,2,South Africa
+338,4.6,0,JA Morkel,2010-10-22,2nd,CJ Chibhabha,0,,T Taibu,0,South Africa,Zimbabwe,23,South Africa,Willowmoore Park,2,South Africa
+339,5.1,0,LL Tsotsobe,2010-10-22,2nd,T Taibu,0,,CJ Chibhabha,0,South Africa,Zimbabwe,23,South Africa,Willowmoore Park,2,South Africa
+340,5.2,0,LL Tsotsobe,2010-10-22,2nd,T Taibu,0,,CJ Chibhabha,0,South Africa,Zimbabwe,23,South Africa,Willowmoore Park,2,South Africa
+341,5.3,1,LL Tsotsobe,2010-10-22,2nd,T Taibu,0,,CJ Chibhabha,0,South Africa,Zimbabwe,24,South Africa,Willowmoore Park,2,South Africa
+342,5.4,0,LL Tsotsobe,2010-10-22,2nd,CJ Chibhabha,0,,T Taibu,0,South Africa,Zimbabwe,24,South Africa,Willowmoore Park,2,South Africa
+343,5.5,0,LL Tsotsobe,2010-10-22,2nd,CJ Chibhabha,0,,T Taibu,0,South Africa,Zimbabwe,24,South Africa,Willowmoore Park,2,South Africa
+344,5.6,0,LL Tsotsobe,2010-10-22,2nd,CJ Chibhabha,0,,T Taibu,0,South Africa,Zimbabwe,24,South Africa,Willowmoore Park,2,South Africa
+345,6.1,2,JA Morkel,2010-10-22,2nd,T Taibu,0,,CJ Chibhabha,0,South Africa,Zimbabwe,26,South Africa,Willowmoore Park,2,South Africa
+346,6.2,4,JA Morkel,2010-10-22,2nd,T Taibu,0,,CJ Chibhabha,0,South Africa,Zimbabwe,30,South Africa,Willowmoore Park,2,South Africa
+347,6.3,0,JA Morkel,2010-10-22,2nd,T Taibu,0,,CJ Chibhabha,0,South Africa,Zimbabwe,30,South Africa,Willowmoore Park,3,South Africa
+348,6.4,2,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,32,South Africa,Willowmoore Park,3,South Africa
+349,6.5,0,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,32,South Africa,Willowmoore Park,3,South Africa
+350,6.6,0,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,32,South Africa,Willowmoore Park,3,South Africa
+351,7.1,0,LL Tsotsobe,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,33,South Africa,Willowmoore Park,3,South Africa
+352,7.2,0,LL Tsotsobe,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,33,South Africa,Willowmoore Park,3,South Africa
+353,7.3,1,LL Tsotsobe,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,34,South Africa,Willowmoore Park,3,South Africa
+354,7.4,0,LL Tsotsobe,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,34,South Africa,Willowmoore Park,3,South Africa
+355,7.5,0,LL Tsotsobe,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,34,South Africa,Willowmoore Park,3,South Africa
+356,7.6,1,LL Tsotsobe,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,35,South Africa,Willowmoore Park,3,South Africa
+357,7.7,0,LL Tsotsobe,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,35,South Africa,Willowmoore Park,3,South Africa
+358,8.1,0,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,35,South Africa,Willowmoore Park,3,South Africa
+359,8.2,4,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,39,South Africa,Willowmoore Park,3,South Africa
+360,8.3,4,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,43,South Africa,Willowmoore Park,3,South Africa
+361,8.4,4,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,47,South Africa,Willowmoore Park,3,South Africa
+362,8.5,0,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,47,South Africa,Willowmoore Park,3,South Africa
+363,8.6,0,JA Morkel,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,47,South Africa,Willowmoore Park,3,South Africa
+364,9.1,4,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,51,South Africa,Willowmoore Park,3,South Africa
+365,9.2,0,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,51,South Africa,Willowmoore Park,3,South Africa
+366,9.3,0,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,51,South Africa,Willowmoore Park,3,South Africa
+367,9.4,0,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,51,South Africa,Willowmoore Park,3,South Africa
+368,9.5,4,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,55,South Africa,Willowmoore Park,3,South Africa
+369,9.6,0,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,55,South Africa,Willowmoore Park,3,South Africa
+370,10.1,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,55,South Africa,Willowmoore Park,3,South Africa
+371,10.2,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,55,South Africa,Willowmoore Park,3,South Africa
+372,10.3,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,55,South Africa,Willowmoore Park,3,South Africa
+373,10.4,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,55,South Africa,Willowmoore Park,3,South Africa
+374,10.5,1,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,56,South Africa,Willowmoore Park,3,South Africa
+375,10.6,1,J Theron,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,57,South Africa,Willowmoore Park,3,South Africa
+376,11.1,4,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,61,South Africa,Willowmoore Park,3,South Africa
+377,11.2,0,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,61,South Africa,Willowmoore Park,3,South Africa
+378,11.3,1,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,62,South Africa,Willowmoore Park,3,South Africa
+379,11.4,0,WD Parnell,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,62,South Africa,Willowmoore Park,3,South Africa
+380,11.5,0,WD Parnell,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,62,South Africa,Willowmoore Park,3,South Africa
+381,11.6,0,WD Parnell,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,62,South Africa,Willowmoore Park,3,South Africa
+382,12.1,1,J Theron,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,63,South Africa,Willowmoore Park,3,South Africa
+383,12.2,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,63,South Africa,Willowmoore Park,3,South Africa
+384,12.3,1,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,64,South Africa,Willowmoore Park,3,South Africa
+385,12.4,1,J Theron,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,65,South Africa,Willowmoore Park,3,South Africa
+386,12.5,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,65,South Africa,Willowmoore Park,3,South Africa
+387,12.6,1,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,66,South Africa,Willowmoore Park,3,South Africa
+388,13.1,1,WD Parnell,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,67,South Africa,Willowmoore Park,3,South Africa
+389,13.2,0,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,67,South Africa,Willowmoore Park,3,South Africa
+390,13.3,1,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,68,South Africa,Willowmoore Park,3,South Africa
+391,13.4,0,WD Parnell,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,68,South Africa,Willowmoore Park,3,South Africa
+392,13.5,1,WD Parnell,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,69,South Africa,Willowmoore Park,3,South Africa
+393,13.6,4,WD Parnell,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,73,South Africa,Willowmoore Park,3,South Africa
+394,14.1,1,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,74,South Africa,Willowmoore Park,3,South Africa
+395,14.2,1,J Theron,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,75,South Africa,Willowmoore Park,3,South Africa
+396,14.3,1,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,76,South Africa,Willowmoore Park,3,South Africa
+397,14.4,1,J Theron,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,77,South Africa,Willowmoore Park,3,South Africa
+398,14.5,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,77,South Africa,Willowmoore Park,3,South Africa
+399,14.6,0,J Theron,2010-10-22,2nd,T Taibu,0,,CR Ervine,0,South Africa,Zimbabwe,77,South Africa,Willowmoore Park,3,South Africa
+400,15.1,0,J Botha,2010-10-22,2nd,CR Ervine,0,,T Taibu,0,South Africa,Zimbabwe,77,South Africa,Willowmoore Park,4,South Africa
+401,15.2,1,J Botha,2010-10-22,2nd,CR Ervine,0,,E Chigumbura,0,South Africa,Zimbabwe,78,South Africa,Willowmoore Park,4,South Africa
+402,15.3,0,J Botha,2010-10-22,2nd,E Chigumbura,0,,CR Ervine,0,South Africa,Zimbabwe,78,South Africa,Willowmoore Park,4,South Africa
+403,15.4,2,J Botha,2010-10-22,2nd,E Chigumbura,0,,CR Ervine,0,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,4,South Africa
+404,15.5,0,J Botha,2010-10-22,2nd,E Chigumbura,0,,CR Ervine,0,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,4,South Africa
+405,15.6,0,J Botha,2010-10-22,2nd,E Chigumbura,0,,CR Ervine,0,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,5,South Africa
+406,16.1,0,J Theron,2010-10-22,2nd,KM Dabengwa,0,,E Chigumbura,0,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,6,South Africa
+407,16.2,0,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,6,South Africa
+408,16.3,0,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,6,South Africa
+409,16.4,0,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,80,South Africa,Willowmoore Park,6,South Africa
+410,16.5,2,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,82,South Africa,Willowmoore Park,6,South Africa
+411,16.6,0,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,82,South Africa,Willowmoore Park,6,South Africa
+412,17.1,1,J Botha,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,83,South Africa,Willowmoore Park,6,South Africa
+413,17.2,3,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,86,South Africa,Willowmoore Park,6,South Africa
+414,17.3,1,J Botha,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,87,South Africa,Willowmoore Park,6,South Africa
+415,17.4,0,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,87,South Africa,Willowmoore Park,6,South Africa
+416,17.5,1,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,88,South Africa,Willowmoore Park,6,South Africa
+417,17.6,1,J Botha,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,89,South Africa,Willowmoore Park,6,South Africa
+418,18.1,1,J Theron,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,90,South Africa,Willowmoore Park,6,South Africa
+419,18.2,0,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,90,South Africa,Willowmoore Park,6,South Africa
+420,18.3,1,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,91,South Africa,Willowmoore Park,6,South Africa
+421,18.4,1,J Theron,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,92,South Africa,Willowmoore Park,6,South Africa
+422,18.5,2,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,94,South Africa,Willowmoore Park,6,South Africa
+423,18.6,0,J Theron,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,94,South Africa,Willowmoore Park,6,South Africa
+424,19.1,1,J Botha,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,95,South Africa,Willowmoore Park,6,South Africa
+425,19.2,0,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,95,South Africa,Willowmoore Park,6,South Africa
+426,19.3,0,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,95,South Africa,Willowmoore Park,6,South Africa
+427,19.4,0,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,95,South Africa,Willowmoore Park,6,South Africa
+428,19.5,0,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,95,South Africa,Willowmoore Park,6,South Africa
+429,19.6,1,J Botha,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,96,South Africa,Willowmoore Park,6,South Africa
+430,20.1,0,WD Parnell,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,96,South Africa,Willowmoore Park,6,South Africa
+431,20.2,1,WD Parnell,2010-10-22,2nd,KM Dabengwa,0,,P Utseya,0,South Africa,Zimbabwe,97,South Africa,Willowmoore Park,6,South Africa
+432,20.3,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,97,South Africa,Willowmoore Park,6,South Africa
+433,20.4,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,KM Dabengwa,0,South Africa,Zimbabwe,97,South Africa,Willowmoore Park,7,South Africa
+434,20.5,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,97,South Africa,Willowmoore Park,7,South Africa
+435,20.6,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,97,South Africa,Willowmoore Park,7,South Africa
+436,21.1,0,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,97,South Africa,Willowmoore Park,7,South Africa
+437,21.2,3,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,100,South Africa,Willowmoore Park,7,South Africa
+438,21.3,0,J Botha,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,100,South Africa,Willowmoore Park,7,South Africa
+439,21.4,0,J Botha,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,100,South Africa,Willowmoore Park,7,South Africa
+440,21.5,0,J Botha,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,100,South Africa,Willowmoore Park,7,South Africa
+441,21.6,0,J Botha,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,100,South Africa,Willowmoore Park,7,South Africa
+442,22.1,0,WD Parnell,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,100,South Africa,Willowmoore Park,7,South Africa
+443,22.2,1,WD Parnell,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,101,South Africa,Willowmoore Park,7,South Africa
+444,22.3,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,101,South Africa,Willowmoore Park,7,South Africa
+445,22.4,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,101,South Africa,Willowmoore Park,7,South Africa
+446,22.5,1,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,102,South Africa,Willowmoore Park,7,South Africa
+447,22.6,1,WD Parnell,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,103,South Africa,Willowmoore Park,7,South Africa
+448,23.1,0,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,103,South Africa,Willowmoore Park,7,South Africa
+449,23.2,0,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,103,South Africa,Willowmoore Park,7,South Africa
+450,23.3,0,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,103,South Africa,Willowmoore Park,7,South Africa
+451,23.4,0,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,103,South Africa,Willowmoore Park,7,South Africa
+452,23.5,0,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,104,South Africa,Willowmoore Park,7,South Africa
+453,23.6,1,J Botha,2010-10-22,2nd,AG Cremer,0,,P Utseya,0,South Africa,Zimbabwe,105,South Africa,Willowmoore Park,7,South Africa
+454,23.7,1,J Botha,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,106,South Africa,Willowmoore Park,7,South Africa
+455,24.1,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,106,South Africa,Willowmoore Park,7,South Africa
+456,24.2,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,106,South Africa,Willowmoore Park,7,South Africa
+457,24.3,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,106,South Africa,Willowmoore Park,7,South Africa
+458,24.4,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,AG Cremer,0,South Africa,Zimbabwe,106,South Africa,Willowmoore Park,8,South Africa
+459,24.5,1,WD Parnell,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,107,South Africa,Willowmoore Park,8,South Africa
+460,24.6,0,WD Parnell,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,107,South Africa,Willowmoore Park,8,South Africa
+461,25.1,0,J Botha,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,107,South Africa,Willowmoore Park,8,South Africa
+462,25.2,0,J Botha,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,107,South Africa,Willowmoore Park,8,South Africa
+463,25.3,1,J Botha,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,108,South Africa,Willowmoore Park,8,South Africa
+464,25.4,0,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,108,South Africa,Willowmoore Park,8,South Africa
+465,25.5,0,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,108,South Africa,Willowmoore Park,8,South Africa
+466,25.6,1,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,109,South Africa,Willowmoore Park,8,South Africa
+467,26.1,1,WD Parnell,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,110,South Africa,Willowmoore Park,8,South Africa
+468,26.2,0,WD Parnell,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,110,South Africa,Willowmoore Park,8,South Africa
+469,26.3,0,WD Parnell,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,110,South Africa,Willowmoore Park,8,South Africa
+470,26.4,4,WD Parnell,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,114,South Africa,Willowmoore Park,8,South Africa
+471,26.5,0,WD Parnell,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,114,South Africa,Willowmoore Park,8,South Africa
+472,26.6,0,WD Parnell,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,114,South Africa,Willowmoore Park,8,South Africa
+473,27.1,0,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,114,South Africa,Willowmoore Park,8,South Africa
+474,27.2,0,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,114,South Africa,Willowmoore Park,8,South Africa
+475,27.3,0,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,114,South Africa,Willowmoore Park,8,South Africa
+476,27.4,6,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,8,South Africa
+477,27.5,0,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,120,South Africa,Willowmoore Park,8,South Africa
+478,27.6,6,J Botha,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,126,South Africa,Willowmoore Park,8,South Africa
+479,28.1,0,J Theron,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,126,South Africa,Willowmoore Park,8,South Africa
+480,28.2,1,J Theron,2010-10-22,2nd,SW Masakadza,0,,P Utseya,0,South Africa,Zimbabwe,127,South Africa,Willowmoore Park,8,South Africa
+481,28.3,0,J Theron,2010-10-22,2nd,P Utseya,0,,SW Masakadza,0,South Africa,Zimbabwe,127,South Africa,Willowmoore Park,9,South Africa
+482,28.4,0,J Theron,2010-10-22,2nd,P Utseya,0,,IA Nicolson,0,South Africa,Zimbabwe,127,South Africa,Willowmoore Park,9,South Africa
+483,28.5,0,J Theron,2010-10-22,2nd,P Utseya,0,,IA Nicolson,0,South Africa,Zimbabwe,127,South Africa,Willowmoore Park,9,South Africa
+484,28.6,0,J Theron,2010-10-22,2nd,P Utseya,0,,IA Nicolson,0,South Africa,Zimbabwe,127,South Africa,Willowmoore Park,10,South Africa

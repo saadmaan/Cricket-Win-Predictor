@@ -1,0 +1,530 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,P Kumar,2011-10-17,1st,C Kieswetter,0,,AN Cook,0,India,England,0,England,Feroz Shah Kotla,0,India
+1,0.2,0,P Kumar,2011-10-17,1st,C Kieswetter,0,,AN Cook,0,India,England,0,England,Feroz Shah Kotla,0,India
+2,0.3,0,P Kumar,2011-10-17,1st,C Kieswetter,0,,AN Cook,0,India,England,0,England,Feroz Shah Kotla,0,India
+3,0.4,0,P Kumar,2011-10-17,1st,C Kieswetter,0,AN Cook,AN Cook,0,India,England,0,England,Feroz Shah Kotla,1,India
+4,0.5,0,P Kumar,2011-10-17,1st,C Kieswetter,0,,IJL Trott,0,India,England,0,England,Feroz Shah Kotla,1,India
+5,0.6,0,P Kumar,2011-10-17,1st,C Kieswetter,0,,IJL Trott,0,India,England,0,England,Feroz Shah Kotla,1,India
+6,1.1,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,0,,C Kieswetter,0,India,England,0,England,Feroz Shah Kotla,1,India
+7,1.2,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,0,,C Kieswetter,0,India,England,0,England,Feroz Shah Kotla,1,India
+8,1.3,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,0,,C Kieswetter,0,India,England,0,England,Feroz Shah Kotla,1,India
+9,1.4,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,0,,C Kieswetter,0,India,England,0,England,Feroz Shah Kotla,1,India
+10,1.5,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,0,C Kieswetter,C Kieswetter,0,India,England,0,England,Feroz Shah Kotla,2,India
+11,1.6,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,0,,KP Pietersen,0,India,England,0,England,Feroz Shah Kotla,2,India
+12,2.1,0,P Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,0,India,England,0,England,Feroz Shah Kotla,2,India
+13,2.2,1,P Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,1,India,England,1,England,Feroz Shah Kotla,2,India
+14,2.3,0,P Kumar,2011-10-17,1st,IJL Trott,1,,KP Pietersen,0,India,England,1,England,Feroz Shah Kotla,2,India
+15,2.4,0,P Kumar,2011-10-17,1st,IJL Trott,1,,KP Pietersen,0,India,England,1,England,Feroz Shah Kotla,2,India
+16,2.5,0,P Kumar,2011-10-17,1st,IJL Trott,1,,KP Pietersen,0,India,England,1,England,Feroz Shah Kotla,2,India
+17,2.6,0,P Kumar,2011-10-17,1st,IJL Trott,1,,KP Pietersen,0,India,England,2,England,Feroz Shah Kotla,2,India
+18,2.7,0,P Kumar,2011-10-17,1st,IJL Trott,1,,KP Pietersen,0,India,England,2,England,Feroz Shah Kotla,2,India
+19,3.1,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,1,India,England,2,England,Feroz Shah Kotla,2,India
+20,3.2,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,1,India,England,2,England,Feroz Shah Kotla,2,India
+21,3.3,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,1,India,England,2,England,Feroz Shah Kotla,2,India
+22,3.4,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,1,India,England,2,England,Feroz Shah Kotla,2,India
+23,3.5,1,R Vinay Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,2,India,England,3,England,Feroz Shah Kotla,2,India
+24,3.6,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,2,,KP Pietersen,0,India,England,3,England,Feroz Shah Kotla,2,India
+25,4.1,4,P Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,6,India,England,7,England,Feroz Shah Kotla,2,India
+26,4.2,4,P Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,10,India,England,11,England,Feroz Shah Kotla,2,India
+27,4.3,4,P Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,14,India,England,15,England,Feroz Shah Kotla,2,India
+28,4.4,0,P Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,14,India,England,15,England,Feroz Shah Kotla,2,India
+29,4.5,1,P Kumar,2011-10-17,1st,KP Pietersen,0,,IJL Trott,15,India,England,16,England,Feroz Shah Kotla,2,India
+30,4.6,4,P Kumar,2011-10-17,1st,IJL Trott,15,,KP Pietersen,4,India,England,20,England,Feroz Shah Kotla,2,India
+31,5.1,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,15,India,England,20,England,Feroz Shah Kotla,2,India
+32,5.2,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,15,India,England,20,England,Feroz Shah Kotla,2,India
+33,5.3,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,15,India,England,20,England,Feroz Shah Kotla,2,India
+34,5.4,1,R Vinay Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,16,India,England,21,England,Feroz Shah Kotla,2,India
+35,5.5,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,16,,KP Pietersen,4,India,England,21,England,Feroz Shah Kotla,2,India
+36,5.6,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,16,,KP Pietersen,4,India,England,21,England,Feroz Shah Kotla,2,India
+37,6.1,0,P Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,16,India,England,21,England,Feroz Shah Kotla,2,India
+38,6.2,2,P Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,18,India,England,23,England,Feroz Shah Kotla,2,India
+39,6.3,0,P Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,18,India,England,27,England,Feroz Shah Kotla,2,India
+40,6.4,0,P Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,18,India,England,27,England,Feroz Shah Kotla,2,India
+41,6.5,0,P Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,18,India,England,27,England,Feroz Shah Kotla,2,India
+42,6.6,0,P Kumar,2011-10-17,1st,KP Pietersen,4,,IJL Trott,18,India,England,27,England,Feroz Shah Kotla,2,India
+43,7.1,2,R Vinay Kumar,2011-10-17,1st,IJL Trott,18,,KP Pietersen,6,India,England,29,England,Feroz Shah Kotla,2,India
+44,7.2,0,R Vinay Kumar,2011-10-17,1st,IJL Trott,18,,KP Pietersen,6,India,England,29,England,Feroz Shah Kotla,2,India
+45,7.3,1,R Vinay Kumar,2011-10-17,1st,IJL Trott,18,,KP Pietersen,7,India,England,30,England,Feroz Shah Kotla,2,India
+46,7.4,4,R Vinay Kumar,2011-10-17,1st,KP Pietersen,7,,IJL Trott,22,India,England,34,England,Feroz Shah Kotla,2,India
+47,7.5,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,7,,IJL Trott,22,India,England,34,England,Feroz Shah Kotla,2,India
+48,7.6,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,7,,IJL Trott,22,India,England,34,England,Feroz Shah Kotla,2,India
+49,8.1,1,P Kumar,2011-10-17,1st,IJL Trott,22,,KP Pietersen,8,India,England,35,England,Feroz Shah Kotla,2,India
+50,8.2,0,P Kumar,2011-10-17,1st,KP Pietersen,8,,IJL Trott,22,India,England,35,England,Feroz Shah Kotla,2,India
+51,8.3,0,P Kumar,2011-10-17,1st,KP Pietersen,8,,IJL Trott,22,India,England,35,England,Feroz Shah Kotla,2,India
+52,8.4,0,P Kumar,2011-10-17,1st,KP Pietersen,8,,IJL Trott,22,India,England,35,England,Feroz Shah Kotla,2,India
+53,8.5,0,P Kumar,2011-10-17,1st,KP Pietersen,8,,IJL Trott,22,India,England,35,England,Feroz Shah Kotla,2,India
+54,8.6,4,P Kumar,2011-10-17,1st,KP Pietersen,8,,IJL Trott,26,India,England,39,England,Feroz Shah Kotla,2,India
+55,9.1,1,R Vinay Kumar,2011-10-17,1st,IJL Trott,26,,KP Pietersen,9,India,England,40,England,Feroz Shah Kotla,2,India
+56,9.2,4,R Vinay Kumar,2011-10-17,1st,KP Pietersen,9,,IJL Trott,30,India,England,44,England,Feroz Shah Kotla,2,India
+57,9.3,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,9,,IJL Trott,30,India,England,44,England,Feroz Shah Kotla,2,India
+58,9.4,4,R Vinay Kumar,2011-10-17,1st,KP Pietersen,9,,IJL Trott,34,India,England,48,England,Feroz Shah Kotla,2,India
+59,9.5,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,9,,IJL Trott,34,India,England,48,England,Feroz Shah Kotla,2,India
+60,9.6,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,9,IJL Trott,IJL Trott,34,India,England,48,England,Feroz Shah Kotla,3,India
+61,10.1,0,V Kohli,2011-10-17,1st,RS Bopara,0,,KP Pietersen,9,India,England,48,England,Feroz Shah Kotla,3,India
+62,10.2,0,V Kohli,2011-10-17,1st,RS Bopara,0,,KP Pietersen,9,India,England,48,England,Feroz Shah Kotla,3,India
+63,10.3,0,V Kohli,2011-10-17,1st,RS Bopara,0,,KP Pietersen,9,India,England,48,England,Feroz Shah Kotla,3,India
+64,10.4,0,V Kohli,2011-10-17,1st,RS Bopara,0,,KP Pietersen,9,India,England,48,England,Feroz Shah Kotla,3,India
+65,10.5,1,V Kohli,2011-10-17,1st,RS Bopara,0,,KP Pietersen,10,India,England,49,England,Feroz Shah Kotla,3,India
+66,10.6,0,V Kohli,2011-10-17,1st,KP Pietersen,10,,RS Bopara,0,India,England,49,England,Feroz Shah Kotla,3,India
+67,11.1,0,R Vinay Kumar,2011-10-17,1st,RS Bopara,0,,KP Pietersen,10,India,England,49,England,Feroz Shah Kotla,3,India
+68,11.2,1,R Vinay Kumar,2011-10-17,1st,RS Bopara,0,,KP Pietersen,11,India,England,50,England,Feroz Shah Kotla,3,India
+69,11.3,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,11,,RS Bopara,0,India,England,50,England,Feroz Shah Kotla,3,India
+70,11.4,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,11,,RS Bopara,0,India,England,50,England,Feroz Shah Kotla,3,India
+71,11.5,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,11,,RS Bopara,0,India,England,50,England,Feroz Shah Kotla,3,India
+72,11.6,1,R Vinay Kumar,2011-10-17,1st,KP Pietersen,11,,RS Bopara,1,India,England,51,England,Feroz Shah Kotla,3,India
+73,12.1,1,V Kohli,2011-10-17,1st,KP Pietersen,11,,RS Bopara,2,India,England,52,England,Feroz Shah Kotla,3,India
+74,12.2,0,V Kohli,2011-10-17,1st,RS Bopara,2,,KP Pietersen,11,India,England,52,England,Feroz Shah Kotla,3,India
+75,12.3,1,V Kohli,2011-10-17,1st,RS Bopara,2,,KP Pietersen,12,India,England,53,England,Feroz Shah Kotla,3,India
+76,12.4,0,V Kohli,2011-10-17,1st,KP Pietersen,12,,RS Bopara,2,India,England,53,England,Feroz Shah Kotla,3,India
+77,12.5,1,V Kohli,2011-10-17,1st,KP Pietersen,12,,RS Bopara,3,India,England,54,England,Feroz Shah Kotla,3,India
+78,12.6,0,V Kohli,2011-10-17,1st,RS Bopara,3,,KP Pietersen,12,India,England,54,England,Feroz Shah Kotla,3,India
+79,13.1,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,12,,RS Bopara,3,India,England,54,England,Feroz Shah Kotla,3,India
+80,13.2,4,R Vinay Kumar,2011-10-17,1st,KP Pietersen,12,,RS Bopara,7,India,England,58,England,Feroz Shah Kotla,3,India
+81,13.3,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,12,,RS Bopara,7,India,England,58,England,Feroz Shah Kotla,3,India
+82,13.4,0,R Vinay Kumar,2011-10-17,1st,KP Pietersen,12,,RS Bopara,7,India,England,58,England,Feroz Shah Kotla,3,India
+83,13.5,1,R Vinay Kumar,2011-10-17,1st,KP Pietersen,12,,RS Bopara,8,India,England,59,England,Feroz Shah Kotla,3,India
+84,13.6,0,R Vinay Kumar,2011-10-17,1st,RS Bopara,8,,KP Pietersen,12,India,England,59,England,Feroz Shah Kotla,3,India
+85,14.1,1,V Kohli,2011-10-17,1st,KP Pietersen,12,,RS Bopara,9,India,England,60,England,Feroz Shah Kotla,3,India
+86,14.2,1,V Kohli,2011-10-17,1st,RS Bopara,9,,KP Pietersen,13,India,England,61,England,Feroz Shah Kotla,3,India
+87,14.3,0,V Kohli,2011-10-17,1st,KP Pietersen,13,,RS Bopara,9,India,England,61,England,Feroz Shah Kotla,3,India
+88,14.4,0,V Kohli,2011-10-17,1st,KP Pietersen,13,,RS Bopara,9,India,England,61,England,Feroz Shah Kotla,3,India
+89,14.5,1,V Kohli,2011-10-17,1st,KP Pietersen,13,,RS Bopara,10,India,England,62,England,Feroz Shah Kotla,3,India
+90,14.6,0,V Kohli,2011-10-17,1st,RS Bopara,10,,KP Pietersen,13,India,England,62,England,Feroz Shah Kotla,3,India
+91,15.1,4,UT Yadav,2011-10-17,1st,KP Pietersen,13,,RS Bopara,14,India,England,66,England,Feroz Shah Kotla,3,India
+92,15.2,0,UT Yadav,2011-10-17,1st,KP Pietersen,13,,RS Bopara,14,India,England,66,England,Feroz Shah Kotla,3,India
+93,15.3,4,UT Yadav,2011-10-17,1st,KP Pietersen,13,,RS Bopara,18,India,England,70,England,Feroz Shah Kotla,3,India
+94,15.4,0,UT Yadav,2011-10-17,1st,KP Pietersen,13,,RS Bopara,18,India,England,70,England,Feroz Shah Kotla,3,India
+95,15.5,0,UT Yadav,2011-10-17,1st,KP Pietersen,13,,RS Bopara,18,India,England,70,England,Feroz Shah Kotla,3,India
+96,15.6,4,UT Yadav,2011-10-17,1st,KP Pietersen,13,,RS Bopara,22,India,England,74,England,Feroz Shah Kotla,3,India
+97,16.1,1,R Ashwin,2011-10-17,1st,RS Bopara,22,,KP Pietersen,14,India,England,75,England,Feroz Shah Kotla,3,India
+98,16.2,0,R Ashwin,2011-10-17,1st,KP Pietersen,14,,RS Bopara,22,India,England,75,England,Feroz Shah Kotla,3,India
+99,16.3,0,R Ashwin,2011-10-17,1st,KP Pietersen,14,,RS Bopara,22,India,England,75,England,Feroz Shah Kotla,3,India
+100,16.4,1,R Ashwin,2011-10-17,1st,KP Pietersen,14,,RS Bopara,23,India,England,76,England,Feroz Shah Kotla,3,India
+101,16.5,0,R Ashwin,2011-10-17,1st,RS Bopara,23,,KP Pietersen,14,India,England,76,England,Feroz Shah Kotla,3,India
+102,16.6,4,R Ashwin,2011-10-17,1st,RS Bopara,23,,KP Pietersen,18,India,England,80,England,Feroz Shah Kotla,3,India
+103,17.1,0,RA Jadeja,2011-10-17,1st,KP Pietersen,18,,RS Bopara,23,India,England,80,England,Feroz Shah Kotla,3,India
+104,17.2,0,RA Jadeja,2011-10-17,1st,KP Pietersen,18,,RS Bopara,23,India,England,80,England,Feroz Shah Kotla,3,India
+105,17.3,2,RA Jadeja,2011-10-17,1st,KP Pietersen,18,,RS Bopara,25,India,England,82,England,Feroz Shah Kotla,3,India
+106,17.4,1,RA Jadeja,2011-10-17,1st,KP Pietersen,18,,RS Bopara,26,India,England,83,England,Feroz Shah Kotla,3,India
+107,17.5,0,RA Jadeja,2011-10-17,1st,RS Bopara,26,,KP Pietersen,18,India,England,83,England,Feroz Shah Kotla,3,India
+108,17.6,0,RA Jadeja,2011-10-17,1st,RS Bopara,26,,KP Pietersen,18,India,England,83,England,Feroz Shah Kotla,3,India
+109,18.1,0,R Ashwin,2011-10-17,1st,KP Pietersen,18,,RS Bopara,26,India,England,83,England,Feroz Shah Kotla,3,India
+110,18.2,1,R Ashwin,2011-10-17,1st,KP Pietersen,18,,RS Bopara,27,India,England,84,England,Feroz Shah Kotla,3,India
+111,18.3,0,R Ashwin,2011-10-17,1st,RS Bopara,27,,KP Pietersen,18,India,England,84,England,Feroz Shah Kotla,3,India
+112,18.4,1,R Ashwin,2011-10-17,1st,RS Bopara,27,,KP Pietersen,19,India,England,85,England,Feroz Shah Kotla,3,India
+113,18.5,1,R Ashwin,2011-10-17,1st,KP Pietersen,19,,RS Bopara,28,India,England,86,England,Feroz Shah Kotla,3,India
+114,18.6,1,R Ashwin,2011-10-17,1st,RS Bopara,28,,KP Pietersen,20,India,England,87,England,Feroz Shah Kotla,3,India
+115,19.1,1,RA Jadeja,2011-10-17,1st,RS Bopara,28,,KP Pietersen,21,India,England,88,England,Feroz Shah Kotla,3,India
+116,19.2,0,RA Jadeja,2011-10-17,1st,KP Pietersen,21,,RS Bopara,28,India,England,88,England,Feroz Shah Kotla,3,India
+117,19.3,0,RA Jadeja,2011-10-17,1st,KP Pietersen,21,,RS Bopara,28,India,England,88,England,Feroz Shah Kotla,3,India
+118,19.4,0,RA Jadeja,2011-10-17,1st,KP Pietersen,21,,RS Bopara,28,India,England,88,England,Feroz Shah Kotla,3,India
+119,19.5,1,RA Jadeja,2011-10-17,1st,KP Pietersen,21,,RS Bopara,29,India,England,89,England,Feroz Shah Kotla,3,India
+120,19.6,0,RA Jadeja,2011-10-17,1st,RS Bopara,29,,KP Pietersen,21,India,England,89,England,Feroz Shah Kotla,3,India
+121,20.1,0,R Ashwin,2011-10-17,1st,KP Pietersen,21,,RS Bopara,29,India,England,89,England,Feroz Shah Kotla,3,India
+122,20.2,1,R Ashwin,2011-10-17,1st,KP Pietersen,21,,RS Bopara,30,India,England,90,England,Feroz Shah Kotla,3,India
+123,20.3,1,R Ashwin,2011-10-17,1st,RS Bopara,30,,KP Pietersen,22,India,England,91,England,Feroz Shah Kotla,3,India
+124,20.4,1,R Ashwin,2011-10-17,1st,KP Pietersen,22,,RS Bopara,31,India,England,92,England,Feroz Shah Kotla,3,India
+125,20.5,0,R Ashwin,2011-10-17,1st,RS Bopara,31,,KP Pietersen,22,India,England,92,England,Feroz Shah Kotla,3,India
+126,20.6,1,R Ashwin,2011-10-17,1st,RS Bopara,31,,KP Pietersen,23,India,England,93,England,Feroz Shah Kotla,3,India
+127,21.1,0,RA Jadeja,2011-10-17,1st,RS Bopara,31,,KP Pietersen,23,India,England,93,England,Feroz Shah Kotla,3,India
+128,21.2,1,RA Jadeja,2011-10-17,1st,RS Bopara,31,,KP Pietersen,24,India,England,94,England,Feroz Shah Kotla,3,India
+129,21.3,0,RA Jadeja,2011-10-17,1st,KP Pietersen,24,,RS Bopara,31,India,England,94,England,Feroz Shah Kotla,3,India
+130,21.4,1,RA Jadeja,2011-10-17,1st,KP Pietersen,24,,RS Bopara,32,India,England,95,England,Feroz Shah Kotla,3,India
+131,21.5,6,RA Jadeja,2011-10-17,1st,RS Bopara,32,,KP Pietersen,30,India,England,101,England,Feroz Shah Kotla,3,India
+132,21.6,6,RA Jadeja,2011-10-17,1st,RS Bopara,32,,KP Pietersen,36,India,England,107,England,Feroz Shah Kotla,3,India
+133,22.1,1,R Ashwin,2011-10-17,1st,KP Pietersen,36,,RS Bopara,33,India,England,108,England,Feroz Shah Kotla,3,India
+134,22.2,1,R Ashwin,2011-10-17,1st,RS Bopara,33,,KP Pietersen,37,India,England,109,England,Feroz Shah Kotla,3,India
+135,22.3,0,R Ashwin,2011-10-17,1st,KP Pietersen,37,,RS Bopara,33,India,England,109,England,Feroz Shah Kotla,3,India
+136,22.4,0,R Ashwin,2011-10-17,1st,KP Pietersen,37,,RS Bopara,33,India,England,109,England,Feroz Shah Kotla,3,India
+137,22.5,1,R Ashwin,2011-10-17,1st,KP Pietersen,37,,RS Bopara,34,India,England,110,England,Feroz Shah Kotla,3,India
+138,22.6,1,R Ashwin,2011-10-17,1st,RS Bopara,34,,KP Pietersen,38,India,England,111,England,Feroz Shah Kotla,3,India
+139,23.1,1,UT Yadav,2011-10-17,1st,RS Bopara,34,,KP Pietersen,39,India,England,112,England,Feroz Shah Kotla,3,India
+140,23.2,1,UT Yadav,2011-10-17,1st,KP Pietersen,39,,RS Bopara,35,India,England,113,England,Feroz Shah Kotla,3,India
+141,23.3,0,UT Yadav,2011-10-17,1st,RS Bopara,35,,KP Pietersen,39,India,England,113,England,Feroz Shah Kotla,3,India
+142,23.4,0,UT Yadav,2011-10-17,1st,RS Bopara,35,,KP Pietersen,39,India,England,113,England,Feroz Shah Kotla,3,India
+143,23.5,1,UT Yadav,2011-10-17,1st,RS Bopara,35,,KP Pietersen,40,India,England,114,England,Feroz Shah Kotla,3,India
+144,23.6,0,UT Yadav,2011-10-17,1st,KP Pietersen,40,,RS Bopara,35,India,England,114,England,Feroz Shah Kotla,3,India
+145,24.1,1,R Ashwin,2011-10-17,1st,RS Bopara,35,,KP Pietersen,41,India,England,115,England,Feroz Shah Kotla,3,India
+146,24.2,1,R Ashwin,2011-10-17,1st,KP Pietersen,41,,RS Bopara,36,India,England,116,England,Feroz Shah Kotla,3,India
+147,24.3,4,R Ashwin,2011-10-17,1st,RS Bopara,36,,KP Pietersen,45,India,England,120,England,Feroz Shah Kotla,3,India
+148,24.4,1,R Ashwin,2011-10-17,1st,RS Bopara,36,,KP Pietersen,46,India,England,121,England,Feroz Shah Kotla,3,India
+149,24.5,0,R Ashwin,2011-10-17,1st,KP Pietersen,46,RS Bopara,RS Bopara,36,India,England,121,England,Feroz Shah Kotla,4,India
+150,24.6,0,R Ashwin,2011-10-17,1st,KP Pietersen,46,,JM Bairstow,0,India,England,121,England,Feroz Shah Kotla,4,India
+151,25.1,0,UT Yadav,2011-10-17,1st,JM Bairstow,0,,KP Pietersen,46,India,England,121,England,Feroz Shah Kotla,4,India
+152,25.2,0,UT Yadav,2011-10-17,1st,JM Bairstow,0,KP Pietersen,KP Pietersen,46,India,England,121,England,Feroz Shah Kotla,5,India
+153,25.3,0,UT Yadav,2011-10-17,1st,JM Bairstow,0,,SR Patel,0,India,England,121,England,Feroz Shah Kotla,5,India
+154,25.4,0,UT Yadav,2011-10-17,1st,JM Bairstow,0,,SR Patel,0,India,England,121,England,Feroz Shah Kotla,5,India
+155,25.5,0,UT Yadav,2011-10-17,1st,JM Bairstow,0,,SR Patel,0,India,England,121,England,Feroz Shah Kotla,5,India
+156,25.6,1,UT Yadav,2011-10-17,1st,JM Bairstow,0,,SR Patel,1,India,England,122,England,Feroz Shah Kotla,5,India
+157,26.1,0,R Ashwin,2011-10-17,1st,JM Bairstow,0,,SR Patel,1,India,England,122,England,Feroz Shah Kotla,5,India
+158,26.2,0,R Ashwin,2011-10-17,1st,JM Bairstow,0,,SR Patel,1,India,England,122,England,Feroz Shah Kotla,5,India
+159,26.3,1,R Ashwin,2011-10-17,1st,JM Bairstow,0,,SR Patel,2,India,England,123,England,Feroz Shah Kotla,5,India
+160,26.4,1,R Ashwin,2011-10-17,1st,SR Patel,2,,JM Bairstow,1,India,England,124,England,Feroz Shah Kotla,5,India
+161,26.5,0,R Ashwin,2011-10-17,1st,JM Bairstow,1,,SR Patel,2,India,England,124,England,Feroz Shah Kotla,5,India
+162,26.6,1,R Ashwin,2011-10-17,1st,JM Bairstow,1,,SR Patel,3,India,England,125,England,Feroz Shah Kotla,5,India
+163,27.1,0,UT Yadav,2011-10-17,1st,JM Bairstow,1,,SR Patel,3,India,England,125,England,Feroz Shah Kotla,5,India
+164,27.2,1,UT Yadav,2011-10-17,1st,JM Bairstow,1,,SR Patel,4,India,England,126,England,Feroz Shah Kotla,5,India
+165,27.3,0,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,1,India,England,126,England,Feroz Shah Kotla,5,India
+166,27.4,2,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,3,India,England,128,England,Feroz Shah Kotla,5,India
+167,27.5,1,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,4,India,England,129,England,Feroz Shah Kotla,5,India
+168,27.6,0,UT Yadav,2011-10-17,1st,JM Bairstow,4,,SR Patel,4,India,England,129,England,Feroz Shah Kotla,5,India
+169,28.1,0,R Ashwin,2011-10-17,1st,SR Patel,4,,JM Bairstow,4,India,England,129,England,Feroz Shah Kotla,5,India
+170,28.2,0,R Ashwin,2011-10-17,1st,SR Patel,4,,JM Bairstow,4,India,England,129,England,Feroz Shah Kotla,5,India
+171,28.3,0,R Ashwin,2011-10-17,1st,SR Patel,4,,JM Bairstow,4,India,England,129,England,Feroz Shah Kotla,5,India
+172,28.4,0,R Ashwin,2011-10-17,1st,SR Patel,4,,JM Bairstow,4,India,England,129,England,Feroz Shah Kotla,5,India
+173,28.5,2,R Ashwin,2011-10-17,1st,SR Patel,4,,JM Bairstow,6,India,England,131,England,Feroz Shah Kotla,5,India
+174,28.6,1,R Ashwin,2011-10-17,1st,SR Patel,4,,JM Bairstow,7,India,England,132,England,Feroz Shah Kotla,5,India
+175,29.1,0,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,7,India,England,132,England,Feroz Shah Kotla,5,India
+176,29.2,0,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,7,India,England,132,England,Feroz Shah Kotla,5,India
+177,29.3,4,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,11,India,England,136,England,Feroz Shah Kotla,5,India
+178,29.4,0,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,11,India,England,137,England,Feroz Shah Kotla,5,India
+179,29.5,0,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,11,India,England,137,England,Feroz Shah Kotla,5,India
+180,29.6,0,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,11,India,England,137,England,Feroz Shah Kotla,5,India
+181,29.7,1,UT Yadav,2011-10-17,1st,SR Patel,4,,JM Bairstow,12,India,England,138,England,Feroz Shah Kotla,5,India
+182,30.1,1,RA Jadeja,2011-10-17,1st,SR Patel,4,,JM Bairstow,13,India,England,139,England,Feroz Shah Kotla,5,India
+183,30.2,0,RA Jadeja,2011-10-17,1st,JM Bairstow,13,,SR Patel,4,India,England,139,England,Feroz Shah Kotla,5,India
+184,30.3,0,RA Jadeja,2011-10-17,1st,JM Bairstow,13,,SR Patel,4,India,England,139,England,Feroz Shah Kotla,5,India
+185,30.4,0,RA Jadeja,2011-10-17,1st,JM Bairstow,13,,SR Patel,4,India,England,139,England,Feroz Shah Kotla,5,India
+186,30.5,0,RA Jadeja,2011-10-17,1st,JM Bairstow,13,,SR Patel,4,India,England,140,England,Feroz Shah Kotla,5,India
+187,30.6,0,RA Jadeja,2011-10-17,1st,JM Bairstow,13,,SR Patel,4,India,England,140,England,Feroz Shah Kotla,5,India
+188,30.7,0,RA Jadeja,2011-10-17,1st,JM Bairstow,13,,SR Patel,4,India,England,140,England,Feroz Shah Kotla,5,India
+189,31.1,0,P Kumar,2011-10-17,1st,SR Patel,4,,JM Bairstow,13,India,England,140,England,Feroz Shah Kotla,5,India
+190,31.2,1,P Kumar,2011-10-17,1st,SR Patel,4,,JM Bairstow,14,India,England,141,England,Feroz Shah Kotla,5,India
+191,31.3,0,P Kumar,2011-10-17,1st,JM Bairstow,14,,SR Patel,4,India,England,141,England,Feroz Shah Kotla,5,India
+192,31.4,1,P Kumar,2011-10-17,1st,JM Bairstow,14,,SR Patel,5,India,England,142,England,Feroz Shah Kotla,5,India
+193,31.5,0,P Kumar,2011-10-17,1st,SR Patel,5,,JM Bairstow,14,India,England,142,England,Feroz Shah Kotla,5,India
+194,31.6,0,P Kumar,2011-10-17,1st,SR Patel,5,,JM Bairstow,14,India,England,142,England,Feroz Shah Kotla,5,India
+195,32.1,0,RA Jadeja,2011-10-17,1st,JM Bairstow,14,,SR Patel,5,India,England,142,England,Feroz Shah Kotla,5,India
+196,32.2,6,RA Jadeja,2011-10-17,1st,JM Bairstow,14,,SR Patel,11,India,England,148,England,Feroz Shah Kotla,5,India
+197,32.3,0,RA Jadeja,2011-10-17,1st,JM Bairstow,14,,SR Patel,11,India,England,148,England,Feroz Shah Kotla,5,India
+198,32.4,0,RA Jadeja,2011-10-17,1st,JM Bairstow,14,,SR Patel,11,India,England,148,England,Feroz Shah Kotla,5,India
+199,32.5,2,RA Jadeja,2011-10-17,1st,JM Bairstow,14,,SR Patel,13,India,England,150,England,Feroz Shah Kotla,5,India
+200,32.6,0,RA Jadeja,2011-10-17,1st,JM Bairstow,14,,SR Patel,13,India,England,150,England,Feroz Shah Kotla,5,India
+201,33.1,0,P Kumar,2011-10-17,1st,SR Patel,13,,JM Bairstow,14,India,England,150,England,Feroz Shah Kotla,5,India
+202,33.2,0,P Kumar,2011-10-17,1st,SR Patel,13,,JM Bairstow,14,India,England,150,England,Feroz Shah Kotla,5,India
+203,33.3,1,P Kumar,2011-10-17,1st,SR Patel,13,,JM Bairstow,15,India,England,151,England,Feroz Shah Kotla,5,India
+204,33.4,0,P Kumar,2011-10-17,1st,JM Bairstow,15,,SR Patel,13,India,England,151,England,Feroz Shah Kotla,5,India
+205,33.5,1,P Kumar,2011-10-17,1st,JM Bairstow,15,,SR Patel,14,India,England,152,England,Feroz Shah Kotla,5,India
+206,33.6,0,P Kumar,2011-10-17,1st,SR Patel,14,,JM Bairstow,15,India,England,152,England,Feroz Shah Kotla,5,India
+207,34.1,0,V Kohli,2011-10-17,1st,JM Bairstow,15,,SR Patel,14,India,England,152,England,Feroz Shah Kotla,5,India
+208,34.2,1,V Kohli,2011-10-17,1st,JM Bairstow,15,,SR Patel,15,India,England,153,England,Feroz Shah Kotla,5,India
+209,34.3,0,V Kohli,2011-10-17,1st,SR Patel,15,,JM Bairstow,15,India,England,153,England,Feroz Shah Kotla,5,India
+210,34.4,0,V Kohli,2011-10-17,1st,SR Patel,15,,JM Bairstow,15,India,England,153,England,Feroz Shah Kotla,5,India
+211,34.5,0,V Kohli,2011-10-17,1st,SR Patel,15,,JM Bairstow,15,India,England,153,England,Feroz Shah Kotla,5,India
+212,34.6,1,V Kohli,2011-10-17,1st,SR Patel,15,,JM Bairstow,16,India,England,154,England,Feroz Shah Kotla,5,India
+213,35.1,1,R Ashwin,2011-10-17,1st,SR Patel,15,,JM Bairstow,17,India,England,155,England,Feroz Shah Kotla,5,India
+214,35.2,0,R Ashwin,2011-10-17,1st,JM Bairstow,17,,SR Patel,15,India,England,155,England,Feroz Shah Kotla,5,India
+215,35.3,0,R Ashwin,2011-10-17,1st,JM Bairstow,17,,SR Patel,15,India,England,156,England,Feroz Shah Kotla,5,India
+216,35.4,0,R Ashwin,2011-10-17,1st,JM Bairstow,17,,SR Patel,15,India,England,156,England,Feroz Shah Kotla,5,India
+217,35.5,1,R Ashwin,2011-10-17,1st,JM Bairstow,17,,SR Patel,16,India,England,157,England,Feroz Shah Kotla,5,India
+218,35.6,0,R Ashwin,2011-10-17,1st,SR Patel,16,,JM Bairstow,17,India,England,157,England,Feroz Shah Kotla,5,India
+219,35.7,0,R Ashwin,2011-10-17,1st,SR Patel,16,,JM Bairstow,17,India,England,157,England,Feroz Shah Kotla,5,India
+220,36.1,0,P Kumar,2011-10-17,1st,JM Bairstow,17,,SR Patel,16,India,England,157,England,Feroz Shah Kotla,5,India
+221,36.2,0,P Kumar,2011-10-17,1st,JM Bairstow,17,,SR Patel,16,India,England,158,England,Feroz Shah Kotla,5,India
+222,36.3,0,P Kumar,2011-10-17,1st,JM Bairstow,17,,SR Patel,16,India,England,158,England,Feroz Shah Kotla,5,India
+223,36.4,2,P Kumar,2011-10-17,1st,JM Bairstow,17,,SR Patel,18,India,England,160,England,Feroz Shah Kotla,5,India
+224,36.5,1,P Kumar,2011-10-17,1st,JM Bairstow,17,,SR Patel,19,India,England,161,England,Feroz Shah Kotla,5,India
+225,36.6,0,P Kumar,2011-10-17,1st,SR Patel,19,,JM Bairstow,17,India,England,161,England,Feroz Shah Kotla,5,India
+226,36.7,0,P Kumar,2011-10-17,1st,SR Patel,19,,JM Bairstow,17,India,England,161,England,Feroz Shah Kotla,5,India
+227,37.1,4,R Ashwin,2011-10-17,1st,JM Bairstow,17,,SR Patel,23,India,England,165,England,Feroz Shah Kotla,5,India
+228,37.2,1,R Ashwin,2011-10-17,1st,JM Bairstow,17,,SR Patel,24,India,England,166,England,Feroz Shah Kotla,5,India
+229,37.3,1,R Ashwin,2011-10-17,1st,SR Patel,24,,JM Bairstow,18,India,England,167,England,Feroz Shah Kotla,5,India
+230,37.4,1,R Ashwin,2011-10-17,1st,JM Bairstow,18,,SR Patel,25,India,England,168,England,Feroz Shah Kotla,5,India
+231,37.5,4,R Ashwin,2011-10-17,1st,SR Patel,25,,JM Bairstow,22,India,England,172,England,Feroz Shah Kotla,5,India
+232,37.6,0,R Ashwin,2011-10-17,1st,SR Patel,25,,JM Bairstow,22,India,England,173,England,Feroz Shah Kotla,5,India
+233,37.7,0,R Ashwin,2011-10-17,1st,SR Patel,25,,JM Bairstow,22,India,England,173,England,Feroz Shah Kotla,5,India
+234,38.1,0,P Kumar,2011-10-17,1st,JM Bairstow,22,,SR Patel,25,India,England,173,England,Feroz Shah Kotla,5,India
+235,38.2,1,P Kumar,2011-10-17,1st,JM Bairstow,22,,SR Patel,26,India,England,174,England,Feroz Shah Kotla,5,India
+236,38.3,1,P Kumar,2011-10-17,1st,SR Patel,26,,JM Bairstow,23,India,England,175,England,Feroz Shah Kotla,5,India
+237,38.4,1,P Kumar,2011-10-17,1st,JM Bairstow,23,,SR Patel,27,India,England,176,England,Feroz Shah Kotla,5,India
+238,38.5,2,P Kumar,2011-10-17,1st,SR Patel,27,,JM Bairstow,25,India,England,178,England,Feroz Shah Kotla,5,India
+239,38.6,1,P Kumar,2011-10-17,1st,SR Patel,27,,JM Bairstow,26,India,England,179,England,Feroz Shah Kotla,5,India
+240,39.1,0,R Ashwin,2011-10-17,1st,SR Patel,27,,JM Bairstow,26,India,England,180,England,Feroz Shah Kotla,5,India
+241,39.2,6,R Ashwin,2011-10-17,1st,JM Bairstow,26,,SR Patel,33,India,England,186,England,Feroz Shah Kotla,5,India
+242,39.3,0,R Ashwin,2011-10-17,1st,JM Bairstow,26,,SR Patel,33,India,England,186,England,Feroz Shah Kotla,5,India
+243,39.4,0,R Ashwin,2011-10-17,1st,JM Bairstow,26,,SR Patel,33,India,England,186,England,Feroz Shah Kotla,5,India
+244,39.5,1,R Ashwin,2011-10-17,1st,JM Bairstow,26,,SR Patel,34,India,England,187,England,Feroz Shah Kotla,5,India
+245,39.6,0,R Ashwin,2011-10-17,1st,SR Patel,34,,JM Bairstow,26,India,England,188,England,Feroz Shah Kotla,5,India
+246,39.7,2,R Ashwin,2011-10-17,1st,SR Patel,34,,JM Bairstow,28,India,England,190,England,Feroz Shah Kotla,5,India
+247,40.1,4,V Kohli,2011-10-17,1st,JM Bairstow,28,,SR Patel,38,India,England,194,England,Feroz Shah Kotla,5,India
+248,40.2,1,V Kohli,2011-10-17,1st,JM Bairstow,28,,SR Patel,39,India,England,195,England,Feroz Shah Kotla,5,India
+249,40.3,1,V Kohli,2011-10-17,1st,SR Patel,39,,JM Bairstow,29,India,England,196,England,Feroz Shah Kotla,5,India
+250,40.4,1,V Kohli,2011-10-17,1st,JM Bairstow,29,,SR Patel,40,India,England,197,England,Feroz Shah Kotla,5,India
+251,40.5,1,V Kohli,2011-10-17,1st,SR Patel,40,,JM Bairstow,30,India,England,198,England,Feroz Shah Kotla,5,India
+252,40.6,1,V Kohli,2011-10-17,1st,JM Bairstow,30,,SR Patel,41,India,England,199,England,Feroz Shah Kotla,5,India
+253,41.1,1,UT Yadav,2011-10-17,1st,JM Bairstow,30,,SR Patel,42,India,England,200,England,Feroz Shah Kotla,5,India
+254,41.2,4,UT Yadav,2011-10-17,1st,SR Patel,42,,JM Bairstow,34,India,England,204,England,Feroz Shah Kotla,5,India
+255,41.3,0,UT Yadav,2011-10-17,1st,SR Patel,42,,JM Bairstow,34,India,England,206,England,Feroz Shah Kotla,5,India
+256,41.4,0,UT Yadav,2011-10-17,1st,JM Bairstow,34,,SR Patel,42,India,England,206,England,Feroz Shah Kotla,5,India
+257,41.5,0,UT Yadav,2011-10-17,1st,JM Bairstow,34,,SR Patel,42,India,England,207,England,Feroz Shah Kotla,5,India
+258,41.6,0,UT Yadav,2011-10-17,1st,JM Bairstow,34,SR Patel,SR Patel,42,India,England,207,England,Feroz Shah Kotla,6,India
+259,41.7,0,UT Yadav,2011-10-17,1st,JM Bairstow,34,,TT Bresnan,0,India,England,207,England,Feroz Shah Kotla,6,India
+260,41.8,1,UT Yadav,2011-10-17,1st,JM Bairstow,34,,TT Bresnan,1,India,England,208,England,Feroz Shah Kotla,6,India
+261,42.1,1,RA Jadeja,2011-10-17,1st,JM Bairstow,34,,TT Bresnan,2,India,England,209,England,Feroz Shah Kotla,6,India
+262,42.2,1,RA Jadeja,2011-10-17,1st,TT Bresnan,2,,JM Bairstow,35,India,England,210,England,Feroz Shah Kotla,6,India
+263,42.3,0,RA Jadeja,2011-10-17,1st,JM Bairstow,35,,TT Bresnan,2,India,England,210,England,Feroz Shah Kotla,6,India
+264,42.4,1,RA Jadeja,2011-10-17,1st,JM Bairstow,35,,TT Bresnan,3,India,England,211,England,Feroz Shah Kotla,6,India
+265,42.5,0,RA Jadeja,2011-10-17,1st,TT Bresnan,3,,JM Bairstow,35,India,England,211,England,Feroz Shah Kotla,6,India
+266,42.6,0,RA Jadeja,2011-10-17,1st,TT Bresnan,3,JM Bairstow,JM Bairstow,35,India,England,211,England,Feroz Shah Kotla,7,India
+267,43.1,0,UT Yadav,2011-10-17,1st,TT Bresnan,3,,GP Swann,0,India,England,211,England,Feroz Shah Kotla,7,India
+268,43.2,4,UT Yadav,2011-10-17,1st,TT Bresnan,3,,GP Swann,4,India,England,215,England,Feroz Shah Kotla,7,India
+269,43.3,0,UT Yadav,2011-10-17,1st,TT Bresnan,3,,GP Swann,4,India,England,215,England,Feroz Shah Kotla,7,India
+270,43.4,1,UT Yadav,2011-10-17,1st,TT Bresnan,3,,GP Swann,5,India,England,216,England,Feroz Shah Kotla,7,India
+271,43.5,4,UT Yadav,2011-10-17,1st,GP Swann,5,,TT Bresnan,7,India,England,220,England,Feroz Shah Kotla,7,India
+272,43.6,1,UT Yadav,2011-10-17,1st,GP Swann,5,,TT Bresnan,8,India,England,221,England,Feroz Shah Kotla,7,India
+273,44.1,2,RA Jadeja,2011-10-17,1st,GP Swann,5,,TT Bresnan,10,India,England,223,England,Feroz Shah Kotla,7,India
+274,44.2,0,RA Jadeja,2011-10-17,1st,GP Swann,5,,TT Bresnan,10,India,England,223,England,Feroz Shah Kotla,7,India
+275,44.3,1,RA Jadeja,2011-10-17,1st,GP Swann,5,,TT Bresnan,11,India,England,224,England,Feroz Shah Kotla,7,India
+276,44.4,1,RA Jadeja,2011-10-17,1st,TT Bresnan,11,,GP Swann,6,India,England,225,England,Feroz Shah Kotla,7,India
+277,44.5,1,RA Jadeja,2011-10-17,1st,GP Swann,6,,TT Bresnan,12,India,England,226,England,Feroz Shah Kotla,7,India
+278,44.6,1,RA Jadeja,2011-10-17,1st,TT Bresnan,12,,GP Swann,7,India,England,227,England,Feroz Shah Kotla,7,India
+279,45.1,0,R Vinay Kumar,2011-10-17,1st,TT Bresnan,12,GP Swann,GP Swann,7,India,England,227,England,Feroz Shah Kotla,8,India
+280,45.2,0,R Vinay Kumar,2011-10-17,1st,TT Bresnan,12,,ST Finn,0,India,England,227,England,Feroz Shah Kotla,8,India
+281,45.3,0,R Vinay Kumar,2011-10-17,1st,TT Bresnan,12,,ST Finn,0,India,England,227,England,Feroz Shah Kotla,8,India
+282,45.4,1,R Vinay Kumar,2011-10-17,1st,TT Bresnan,12,,ST Finn,1,India,England,228,England,Feroz Shah Kotla,8,India
+283,45.5,0,R Vinay Kumar,2011-10-17,1st,ST Finn,1,,TT Bresnan,12,India,England,228,England,Feroz Shah Kotla,8,India
+284,45.6,0,R Vinay Kumar,2011-10-17,1st,ST Finn,1,,TT Bresnan,12,India,England,229,England,Feroz Shah Kotla,8,India
+285,45.7,0,R Vinay Kumar,2011-10-17,1st,ST Finn,1,TT Bresnan,TT Bresnan,12,India,England,229,England,Feroz Shah Kotla,9,India
+286,46.1,0,UT Yadav,2011-10-17,1st,JW Dernbach,0,,ST Finn,1,India,England,229,England,Feroz Shah Kotla,9,India
+287,46.2,1,UT Yadav,2011-10-17,1st,JW Dernbach,0,,ST Finn,2,India,England,230,England,Feroz Shah Kotla,9,India
+288,46.3,1,UT Yadav,2011-10-17,1st,ST Finn,2,,JW Dernbach,1,India,England,231,England,Feroz Shah Kotla,9,India
+289,46.4,0,UT Yadav,2011-10-17,1st,JW Dernbach,1,,ST Finn,2,India,England,231,England,Feroz Shah Kotla,9,India
+290,46.5,0,UT Yadav,2011-10-17,1st,JW Dernbach,1,,ST Finn,2,India,England,231,England,Feroz Shah Kotla,9,India
+291,46.6,1,UT Yadav,2011-10-17,1st,JW Dernbach,1,,ST Finn,3,India,England,232,England,Feroz Shah Kotla,9,India
+292,47.1,0,R Vinay Kumar,2011-10-17,1st,JW Dernbach,1,,ST Finn,3,India,England,232,England,Feroz Shah Kotla,9,India
+293,47.2,0,R Vinay Kumar,2011-10-17,1st,JW Dernbach,1,,ST Finn,3,India,England,232,England,Feroz Shah Kotla,9,India
+294,47.3,1,R Vinay Kumar,2011-10-17,1st,JW Dernbach,1,,ST Finn,4,India,England,233,England,Feroz Shah Kotla,9,India
+295,47.4,1,R Vinay Kumar,2011-10-17,1st,ST Finn,4,,JW Dernbach,2,India,England,234,England,Feroz Shah Kotla,9,India
+296,47.5,1,R Vinay Kumar,2011-10-17,1st,JW Dernbach,2,,ST Finn,5,India,England,235,England,Feroz Shah Kotla,9,India
+297,47.6,0,R Vinay Kumar,2011-10-17,1st,ST Finn,5,,JW Dernbach,2,India,England,235,England,Feroz Shah Kotla,9,India
+298,48.1,1,UT Yadav,2011-10-17,1st,JW Dernbach,2,,ST Finn,6,India,England,236,England,Feroz Shah Kotla,9,India
+299,48.2,1,UT Yadav,2011-10-17,1st,ST Finn,6,JW Dernbach,JW Dernbach,3,India,England,237,England,Feroz Shah Kotla,10,India
+300,0.1,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,0,England,Feroz Shah Kotla,0,India
+301,0.2,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,0,England,Feroz Shah Kotla,0,India
+302,0.3,1,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,1,England,Feroz Shah Kotla,0,India
+303,0.4,0,TT Bresnan,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,1,England,Feroz Shah Kotla,0,India
+304,0.5,0,TT Bresnan,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,1,England,Feroz Shah Kotla,0,India
+305,0.6,0,TT Bresnan,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,1,England,Feroz Shah Kotla,0,India
+306,1.1,1,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,2,England,Feroz Shah Kotla,0,India
+307,1.2,1,ST Finn,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,3,England,Feroz Shah Kotla,0,India
+308,1.3,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,3,England,Feroz Shah Kotla,0,India
+309,1.4,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,3,England,Feroz Shah Kotla,0,India
+310,1.5,4,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,7,England,Feroz Shah Kotla,0,India
+311,1.6,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,7,England,Feroz Shah Kotla,0,India
+312,2.1,0,TT Bresnan,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,7,England,Feroz Shah Kotla,0,India
+313,2.2,0,TT Bresnan,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,8,England,Feroz Shah Kotla,0,India
+314,2.3,4,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,12,England,Feroz Shah Kotla,0,India
+315,2.4,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,12,England,Feroz Shah Kotla,0,India
+316,2.5,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,12,England,Feroz Shah Kotla,0,India
+317,2.6,1,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,13,England,Feroz Shah Kotla,0,India
+318,3.1,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,13,England,Feroz Shah Kotla,0,India
+319,3.2,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,13,England,Feroz Shah Kotla,0,India
+320,3.3,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,13,England,Feroz Shah Kotla,0,India
+321,3.4,1,ST Finn,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,14,England,Feroz Shah Kotla,0,India
+322,3.5,0,ST Finn,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,14,England,Feroz Shah Kotla,0,India
+323,3.6,0,ST Finn,2011-10-17,2nd,PA Patel,0,,AM Rahane,0,India,England,14,England,Feroz Shah Kotla,0,India
+324,4.1,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,PA Patel,0,India,England,14,England,Feroz Shah Kotla,1,India
+325,4.2,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,14,England,Feroz Shah Kotla,1,India
+326,4.3,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,14,England,Feroz Shah Kotla,1,India
+327,4.4,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,14,England,Feroz Shah Kotla,1,India
+328,4.5,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,14,England,Feroz Shah Kotla,1,India
+329,4.6,0,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,14,England,Feroz Shah Kotla,1,India
+330,5.1,1,ST Finn,2011-10-17,2nd,G Gambhir,0,,AM Rahane,0,India,England,15,England,Feroz Shah Kotla,1,India
+331,5.2,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,15,England,Feroz Shah Kotla,1,India
+332,5.3,1,ST Finn,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,16,England,Feroz Shah Kotla,1,India
+333,5.4,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,AM Rahane,0,India,England,16,England,Feroz Shah Kotla,1,India
+334,5.5,1,ST Finn,2011-10-17,2nd,G Gambhir,0,,AM Rahane,0,India,England,17,England,Feroz Shah Kotla,1,India
+335,5.6,0,ST Finn,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,17,England,Feroz Shah Kotla,1,India
+336,6.1,4,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,AM Rahane,0,India,England,21,England,Feroz Shah Kotla,1,India
+337,6.2,1,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,AM Rahane,0,India,England,22,England,Feroz Shah Kotla,1,India
+338,6.3,1,TT Bresnan,2011-10-17,2nd,AM Rahane,0,,G Gambhir,0,India,England,23,England,Feroz Shah Kotla,1,India
+339,6.4,6,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,AM Rahane,0,India,England,29,England,Feroz Shah Kotla,1,India
+340,6.5,0,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,AM Rahane,0,India,England,29,England,Feroz Shah Kotla,2,India
+341,6.6,0,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,29,England,Feroz Shah Kotla,2,India
+342,7.1,1,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,30,England,Feroz Shah Kotla,2,India
+343,7.2,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,31,England,Feroz Shah Kotla,2,India
+344,7.3,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,31,England,Feroz Shah Kotla,2,India
+345,7.4,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,31,England,Feroz Shah Kotla,2,India
+346,7.5,4,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,35,England,Feroz Shah Kotla,2,India
+347,7.6,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,35,England,Feroz Shah Kotla,2,India
+348,7.7,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,35,England,Feroz Shah Kotla,2,India
+349,8.1,0,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,35,England,Feroz Shah Kotla,2,India
+350,8.2,0,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,35,England,Feroz Shah Kotla,2,India
+351,8.3,0,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,36,England,Feroz Shah Kotla,2,India
+352,8.4,0,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,36,England,Feroz Shah Kotla,2,India
+353,8.5,1,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,37,England,Feroz Shah Kotla,2,India
+354,8.6,0,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,37,England,Feroz Shah Kotla,2,India
+355,8.7,4,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,41,England,Feroz Shah Kotla,2,India
+356,9.1,4,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,45,England,Feroz Shah Kotla,2,India
+357,9.2,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,45,England,Feroz Shah Kotla,2,India
+358,9.3,4,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,49,England,Feroz Shah Kotla,2,India
+359,9.4,4,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,53,England,Feroz Shah Kotla,2,India
+360,9.5,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,53,England,Feroz Shah Kotla,2,India
+361,9.6,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,53,England,Feroz Shah Kotla,2,India
+362,10.1,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,54,England,Feroz Shah Kotla,2,India
+363,10.2,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,55,England,Feroz Shah Kotla,2,India
+364,10.3,0,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,55,England,Feroz Shah Kotla,2,India
+365,10.4,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,56,England,Feroz Shah Kotla,2,India
+366,10.5,0,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,56,England,Feroz Shah Kotla,2,India
+367,10.6,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,57,England,Feroz Shah Kotla,2,India
+368,11.1,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,57,England,Feroz Shah Kotla,2,India
+369,11.2,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,57,England,Feroz Shah Kotla,2,India
+370,11.3,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,57,England,Feroz Shah Kotla,2,India
+371,11.4,2,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,59,England,Feroz Shah Kotla,2,India
+372,11.5,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,60,England,Feroz Shah Kotla,2,India
+373,11.6,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,61,England,Feroz Shah Kotla,2,India
+374,12.1,4,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,65,England,Feroz Shah Kotla,2,India
+375,12.2,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,66,England,Feroz Shah Kotla,2,India
+376,12.3,0,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,66,England,Feroz Shah Kotla,2,India
+377,12.4,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,67,England,Feroz Shah Kotla,2,India
+378,12.5,4,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,71,England,Feroz Shah Kotla,2,India
+379,12.6,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,72,England,Feroz Shah Kotla,2,India
+380,13.1,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,73,England,Feroz Shah Kotla,2,India
+381,13.2,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,73,England,Feroz Shah Kotla,2,India
+382,13.3,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,74,England,Feroz Shah Kotla,2,India
+383,13.4,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,75,England,Feroz Shah Kotla,2,India
+384,13.5,4,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,79,England,Feroz Shah Kotla,2,India
+385,13.6,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,79,England,Feroz Shah Kotla,2,India
+386,14.1,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,79,England,Feroz Shah Kotla,2,India
+387,14.2,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,79,England,Feroz Shah Kotla,2,India
+388,14.3,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,80,England,Feroz Shah Kotla,2,India
+389,14.4,1,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,81,England,Feroz Shah Kotla,2,India
+390,14.5,1,RS Bopara,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,82,England,Feroz Shah Kotla,2,India
+391,14.6,4,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,86,England,Feroz Shah Kotla,2,India
+392,14.7,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,86,England,Feroz Shah Kotla,2,India
+393,15.1,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,86,England,Feroz Shah Kotla,2,India
+394,15.2,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,87,England,Feroz Shah Kotla,2,India
+395,15.3,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,88,England,Feroz Shah Kotla,2,India
+396,15.4,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,88,England,Feroz Shah Kotla,2,India
+397,15.5,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,88,England,Feroz Shah Kotla,2,India
+398,15.6,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,89,England,Feroz Shah Kotla,2,India
+399,16.1,1,RS Bopara,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,90,England,Feroz Shah Kotla,2,India
+400,16.2,4,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,94,England,Feroz Shah Kotla,2,India
+401,16.3,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,94,England,Feroz Shah Kotla,2,India
+402,16.4,1,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,95,England,Feroz Shah Kotla,2,India
+403,16.5,0,RS Bopara,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,95,England,Feroz Shah Kotla,2,India
+404,16.6,0,RS Bopara,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,95,England,Feroz Shah Kotla,2,India
+405,17.1,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,96,England,Feroz Shah Kotla,2,India
+406,17.2,0,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,96,England,Feroz Shah Kotla,2,India
+407,17.3,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,97,England,Feroz Shah Kotla,2,India
+408,17.4,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,98,England,Feroz Shah Kotla,2,India
+409,17.5,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,99,England,Feroz Shah Kotla,2,India
+410,17.6,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,100,England,Feroz Shah Kotla,2,India
+411,18.1,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,100,England,Feroz Shah Kotla,2,India
+412,18.2,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,101,England,Feroz Shah Kotla,2,India
+413,18.3,4,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,105,England,Feroz Shah Kotla,2,India
+414,18.4,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,105,England,Feroz Shah Kotla,2,India
+415,18.5,1,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,106,England,Feroz Shah Kotla,2,India
+416,18.6,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,106,England,Feroz Shah Kotla,2,India
+417,18.7,1,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,107,England,Feroz Shah Kotla,2,India
+418,19.1,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,108,England,Feroz Shah Kotla,2,India
+419,19.2,0,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,108,England,Feroz Shah Kotla,2,India
+420,19.3,0,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,108,England,Feroz Shah Kotla,2,India
+421,19.4,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,109,England,Feroz Shah Kotla,2,India
+422,19.5,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,110,England,Feroz Shah Kotla,2,India
+423,19.6,2,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,112,England,Feroz Shah Kotla,2,India
+424,20.1,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,112,England,Feroz Shah Kotla,2,India
+425,20.2,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,112,England,Feroz Shah Kotla,2,India
+426,20.3,4,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,116,England,Feroz Shah Kotla,2,India
+427,20.4,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,116,England,Feroz Shah Kotla,2,India
+428,20.5,1,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,117,England,Feroz Shah Kotla,2,India
+429,20.6,3,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,120,England,Feroz Shah Kotla,2,India
+430,21.1,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,120,England,Feroz Shah Kotla,2,India
+431,21.2,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,120,England,Feroz Shah Kotla,2,India
+432,21.3,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,121,England,Feroz Shah Kotla,2,India
+433,21.4,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,122,England,Feroz Shah Kotla,2,India
+434,21.5,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,123,England,Feroz Shah Kotla,2,India
+435,21.6,4,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,127,England,Feroz Shah Kotla,2,India
+436,22.1,0,SR Patel,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,127,England,Feroz Shah Kotla,2,India
+437,22.2,1,SR Patel,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,128,England,Feroz Shah Kotla,2,India
+438,22.3,0,SR Patel,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,128,England,Feroz Shah Kotla,2,India
+439,22.4,1,SR Patel,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,129,England,Feroz Shah Kotla,2,India
+440,22.5,1,SR Patel,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,130,England,Feroz Shah Kotla,2,India
+441,22.6,2,SR Patel,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,132,England,Feroz Shah Kotla,2,India
+442,23.1,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,132,England,Feroz Shah Kotla,2,India
+443,23.2,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,133,England,Feroz Shah Kotla,2,India
+444,23.3,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,133,England,Feroz Shah Kotla,2,India
+445,23.4,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,134,England,Feroz Shah Kotla,2,India
+446,23.5,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,135,England,Feroz Shah Kotla,2,India
+447,23.6,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,136,England,Feroz Shah Kotla,2,India
+448,24.1,2,SR Patel,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,138,England,Feroz Shah Kotla,2,India
+449,24.2,0,SR Patel,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,138,England,Feroz Shah Kotla,2,India
+450,24.3,4,SR Patel,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,142,England,Feroz Shah Kotla,2,India
+451,24.4,1,SR Patel,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,143,England,Feroz Shah Kotla,2,India
+452,24.5,4,SR Patel,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,147,England,Feroz Shah Kotla,2,India
+453,24.6,1,SR Patel,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,148,England,Feroz Shah Kotla,2,India
+454,25.1,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,149,England,Feroz Shah Kotla,2,India
+455,25.2,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,149,England,Feroz Shah Kotla,2,India
+456,25.3,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,149,England,Feroz Shah Kotla,2,India
+457,25.4,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,150,England,Feroz Shah Kotla,2,India
+458,25.5,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,150,England,Feroz Shah Kotla,2,India
+459,25.6,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,155,England,Feroz Shah Kotla,2,India
+460,25.7,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,155,England,Feroz Shah Kotla,2,India
+461,26.1,1,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,156,England,Feroz Shah Kotla,2,India
+462,26.2,0,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,156,England,Feroz Shah Kotla,2,India
+463,26.3,4,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,160,England,Feroz Shah Kotla,2,India
+464,26.4,0,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,160,England,Feroz Shah Kotla,2,India
+465,26.5,1,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,161,England,Feroz Shah Kotla,2,India
+466,26.6,4,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,165,England,Feroz Shah Kotla,2,India
+467,27.1,2,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,167,England,Feroz Shah Kotla,2,India
+468,27.2,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,167,England,Feroz Shah Kotla,2,India
+469,27.3,4,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,171,England,Feroz Shah Kotla,2,India
+470,27.4,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,171,England,Feroz Shah Kotla,2,India
+471,27.5,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,172,England,Feroz Shah Kotla,2,India
+472,27.6,4,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,176,England,Feroz Shah Kotla,2,India
+473,28.1,1,KP Pietersen,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,177,England,Feroz Shah Kotla,2,India
+474,28.2,0,KP Pietersen,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,177,England,Feroz Shah Kotla,2,India
+475,28.3,0,KP Pietersen,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,177,England,Feroz Shah Kotla,2,India
+476,28.4,0,KP Pietersen,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,178,England,Feroz Shah Kotla,2,India
+477,28.5,4,KP Pietersen,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,182,England,Feroz Shah Kotla,2,India
+478,28.6,1,KP Pietersen,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,183,England,Feroz Shah Kotla,2,India
+479,29.1,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,183,England,Feroz Shah Kotla,2,India
+480,29.2,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,183,England,Feroz Shah Kotla,2,India
+481,29.3,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,183,England,Feroz Shah Kotla,2,India
+482,29.4,2,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,185,England,Feroz Shah Kotla,2,India
+483,29.5,1,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,186,England,Feroz Shah Kotla,2,India
+484,29.6,1,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,187,England,Feroz Shah Kotla,2,India
+485,30.1,0,KP Pietersen,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,188,England,Feroz Shah Kotla,2,India
+486,30.2,1,KP Pietersen,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,189,England,Feroz Shah Kotla,2,India
+487,30.3,1,KP Pietersen,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,190,England,Feroz Shah Kotla,2,India
+488,30.4,1,KP Pietersen,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,191,England,Feroz Shah Kotla,2,India
+489,30.5,1,KP Pietersen,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,192,England,Feroz Shah Kotla,2,India
+490,30.6,1,KP Pietersen,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,193,England,Feroz Shah Kotla,2,India
+491,30.7,1,KP Pietersen,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,194,England,Feroz Shah Kotla,2,India
+492,31.1,1,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,195,England,Feroz Shah Kotla,2,India
+493,31.2,1,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,196,England,Feroz Shah Kotla,2,India
+494,31.3,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,196,England,Feroz Shah Kotla,2,India
+495,31.4,0,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,196,England,Feroz Shah Kotla,2,India
+496,31.5,1,ST Finn,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,197,England,Feroz Shah Kotla,2,India
+497,31.6,0,ST Finn,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,197,England,Feroz Shah Kotla,2,India
+498,32.1,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,197,England,Feroz Shah Kotla,2,India
+499,32.2,4,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,201,England,Feroz Shah Kotla,2,India
+500,32.3,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,201,England,Feroz Shah Kotla,2,India
+501,32.4,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,202,England,Feroz Shah Kotla,2,India
+502,32.5,0,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,202,England,Feroz Shah Kotla,2,India
+503,32.6,1,RS Bopara,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,203,England,Feroz Shah Kotla,2,India
+504,32.7,0,RS Bopara,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,204,England,Feroz Shah Kotla,2,India
+505,32.8,1,RS Bopara,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,205,England,Feroz Shah Kotla,2,India
+506,33.1,4,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,209,England,Feroz Shah Kotla,2,India
+507,33.2,1,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,210,England,Feroz Shah Kotla,2,India
+508,33.3,4,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,214,England,Feroz Shah Kotla,2,India
+509,33.4,0,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,214,England,Feroz Shah Kotla,2,India
+510,33.5,1,GP Swann,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,215,England,Feroz Shah Kotla,2,India
+511,33.6,0,GP Swann,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,215,England,Feroz Shah Kotla,2,India
+512,34.1,0,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,215,England,Feroz Shah Kotla,2,India
+513,34.2,4,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,219,England,Feroz Shah Kotla,2,India
+514,34.3,0,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,220,England,Feroz Shah Kotla,2,India
+515,34.4,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,221,England,Feroz Shah Kotla,2,India
+516,34.5,2,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,223,England,Feroz Shah Kotla,2,India
+517,34.6,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,224,England,Feroz Shah Kotla,2,India
+518,34.7,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,225,England,Feroz Shah Kotla,2,India
+519,35.1,0,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,225,England,Feroz Shah Kotla,2,India
+520,35.2,1,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,226,England,Feroz Shah Kotla,2,India
+521,35.3,1,TT Bresnan,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,227,England,Feroz Shah Kotla,2,India
+522,35.4,0,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,227,England,Feroz Shah Kotla,2,India
+523,35.5,4,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,231,England,Feroz Shah Kotla,2,India
+524,35.6,1,TT Bresnan,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,232,England,Feroz Shah Kotla,2,India
+525,36.1,0,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,232,England,Feroz Shah Kotla,2,India
+526,36.2,1,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,233,England,Feroz Shah Kotla,2,India
+527,36.3,1,JW Dernbach,2011-10-17,2nd,V Kohli,0,,G Gambhir,0,India,England,234,England,Feroz Shah Kotla,2,India
+528,36.4,4,JW Dernbach,2011-10-17,2nd,G Gambhir,0,,V Kohli,0,India,England,238,England,Feroz Shah Kotla,2,India

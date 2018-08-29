@@ -1,0 +1,588 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,DW Steyn,2009-04-17,1st,MJ Clarke,0,,BJ Haddin,0,South Africa,Australia,0,South Africa,New Wanderers Stadium,0,Australia
+1,0.2,1,DW Steyn,2009-04-17,1st,MJ Clarke,0,,BJ Haddin,1,South Africa,Australia,1,South Africa,New Wanderers Stadium,0,Australia
+2,0.3,0,DW Steyn,2009-04-17,1st,BJ Haddin,1,,MJ Clarke,0,South Africa,Australia,1,South Africa,New Wanderers Stadium,0,Australia
+3,0.4,1,DW Steyn,2009-04-17,1st,BJ Haddin,1,,MJ Clarke,1,South Africa,Australia,2,South Africa,New Wanderers Stadium,0,Australia
+4,0.5,0,DW Steyn,2009-04-17,1st,MJ Clarke,1,,BJ Haddin,1,South Africa,Australia,2,South Africa,New Wanderers Stadium,0,Australia
+5,0.6,1,DW Steyn,2009-04-17,1st,MJ Clarke,1,,BJ Haddin,2,South Africa,Australia,3,South Africa,New Wanderers Stadium,0,Australia
+6,1.1,0,M Ntini,2009-04-17,1st,MJ Clarke,1,,BJ Haddin,2,South Africa,Australia,3,South Africa,New Wanderers Stadium,0,Australia
+7,1.2,1,M Ntini,2009-04-17,1st,MJ Clarke,1,,BJ Haddin,3,South Africa,Australia,4,South Africa,New Wanderers Stadium,0,Australia
+8,1.3,1,M Ntini,2009-04-17,1st,BJ Haddin,3,,MJ Clarke,2,South Africa,Australia,5,South Africa,New Wanderers Stadium,0,Australia
+9,1.4,1,M Ntini,2009-04-17,1st,MJ Clarke,2,,BJ Haddin,4,South Africa,Australia,6,South Africa,New Wanderers Stadium,0,Australia
+10,1.5,1,M Ntini,2009-04-17,1st,BJ Haddin,4,,MJ Clarke,3,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+11,1.6,0,M Ntini,2009-04-17,1st,MJ Clarke,3,,BJ Haddin,4,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+12,2.1,0,DW Steyn,2009-04-17,1st,BJ Haddin,4,,MJ Clarke,3,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+13,2.2,0,DW Steyn,2009-04-17,1st,BJ Haddin,4,,MJ Clarke,3,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+14,2.3,0,DW Steyn,2009-04-17,1st,BJ Haddin,4,,MJ Clarke,3,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+15,2.4,0,DW Steyn,2009-04-17,1st,BJ Haddin,4,,MJ Clarke,3,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+16,2.5,2,DW Steyn,2009-04-17,1st,BJ Haddin,4,,MJ Clarke,5,South Africa,Australia,9,South Africa,New Wanderers Stadium,0,Australia
+17,2.6,4,DW Steyn,2009-04-17,1st,BJ Haddin,4,,MJ Clarke,9,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+18,3.1,0,M Ntini,2009-04-17,1st,MJ Clarke,9,,BJ Haddin,4,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+19,3.2,0,M Ntini,2009-04-17,1st,MJ Clarke,9,,BJ Haddin,4,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+20,3.3,4,M Ntini,2009-04-17,1st,MJ Clarke,9,,BJ Haddin,8,South Africa,Australia,17,South Africa,New Wanderers Stadium,0,Australia
+21,3.4,4,M Ntini,2009-04-17,1st,MJ Clarke,9,,BJ Haddin,12,South Africa,Australia,21,South Africa,New Wanderers Stadium,0,Australia
+22,3.5,0,M Ntini,2009-04-17,1st,MJ Clarke,9,,BJ Haddin,12,South Africa,Australia,21,South Africa,New Wanderers Stadium,0,Australia
+23,3.6,0,M Ntini,2009-04-17,1st,MJ Clarke,9,,BJ Haddin,12,South Africa,Australia,21,South Africa,New Wanderers Stadium,0,Australia
+24,4.1,0,DW Steyn,2009-04-17,1st,BJ Haddin,12,,MJ Clarke,9,South Africa,Australia,21,South Africa,New Wanderers Stadium,0,Australia
+25,4.2,0,DW Steyn,2009-04-17,1st,BJ Haddin,12,,MJ Clarke,9,South Africa,Australia,21,South Africa,New Wanderers Stadium,0,Australia
+26,4.3,0,DW Steyn,2009-04-17,1st,BJ Haddin,12,,MJ Clarke,9,South Africa,Australia,21,South Africa,New Wanderers Stadium,0,Australia
+27,4.4,2,DW Steyn,2009-04-17,1st,BJ Haddin,12,,MJ Clarke,11,South Africa,Australia,23,South Africa,New Wanderers Stadium,0,Australia
+28,4.5,4,DW Steyn,2009-04-17,1st,BJ Haddin,12,,MJ Clarke,15,South Africa,Australia,27,South Africa,New Wanderers Stadium,0,Australia
+29,4.6,0,DW Steyn,2009-04-17,1st,BJ Haddin,12,,MJ Clarke,15,South Africa,Australia,27,South Africa,New Wanderers Stadium,0,Australia
+30,5.1,0,M Ntini,2009-04-17,1st,MJ Clarke,15,,BJ Haddin,12,South Africa,Australia,27,South Africa,New Wanderers Stadium,0,Australia
+31,5.2,2,M Ntini,2009-04-17,1st,MJ Clarke,15,,BJ Haddin,14,South Africa,Australia,29,South Africa,New Wanderers Stadium,0,Australia
+32,5.3,4,M Ntini,2009-04-17,1st,MJ Clarke,15,,BJ Haddin,18,South Africa,Australia,33,South Africa,New Wanderers Stadium,0,Australia
+33,5.4,2,M Ntini,2009-04-17,1st,MJ Clarke,15,,BJ Haddin,20,South Africa,Australia,35,South Africa,New Wanderers Stadium,0,Australia
+34,5.5,1,M Ntini,2009-04-17,1st,MJ Clarke,15,,BJ Haddin,21,South Africa,Australia,36,South Africa,New Wanderers Stadium,0,Australia
+35,5.6,1,M Ntini,2009-04-17,1st,BJ Haddin,21,,MJ Clarke,16,South Africa,Australia,37,South Africa,New Wanderers Stadium,0,Australia
+36,6.1,3,DW Steyn,2009-04-17,1st,BJ Haddin,21,,MJ Clarke,19,South Africa,Australia,40,South Africa,New Wanderers Stadium,0,Australia
+37,6.2,0,DW Steyn,2009-04-17,1st,MJ Clarke,19,,BJ Haddin,21,South Africa,Australia,40,South Africa,New Wanderers Stadium,0,Australia
+38,6.3,0,DW Steyn,2009-04-17,1st,MJ Clarke,19,,BJ Haddin,21,South Africa,Australia,40,South Africa,New Wanderers Stadium,0,Australia
+39,6.4,3,DW Steyn,2009-04-17,1st,MJ Clarke,19,,BJ Haddin,24,South Africa,Australia,43,South Africa,New Wanderers Stadium,0,Australia
+40,6.5,4,DW Steyn,2009-04-17,1st,BJ Haddin,24,,MJ Clarke,23,South Africa,Australia,47,South Africa,New Wanderers Stadium,0,Australia
+41,6.6,1,DW Steyn,2009-04-17,1st,BJ Haddin,24,,MJ Clarke,24,South Africa,Australia,48,South Africa,New Wanderers Stadium,0,Australia
+42,7.1,1,M Ntini,2009-04-17,1st,BJ Haddin,24,,MJ Clarke,25,South Africa,Australia,49,South Africa,New Wanderers Stadium,0,Australia
+43,7.2,1,M Ntini,2009-04-17,1st,MJ Clarke,25,,BJ Haddin,25,South Africa,Australia,50,South Africa,New Wanderers Stadium,0,Australia
+44,7.3,1,M Ntini,2009-04-17,1st,BJ Haddin,25,,MJ Clarke,26,South Africa,Australia,51,South Africa,New Wanderers Stadium,0,Australia
+45,7.4,4,M Ntini,2009-04-17,1st,MJ Clarke,26,,BJ Haddin,29,South Africa,Australia,55,South Africa,New Wanderers Stadium,0,Australia
+46,7.5,0,M Ntini,2009-04-17,1st,MJ Clarke,26,,BJ Haddin,29,South Africa,Australia,55,South Africa,New Wanderers Stadium,0,Australia
+47,7.6,0,M Ntini,2009-04-17,1st,MJ Clarke,26,,BJ Haddin,29,South Africa,Australia,55,South Africa,New Wanderers Stadium,0,Australia
+48,8.1,0,DW Steyn,2009-04-17,1st,BJ Haddin,29,,MJ Clarke,26,South Africa,Australia,55,South Africa,New Wanderers Stadium,0,Australia
+49,8.2,4,DW Steyn,2009-04-17,1st,BJ Haddin,29,,MJ Clarke,30,South Africa,Australia,59,South Africa,New Wanderers Stadium,0,Australia
+50,8.3,0,DW Steyn,2009-04-17,1st,BJ Haddin,29,,MJ Clarke,30,South Africa,Australia,59,South Africa,New Wanderers Stadium,0,Australia
+51,8.4,1,DW Steyn,2009-04-17,1st,BJ Haddin,29,,MJ Clarke,31,South Africa,Australia,60,South Africa,New Wanderers Stadium,0,Australia
+52,8.5,4,DW Steyn,2009-04-17,1st,MJ Clarke,31,,BJ Haddin,33,South Africa,Australia,64,South Africa,New Wanderers Stadium,0,Australia
+53,8.6,1,DW Steyn,2009-04-17,1st,MJ Clarke,31,,BJ Haddin,34,South Africa,Australia,65,South Africa,New Wanderers Stadium,0,Australia
+54,9.1,0,M Morkel,2009-04-17,1st,MJ Clarke,31,,BJ Haddin,34,South Africa,Australia,65,South Africa,New Wanderers Stadium,0,Australia
+55,9.2,1,M Morkel,2009-04-17,1st,MJ Clarke,31,,BJ Haddin,35,South Africa,Australia,66,South Africa,New Wanderers Stadium,0,Australia
+56,9.3,0,M Morkel,2009-04-17,1st,BJ Haddin,35,,MJ Clarke,31,South Africa,Australia,66,South Africa,New Wanderers Stadium,0,Australia
+57,9.4,0,M Morkel,2009-04-17,1st,BJ Haddin,35,,MJ Clarke,31,South Africa,Australia,66,South Africa,New Wanderers Stadium,0,Australia
+58,9.5,4,M Morkel,2009-04-17,1st,BJ Haddin,35,,MJ Clarke,35,South Africa,Australia,70,South Africa,New Wanderers Stadium,0,Australia
+59,9.6,0,M Morkel,2009-04-17,1st,BJ Haddin,35,,MJ Clarke,35,South Africa,Australia,70,South Africa,New Wanderers Stadium,0,Australia
+60,10.1,2,JH Kallis,2009-04-17,1st,MJ Clarke,35,,BJ Haddin,37,South Africa,Australia,72,South Africa,New Wanderers Stadium,0,Australia
+61,10.2,0,JH Kallis,2009-04-17,1st,MJ Clarke,35,,BJ Haddin,37,South Africa,Australia,72,South Africa,New Wanderers Stadium,0,Australia
+62,10.3,1,JH Kallis,2009-04-17,1st,MJ Clarke,35,,BJ Haddin,38,South Africa,Australia,73,South Africa,New Wanderers Stadium,0,Australia
+63,10.4,4,JH Kallis,2009-04-17,1st,BJ Haddin,38,,MJ Clarke,39,South Africa,Australia,77,South Africa,New Wanderers Stadium,0,Australia
+64,10.5,1,JH Kallis,2009-04-17,1st,BJ Haddin,38,,MJ Clarke,40,South Africa,Australia,78,South Africa,New Wanderers Stadium,0,Australia
+65,10.6,1,JH Kallis,2009-04-17,1st,MJ Clarke,40,,BJ Haddin,39,South Africa,Australia,79,South Africa,New Wanderers Stadium,0,Australia
+66,11.1,0,M Morkel,2009-04-17,1st,MJ Clarke,40,,BJ Haddin,39,South Africa,Australia,79,South Africa,New Wanderers Stadium,0,Australia
+67,11.2,0,M Morkel,2009-04-17,1st,MJ Clarke,40,,BJ Haddin,39,South Africa,Australia,79,South Africa,New Wanderers Stadium,0,Australia
+68,11.3,1,M Morkel,2009-04-17,1st,MJ Clarke,40,,BJ Haddin,40,South Africa,Australia,80,South Africa,New Wanderers Stadium,0,Australia
+69,11.4,0,M Morkel,2009-04-17,1st,BJ Haddin,40,,MJ Clarke,40,South Africa,Australia,80,South Africa,New Wanderers Stadium,0,Australia
+70,11.5,4,M Morkel,2009-04-17,1st,BJ Haddin,40,,MJ Clarke,44,South Africa,Australia,84,South Africa,New Wanderers Stadium,0,Australia
+71,11.6,0,M Morkel,2009-04-17,1st,BJ Haddin,40,,MJ Clarke,44,South Africa,Australia,84,South Africa,New Wanderers Stadium,0,Australia
+72,12.1,4,JH Kallis,2009-04-17,1st,MJ Clarke,44,,BJ Haddin,44,South Africa,Australia,88,South Africa,New Wanderers Stadium,0,Australia
+73,12.2,6,JH Kallis,2009-04-17,1st,MJ Clarke,44,,BJ Haddin,50,South Africa,Australia,94,South Africa,New Wanderers Stadium,0,Australia
+74,12.3,0,JH Kallis,2009-04-17,1st,MJ Clarke,44,,BJ Haddin,50,South Africa,Australia,94,South Africa,New Wanderers Stadium,0,Australia
+75,12.4,1,JH Kallis,2009-04-17,1st,MJ Clarke,44,,BJ Haddin,51,South Africa,Australia,95,South Africa,New Wanderers Stadium,0,Australia
+76,12.5,1,JH Kallis,2009-04-17,1st,BJ Haddin,51,,MJ Clarke,45,South Africa,Australia,96,South Africa,New Wanderers Stadium,0,Australia
+77,12.6,0,JH Kallis,2009-04-17,1st,MJ Clarke,45,,BJ Haddin,51,South Africa,Australia,96,South Africa,New Wanderers Stadium,0,Australia
+78,13.1,0,M Morkel,2009-04-17,1st,BJ Haddin,51,,MJ Clarke,45,South Africa,Australia,98,South Africa,New Wanderers Stadium,0,Australia
+79,13.2,0,M Morkel,2009-04-17,1st,BJ Haddin,51,,MJ Clarke,45,South Africa,Australia,98,South Africa,New Wanderers Stadium,0,Australia
+80,13.3,1,M Morkel,2009-04-17,1st,BJ Haddin,51,,MJ Clarke,46,South Africa,Australia,99,South Africa,New Wanderers Stadium,0,Australia
+81,13.4,0,M Morkel,2009-04-17,1st,MJ Clarke,46,,BJ Haddin,51,South Africa,Australia,99,South Africa,New Wanderers Stadium,0,Australia
+82,13.5,0,M Morkel,2009-04-17,1st,MJ Clarke,46,,BJ Haddin,51,South Africa,Australia,99,South Africa,New Wanderers Stadium,0,Australia
+83,13.6,0,M Morkel,2009-04-17,1st,MJ Clarke,46,,BJ Haddin,51,South Africa,Australia,100,South Africa,New Wanderers Stadium,0,Australia
+84,14.1,1,JA Morkel,2009-04-17,1st,MJ Clarke,46,,BJ Haddin,52,South Africa,Australia,101,South Africa,New Wanderers Stadium,0,Australia
+85,14.2,4,JA Morkel,2009-04-17,1st,BJ Haddin,52,,MJ Clarke,50,South Africa,Australia,105,South Africa,New Wanderers Stadium,0,Australia
+86,14.3,1,JA Morkel,2009-04-17,1st,BJ Haddin,52,,MJ Clarke,51,South Africa,Australia,106,South Africa,New Wanderers Stadium,0,Australia
+87,14.4,0,JA Morkel,2009-04-17,1st,MJ Clarke,51,,BJ Haddin,52,South Africa,Australia,106,South Africa,New Wanderers Stadium,0,Australia
+88,14.5,1,JA Morkel,2009-04-17,1st,MJ Clarke,51,,BJ Haddin,53,South Africa,Australia,107,South Africa,New Wanderers Stadium,0,Australia
+89,14.6,4,JA Morkel,2009-04-17,1st,BJ Haddin,53,,MJ Clarke,55,South Africa,Australia,111,South Africa,New Wanderers Stadium,0,Australia
+90,15.1,1,M Morkel,2009-04-17,1st,MJ Clarke,55,,BJ Haddin,54,South Africa,Australia,112,South Africa,New Wanderers Stadium,0,Australia
+91,15.2,0,M Morkel,2009-04-17,1st,BJ Haddin,54,,MJ Clarke,55,South Africa,Australia,112,South Africa,New Wanderers Stadium,0,Australia
+92,15.3,1,M Morkel,2009-04-17,1st,BJ Haddin,54,,MJ Clarke,56,South Africa,Australia,113,South Africa,New Wanderers Stadium,0,Australia
+93,15.4,1,M Morkel,2009-04-17,1st,MJ Clarke,56,,BJ Haddin,55,South Africa,Australia,114,South Africa,New Wanderers Stadium,0,Australia
+94,15.5,1,M Morkel,2009-04-17,1st,BJ Haddin,55,,MJ Clarke,57,South Africa,Australia,115,South Africa,New Wanderers Stadium,0,Australia
+95,15.6,1,M Morkel,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,56,South Africa,Australia,116,South Africa,New Wanderers Stadium,0,Australia
+96,16.1,4,RE van der Merwe,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,60,South Africa,Australia,120,South Africa,New Wanderers Stadium,0,Australia
+97,16.2,0,RE van der Merwe,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,60,South Africa,Australia,120,South Africa,New Wanderers Stadium,0,Australia
+98,16.3,0,RE van der Merwe,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,60,South Africa,Australia,120,South Africa,New Wanderers Stadium,0,Australia
+99,16.4,1,RE van der Merwe,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,61,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+100,16.5,0,RE van der Merwe,2009-04-17,1st,BJ Haddin,61,,MJ Clarke,57,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+101,16.6,0,RE van der Merwe,2009-04-17,1st,BJ Haddin,61,,MJ Clarke,57,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+102,17.1,0,M Morkel,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,61,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+103,17.2,0,M Morkel,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,61,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+104,17.3,0,M Morkel,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,61,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+105,17.4,0,M Morkel,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,61,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+106,17.5,0,M Morkel,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,61,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+107,17.6,0,M Morkel,2009-04-17,1st,MJ Clarke,57,,BJ Haddin,61,South Africa,Australia,121,South Africa,New Wanderers Stadium,0,Australia
+108,18.1,1,RE van der Merwe,2009-04-17,1st,BJ Haddin,61,,MJ Clarke,58,South Africa,Australia,122,South Africa,New Wanderers Stadium,0,Australia
+109,18.2,0,RE van der Merwe,2009-04-17,1st,MJ Clarke,58,,BJ Haddin,61,South Africa,Australia,122,South Africa,New Wanderers Stadium,0,Australia
+110,18.3,1,RE van der Merwe,2009-04-17,1st,MJ Clarke,58,,BJ Haddin,62,South Africa,Australia,123,South Africa,New Wanderers Stadium,0,Australia
+111,18.4,0,RE van der Merwe,2009-04-17,1st,BJ Haddin,62,,MJ Clarke,58,South Africa,Australia,123,South Africa,New Wanderers Stadium,0,Australia
+112,18.5,0,RE van der Merwe,2009-04-17,1st,BJ Haddin,62,,MJ Clarke,58,South Africa,Australia,123,South Africa,New Wanderers Stadium,0,Australia
+113,18.6,4,RE van der Merwe,2009-04-17,1st,BJ Haddin,62,,MJ Clarke,62,South Africa,Australia,127,South Africa,New Wanderers Stadium,0,Australia
+114,19.1,0,JA Morkel,2009-04-17,1st,MJ Clarke,62,BJ Haddin,BJ Haddin,62,South Africa,Australia,127,South Africa,New Wanderers Stadium,1,Australia
+115,19.2,0,JA Morkel,2009-04-17,1st,RT Ponting,0,,MJ Clarke,62,South Africa,Australia,127,South Africa,New Wanderers Stadium,1,Australia
+116,19.3,1,JA Morkel,2009-04-17,1st,RT Ponting,0,,MJ Clarke,63,South Africa,Australia,128,South Africa,New Wanderers Stadium,1,Australia
+117,19.4,0,JA Morkel,2009-04-17,1st,MJ Clarke,63,,RT Ponting,0,South Africa,Australia,128,South Africa,New Wanderers Stadium,1,Australia
+118,19.5,0,JA Morkel,2009-04-17,1st,MJ Clarke,63,,RT Ponting,0,South Africa,Australia,128,South Africa,New Wanderers Stadium,1,Australia
+119,19.6,0,JA Morkel,2009-04-17,1st,MJ Clarke,63,,RT Ponting,0,South Africa,Australia,128,South Africa,New Wanderers Stadium,1,Australia
+120,20.1,0,RE van der Merwe,2009-04-17,1st,RT Ponting,0,,MJ Clarke,63,South Africa,Australia,128,South Africa,New Wanderers Stadium,1,Australia
+121,20.2,0,RE van der Merwe,2009-04-17,1st,RT Ponting,0,,MJ Clarke,63,South Africa,Australia,128,South Africa,New Wanderers Stadium,1,Australia
+122,20.3,1,RE van der Merwe,2009-04-17,1st,RT Ponting,0,,MJ Clarke,64,South Africa,Australia,129,South Africa,New Wanderers Stadium,1,Australia
+123,20.4,0,RE van der Merwe,2009-04-17,1st,MJ Clarke,64,,RT Ponting,0,South Africa,Australia,129,South Africa,New Wanderers Stadium,1,Australia
+124,20.5,0,RE van der Merwe,2009-04-17,1st,MJ Clarke,64,,RT Ponting,0,South Africa,Australia,129,South Africa,New Wanderers Stadium,1,Australia
+125,20.6,1,RE van der Merwe,2009-04-17,1st,MJ Clarke,64,,RT Ponting,1,South Africa,Australia,130,South Africa,New Wanderers Stadium,1,Australia
+126,21.1,0,JA Morkel,2009-04-17,1st,MJ Clarke,64,,RT Ponting,1,South Africa,Australia,130,South Africa,New Wanderers Stadium,1,Australia
+127,21.2,0,JA Morkel,2009-04-17,1st,MJ Clarke,64,,RT Ponting,1,South Africa,Australia,130,South Africa,New Wanderers Stadium,1,Australia
+128,21.3,0,JA Morkel,2009-04-17,1st,MJ Clarke,64,,RT Ponting,1,South Africa,Australia,130,South Africa,New Wanderers Stadium,1,Australia
+129,21.4,1,JA Morkel,2009-04-17,1st,MJ Clarke,64,,RT Ponting,2,South Africa,Australia,131,South Africa,New Wanderers Stadium,1,Australia
+130,21.5,1,JA Morkel,2009-04-17,1st,RT Ponting,2,,MJ Clarke,65,South Africa,Australia,132,South Africa,New Wanderers Stadium,1,Australia
+131,21.6,4,JA Morkel,2009-04-17,1st,MJ Clarke,65,,RT Ponting,6,South Africa,Australia,136,South Africa,New Wanderers Stadium,1,Australia
+132,22.1,1,RE van der Merwe,2009-04-17,1st,RT Ponting,6,,MJ Clarke,66,South Africa,Australia,137,South Africa,New Wanderers Stadium,1,Australia
+133,22.2,0,RE van der Merwe,2009-04-17,1st,MJ Clarke,66,,RT Ponting,6,South Africa,Australia,137,South Africa,New Wanderers Stadium,1,Australia
+134,22.3,1,RE van der Merwe,2009-04-17,1st,MJ Clarke,66,,RT Ponting,7,South Africa,Australia,138,South Africa,New Wanderers Stadium,1,Australia
+135,22.4,0,RE van der Merwe,2009-04-17,1st,RT Ponting,7,,MJ Clarke,66,South Africa,Australia,138,South Africa,New Wanderers Stadium,1,Australia
+136,22.5,0,RE van der Merwe,2009-04-17,1st,RT Ponting,7,MJ Clarke,MJ Clarke,66,South Africa,Australia,138,South Africa,New Wanderers Stadium,2,Australia
+137,22.6,0,RE van der Merwe,2009-04-17,1st,CJ Ferguson,0,,RT Ponting,7,South Africa,Australia,138,South Africa,New Wanderers Stadium,2,Australia
+138,23.1,0,JA Morkel,2009-04-17,1st,RT Ponting,7,,CJ Ferguson,0,South Africa,Australia,138,South Africa,New Wanderers Stadium,2,Australia
+139,23.2,4,JA Morkel,2009-04-17,1st,RT Ponting,7,,CJ Ferguson,4,South Africa,Australia,142,South Africa,New Wanderers Stadium,2,Australia
+140,23.3,0,JA Morkel,2009-04-17,1st,RT Ponting,7,,CJ Ferguson,4,South Africa,Australia,142,South Africa,New Wanderers Stadium,2,Australia
+141,23.4,0,JA Morkel,2009-04-17,1st,RT Ponting,7,,CJ Ferguson,4,South Africa,Australia,142,South Africa,New Wanderers Stadium,2,Australia
+142,23.5,1,JA Morkel,2009-04-17,1st,RT Ponting,7,,CJ Ferguson,5,South Africa,Australia,143,South Africa,New Wanderers Stadium,2,Australia
+143,23.6,1,JA Morkel,2009-04-17,1st,CJ Ferguson,5,,RT Ponting,8,South Africa,Australia,144,South Africa,New Wanderers Stadium,2,Australia
+144,24.1,1,RE van der Merwe,2009-04-17,1st,CJ Ferguson,5,,RT Ponting,9,South Africa,Australia,145,South Africa,New Wanderers Stadium,2,Australia
+145,24.2,1,RE van der Merwe,2009-04-17,1st,RT Ponting,9,,CJ Ferguson,6,South Africa,Australia,146,South Africa,New Wanderers Stadium,2,Australia
+146,24.3,1,RE van der Merwe,2009-04-17,1st,CJ Ferguson,6,,RT Ponting,10,South Africa,Australia,147,South Africa,New Wanderers Stadium,2,Australia
+147,24.4,0,RE van der Merwe,2009-04-17,1st,RT Ponting,10,,CJ Ferguson,6,South Africa,Australia,147,South Africa,New Wanderers Stadium,2,Australia
+148,24.5,1,RE van der Merwe,2009-04-17,1st,RT Ponting,10,,CJ Ferguson,7,South Africa,Australia,148,South Africa,New Wanderers Stadium,2,Australia
+149,24.6,2,RE van der Merwe,2009-04-17,1st,CJ Ferguson,7,,RT Ponting,12,South Africa,Australia,150,South Africa,New Wanderers Stadium,2,Australia
+150,25.1,1,M Ntini,2009-04-17,1st,RT Ponting,12,,CJ Ferguson,8,South Africa,Australia,151,South Africa,New Wanderers Stadium,2,Australia
+151,25.2,1,M Ntini,2009-04-17,1st,CJ Ferguson,8,,RT Ponting,13,South Africa,Australia,152,South Africa,New Wanderers Stadium,2,Australia
+152,25.3,4,M Ntini,2009-04-17,1st,RT Ponting,13,,CJ Ferguson,12,South Africa,Australia,156,South Africa,New Wanderers Stadium,2,Australia
+153,25.4,0,M Ntini,2009-04-17,1st,RT Ponting,13,,CJ Ferguson,12,South Africa,Australia,156,South Africa,New Wanderers Stadium,2,Australia
+154,25.5,4,M Ntini,2009-04-17,1st,RT Ponting,13,,CJ Ferguson,16,South Africa,Australia,160,South Africa,New Wanderers Stadium,2,Australia
+155,25.6,1,M Ntini,2009-04-17,1st,RT Ponting,13,,CJ Ferguson,17,South Africa,Australia,161,South Africa,New Wanderers Stadium,2,Australia
+156,26.1,1,JP Duminy,2009-04-17,1st,RT Ponting,13,,CJ Ferguson,18,South Africa,Australia,162,South Africa,New Wanderers Stadium,2,Australia
+157,26.2,0,JP Duminy,2009-04-17,1st,CJ Ferguson,18,,RT Ponting,13,South Africa,Australia,162,South Africa,New Wanderers Stadium,2,Australia
+158,26.3,0,JP Duminy,2009-04-17,1st,CJ Ferguson,18,,RT Ponting,13,South Africa,Australia,162,South Africa,New Wanderers Stadium,2,Australia
+159,26.4,1,JP Duminy,2009-04-17,1st,CJ Ferguson,18,,RT Ponting,14,South Africa,Australia,163,South Africa,New Wanderers Stadium,2,Australia
+160,26.5,1,JP Duminy,2009-04-17,1st,RT Ponting,14,,CJ Ferguson,19,South Africa,Australia,164,South Africa,New Wanderers Stadium,2,Australia
+161,26.6,0,JP Duminy,2009-04-17,1st,CJ Ferguson,19,,RT Ponting,14,South Africa,Australia,164,South Africa,New Wanderers Stadium,2,Australia
+162,27.1,1,M Ntini,2009-04-17,1st,RT Ponting,14,,CJ Ferguson,20,South Africa,Australia,165,South Africa,New Wanderers Stadium,2,Australia
+163,27.2,0,M Ntini,2009-04-17,1st,CJ Ferguson,20,,RT Ponting,14,South Africa,Australia,165,South Africa,New Wanderers Stadium,2,Australia
+164,27.3,1,M Ntini,2009-04-17,1st,CJ Ferguson,20,,RT Ponting,15,South Africa,Australia,166,South Africa,New Wanderers Stadium,2,Australia
+165,27.4,2,M Ntini,2009-04-17,1st,RT Ponting,15,,CJ Ferguson,22,South Africa,Australia,168,South Africa,New Wanderers Stadium,2,Australia
+166,27.5,0,M Ntini,2009-04-17,1st,RT Ponting,15,,CJ Ferguson,22,South Africa,Australia,168,South Africa,New Wanderers Stadium,2,Australia
+167,27.6,4,M Ntini,2009-04-17,1st,RT Ponting,15,,CJ Ferguson,26,South Africa,Australia,172,South Africa,New Wanderers Stadium,2,Australia
+168,28.1,1,JP Duminy,2009-04-17,1st,CJ Ferguson,26,,RT Ponting,16,South Africa,Australia,173,South Africa,New Wanderers Stadium,2,Australia
+169,28.2,2,JP Duminy,2009-04-17,1st,RT Ponting,16,,CJ Ferguson,28,South Africa,Australia,175,South Africa,New Wanderers Stadium,2,Australia
+170,28.3,0,JP Duminy,2009-04-17,1st,RT Ponting,16,,CJ Ferguson,28,South Africa,Australia,175,South Africa,New Wanderers Stadium,2,Australia
+171,28.4,1,JP Duminy,2009-04-17,1st,RT Ponting,16,,CJ Ferguson,29,South Africa,Australia,176,South Africa,New Wanderers Stadium,2,Australia
+172,28.5,1,JP Duminy,2009-04-17,1st,CJ Ferguson,29,,RT Ponting,17,South Africa,Australia,177,South Africa,New Wanderers Stadium,2,Australia
+173,28.6,1,JP Duminy,2009-04-17,1st,RT Ponting,17,,CJ Ferguson,30,South Africa,Australia,178,South Africa,New Wanderers Stadium,2,Australia
+174,29.1,2,RE van der Merwe,2009-04-17,1st,RT Ponting,17,,CJ Ferguson,32,South Africa,Australia,180,South Africa,New Wanderers Stadium,2,Australia
+175,29.2,0,RE van der Merwe,2009-04-17,1st,RT Ponting,17,,CJ Ferguson,32,South Africa,Australia,180,South Africa,New Wanderers Stadium,2,Australia
+176,29.3,4,RE van der Merwe,2009-04-17,1st,RT Ponting,17,,CJ Ferguson,36,South Africa,Australia,184,South Africa,New Wanderers Stadium,2,Australia
+177,29.4,1,RE van der Merwe,2009-04-17,1st,RT Ponting,17,,CJ Ferguson,37,South Africa,Australia,185,South Africa,New Wanderers Stadium,2,Australia
+178,29.5,1,RE van der Merwe,2009-04-17,1st,CJ Ferguson,37,,RT Ponting,18,South Africa,Australia,186,South Africa,New Wanderers Stadium,2,Australia
+179,29.6,1,RE van der Merwe,2009-04-17,1st,RT Ponting,18,,CJ Ferguson,38,South Africa,Australia,187,South Africa,New Wanderers Stadium,2,Australia
+180,30.1,1,JP Duminy,2009-04-17,1st,RT Ponting,18,,CJ Ferguson,39,South Africa,Australia,188,South Africa,New Wanderers Stadium,2,Australia
+181,30.2,1,JP Duminy,2009-04-17,1st,CJ Ferguson,39,,RT Ponting,19,South Africa,Australia,189,South Africa,New Wanderers Stadium,2,Australia
+182,30.3,0,JP Duminy,2009-04-17,1st,RT Ponting,19,,CJ Ferguson,39,South Africa,Australia,189,South Africa,New Wanderers Stadium,2,Australia
+183,30.4,1,JP Duminy,2009-04-17,1st,RT Ponting,19,,CJ Ferguson,40,South Africa,Australia,190,South Africa,New Wanderers Stadium,2,Australia
+184,30.5,1,JP Duminy,2009-04-17,1st,CJ Ferguson,40,,RT Ponting,20,South Africa,Australia,191,South Africa,New Wanderers Stadium,2,Australia
+185,30.6,1,JP Duminy,2009-04-17,1st,RT Ponting,20,,CJ Ferguson,41,South Africa,Australia,192,South Africa,New Wanderers Stadium,2,Australia
+186,31.1,0,RE van der Merwe,2009-04-17,1st,RT Ponting,20,CJ Ferguson,CJ Ferguson,41,South Africa,Australia,192,South Africa,New Wanderers Stadium,3,Australia
+187,31.2,0,RE van der Merwe,2009-04-17,1st,RT Ponting,20,,MEK Hussey,0,South Africa,Australia,192,South Africa,New Wanderers Stadium,3,Australia
+188,31.3,0,RE van der Merwe,2009-04-17,1st,RT Ponting,20,,MEK Hussey,0,South Africa,Australia,192,South Africa,New Wanderers Stadium,3,Australia
+189,31.4,1,RE van der Merwe,2009-04-17,1st,RT Ponting,20,,MEK Hussey,1,South Africa,Australia,193,South Africa,New Wanderers Stadium,3,Australia
+190,31.5,0,RE van der Merwe,2009-04-17,1st,MEK Hussey,1,,RT Ponting,20,South Africa,Australia,193,South Africa,New Wanderers Stadium,3,Australia
+191,31.6,0,RE van der Merwe,2009-04-17,1st,MEK Hussey,1,,RT Ponting,20,South Africa,Australia,193,South Africa,New Wanderers Stadium,3,Australia
+192,32.1,0,JP Duminy,2009-04-17,1st,RT Ponting,20,,MEK Hussey,1,South Africa,Australia,193,South Africa,New Wanderers Stadium,3,Australia
+193,32.2,0,JP Duminy,2009-04-17,1st,RT Ponting,20,,MEK Hussey,1,South Africa,Australia,193,South Africa,New Wanderers Stadium,3,Australia
+194,32.3,1,JP Duminy,2009-04-17,1st,RT Ponting,20,,MEK Hussey,2,South Africa,Australia,194,South Africa,New Wanderers Stadium,3,Australia
+195,32.4,1,JP Duminy,2009-04-17,1st,MEK Hussey,2,,RT Ponting,21,South Africa,Australia,195,South Africa,New Wanderers Stadium,3,Australia
+196,32.5,0,JP Duminy,2009-04-17,1st,RT Ponting,21,,MEK Hussey,2,South Africa,Australia,195,South Africa,New Wanderers Stadium,3,Australia
+197,32.6,1,JP Duminy,2009-04-17,1st,RT Ponting,21,,MEK Hussey,3,South Africa,Australia,196,South Africa,New Wanderers Stadium,3,Australia
+198,33.1,0,RE van der Merwe,2009-04-17,1st,RT Ponting,21,,MEK Hussey,3,South Africa,Australia,196,South Africa,New Wanderers Stadium,3,Australia
+199,33.2,0,RE van der Merwe,2009-04-17,1st,RT Ponting,21,,MEK Hussey,3,South Africa,Australia,196,South Africa,New Wanderers Stadium,3,Australia
+200,33.3,1,RE van der Merwe,2009-04-17,1st,RT Ponting,21,,MEK Hussey,4,South Africa,Australia,197,South Africa,New Wanderers Stadium,3,Australia
+201,33.4,2,RE van der Merwe,2009-04-17,1st,MEK Hussey,4,,RT Ponting,23,South Africa,Australia,199,South Africa,New Wanderers Stadium,3,Australia
+202,33.5,1,RE van der Merwe,2009-04-17,1st,MEK Hussey,4,,RT Ponting,24,South Africa,Australia,200,South Africa,New Wanderers Stadium,3,Australia
+203,33.6,0,RE van der Merwe,2009-04-17,1st,RT Ponting,24,,MEK Hussey,4,South Africa,Australia,200,South Africa,New Wanderers Stadium,3,Australia
+204,34.1,1,JP Duminy,2009-04-17,1st,MEK Hussey,4,,RT Ponting,25,South Africa,Australia,201,South Africa,New Wanderers Stadium,3,Australia
+205,34.2,1,JP Duminy,2009-04-17,1st,RT Ponting,25,,MEK Hussey,5,South Africa,Australia,202,South Africa,New Wanderers Stadium,3,Australia
+206,34.3,1,JP Duminy,2009-04-17,1st,MEK Hussey,5,,RT Ponting,26,South Africa,Australia,203,South Africa,New Wanderers Stadium,3,Australia
+207,34.4,0,JP Duminy,2009-04-17,1st,RT Ponting,26,,MEK Hussey,5,South Africa,Australia,203,South Africa,New Wanderers Stadium,3,Australia
+208,34.5,1,JP Duminy,2009-04-17,1st,RT Ponting,26,,MEK Hussey,6,South Africa,Australia,204,South Africa,New Wanderers Stadium,3,Australia
+209,34.6,1,JP Duminy,2009-04-17,1st,MEK Hussey,6,,RT Ponting,27,South Africa,Australia,205,South Africa,New Wanderers Stadium,3,Australia
+210,35.1,1,DW Steyn,2009-04-17,1st,MEK Hussey,6,,RT Ponting,28,South Africa,Australia,206,South Africa,New Wanderers Stadium,3,Australia
+211,35.2,1,DW Steyn,2009-04-17,1st,RT Ponting,28,,MEK Hussey,7,South Africa,Australia,207,South Africa,New Wanderers Stadium,3,Australia
+212,35.3,0,DW Steyn,2009-04-17,1st,MEK Hussey,7,,RT Ponting,28,South Africa,Australia,207,South Africa,New Wanderers Stadium,3,Australia
+213,35.4,4,DW Steyn,2009-04-17,1st,MEK Hussey,7,,RT Ponting,32,South Africa,Australia,211,South Africa,New Wanderers Stadium,3,Australia
+214,35.5,1,DW Steyn,2009-04-17,1st,MEK Hussey,7,,RT Ponting,33,South Africa,Australia,212,South Africa,New Wanderers Stadium,3,Australia
+215,35.6,0,DW Steyn,2009-04-17,1st,RT Ponting,33,,MEK Hussey,7,South Africa,Australia,213,South Africa,New Wanderers Stadium,3,Australia
+216,35.7,2,DW Steyn,2009-04-17,1st,RT Ponting,33,,MEK Hussey,9,South Africa,Australia,215,South Africa,New Wanderers Stadium,3,Australia
+217,36.1,1,JP Duminy,2009-04-17,1st,MEK Hussey,9,,RT Ponting,34,South Africa,Australia,216,South Africa,New Wanderers Stadium,3,Australia
+218,36.2,1,JP Duminy,2009-04-17,1st,RT Ponting,34,,MEK Hussey,10,South Africa,Australia,217,South Africa,New Wanderers Stadium,3,Australia
+219,36.3,6,JP Duminy,2009-04-17,1st,MEK Hussey,10,,RT Ponting,40,South Africa,Australia,223,South Africa,New Wanderers Stadium,3,Australia
+220,36.4,0,JP Duminy,2009-04-17,1st,MEK Hussey,10,RT Ponting,RT Ponting,40,South Africa,Australia,223,South Africa,New Wanderers Stadium,4,Australia
+221,36.5,0,JP Duminy,2009-04-17,1st,DJ Hussey,0,,MEK Hussey,10,South Africa,Australia,223,South Africa,New Wanderers Stadium,4,Australia
+222,36.6,1,JP Duminy,2009-04-17,1st,DJ Hussey,0,,MEK Hussey,11,South Africa,Australia,224,South Africa,New Wanderers Stadium,4,Australia
+223,37.1,1,M Morkel,2009-04-17,1st,DJ Hussey,0,,MEK Hussey,12,South Africa,Australia,225,South Africa,New Wanderers Stadium,4,Australia
+224,37.2,0,M Morkel,2009-04-17,1st,MEK Hussey,12,,DJ Hussey,0,South Africa,Australia,225,South Africa,New Wanderers Stadium,4,Australia
+225,37.3,1,M Morkel,2009-04-17,1st,MEK Hussey,12,,DJ Hussey,1,South Africa,Australia,226,South Africa,New Wanderers Stadium,4,Australia
+226,37.4,1,M Morkel,2009-04-17,1st,DJ Hussey,1,,MEK Hussey,13,South Africa,Australia,227,South Africa,New Wanderers Stadium,4,Australia
+227,37.5,0,M Morkel,2009-04-17,1st,MEK Hussey,13,,DJ Hussey,1,South Africa,Australia,227,South Africa,New Wanderers Stadium,4,Australia
+228,37.6,2,M Morkel,2009-04-17,1st,MEK Hussey,13,,DJ Hussey,3,South Africa,Australia,229,South Africa,New Wanderers Stadium,4,Australia
+229,38.1,0,JP Duminy,2009-04-17,1st,DJ Hussey,3,,MEK Hussey,13,South Africa,Australia,229,South Africa,New Wanderers Stadium,4,Australia
+230,38.2,1,JP Duminy,2009-04-17,1st,DJ Hussey,3,,MEK Hussey,14,South Africa,Australia,230,South Africa,New Wanderers Stadium,4,Australia
+231,38.3,0,JP Duminy,2009-04-17,1st,MEK Hussey,14,DJ Hussey,DJ Hussey,3,South Africa,Australia,231,South Africa,New Wanderers Stadium,5,Australia
+232,38.4,0,JP Duminy,2009-04-17,1st,MEK Hussey,14,,JR Hopes,0,South Africa,Australia,231,South Africa,New Wanderers Stadium,5,Australia
+233,38.5,0,JP Duminy,2009-04-17,1st,MEK Hussey,14,,JR Hopes,0,South Africa,Australia,234,South Africa,New Wanderers Stadium,5,Australia
+234,38.6,2,JP Duminy,2009-04-17,1st,MEK Hussey,14,,JR Hopes,2,South Africa,Australia,236,South Africa,New Wanderers Stadium,5,Australia
+235,38.7,0,JP Duminy,2009-04-17,1st,MEK Hussey,14,,JR Hopes,2,South Africa,Australia,237,South Africa,New Wanderers Stadium,5,Australia
+236,38.8,1,JP Duminy,2009-04-17,1st,MEK Hussey,14,,JR Hopes,3,South Africa,Australia,238,South Africa,New Wanderers Stadium,5,Australia
+237,38.9,0,JP Duminy,2009-04-17,1st,JR Hopes,3,JR Hopes,MEK Hussey,14,South Africa,Australia,238,South Africa,New Wanderers Stadium,6,Australia
+238,39.1,1,RE van der Merwe,2009-04-17,1st,MG Johnson,0,,MEK Hussey,15,South Africa,Australia,239,South Africa,New Wanderers Stadium,6,Australia
+239,39.2,0,RE van der Merwe,2009-04-17,1st,MEK Hussey,15,,MG Johnson,0,South Africa,Australia,239,South Africa,New Wanderers Stadium,6,Australia
+240,39.3,1,RE van der Merwe,2009-04-17,1st,MEK Hussey,15,,MG Johnson,1,South Africa,Australia,240,South Africa,New Wanderers Stadium,6,Australia
+241,39.4,4,RE van der Merwe,2009-04-17,1st,MG Johnson,1,,MEK Hussey,19,South Africa,Australia,244,South Africa,New Wanderers Stadium,6,Australia
+242,39.5,0,RE van der Merwe,2009-04-17,1st,MG Johnson,1,,MEK Hussey,19,South Africa,Australia,244,South Africa,New Wanderers Stadium,6,Australia
+243,39.6,0,RE van der Merwe,2009-04-17,1st,MG Johnson,1,,MEK Hussey,19,South Africa,Australia,244,South Africa,New Wanderers Stadium,6,Australia
+244,40.1,0,JP Duminy,2009-04-17,1st,MEK Hussey,19,,MG Johnson,1,South Africa,Australia,244,South Africa,New Wanderers Stadium,6,Australia
+245,40.2,1,JP Duminy,2009-04-17,1st,MEK Hussey,19,,MG Johnson,2,South Africa,Australia,245,South Africa,New Wanderers Stadium,6,Australia
+246,40.3,1,JP Duminy,2009-04-17,1st,MG Johnson,2,,MEK Hussey,20,South Africa,Australia,246,South Africa,New Wanderers Stadium,6,Australia
+247,40.4,0,JP Duminy,2009-04-17,1st,MEK Hussey,20,,MG Johnson,2,South Africa,Australia,246,South Africa,New Wanderers Stadium,6,Australia
+248,40.5,0,JP Duminy,2009-04-17,1st,MEK Hussey,20,MG Johnson,MG Johnson,2,South Africa,Australia,246,South Africa,New Wanderers Stadium,7,Australia
+249,40.6,0,JP Duminy,2009-04-17,1st,MEK Hussey,20,,NM Hauritz,0,South Africa,Australia,246,South Africa,New Wanderers Stadium,7,Australia
+250,41.1,1,RE van der Merwe,2009-04-17,1st,NM Hauritz,0,,MEK Hussey,21,South Africa,Australia,247,South Africa,New Wanderers Stadium,7,Australia
+251,41.2,0,RE van der Merwe,2009-04-17,1st,MEK Hussey,21,,NM Hauritz,0,South Africa,Australia,247,South Africa,New Wanderers Stadium,7,Australia
+252,41.3,1,RE van der Merwe,2009-04-17,1st,MEK Hussey,21,,NM Hauritz,1,South Africa,Australia,248,South Africa,New Wanderers Stadium,7,Australia
+253,41.4,1,RE van der Merwe,2009-04-17,1st,NM Hauritz,1,,MEK Hussey,22,South Africa,Australia,249,South Africa,New Wanderers Stadium,7,Australia
+254,41.5,0,RE van der Merwe,2009-04-17,1st,MEK Hussey,22,,NM Hauritz,1,South Africa,Australia,249,South Africa,New Wanderers Stadium,7,Australia
+255,41.6,0,RE van der Merwe,2009-04-17,1st,MEK Hussey,22,,NM Hauritz,1,South Africa,Australia,249,South Africa,New Wanderers Stadium,7,Australia
+256,42.1,0,JP Duminy,2009-04-17,1st,NM Hauritz,1,,MEK Hussey,22,South Africa,Australia,249,South Africa,New Wanderers Stadium,7,Australia
+257,42.2,1,JP Duminy,2009-04-17,1st,NM Hauritz,1,,MEK Hussey,23,South Africa,Australia,250,South Africa,New Wanderers Stadium,7,Australia
+258,42.3,0,JP Duminy,2009-04-17,1st,MEK Hussey,23,,NM Hauritz,1,South Africa,Australia,250,South Africa,New Wanderers Stadium,7,Australia
+259,42.4,2,JP Duminy,2009-04-17,1st,MEK Hussey,23,,NM Hauritz,3,South Africa,Australia,252,South Africa,New Wanderers Stadium,7,Australia
+260,42.5,0,JP Duminy,2009-04-17,1st,MEK Hussey,23,,NM Hauritz,3,South Africa,Australia,252,South Africa,New Wanderers Stadium,7,Australia
+261,42.6,0,JP Duminy,2009-04-17,1st,MEK Hussey,23,,NM Hauritz,3,South Africa,Australia,252,South Africa,New Wanderers Stadium,7,Australia
+262,43.1,1,DW Steyn,2009-04-17,1st,NM Hauritz,3,,MEK Hussey,24,South Africa,Australia,253,South Africa,New Wanderers Stadium,7,Australia
+263,43.2,0,DW Steyn,2009-04-17,1st,MEK Hussey,24,,NM Hauritz,3,South Africa,Australia,253,South Africa,New Wanderers Stadium,7,Australia
+264,43.3,1,DW Steyn,2009-04-17,1st,MEK Hussey,24,,NM Hauritz,4,South Africa,Australia,254,South Africa,New Wanderers Stadium,7,Australia
+265,43.4,0,DW Steyn,2009-04-17,1st,NM Hauritz,4,,MEK Hussey,24,South Africa,Australia,254,South Africa,New Wanderers Stadium,7,Australia
+266,43.5,0,DW Steyn,2009-04-17,1st,NM Hauritz,4,,MEK Hussey,24,South Africa,Australia,254,South Africa,New Wanderers Stadium,7,Australia
+267,43.6,1,DW Steyn,2009-04-17,1st,NM Hauritz,4,,MEK Hussey,25,South Africa,Australia,255,South Africa,New Wanderers Stadium,7,Australia
+268,44.1,1,JP Duminy,2009-04-17,1st,NM Hauritz,4,,MEK Hussey,26,South Africa,Australia,256,South Africa,New Wanderers Stadium,7,Australia
+269,44.2,0,JP Duminy,2009-04-17,1st,MEK Hussey,26,,NM Hauritz,4,South Africa,Australia,256,South Africa,New Wanderers Stadium,7,Australia
+270,44.3,0,JP Duminy,2009-04-17,1st,MEK Hussey,26,,NM Hauritz,4,South Africa,Australia,256,South Africa,New Wanderers Stadium,7,Australia
+271,44.4,1,JP Duminy,2009-04-17,1st,MEK Hussey,26,,NM Hauritz,5,South Africa,Australia,257,South Africa,New Wanderers Stadium,7,Australia
+272,44.5,1,JP Duminy,2009-04-17,1st,NM Hauritz,5,,MEK Hussey,27,South Africa,Australia,258,South Africa,New Wanderers Stadium,7,Australia
+273,44.6,0,JP Duminy,2009-04-17,1st,MEK Hussey,27,,NM Hauritz,5,South Africa,Australia,258,South Africa,New Wanderers Stadium,7,Australia
+274,45.1,0,DW Steyn,2009-04-17,1st,NM Hauritz,5,,MEK Hussey,27,South Africa,Australia,258,South Africa,New Wanderers Stadium,7,Australia
+275,45.2,1,DW Steyn,2009-04-17,1st,NM Hauritz,5,,MEK Hussey,28,South Africa,Australia,259,South Africa,New Wanderers Stadium,7,Australia
+276,45.3,0,DW Steyn,2009-04-17,1st,MEK Hussey,28,,NM Hauritz,5,South Africa,Australia,260,South Africa,New Wanderers Stadium,7,Australia
+277,45.4,0,DW Steyn,2009-04-17,1st,MEK Hussey,28,,NM Hauritz,5,South Africa,Australia,260,South Africa,New Wanderers Stadium,7,Australia
+278,45.5,1,DW Steyn,2009-04-17,1st,MEK Hussey,28,,NM Hauritz,6,South Africa,Australia,261,South Africa,New Wanderers Stadium,7,Australia
+279,45.6,0,DW Steyn,2009-04-17,1st,NM Hauritz,6,,MEK Hussey,28,South Africa,Australia,262,South Africa,New Wanderers Stadium,7,Australia
+280,45.7,0,DW Steyn,2009-04-17,1st,NM Hauritz,6,,MEK Hussey,28,South Africa,Australia,263,South Africa,New Wanderers Stadium,7,Australia
+281,45.8,1,DW Steyn,2009-04-17,1st,NM Hauritz,6,,MEK Hussey,29,South Africa,Australia,264,South Africa,New Wanderers Stadium,7,Australia
+282,45.9,0,DW Steyn,2009-04-17,1st,MEK Hussey,29,,NM Hauritz,6,South Africa,Australia,264,South Africa,New Wanderers Stadium,7,Australia
+283,46.1,4,M Morkel,2009-04-17,1st,NM Hauritz,6,,MEK Hussey,33,South Africa,Australia,268,South Africa,New Wanderers Stadium,7,Australia
+284,46.2,1,M Morkel,2009-04-17,1st,NM Hauritz,6,,MEK Hussey,34,South Africa,Australia,269,South Africa,New Wanderers Stadium,7,Australia
+285,46.3,0,M Morkel,2009-04-17,1st,MEK Hussey,34,,NM Hauritz,6,South Africa,Australia,269,South Africa,New Wanderers Stadium,7,Australia
+286,46.4,1,M Morkel,2009-04-17,1st,MEK Hussey,34,,NM Hauritz,7,South Africa,Australia,270,South Africa,New Wanderers Stadium,7,Australia
+287,46.5,4,M Morkel,2009-04-17,1st,NM Hauritz,7,,MEK Hussey,38,South Africa,Australia,274,South Africa,New Wanderers Stadium,7,Australia
+288,46.6,1,M Morkel,2009-04-17,1st,NM Hauritz,7,,MEK Hussey,39,South Africa,Australia,275,South Africa,New Wanderers Stadium,7,Australia
+289,47.1,1,DW Steyn,2009-04-17,1st,NM Hauritz,7,,MEK Hussey,40,South Africa,Australia,276,South Africa,New Wanderers Stadium,7,Australia
+290,47.2,1,DW Steyn,2009-04-17,1st,MEK Hussey,40,,NM Hauritz,8,South Africa,Australia,277,South Africa,New Wanderers Stadium,7,Australia
+291,47.3,0,DW Steyn,2009-04-17,1st,NM Hauritz,8,,MEK Hussey,40,South Africa,Australia,277,South Africa,New Wanderers Stadium,7,Australia
+292,47.4,0,DW Steyn,2009-04-17,1st,NM Hauritz,8,,MEK Hussey,40,South Africa,Australia,277,South Africa,New Wanderers Stadium,7,Australia
+293,47.5,4,DW Steyn,2009-04-17,1st,NM Hauritz,8,,MEK Hussey,44,South Africa,Australia,281,South Africa,New Wanderers Stadium,7,Australia
+294,47.6,0,DW Steyn,2009-04-17,1st,NM Hauritz,8,,MEK Hussey,44,South Africa,Australia,281,South Africa,New Wanderers Stadium,7,Australia
+295,48.1,2,M Morkel,2009-04-17,1st,MEK Hussey,44,,NM Hauritz,10,South Africa,Australia,283,South Africa,New Wanderers Stadium,7,Australia
+296,48.2,0,M Morkel,2009-04-17,1st,MEK Hussey,44,,NM Hauritz,10,South Africa,Australia,283,South Africa,New Wanderers Stadium,7,Australia
+297,48.3,2,M Morkel,2009-04-17,1st,MEK Hussey,44,,NM Hauritz,12,South Africa,Australia,285,South Africa,New Wanderers Stadium,7,Australia
+298,48.4,1,M Morkel,2009-04-17,1st,MEK Hussey,44,,NM Hauritz,13,South Africa,Australia,286,South Africa,New Wanderers Stadium,7,Australia
+299,48.5,4,M Morkel,2009-04-17,1st,NM Hauritz,13,,MEK Hussey,48,South Africa,Australia,290,South Africa,New Wanderers Stadium,7,Australia
+300,48.6,0,M Morkel,2009-04-17,1st,NM Hauritz,13,,MEK Hussey,48,South Africa,Australia,290,South Africa,New Wanderers Stadium,7,Australia
+301,49.1,4,DW Steyn,2009-04-17,1st,MEK Hussey,48,,NM Hauritz,17,South Africa,Australia,294,South Africa,New Wanderers Stadium,7,Australia
+302,49.2,0,DW Steyn,2009-04-17,1st,MEK Hussey,48,,NM Hauritz,17,South Africa,Australia,294,South Africa,New Wanderers Stadium,7,Australia
+303,49.3,6,DW Steyn,2009-04-17,1st,MEK Hussey,48,,NM Hauritz,23,South Africa,Australia,300,South Africa,New Wanderers Stadium,7,Australia
+304,49.4,1,DW Steyn,2009-04-17,1st,MEK Hussey,48,,NM Hauritz,24,South Africa,Australia,301,South Africa,New Wanderers Stadium,7,Australia
+305,49.5,1,DW Steyn,2009-04-17,1st,NM Hauritz,24,,MEK Hussey,49,South Africa,Australia,302,South Africa,New Wanderers Stadium,7,Australia
+306,49.6,0,DW Steyn,2009-04-17,1st,MEK Hussey,49,,NM Hauritz,24,South Africa,Australia,303,South Africa,New Wanderers Stadium,7,Australia
+307,0.1,0,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,0,South Africa,New Wanderers Stadium,0,Australia
+308,0.2,0,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,0,South Africa,New Wanderers Stadium,0,Australia
+309,0.3,0,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,0,South Africa,New Wanderers Stadium,0,Australia
+310,0.4,4,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,4,South Africa,New Wanderers Stadium,0,Australia
+311,0.5,0,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,4,South Africa,New Wanderers Stadium,0,Australia
+312,0.6,1,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,5,South Africa,New Wanderers Stadium,0,Australia
+313,1.1,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,5,South Africa,New Wanderers Stadium,0,Australia
+314,1.2,1,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,6,South Africa,New Wanderers Stadium,0,Australia
+315,1.3,0,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,6,South Africa,New Wanderers Stadium,0,Australia
+316,1.4,0,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,6,South Africa,New Wanderers Stadium,0,Australia
+317,1.5,1,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+318,1.6,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,7,South Africa,New Wanderers Stadium,0,Australia
+319,2.1,1,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,8,South Africa,New Wanderers Stadium,0,Australia
+320,2.2,0,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,8,South Africa,New Wanderers Stadium,0,Australia
+321,2.3,0,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,8,South Africa,New Wanderers Stadium,0,Australia
+322,2.4,3,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,11,South Africa,New Wanderers Stadium,0,Australia
+323,2.5,2,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+324,2.6,0,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+325,3.1,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+326,3.2,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+327,3.3,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+328,3.4,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+329,3.5,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+330,3.6,0,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,13,South Africa,New Wanderers Stadium,0,Australia
+331,4.1,0,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,14,South Africa,New Wanderers Stadium,0,Australia
+332,4.2,2,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,16,South Africa,New Wanderers Stadium,0,Australia
+333,4.3,0,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,16,South Africa,New Wanderers Stadium,0,Australia
+334,4.4,1,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,17,South Africa,New Wanderers Stadium,0,Australia
+335,4.5,0,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,17,South Africa,New Wanderers Stadium,0,Australia
+336,4.6,4,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,21,South Africa,New Wanderers Stadium,0,Australia
+337,4.7,6,MG Johnson,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,27,South Africa,New Wanderers Stadium,0,Australia
+338,5.1,4,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,31,South Africa,New Wanderers Stadium,0,Australia
+339,5.2,0,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,31,South Africa,New Wanderers Stadium,0,Australia
+340,5.3,4,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,35,South Africa,New Wanderers Stadium,0,Australia
+341,5.4,1,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,36,South Africa,New Wanderers Stadium,0,Australia
+342,5.5,1,NW Bracken,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,37,South Africa,New Wanderers Stadium,0,Australia
+343,5.6,4,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,41,South Africa,New Wanderers Stadium,0,Australia
+344,6.1,0,B Laughlin,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,42,South Africa,New Wanderers Stadium,0,Australia
+345,6.2,0,B Laughlin,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,42,South Africa,New Wanderers Stadium,0,Australia
+346,6.3,4,B Laughlin,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,46,South Africa,New Wanderers Stadium,0,Australia
+347,6.4,0,B Laughlin,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,46,South Africa,New Wanderers Stadium,0,Australia
+348,6.5,0,B Laughlin,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,46,South Africa,New Wanderers Stadium,0,Australia
+349,6.6,0,B Laughlin,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,46,South Africa,New Wanderers Stadium,0,Australia
+350,6.7,0,B Laughlin,2009-04-17,2nd,GC Smith,0,,HH Gibbs,0,South Africa,Australia,46,South Africa,New Wanderers Stadium,0,Australia
+351,7.1,0,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,GC Smith,0,South Africa,Australia,46,South Africa,New Wanderers Stadium,1,Australia
+352,7.2,1,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,47,South Africa,New Wanderers Stadium,1,Australia
+353,7.3,0,NW Bracken,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,47,South Africa,New Wanderers Stadium,1,Australia
+354,7.4,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,48,South Africa,New Wanderers Stadium,1,Australia
+355,7.5,0,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,48,South Africa,New Wanderers Stadium,1,Australia
+356,7.6,0,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,48,South Africa,New Wanderers Stadium,1,Australia
+357,8.1,0,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,48,South Africa,New Wanderers Stadium,1,Australia
+358,8.2,1,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,49,South Africa,New Wanderers Stadium,1,Australia
+359,8.3,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,49,South Africa,New Wanderers Stadium,1,Australia
+360,8.4,1,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,50,South Africa,New Wanderers Stadium,1,Australia
+361,8.5,0,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,50,South Africa,New Wanderers Stadium,1,Australia
+362,8.6,0,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,50,South Africa,New Wanderers Stadium,1,Australia
+363,9.1,2,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,52,South Africa,New Wanderers Stadium,1,Australia
+364,9.2,4,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,56,South Africa,New Wanderers Stadium,1,Australia
+365,9.3,1,NW Bracken,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,57,South Africa,New Wanderers Stadium,1,Australia
+366,9.4,0,NW Bracken,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,57,South Africa,New Wanderers Stadium,1,Australia
+367,9.5,0,NW Bracken,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,57,South Africa,New Wanderers Stadium,1,Australia
+368,9.6,0,NW Bracken,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,57,South Africa,New Wanderers Stadium,1,Australia
+369,10.1,6,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,63,South Africa,New Wanderers Stadium,1,Australia
+370,10.2,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,63,South Africa,New Wanderers Stadium,1,Australia
+371,10.3,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,63,South Africa,New Wanderers Stadium,1,Australia
+372,10.4,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,63,South Africa,New Wanderers Stadium,1,Australia
+373,10.5,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,63,South Africa,New Wanderers Stadium,1,Australia
+374,10.6,1,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,64,South Africa,New Wanderers Stadium,1,Australia
+375,11.1,4,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,68,South Africa,New Wanderers Stadium,1,Australia
+376,11.2,0,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,68,South Africa,New Wanderers Stadium,1,Australia
+377,11.3,1,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,69,South Africa,New Wanderers Stadium,1,Australia
+378,11.4,0,MG Johnson,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,69,South Africa,New Wanderers Stadium,1,Australia
+379,11.5,0,MG Johnson,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,69,South Africa,New Wanderers Stadium,1,Australia
+380,11.6,0,MG Johnson,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,69,South Africa,New Wanderers Stadium,1,Australia
+381,12.1,1,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,70,South Africa,New Wanderers Stadium,1,Australia
+382,12.2,1,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+383,12.3,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+384,12.4,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+385,12.5,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+386,12.6,0,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+387,13.1,0,MG Johnson,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+388,13.2,0,MG Johnson,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+389,13.3,0,MG Johnson,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,71,South Africa,New Wanderers Stadium,1,Australia
+390,13.4,1,MG Johnson,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,72,South Africa,New Wanderers Stadium,1,Australia
+391,13.5,4,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,76,South Africa,New Wanderers Stadium,1,Australia
+392,13.6,0,MG Johnson,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,76,South Africa,New Wanderers Stadium,1,Australia
+393,14.1,4,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,80,South Africa,New Wanderers Stadium,1,Australia
+394,14.2,0,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,80,South Africa,New Wanderers Stadium,1,Australia
+395,14.3,0,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,80,South Africa,New Wanderers Stadium,1,Australia
+396,14.4,0,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,80,South Africa,New Wanderers Stadium,1,Australia
+397,14.5,1,B Laughlin,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,81,South Africa,New Wanderers Stadium,1,Australia
+398,14.6,4,B Laughlin,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,85,South Africa,New Wanderers Stadium,1,Australia
+399,15.1,4,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,89,South Africa,New Wanderers Stadium,1,Australia
+400,15.2,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,89,South Africa,New Wanderers Stadium,1,Australia
+401,15.3,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,89,South Africa,New Wanderers Stadium,1,Australia
+402,15.4,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,90,South Africa,New Wanderers Stadium,1,Australia
+403,15.5,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,91,South Africa,New Wanderers Stadium,1,Australia
+404,15.6,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,92,South Africa,New Wanderers Stadium,1,Australia
+405,16.1,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,93,South Africa,New Wanderers Stadium,1,Australia
+406,16.2,1,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,94,South Africa,New Wanderers Stadium,1,Australia
+407,16.3,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,94,South Africa,New Wanderers Stadium,1,Australia
+408,16.4,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,94,South Africa,New Wanderers Stadium,1,Australia
+409,16.5,4,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,98,South Africa,New Wanderers Stadium,1,Australia
+410,16.6,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,98,South Africa,New Wanderers Stadium,1,Australia
+411,17.1,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,99,South Africa,New Wanderers Stadium,1,Australia
+412,17.2,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,99,South Africa,New Wanderers Stadium,1,Australia
+413,17.3,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,101,South Africa,New Wanderers Stadium,1,Australia
+414,17.4,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,101,South Africa,New Wanderers Stadium,1,Australia
+415,17.5,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,102,South Africa,New Wanderers Stadium,1,Australia
+416,17.6,0,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,102,South Africa,New Wanderers Stadium,1,Australia
+417,18.1,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,102,South Africa,New Wanderers Stadium,1,Australia
+418,18.2,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,103,South Africa,New Wanderers Stadium,1,Australia
+419,18.3,0,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,103,South Africa,New Wanderers Stadium,1,Australia
+420,18.4,1,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,104,South Africa,New Wanderers Stadium,1,Australia
+421,18.5,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,105,South Africa,New Wanderers Stadium,1,Australia
+422,18.6,0,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,105,South Africa,New Wanderers Stadium,1,Australia
+423,19.1,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,105,South Africa,New Wanderers Stadium,1,Australia
+424,19.2,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,105,South Africa,New Wanderers Stadium,1,Australia
+425,19.3,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,105,South Africa,New Wanderers Stadium,1,Australia
+426,19.4,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,106,South Africa,New Wanderers Stadium,1,Australia
+427,19.5,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,107,South Africa,New Wanderers Stadium,1,Australia
+428,19.6,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,108,South Africa,New Wanderers Stadium,1,Australia
+429,20.1,1,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,109,South Africa,New Wanderers Stadium,1,Australia
+430,20.2,1,MJ Clarke,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,110,South Africa,New Wanderers Stadium,1,Australia
+431,20.3,0,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,110,South Africa,New Wanderers Stadium,1,Australia
+432,20.4,4,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,114,South Africa,New Wanderers Stadium,1,Australia
+433,20.5,4,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,118,South Africa,New Wanderers Stadium,1,Australia
+434,20.6,1,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,119,South Africa,New Wanderers Stadium,1,Australia
+435,21.1,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,120,South Africa,New Wanderers Stadium,1,Australia
+436,21.2,0,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,120,South Africa,New Wanderers Stadium,1,Australia
+437,21.3,0,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,120,South Africa,New Wanderers Stadium,1,Australia
+438,21.4,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,121,South Africa,New Wanderers Stadium,1,Australia
+439,21.5,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,121,South Africa,New Wanderers Stadium,1,Australia
+440,21.6,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,122,South Africa,New Wanderers Stadium,1,Australia
+441,22.1,2,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,124,South Africa,New Wanderers Stadium,1,Australia
+442,22.2,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,124,South Africa,New Wanderers Stadium,1,Australia
+443,22.3,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,124,South Africa,New Wanderers Stadium,1,Australia
+444,22.4,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,125,South Africa,New Wanderers Stadium,1,Australia
+445,22.5,0,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,125,South Africa,New Wanderers Stadium,1,Australia
+446,22.6,4,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,129,South Africa,New Wanderers Stadium,1,Australia
+447,22.7,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,130,South Africa,New Wanderers Stadium,1,Australia
+448,23.1,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,131,South Africa,New Wanderers Stadium,1,Australia
+449,23.2,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,132,South Africa,New Wanderers Stadium,1,Australia
+450,23.3,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,133,South Africa,New Wanderers Stadium,1,Australia
+451,23.4,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,134,South Africa,New Wanderers Stadium,1,Australia
+452,23.5,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,134,South Africa,New Wanderers Stadium,1,Australia
+453,23.6,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,135,South Africa,New Wanderers Stadium,1,Australia
+454,24.1,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,136,South Africa,New Wanderers Stadium,1,Australia
+455,24.2,0,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,136,South Africa,New Wanderers Stadium,1,Australia
+456,24.3,1,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,137,South Africa,New Wanderers Stadium,1,Australia
+457,24.4,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,138,South Africa,New Wanderers Stadium,1,Australia
+458,24.5,0,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,138,South Africa,New Wanderers Stadium,1,Australia
+459,24.6,0,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,138,South Africa,New Wanderers Stadium,1,Australia
+460,25.1,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,138,South Africa,New Wanderers Stadium,1,Australia
+461,25.2,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,138,South Africa,New Wanderers Stadium,1,Australia
+462,25.3,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,139,South Africa,New Wanderers Stadium,1,Australia
+463,25.4,0,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,139,South Africa,New Wanderers Stadium,1,Australia
+464,25.5,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,140,South Africa,New Wanderers Stadium,1,Australia
+465,25.6,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,141,South Africa,New Wanderers Stadium,1,Australia
+466,26.1,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,142,South Africa,New Wanderers Stadium,1,Australia
+467,26.2,1,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,143,South Africa,New Wanderers Stadium,1,Australia
+468,26.3,4,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,147,South Africa,New Wanderers Stadium,1,Australia
+469,26.4,1,JR Hopes,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,148,South Africa,New Wanderers Stadium,1,Australia
+470,26.5,0,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,148,South Africa,New Wanderers Stadium,1,Australia
+471,26.6,0,JR Hopes,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,148,South Africa,New Wanderers Stadium,1,Australia
+472,27.1,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,149,South Africa,New Wanderers Stadium,1,Australia
+473,27.2,0,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,149,South Africa,New Wanderers Stadium,1,Australia
+474,27.3,1,NM Hauritz,2009-04-17,2nd,HH Gibbs,0,,JH Kallis,0,South Africa,Australia,150,South Africa,New Wanderers Stadium,1,Australia
+475,27.4,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,HH Gibbs,0,South Africa,Australia,150,South Africa,New Wanderers Stadium,2,Australia
+476,27.5,0,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,151,South Africa,New Wanderers Stadium,2,Australia
+477,27.6,1,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,152,South Africa,New Wanderers Stadium,2,Australia
+478,28.1,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,153,South Africa,New Wanderers Stadium,2,Australia
+479,28.2,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,154,South Africa,New Wanderers Stadium,2,Australia
+480,28.3,0,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,154,South Africa,New Wanderers Stadium,2,Australia
+481,28.4,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,155,South Africa,New Wanderers Stadium,2,Australia
+482,28.5,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,156,South Africa,New Wanderers Stadium,2,Australia
+483,28.6,4,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,160,South Africa,New Wanderers Stadium,2,Australia
+484,29.1,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,161,South Africa,New Wanderers Stadium,2,Australia
+485,29.2,0,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,161,South Africa,New Wanderers Stadium,2,Australia
+486,29.3,0,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,161,South Africa,New Wanderers Stadium,2,Australia
+487,29.4,1,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,162,South Africa,New Wanderers Stadium,2,Australia
+488,29.5,1,NM Hauritz,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,163,South Africa,New Wanderers Stadium,2,Australia
+489,29.6,1,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,164,South Africa,New Wanderers Stadium,2,Australia
+490,30.1,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,165,South Africa,New Wanderers Stadium,2,Australia
+491,30.2,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,166,South Africa,New Wanderers Stadium,2,Australia
+492,30.3,4,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,170,South Africa,New Wanderers Stadium,2,Australia
+493,30.4,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,171,South Africa,New Wanderers Stadium,2,Australia
+494,30.5,0,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,171,South Africa,New Wanderers Stadium,2,Australia
+495,30.6,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,172,South Africa,New Wanderers Stadium,2,Australia
+496,31.1,0,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,172,South Africa,New Wanderers Stadium,2,Australia
+497,31.2,1,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,173,South Africa,New Wanderers Stadium,2,Australia
+498,31.3,1,MJ Clarke,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,174,South Africa,New Wanderers Stadium,2,Australia
+499,31.4,1,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,175,South Africa,New Wanderers Stadium,2,Australia
+500,31.5,1,MJ Clarke,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,176,South Africa,New Wanderers Stadium,2,Australia
+501,31.6,1,MJ Clarke,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,177,South Africa,New Wanderers Stadium,2,Australia
+502,32.1,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,178,South Africa,New Wanderers Stadium,2,Australia
+503,32.2,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,179,South Africa,New Wanderers Stadium,2,Australia
+504,32.3,2,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,181,South Africa,New Wanderers Stadium,2,Australia
+505,32.4,0,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,181,South Africa,New Wanderers Stadium,2,Australia
+506,32.5,0,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,181,South Africa,New Wanderers Stadium,2,Australia
+507,32.6,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,182,South Africa,New Wanderers Stadium,2,Australia
+508,33.1,0,DJ Hussey,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,182,South Africa,New Wanderers Stadium,2,Australia
+509,33.2,1,DJ Hussey,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,183,South Africa,New Wanderers Stadium,2,Australia
+510,33.3,1,DJ Hussey,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,184,South Africa,New Wanderers Stadium,2,Australia
+511,33.4,1,DJ Hussey,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,185,South Africa,New Wanderers Stadium,2,Australia
+512,33.5,1,DJ Hussey,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,186,South Africa,New Wanderers Stadium,2,Australia
+513,33.6,0,DJ Hussey,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,186,South Africa,New Wanderers Stadium,2,Australia
+514,34.1,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,187,South Africa,New Wanderers Stadium,2,Australia
+515,34.2,1,NW Bracken,2009-04-17,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,Australia,188,South Africa,New Wanderers Stadium,2,Australia
+516,34.3,0,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,Australia,188,South Africa,New Wanderers Stadium,3,Australia
+517,34.4,0,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,188,South Africa,New Wanderers Stadium,3,Australia
+518,34.5,0,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,188,South Africa,New Wanderers Stadium,3,Australia
+519,34.6,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,189,South Africa,New Wanderers Stadium,3,Australia
+520,35.1,2,MG Johnson,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,191,South Africa,New Wanderers Stadium,3,Australia
+521,35.2,0,MG Johnson,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,191,South Africa,New Wanderers Stadium,3,Australia
+522,35.3,0,MG Johnson,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,191,South Africa,New Wanderers Stadium,3,Australia
+523,35.4,0,MG Johnson,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,191,South Africa,New Wanderers Stadium,3,Australia
+524,35.5,0,MG Johnson,2009-04-17,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Australia,191,South Africa,New Wanderers Stadium,4,Australia
+525,35.6,0,MG Johnson,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,191,South Africa,New Wanderers Stadium,4,Australia
+526,36.1,1,NW Bracken,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,192,South Africa,New Wanderers Stadium,4,Australia
+527,36.2,0,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,192,South Africa,New Wanderers Stadium,4,Australia
+528,36.3,1,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,193,South Africa,New Wanderers Stadium,4,Australia
+529,36.4,0,NW Bracken,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,193,South Africa,New Wanderers Stadium,4,Australia
+530,36.5,1,NW Bracken,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,194,South Africa,New Wanderers Stadium,4,Australia
+531,36.6,2,NW Bracken,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,196,South Africa,New Wanderers Stadium,4,Australia
+532,37.1,1,MG Johnson,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,197,South Africa,New Wanderers Stadium,4,Australia
+533,37.2,1,MG Johnson,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,198,South Africa,New Wanderers Stadium,4,Australia
+534,37.3,2,MG Johnson,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,200,South Africa,New Wanderers Stadium,4,Australia
+535,37.4,2,MG Johnson,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,202,South Africa,New Wanderers Stadium,4,Australia
+536,37.5,4,MG Johnson,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,206,South Africa,New Wanderers Stadium,4,Australia
+537,37.6,1,MG Johnson,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,207,South Africa,New Wanderers Stadium,4,Australia
+538,38.1,1,B Laughlin,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,208,South Africa,New Wanderers Stadium,4,Australia
+539,38.2,0,B Laughlin,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,208,South Africa,New Wanderers Stadium,4,Australia
+540,38.3,0,B Laughlin,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,208,South Africa,New Wanderers Stadium,4,Australia
+541,38.4,4,B Laughlin,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,212,South Africa,New Wanderers Stadium,4,Australia
+542,38.5,1,B Laughlin,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,213,South Africa,New Wanderers Stadium,4,Australia
+543,38.6,0,B Laughlin,2009-04-17,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,Australia,213,South Africa,New Wanderers Stadium,4,Australia
+544,39.1,0,JR Hopes,2009-04-17,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,Australia,213,South Africa,New Wanderers Stadium,5,Australia
+545,39.2,0,JR Hopes,2009-04-17,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,Australia,213,South Africa,New Wanderers Stadium,5,Australia
+546,39.3,1,JR Hopes,2009-04-17,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,Australia,214,South Africa,New Wanderers Stadium,5,Australia
+547,39.4,1,JR Hopes,2009-04-17,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,Australia,215,South Africa,New Wanderers Stadium,5,Australia
+548,39.5,1,JR Hopes,2009-04-17,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,Australia,216,South Africa,New Wanderers Stadium,5,Australia
+549,39.6,1,JR Hopes,2009-04-17,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,Australia,217,South Africa,New Wanderers Stadium,5,Australia
+550,40.1,1,B Laughlin,2009-04-17,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,Australia,218,South Africa,New Wanderers Stadium,5,Australia
+551,40.2,0,B Laughlin,2009-04-17,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,Australia,218,South Africa,New Wanderers Stadium,5,Australia
+552,40.3,4,B Laughlin,2009-04-17,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,Australia,222,South Africa,New Wanderers Stadium,5,Australia
+553,40.4,1,B Laughlin,2009-04-17,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,Australia,223,South Africa,New Wanderers Stadium,5,Australia
+554,40.5,2,B Laughlin,2009-04-17,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,Australia,225,South Africa,New Wanderers Stadium,5,Australia
+555,40.6,0,B Laughlin,2009-04-17,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,Australia,225,South Africa,New Wanderers Stadium,5,Australia
+556,41.1,1,NM Hauritz,2009-04-17,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,Australia,226,South Africa,New Wanderers Stadium,5,Australia
+557,41.2,0,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,Australia,226,South Africa,New Wanderers Stadium,6,Australia
+558,41.3,0,NM Hauritz,2009-04-17,2nd,RE van der Merwe,0,,AB de Villiers,0,South Africa,Australia,226,South Africa,New Wanderers Stadium,6,Australia
+559,41.4,1,NM Hauritz,2009-04-17,2nd,RE van der Merwe,0,,AB de Villiers,0,South Africa,Australia,227,South Africa,New Wanderers Stadium,6,Australia
+560,41.5,0,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,RE van der Merwe,0,South Africa,Australia,227,South Africa,New Wanderers Stadium,6,Australia
+561,41.6,2,NM Hauritz,2009-04-17,2nd,AB de Villiers,0,,RE van der Merwe,0,South Africa,Australia,229,South Africa,New Wanderers Stadium,6,Australia
+562,42.1,0,B Laughlin,2009-04-17,2nd,RE van der Merwe,0,,AB de Villiers,0,South Africa,Australia,229,South Africa,New Wanderers Stadium,7,Australia
+563,42.2,4,B Laughlin,2009-04-17,2nd,RE van der Merwe,0,,M Morkel,0,South Africa,Australia,233,South Africa,New Wanderers Stadium,7,Australia
+564,42.3,1,B Laughlin,2009-04-17,2nd,RE van der Merwe,0,,M Morkel,0,South Africa,Australia,234,South Africa,New Wanderers Stadium,7,Australia
+565,42.4,1,B Laughlin,2009-04-17,2nd,M Morkel,0,,RE van der Merwe,0,South Africa,Australia,235,South Africa,New Wanderers Stadium,7,Australia
+566,42.5,0,B Laughlin,2009-04-17,2nd,RE van der Merwe,0,,M Morkel,0,South Africa,Australia,235,South Africa,New Wanderers Stadium,7,Australia
+567,42.6,0,B Laughlin,2009-04-17,2nd,RE van der Merwe,0,,M Morkel,0,South Africa,Australia,236,South Africa,New Wanderers Stadium,7,Australia
+568,42.7,2,B Laughlin,2009-04-17,2nd,RE van der Merwe,0,,M Morkel,0,South Africa,Australia,238,South Africa,New Wanderers Stadium,7,Australia
+569,43.1,0,MG Johnson,2009-04-17,2nd,M Morkel,0,,RE van der Merwe,0,South Africa,Australia,238,South Africa,New Wanderers Stadium,8,Australia
+570,43.2,0,MG Johnson,2009-04-17,2nd,M Morkel,0,,DW Steyn,0,South Africa,Australia,238,South Africa,New Wanderers Stadium,9,Australia
+571,43.3,1,MG Johnson,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,239,South Africa,New Wanderers Stadium,9,Australia
+572,43.4,0,MG Johnson,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,239,South Africa,New Wanderers Stadium,9,Australia
+573,43.5,0,MG Johnson,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,239,South Africa,New Wanderers Stadium,9,Australia
+574,43.6,1,MG Johnson,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,240,South Africa,New Wanderers Stadium,9,Australia
+575,44.1,2,B Laughlin,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,242,South Africa,New Wanderers Stadium,9,Australia
+576,44.2,1,B Laughlin,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,243,South Africa,New Wanderers Stadium,9,Australia
+577,44.3,0,B Laughlin,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,243,South Africa,New Wanderers Stadium,9,Australia
+578,44.4,1,B Laughlin,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,244,South Africa,New Wanderers Stadium,9,Australia
+579,44.5,4,B Laughlin,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,248,South Africa,New Wanderers Stadium,9,Australia
+580,44.6,0,B Laughlin,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,248,South Africa,New Wanderers Stadium,9,Australia
+581,45.1,0,MG Johnson,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,248,South Africa,New Wanderers Stadium,9,Australia
+582,45.2,0,MG Johnson,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,248,South Africa,New Wanderers Stadium,9,Australia
+583,45.3,6,MG Johnson,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,254,South Africa,New Wanderers Stadium,9,Australia
+584,45.4,0,MG Johnson,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,255,South Africa,New Wanderers Stadium,9,Australia
+585,45.5,1,MG Johnson,2009-04-17,2nd,M Morkel,0,,M Ntini,0,South Africa,Australia,256,South Africa,New Wanderers Stadium,9,Australia
+586,45.6,0,MG Johnson,2009-04-17,2nd,M Ntini,0,,M Morkel,0,South Africa,Australia,256,South Africa,New Wanderers Stadium,10,Australia

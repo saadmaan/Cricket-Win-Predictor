@@ -1,0 +1,536 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,0,,SE Marsh,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+1,0.2,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,0,,SE Marsh,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+2,0.3,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,0,,SE Marsh,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+3,0.4,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,0,,SE Marsh,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+4,0.5,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,0,,SE Marsh,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+5,0.6,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,0,,SE Marsh,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+6,1.1,1,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,0,,BJ Haddin,1,Australia,Pakistan,1,Australia,Western Australia Cricket Association Ground,0,Australia
+7,1.2,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,1,,SE Marsh,0,Australia,Pakistan,1,Australia,Western Australia Cricket Association Ground,0,Australia
+8,1.3,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,1,,SE Marsh,0,Australia,Pakistan,1,Australia,Western Australia Cricket Association Ground,0,Australia
+9,1.4,1,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,1,,SE Marsh,1,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,0,Australia
+10,1.5,0,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,1,,BJ Haddin,1,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,0,Australia
+11,1.6,0,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,1,,BJ Haddin,1,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,0,Australia
+12,2.1,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,1,,SE Marsh,1,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,0,Australia
+13,2.2,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,1,,SE Marsh,1,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,0,Australia
+14,2.3,1,Mohammad Asif,2010-01-29,1st,BJ Haddin,1,,SE Marsh,2,Australia,Pakistan,3,Australia,Western Australia Cricket Association Ground,0,Australia
+15,2.4,1,Mohammad Asif,2010-01-29,1st,SE Marsh,2,,BJ Haddin,2,Australia,Pakistan,4,Australia,Western Australia Cricket Association Ground,0,Australia
+16,2.5,4,Mohammad Asif,2010-01-29,1st,BJ Haddin,2,,SE Marsh,6,Australia,Pakistan,8,Australia,Western Australia Cricket Association Ground,0,Australia
+17,2.6,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,2,,SE Marsh,6,Australia,Pakistan,8,Australia,Western Australia Cricket Association Ground,0,Australia
+18,3.1,0,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,6,,BJ Haddin,2,Australia,Pakistan,8,Australia,Western Australia Cricket Association Ground,0,Australia
+19,3.2,1,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,6,,BJ Haddin,3,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,0,Australia
+20,3.3,1,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,3,,SE Marsh,7,Australia,Pakistan,10,Australia,Western Australia Cricket Association Ground,0,Australia
+21,3.4,2,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,7,,BJ Haddin,5,Australia,Pakistan,12,Australia,Western Australia Cricket Association Ground,0,Australia
+22,3.5,4,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,7,,BJ Haddin,9,Australia,Pakistan,16,Australia,Western Australia Cricket Association Ground,0,Australia
+23,3.6,4,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,7,,BJ Haddin,13,Australia,Pakistan,20,Australia,Western Australia Cricket Association Ground,0,Australia
+24,4.1,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,13,,SE Marsh,7,Australia,Pakistan,20,Australia,Western Australia Cricket Association Ground,0,Australia
+25,4.2,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,13,,SE Marsh,7,Australia,Pakistan,20,Australia,Western Australia Cricket Association Ground,0,Australia
+26,4.3,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,13,,SE Marsh,7,Australia,Pakistan,20,Australia,Western Australia Cricket Association Ground,0,Australia
+27,4.4,1,Mohammad Asif,2010-01-29,1st,BJ Haddin,13,,SE Marsh,8,Australia,Pakistan,21,Australia,Western Australia Cricket Association Ground,0,Australia
+28,4.5,0,Mohammad Asif,2010-01-29,1st,SE Marsh,8,,BJ Haddin,13,Australia,Pakistan,21,Australia,Western Australia Cricket Association Ground,0,Australia
+29,4.6,1,Mohammad Asif,2010-01-29,1st,SE Marsh,8,,BJ Haddin,14,Australia,Pakistan,22,Australia,Western Australia Cricket Association Ground,0,Australia
+30,5.1,3,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,8,,BJ Haddin,17,Australia,Pakistan,25,Australia,Western Australia Cricket Association Ground,0,Australia
+31,5.2,1,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,17,,SE Marsh,9,Australia,Pakistan,26,Australia,Western Australia Cricket Association Ground,0,Australia
+32,5.3,1,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,9,,BJ Haddin,18,Australia,Pakistan,27,Australia,Western Australia Cricket Association Ground,0,Australia
+33,5.4,2,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,18,,SE Marsh,11,Australia,Pakistan,29,Australia,Western Australia Cricket Association Ground,0,Australia
+34,5.5,1,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,18,,SE Marsh,12,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,0,Australia
+35,5.6,0,Naved-ul-Hasan,2010-01-29,1st,SE Marsh,12,,BJ Haddin,18,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,0,Australia
+36,6.1,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,18,,SE Marsh,12,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,0,Australia
+37,6.2,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,18,,SE Marsh,12,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,0,Australia
+38,6.3,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,18,,SE Marsh,12,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,0,Australia
+39,6.4,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,18,,SE Marsh,12,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,0,Australia
+40,6.5,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,18,SE Marsh,SE Marsh,12,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,1,Australia
+41,6.6,1,Mohammad Asif,2010-01-29,1st,BJ Haddin,18,,RT Ponting,1,Australia,Pakistan,31,Australia,Western Australia Cricket Association Ground,1,Australia
+42,7.1,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,18,,RT Ponting,1,Australia,Pakistan,31,Australia,Western Australia Cricket Association Ground,1,Australia
+43,7.2,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,18,,RT Ponting,1,Australia,Pakistan,31,Australia,Western Australia Cricket Association Ground,1,Australia
+44,7.3,1,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,18,,RT Ponting,2,Australia,Pakistan,32,Australia,Western Australia Cricket Association Ground,1,Australia
+45,7.4,0,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,2,,BJ Haddin,18,Australia,Pakistan,32,Australia,Western Australia Cricket Association Ground,1,Australia
+46,7.5,1,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,2,,BJ Haddin,19,Australia,Pakistan,33,Australia,Western Australia Cricket Association Ground,1,Australia
+47,7.6,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,19,,RT Ponting,2,Australia,Pakistan,33,Australia,Western Australia Cricket Association Ground,1,Australia
+48,8.1,1,Mohammad Asif,2010-01-29,1st,RT Ponting,2,,BJ Haddin,20,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,1,Australia
+49,8.2,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,20,,RT Ponting,2,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,1,Australia
+50,8.3,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,20,,RT Ponting,2,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,1,Australia
+51,8.4,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,20,,RT Ponting,2,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,1,Australia
+52,8.5,0,Mohammad Asif,2010-01-29,1st,BJ Haddin,20,,RT Ponting,2,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,1,Australia
+53,8.6,3,Mohammad Asif,2010-01-29,1st,BJ Haddin,20,,RT Ponting,5,Australia,Pakistan,37,Australia,Western Australia Cricket Association Ground,1,Australia
+54,9.1,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,20,,RT Ponting,5,Australia,Pakistan,37,Australia,Western Australia Cricket Association Ground,1,Australia
+55,9.2,1,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,20,,RT Ponting,6,Australia,Pakistan,38,Australia,Western Australia Cricket Association Ground,1,Australia
+56,9.3,0,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,6,,BJ Haddin,20,Australia,Pakistan,38,Australia,Western Australia Cricket Association Ground,1,Australia
+57,9.4,1,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,6,,BJ Haddin,21,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,1,Australia
+58,9.5,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,21,,RT Ponting,6,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,1,Australia
+59,9.6,1,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,21,,RT Ponting,7,Australia,Pakistan,40,Australia,Western Australia Cricket Association Ground,1,Australia
+60,10.1,1,Mohammad Asif,2010-01-29,1st,BJ Haddin,21,,RT Ponting,8,Australia,Pakistan,41,Australia,Western Australia Cricket Association Ground,1,Australia
+61,10.2,0,Mohammad Asif,2010-01-29,1st,RT Ponting,8,,BJ Haddin,21,Australia,Pakistan,41,Australia,Western Australia Cricket Association Ground,1,Australia
+62,10.3,1,Mohammad Asif,2010-01-29,1st,RT Ponting,8,,BJ Haddin,22,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,1,Australia
+63,10.4,1,Mohammad Asif,2010-01-29,1st,BJ Haddin,22,,RT Ponting,9,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,1,Australia
+64,10.5,4,Mohammad Asif,2010-01-29,1st,RT Ponting,9,,BJ Haddin,26,Australia,Pakistan,47,Australia,Western Australia Cricket Association Ground,1,Australia
+65,10.6,2,Mohammad Asif,2010-01-29,1st,RT Ponting,9,,BJ Haddin,28,Australia,Pakistan,49,Australia,Western Australia Cricket Association Ground,1,Australia
+66,11.1,0,Naved-ul-Hasan,2010-01-29,1st,BJ Haddin,28,,RT Ponting,9,Australia,Pakistan,51,Australia,Western Australia Cricket Association Ground,1,Australia
+67,11.2,4,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,9,,BJ Haddin,32,Australia,Pakistan,55,Australia,Western Australia Cricket Association Ground,1,Australia
+68,11.3,0,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,9,,BJ Haddin,32,Australia,Pakistan,55,Australia,Western Australia Cricket Association Ground,1,Australia
+69,11.4,0,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,9,BJ Haddin,BJ Haddin,32,Australia,Pakistan,55,Australia,Western Australia Cricket Association Ground,2,Australia
+70,11.5,1,Naved-ul-Hasan,2010-01-29,1st,RT Ponting,9,,MJ Clarke,1,Australia,Pakistan,56,Australia,Western Australia Cricket Association Ground,2,Australia
+71,11.6,0,Naved-ul-Hasan,2010-01-29,1st,MJ Clarke,1,,RT Ponting,9,Australia,Pakistan,56,Australia,Western Australia Cricket Association Ground,2,Australia
+72,11.7,0,Naved-ul-Hasan,2010-01-29,1st,MJ Clarke,1,,RT Ponting,9,Australia,Pakistan,56,Australia,Western Australia Cricket Association Ground,2,Australia
+73,12.1,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,9,,MJ Clarke,1,Australia,Pakistan,56,Australia,Western Australia Cricket Association Ground,2,Australia
+74,12.2,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,9,,MJ Clarke,1,Australia,Pakistan,56,Australia,Western Australia Cricket Association Ground,2,Australia
+75,12.3,1,Iftikhar Anjum,2010-01-29,1st,RT Ponting,9,,MJ Clarke,2,Australia,Pakistan,57,Australia,Western Australia Cricket Association Ground,2,Australia
+76,12.4,2,Iftikhar Anjum,2010-01-29,1st,MJ Clarke,2,,RT Ponting,11,Australia,Pakistan,59,Australia,Western Australia Cricket Association Ground,2,Australia
+77,12.5,1,Iftikhar Anjum,2010-01-29,1st,MJ Clarke,2,,RT Ponting,12,Australia,Pakistan,60,Australia,Western Australia Cricket Association Ground,2,Australia
+78,12.6,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,12,,MJ Clarke,2,Australia,Pakistan,60,Australia,Western Australia Cricket Association Ground,2,Australia
+79,13.1,1,Shahid Afridi,2010-01-29,1st,MJ Clarke,2,,RT Ponting,13,Australia,Pakistan,61,Australia,Western Australia Cricket Association Ground,2,Australia
+80,13.2,3,Shahid Afridi,2010-01-29,1st,RT Ponting,13,,MJ Clarke,5,Australia,Pakistan,64,Australia,Western Australia Cricket Association Ground,2,Australia
+81,13.3,4,Shahid Afridi,2010-01-29,1st,MJ Clarke,5,,RT Ponting,17,Australia,Pakistan,68,Australia,Western Australia Cricket Association Ground,2,Australia
+82,13.4,0,Shahid Afridi,2010-01-29,1st,MJ Clarke,5,,RT Ponting,17,Australia,Pakistan,70,Australia,Western Australia Cricket Association Ground,2,Australia
+83,13.5,0,Shahid Afridi,2010-01-29,1st,RT Ponting,17,,MJ Clarke,5,Australia,Pakistan,70,Australia,Western Australia Cricket Association Ground,2,Australia
+84,13.6,1,Shahid Afridi,2010-01-29,1st,RT Ponting,17,,MJ Clarke,6,Australia,Pakistan,71,Australia,Western Australia Cricket Association Ground,2,Australia
+85,13.7,0,Shahid Afridi,2010-01-29,1st,MJ Clarke,6,,RT Ponting,17,Australia,Pakistan,71,Australia,Western Australia Cricket Association Ground,2,Australia
+86,14.1,1,Iftikhar Anjum,2010-01-29,1st,RT Ponting,17,,MJ Clarke,7,Australia,Pakistan,72,Australia,Western Australia Cricket Association Ground,2,Australia
+87,14.2,1,Iftikhar Anjum,2010-01-29,1st,MJ Clarke,7,,RT Ponting,18,Australia,Pakistan,73,Australia,Western Australia Cricket Association Ground,2,Australia
+88,14.3,3,Iftikhar Anjum,2010-01-29,1st,RT Ponting,18,,MJ Clarke,10,Australia,Pakistan,76,Australia,Western Australia Cricket Association Ground,2,Australia
+89,14.4,1,Iftikhar Anjum,2010-01-29,1st,MJ Clarke,10,,RT Ponting,19,Australia,Pakistan,77,Australia,Western Australia Cricket Association Ground,2,Australia
+90,14.5,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,19,MJ Clarke,MJ Clarke,10,Australia,Pakistan,77,Australia,Western Australia Cricket Association Ground,3,Australia
+91,14.6,0,Iftikhar Anjum,2010-01-29,1st,CL White,0,,RT Ponting,19,Australia,Pakistan,77,Australia,Western Australia Cricket Association Ground,3,Australia
+92,15.1,0,Shahid Afridi,2010-01-29,1st,RT Ponting,19,,CL White,0,Australia,Pakistan,77,Australia,Western Australia Cricket Association Ground,3,Australia
+93,15.2,0,Shahid Afridi,2010-01-29,1st,RT Ponting,19,,CL White,0,Australia,Pakistan,77,Australia,Western Australia Cricket Association Ground,3,Australia
+94,15.3,2,Shahid Afridi,2010-01-29,1st,RT Ponting,19,,CL White,2,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,3,Australia
+95,15.4,0,Shahid Afridi,2010-01-29,1st,RT Ponting,19,,CL White,2,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,3,Australia
+96,15.5,0,Shahid Afridi,2010-01-29,1st,RT Ponting,19,,CL White,2,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,3,Australia
+97,15.6,0,Shahid Afridi,2010-01-29,1st,RT Ponting,19,,CL White,2,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,3,Australia
+98,16.1,0,Iftikhar Anjum,2010-01-29,1st,CL White,2,,RT Ponting,19,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,3,Australia
+99,16.2,6,Iftikhar Anjum,2010-01-29,1st,CL White,2,,RT Ponting,25,Australia,Pakistan,85,Australia,Western Australia Cricket Association Ground,3,Australia
+100,16.3,0,Iftikhar Anjum,2010-01-29,1st,CL White,2,,RT Ponting,25,Australia,Pakistan,85,Australia,Western Australia Cricket Association Ground,3,Australia
+101,16.4,0,Iftikhar Anjum,2010-01-29,1st,CL White,2,,RT Ponting,25,Australia,Pakistan,85,Australia,Western Australia Cricket Association Ground,3,Australia
+102,16.5,1,Iftikhar Anjum,2010-01-29,1st,CL White,2,,RT Ponting,26,Australia,Pakistan,86,Australia,Western Australia Cricket Association Ground,3,Australia
+103,16.6,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,26,,CL White,2,Australia,Pakistan,86,Australia,Western Australia Cricket Association Ground,3,Australia
+104,17.1,1,Shahid Afridi,2010-01-29,1st,CL White,2,,RT Ponting,27,Australia,Pakistan,87,Australia,Western Australia Cricket Association Ground,3,Australia
+105,17.2,0,Shahid Afridi,2010-01-29,1st,RT Ponting,27,,CL White,2,Australia,Pakistan,87,Australia,Western Australia Cricket Association Ground,3,Australia
+106,17.3,0,Shahid Afridi,2010-01-29,1st,RT Ponting,27,,CL White,2,Australia,Pakistan,87,Australia,Western Australia Cricket Association Ground,3,Australia
+107,17.4,0,Shahid Afridi,2010-01-29,1st,RT Ponting,27,,CL White,2,Australia,Pakistan,87,Australia,Western Australia Cricket Association Ground,3,Australia
+108,17.5,0,Shahid Afridi,2010-01-29,1st,RT Ponting,27,,CL White,2,Australia,Pakistan,87,Australia,Western Australia Cricket Association Ground,3,Australia
+109,17.6,1,Shahid Afridi,2010-01-29,1st,RT Ponting,27,,CL White,3,Australia,Pakistan,88,Australia,Western Australia Cricket Association Ground,3,Australia
+110,18.1,4,Iftikhar Anjum,2010-01-29,1st,RT Ponting,27,,CL White,7,Australia,Pakistan,92,Australia,Western Australia Cricket Association Ground,3,Australia
+111,18.2,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,27,,CL White,7,Australia,Pakistan,92,Australia,Western Australia Cricket Association Ground,3,Australia
+112,18.3,1,Iftikhar Anjum,2010-01-29,1st,RT Ponting,27,,CL White,8,Australia,Pakistan,93,Australia,Western Australia Cricket Association Ground,3,Australia
+113,18.4,0,Iftikhar Anjum,2010-01-29,1st,CL White,8,,RT Ponting,27,Australia,Pakistan,93,Australia,Western Australia Cricket Association Ground,3,Australia
+114,18.5,1,Iftikhar Anjum,2010-01-29,1st,CL White,8,,RT Ponting,28,Australia,Pakistan,94,Australia,Western Australia Cricket Association Ground,3,Australia
+115,18.6,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,28,,CL White,8,Australia,Pakistan,94,Australia,Western Australia Cricket Association Ground,3,Australia
+116,19.1,1,Shahid Afridi,2010-01-29,1st,CL White,8,,RT Ponting,29,Australia,Pakistan,95,Australia,Western Australia Cricket Association Ground,3,Australia
+117,19.2,1,Shahid Afridi,2010-01-29,1st,RT Ponting,29,,CL White,9,Australia,Pakistan,96,Australia,Western Australia Cricket Association Ground,3,Australia
+118,19.3,1,Shahid Afridi,2010-01-29,1st,CL White,9,,RT Ponting,30,Australia,Pakistan,97,Australia,Western Australia Cricket Association Ground,3,Australia
+119,19.4,0,Shahid Afridi,2010-01-29,1st,RT Ponting,30,,CL White,9,Australia,Pakistan,97,Australia,Western Australia Cricket Association Ground,3,Australia
+120,19.5,1,Shahid Afridi,2010-01-29,1st,RT Ponting,30,,CL White,10,Australia,Pakistan,98,Australia,Western Australia Cricket Association Ground,3,Australia
+121,19.6,0,Shahid Afridi,2010-01-29,1st,CL White,10,,RT Ponting,30,Australia,Pakistan,98,Australia,Western Australia Cricket Association Ground,3,Australia
+122,20.1,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,30,,CL White,10,Australia,Pakistan,98,Australia,Western Australia Cricket Association Ground,3,Australia
+123,20.2,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,30,,CL White,10,Australia,Pakistan,98,Australia,Western Australia Cricket Association Ground,3,Australia
+124,20.3,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,30,,CL White,10,Australia,Pakistan,98,Australia,Western Australia Cricket Association Ground,3,Australia
+125,20.4,6,Iftikhar Anjum,2010-01-29,1st,RT Ponting,30,,CL White,16,Australia,Pakistan,104,Australia,Western Australia Cricket Association Ground,3,Australia
+126,20.5,0,Iftikhar Anjum,2010-01-29,1st,RT Ponting,30,,CL White,16,Australia,Pakistan,106,Australia,Western Australia Cricket Association Ground,3,Australia
+127,20.6,4,Iftikhar Anjum,2010-01-29,1st,RT Ponting,30,,CL White,20,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,3,Australia
+128,21.1,0,Shahid Afridi,2010-01-29,1st,CL White,20,,RT Ponting,30,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,3,Australia
+129,21.2,0,Shahid Afridi,2010-01-29,1st,CL White,20,,RT Ponting,30,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,3,Australia
+130,21.3,0,Shahid Afridi,2010-01-29,1st,CL White,20,,RT Ponting,30,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,3,Australia
+131,21.4,0,Shahid Afridi,2010-01-29,1st,CL White,20,RT Ponting,RT Ponting,30,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,4,Australia
+132,21.5,0,Shahid Afridi,2010-01-29,1st,CL White,20,,MEK Hussey,0,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,4,Australia
+133,21.6,0,Shahid Afridi,2010-01-29,1st,CL White,20,,MEK Hussey,0,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,4,Australia
+134,22.1,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,0,,CL White,20,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,4,Australia
+135,22.2,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,0,,CL White,20,Australia,Pakistan,110,Australia,Western Australia Cricket Association Ground,4,Australia
+136,22.3,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,0,,CL White,21,Australia,Pakistan,111,Australia,Western Australia Cricket Association Ground,4,Australia
+137,22.4,1,Saeed Ajmal,2010-01-29,1st,CL White,21,,MEK Hussey,1,Australia,Pakistan,112,Australia,Western Australia Cricket Association Ground,4,Australia
+138,22.5,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,1,,CL White,22,Australia,Pakistan,113,Australia,Western Australia Cricket Association Ground,4,Australia
+139,22.6,1,Saeed Ajmal,2010-01-29,1st,CL White,22,,MEK Hussey,2,Australia,Pakistan,114,Australia,Western Australia Cricket Association Ground,4,Australia
+140,23.1,0,Shahid Afridi,2010-01-29,1st,CL White,22,,MEK Hussey,2,Australia,Pakistan,114,Australia,Western Australia Cricket Association Ground,4,Australia
+141,23.2,1,Shahid Afridi,2010-01-29,1st,CL White,22,,MEK Hussey,3,Australia,Pakistan,115,Australia,Western Australia Cricket Association Ground,4,Australia
+142,23.3,0,Shahid Afridi,2010-01-29,1st,MEK Hussey,3,,CL White,22,Australia,Pakistan,115,Australia,Western Australia Cricket Association Ground,4,Australia
+143,23.4,0,Shahid Afridi,2010-01-29,1st,MEK Hussey,3,,CL White,22,Australia,Pakistan,115,Australia,Western Australia Cricket Association Ground,4,Australia
+144,23.5,1,Shahid Afridi,2010-01-29,1st,MEK Hussey,3,,CL White,23,Australia,Pakistan,116,Australia,Western Australia Cricket Association Ground,4,Australia
+145,23.6,1,Shahid Afridi,2010-01-29,1st,CL White,23,,MEK Hussey,4,Australia,Pakistan,117,Australia,Western Australia Cricket Association Ground,4,Australia
+146,24.1,1,Saeed Ajmal,2010-01-29,1st,CL White,23,,MEK Hussey,5,Australia,Pakistan,118,Australia,Western Australia Cricket Association Ground,4,Australia
+147,24.2,2,Saeed Ajmal,2010-01-29,1st,MEK Hussey,5,,CL White,25,Australia,Pakistan,120,Australia,Western Australia Cricket Association Ground,4,Australia
+148,24.3,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,5,,CL White,25,Australia,Pakistan,120,Australia,Western Australia Cricket Association Ground,4,Australia
+149,24.4,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,5,,CL White,25,Australia,Pakistan,120,Australia,Western Australia Cricket Association Ground,4,Australia
+150,24.5,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,5,,CL White,25,Australia,Pakistan,120,Australia,Western Australia Cricket Association Ground,4,Australia
+151,24.6,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,5,,CL White,26,Australia,Pakistan,121,Australia,Western Australia Cricket Association Ground,4,Australia
+152,25.1,2,Shahid Afridi,2010-01-29,1st,MEK Hussey,5,,CL White,28,Australia,Pakistan,123,Australia,Western Australia Cricket Association Ground,4,Australia
+153,25.2,1,Shahid Afridi,2010-01-29,1st,MEK Hussey,5,,CL White,29,Australia,Pakistan,124,Australia,Western Australia Cricket Association Ground,4,Australia
+154,25.3,0,Shahid Afridi,2010-01-29,1st,CL White,29,,MEK Hussey,5,Australia,Pakistan,124,Australia,Western Australia Cricket Association Ground,4,Australia
+155,25.4,1,Shahid Afridi,2010-01-29,1st,CL White,29,,MEK Hussey,6,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,4,Australia
+156,25.5,1,Shahid Afridi,2010-01-29,1st,MEK Hussey,6,,CL White,30,Australia,Pakistan,126,Australia,Western Australia Cricket Association Ground,4,Australia
+157,25.6,1,Shahid Afridi,2010-01-29,1st,CL White,30,,MEK Hussey,7,Australia,Pakistan,127,Australia,Western Australia Cricket Association Ground,4,Australia
+158,26.1,1,Saeed Ajmal,2010-01-29,1st,CL White,30,,MEK Hussey,8,Australia,Pakistan,128,Australia,Western Australia Cricket Association Ground,4,Australia
+159,26.2,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,8,,CL White,30,Australia,Pakistan,128,Australia,Western Australia Cricket Association Ground,4,Australia
+160,26.3,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,8,,CL White,30,Australia,Pakistan,130,Australia,Western Australia Cricket Association Ground,4,Australia
+161,26.4,0,Saeed Ajmal,2010-01-29,1st,CL White,30,,MEK Hussey,8,Australia,Pakistan,130,Australia,Western Australia Cricket Association Ground,4,Australia
+162,26.5,1,Saeed Ajmal,2010-01-29,1st,CL White,30,,MEK Hussey,9,Australia,Pakistan,131,Australia,Western Australia Cricket Association Ground,4,Australia
+163,26.6,4,Saeed Ajmal,2010-01-29,1st,MEK Hussey,9,,CL White,34,Australia,Pakistan,135,Australia,Western Australia Cricket Association Ground,4,Australia
+164,26.7,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,9,,CL White,34,Australia,Pakistan,135,Australia,Western Australia Cricket Association Ground,4,Australia
+165,27.1,0,Shahid Afridi,2010-01-29,1st,CL White,34,,MEK Hussey,9,Australia,Pakistan,135,Australia,Western Australia Cricket Association Ground,4,Australia
+166,27.2,1,Shahid Afridi,2010-01-29,1st,CL White,34,,MEK Hussey,10,Australia,Pakistan,136,Australia,Western Australia Cricket Association Ground,4,Australia
+167,27.3,1,Shahid Afridi,2010-01-29,1st,MEK Hussey,10,,CL White,35,Australia,Pakistan,137,Australia,Western Australia Cricket Association Ground,4,Australia
+168,27.4,0,Shahid Afridi,2010-01-29,1st,CL White,35,,MEK Hussey,10,Australia,Pakistan,137,Australia,Western Australia Cricket Association Ground,4,Australia
+169,27.5,0,Shahid Afridi,2010-01-29,1st,CL White,35,,MEK Hussey,10,Australia,Pakistan,137,Australia,Western Australia Cricket Association Ground,4,Australia
+170,27.6,0,Shahid Afridi,2010-01-29,1st,CL White,35,,MEK Hussey,10,Australia,Pakistan,137,Australia,Western Australia Cricket Association Ground,4,Australia
+171,28.1,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,10,,CL White,36,Australia,Pakistan,138,Australia,Western Australia Cricket Association Ground,4,Australia
+172,28.2,0,Saeed Ajmal,2010-01-29,1st,CL White,36,,MEK Hussey,10,Australia,Pakistan,138,Australia,Western Australia Cricket Association Ground,4,Australia
+173,28.3,0,Saeed Ajmal,2010-01-29,1st,CL White,36,,MEK Hussey,10,Australia,Pakistan,138,Australia,Western Australia Cricket Association Ground,4,Australia
+174,28.4,1,Saeed Ajmal,2010-01-29,1st,CL White,36,,MEK Hussey,11,Australia,Pakistan,139,Australia,Western Australia Cricket Association Ground,4,Australia
+175,28.5,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,11,,CL White,36,Australia,Pakistan,139,Australia,Western Australia Cricket Association Ground,4,Australia
+176,28.6,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,11,,CL White,37,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,4,Australia
+177,29.1,1,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,11,,CL White,38,Australia,Pakistan,141,Australia,Western Australia Cricket Association Ground,4,Australia
+178,29.2,0,Naved-ul-Hasan,2010-01-29,1st,CL White,38,,MEK Hussey,11,Australia,Pakistan,141,Australia,Western Australia Cricket Association Ground,4,Australia
+179,29.3,1,Naved-ul-Hasan,2010-01-29,1st,CL White,38,,MEK Hussey,12,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,4,Australia
+180,29.4,0,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,12,,CL White,38,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,4,Australia
+181,29.5,0,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,12,,CL White,38,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,4,Australia
+182,29.6,0,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,12,,CL White,38,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,4,Australia
+183,30.1,2,Saeed Ajmal,2010-01-29,1st,CL White,38,,MEK Hussey,14,Australia,Pakistan,144,Australia,Western Australia Cricket Association Ground,4,Australia
+184,30.2,0,Saeed Ajmal,2010-01-29,1st,CL White,38,,MEK Hussey,14,Australia,Pakistan,144,Australia,Western Australia Cricket Association Ground,4,Australia
+185,30.3,0,Saeed Ajmal,2010-01-29,1st,CL White,38,,MEK Hussey,14,Australia,Pakistan,144,Australia,Western Australia Cricket Association Ground,4,Australia
+186,30.4,0,Saeed Ajmal,2010-01-29,1st,CL White,38,,MEK Hussey,14,Australia,Pakistan,144,Australia,Western Australia Cricket Association Ground,4,Australia
+187,30.5,1,Saeed Ajmal,2010-01-29,1st,CL White,38,,MEK Hussey,15,Australia,Pakistan,145,Australia,Western Australia Cricket Association Ground,4,Australia
+188,30.6,2,Saeed Ajmal,2010-01-29,1st,MEK Hussey,15,,CL White,40,Australia,Pakistan,147,Australia,Western Australia Cricket Association Ground,4,Australia
+189,31.1,1,Naved-ul-Hasan,2010-01-29,1st,CL White,40,,MEK Hussey,16,Australia,Pakistan,148,Australia,Western Australia Cricket Association Ground,4,Australia
+190,31.2,1,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,16,,CL White,41,Australia,Pakistan,149,Australia,Western Australia Cricket Association Ground,4,Australia
+191,31.3,0,Naved-ul-Hasan,2010-01-29,1st,CL White,41,,MEK Hussey,16,Australia,Pakistan,149,Australia,Western Australia Cricket Association Ground,4,Australia
+192,31.4,1,Naved-ul-Hasan,2010-01-29,1st,CL White,41,,MEK Hussey,17,Australia,Pakistan,150,Australia,Western Australia Cricket Association Ground,4,Australia
+193,31.5,1,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,17,,CL White,42,Australia,Pakistan,151,Australia,Western Australia Cricket Association Ground,4,Australia
+194,31.6,1,Naved-ul-Hasan,2010-01-29,1st,CL White,42,,MEK Hussey,18,Australia,Pakistan,152,Australia,Western Australia Cricket Association Ground,4,Australia
+195,32.1,1,Saeed Ajmal,2010-01-29,1st,CL White,42,,MEK Hussey,19,Australia,Pakistan,153,Australia,Western Australia Cricket Association Ground,4,Australia
+196,32.2,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,19,,CL White,43,Australia,Pakistan,154,Australia,Western Australia Cricket Association Ground,4,Australia
+197,32.3,0,Saeed Ajmal,2010-01-29,1st,CL White,43,,MEK Hussey,19,Australia,Pakistan,154,Australia,Western Australia Cricket Association Ground,4,Australia
+198,32.4,1,Saeed Ajmal,2010-01-29,1st,CL White,43,,MEK Hussey,20,Australia,Pakistan,155,Australia,Western Australia Cricket Association Ground,4,Australia
+199,32.5,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,20,,CL White,43,Australia,Pakistan,155,Australia,Western Australia Cricket Association Ground,4,Australia
+200,32.6,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,20,,CL White,43,Australia,Pakistan,155,Australia,Western Australia Cricket Association Ground,4,Australia
+201,33.1,0,Iftikhar Anjum,2010-01-29,1st,CL White,43,,MEK Hussey,20,Australia,Pakistan,155,Australia,Western Australia Cricket Association Ground,4,Australia
+202,33.2,1,Iftikhar Anjum,2010-01-29,1st,CL White,43,,MEK Hussey,21,Australia,Pakistan,156,Australia,Western Australia Cricket Association Ground,4,Australia
+203,33.3,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,21,,CL White,43,Australia,Pakistan,156,Australia,Western Australia Cricket Association Ground,4,Australia
+204,33.4,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,21,,CL White,43,Australia,Pakistan,156,Australia,Western Australia Cricket Association Ground,4,Australia
+205,33.5,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,21,,CL White,43,Australia,Pakistan,156,Australia,Western Australia Cricket Association Ground,4,Australia
+206,33.6,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,21,,CL White,43,Australia,Pakistan,156,Australia,Western Australia Cricket Association Ground,4,Australia
+207,34.1,1,Saeed Ajmal,2010-01-29,1st,CL White,43,,MEK Hussey,22,Australia,Pakistan,157,Australia,Western Australia Cricket Association Ground,4,Australia
+208,34.2,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,22,,CL White,44,Australia,Pakistan,158,Australia,Western Australia Cricket Association Ground,4,Australia
+209,34.3,0,Saeed Ajmal,2010-01-29,1st,CL White,44,,MEK Hussey,22,Australia,Pakistan,158,Australia,Western Australia Cricket Association Ground,4,Australia
+210,34.4,1,Saeed Ajmal,2010-01-29,1st,CL White,44,,MEK Hussey,23,Australia,Pakistan,159,Australia,Western Australia Cricket Association Ground,4,Australia
+211,34.5,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,23,CL White,CL White,44,Australia,Pakistan,159,Australia,Western Australia Cricket Association Ground,5,Australia
+212,34.6,0,Saeed Ajmal,2010-01-29,1st,JR Hopes,0,,MEK Hussey,23,Australia,Pakistan,159,Australia,Western Australia Cricket Association Ground,5,Australia
+213,35.1,4,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,23,,JR Hopes,4,Australia,Pakistan,163,Australia,Western Australia Cricket Association Ground,5,Australia
+214,35.2,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,23,,JR Hopes,4,Australia,Pakistan,163,Australia,Western Australia Cricket Association Ground,5,Australia
+215,35.3,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,23,,JR Hopes,4,Australia,Pakistan,163,Australia,Western Australia Cricket Association Ground,5,Australia
+216,35.4,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,23,,JR Hopes,4,Australia,Pakistan,163,Australia,Western Australia Cricket Association Ground,5,Australia
+217,35.5,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,23,,JR Hopes,4,Australia,Pakistan,163,Australia,Western Australia Cricket Association Ground,5,Australia
+218,35.6,2,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,23,,JR Hopes,6,Australia,Pakistan,165,Australia,Western Australia Cricket Association Ground,5,Australia
+219,36.1,3,Shahid Afridi,2010-01-29,1st,JR Hopes,6,,MEK Hussey,26,Australia,Pakistan,168,Australia,Western Australia Cricket Association Ground,5,Australia
+220,36.2,1,Shahid Afridi,2010-01-29,1st,MEK Hussey,26,,JR Hopes,7,Australia,Pakistan,169,Australia,Western Australia Cricket Association Ground,5,Australia
+221,36.3,2,Shahid Afridi,2010-01-29,1st,JR Hopes,7,,MEK Hussey,28,Australia,Pakistan,171,Australia,Western Australia Cricket Association Ground,5,Australia
+222,36.4,0,Shahid Afridi,2010-01-29,1st,JR Hopes,7,,MEK Hussey,28,Australia,Pakistan,171,Australia,Western Australia Cricket Association Ground,5,Australia
+223,36.5,1,Shahid Afridi,2010-01-29,1st,JR Hopes,7,,MEK Hussey,29,Australia,Pakistan,172,Australia,Western Australia Cricket Association Ground,5,Australia
+224,36.6,1,Shahid Afridi,2010-01-29,1st,MEK Hussey,29,,JR Hopes,8,Australia,Pakistan,173,Australia,Western Australia Cricket Association Ground,5,Australia
+225,37.1,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,29,,JR Hopes,8,Australia,Pakistan,173,Australia,Western Australia Cricket Association Ground,5,Australia
+226,37.2,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,29,,JR Hopes,8,Australia,Pakistan,173,Australia,Western Australia Cricket Association Ground,5,Australia
+227,37.3,1,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,29,,JR Hopes,9,Australia,Pakistan,174,Australia,Western Australia Cricket Association Ground,5,Australia
+228,37.4,1,Iftikhar Anjum,2010-01-29,1st,JR Hopes,9,,MEK Hussey,30,Australia,Pakistan,175,Australia,Western Australia Cricket Association Ground,5,Australia
+229,37.5,1,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,30,,JR Hopes,10,Australia,Pakistan,176,Australia,Western Australia Cricket Association Ground,5,Australia
+230,37.6,1,Iftikhar Anjum,2010-01-29,1st,JR Hopes,10,,MEK Hussey,31,Australia,Pakistan,177,Australia,Western Australia Cricket Association Ground,5,Australia
+231,38.1,1,Shahid Afridi,2010-01-29,1st,JR Hopes,10,,MEK Hussey,32,Australia,Pakistan,178,Australia,Western Australia Cricket Association Ground,5,Australia
+232,38.2,1,Shahid Afridi,2010-01-29,1st,MEK Hussey,32,,JR Hopes,11,Australia,Pakistan,179,Australia,Western Australia Cricket Association Ground,5,Australia
+233,38.3,0,Shahid Afridi,2010-01-29,1st,JR Hopes,11,,MEK Hussey,32,Australia,Pakistan,179,Australia,Western Australia Cricket Association Ground,5,Australia
+234,38.4,2,Shahid Afridi,2010-01-29,1st,JR Hopes,11,,MEK Hussey,34,Australia,Pakistan,181,Australia,Western Australia Cricket Association Ground,5,Australia
+235,38.5,0,Shahid Afridi,2010-01-29,1st,JR Hopes,11,,MEK Hussey,34,Australia,Pakistan,181,Australia,Western Australia Cricket Association Ground,5,Australia
+236,38.6,2,Shahid Afridi,2010-01-29,1st,JR Hopes,11,,MEK Hussey,36,Australia,Pakistan,183,Australia,Western Australia Cricket Association Ground,5,Australia
+237,39.1,4,Mohammad Asif,2010-01-29,1st,MEK Hussey,36,,JR Hopes,15,Australia,Pakistan,188,Australia,Western Australia Cricket Association Ground,5,Australia
+238,39.2,1,Mohammad Asif,2010-01-29,1st,MEK Hussey,36,,JR Hopes,16,Australia,Pakistan,189,Australia,Western Australia Cricket Association Ground,5,Australia
+239,39.3,0,Mohammad Asif,2010-01-29,1st,JR Hopes,16,,MEK Hussey,36,Australia,Pakistan,189,Australia,Western Australia Cricket Association Ground,5,Australia
+240,39.4,1,Mohammad Asif,2010-01-29,1st,JR Hopes,16,,MEK Hussey,37,Australia,Pakistan,190,Australia,Western Australia Cricket Association Ground,5,Australia
+241,39.5,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,37,JR Hopes,JR Hopes,16,Australia,Pakistan,190,Australia,Western Australia Cricket Association Ground,6,Australia
+242,39.6,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,37,,NM Hauritz,0,Australia,Pakistan,190,Australia,Western Australia Cricket Association Ground,6,Australia
+243,39.7,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,37,,NM Hauritz,0,Australia,Pakistan,190,Australia,Western Australia Cricket Association Ground,6,Australia
+244,40.1,1,Iftikhar Anjum,2010-01-29,1st,NM Hauritz,0,,MEK Hussey,38,Australia,Pakistan,191,Australia,Western Australia Cricket Association Ground,6,Australia
+245,40.2,4,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,38,,NM Hauritz,4,Australia,Pakistan,195,Australia,Western Australia Cricket Association Ground,6,Australia
+246,40.3,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,38,,NM Hauritz,4,Australia,Pakistan,195,Australia,Western Australia Cricket Association Ground,6,Australia
+247,40.4,1,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,38,,NM Hauritz,5,Australia,Pakistan,196,Australia,Western Australia Cricket Association Ground,6,Australia
+248,40.5,1,Iftikhar Anjum,2010-01-29,1st,NM Hauritz,5,,MEK Hussey,39,Australia,Pakistan,197,Australia,Western Australia Cricket Association Ground,6,Australia
+249,40.6,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,39,,NM Hauritz,5,Australia,Pakistan,197,Australia,Western Australia Cricket Association Ground,6,Australia
+250,41.1,1,Mohammad Asif,2010-01-29,1st,NM Hauritz,5,,MEK Hussey,40,Australia,Pakistan,198,Australia,Western Australia Cricket Association Ground,6,Australia
+251,41.2,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,40,,NM Hauritz,5,Australia,Pakistan,198,Australia,Western Australia Cricket Association Ground,6,Australia
+252,41.3,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,40,,NM Hauritz,5,Australia,Pakistan,198,Australia,Western Australia Cricket Association Ground,6,Australia
+253,41.4,1,Mohammad Asif,2010-01-29,1st,MEK Hussey,40,,NM Hauritz,6,Australia,Pakistan,199,Australia,Western Australia Cricket Association Ground,6,Australia
+254,41.5,1,Mohammad Asif,2010-01-29,1st,NM Hauritz,6,,MEK Hussey,41,Australia,Pakistan,200,Australia,Western Australia Cricket Association Ground,6,Australia
+255,41.6,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,41,,NM Hauritz,6,Australia,Pakistan,200,Australia,Western Australia Cricket Association Ground,6,Australia
+256,42.1,4,Iftikhar Anjum,2010-01-29,1st,NM Hauritz,6,,MEK Hussey,45,Australia,Pakistan,204,Australia,Western Australia Cricket Association Ground,6,Australia
+257,42.2,1,Iftikhar Anjum,2010-01-29,1st,NM Hauritz,6,,MEK Hussey,46,Australia,Pakistan,205,Australia,Western Australia Cricket Association Ground,6,Australia
+258,42.3,6,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,46,,NM Hauritz,12,Australia,Pakistan,211,Australia,Western Australia Cricket Association Ground,6,Australia
+259,42.4,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,46,,NM Hauritz,12,Australia,Pakistan,211,Australia,Western Australia Cricket Association Ground,6,Australia
+260,42.5,0,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,46,,NM Hauritz,12,Australia,Pakistan,211,Australia,Western Australia Cricket Association Ground,6,Australia
+261,42.6,2,Iftikhar Anjum,2010-01-29,1st,MEK Hussey,46,,NM Hauritz,14,Australia,Pakistan,213,Australia,Western Australia Cricket Association Ground,6,Australia
+262,43.1,1,Mohammad Asif,2010-01-29,1st,NM Hauritz,14,,MEK Hussey,47,Australia,Pakistan,214,Australia,Western Australia Cricket Association Ground,6,Australia
+263,43.2,1,Mohammad Asif,2010-01-29,1st,MEK Hussey,47,,NM Hauritz,15,Australia,Pakistan,215,Australia,Western Australia Cricket Association Ground,6,Australia
+264,43.3,1,Mohammad Asif,2010-01-29,1st,NM Hauritz,15,,MEK Hussey,48,Australia,Pakistan,216,Australia,Western Australia Cricket Association Ground,6,Australia
+265,43.4,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,48,,NM Hauritz,15,Australia,Pakistan,216,Australia,Western Australia Cricket Association Ground,6,Australia
+266,43.5,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,48,,NM Hauritz,15,Australia,Pakistan,216,Australia,Western Australia Cricket Association Ground,6,Australia
+267,43.6,0,Mohammad Asif,2010-01-29,1st,MEK Hussey,48,,NM Hauritz,15,Australia,Pakistan,216,Australia,Western Australia Cricket Association Ground,6,Australia
+268,44.1,1,Saeed Ajmal,2010-01-29,1st,NM Hauritz,15,,MEK Hussey,49,Australia,Pakistan,217,Australia,Western Australia Cricket Association Ground,6,Australia
+269,44.2,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,49,,NM Hauritz,16,Australia,Pakistan,218,Australia,Western Australia Cricket Association Ground,6,Australia
+270,44.3,1,Saeed Ajmal,2010-01-29,1st,NM Hauritz,16,,MEK Hussey,50,Australia,Pakistan,219,Australia,Western Australia Cricket Association Ground,6,Australia
+271,44.4,2,Saeed Ajmal,2010-01-29,1st,MEK Hussey,50,,NM Hauritz,18,Australia,Pakistan,221,Australia,Western Australia Cricket Association Ground,6,Australia
+272,44.5,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,50,,NM Hauritz,19,Australia,Pakistan,222,Australia,Western Australia Cricket Association Ground,6,Australia
+273,44.6,0,Saeed Ajmal,2010-01-29,1st,NM Hauritz,19,,MEK Hussey,50,Australia,Pakistan,222,Australia,Western Australia Cricket Association Ground,6,Australia
+274,45.1,2,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,50,,NM Hauritz,21,Australia,Pakistan,224,Australia,Western Australia Cricket Association Ground,6,Australia
+275,45.2,1,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,50,,NM Hauritz,22,Australia,Pakistan,225,Australia,Western Australia Cricket Association Ground,6,Australia
+276,45.3,4,Naved-ul-Hasan,2010-01-29,1st,NM Hauritz,22,,MEK Hussey,54,Australia,Pakistan,229,Australia,Western Australia Cricket Association Ground,6,Australia
+277,45.4,1,Naved-ul-Hasan,2010-01-29,1st,NM Hauritz,22,,MEK Hussey,55,Australia,Pakistan,230,Australia,Western Australia Cricket Association Ground,6,Australia
+278,45.5,1,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,55,,NM Hauritz,23,Australia,Pakistan,231,Australia,Western Australia Cricket Association Ground,6,Australia
+279,45.6,4,Naved-ul-Hasan,2010-01-29,1st,NM Hauritz,23,,MEK Hussey,59,Australia,Pakistan,235,Australia,Western Australia Cricket Association Ground,6,Australia
+280,46.1,2,Saeed Ajmal,2010-01-29,1st,MEK Hussey,59,,NM Hauritz,25,Australia,Pakistan,237,Australia,Western Australia Cricket Association Ground,6,Australia
+281,46.2,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,59,,NM Hauritz,26,Australia,Pakistan,238,Australia,Western Australia Cricket Association Ground,6,Australia
+282,46.3,1,Saeed Ajmal,2010-01-29,1st,NM Hauritz,26,,MEK Hussey,60,Australia,Pakistan,239,Australia,Western Australia Cricket Association Ground,6,Australia
+283,46.4,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,60,,NM Hauritz,26,Australia,Pakistan,239,Australia,Western Australia Cricket Association Ground,6,Australia
+284,46.5,0,Saeed Ajmal,2010-01-29,1st,MEK Hussey,60,,NM Hauritz,26,Australia,Pakistan,239,Australia,Western Australia Cricket Association Ground,6,Australia
+285,46.6,2,Saeed Ajmal,2010-01-29,1st,MEK Hussey,60,,NM Hauritz,28,Australia,Pakistan,241,Australia,Western Australia Cricket Association Ground,6,Australia
+286,47.1,1,Naved-ul-Hasan,2010-01-29,1st,NM Hauritz,28,,MEK Hussey,61,Australia,Pakistan,242,Australia,Western Australia Cricket Association Ground,6,Australia
+287,47.2,6,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,61,,NM Hauritz,34,Australia,Pakistan,248,Australia,Western Australia Cricket Association Ground,6,Australia
+288,47.3,6,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,61,,NM Hauritz,40,Australia,Pakistan,254,Australia,Western Australia Cricket Association Ground,6,Australia
+289,47.4,0,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,61,,NM Hauritz,40,Australia,Pakistan,254,Australia,Western Australia Cricket Association Ground,6,Australia
+290,47.5,2,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,61,,NM Hauritz,42,Australia,Pakistan,256,Australia,Western Australia Cricket Association Ground,6,Australia
+291,47.6,1,Naved-ul-Hasan,2010-01-29,1st,MEK Hussey,61,,NM Hauritz,43,Australia,Pakistan,257,Australia,Western Australia Cricket Association Ground,6,Australia
+292,48.1,6,Saeed Ajmal,2010-01-29,1st,MEK Hussey,61,,NM Hauritz,49,Australia,Pakistan,263,Australia,Western Australia Cricket Association Ground,6,Australia
+293,48.2,1,Saeed Ajmal,2010-01-29,1st,MEK Hussey,61,,NM Hauritz,50,Australia,Pakistan,264,Australia,Western Australia Cricket Association Ground,6,Australia
+294,48.3,0,Saeed Ajmal,2010-01-29,1st,NM Hauritz,50,,MEK Hussey,61,Australia,Pakistan,264,Australia,Western Australia Cricket Association Ground,6,Australia
+295,48.4,2,Saeed Ajmal,2010-01-29,1st,NM Hauritz,50,,MEK Hussey,63,Australia,Pakistan,266,Australia,Western Australia Cricket Association Ground,6,Australia
+296,48.5,4,Saeed Ajmal,2010-01-29,1st,NM Hauritz,50,,MEK Hussey,67,Australia,Pakistan,270,Australia,Western Australia Cricket Association Ground,6,Australia
+297,48.6,0,Saeed Ajmal,2010-01-29,1st,NM Hauritz,50,MEK Hussey,MEK Hussey,67,Australia,Pakistan,270,Australia,Western Australia Cricket Association Ground,7,Australia
+298,49.1,1,Mohammad Asif,2010-01-29,1st,RJ Harris,0,,NM Hauritz,51,Australia,Pakistan,271,Australia,Western Australia Cricket Association Ground,7,Australia
+299,49.2,2,Mohammad Asif,2010-01-29,1st,NM Hauritz,51,,RJ Harris,2,Australia,Pakistan,273,Australia,Western Australia Cricket Association Ground,7,Australia
+300,49.3,2,Mohammad Asif,2010-01-29,1st,NM Hauritz,51,,RJ Harris,4,Australia,Pakistan,275,Australia,Western Australia Cricket Association Ground,7,Australia
+301,49.4,0,Mohammad Asif,2010-01-29,1st,NM Hauritz,51,RJ Harris,RJ Harris,4,Australia,Pakistan,275,Australia,Western Australia Cricket Association Ground,8,Australia
+302,49.5,0,Mohammad Asif,2010-01-29,1st,CJ McKay,0,,NM Hauritz,51,Australia,Pakistan,275,Australia,Western Australia Cricket Association Ground,8,Australia
+303,49.6,2,Mohammad Asif,2010-01-29,1st,CJ McKay,0,,NM Hauritz,53,Australia,Pakistan,277,Australia,Western Australia Cricket Association Ground,8,Australia
+304,0.1,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+305,0.2,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,0,Australia,Western Australia Cricket Association Ground,0,Australia
+306,0.3,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,0,Australia
+307,0.4,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,1,Australia
+308,0.5,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,1,Australia
+309,0.6,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,2,Australia,Western Australia Cricket Association Ground,1,Australia
+310,1.1,3,PM Siddle,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,5,Australia,Western Australia Cricket Association Ground,1,Australia
+311,1.2,1,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,6,Australia,Western Australia Cricket Association Ground,1,Australia
+312,1.3,1,PM Siddle,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,7,Australia,Western Australia Cricket Association Ground,1,Australia
+313,1.4,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,7,Australia,Western Australia Cricket Association Ground,1,Australia
+314,1.5,2,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+315,1.6,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+316,2.1,0,RJ Harris,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+317,2.2,0,RJ Harris,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+318,2.3,0,RJ Harris,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+319,2.4,0,RJ Harris,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+320,2.5,0,RJ Harris,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+321,2.6,0,RJ Harris,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+322,3.1,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,9,Australia,Western Australia Cricket Association Ground,1,Australia
+323,3.2,3,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,12,Australia,Western Australia Cricket Association Ground,1,Australia
+324,3.3,0,PM Siddle,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,12,Australia,Western Australia Cricket Association Ground,1,Australia
+325,3.4,2,PM Siddle,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,14,Australia,Western Australia Cricket Association Ground,1,Australia
+326,3.5,0,PM Siddle,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,14,Australia,Western Australia Cricket Association Ground,1,Australia
+327,3.6,0,PM Siddle,2010-01-29,2nd,Younis Khan,0,,Kamran Akmal,0,Australia,Pakistan,14,Australia,Western Australia Cricket Association Ground,1,Australia
+328,4.1,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,14,Australia,Western Australia Cricket Association Ground,2,Australia
+329,4.2,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,14,Australia,Western Australia Cricket Association Ground,2,Australia
+330,4.3,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,14,Australia,Western Australia Cricket Association Ground,2,Australia
+331,4.4,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,15,Australia,Western Australia Cricket Association Ground,2,Australia
+332,4.5,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,15,Australia,Western Australia Cricket Association Ground,2,Australia
+333,4.6,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,15,Australia,Western Australia Cricket Association Ground,2,Australia
+334,4.7,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,15,Australia,Western Australia Cricket Association Ground,2,Australia
+335,5.1,0,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,15,Australia,Western Australia Cricket Association Ground,2,Australia
+336,5.2,4,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,19,Australia,Western Australia Cricket Association Ground,2,Australia
+337,5.3,1,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,20,Australia,Western Australia Cricket Association Ground,2,Australia
+338,5.4,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,21,Australia,Western Australia Cricket Association Ground,2,Australia
+339,5.5,4,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,25,Australia,Western Australia Cricket Association Ground,2,Australia
+340,5.6,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,25,Australia,Western Australia Cricket Association Ground,2,Australia
+341,5.7,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,25,Australia,Western Australia Cricket Association Ground,2,Australia
+342,6.1,0,RJ Harris,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,25,Australia,Western Australia Cricket Association Ground,2,Australia
+343,6.2,1,RJ Harris,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,26,Australia,Western Australia Cricket Association Ground,2,Australia
+344,6.3,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,26,Australia,Western Australia Cricket Association Ground,2,Australia
+345,6.4,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,26,Australia,Western Australia Cricket Association Ground,2,Australia
+346,6.5,0,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,26,Australia,Western Australia Cricket Association Ground,2,Australia
+347,6.6,4,RJ Harris,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,30,Australia,Western Australia Cricket Association Ground,2,Australia
+348,7.1,4,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,2,Australia
+349,7.2,0,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,2,Australia
+350,7.3,0,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,34,Australia,Western Australia Cricket Association Ground,2,Australia
+351,7.4,1,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,35,Australia,Western Australia Cricket Association Ground,2,Australia
+352,7.5,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,35,Australia,Western Australia Cricket Association Ground,2,Australia
+353,7.6,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,35,Australia,Western Australia Cricket Association Ground,2,Australia
+354,8.1,0,CJ McKay,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,36,Australia,Western Australia Cricket Association Ground,2,Australia
+355,8.2,0,CJ McKay,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,36,Australia,Western Australia Cricket Association Ground,2,Australia
+356,8.3,0,CJ McKay,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,36,Australia,Western Australia Cricket Association Ground,2,Australia
+357,8.4,1,CJ McKay,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,37,Australia,Western Australia Cricket Association Ground,2,Australia
+358,8.5,0,CJ McKay,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,37,Australia,Western Australia Cricket Association Ground,2,Australia
+359,8.6,0,CJ McKay,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,37,Australia,Western Australia Cricket Association Ground,2,Australia
+360,9.1,0,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,37,Australia,Western Australia Cricket Association Ground,2,Australia
+361,9.2,1,PM Siddle,2010-01-29,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,38,Australia,Western Australia Cricket Association Ground,2,Australia
+362,9.3,0,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,38,Australia,Western Australia Cricket Association Ground,3,Australia
+363,9.4,1,PM Siddle,2010-01-29,2nd,Mohammad Yousuf,0,,Umar Akmal,0,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,3,Australia
+364,9.5,0,PM Siddle,2010-01-29,2nd,Umar Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,4,Australia
+365,9.6,0,PM Siddle,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,4,Australia
+366,10.1,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,4,Australia
+367,10.2,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,4,Australia
+368,10.3,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,4,Australia
+369,10.4,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,39,Australia,Western Australia Cricket Association Ground,4,Australia
+370,10.5,1,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,40,Australia,Western Australia Cricket Association Ground,4,Australia
+371,10.6,0,CJ McKay,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,40,Australia,Western Australia Cricket Association Ground,4,Australia
+372,11.1,0,PM Siddle,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,40,Australia,Western Australia Cricket Association Ground,4,Australia
+373,11.2,0,PM Siddle,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,40,Australia,Western Australia Cricket Association Ground,4,Australia
+374,11.3,0,PM Siddle,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,41,Australia,Western Australia Cricket Association Ground,4,Australia
+375,11.4,0,PM Siddle,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,41,Australia,Western Australia Cricket Association Ground,4,Australia
+376,11.5,1,PM Siddle,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+377,11.6,0,PM Siddle,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+378,11.7,0,PM Siddle,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+379,12.1,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+380,12.2,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+381,12.3,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+382,12.4,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+383,12.5,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+384,12.6,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+385,13.1,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+386,13.2,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+387,13.3,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+388,13.4,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+389,13.5,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,42,Australia,Western Australia Cricket Association Ground,4,Australia
+390,13.6,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+391,14.1,0,CJ McKay,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+392,14.2,0,CJ McKay,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+393,14.3,0,CJ McKay,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+394,14.4,0,CJ McKay,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+395,14.5,0,CJ McKay,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+396,14.6,0,CJ McKay,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+397,15.1,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,43,Australia,Western Australia Cricket Association Ground,4,Australia
+398,15.2,1,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,44,Australia,Western Australia Cricket Association Ground,4,Australia
+399,15.3,2,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,46,Australia,Western Australia Cricket Association Ground,4,Australia
+400,15.4,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,46,Australia,Western Australia Cricket Association Ground,4,Australia
+401,15.5,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,47,Australia,Western Australia Cricket Association Ground,4,Australia
+402,15.6,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,48,Australia,Western Australia Cricket Association Ground,4,Australia
+403,16.1,4,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+404,16.2,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+405,16.3,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+406,16.4,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+407,16.5,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+408,16.6,0,CJ McKay,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+409,17.1,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+410,17.2,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+411,17.3,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+412,17.4,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,52,Australia,Western Australia Cricket Association Ground,4,Australia
+413,17.5,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,53,Australia,Western Australia Cricket Association Ground,4,Australia
+414,17.6,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,53,Australia,Western Australia Cricket Association Ground,4,Australia
+415,18.1,0,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,53,Australia,Western Australia Cricket Association Ground,4,Australia
+416,18.2,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,54,Australia,Western Australia Cricket Association Ground,4,Australia
+417,18.3,1,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,55,Australia,Western Australia Cricket Association Ground,4,Australia
+418,18.4,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,56,Australia,Western Australia Cricket Association Ground,4,Australia
+419,18.5,0,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,56,Australia,Western Australia Cricket Association Ground,4,Australia
+420,18.6,1,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,57,Australia,Western Australia Cricket Association Ground,4,Australia
+421,19.1,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,58,Australia,Western Australia Cricket Association Ground,4,Australia
+422,19.2,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,58,Australia,Western Australia Cricket Association Ground,4,Australia
+423,19.3,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,59,Australia,Western Australia Cricket Association Ground,4,Australia
+424,19.4,2,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,61,Australia,Western Australia Cricket Association Ground,4,Australia
+425,19.5,1,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,62,Australia,Western Australia Cricket Association Ground,4,Australia
+426,19.6,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,63,Australia,Western Australia Cricket Association Ground,4,Australia
+427,20.1,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,64,Australia,Western Australia Cricket Association Ground,4,Australia
+428,20.2,1,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,65,Australia,Western Australia Cricket Association Ground,4,Australia
+429,20.3,0,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,65,Australia,Western Australia Cricket Association Ground,4,Australia
+430,20.4,0,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,65,Australia,Western Australia Cricket Association Ground,4,Australia
+431,20.5,0,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,65,Australia,Western Australia Cricket Association Ground,4,Australia
+432,20.6,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,66,Australia,Western Australia Cricket Association Ground,4,Australia
+433,21.1,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,66,Australia,Western Australia Cricket Association Ground,4,Australia
+434,21.2,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,67,Australia,Western Australia Cricket Association Ground,4,Australia
+435,21.3,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,67,Australia,Western Australia Cricket Association Ground,4,Australia
+436,21.4,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,67,Australia,Western Australia Cricket Association Ground,4,Australia
+437,21.5,1,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,68,Australia,Western Australia Cricket Association Ground,4,Australia
+438,21.6,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,69,Australia,Western Australia Cricket Association Ground,4,Australia
+439,22.1,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,70,Australia,Western Australia Cricket Association Ground,4,Australia
+440,22.2,0,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,71,Australia,Western Australia Cricket Association Ground,4,Australia
+441,22.3,0,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,71,Australia,Western Australia Cricket Association Ground,4,Australia
+442,22.4,1,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,72,Australia,Western Australia Cricket Association Ground,4,Australia
+443,22.5,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,73,Australia,Western Australia Cricket Association Ground,4,Australia
+444,22.6,0,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,73,Australia,Western Australia Cricket Association Ground,4,Australia
+445,22.7,2,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,75,Australia,Western Australia Cricket Association Ground,4,Australia
+446,23.1,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,75,Australia,Western Australia Cricket Association Ground,4,Australia
+447,23.2,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,75,Australia,Western Australia Cricket Association Ground,4,Australia
+448,23.3,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,76,Australia,Western Australia Cricket Association Ground,4,Australia
+449,23.4,2,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,78,Australia,Western Australia Cricket Association Ground,4,Australia
+450,23.5,1,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,4,Australia
+451,23.6,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,4,Australia
+452,24.1,0,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,79,Australia,Western Australia Cricket Association Ground,4,Australia
+453,24.2,6,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,85,Australia,Western Australia Cricket Association Ground,4,Australia
+454,24.3,1,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,86,Australia,Western Australia Cricket Association Ground,4,Australia
+455,24.4,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,87,Australia,Western Australia Cricket Association Ground,4,Australia
+456,24.5,1,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,88,Australia,Western Australia Cricket Association Ground,4,Australia
+457,24.6,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,89,Australia,Western Australia Cricket Association Ground,4,Australia
+458,25.1,0,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,89,Australia,Western Australia Cricket Association Ground,4,Australia
+459,25.2,1,JR Hopes,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,90,Australia,Western Australia Cricket Association Ground,4,Australia
+460,25.3,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,90,Australia,Western Australia Cricket Association Ground,4,Australia
+461,25.4,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,90,Australia,Western Australia Cricket Association Ground,4,Australia
+462,25.5,0,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,90,Australia,Western Australia Cricket Association Ground,4,Australia
+463,25.6,4,JR Hopes,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,94,Australia,Western Australia Cricket Association Ground,4,Australia
+464,26.1,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,95,Australia,Western Australia Cricket Association Ground,4,Australia
+465,26.2,2,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,97,Australia,Western Australia Cricket Association Ground,4,Australia
+466,26.3,1,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,98,Australia,Western Australia Cricket Association Ground,4,Australia
+467,26.4,0,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,98,Australia,Western Australia Cricket Association Ground,4,Australia
+468,26.5,1,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,99,Australia,Western Australia Cricket Association Ground,4,Australia
+469,26.6,0,NM Hauritz,2010-01-29,2nd,Fawad Alam,0,,Umar Akmal,0,Australia,Pakistan,99,Australia,Western Australia Cricket Association Ground,4,Australia
+470,27.1,0,RJ Harris,2010-01-29,2nd,Umar Akmal,0,,Fawad Alam,0,Australia,Pakistan,99,Australia,Western Australia Cricket Association Ground,5,Australia
+471,27.2,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Umar Akmal,0,Australia,Pakistan,99,Australia,Western Australia Cricket Association Ground,5,Australia
+472,27.3,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Umar Akmal,0,Australia,Pakistan,99,Australia,Western Australia Cricket Association Ground,5,Australia
+473,27.4,1,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Umar Akmal,0,Australia,Pakistan,100,Australia,Western Australia Cricket Association Ground,5,Australia
+474,27.5,4,RJ Harris,2010-01-29,2nd,Umar Akmal,0,,Shahid Afridi,0,Australia,Pakistan,104,Australia,Western Australia Cricket Association Ground,5,Australia
+475,27.6,4,RJ Harris,2010-01-29,2nd,Umar Akmal,0,,Shahid Afridi,0,Australia,Pakistan,108,Australia,Western Australia Cricket Association Ground,5,Australia
+476,28.1,1,NM Hauritz,2010-01-29,2nd,Shahid Afridi,0,,Umar Akmal,0,Australia,Pakistan,109,Australia,Western Australia Cricket Association Ground,5,Australia
+477,28.2,2,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Shahid Afridi,0,Australia,Pakistan,111,Australia,Western Australia Cricket Association Ground,5,Australia
+478,28.3,6,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Shahid Afridi,0,Australia,Pakistan,117,Australia,Western Australia Cricket Association Ground,5,Australia
+479,28.4,6,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Shahid Afridi,0,Australia,Pakistan,123,Australia,Western Australia Cricket Association Ground,5,Australia
+480,28.5,2,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Shahid Afridi,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,5,Australia
+481,28.6,0,NM Hauritz,2010-01-29,2nd,Umar Akmal,0,,Shahid Afridi,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,5,Australia
+482,29.1,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Umar Akmal,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,5,Australia
+483,29.2,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Umar Akmal,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,6,Australia
+484,29.3,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Naved-ul-Hasan,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,7,Australia
+485,29.4,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Iftikhar Anjum,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,7,Australia
+486,29.5,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Iftikhar Anjum,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,7,Australia
+487,29.6,0,RJ Harris,2010-01-29,2nd,Shahid Afridi,0,,Iftikhar Anjum,0,Australia,Pakistan,125,Australia,Western Australia Cricket Association Ground,7,Australia
+488,30.1,4,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Shahid Afridi,0,Australia,Pakistan,129,Australia,Western Australia Cricket Association Ground,7,Australia
+489,30.2,1,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Shahid Afridi,0,Australia,Pakistan,130,Australia,Western Australia Cricket Association Ground,7,Australia
+490,30.3,0,CJ McKay,2010-01-29,2nd,Shahid Afridi,0,,Iftikhar Anjum,0,Australia,Pakistan,130,Australia,Western Australia Cricket Association Ground,7,Australia
+491,30.4,0,CJ McKay,2010-01-29,2nd,Shahid Afridi,0,,Iftikhar Anjum,0,Australia,Pakistan,130,Australia,Western Australia Cricket Association Ground,7,Australia
+492,30.5,1,CJ McKay,2010-01-29,2nd,Shahid Afridi,0,,Iftikhar Anjum,0,Australia,Pakistan,131,Australia,Western Australia Cricket Association Ground,7,Australia
+493,30.6,0,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Shahid Afridi,0,Australia,Pakistan,131,Australia,Western Australia Cricket Association Ground,8,Australia
+494,31.1,0,RJ Harris,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,131,Australia,Western Australia Cricket Association Ground,8,Australia
+495,31.2,0,RJ Harris,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,131,Australia,Western Australia Cricket Association Ground,8,Australia
+496,31.3,0,RJ Harris,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,131,Australia,Western Australia Cricket Association Ground,8,Australia
+497,31.4,1,RJ Harris,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,132,Australia,Western Australia Cricket Association Ground,8,Australia
+498,31.5,0,RJ Harris,2010-01-29,2nd,Saeed Ajmal,0,,Iftikhar Anjum,0,Australia,Pakistan,132,Australia,Western Australia Cricket Association Ground,8,Australia
+499,31.6,0,RJ Harris,2010-01-29,2nd,Saeed Ajmal,0,,Iftikhar Anjum,0,Australia,Pakistan,132,Australia,Western Australia Cricket Association Ground,8,Australia
+500,32.1,0,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,132,Australia,Western Australia Cricket Association Ground,8,Australia
+501,32.2,0,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,132,Australia,Western Australia Cricket Association Ground,8,Australia
+502,32.3,2,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,134,Australia,Western Australia Cricket Association Ground,8,Australia
+503,32.4,2,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,136,Australia,Western Australia Cricket Association Ground,8,Australia
+504,32.5,0,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,136,Australia,Western Australia Cricket Association Ground,8,Australia
+505,32.6,0,CJ McKay,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,136,Australia,Western Australia Cricket Association Ground,8,Australia
+506,33.1,0,RJ Harris,2010-01-29,2nd,Saeed Ajmal,0,,Iftikhar Anjum,0,Australia,Pakistan,136,Australia,Western Australia Cricket Association Ground,8,Australia
+507,33.2,1,RJ Harris,2010-01-29,2nd,Saeed Ajmal,0,,Iftikhar Anjum,0,Australia,Pakistan,137,Australia,Western Australia Cricket Association Ground,8,Australia
+508,33.3,0,RJ Harris,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,137,Australia,Western Australia Cricket Association Ground,8,Australia
+509,33.4,1,RJ Harris,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,138,Australia,Western Australia Cricket Association Ground,8,Australia
+510,33.5,0,RJ Harris,2010-01-29,2nd,Saeed Ajmal,0,,Iftikhar Anjum,0,Australia,Pakistan,138,Australia,Western Australia Cricket Association Ground,8,Australia
+511,33.6,0,RJ Harris,2010-01-29,2nd,Saeed Ajmal,0,,Iftikhar Anjum,0,Australia,Pakistan,138,Australia,Western Australia Cricket Association Ground,8,Australia
+512,34.1,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,138,Australia,Western Australia Cricket Association Ground,8,Australia
+513,34.2,1,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,139,Australia,Western Australia Cricket Association Ground,8,Australia
+514,34.3,1,NM Hauritz,2010-01-29,2nd,Saeed Ajmal,0,,Iftikhar Anjum,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,8,Australia
+515,34.4,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Saeed Ajmal,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,9,Australia
+516,34.5,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,9,Australia
+517,34.6,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,9,Australia
+518,35.1,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,9,Australia
+519,35.2,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,9,Australia
+520,35.3,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,9,Australia
+521,35.4,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,140,Australia,Western Australia Cricket Association Ground,9,Australia
+522,35.5,1,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,141,Australia,Western Australia Cricket Association Ground,9,Australia
+523,35.6,0,RJ Harris,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,141,Australia,Western Australia Cricket Association Ground,9,Australia
+524,36.1,1,NM Hauritz,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+525,36.2,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+526,36.3,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+527,36.4,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+528,36.5,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+529,36.6,0,NM Hauritz,2010-01-29,2nd,Iftikhar Anjum,0,,Mohammad Asif,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+530,37.1,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+531,37.2,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+532,37.3,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+533,37.4,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,9,Australia
+534,37.5,0,RJ Harris,2010-01-29,2nd,Mohammad Asif,0,,Iftikhar Anjum,0,Australia,Pakistan,142,Australia,Western Australia Cricket Association Ground,10,Australia

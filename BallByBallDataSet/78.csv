@@ -1,0 +1,483 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,MM Patel,2006-11-22,1st,LE Bosman,0,,GC Smith,0,South Africa,India,0,South Africa,Kingsmead,0,South Africa
+1,0.2,0,MM Patel,2006-11-22,1st,LE Bosman,0,,GC Smith,0,South Africa,India,0,South Africa,Kingsmead,0,South Africa
+2,0.3,0,MM Patel,2006-11-22,1st,LE Bosman,0,,GC Smith,0,South Africa,India,0,South Africa,Kingsmead,0,South Africa
+3,0.4,0,MM Patel,2006-11-22,1st,LE Bosman,0,,GC Smith,0,South Africa,India,0,South Africa,Kingsmead,0,South Africa
+4,0.5,1,MM Patel,2006-11-22,1st,LE Bosman,0,,GC Smith,1,South Africa,India,1,South Africa,Kingsmead,0,South Africa
+5,0.6,0,MM Patel,2006-11-22,1st,GC Smith,1,,LE Bosman,0,South Africa,India,1,South Africa,Kingsmead,0,South Africa
+6,1.1,0,Z Khan,2006-11-22,1st,LE Bosman,0,,GC Smith,1,South Africa,India,2,South Africa,Kingsmead,0,South Africa
+7,1.2,0,Z Khan,2006-11-22,1st,LE Bosman,0,,GC Smith,1,South Africa,India,3,South Africa,Kingsmead,0,South Africa
+8,1.3,0,Z Khan,2006-11-22,1st,LE Bosman,0,,GC Smith,1,South Africa,India,3,South Africa,Kingsmead,0,South Africa
+9,1.4,0,Z Khan,2006-11-22,1st,LE Bosman,0,GC Smith,GC Smith,1,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+10,1.5,0,Z Khan,2006-11-22,1st,LE Bosman,0,,JH Kallis,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+11,1.6,0,Z Khan,2006-11-22,1st,LE Bosman,0,,JH Kallis,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+12,1.7,0,Z Khan,2006-11-22,1st,LE Bosman,0,,JH Kallis,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+13,1.8,0,Z Khan,2006-11-22,1st,LE Bosman,0,,JH Kallis,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+14,2.1,0,MM Patel,2006-11-22,1st,JH Kallis,0,,LE Bosman,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+15,2.2,0,MM Patel,2006-11-22,1st,JH Kallis,0,,LE Bosman,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+16,2.3,0,MM Patel,2006-11-22,1st,JH Kallis,0,,LE Bosman,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+17,2.4,0,MM Patel,2006-11-22,1st,JH Kallis,0,,LE Bosman,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+18,2.5,2,MM Patel,2006-11-22,1st,JH Kallis,0,,LE Bosman,2,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+19,2.6,0,MM Patel,2006-11-22,1st,JH Kallis,0,,LE Bosman,2,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+20,3.1,0,Z Khan,2006-11-22,1st,LE Bosman,2,,JH Kallis,0,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+21,3.2,0,Z Khan,2006-11-22,1st,LE Bosman,2,,JH Kallis,0,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+22,3.3,1,Z Khan,2006-11-22,1st,LE Bosman,2,,JH Kallis,1,South Africa,India,6,South Africa,Kingsmead,1,South Africa
+23,3.4,0,Z Khan,2006-11-22,1st,JH Kallis,1,,LE Bosman,2,South Africa,India,8,South Africa,Kingsmead,1,South Africa
+24,3.5,1,Z Khan,2006-11-22,1st,LE Bosman,2,,JH Kallis,2,South Africa,India,9,South Africa,Kingsmead,1,South Africa
+25,3.6,0,Z Khan,2006-11-22,1st,JH Kallis,2,,LE Bosman,2,South Africa,India,9,South Africa,Kingsmead,1,South Africa
+26,3.7,4,Z Khan,2006-11-22,1st,JH Kallis,2,,LE Bosman,6,South Africa,India,13,South Africa,Kingsmead,1,South Africa
+27,4.1,0,MM Patel,2006-11-22,1st,LE Bosman,6,,JH Kallis,2,South Africa,India,13,South Africa,Kingsmead,1,South Africa
+28,4.2,2,MM Patel,2006-11-22,1st,LE Bosman,6,,JH Kallis,4,South Africa,India,15,South Africa,Kingsmead,1,South Africa
+29,4.3,4,MM Patel,2006-11-22,1st,LE Bosman,6,,JH Kallis,8,South Africa,India,19,South Africa,Kingsmead,1,South Africa
+30,4.4,0,MM Patel,2006-11-22,1st,LE Bosman,6,,JH Kallis,8,South Africa,India,19,South Africa,Kingsmead,1,South Africa
+31,4.5,1,MM Patel,2006-11-22,1st,LE Bosman,6,,JH Kallis,9,South Africa,India,20,South Africa,Kingsmead,1,South Africa
+32,4.6,2,MM Patel,2006-11-22,1st,JH Kallis,9,,LE Bosman,8,South Africa,India,22,South Africa,Kingsmead,1,South Africa
+33,5.1,0,Z Khan,2006-11-22,1st,LE Bosman,8,,JH Kallis,9,South Africa,India,22,South Africa,Kingsmead,1,South Africa
+34,5.2,0,Z Khan,2006-11-22,1st,LE Bosman,8,,JH Kallis,9,South Africa,India,22,South Africa,Kingsmead,1,South Africa
+35,5.3,1,Z Khan,2006-11-22,1st,LE Bosman,8,,JH Kallis,10,South Africa,India,23,South Africa,Kingsmead,1,South Africa
+36,5.4,1,Z Khan,2006-11-22,1st,JH Kallis,10,,LE Bosman,9,South Africa,India,24,South Africa,Kingsmead,1,South Africa
+37,5.5,1,Z Khan,2006-11-22,1st,LE Bosman,9,,JH Kallis,11,South Africa,India,25,South Africa,Kingsmead,1,South Africa
+38,5.6,0,Z Khan,2006-11-22,1st,JH Kallis,11,,LE Bosman,9,South Africa,India,25,South Africa,Kingsmead,1,South Africa
+39,6.1,4,MM Patel,2006-11-22,1st,LE Bosman,9,,JH Kallis,15,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+40,6.2,0,MM Patel,2006-11-22,1st,LE Bosman,9,,JH Kallis,15,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+41,6.3,0,MM Patel,2006-11-22,1st,LE Bosman,9,,JH Kallis,15,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+42,6.4,0,MM Patel,2006-11-22,1st,LE Bosman,9,,JH Kallis,15,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+43,6.5,0,MM Patel,2006-11-22,1st,LE Bosman,9,,JH Kallis,15,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+44,6.6,0,MM Patel,2006-11-22,1st,LE Bosman,9,,JH Kallis,15,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+45,7.1,0,Z Khan,2006-11-22,1st,JH Kallis,15,,LE Bosman,9,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+46,7.2,2,Z Khan,2006-11-22,1st,JH Kallis,15,,LE Bosman,11,South Africa,India,31,South Africa,Kingsmead,1,South Africa
+47,7.3,4,Z Khan,2006-11-22,1st,JH Kallis,15,,LE Bosman,15,South Africa,India,35,South Africa,Kingsmead,1,South Africa
+48,7.4,1,Z Khan,2006-11-22,1st,JH Kallis,15,,LE Bosman,16,South Africa,India,36,South Africa,Kingsmead,1,South Africa
+49,7.5,1,Z Khan,2006-11-22,1st,LE Bosman,16,,JH Kallis,16,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+50,7.6,0,Z Khan,2006-11-22,1st,JH Kallis,16,,LE Bosman,16,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+51,8.1,0,AB Agarkar,2006-11-22,1st,LE Bosman,16,,JH Kallis,16,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+52,8.2,0,AB Agarkar,2006-11-22,1st,LE Bosman,16,,JH Kallis,16,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+53,8.3,0,AB Agarkar,2006-11-22,1st,LE Bosman,16,,JH Kallis,16,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+54,8.4,4,AB Agarkar,2006-11-22,1st,LE Bosman,16,,JH Kallis,20,South Africa,India,41,South Africa,Kingsmead,1,South Africa
+55,8.5,0,AB Agarkar,2006-11-22,1st,LE Bosman,16,,JH Kallis,20,South Africa,India,41,South Africa,Kingsmead,1,South Africa
+56,8.6,0,AB Agarkar,2006-11-22,1st,LE Bosman,16,,JH Kallis,20,South Africa,India,41,South Africa,Kingsmead,1,South Africa
+57,9.1,2,Z Khan,2006-11-22,1st,JH Kallis,20,,LE Bosman,18,South Africa,India,43,South Africa,Kingsmead,1,South Africa
+58,9.2,0,Z Khan,2006-11-22,1st,JH Kallis,20,,LE Bosman,18,South Africa,India,43,South Africa,Kingsmead,1,South Africa
+59,9.3,4,Z Khan,2006-11-22,1st,JH Kallis,20,,LE Bosman,22,South Africa,India,47,South Africa,Kingsmead,1,South Africa
+60,9.4,0,Z Khan,2006-11-22,1st,JH Kallis,20,LE Bosman,LE Bosman,22,South Africa,India,47,South Africa,Kingsmead,2,South Africa
+61,9.5,0,Z Khan,2006-11-22,1st,JH Kallis,20,,HH Gibbs,0,South Africa,India,47,South Africa,Kingsmead,2,South Africa
+62,9.6,0,Z Khan,2006-11-22,1st,JH Kallis,20,,HH Gibbs,0,South Africa,India,47,South Africa,Kingsmead,2,South Africa
+63,10.1,0,AB Agarkar,2006-11-22,1st,HH Gibbs,0,,JH Kallis,20,South Africa,India,47,South Africa,Kingsmead,2,South Africa
+64,10.2,0,AB Agarkar,2006-11-22,1st,HH Gibbs,0,,JH Kallis,20,South Africa,India,47,South Africa,Kingsmead,2,South Africa
+65,10.3,0,AB Agarkar,2006-11-22,1st,HH Gibbs,0,,JH Kallis,20,South Africa,India,47,South Africa,Kingsmead,2,South Africa
+66,10.4,2,AB Agarkar,2006-11-22,1st,HH Gibbs,0,,JH Kallis,22,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+67,10.5,0,AB Agarkar,2006-11-22,1st,HH Gibbs,0,,JH Kallis,22,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+68,10.6,0,AB Agarkar,2006-11-22,1st,HH Gibbs,0,,JH Kallis,22,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+69,11.1,0,Z Khan,2006-11-22,1st,JH Kallis,22,,HH Gibbs,0,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+70,11.2,1,Z Khan,2006-11-22,1st,JH Kallis,22,,HH Gibbs,1,South Africa,India,50,South Africa,Kingsmead,2,South Africa
+71,11.3,0,Z Khan,2006-11-22,1st,HH Gibbs,1,,JH Kallis,22,South Africa,India,50,South Africa,Kingsmead,2,South Africa
+72,11.4,4,Z Khan,2006-11-22,1st,HH Gibbs,1,,JH Kallis,26,South Africa,India,54,South Africa,Kingsmead,2,South Africa
+73,11.5,4,Z Khan,2006-11-22,1st,HH Gibbs,1,,JH Kallis,30,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+74,11.6,0,Z Khan,2006-11-22,1st,HH Gibbs,1,,JH Kallis,30,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+75,12.1,0,AB Agarkar,2006-11-22,1st,JH Kallis,30,,HH Gibbs,1,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+76,12.2,0,AB Agarkar,2006-11-22,1st,JH Kallis,30,,HH Gibbs,1,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+77,12.3,0,AB Agarkar,2006-11-22,1st,JH Kallis,30,,HH Gibbs,1,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+78,12.4,0,AB Agarkar,2006-11-22,1st,JH Kallis,30,,HH Gibbs,1,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+79,12.5,0,AB Agarkar,2006-11-22,1st,JH Kallis,30,,HH Gibbs,1,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+80,12.6,0,AB Agarkar,2006-11-22,1st,JH Kallis,30,,HH Gibbs,1,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+81,13.1,0,MM Patel,2006-11-22,1st,HH Gibbs,1,,JH Kallis,30,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+82,13.2,0,MM Patel,2006-11-22,1st,HH Gibbs,1,,JH Kallis,30,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+83,13.3,4,MM Patel,2006-11-22,1st,HH Gibbs,1,,JH Kallis,34,South Africa,India,62,South Africa,Kingsmead,2,South Africa
+84,13.4,0,MM Patel,2006-11-22,1st,HH Gibbs,1,,JH Kallis,34,South Africa,India,62,South Africa,Kingsmead,2,South Africa
+85,13.5,0,MM Patel,2006-11-22,1st,HH Gibbs,1,,JH Kallis,34,South Africa,India,62,South Africa,Kingsmead,2,South Africa
+86,13.6,0,MM Patel,2006-11-22,1st,HH Gibbs,1,,JH Kallis,34,South Africa,India,62,South Africa,Kingsmead,2,South Africa
+87,14.1,1,AB Agarkar,2006-11-22,1st,JH Kallis,34,,HH Gibbs,2,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+88,14.2,0,AB Agarkar,2006-11-22,1st,HH Gibbs,2,,JH Kallis,34,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+89,14.3,0,AB Agarkar,2006-11-22,1st,HH Gibbs,2,,JH Kallis,34,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+90,14.4,0,AB Agarkar,2006-11-22,1st,HH Gibbs,2,,JH Kallis,34,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+91,14.5,0,AB Agarkar,2006-11-22,1st,HH Gibbs,2,,JH Kallis,34,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+92,14.6,0,AB Agarkar,2006-11-22,1st,HH Gibbs,2,,JH Kallis,34,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+93,15.1,0,MM Patel,2006-11-22,1st,JH Kallis,34,,HH Gibbs,2,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+94,15.2,0,MM Patel,2006-11-22,1st,JH Kallis,34,,HH Gibbs,2,South Africa,India,63,South Africa,Kingsmead,2,South Africa
+95,15.3,0,MM Patel,2006-11-22,1st,JH Kallis,34,HH Gibbs,HH Gibbs,2,South Africa,India,63,South Africa,Kingsmead,3,South Africa
+96,15.4,0,MM Patel,2006-11-22,1st,JH Kallis,34,,AB de Villiers,0,South Africa,India,63,South Africa,Kingsmead,3,South Africa
+97,15.5,0,MM Patel,2006-11-22,1st,JH Kallis,34,,AB de Villiers,0,South Africa,India,63,South Africa,Kingsmead,3,South Africa
+98,15.6,0,MM Patel,2006-11-22,1st,JH Kallis,34,,AB de Villiers,0,South Africa,India,63,South Africa,Kingsmead,3,South Africa
+99,16.1,4,AB Agarkar,2006-11-22,1st,AB de Villiers,0,,JH Kallis,38,South Africa,India,67,South Africa,Kingsmead,3,South Africa
+100,16.2,4,AB Agarkar,2006-11-22,1st,AB de Villiers,0,,JH Kallis,42,South Africa,India,71,South Africa,Kingsmead,3,South Africa
+101,16.3,0,AB Agarkar,2006-11-22,1st,AB de Villiers,0,,JH Kallis,42,South Africa,India,71,South Africa,Kingsmead,3,South Africa
+102,16.4,1,AB Agarkar,2006-11-22,1st,AB de Villiers,0,,JH Kallis,43,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+103,16.5,0,AB Agarkar,2006-11-22,1st,JH Kallis,43,,AB de Villiers,0,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+104,16.6,0,AB Agarkar,2006-11-22,1st,JH Kallis,43,,AB de Villiers,0,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+105,17.1,0,MM Patel,2006-11-22,1st,AB de Villiers,0,,JH Kallis,43,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+106,17.2,0,MM Patel,2006-11-22,1st,AB de Villiers,0,,JH Kallis,43,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+107,17.3,0,MM Patel,2006-11-22,1st,AB de Villiers,0,,JH Kallis,43,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+108,17.4,0,MM Patel,2006-11-22,1st,AB de Villiers,0,,JH Kallis,43,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+109,17.5,0,MM Patel,2006-11-22,1st,AB de Villiers,0,,JH Kallis,43,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+110,17.6,0,MM Patel,2006-11-22,1st,AB de Villiers,0,,JH Kallis,43,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+111,18.1,0,AB Agarkar,2006-11-22,1st,JH Kallis,43,,AB de Villiers,0,South Africa,India,72,South Africa,Kingsmead,3,South Africa
+112,18.2,2,AB Agarkar,2006-11-22,1st,JH Kallis,43,,AB de Villiers,2,South Africa,India,74,South Africa,Kingsmead,3,South Africa
+113,18.3,0,AB Agarkar,2006-11-22,1st,JH Kallis,43,,AB de Villiers,2,South Africa,India,74,South Africa,Kingsmead,3,South Africa
+114,18.4,0,AB Agarkar,2006-11-22,1st,JH Kallis,43,,AB de Villiers,2,South Africa,India,74,South Africa,Kingsmead,3,South Africa
+115,18.5,1,AB Agarkar,2006-11-22,1st,JH Kallis,43,,AB de Villiers,3,South Africa,India,75,South Africa,Kingsmead,3,South Africa
+116,18.6,1,AB Agarkar,2006-11-22,1st,AB de Villiers,3,,JH Kallis,44,South Africa,India,76,South Africa,Kingsmead,3,South Africa
+117,19.1,0,MM Patel,2006-11-22,1st,AB de Villiers,3,,JH Kallis,44,South Africa,India,76,South Africa,Kingsmead,3,South Africa
+118,19.2,4,MM Patel,2006-11-22,1st,AB de Villiers,3,,JH Kallis,48,South Africa,India,80,South Africa,Kingsmead,3,South Africa
+119,19.3,0,MM Patel,2006-11-22,1st,AB de Villiers,3,,JH Kallis,48,South Africa,India,80,South Africa,Kingsmead,3,South Africa
+120,19.4,1,MM Patel,2006-11-22,1st,AB de Villiers,3,,JH Kallis,49,South Africa,India,81,South Africa,Kingsmead,3,South Africa
+121,19.5,1,MM Patel,2006-11-22,1st,JH Kallis,49,,AB de Villiers,4,South Africa,India,82,South Africa,Kingsmead,3,South Africa
+122,19.6,0,MM Patel,2006-11-22,1st,AB de Villiers,4,,JH Kallis,49,South Africa,India,82,South Africa,Kingsmead,3,South Africa
+123,20.1,1,SR Tendulkar,2006-11-22,1st,JH Kallis,49,,AB de Villiers,5,South Africa,India,83,South Africa,Kingsmead,3,South Africa
+124,20.2,4,SR Tendulkar,2006-11-22,1st,AB de Villiers,5,,JH Kallis,53,South Africa,India,87,South Africa,Kingsmead,3,South Africa
+125,20.3,1,SR Tendulkar,2006-11-22,1st,AB de Villiers,5,,JH Kallis,54,South Africa,India,88,South Africa,Kingsmead,3,South Africa
+126,20.4,1,SR Tendulkar,2006-11-22,1st,JH Kallis,54,,AB de Villiers,6,South Africa,India,89,South Africa,Kingsmead,3,South Africa
+127,20.5,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,6,,JH Kallis,54,South Africa,India,89,South Africa,Kingsmead,3,South Africa
+128,20.6,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,6,,JH Kallis,54,South Africa,India,89,South Africa,Kingsmead,3,South Africa
+129,21.1,2,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,8,South Africa,India,91,South Africa,Kingsmead,3,South Africa
+130,21.2,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,8,South Africa,India,91,South Africa,Kingsmead,3,South Africa
+131,21.3,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,8,South Africa,India,91,South Africa,Kingsmead,3,South Africa
+132,21.4,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,8,South Africa,India,91,South Africa,Kingsmead,3,South Africa
+133,21.5,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,8,South Africa,India,91,South Africa,Kingsmead,3,South Africa
+134,21.6,4,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,12,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+135,22.1,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,12,,JH Kallis,54,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+136,22.2,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,12,,JH Kallis,54,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+137,22.3,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,12,,JH Kallis,54,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+138,22.4,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,12,,JH Kallis,54,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+139,22.5,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,12,,JH Kallis,54,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+140,22.6,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,12,,JH Kallis,54,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+141,23.1,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,12,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+142,23.2,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,54,,AB de Villiers,13,South Africa,India,96,South Africa,Kingsmead,3,South Africa
+143,23.3,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,13,,JH Kallis,54,South Africa,India,96,South Africa,Kingsmead,3,South Africa
+144,23.4,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,13,,JH Kallis,54,South Africa,India,96,South Africa,Kingsmead,3,South Africa
+145,23.5,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,13,,JH Kallis,54,South Africa,India,96,South Africa,Kingsmead,3,South Africa
+146,23.6,1,Harbhajan Singh,2006-11-22,1st,AB de Villiers,13,,JH Kallis,55,South Africa,India,97,South Africa,Kingsmead,3,South Africa
+147,24.1,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,13,,JH Kallis,55,South Africa,India,97,South Africa,Kingsmead,3,South Africa
+148,24.2,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,13,,JH Kallis,55,South Africa,India,97,South Africa,Kingsmead,3,South Africa
+149,24.3,1,SR Tendulkar,2006-11-22,1st,AB de Villiers,13,,JH Kallis,56,South Africa,India,98,South Africa,Kingsmead,3,South Africa
+150,24.4,0,SR Tendulkar,2006-11-22,1st,JH Kallis,56,,AB de Villiers,13,South Africa,India,98,South Africa,Kingsmead,3,South Africa
+151,24.5,0,SR Tendulkar,2006-11-22,1st,JH Kallis,56,,AB de Villiers,13,South Africa,India,98,South Africa,Kingsmead,3,South Africa
+152,24.6,1,SR Tendulkar,2006-11-22,1st,JH Kallis,56,,AB de Villiers,14,South Africa,India,99,South Africa,Kingsmead,3,South Africa
+153,25.1,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,56,,AB de Villiers,15,South Africa,India,100,South Africa,Kingsmead,3,South Africa
+154,25.2,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,15,,JH Kallis,56,South Africa,India,100,South Africa,Kingsmead,3,South Africa
+155,25.3,1,Harbhajan Singh,2006-11-22,1st,AB de Villiers,15,,JH Kallis,57,South Africa,India,101,South Africa,Kingsmead,3,South Africa
+156,25.4,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,57,,AB de Villiers,16,South Africa,India,102,South Africa,Kingsmead,3,South Africa
+157,25.5,1,Harbhajan Singh,2006-11-22,1st,AB de Villiers,16,,JH Kallis,58,South Africa,India,103,South Africa,Kingsmead,3,South Africa
+158,25.6,4,Harbhajan Singh,2006-11-22,1st,JH Kallis,58,,AB de Villiers,20,South Africa,India,107,South Africa,Kingsmead,3,South Africa
+159,26.1,1,SR Tendulkar,2006-11-22,1st,AB de Villiers,20,,JH Kallis,59,South Africa,India,108,South Africa,Kingsmead,3,South Africa
+160,26.2,0,SR Tendulkar,2006-11-22,1st,JH Kallis,59,,AB de Villiers,20,South Africa,India,108,South Africa,Kingsmead,3,South Africa
+161,26.3,1,SR Tendulkar,2006-11-22,1st,JH Kallis,59,,AB de Villiers,21,South Africa,India,109,South Africa,Kingsmead,3,South Africa
+162,26.4,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,21,,JH Kallis,59,South Africa,India,109,South Africa,Kingsmead,3,South Africa
+163,26.5,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,21,,JH Kallis,59,South Africa,India,109,South Africa,Kingsmead,3,South Africa
+164,26.6,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,21,,JH Kallis,59,South Africa,India,109,South Africa,Kingsmead,3,South Africa
+165,27.1,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,59,,AB de Villiers,21,South Africa,India,109,South Africa,Kingsmead,3,South Africa
+166,27.2,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,59,,AB de Villiers,22,South Africa,India,110,South Africa,Kingsmead,3,South Africa
+167,27.3,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,22,,JH Kallis,59,South Africa,India,110,South Africa,Kingsmead,3,South Africa
+168,27.4,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,22,,JH Kallis,59,South Africa,India,110,South Africa,Kingsmead,3,South Africa
+169,27.5,1,Harbhajan Singh,2006-11-22,1st,AB de Villiers,22,,JH Kallis,60,South Africa,India,111,South Africa,Kingsmead,3,South Africa
+170,27.6,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,60,,AB de Villiers,22,South Africa,India,111,South Africa,Kingsmead,3,South Africa
+171,28.1,4,SR Tendulkar,2006-11-22,1st,AB de Villiers,22,,JH Kallis,64,South Africa,India,115,South Africa,Kingsmead,3,South Africa
+172,28.2,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,22,,JH Kallis,64,South Africa,India,115,South Africa,Kingsmead,3,South Africa
+173,28.3,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,22,,JH Kallis,64,South Africa,India,115,South Africa,Kingsmead,3,South Africa
+174,28.4,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,22,,JH Kallis,64,South Africa,India,115,South Africa,Kingsmead,3,South Africa
+175,28.5,4,SR Tendulkar,2006-11-22,1st,AB de Villiers,22,,JH Kallis,68,South Africa,India,119,South Africa,Kingsmead,3,South Africa
+176,28.6,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,22,,JH Kallis,68,South Africa,India,119,South Africa,Kingsmead,3,South Africa
+177,29.1,4,Harbhajan Singh,2006-11-22,1st,JH Kallis,68,,AB de Villiers,26,South Africa,India,123,South Africa,Kingsmead,3,South Africa
+178,29.2,6,Harbhajan Singh,2006-11-22,1st,JH Kallis,68,,AB de Villiers,32,South Africa,India,129,South Africa,Kingsmead,3,South Africa
+179,29.3,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,68,,AB de Villiers,32,South Africa,India,134,South Africa,Kingsmead,3,South Africa
+180,29.4,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,68,,AB de Villiers,33,South Africa,India,135,South Africa,Kingsmead,3,South Africa
+181,29.5,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,33,,JH Kallis,68,South Africa,India,135,South Africa,Kingsmead,3,South Africa
+182,29.6,0,Harbhajan Singh,2006-11-22,1st,AB de Villiers,33,,JH Kallis,68,South Africa,India,135,South Africa,Kingsmead,3,South Africa
+183,29.7,1,Harbhajan Singh,2006-11-22,1st,AB de Villiers,33,,JH Kallis,69,South Africa,India,136,South Africa,Kingsmead,3,South Africa
+184,30.1,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,33,,JH Kallis,69,South Africa,India,136,South Africa,Kingsmead,3,South Africa
+185,30.2,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,33,,JH Kallis,69,South Africa,India,136,South Africa,Kingsmead,3,South Africa
+186,30.3,0,SR Tendulkar,2006-11-22,1st,AB de Villiers,33,,JH Kallis,69,South Africa,India,136,South Africa,Kingsmead,3,South Africa
+187,30.4,1,SR Tendulkar,2006-11-22,1st,AB de Villiers,33,,JH Kallis,70,South Africa,India,137,South Africa,Kingsmead,3,South Africa
+188,30.5,0,SR Tendulkar,2006-11-22,1st,JH Kallis,70,,AB de Villiers,33,South Africa,India,137,South Africa,Kingsmead,3,South Africa
+189,30.6,1,SR Tendulkar,2006-11-22,1st,JH Kallis,70,,AB de Villiers,34,South Africa,India,138,South Africa,Kingsmead,3,South Africa
+190,31.1,1,D Mongia,2006-11-22,1st,JH Kallis,70,,AB de Villiers,35,South Africa,India,139,South Africa,Kingsmead,3,South Africa
+191,31.2,0,D Mongia,2006-11-22,1st,AB de Villiers,35,,JH Kallis,70,South Africa,India,139,South Africa,Kingsmead,3,South Africa
+192,31.3,1,D Mongia,2006-11-22,1st,AB de Villiers,35,,JH Kallis,71,South Africa,India,140,South Africa,Kingsmead,3,South Africa
+193,31.4,1,D Mongia,2006-11-22,1st,JH Kallis,71,,AB de Villiers,36,South Africa,India,141,South Africa,Kingsmead,3,South Africa
+194,31.5,1,D Mongia,2006-11-22,1st,AB de Villiers,36,,JH Kallis,72,South Africa,India,142,South Africa,Kingsmead,3,South Africa
+195,31.6,1,D Mongia,2006-11-22,1st,JH Kallis,72,,AB de Villiers,37,South Africa,India,143,South Africa,Kingsmead,3,South Africa
+196,32.1,0,SR Tendulkar,2006-11-22,1st,JH Kallis,72,,AB de Villiers,37,South Africa,India,143,South Africa,Kingsmead,3,South Africa
+197,32.2,0,SR Tendulkar,2006-11-22,1st,JH Kallis,72,,AB de Villiers,37,South Africa,India,143,South Africa,Kingsmead,3,South Africa
+198,32.3,0,SR Tendulkar,2006-11-22,1st,JH Kallis,72,,AB de Villiers,37,South Africa,India,143,South Africa,Kingsmead,3,South Africa
+199,32.4,1,SR Tendulkar,2006-11-22,1st,JH Kallis,72,,AB de Villiers,38,South Africa,India,144,South Africa,Kingsmead,3,South Africa
+200,32.5,1,SR Tendulkar,2006-11-22,1st,AB de Villiers,38,,JH Kallis,73,South Africa,India,145,South Africa,Kingsmead,3,South Africa
+201,32.6,2,SR Tendulkar,2006-11-22,1st,JH Kallis,73,,AB de Villiers,40,South Africa,India,147,South Africa,Kingsmead,3,South Africa
+202,33.1,0,D Mongia,2006-11-22,1st,AB de Villiers,40,,JH Kallis,73,South Africa,India,147,South Africa,Kingsmead,3,South Africa
+203,33.2,1,D Mongia,2006-11-22,1st,AB de Villiers,40,,JH Kallis,74,South Africa,India,148,South Africa,Kingsmead,3,South Africa
+204,33.3,1,D Mongia,2006-11-22,1st,JH Kallis,74,,AB de Villiers,41,South Africa,India,149,South Africa,Kingsmead,3,South Africa
+205,33.4,0,D Mongia,2006-11-22,1st,AB de Villiers,41,,JH Kallis,74,South Africa,India,149,South Africa,Kingsmead,3,South Africa
+206,33.5,1,D Mongia,2006-11-22,1st,AB de Villiers,41,,JH Kallis,75,South Africa,India,150,South Africa,Kingsmead,3,South Africa
+207,33.6,0,D Mongia,2006-11-22,1st,JH Kallis,75,AB de Villiers,AB de Villiers,41,South Africa,India,150,South Africa,Kingsmead,4,South Africa
+208,34.1,1,SR Tendulkar,2006-11-22,1st,MV Boucher,0,,JH Kallis,76,South Africa,India,151,South Africa,Kingsmead,4,South Africa
+209,34.2,1,SR Tendulkar,2006-11-22,1st,JH Kallis,76,,MV Boucher,1,South Africa,India,152,South Africa,Kingsmead,4,South Africa
+210,34.3,0,SR Tendulkar,2006-11-22,1st,MV Boucher,1,,JH Kallis,76,South Africa,India,152,South Africa,Kingsmead,4,South Africa
+211,34.4,0,SR Tendulkar,2006-11-22,1st,MV Boucher,1,,JH Kallis,76,South Africa,India,152,South Africa,Kingsmead,4,South Africa
+212,34.5,1,SR Tendulkar,2006-11-22,1st,MV Boucher,1,,JH Kallis,77,South Africa,India,153,South Africa,Kingsmead,4,South Africa
+213,34.6,0,SR Tendulkar,2006-11-22,1st,JH Kallis,77,,MV Boucher,1,South Africa,India,153,South Africa,Kingsmead,4,South Africa
+214,35.1,0,D Mongia,2006-11-22,1st,MV Boucher,1,,JH Kallis,77,South Africa,India,153,South Africa,Kingsmead,4,South Africa
+215,35.2,1,D Mongia,2006-11-22,1st,MV Boucher,1,,JH Kallis,78,South Africa,India,154,South Africa,Kingsmead,4,South Africa
+216,35.3,0,D Mongia,2006-11-22,1st,JH Kallis,78,,MV Boucher,1,South Africa,India,154,South Africa,Kingsmead,4,South Africa
+217,35.4,1,D Mongia,2006-11-22,1st,JH Kallis,78,,MV Boucher,2,South Africa,India,155,South Africa,Kingsmead,4,South Africa
+218,35.5,1,D Mongia,2006-11-22,1st,MV Boucher,2,,JH Kallis,79,South Africa,India,156,South Africa,Kingsmead,4,South Africa
+219,35.6,1,D Mongia,2006-11-22,1st,JH Kallis,79,,MV Boucher,3,South Africa,India,157,South Africa,Kingsmead,4,South Africa
+220,36.1,1,SR Tendulkar,2006-11-22,1st,JH Kallis,79,,MV Boucher,4,South Africa,India,158,South Africa,Kingsmead,4,South Africa
+221,36.2,1,SR Tendulkar,2006-11-22,1st,MV Boucher,4,,JH Kallis,80,South Africa,India,159,South Africa,Kingsmead,4,South Africa
+222,36.3,1,SR Tendulkar,2006-11-22,1st,JH Kallis,80,,MV Boucher,5,South Africa,India,160,South Africa,Kingsmead,4,South Africa
+223,36.4,1,SR Tendulkar,2006-11-22,1st,MV Boucher,5,,JH Kallis,81,South Africa,India,161,South Africa,Kingsmead,4,South Africa
+224,36.5,0,SR Tendulkar,2006-11-22,1st,JH Kallis,81,,MV Boucher,5,South Africa,India,162,South Africa,Kingsmead,4,South Africa
+225,36.6,1,SR Tendulkar,2006-11-22,1st,MV Boucher,5,,JH Kallis,82,South Africa,India,163,South Africa,Kingsmead,4,South Africa
+226,37.1,2,Z Khan,2006-11-22,1st,MV Boucher,5,,JH Kallis,84,South Africa,India,165,South Africa,Kingsmead,4,South Africa
+227,37.2,4,Z Khan,2006-11-22,1st,MV Boucher,5,,JH Kallis,88,South Africa,India,169,South Africa,Kingsmead,4,South Africa
+228,37.3,1,Z Khan,2006-11-22,1st,MV Boucher,5,,JH Kallis,89,South Africa,India,170,South Africa,Kingsmead,4,South Africa
+229,37.4,0,Z Khan,2006-11-22,1st,JH Kallis,89,,MV Boucher,5,South Africa,India,170,South Africa,Kingsmead,4,South Africa
+230,37.5,4,Z Khan,2006-11-22,1st,JH Kallis,89,,MV Boucher,9,South Africa,India,174,South Africa,Kingsmead,4,South Africa
+231,37.6,1,Z Khan,2006-11-22,1st,JH Kallis,89,,MV Boucher,10,South Africa,India,175,South Africa,Kingsmead,4,South Africa
+232,38.1,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,89,,MV Boucher,11,South Africa,India,176,South Africa,Kingsmead,4,South Africa
+233,38.2,0,Harbhajan Singh,2006-11-22,1st,MV Boucher,11,,JH Kallis,89,South Africa,India,176,South Africa,Kingsmead,4,South Africa
+234,38.3,1,Harbhajan Singh,2006-11-22,1st,MV Boucher,11,,JH Kallis,90,South Africa,India,177,South Africa,Kingsmead,4,South Africa
+235,38.4,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,90,,MV Boucher,11,South Africa,India,177,South Africa,Kingsmead,4,South Africa
+236,38.5,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,90,,MV Boucher,12,South Africa,India,178,South Africa,Kingsmead,4,South Africa
+237,38.6,1,Harbhajan Singh,2006-11-22,1st,MV Boucher,12,,JH Kallis,91,South Africa,India,179,South Africa,Kingsmead,4,South Africa
+238,39.1,1,MM Patel,2006-11-22,1st,MV Boucher,12,,JH Kallis,92,South Africa,India,180,South Africa,Kingsmead,4,South Africa
+239,39.2,0,MM Patel,2006-11-22,1st,JH Kallis,92,,MV Boucher,12,South Africa,India,180,South Africa,Kingsmead,4,South Africa
+240,39.3,4,MM Patel,2006-11-22,1st,JH Kallis,92,,MV Boucher,16,South Africa,India,184,South Africa,Kingsmead,4,South Africa
+241,39.4,4,MM Patel,2006-11-22,1st,JH Kallis,92,,MV Boucher,20,South Africa,India,188,South Africa,Kingsmead,4,South Africa
+242,39.5,1,MM Patel,2006-11-22,1st,JH Kallis,92,,MV Boucher,21,South Africa,India,189,South Africa,Kingsmead,4,South Africa
+243,39.6,0,MM Patel,2006-11-22,1st,MV Boucher,21,,JH Kallis,92,South Africa,India,189,South Africa,Kingsmead,4,South Africa
+244,40.1,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,92,,MV Boucher,22,South Africa,India,190,South Africa,Kingsmead,4,South Africa
+245,40.2,3,Harbhajan Singh,2006-11-22,1st,MV Boucher,22,,JH Kallis,95,South Africa,India,193,South Africa,Kingsmead,4,South Africa
+246,40.3,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,95,,MV Boucher,23,South Africa,India,194,South Africa,Kingsmead,4,South Africa
+247,40.4,0,Harbhajan Singh,2006-11-22,1st,MV Boucher,23,,JH Kallis,95,South Africa,India,194,South Africa,Kingsmead,4,South Africa
+248,40.5,0,Harbhajan Singh,2006-11-22,1st,MV Boucher,23,,JH Kallis,95,South Africa,India,194,South Africa,Kingsmead,4,South Africa
+249,40.6,1,Harbhajan Singh,2006-11-22,1st,MV Boucher,23,,JH Kallis,96,South Africa,India,195,South Africa,Kingsmead,4,South Africa
+250,41.1,0,MM Patel,2006-11-22,1st,MV Boucher,23,,JH Kallis,96,South Africa,India,195,South Africa,Kingsmead,4,South Africa
+251,41.2,0,MM Patel,2006-11-22,1st,MV Boucher,23,,JH Kallis,96,South Africa,India,195,South Africa,Kingsmead,4,South Africa
+252,41.3,1,MM Patel,2006-11-22,1st,MV Boucher,23,,JH Kallis,97,South Africa,India,196,South Africa,Kingsmead,4,South Africa
+253,41.4,0,MM Patel,2006-11-22,1st,JH Kallis,97,MV Boucher,MV Boucher,23,South Africa,India,196,South Africa,Kingsmead,5,South Africa
+254,41.5,1,MM Patel,2006-11-22,1st,JM Kemp,0,,JH Kallis,98,South Africa,India,197,South Africa,Kingsmead,5,South Africa
+255,41.6,1,MM Patel,2006-11-22,1st,JH Kallis,98,,JM Kemp,1,South Africa,India,198,South Africa,Kingsmead,5,South Africa
+256,42.1,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,98,,JM Kemp,1,South Africa,India,198,South Africa,Kingsmead,5,South Africa
+257,42.2,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,98,,JM Kemp,1,South Africa,India,198,South Africa,Kingsmead,5,South Africa
+258,42.3,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,98,,JM Kemp,1,South Africa,India,198,South Africa,Kingsmead,5,South Africa
+259,42.4,2,Harbhajan Singh,2006-11-22,1st,JH Kallis,98,,JM Kemp,3,South Africa,India,200,South Africa,Kingsmead,5,South Africa
+260,42.5,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,98,,JM Kemp,3,South Africa,India,200,South Africa,Kingsmead,5,South Africa
+261,42.6,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,98,,JM Kemp,4,South Africa,India,201,South Africa,Kingsmead,5,South Africa
+262,43.1,0,D Mongia,2006-11-22,1st,JH Kallis,98,,JM Kemp,4,South Africa,India,201,South Africa,Kingsmead,5,South Africa
+263,43.2,1,D Mongia,2006-11-22,1st,JH Kallis,98,,JM Kemp,5,South Africa,India,202,South Africa,Kingsmead,5,South Africa
+264,43.3,1,D Mongia,2006-11-22,1st,JM Kemp,5,,JH Kallis,99,South Africa,India,203,South Africa,Kingsmead,5,South Africa
+265,43.4,0,D Mongia,2006-11-22,1st,JH Kallis,99,,JM Kemp,5,South Africa,India,203,South Africa,Kingsmead,5,South Africa
+266,43.5,1,D Mongia,2006-11-22,1st,JH Kallis,99,,JM Kemp,6,South Africa,India,204,South Africa,Kingsmead,5,South Africa
+267,43.6,1,D Mongia,2006-11-22,1st,JM Kemp,6,,JH Kallis,100,South Africa,India,205,South Africa,Kingsmead,5,South Africa
+268,44.1,1,Harbhajan Singh,2006-11-22,1st,JM Kemp,6,,JH Kallis,101,South Africa,India,206,South Africa,Kingsmead,5,South Africa
+269,44.2,0,Harbhajan Singh,2006-11-22,1st,JH Kallis,101,,JM Kemp,6,South Africa,India,206,South Africa,Kingsmead,5,South Africa
+270,44.3,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,101,,JM Kemp,7,South Africa,India,207,South Africa,Kingsmead,5,South Africa
+271,44.4,0,Harbhajan Singh,2006-11-22,1st,JM Kemp,7,,JH Kallis,101,South Africa,India,207,South Africa,Kingsmead,5,South Africa
+272,44.5,1,Harbhajan Singh,2006-11-22,1st,JM Kemp,7,,JH Kallis,102,South Africa,India,208,South Africa,Kingsmead,5,South Africa
+273,44.6,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,102,,JM Kemp,8,South Africa,India,209,South Africa,Kingsmead,5,South Africa
+274,45.1,0,AB Agarkar,2006-11-22,1st,JH Kallis,102,JM Kemp,JM Kemp,8,South Africa,India,209,South Africa,Kingsmead,6,South Africa
+275,45.2,0,AB Agarkar,2006-11-22,1st,JH Kallis,102,,SM Pollock,0,South Africa,India,209,South Africa,Kingsmead,6,South Africa
+276,45.3,0,AB Agarkar,2006-11-22,1st,JH Kallis,102,,SM Pollock,0,South Africa,India,209,South Africa,Kingsmead,6,South Africa
+277,45.4,0,AB Agarkar,2006-11-22,1st,JH Kallis,102,SM Pollock,SM Pollock,0,South Africa,India,209,South Africa,Kingsmead,7,South Africa
+278,45.5,1,AB Agarkar,2006-11-22,1st,JH Kallis,102,,A Nel,1,South Africa,India,210,South Africa,Kingsmead,7,South Africa
+279,45.6,1,AB Agarkar,2006-11-22,1st,A Nel,1,,JH Kallis,103,South Africa,India,211,South Africa,Kingsmead,7,South Africa
+280,46.1,0,Harbhajan Singh,2006-11-22,1st,A Nel,1,,JH Kallis,103,South Africa,India,211,South Africa,Kingsmead,7,South Africa
+281,46.2,0,Harbhajan Singh,2006-11-22,1st,A Nel,1,,JH Kallis,103,South Africa,India,211,South Africa,Kingsmead,7,South Africa
+282,46.3,1,Harbhajan Singh,2006-11-22,1st,A Nel,1,,JH Kallis,104,South Africa,India,212,South Africa,Kingsmead,7,South Africa
+283,46.4,1,Harbhajan Singh,2006-11-22,1st,JH Kallis,104,,A Nel,2,South Africa,India,213,South Africa,Kingsmead,7,South Africa
+284,46.5,1,Harbhajan Singh,2006-11-22,1st,A Nel,2,,JH Kallis,105,South Africa,India,214,South Africa,Kingsmead,7,South Africa
+285,46.6,4,Harbhajan Singh,2006-11-22,1st,JH Kallis,105,,A Nel,6,South Africa,India,218,South Africa,Kingsmead,7,South Africa
+286,47.1,1,AB Agarkar,2006-11-22,1st,A Nel,6,,JH Kallis,106,South Africa,India,219,South Africa,Kingsmead,7,South Africa
+287,47.2,4,AB Agarkar,2006-11-22,1st,JH Kallis,106,,A Nel,10,South Africa,India,223,South Africa,Kingsmead,7,South Africa
+288,47.3,0,AB Agarkar,2006-11-22,1st,JH Kallis,106,,A Nel,10,South Africa,India,223,South Africa,Kingsmead,7,South Africa
+289,47.4,1,AB Agarkar,2006-11-22,1st,JH Kallis,106,,A Nel,11,South Africa,India,224,South Africa,Kingsmead,7,South Africa
+290,47.5,4,AB Agarkar,2006-11-22,1st,A Nel,11,,JH Kallis,110,South Africa,India,228,South Africa,Kingsmead,7,South Africa
+291,47.6,4,AB Agarkar,2006-11-22,1st,A Nel,11,,JH Kallis,114,South Africa,India,232,South Africa,Kingsmead,7,South Africa
+292,48.1,1,Z Khan,2006-11-22,1st,JH Kallis,114,,A Nel,12,South Africa,India,233,South Africa,Kingsmead,7,South Africa
+293,48.2,1,Z Khan,2006-11-22,1st,A Nel,12,,JH Kallis,115,South Africa,India,234,South Africa,Kingsmead,7,South Africa
+294,48.3,1,Z Khan,2006-11-22,1st,JH Kallis,115,,A Nel,13,South Africa,India,235,South Africa,Kingsmead,7,South Africa
+295,48.4,1,Z Khan,2006-11-22,1st,A Nel,13,,JH Kallis,116,South Africa,India,236,South Africa,Kingsmead,7,South Africa
+296,48.5,1,Z Khan,2006-11-22,1st,JH Kallis,116,,A Nel,14,South Africa,India,237,South Africa,Kingsmead,7,South Africa
+297,48.6,0,Z Khan,2006-11-22,1st,A Nel,14,,JH Kallis,116,South Africa,India,237,South Africa,Kingsmead,7,South Africa
+298,49.1,1,AB Agarkar,2006-11-22,1st,JH Kallis,116,,A Nel,15,South Africa,India,238,South Africa,Kingsmead,7,South Africa
+299,49.2,2,AB Agarkar,2006-11-22,1st,A Nel,15,,JH Kallis,118,South Africa,India,240,South Africa,Kingsmead,7,South Africa
+300,49.3,1,AB Agarkar,2006-11-22,1st,A Nel,15,,JH Kallis,119,South Africa,India,241,South Africa,Kingsmead,7,South Africa
+301,49.4,6,AB Agarkar,2006-11-22,1st,JH Kallis,119,,A Nel,21,South Africa,India,247,South Africa,Kingsmead,7,South Africa
+302,49.5,1,AB Agarkar,2006-11-22,1st,JH Kallis,119,,A Nel,22,South Africa,India,248,South Africa,Kingsmead,7,South Africa
+303,49.6,0,AB Agarkar,2006-11-22,1st,A Nel,22,A Nel,JH Kallis,119,South Africa,India,248,South Africa,Kingsmead,8,South Africa
+304,0.1,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,W Jaffer,0,South Africa,India,0,South Africa,Kingsmead,0,South Africa
+305,0.2,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,W Jaffer,0,South Africa,India,0,South Africa,Kingsmead,0,South Africa
+306,0.3,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,W Jaffer,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+307,0.4,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+308,0.5,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+309,0.6,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+310,1.1,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+311,1.2,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+312,1.3,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+313,1.4,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,0,South Africa,Kingsmead,1,South Africa
+314,1.5,1,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,1,South Africa,Kingsmead,1,South Africa
+315,1.6,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,1,South Africa,Kingsmead,1,South Africa
+316,2.1,0,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,1,South Africa,Kingsmead,1,South Africa
+317,2.2,2,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+318,2.3,0,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+319,2.4,0,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+320,2.5,0,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+321,2.6,1,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,4,South Africa,Kingsmead,1,South Africa
+322,3.1,4,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,8,South Africa,Kingsmead,1,South Africa
+323,3.2,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,8,South Africa,Kingsmead,1,South Africa
+324,3.3,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,8,South Africa,Kingsmead,1,South Africa
+325,3.4,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,8,South Africa,Kingsmead,1,South Africa
+326,3.5,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,8,South Africa,Kingsmead,1,South Africa
+327,3.6,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,9,South Africa,Kingsmead,1,South Africa
+328,3.7,3,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,12,South Africa,Kingsmead,1,South Africa
+329,4.1,4,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,16,South Africa,Kingsmead,1,South Africa
+330,4.2,1,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,17,South Africa,Kingsmead,1,South Africa
+331,4.3,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,17,South Africa,Kingsmead,1,South Africa
+332,4.4,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,17,South Africa,Kingsmead,1,South Africa
+333,4.5,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,17,South Africa,Kingsmead,1,South Africa
+334,4.6,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,17,South Africa,Kingsmead,1,South Africa
+335,5.1,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,17,South Africa,Kingsmead,1,South Africa
+336,5.2,4,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,21,South Africa,Kingsmead,1,South Africa
+337,5.3,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,21,South Africa,Kingsmead,1,South Africa
+338,5.4,1,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,22,South Africa,Kingsmead,1,South Africa
+339,5.5,4,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,26,South Africa,Kingsmead,1,South Africa
+340,5.6,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,26,South Africa,Kingsmead,1,South Africa
+341,6.1,0,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,26,South Africa,Kingsmead,1,South Africa
+342,6.2,0,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,26,South Africa,Kingsmead,1,South Africa
+343,6.3,1,SM Pollock,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,27,South Africa,Kingsmead,1,South Africa
+344,6.4,2,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+345,6.5,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+346,6.6,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+347,7.1,4,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,33,South Africa,Kingsmead,1,South Africa
+348,7.2,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,33,South Africa,Kingsmead,1,South Africa
+349,7.3,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,33,South Africa,Kingsmead,1,South Africa
+350,7.4,4,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+351,7.5,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+352,7.6,0,M Ntini,2006-11-22,2nd,M Kaif,0,,SR Tendulkar,0,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+353,8.1,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+354,8.2,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+355,8.3,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+356,8.4,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+357,8.5,2,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,39,South Africa,Kingsmead,1,South Africa
+358,8.6,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,M Kaif,0,South Africa,India,39,South Africa,Kingsmead,2,South Africa
+359,9.1,0,M Ntini,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,39,South Africa,Kingsmead,2,South Africa
+360,9.2,0,M Ntini,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,39,South Africa,Kingsmead,2,South Africa
+361,9.3,1,M Ntini,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+362,9.4,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+363,9.5,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+364,9.6,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+365,10.1,0,SM Pollock,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+366,10.2,0,SM Pollock,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+367,10.3,0,SM Pollock,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+368,10.4,0,SM Pollock,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+369,10.5,0,SM Pollock,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+370,10.6,0,SM Pollock,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+371,11.1,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+372,11.2,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+373,11.3,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+374,11.4,0,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+375,11.5,4,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,44,South Africa,Kingsmead,2,South Africa
+376,11.6,1,M Ntini,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,45,South Africa,Kingsmead,2,South Africa
+377,12.1,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,45,South Africa,Kingsmead,2,South Africa
+378,12.2,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,45,South Africa,Kingsmead,2,South Africa
+379,12.3,4,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+380,12.4,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+381,12.5,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+382,12.6,0,SM Pollock,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+383,13.1,0,CK Langeveldt,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,49,South Africa,Kingsmead,2,South Africa
+384,13.2,1,CK Langeveldt,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,50,South Africa,Kingsmead,2,South Africa
+385,13.3,2,CK Langeveldt,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,52,South Africa,Kingsmead,2,South Africa
+386,13.4,1,CK Langeveldt,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,53,South Africa,Kingsmead,2,South Africa
+387,13.5,0,CK Langeveldt,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,53,South Africa,Kingsmead,2,South Africa
+388,13.6,1,CK Langeveldt,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,54,South Africa,Kingsmead,2,South Africa
+389,14.1,0,A Nel,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,54,South Africa,Kingsmead,2,South Africa
+390,14.2,0,A Nel,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,54,South Africa,Kingsmead,2,South Africa
+391,14.3,1,A Nel,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,55,South Africa,Kingsmead,2,South Africa
+392,14.4,0,A Nel,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,55,South Africa,Kingsmead,2,South Africa
+393,14.5,0,A Nel,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,55,South Africa,Kingsmead,2,South Africa
+394,14.6,1,A Nel,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,56,South Africa,Kingsmead,2,South Africa
+395,15.1,1,CK Langeveldt,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,57,South Africa,Kingsmead,2,South Africa
+396,15.2,1,CK Langeveldt,2006-11-22,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+397,15.3,0,CK Langeveldt,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+398,15.4,0,CK Langeveldt,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,58,South Africa,Kingsmead,2,South Africa
+399,15.5,4,CK Langeveldt,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,62,South Africa,Kingsmead,2,South Africa
+400,15.6,0,CK Langeveldt,2006-11-22,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,62,South Africa,Kingsmead,3,South Africa
+401,16.1,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SR Tendulkar,0,South Africa,India,62,South Africa,Kingsmead,3,South Africa
+402,16.2,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SR Tendulkar,0,South Africa,India,62,South Africa,Kingsmead,4,South Africa
+403,16.3,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,62,South Africa,Kingsmead,4,South Africa
+404,16.4,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,62,South Africa,Kingsmead,4,South Africa
+405,16.5,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,62,South Africa,Kingsmead,4,South Africa
+406,16.6,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,62,South Africa,Kingsmead,4,South Africa
+407,17.1,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,63,South Africa,Kingsmead,4,South Africa
+408,17.2,4,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+409,17.3,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+410,17.4,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+411,17.5,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+412,17.6,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+413,17.7,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+414,18.1,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+415,18.2,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+416,18.3,1,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,68,South Africa,Kingsmead,4,South Africa
+417,18.4,0,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,68,South Africa,Kingsmead,4,South Africa
+418,18.5,0,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,68,South Africa,Kingsmead,4,South Africa
+419,18.6,0,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,68,South Africa,Kingsmead,4,South Africa
+420,19.1,1,CK Langeveldt,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,69,South Africa,Kingsmead,4,South Africa
+421,19.2,4,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,73,South Africa,Kingsmead,4,South Africa
+422,19.3,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,73,South Africa,Kingsmead,4,South Africa
+423,19.4,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,73,South Africa,Kingsmead,4,South Africa
+424,19.5,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,74,South Africa,Kingsmead,4,South Africa
+425,19.6,0,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,74,South Africa,Kingsmead,4,South Africa
+426,19.7,4,CK Langeveldt,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,78,South Africa,Kingsmead,4,South Africa
+427,20.1,1,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,79,South Africa,Kingsmead,4,South Africa
+428,20.2,0,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,79,South Africa,Kingsmead,4,South Africa
+429,20.3,0,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,79,South Africa,Kingsmead,4,South Africa
+430,20.4,2,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,81,South Africa,Kingsmead,4,South Africa
+431,20.5,0,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,81,South Africa,Kingsmead,4,South Africa
+432,20.6,0,A Nel,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,81,South Africa,Kingsmead,4,South Africa
+433,21.1,0,JH Kallis,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,81,South Africa,Kingsmead,4,South Africa
+434,21.2,1,JH Kallis,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,82,South Africa,Kingsmead,4,South Africa
+435,21.3,0,JH Kallis,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,82,South Africa,Kingsmead,4,South Africa
+436,21.4,0,JH Kallis,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,82,South Africa,Kingsmead,4,South Africa
+437,21.5,0,JH Kallis,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,82,South Africa,Kingsmead,4,South Africa
+438,21.6,0,JH Kallis,2006-11-22,2nd,SK Raina,0,,MS Dhoni,0,South Africa,India,82,South Africa,Kingsmead,4,South Africa
+439,22.1,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,SK Raina,0,South Africa,India,82,South Africa,Kingsmead,5,South Africa
+440,22.2,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,D Mongia,0,South Africa,India,82,South Africa,Kingsmead,5,South Africa
+441,22.3,0,A Nel,2006-11-22,2nd,MS Dhoni,0,,D Mongia,0,South Africa,India,82,South Africa,Kingsmead,5,South Africa
+442,22.4,1,A Nel,2006-11-22,2nd,MS Dhoni,0,,D Mongia,0,South Africa,India,83,South Africa,Kingsmead,5,South Africa
+443,22.5,0,A Nel,2006-11-22,2nd,D Mongia,0,,MS Dhoni,0,South Africa,India,83,South Africa,Kingsmead,5,South Africa
+444,22.6,0,A Nel,2006-11-22,2nd,D Mongia,0,,MS Dhoni,0,South Africa,India,83,South Africa,Kingsmead,6,South Africa
+445,23.1,0,JH Kallis,2006-11-22,2nd,Harbhajan Singh,0,,D Mongia,0,South Africa,India,83,South Africa,Kingsmead,6,South Africa
+446,23.2,0,JH Kallis,2006-11-22,2nd,Harbhajan Singh,0,,D Mongia,0,South Africa,India,83,South Africa,Kingsmead,6,South Africa
+447,23.3,0,JH Kallis,2006-11-22,2nd,Harbhajan Singh,0,,D Mongia,0,South Africa,India,83,South Africa,Kingsmead,6,South Africa
+448,23.4,0,JH Kallis,2006-11-22,2nd,Harbhajan Singh,0,,D Mongia,0,South Africa,India,83,South Africa,Kingsmead,6,South Africa
+449,23.5,0,JH Kallis,2006-11-22,2nd,Harbhajan Singh,0,,D Mongia,0,South Africa,India,83,South Africa,Kingsmead,6,South Africa
+450,23.6,0,JH Kallis,2006-11-22,2nd,Harbhajan Singh,0,,D Mongia,0,South Africa,India,83,South Africa,Kingsmead,7,South Africa
+451,24.1,0,A Nel,2006-11-22,2nd,AB Agarkar,0,,Harbhajan Singh,0,South Africa,India,83,South Africa,Kingsmead,7,South Africa
+452,24.2,1,A Nel,2006-11-22,2nd,AB Agarkar,0,,Harbhajan Singh,0,South Africa,India,84,South Africa,Kingsmead,7,South Africa
+453,24.3,0,A Nel,2006-11-22,2nd,Harbhajan Singh,0,,AB Agarkar,0,South Africa,India,84,South Africa,Kingsmead,7,South Africa
+454,24.4,0,A Nel,2006-11-22,2nd,Harbhajan Singh,0,,AB Agarkar,0,South Africa,India,84,South Africa,Kingsmead,7,South Africa
+455,24.5,0,A Nel,2006-11-22,2nd,Harbhajan Singh,0,,AB Agarkar,0,South Africa,India,84,South Africa,Kingsmead,7,South Africa
+456,24.6,0,A Nel,2006-11-22,2nd,Harbhajan Singh,0,,AB Agarkar,0,South Africa,India,84,South Africa,Kingsmead,7,South Africa
+457,25.1,0,JH Kallis,2006-11-22,2nd,AB Agarkar,0,,Harbhajan Singh,0,South Africa,India,84,South Africa,Kingsmead,7,South Africa
+458,25.2,0,JH Kallis,2006-11-22,2nd,AB Agarkar,0,,Harbhajan Singh,0,South Africa,India,84,South Africa,Kingsmead,8,South Africa
+459,25.3,0,JH Kallis,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,84,South Africa,Kingsmead,8,South Africa
+460,25.4,0,JH Kallis,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,84,South Africa,Kingsmead,8,South Africa
+461,25.5,0,JH Kallis,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,84,South Africa,Kingsmead,8,South Africa
+462,25.6,1,JH Kallis,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,85,South Africa,Kingsmead,8,South Africa
+463,26.1,0,A Nel,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,85,South Africa,Kingsmead,8,South Africa
+464,26.2,0,A Nel,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,85,South Africa,Kingsmead,8,South Africa
+465,26.3,0,A Nel,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,85,South Africa,Kingsmead,8,South Africa
+466,26.4,0,A Nel,2006-11-22,2nd,AB Agarkar,0,,Z Khan,0,South Africa,India,85,South Africa,Kingsmead,9,South Africa
+467,26.5,0,A Nel,2006-11-22,2nd,AB Agarkar,0,,MM Patel,0,South Africa,India,85,South Africa,Kingsmead,9,South Africa
+468,26.6,0,A Nel,2006-11-22,2nd,AB Agarkar,0,,MM Patel,0,South Africa,India,85,South Africa,Kingsmead,9,South Africa
+469,27.1,0,JH Kallis,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,85,South Africa,Kingsmead,9,South Africa
+470,27.2,0,JH Kallis,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,85,South Africa,Kingsmead,9,South Africa
+471,27.3,0,JH Kallis,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,85,South Africa,Kingsmead,9,South Africa
+472,27.4,0,JH Kallis,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,85,South Africa,Kingsmead,9,South Africa
+473,27.5,1,JH Kallis,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,86,South Africa,Kingsmead,9,South Africa
+474,27.6,0,JH Kallis,2006-11-22,2nd,AB Agarkar,0,,MM Patel,0,South Africa,India,86,South Africa,Kingsmead,9,South Africa
+475,28.1,0,A Nel,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,86,South Africa,Kingsmead,9,South Africa
+476,28.2,0,A Nel,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,86,South Africa,Kingsmead,9,South Africa
+477,28.3,0,A Nel,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,86,South Africa,Kingsmead,9,South Africa
+478,28.4,4,A Nel,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,90,South Africa,Kingsmead,9,South Africa
+479,28.5,0,A Nel,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,90,South Africa,Kingsmead,9,South Africa
+480,28.6,1,A Nel,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,91,South Africa,Kingsmead,9,South Africa
+481,29.1,0,JH Kallis,2006-11-22,2nd,MM Patel,0,,AB Agarkar,0,South Africa,India,91,South Africa,Kingsmead,10,South Africa

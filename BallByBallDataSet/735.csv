@@ -1,0 +1,538 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,0,,DPMD Jayawardene,0,Bangladesh,Sri Lanka,0,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+1,0.2,1,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,0,,DPMD Jayawardene,1,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+2,0.3,0,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,1,,TM Dilshan,0,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+3,0.4,0,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,1,,TM Dilshan,0,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+4,0.5,0,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,1,,TM Dilshan,0,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+5,0.6,0,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,1,,TM Dilshan,0,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+6,1.1,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,0,,DPMD Jayawardene,1,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+7,1.2,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,0,,DPMD Jayawardene,1,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+8,1.3,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,0,,DPMD Jayawardene,1,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+9,1.4,1,Nazmul Hossain,2012-03-20,1st,TM Dilshan,0,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+10,1.5,0,Nazmul Hossain,2012-03-20,1st,DPMD Jayawardene,2,,TM Dilshan,0,Bangladesh,Sri Lanka,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+11,1.6,4,Nazmul Hossain,2012-03-20,1st,DPMD Jayawardene,2,,TM Dilshan,4,Bangladesh,Sri Lanka,6,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+12,2.1,2,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,4,,DPMD Jayawardene,4,Bangladesh,Sri Lanka,8,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+13,2.2,1,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,4,,DPMD Jayawardene,5,Bangladesh,Sri Lanka,9,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+14,2.3,0,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,5,,TM Dilshan,4,Bangladesh,Sri Lanka,9,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+15,2.4,0,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,5,,TM Dilshan,4,Bangladesh,Sri Lanka,9,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+16,2.5,4,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,5,,TM Dilshan,8,Bangladesh,Sri Lanka,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+17,2.6,1,Mashrafe Mortaza,2012-03-20,1st,DPMD Jayawardene,5,,TM Dilshan,9,Bangladesh,Sri Lanka,14,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+18,3.1,4,Nazmul Hossain,2012-03-20,1st,DPMD Jayawardene,5,,TM Dilshan,13,Bangladesh,Sri Lanka,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+19,3.2,1,Nazmul Hossain,2012-03-20,1st,DPMD Jayawardene,5,,TM Dilshan,14,Bangladesh,Sri Lanka,19,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+20,3.3,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,14,,DPMD Jayawardene,5,Bangladesh,Sri Lanka,19,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+21,3.4,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,14,,DPMD Jayawardene,5,Bangladesh,Sri Lanka,19,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+22,3.5,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,14,,DPMD Jayawardene,5,Bangladesh,Sri Lanka,19,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+23,3.6,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,14,DPMD Jayawardene,DPMD Jayawardene,5,Bangladesh,Sri Lanka,19,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+24,4.1,0,Mashrafe Mortaza,2012-03-20,1st,KC Sangakkara,0,,TM Dilshan,14,Bangladesh,Sri Lanka,19,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+25,4.2,1,Mashrafe Mortaza,2012-03-20,1st,KC Sangakkara,0,,TM Dilshan,15,Bangladesh,Sri Lanka,20,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+26,4.3,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,15,,KC Sangakkara,0,Bangladesh,Sri Lanka,20,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+27,4.4,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,15,,KC Sangakkara,0,Bangladesh,Sri Lanka,20,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+28,4.5,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,15,,KC Sangakkara,0,Bangladesh,Sri Lanka,20,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+29,4.6,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,15,,KC Sangakkara,0,Bangladesh,Sri Lanka,20,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+30,5.1,1,Nazmul Hossain,2012-03-20,1st,KC Sangakkara,0,,TM Dilshan,16,Bangladesh,Sri Lanka,21,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+31,5.2,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,16,,KC Sangakkara,0,Bangladesh,Sri Lanka,21,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+32,5.3,3,Nazmul Hossain,2012-03-20,1st,TM Dilshan,16,,KC Sangakkara,3,Bangladesh,Sri Lanka,24,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+33,5.4,1,Nazmul Hossain,2012-03-20,1st,KC Sangakkara,3,,TM Dilshan,17,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+34,5.5,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,17,,KC Sangakkara,3,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+35,5.6,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,17,,KC Sangakkara,3,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+36,6.1,1,Mashrafe Mortaza,2012-03-20,1st,KC Sangakkara,3,,TM Dilshan,18,Bangladesh,Sri Lanka,26,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+37,6.2,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,18,,KC Sangakkara,3,Bangladesh,Sri Lanka,26,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+38,6.3,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,18,,KC Sangakkara,3,Bangladesh,Sri Lanka,26,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+39,6.4,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,18,,KC Sangakkara,3,Bangladesh,Sri Lanka,26,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+40,6.5,1,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,18,,KC Sangakkara,4,Bangladesh,Sri Lanka,27,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+41,6.6,0,Mashrafe Mortaza,2012-03-20,1st,KC Sangakkara,4,,TM Dilshan,18,Bangladesh,Sri Lanka,27,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+42,7.1,2,Nazmul Hossain,2012-03-20,1st,TM Dilshan,18,,KC Sangakkara,6,Bangladesh,Sri Lanka,29,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+43,7.2,0,Nazmul Hossain,2012-03-20,1st,TM Dilshan,18,KC Sangakkara,KC Sangakkara,6,Bangladesh,Sri Lanka,29,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+44,7.3,1,Nazmul Hossain,2012-03-20,1st,TM Dilshan,18,,CK Kapugedera,1,Bangladesh,Sri Lanka,30,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+45,7.4,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,1,,TM Dilshan,18,Bangladesh,Sri Lanka,30,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+46,7.5,1,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,1,,TM Dilshan,19,Bangladesh,Sri Lanka,31,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+47,7.6,1,Nazmul Hossain,2012-03-20,1st,TM Dilshan,19,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+48,8.1,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,19,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+49,8.2,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,19,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+50,8.3,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,19,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+51,8.4,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,19,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+52,8.5,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,19,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+53,8.6,0,Mashrafe Mortaza,2012-03-20,1st,TM Dilshan,19,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+54,9.1,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,2,,TM Dilshan,19,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+55,9.2,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,2,TM Dilshan,TM Dilshan,19,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+56,9.3,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,2,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+57,9.4,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,2,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+58,9.5,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,2,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+59,9.6,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,2,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+60,10.1,0,Mashrafe Mortaza,2012-03-20,1st,HDRL Thirimanne,0,,CK Kapugedera,2,Bangladesh,Sri Lanka,32,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+61,10.2,1,Mashrafe Mortaza,2012-03-20,1st,HDRL Thirimanne,0,,CK Kapugedera,3,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+62,10.3,0,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,3,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+63,10.4,0,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,3,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+64,10.5,0,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,3,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+65,10.6,0,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,3,,HDRL Thirimanne,0,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+66,11.1,0,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,0,,CK Kapugedera,3,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+67,11.2,0,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,0,,CK Kapugedera,3,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+68,11.3,0,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,0,,CK Kapugedera,3,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+69,11.4,0,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,0,,CK Kapugedera,3,Bangladesh,Sri Lanka,33,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+70,11.5,1,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,0,,CK Kapugedera,4,Bangladesh,Sri Lanka,34,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+71,11.6,1,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,4,,HDRL Thirimanne,1,Bangladesh,Sri Lanka,35,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+72,12.1,1,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,4,,HDRL Thirimanne,2,Bangladesh,Sri Lanka,36,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+73,12.2,1,Shahadat Hossain,2012-03-20,1st,HDRL Thirimanne,2,,CK Kapugedera,5,Bangladesh,Sri Lanka,37,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+74,12.3,1,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,5,,HDRL Thirimanne,3,Bangladesh,Sri Lanka,38,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+75,12.4,0,Shahadat Hossain,2012-03-20,1st,HDRL Thirimanne,3,,CK Kapugedera,5,Bangladesh,Sri Lanka,38,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+76,12.5,0,Shahadat Hossain,2012-03-20,1st,HDRL Thirimanne,3,,CK Kapugedera,5,Bangladesh,Sri Lanka,38,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+77,12.6,2,Shahadat Hossain,2012-03-20,1st,HDRL Thirimanne,3,,CK Kapugedera,7,Bangladesh,Sri Lanka,40,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+78,13.1,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,3,Bangladesh,Sri Lanka,40,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+79,13.2,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,3,Bangladesh,Sri Lanka,40,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+80,13.3,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,4,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+81,13.4,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,4,,CK Kapugedera,7,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+82,13.5,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,4,,CK Kapugedera,7,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+83,13.6,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,4,,CK Kapugedera,7,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+84,14.1,2,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,6,Bangladesh,Sri Lanka,43,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+85,14.2,4,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,10,Bangladesh,Sri Lanka,47,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+86,14.3,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,10,Bangladesh,Sri Lanka,47,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+87,14.4,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,10,Bangladesh,Sri Lanka,47,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+88,14.5,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,10,Bangladesh,Sri Lanka,47,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+89,14.6,1,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,11,Bangladesh,Sri Lanka,48,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+90,15.1,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,11,Bangladesh,Sri Lanka,48,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+91,15.2,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,11,Bangladesh,Sri Lanka,48,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+92,15.3,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,7,,HDRL Thirimanne,12,Bangladesh,Sri Lanka,49,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+93,15.4,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,7,Bangladesh,Sri Lanka,49,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+94,15.5,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,7,Bangladesh,Sri Lanka,49,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+95,15.6,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,8,Bangladesh,Sri Lanka,50,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+96,16.1,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,8,Bangladesh,Sri Lanka,50,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+97,16.2,2,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,10,Bangladesh,Sri Lanka,52,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+98,16.3,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,10,Bangladesh,Sri Lanka,53,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+99,16.4,1,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,11,Bangladesh,Sri Lanka,54,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+100,16.5,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,11,,HDRL Thirimanne,12,Bangladesh,Sri Lanka,54,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+101,16.6,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,11,,HDRL Thirimanne,12,Bangladesh,Sri Lanka,54,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+102,16.7,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,11,,HDRL Thirimanne,12,Bangladesh,Sri Lanka,54,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+103,17.1,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,11,Bangladesh,Sri Lanka,54,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+104,17.2,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,12,,CK Kapugedera,12,Bangladesh,Sri Lanka,55,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+105,17.3,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,12,,HDRL Thirimanne,12,Bangladesh,Sri Lanka,55,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+106,17.4,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,12,,HDRL Thirimanne,13,Bangladesh,Sri Lanka,56,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+107,17.5,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,13,,CK Kapugedera,12,Bangladesh,Sri Lanka,56,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+108,17.6,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,13,,CK Kapugedera,13,Bangladesh,Sri Lanka,57,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+109,18.1,4,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,13,,CK Kapugedera,17,Bangladesh,Sri Lanka,61,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+110,18.2,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,13,,CK Kapugedera,17,Bangladesh,Sri Lanka,61,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+111,18.3,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,13,,CK Kapugedera,17,Bangladesh,Sri Lanka,61,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+112,18.4,1,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,13,,CK Kapugedera,18,Bangladesh,Sri Lanka,62,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+113,18.5,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,18,,HDRL Thirimanne,14,Bangladesh,Sri Lanka,63,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+114,18.6,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,14,,CK Kapugedera,18,Bangladesh,Sri Lanka,63,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+115,19.1,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,18,,HDRL Thirimanne,14,Bangladesh,Sri Lanka,63,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+116,19.2,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,18,,HDRL Thirimanne,14,Bangladesh,Sri Lanka,63,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+117,19.3,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,18,,HDRL Thirimanne,14,Bangladesh,Sri Lanka,63,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+118,19.4,4,Abdur Razzak,2012-03-20,1st,CK Kapugedera,18,,HDRL Thirimanne,18,Bangladesh,Sri Lanka,67,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+119,19.5,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,18,,HDRL Thirimanne,19,Bangladesh,Sri Lanka,68,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+120,19.6,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,19,,CK Kapugedera,19,Bangladesh,Sri Lanka,69,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+121,20.1,0,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,19,,CK Kapugedera,19,Bangladesh,Sri Lanka,69,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+122,20.2,4,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,19,,CK Kapugedera,23,Bangladesh,Sri Lanka,73,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+123,20.3,1,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,19,,CK Kapugedera,24,Bangladesh,Sri Lanka,74,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+124,20.4,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,24,,HDRL Thirimanne,19,Bangladesh,Sri Lanka,74,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+125,20.5,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,24,,HDRL Thirimanne,19,Bangladesh,Sri Lanka,74,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+126,20.6,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,24,,HDRL Thirimanne,19,Bangladesh,Sri Lanka,74,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+127,21.1,1,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,19,,CK Kapugedera,25,Bangladesh,Sri Lanka,75,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+128,21.2,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,25,,HDRL Thirimanne,19,Bangladesh,Sri Lanka,75,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+129,21.3,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,25,,HDRL Thirimanne,19,Bangladesh,Sri Lanka,75,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+130,21.4,2,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,25,,HDRL Thirimanne,21,Bangladesh,Sri Lanka,77,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+131,21.5,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,25,,HDRL Thirimanne,22,Bangladesh,Sri Lanka,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+132,21.6,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,22,,CK Kapugedera,25,Bangladesh,Sri Lanka,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+133,22.1,1,Mahmudullah,2012-03-20,1st,CK Kapugedera,25,,HDRL Thirimanne,23,Bangladesh,Sri Lanka,79,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+134,22.2,1,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,23,,CK Kapugedera,26,Bangladesh,Sri Lanka,80,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+135,22.3,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,26,,HDRL Thirimanne,23,Bangladesh,Sri Lanka,80,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+136,22.4,1,Mahmudullah,2012-03-20,1st,CK Kapugedera,26,,HDRL Thirimanne,24,Bangladesh,Sri Lanka,81,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+137,22.5,0,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,24,,CK Kapugedera,26,Bangladesh,Sri Lanka,81,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+138,22.6,0,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,24,,CK Kapugedera,26,Bangladesh,Sri Lanka,81,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+139,23.1,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,26,,HDRL Thirimanne,25,Bangladesh,Sri Lanka,82,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+140,23.2,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,25,,CK Kapugedera,26,Bangladesh,Sri Lanka,82,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+141,23.3,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,25,,CK Kapugedera,26,Bangladesh,Sri Lanka,82,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+142,23.4,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,25,,CK Kapugedera,26,Bangladesh,Sri Lanka,82,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+143,23.5,1,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,25,,CK Kapugedera,27,Bangladesh,Sri Lanka,83,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+144,23.6,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,27,,HDRL Thirimanne,26,Bangladesh,Sri Lanka,84,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+145,24.1,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,27,,HDRL Thirimanne,26,Bangladesh,Sri Lanka,84,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+146,24.2,1,Mahmudullah,2012-03-20,1st,CK Kapugedera,27,,HDRL Thirimanne,27,Bangladesh,Sri Lanka,85,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+147,24.3,0,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,27,,CK Kapugedera,27,Bangladesh,Sri Lanka,86,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+148,24.4,0,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,27,,CK Kapugedera,27,Bangladesh,Sri Lanka,86,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+149,24.5,1,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,27,,CK Kapugedera,28,Bangladesh,Sri Lanka,87,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+150,24.6,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,28,,HDRL Thirimanne,27,Bangladesh,Sri Lanka,87,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+151,24.7,1,Mahmudullah,2012-03-20,1st,CK Kapugedera,28,,HDRL Thirimanne,28,Bangladesh,Sri Lanka,88,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+152,25.1,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,28,,HDRL Thirimanne,29,Bangladesh,Sri Lanka,89,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+153,25.2,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,29,,CK Kapugedera,28,Bangladesh,Sri Lanka,89,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+154,25.3,0,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,29,,CK Kapugedera,28,Bangladesh,Sri Lanka,89,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+155,25.4,1,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,29,,CK Kapugedera,29,Bangladesh,Sri Lanka,90,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+156,25.5,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,29,,HDRL Thirimanne,30,Bangladesh,Sri Lanka,91,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+157,25.6,1,Shakib Al Hasan,2012-03-20,1st,HDRL Thirimanne,30,,CK Kapugedera,30,Bangladesh,Sri Lanka,92,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+158,26.1,1,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,30,,CK Kapugedera,31,Bangladesh,Sri Lanka,93,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+159,26.2,1,Mahmudullah,2012-03-20,1st,CK Kapugedera,31,,HDRL Thirimanne,31,Bangladesh,Sri Lanka,94,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+160,26.3,1,Mahmudullah,2012-03-20,1st,HDRL Thirimanne,31,,CK Kapugedera,32,Bangladesh,Sri Lanka,95,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+161,26.4,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,32,,HDRL Thirimanne,31,Bangladesh,Sri Lanka,95,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+162,26.5,0,Mahmudullah,2012-03-20,1st,CK Kapugedera,32,,HDRL Thirimanne,31,Bangladesh,Sri Lanka,95,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+163,26.6,1,Mahmudullah,2012-03-20,1st,CK Kapugedera,32,,HDRL Thirimanne,32,Bangladesh,Sri Lanka,96,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+164,27.1,0,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,32,,HDRL Thirimanne,32,Bangladesh,Sri Lanka,96,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+165,27.2,1,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,32,,HDRL Thirimanne,33,Bangladesh,Sri Lanka,97,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+166,27.3,1,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,33,,CK Kapugedera,33,Bangladesh,Sri Lanka,98,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+167,27.4,1,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,33,,HDRL Thirimanne,34,Bangladesh,Sri Lanka,99,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+168,27.5,0,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,34,,CK Kapugedera,33,Bangladesh,Sri Lanka,99,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+169,27.6,1,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,34,,CK Kapugedera,34,Bangladesh,Sri Lanka,100,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+170,28.1,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,34,,CK Kapugedera,34,Bangladesh,Sri Lanka,100,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+171,28.2,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,34,,CK Kapugedera,34,Bangladesh,Sri Lanka,100,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+172,28.3,0,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,34,,CK Kapugedera,34,Bangladesh,Sri Lanka,100,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+173,28.4,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,34,,CK Kapugedera,35,Bangladesh,Sri Lanka,101,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+174,28.5,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,35,,HDRL Thirimanne,35,Bangladesh,Sri Lanka,102,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+175,28.6,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,35,,CK Kapugedera,36,Bangladesh,Sri Lanka,103,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+176,29.1,1,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,35,,CK Kapugedera,37,Bangladesh,Sri Lanka,104,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+177,29.2,2,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,37,,HDRL Thirimanne,37,Bangladesh,Sri Lanka,106,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+178,29.3,1,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,37,,HDRL Thirimanne,38,Bangladesh,Sri Lanka,107,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+179,29.4,1,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,38,,CK Kapugedera,38,Bangladesh,Sri Lanka,108,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+180,29.5,1,Nazmul Hossain,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,39,Bangladesh,Sri Lanka,109,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+181,29.6,0,Nazmul Hossain,2012-03-20,1st,HDRL Thirimanne,39,,CK Kapugedera,38,Bangladesh,Sri Lanka,109,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+182,30.1,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,39,Bangladesh,Sri Lanka,109,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+183,30.2,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,39,Bangladesh,Sri Lanka,109,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+184,30.3,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,39,Bangladesh,Sri Lanka,109,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+185,30.4,4,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,43,Bangladesh,Sri Lanka,113,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+186,30.5,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,43,Bangladesh,Sri Lanka,113,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+187,30.6,1,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,44,Bangladesh,Sri Lanka,114,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+188,31.1,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,38,,HDRL Thirimanne,45,Bangladesh,Sri Lanka,115,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+189,31.2,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,45,,CK Kapugedera,39,Bangladesh,Sri Lanka,116,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+190,31.3,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,39,,HDRL Thirimanne,46,Bangladesh,Sri Lanka,117,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+191,31.4,1,Abdur Razzak,2012-03-20,1st,HDRL Thirimanne,46,,CK Kapugedera,40,Bangladesh,Sri Lanka,118,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+192,31.5,2,Abdur Razzak,2012-03-20,1st,CK Kapugedera,40,,HDRL Thirimanne,48,Bangladesh,Sri Lanka,120,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+193,31.6,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,40,HDRL Thirimanne,HDRL Thirimanne,48,Bangladesh,Sri Lanka,120,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+194,32.1,1,Shahadat Hossain,2012-03-20,1st,WU Tharanga,0,,CK Kapugedera,41,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+195,32.2,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+196,32.3,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+197,32.4,4,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,4,Bangladesh,Sri Lanka,125,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+198,32.5,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,4,Bangladesh,Sri Lanka,125,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+199,32.6,1,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,5,Bangladesh,Sri Lanka,126,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+200,33.1,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,5,Bangladesh,Sri Lanka,126,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+201,33.2,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,5,Bangladesh,Sri Lanka,126,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+202,33.3,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,41,,WU Tharanga,6,Bangladesh,Sri Lanka,127,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+203,33.4,0,Abdur Razzak,2012-03-20,1st,WU Tharanga,6,,CK Kapugedera,41,Bangladesh,Sri Lanka,127,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+204,33.5,1,Abdur Razzak,2012-03-20,1st,WU Tharanga,6,,CK Kapugedera,42,Bangladesh,Sri Lanka,128,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+205,33.6,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,42,,WU Tharanga,7,Bangladesh,Sri Lanka,129,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+206,34.1,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,42,,WU Tharanga,7,Bangladesh,Sri Lanka,129,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+207,34.2,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,42,,WU Tharanga,7,Bangladesh,Sri Lanka,130,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+208,34.3,4,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,42,,WU Tharanga,11,Bangladesh,Sri Lanka,134,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+209,34.4,4,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,42,,WU Tharanga,15,Bangladesh,Sri Lanka,138,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+210,34.5,1,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,42,,WU Tharanga,16,Bangladesh,Sri Lanka,139,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+211,34.6,0,Shahadat Hossain,2012-03-20,1st,WU Tharanga,16,,CK Kapugedera,42,Bangladesh,Sri Lanka,140,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+212,34.7,1,Shahadat Hossain,2012-03-20,1st,WU Tharanga,16,,CK Kapugedera,43,Bangladesh,Sri Lanka,141,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+213,34.8,0,Shahadat Hossain,2012-03-20,1st,CK Kapugedera,43,,WU Tharanga,16,Bangladesh,Sri Lanka,141,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+214,35.1,1,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,16,,CK Kapugedera,44,Bangladesh,Sri Lanka,142,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+215,35.2,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,44,,WU Tharanga,16,Bangladesh,Sri Lanka,142,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+216,35.3,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,44,,WU Tharanga,17,Bangladesh,Sri Lanka,143,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+217,35.4,1,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,17,,CK Kapugedera,45,Bangladesh,Sri Lanka,144,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+218,35.5,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,45,,WU Tharanga,17,Bangladesh,Sri Lanka,144,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+219,35.6,0,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,45,,WU Tharanga,17,Bangladesh,Sri Lanka,144,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+220,36.1,0,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,17,,CK Kapugedera,45,Bangladesh,Sri Lanka,144,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+221,36.2,0,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,17,,CK Kapugedera,45,Bangladesh,Sri Lanka,144,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+222,36.3,1,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,17,,CK Kapugedera,46,Bangladesh,Sri Lanka,145,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+223,36.4,1,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,46,,WU Tharanga,18,Bangladesh,Sri Lanka,146,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+224,36.5,0,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,18,,CK Kapugedera,46,Bangladesh,Sri Lanka,146,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+225,36.6,1,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,18,,CK Kapugedera,47,Bangladesh,Sri Lanka,147,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+226,37.1,1,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,18,,CK Kapugedera,48,Bangladesh,Sri Lanka,148,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+227,37.2,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,48,,WU Tharanga,19,Bangladesh,Sri Lanka,149,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+228,37.3,1,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,19,,CK Kapugedera,49,Bangladesh,Sri Lanka,150,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+229,37.4,1,Shakib Al Hasan,2012-03-20,1st,CK Kapugedera,49,,WU Tharanga,20,Bangladesh,Sri Lanka,151,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+230,37.5,2,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,20,,CK Kapugedera,51,Bangladesh,Sri Lanka,153,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+231,37.6,4,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,20,,CK Kapugedera,55,Bangladesh,Sri Lanka,157,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+232,38.1,1,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,55,,WU Tharanga,21,Bangladesh,Sri Lanka,158,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+233,38.2,2,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,21,,CK Kapugedera,57,Bangladesh,Sri Lanka,160,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+234,38.3,0,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,21,,CK Kapugedera,57,Bangladesh,Sri Lanka,161,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+235,38.4,1,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,57,,WU Tharanga,22,Bangladesh,Sri Lanka,162,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+236,38.5,1,Mashrafe Mortaza,2012-03-20,1st,WU Tharanga,22,,CK Kapugedera,58,Bangladesh,Sri Lanka,163,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+237,38.6,1,Mashrafe Mortaza,2012-03-20,1st,CK Kapugedera,58,,WU Tharanga,23,Bangladesh,Sri Lanka,164,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+238,39.1,0,Abdur Razzak,2012-03-20,1st,CK Kapugedera,58,,WU Tharanga,23,Bangladesh,Sri Lanka,164,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+239,39.2,1,Abdur Razzak,2012-03-20,1st,CK Kapugedera,58,,WU Tharanga,24,Bangladesh,Sri Lanka,165,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+240,39.3,0,Abdur Razzak,2012-03-20,1st,WU Tharanga,24,,CK Kapugedera,58,Bangladesh,Sri Lanka,165,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+241,39.4,4,Abdur Razzak,2012-03-20,1st,WU Tharanga,24,,CK Kapugedera,62,Bangladesh,Sri Lanka,169,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+242,39.5,0,Abdur Razzak,2012-03-20,1st,WU Tharanga,24,CK Kapugedera,CK Kapugedera,62,Bangladesh,Sri Lanka,169,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+243,39.6,0,Abdur Razzak,2012-03-20,1st,WU Tharanga,24,,MF Maharoof,0,Bangladesh,Sri Lanka,169,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+244,40.1,0,Shakib Al Hasan,2012-03-20,1st,MF Maharoof,0,,WU Tharanga,24,Bangladesh,Sri Lanka,169,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+245,40.2,0,Shakib Al Hasan,2012-03-20,1st,MF Maharoof,0,,WU Tharanga,24,Bangladesh,Sri Lanka,170,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+246,40.3,1,Shakib Al Hasan,2012-03-20,1st,MF Maharoof,0,,WU Tharanga,25,Bangladesh,Sri Lanka,171,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+247,40.4,3,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,25,,MF Maharoof,3,Bangladesh,Sri Lanka,174,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+248,40.5,0,Shakib Al Hasan,2012-03-20,1st,MF Maharoof,3,,WU Tharanga,25,Bangladesh,Sri Lanka,174,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+249,40.6,1,Shakib Al Hasan,2012-03-20,1st,MF Maharoof,3,,WU Tharanga,26,Bangladesh,Sri Lanka,175,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+250,40.7,0,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,26,MF Maharoof,MF Maharoof,3,Bangladesh,Sri Lanka,175,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+251,41.1,0,Abdur Razzak,2012-03-20,1st,KMDN Kulasekara,0,,WU Tharanga,26,Bangladesh,Sri Lanka,175,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+252,41.2,1,Abdur Razzak,2012-03-20,1st,KMDN Kulasekara,0,,WU Tharanga,27,Bangladesh,Sri Lanka,176,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+253,41.3,0,Abdur Razzak,2012-03-20,1st,WU Tharanga,27,,KMDN Kulasekara,0,Bangladesh,Sri Lanka,176,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+254,41.4,0,Abdur Razzak,2012-03-20,1st,WU Tharanga,27,,KMDN Kulasekara,0,Bangladesh,Sri Lanka,177,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+255,41.5,1,Abdur Razzak,2012-03-20,1st,WU Tharanga,27,,KMDN Kulasekara,1,Bangladesh,Sri Lanka,178,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+256,41.6,0,Abdur Razzak,2012-03-20,1st,KMDN Kulasekara,1,,WU Tharanga,27,Bangladesh,Sri Lanka,179,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+257,41.7,4,Abdur Razzak,2012-03-20,1st,KMDN Kulasekara,1,,WU Tharanga,31,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+258,41.8,0,Abdur Razzak,2012-03-20,1st,KMDN Kulasekara,1,,WU Tharanga,31,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+259,42.1,0,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,31,,KMDN Kulasekara,1,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+260,42.2,0,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,31,KMDN Kulasekara,KMDN Kulasekara,1,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+261,42.3,0,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,31,,SMSM Senanayake,0,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+262,42.4,0,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,31,,SMSM Senanayake,0,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+263,42.5,0,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,31,,SMSM Senanayake,0,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+264,42.6,0,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,31,,SMSM Senanayake,0,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+265,43.1,1,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,0,,WU Tharanga,32,Bangladesh,Sri Lanka,184,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+266,43.2,0,Shahadat Hossain,2012-03-20,1st,WU Tharanga,32,,SMSM Senanayake,0,Bangladesh,Sri Lanka,184,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+267,43.3,1,Shahadat Hossain,2012-03-20,1st,WU Tharanga,32,,SMSM Senanayake,1,Bangladesh,Sri Lanka,185,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+268,43.4,1,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,1,,WU Tharanga,33,Bangladesh,Sri Lanka,186,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+269,43.5,0,Shahadat Hossain,2012-03-20,1st,WU Tharanga,33,,SMSM Senanayake,1,Bangladesh,Sri Lanka,186,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+270,43.6,0,Shahadat Hossain,2012-03-20,1st,WU Tharanga,33,,SMSM Senanayake,1,Bangladesh,Sri Lanka,186,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+271,44.1,2,Shakib Al Hasan,2012-03-20,1st,SMSM Senanayake,1,,WU Tharanga,35,Bangladesh,Sri Lanka,188,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+272,44.2,1,Shakib Al Hasan,2012-03-20,1st,SMSM Senanayake,1,,WU Tharanga,36,Bangladesh,Sri Lanka,189,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+273,44.3,1,Shakib Al Hasan,2012-03-20,1st,WU Tharanga,36,,SMSM Senanayake,2,Bangladesh,Sri Lanka,190,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+274,44.4,6,Shakib Al Hasan,2012-03-20,1st,SMSM Senanayake,2,,WU Tharanga,42,Bangladesh,Sri Lanka,196,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+275,44.5,0,Shakib Al Hasan,2012-03-20,1st,SMSM Senanayake,2,,WU Tharanga,42,Bangladesh,Sri Lanka,197,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+276,44.6,4,Shakib Al Hasan,2012-03-20,1st,SMSM Senanayake,2,,WU Tharanga,46,Bangladesh,Sri Lanka,201,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+277,44.7,1,Shakib Al Hasan,2012-03-20,1st,SMSM Senanayake,2,,WU Tharanga,47,Bangladesh,Sri Lanka,202,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+278,45.1,0,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,2,,WU Tharanga,47,Bangladesh,Sri Lanka,202,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+279,45.2,1,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,2,,WU Tharanga,48,Bangladesh,Sri Lanka,203,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+280,45.3,1,Shahadat Hossain,2012-03-20,1st,WU Tharanga,48,,SMSM Senanayake,3,Bangladesh,Sri Lanka,204,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+281,45.4,0,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,3,WU Tharanga,WU Tharanga,48,Bangladesh,Sri Lanka,204,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+282,45.5,0,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,3,,SL Malinga,0,Bangladesh,Sri Lanka,204,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+283,45.6,0,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,3,,SL Malinga,0,Bangladesh,Sri Lanka,204,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+284,46.1,0,Mashrafe Mortaza,2012-03-20,1st,SL Malinga,0,,SMSM Senanayake,3,Bangladesh,Sri Lanka,205,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+285,46.2,1,Mashrafe Mortaza,2012-03-20,1st,SMSM Senanayake,3,,SL Malinga,1,Bangladesh,Sri Lanka,206,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+286,46.3,4,Mashrafe Mortaza,2012-03-20,1st,SL Malinga,1,,SMSM Senanayake,7,Bangladesh,Sri Lanka,210,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+287,46.4,1,Mashrafe Mortaza,2012-03-20,1st,SL Malinga,1,,SMSM Senanayake,8,Bangladesh,Sri Lanka,211,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+288,46.5,0,Mashrafe Mortaza,2012-03-20,1st,SMSM Senanayake,8,,SL Malinga,1,Bangladesh,Sri Lanka,211,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+289,46.6,1,Mashrafe Mortaza,2012-03-20,1st,SMSM Senanayake,8,,SL Malinga,2,Bangladesh,Sri Lanka,212,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+290,47.1,1,Shahadat Hossain,2012-03-20,1st,SMSM Senanayake,8,,SL Malinga,3,Bangladesh,Sri Lanka,213,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+291,47.2,0,Shahadat Hossain,2012-03-20,1st,SL Malinga,3,,SMSM Senanayake,8,Bangladesh,Sri Lanka,213,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+292,47.3,4,Shahadat Hossain,2012-03-20,1st,SL Malinga,3,,SMSM Senanayake,12,Bangladesh,Sri Lanka,217,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+293,47.4,0,Shahadat Hossain,2012-03-20,1st,SL Malinga,3,,SMSM Senanayake,12,Bangladesh,Sri Lanka,217,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+294,47.5,2,Shahadat Hossain,2012-03-20,1st,SL Malinga,3,,SMSM Senanayake,14,Bangladesh,Sri Lanka,219,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+295,47.6,4,Shahadat Hossain,2012-03-20,1st,SL Malinga,3,,SMSM Senanayake,18,Bangladesh,Sri Lanka,223,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+296,48.1,4,Abdur Razzak,2012-03-20,1st,SMSM Senanayake,18,,SL Malinga,7,Bangladesh,Sri Lanka,227,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+297,48.2,0,Abdur Razzak,2012-03-20,1st,SMSM Senanayake,18,,SL Malinga,7,Bangladesh,Sri Lanka,227,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+298,48.3,0,Abdur Razzak,2012-03-20,1st,SMSM Senanayake,18,,SL Malinga,7,Bangladesh,Sri Lanka,227,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+299,48.4,2,Abdur Razzak,2012-03-20,1st,SMSM Senanayake,18,,SL Malinga,9,Bangladesh,Sri Lanka,229,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+300,48.5,0,Abdur Razzak,2012-03-20,1st,SMSM Senanayake,18,,SL Malinga,9,Bangladesh,Sri Lanka,229,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+301,48.6,1,Abdur Razzak,2012-03-20,1st,SMSM Senanayake,18,,SL Malinga,10,Bangladesh,Sri Lanka,230,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+302,49.1,0,Mashrafe Mortaza,2012-03-20,1st,SMSM Senanayake,18,SL Malinga,SL Malinga,10,Bangladesh,Sri Lanka,230,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+303,49.2,0,Mashrafe Mortaza,2012-03-20,1st,SMSM Senanayake,18,,RAS Lakmal,0,Bangladesh,Sri Lanka,231,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+304,49.3,0,Mashrafe Mortaza,2012-03-20,1st,RAS Lakmal,0,,SMSM Senanayake,18,Bangladesh,Sri Lanka,231,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+305,49.4,0,Mashrafe Mortaza,2012-03-20,1st,RAS Lakmal,0,,SMSM Senanayake,18,Bangladesh,Sri Lanka,231,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+306,49.5,1,Mashrafe Mortaza,2012-03-20,1st,RAS Lakmal,0,RAS Lakmal,SMSM Senanayake,19,Bangladesh,Sri Lanka,232,Bangladesh,Shere Bangla National Stadium,10,Bangladesh
+307,0.1,0,SL Malinga,2012-03-20,2nd,Nazimuddin,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,0,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+308,0.2,1,SL Malinga,2012-03-20,2nd,Nazimuddin,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+309,0.3,1,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Nazimuddin,0,Bangladesh,Sri Lanka,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+310,0.4,1,SL Malinga,2012-03-20,2nd,Nazimuddin,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,3,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+311,0.5,4,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Nazimuddin,0,Bangladesh,Sri Lanka,7,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+312,0.6,1,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Nazimuddin,0,Bangladesh,Sri Lanka,8,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+313,1.1,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Nazimuddin,0,Bangladesh,Sri Lanka,8,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+314,1.2,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Nazimuddin,0,Bangladesh,Sri Lanka,8,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+315,1.3,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Nazimuddin,0,Bangladesh,Sri Lanka,8,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+316,1.4,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Nazimuddin,0,Bangladesh,Sri Lanka,8,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+317,1.5,1,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,9,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+318,1.6,0,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,9,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+319,2.1,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,9,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+320,2.2,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,9,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+321,2.3,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,10,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+322,2.4,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,10,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+323,2.5,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,11,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+324,2.6,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,11,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+325,2.7,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,11,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+326,2.8,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,11,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+327,3.1,0,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,11,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+328,3.2,0,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,15,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+329,3.3,0,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,15,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+330,3.4,4,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,19,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+331,3.5,1,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,20,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+332,3.6,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,20,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+333,4.1,4,SL Malinga,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,24,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+334,4.2,1,SL Malinga,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+335,4.3,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+336,4.4,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+337,4.5,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+338,4.6,0,SL Malinga,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,25,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+339,5.1,4,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,29,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+340,5.2,0,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,29,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+341,5.3,1,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,30,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+342,5.4,1,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,31,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+343,5.5,4,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,35,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+344,5.6,4,KMDN Kulasekara,2012-03-20,2nd,Jahurul Islam,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,39,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+345,6.1,0,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,39,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+346,6.2,0,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Jahurul Islam,0,Bangladesh,Sri Lanka,39,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+347,6.3,0,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,39,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+348,6.4,0,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,39,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+349,6.5,1,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,40,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+350,6.6,0,RAS Lakmal,2012-03-20,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,40,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+351,7.1,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,40,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+352,7.2,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,40,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+353,7.3,1,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+354,7.4,0,KMDN Kulasekara,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+355,7.5,0,KMDN Kulasekara,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+356,7.6,0,KMDN Kulasekara,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+357,8.1,1,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,42,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+358,8.2,0,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,43,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+359,8.3,4,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,47,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+360,8.4,2,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,49,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+361,8.5,1,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,50,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+362,8.6,0,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,50,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+363,9.1,2,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,52,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+364,9.2,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,52,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+365,9.3,1,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,53,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+366,9.4,0,KMDN Kulasekara,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,54,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+367,9.5,0,KMDN Kulasekara,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,54,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+368,9.6,1,KMDN Kulasekara,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,55,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+369,9.7,0,KMDN Kulasekara,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,55,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+370,10.1,2,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,57,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+371,10.2,0,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,57,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+372,10.3,1,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,58,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+373,10.4,4,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,62,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+374,10.5,4,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,66,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+375,10.6,4,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,70,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+376,11.1,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,70,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+377,11.2,1,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,71,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+378,11.3,0,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,71,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+379,11.4,0,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,71,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+380,11.5,0,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,71,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+381,11.6,0,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,71,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+382,12.1,0,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,71,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+383,12.2,0,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,71,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+384,12.3,1,RAS Lakmal,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,72,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+385,12.4,0,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,72,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+386,12.5,0,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,72,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+387,12.6,0,RAS Lakmal,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,72,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+388,13.1,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,72,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+389,13.2,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,72,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+390,13.3,1,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,73,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+391,13.4,0,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,73,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+392,13.5,3,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,76,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+393,13.6,1,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,77,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+394,14.1,1,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+395,14.2,0,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+396,14.3,1,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,79,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+397,14.4,0,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,79,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+398,14.5,1,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,80,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+399,14.6,1,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,81,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+400,15.1,3,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,84,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+401,15.2,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,84,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+402,15.3,4,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,88,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+403,15.4,1,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,89,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+404,15.5,1,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,90,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+405,15.6,1,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,91,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+406,16.1,4,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,95,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+407,16.2,1,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,96,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+408,16.3,1,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,97,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+409,16.4,4,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,101,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+410,16.5,0,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,101,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+411,16.6,1,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,102,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+412,17.1,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,102,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+413,17.2,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,102,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+414,17.3,1,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,103,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+415,17.4,1,SMSM Senanayake,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,104,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+416,17.5,2,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,106,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+417,17.6,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,106,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+418,18.1,2,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,108,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+419,18.2,1,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,109,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+420,18.3,4,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,113,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+421,18.4,1,MF Maharoof,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,114,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+422,18.5,2,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,116,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+423,18.6,0,MF Maharoof,2012-03-20,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,116,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+424,19.1,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,116,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+425,19.2,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,116,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+426,19.3,1,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,117,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+427,19.4,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,117,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+428,19.5,1,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,118,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+429,19.6,0,SMSM Senanayake,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,118,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+430,20.1,1,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,119,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+431,20.2,0,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,119,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+432,20.3,1,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,120,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+433,20.4,1,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+434,20.5,0,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+435,20.6,0,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+436,21.1,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+437,21.2,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+438,21.3,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+439,21.4,4,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,125,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+440,21.5,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,125,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+441,21.6,4,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,129,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+442,22.1,0,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,129,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+443,22.2,0,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,129,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+444,22.3,1,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,130,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+445,22.4,1,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,131,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+446,22.5,0,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,131,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+447,22.6,0,SL Malinga,2012-03-20,2nd,Shakib Al Hasan,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,131,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+448,23.1,4,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,135,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+449,23.2,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,135,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+450,23.3,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,135,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+451,23.4,1,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,136,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+452,23.5,0,SMSM Senanayake,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,136,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+453,23.6,0,SMSM Senanayake,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,136,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+454,24.1,0,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,136,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+455,24.2,0,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,136,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+456,24.3,1,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,137,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+457,24.4,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,138,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+458,24.5,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,138,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+459,24.6,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,138,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+460,24.7,3,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,141,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+461,25.1,0,SMSM Senanayake,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,141,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+462,25.2,0,SMSM Senanayake,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,141,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+463,25.3,2,SMSM Senanayake,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,143,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+464,25.4,0,SMSM Senanayake,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,143,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+465,25.5,1,SMSM Senanayake,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,144,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+466,25.6,0,SMSM Senanayake,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,144,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+467,26.1,1,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,145,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+468,26.2,0,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,145,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+469,26.3,0,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,145,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+470,26.4,0,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,145,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+471,26.5,2,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,147,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+472,26.6,2,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,149,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+473,27.1,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,149,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+474,27.2,1,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,150,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+475,27.3,4,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,154,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+476,27.4,0,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,155,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+477,27.5,1,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,156,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+478,27.6,1,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,157,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+479,27.7,0,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,161,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+480,28.1,4,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,165,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+481,28.2,0,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,165,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+482,28.3,1,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,166,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+483,28.4,0,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,166,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+484,28.5,0,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,166,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+485,28.6,0,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,166,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+486,29.1,0,KMDN Kulasekara,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,170,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+487,29.2,0,KMDN Kulasekara,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,170,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+488,29.3,0,KMDN Kulasekara,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,170,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+489,29.4,0,KMDN Kulasekara,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,170,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+490,29.5,4,KMDN Kulasekara,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,174,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+491,29.6,0,KMDN Kulasekara,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,174,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+492,30.1,1,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,175,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+493,30.2,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,175,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+494,30.3,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,176,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+495,30.4,1,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,177,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+496,30.5,1,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,178,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+497,30.6,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,178,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+498,30.7,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,178,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+499,31.1,0,TM Dilshan,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,178,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+500,31.2,4,TM Dilshan,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,182,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+501,31.3,1,TM Dilshan,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+502,31.4,0,TM Dilshan,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+503,31.5,0,TM Dilshan,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,183,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+504,31.6,1,TM Dilshan,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,184,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+505,32.1,1,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,185,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+506,32.2,3,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,188,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+507,32.3,2,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,190,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+508,32.4,0,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,190,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+509,32.5,1,MF Maharoof,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,191,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+510,32.6,4,MF Maharoof,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,195,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+511,33.1,1,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,196,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+512,33.2,0,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,196,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+513,33.3,1,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,197,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+514,33.4,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,197,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+515,33.5,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,197,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+516,33.6,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,197,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+517,34.1,1,RAS Lakmal,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,198,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+518,34.2,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,198,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+519,34.3,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,198,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+520,34.4,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,198,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+521,34.5,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,199,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+522,34.6,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,199,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+523,34.7,0,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,199,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+524,35.1,1,TM Dilshan,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,200,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+525,35.2,0,TM Dilshan,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,200,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+526,35.3,1,TM Dilshan,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,201,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+527,35.4,1,TM Dilshan,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,202,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+528,35.5,1,TM Dilshan,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,203,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+529,35.6,2,TM Dilshan,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,205,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+530,36.1,1,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,206,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+531,36.2,0,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,206,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+532,36.3,0,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,206,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+533,36.4,1,SL Malinga,2012-03-20,2nd,Nasir Hossain,0,,Mahmudullah,0,Bangladesh,Sri Lanka,207,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+534,36.5,0,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,207,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+535,36.6,1,SL Malinga,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,208,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+536,37.1,4,RAS Lakmal,2012-03-20,2nd,Mahmudullah,0,,Nasir Hossain,0,Bangladesh,Sri Lanka,212,Bangladesh,Shere Bangla National Stadium,5,Bangladesh

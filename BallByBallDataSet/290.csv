@@ -1,0 +1,567 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,0,Pakistan,India,0,Pakistan,National Stadium,0,India
+1,0.2,0,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,0,Pakistan,India,0,Pakistan,National Stadium,0,India
+2,0.3,0,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,0,Pakistan,India,0,Pakistan,National Stadium,0,India
+3,0.4,0,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,0,Pakistan,India,0,Pakistan,National Stadium,0,India
+4,0.5,4,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,4,Pakistan,India,4,Pakistan,National Stadium,0,India
+5,0.6,0,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,4,Pakistan,India,4,Pakistan,National Stadium,0,India
+6,1.1,0,RP Singh,2008-06-26,1st,Salman Butt,4,,Shoaib Malik,0,Pakistan,India,4,Pakistan,National Stadium,0,India
+7,1.2,0,RP Singh,2008-06-26,1st,Salman Butt,4,,Shoaib Malik,0,Pakistan,India,4,Pakistan,National Stadium,0,India
+8,1.3,0,RP Singh,2008-06-26,1st,Salman Butt,4,,Shoaib Malik,0,Pakistan,India,4,Pakistan,National Stadium,0,India
+9,1.4,0,RP Singh,2008-06-26,1st,Salman Butt,4,,Shoaib Malik,0,Pakistan,India,4,Pakistan,National Stadium,0,India
+10,1.5,0,RP Singh,2008-06-26,1st,Salman Butt,4,,Shoaib Malik,0,Pakistan,India,4,Pakistan,National Stadium,0,India
+11,1.6,0,RP Singh,2008-06-26,1st,Salman Butt,4,,Shoaib Malik,0,Pakistan,India,4,Pakistan,National Stadium,0,India
+12,2.1,0,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,4,Pakistan,India,4,Pakistan,National Stadium,0,India
+13,2.2,1,P Kumar,2008-06-26,1st,Shoaib Malik,0,,Salman Butt,5,Pakistan,India,5,Pakistan,National Stadium,0,India
+14,2.3,0,P Kumar,2008-06-26,1st,Salman Butt,5,,Shoaib Malik,0,Pakistan,India,5,Pakistan,National Stadium,0,India
+15,2.4,1,P Kumar,2008-06-26,1st,Salman Butt,5,,Shoaib Malik,1,Pakistan,India,6,Pakistan,National Stadium,0,India
+16,2.5,0,P Kumar,2008-06-26,1st,Shoaib Malik,1,,Salman Butt,5,Pakistan,India,6,Pakistan,National Stadium,0,India
+17,2.6,0,P Kumar,2008-06-26,1st,Shoaib Malik,1,,Salman Butt,5,Pakistan,India,6,Pakistan,National Stadium,0,India
+18,3.1,0,RP Singh,2008-06-26,1st,Salman Butt,5,,Shoaib Malik,1,Pakistan,India,6,Pakistan,National Stadium,0,India
+19,3.2,1,RP Singh,2008-06-26,1st,Salman Butt,5,,Shoaib Malik,2,Pakistan,India,7,Pakistan,National Stadium,0,India
+20,3.3,1,RP Singh,2008-06-26,1st,Shoaib Malik,2,,Salman Butt,6,Pakistan,India,8,Pakistan,National Stadium,0,India
+21,3.4,4,RP Singh,2008-06-26,1st,Salman Butt,6,,Shoaib Malik,6,Pakistan,India,12,Pakistan,National Stadium,0,India
+22,3.5,0,RP Singh,2008-06-26,1st,Salman Butt,6,,Shoaib Malik,6,Pakistan,India,12,Pakistan,National Stadium,0,India
+23,3.6,0,RP Singh,2008-06-26,1st,Salman Butt,6,,Shoaib Malik,6,Pakistan,India,12,Pakistan,National Stadium,0,India
+24,4.1,0,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,6,Pakistan,India,12,Pakistan,National Stadium,0,India
+25,4.2,1,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,7,Pakistan,India,13,Pakistan,National Stadium,0,India
+26,4.3,0,P Kumar,2008-06-26,1st,Salman Butt,7,,Shoaib Malik,6,Pakistan,India,13,Pakistan,National Stadium,0,India
+27,4.4,0,P Kumar,2008-06-26,1st,Salman Butt,7,,Shoaib Malik,6,Pakistan,India,13,Pakistan,National Stadium,0,India
+28,4.5,0,P Kumar,2008-06-26,1st,Salman Butt,7,,Shoaib Malik,6,Pakistan,India,13,Pakistan,National Stadium,0,India
+29,4.6,0,P Kumar,2008-06-26,1st,Salman Butt,7,,Shoaib Malik,6,Pakistan,India,13,Pakistan,National Stadium,0,India
+30,5.1,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,7,Pakistan,India,13,Pakistan,National Stadium,0,India
+31,5.2,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,7,Pakistan,India,13,Pakistan,National Stadium,0,India
+32,5.3,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,7,Pakistan,India,13,Pakistan,National Stadium,0,India
+33,5.4,1,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,8,Pakistan,India,14,Pakistan,National Stadium,0,India
+34,5.5,0,RP Singh,2008-06-26,1st,Salman Butt,8,,Shoaib Malik,6,Pakistan,India,14,Pakistan,National Stadium,0,India
+35,5.6,0,RP Singh,2008-06-26,1st,Salman Butt,8,,Shoaib Malik,6,Pakistan,India,14,Pakistan,National Stadium,0,India
+36,6.1,0,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,8,Pakistan,India,14,Pakistan,National Stadium,0,India
+37,6.2,0,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,8,Pakistan,India,14,Pakistan,National Stadium,0,India
+38,6.3,0,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,8,Pakistan,India,14,Pakistan,National Stadium,0,India
+39,6.4,0,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,8,Pakistan,India,14,Pakistan,National Stadium,0,India
+40,6.5,0,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,8,Pakistan,India,14,Pakistan,National Stadium,0,India
+41,6.6,1,P Kumar,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,9,Pakistan,India,15,Pakistan,National Stadium,0,India
+42,7.1,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,9,Pakistan,India,15,Pakistan,National Stadium,0,India
+43,7.2,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,9,Pakistan,India,15,Pakistan,National Stadium,0,India
+44,7.3,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,9,Pakistan,India,15,Pakistan,National Stadium,0,India
+45,7.4,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,9,Pakistan,India,15,Pakistan,National Stadium,0,India
+46,7.5,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,9,Pakistan,India,15,Pakistan,National Stadium,0,India
+47,7.6,0,RP Singh,2008-06-26,1st,Shoaib Malik,6,,Salman Butt,9,Pakistan,India,15,Pakistan,National Stadium,0,India
+48,8.1,1,I Sharma,2008-06-26,1st,Salman Butt,9,,Shoaib Malik,7,Pakistan,India,16,Pakistan,National Stadium,0,India
+49,8.2,4,I Sharma,2008-06-26,1st,Shoaib Malik,7,,Salman Butt,13,Pakistan,India,20,Pakistan,National Stadium,0,India
+50,8.3,0,I Sharma,2008-06-26,1st,Shoaib Malik,7,,Salman Butt,13,Pakistan,India,20,Pakistan,National Stadium,0,India
+51,8.4,0,I Sharma,2008-06-26,1st,Shoaib Malik,7,,Salman Butt,13,Pakistan,India,20,Pakistan,National Stadium,0,India
+52,8.5,0,I Sharma,2008-06-26,1st,Shoaib Malik,7,,Salman Butt,13,Pakistan,India,20,Pakistan,National Stadium,0,India
+53,8.6,0,I Sharma,2008-06-26,1st,Shoaib Malik,7,,Salman Butt,13,Pakistan,India,20,Pakistan,National Stadium,0,India
+54,9.1,1,RP Singh,2008-06-26,1st,Salman Butt,13,,Shoaib Malik,8,Pakistan,India,21,Pakistan,National Stadium,0,India
+55,9.2,4,RP Singh,2008-06-26,1st,Shoaib Malik,8,,Salman Butt,17,Pakistan,India,25,Pakistan,National Stadium,0,India
+56,9.3,1,RP Singh,2008-06-26,1st,Shoaib Malik,8,,Salman Butt,18,Pakistan,India,26,Pakistan,National Stadium,0,India
+57,9.4,0,RP Singh,2008-06-26,1st,Salman Butt,18,,Shoaib Malik,8,Pakistan,India,26,Pakistan,National Stadium,0,India
+58,9.5,0,RP Singh,2008-06-26,1st,Salman Butt,18,,Shoaib Malik,8,Pakistan,India,26,Pakistan,National Stadium,0,India
+59,9.6,0,RP Singh,2008-06-26,1st,Salman Butt,18,,Shoaib Malik,8,Pakistan,India,26,Pakistan,National Stadium,0,India
+60,10.1,1,I Sharma,2008-06-26,1st,Shoaib Malik,8,,Salman Butt,19,Pakistan,India,27,Pakistan,National Stadium,0,India
+61,10.2,0,I Sharma,2008-06-26,1st,Salman Butt,19,,Shoaib Malik,8,Pakistan,India,27,Pakistan,National Stadium,0,India
+62,10.3,1,I Sharma,2008-06-26,1st,Salman Butt,19,,Shoaib Malik,9,Pakistan,India,28,Pakistan,National Stadium,0,India
+63,10.4,0,I Sharma,2008-06-26,1st,Shoaib Malik,9,,Salman Butt,19,Pakistan,India,29,Pakistan,National Stadium,0,India
+64,10.5,0,I Sharma,2008-06-26,1st,Salman Butt,19,,Shoaib Malik,9,Pakistan,India,30,Pakistan,National Stadium,0,India
+65,10.6,0,I Sharma,2008-06-26,1st,Salman Butt,19,,Shoaib Malik,9,Pakistan,India,30,Pakistan,National Stadium,0,India
+66,10.7,2,I Sharma,2008-06-26,1st,Salman Butt,19,,Shoaib Malik,11,Pakistan,India,32,Pakistan,National Stadium,0,India
+67,11.1,1,RP Singh,2008-06-26,1st,Shoaib Malik,11,,Salman Butt,20,Pakistan,India,33,Pakistan,National Stadium,0,India
+68,11.2,0,RP Singh,2008-06-26,1st,Salman Butt,20,,Shoaib Malik,11,Pakistan,India,33,Pakistan,National Stadium,0,India
+69,11.3,1,RP Singh,2008-06-26,1st,Salman Butt,20,,Shoaib Malik,12,Pakistan,India,34,Pakistan,National Stadium,0,India
+70,11.4,1,RP Singh,2008-06-26,1st,Shoaib Malik,12,,Salman Butt,21,Pakistan,India,35,Pakistan,National Stadium,0,India
+71,11.5,1,RP Singh,2008-06-26,1st,Salman Butt,21,,Shoaib Malik,13,Pakistan,India,36,Pakistan,National Stadium,0,India
+72,11.6,1,RP Singh,2008-06-26,1st,Shoaib Malik,13,,Salman Butt,22,Pakistan,India,37,Pakistan,National Stadium,0,India
+73,12.1,0,I Sharma,2008-06-26,1st,Shoaib Malik,13,,Salman Butt,22,Pakistan,India,37,Pakistan,National Stadium,0,India
+74,12.2,0,I Sharma,2008-06-26,1st,Shoaib Malik,13,,Salman Butt,22,Pakistan,India,37,Pakistan,National Stadium,0,India
+75,12.3,0,I Sharma,2008-06-26,1st,Shoaib Malik,13,,Salman Butt,22,Pakistan,India,37,Pakistan,National Stadium,0,India
+76,12.4,0,I Sharma,2008-06-26,1st,Shoaib Malik,13,,Salman Butt,22,Pakistan,India,37,Pakistan,National Stadium,0,India
+77,12.5,1,I Sharma,2008-06-26,1st,Shoaib Malik,13,,Salman Butt,23,Pakistan,India,38,Pakistan,National Stadium,0,India
+78,12.6,0,I Sharma,2008-06-26,1st,Salman Butt,23,,Shoaib Malik,13,Pakistan,India,38,Pakistan,National Stadium,0,India
+79,13.1,1,P Kumar,2008-06-26,1st,Shoaib Malik,13,,Salman Butt,24,Pakistan,India,39,Pakistan,National Stadium,0,India
+80,13.2,4,P Kumar,2008-06-26,1st,Salman Butt,24,,Shoaib Malik,17,Pakistan,India,43,Pakistan,National Stadium,0,India
+81,13.3,0,P Kumar,2008-06-26,1st,Salman Butt,24,,Shoaib Malik,17,Pakistan,India,43,Pakistan,National Stadium,0,India
+82,13.4,0,P Kumar,2008-06-26,1st,Salman Butt,24,,Shoaib Malik,17,Pakistan,India,43,Pakistan,National Stadium,0,India
+83,13.5,0,P Kumar,2008-06-26,1st,Salman Butt,24,,Shoaib Malik,17,Pakistan,India,43,Pakistan,National Stadium,0,India
+84,13.6,4,P Kumar,2008-06-26,1st,Salman Butt,24,,Shoaib Malik,21,Pakistan,India,47,Pakistan,National Stadium,0,India
+85,14.1,1,I Sharma,2008-06-26,1st,Shoaib Malik,21,,Salman Butt,25,Pakistan,India,48,Pakistan,National Stadium,0,India
+86,14.2,0,I Sharma,2008-06-26,1st,Salman Butt,25,,Shoaib Malik,21,Pakistan,India,48,Pakistan,National Stadium,0,India
+87,14.3,1,I Sharma,2008-06-26,1st,Salman Butt,25,,Shoaib Malik,22,Pakistan,India,49,Pakistan,National Stadium,0,India
+88,14.4,1,I Sharma,2008-06-26,1st,Shoaib Malik,22,,Salman Butt,26,Pakistan,India,50,Pakistan,National Stadium,0,India
+89,14.5,4,I Sharma,2008-06-26,1st,Salman Butt,26,,Shoaib Malik,26,Pakistan,India,54,Pakistan,National Stadium,0,India
+90,14.6,4,I Sharma,2008-06-26,1st,Salman Butt,26,,Shoaib Malik,30,Pakistan,India,58,Pakistan,National Stadium,0,India
+91,15.1,1,P Kumar,2008-06-26,1st,Shoaib Malik,30,,Salman Butt,27,Pakistan,India,59,Pakistan,National Stadium,0,India
+92,15.2,0,P Kumar,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,30,Pakistan,India,59,Pakistan,National Stadium,0,India
+93,15.3,2,P Kumar,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,32,Pakistan,India,61,Pakistan,National Stadium,0,India
+94,15.4,4,P Kumar,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,36,Pakistan,India,65,Pakistan,National Stadium,0,India
+95,15.5,1,P Kumar,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,37,Pakistan,India,66,Pakistan,National Stadium,0,India
+96,15.6,0,P Kumar,2008-06-26,1st,Shoaib Malik,37,,Salman Butt,27,Pakistan,India,66,Pakistan,National Stadium,0,India
+97,16.1,0,I Sharma,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,37,Pakistan,India,66,Pakistan,National Stadium,0,India
+98,16.2,0,I Sharma,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,37,Pakistan,India,66,Pakistan,National Stadium,0,India
+99,16.3,0,I Sharma,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,37,Pakistan,India,66,Pakistan,National Stadium,0,India
+100,16.4,0,I Sharma,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,37,Pakistan,India,66,Pakistan,National Stadium,0,India
+101,16.5,4,I Sharma,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,41,Pakistan,India,70,Pakistan,National Stadium,0,India
+102,16.6,0,I Sharma,2008-06-26,1st,Salman Butt,27,,Shoaib Malik,41,Pakistan,India,70,Pakistan,National Stadium,0,India
+103,17.1,1,P Kumar,2008-06-26,1st,Shoaib Malik,41,,Salman Butt,28,Pakistan,India,71,Pakistan,National Stadium,0,India
+104,17.2,0,P Kumar,2008-06-26,1st,Salman Butt,28,,Shoaib Malik,41,Pakistan,India,71,Pakistan,National Stadium,0,India
+105,17.3,1,P Kumar,2008-06-26,1st,Salman Butt,28,,Shoaib Malik,42,Pakistan,India,72,Pakistan,National Stadium,0,India
+106,17.4,0,P Kumar,2008-06-26,1st,Shoaib Malik,42,,Salman Butt,28,Pakistan,India,72,Pakistan,National Stadium,0,India
+107,17.5,0,P Kumar,2008-06-26,1st,Shoaib Malik,42,,Salman Butt,28,Pakistan,India,72,Pakistan,National Stadium,0,India
+108,17.6,0,P Kumar,2008-06-26,1st,Shoaib Malik,42,,Salman Butt,28,Pakistan,India,72,Pakistan,National Stadium,0,India
+109,18.1,0,I Sharma,2008-06-26,1st,Salman Butt,28,,Shoaib Malik,42,Pakistan,India,72,Pakistan,National Stadium,0,India
+110,18.2,0,I Sharma,2008-06-26,1st,Salman Butt,28,,Shoaib Malik,42,Pakistan,India,72,Pakistan,National Stadium,0,India
+111,18.3,1,I Sharma,2008-06-26,1st,Salman Butt,28,,Shoaib Malik,43,Pakistan,India,73,Pakistan,National Stadium,0,India
+112,18.4,0,I Sharma,2008-06-26,1st,Shoaib Malik,43,,Salman Butt,28,Pakistan,India,73,Pakistan,National Stadium,0,India
+113,18.5,4,I Sharma,2008-06-26,1st,Shoaib Malik,43,,Salman Butt,32,Pakistan,India,77,Pakistan,National Stadium,0,India
+114,18.6,1,I Sharma,2008-06-26,1st,Shoaib Malik,43,,Salman Butt,33,Pakistan,India,78,Pakistan,National Stadium,0,India
+115,19.1,1,PP Chawla,2008-06-26,1st,Shoaib Malik,43,,Salman Butt,34,Pakistan,India,79,Pakistan,National Stadium,0,India
+116,19.2,0,PP Chawla,2008-06-26,1st,Salman Butt,34,,Shoaib Malik,43,Pakistan,India,79,Pakistan,National Stadium,0,India
+117,19.3,4,PP Chawla,2008-06-26,1st,Salman Butt,34,,Shoaib Malik,47,Pakistan,India,83,Pakistan,National Stadium,0,India
+118,19.4,0,PP Chawla,2008-06-26,1st,Salman Butt,34,,Shoaib Malik,47,Pakistan,India,83,Pakistan,National Stadium,0,India
+119,19.5,0,PP Chawla,2008-06-26,1st,Salman Butt,34,,Shoaib Malik,47,Pakistan,India,83,Pakistan,National Stadium,0,India
+120,19.6,4,PP Chawla,2008-06-26,1st,Salman Butt,34,,Shoaib Malik,51,Pakistan,India,87,Pakistan,National Stadium,0,India
+121,20.1,0,YK Pathan,2008-06-26,1st,Shoaib Malik,51,,Salman Butt,34,Pakistan,India,87,Pakistan,National Stadium,0,India
+122,20.2,1,YK Pathan,2008-06-26,1st,Shoaib Malik,51,,Salman Butt,35,Pakistan,India,88,Pakistan,National Stadium,0,India
+123,20.3,0,YK Pathan,2008-06-26,1st,Salman Butt,35,,Shoaib Malik,51,Pakistan,India,88,Pakistan,National Stadium,0,India
+124,20.4,1,YK Pathan,2008-06-26,1st,Salman Butt,35,,Shoaib Malik,52,Pakistan,India,89,Pakistan,National Stadium,0,India
+125,20.5,0,YK Pathan,2008-06-26,1st,Shoaib Malik,52,,Salman Butt,35,Pakistan,India,89,Pakistan,National Stadium,0,India
+126,20.6,0,YK Pathan,2008-06-26,1st,Shoaib Malik,52,,Salman Butt,35,Pakistan,India,89,Pakistan,National Stadium,0,India
+127,21.1,0,PP Chawla,2008-06-26,1st,Salman Butt,35,,Shoaib Malik,52,Pakistan,India,89,Pakistan,National Stadium,0,India
+128,21.2,0,PP Chawla,2008-06-26,1st,Salman Butt,35,,Shoaib Malik,52,Pakistan,India,89,Pakistan,National Stadium,0,India
+129,21.3,1,PP Chawla,2008-06-26,1st,Salman Butt,35,,Shoaib Malik,53,Pakistan,India,90,Pakistan,National Stadium,0,India
+130,21.4,0,PP Chawla,2008-06-26,1st,Shoaib Malik,53,Salman Butt,Salman Butt,35,Pakistan,India,90,Pakistan,National Stadium,1,India
+131,21.5,0,PP Chawla,2008-06-26,1st,Shoaib Malik,53,,Younis Khan,0,Pakistan,India,90,Pakistan,National Stadium,1,India
+132,21.6,0,PP Chawla,2008-06-26,1st,Shoaib Malik,53,,Younis Khan,0,Pakistan,India,90,Pakistan,National Stadium,1,India
+133,22.1,1,YK Pathan,2008-06-26,1st,Younis Khan,0,,Shoaib Malik,54,Pakistan,India,91,Pakistan,National Stadium,1,India
+134,22.2,0,YK Pathan,2008-06-26,1st,Shoaib Malik,54,,Younis Khan,0,Pakistan,India,91,Pakistan,National Stadium,1,India
+135,22.3,0,YK Pathan,2008-06-26,1st,Shoaib Malik,54,,Younis Khan,0,Pakistan,India,91,Pakistan,National Stadium,1,India
+136,22.4,0,YK Pathan,2008-06-26,1st,Shoaib Malik,54,,Younis Khan,0,Pakistan,India,91,Pakistan,National Stadium,1,India
+137,22.5,0,YK Pathan,2008-06-26,1st,Shoaib Malik,54,,Younis Khan,0,Pakistan,India,91,Pakistan,National Stadium,1,India
+138,22.6,1,YK Pathan,2008-06-26,1st,Shoaib Malik,54,,Younis Khan,1,Pakistan,India,92,Pakistan,National Stadium,1,India
+139,23.1,0,PP Chawla,2008-06-26,1st,Shoaib Malik,54,,Younis Khan,1,Pakistan,India,92,Pakistan,National Stadium,1,India
+140,23.2,1,PP Chawla,2008-06-26,1st,Shoaib Malik,54,,Younis Khan,2,Pakistan,India,93,Pakistan,National Stadium,1,India
+141,23.3,1,PP Chawla,2008-06-26,1st,Younis Khan,2,,Shoaib Malik,55,Pakistan,India,94,Pakistan,National Stadium,1,India
+142,23.4,4,PP Chawla,2008-06-26,1st,Shoaib Malik,55,,Younis Khan,6,Pakistan,India,98,Pakistan,National Stadium,1,India
+143,23.5,0,PP Chawla,2008-06-26,1st,Shoaib Malik,55,,Younis Khan,6,Pakistan,India,98,Pakistan,National Stadium,1,India
+144,23.6,1,PP Chawla,2008-06-26,1st,Shoaib Malik,55,,Younis Khan,7,Pakistan,India,99,Pakistan,National Stadium,1,India
+145,24.1,1,YK Pathan,2008-06-26,1st,Shoaib Malik,55,,Younis Khan,8,Pakistan,India,100,Pakistan,National Stadium,1,India
+146,24.2,1,YK Pathan,2008-06-26,1st,Younis Khan,8,,Shoaib Malik,56,Pakistan,India,101,Pakistan,National Stadium,1,India
+147,24.3,1,YK Pathan,2008-06-26,1st,Shoaib Malik,56,,Younis Khan,9,Pakistan,India,102,Pakistan,National Stadium,1,India
+148,24.4,0,YK Pathan,2008-06-26,1st,Younis Khan,9,,Shoaib Malik,56,Pakistan,India,102,Pakistan,National Stadium,1,India
+149,24.5,6,YK Pathan,2008-06-26,1st,Younis Khan,9,,Shoaib Malik,62,Pakistan,India,108,Pakistan,National Stadium,1,India
+150,24.6,2,YK Pathan,2008-06-26,1st,Younis Khan,9,,Shoaib Malik,64,Pakistan,India,110,Pakistan,National Stadium,1,India
+151,25.1,4,PP Chawla,2008-06-26,1st,Shoaib Malik,64,,Younis Khan,13,Pakistan,India,114,Pakistan,National Stadium,1,India
+152,25.2,0,PP Chawla,2008-06-26,1st,Shoaib Malik,64,,Younis Khan,13,Pakistan,India,114,Pakistan,National Stadium,1,India
+153,25.3,1,PP Chawla,2008-06-26,1st,Shoaib Malik,64,,Younis Khan,14,Pakistan,India,115,Pakistan,National Stadium,1,India
+154,25.4,4,PP Chawla,2008-06-26,1st,Younis Khan,14,,Shoaib Malik,68,Pakistan,India,119,Pakistan,National Stadium,1,India
+155,25.5,1,PP Chawla,2008-06-26,1st,Younis Khan,14,,Shoaib Malik,69,Pakistan,India,120,Pakistan,National Stadium,1,India
+156,25.6,1,PP Chawla,2008-06-26,1st,Shoaib Malik,69,,Younis Khan,15,Pakistan,India,121,Pakistan,National Stadium,1,India
+157,26.1,0,YK Pathan,2008-06-26,1st,Shoaib Malik,69,,Younis Khan,15,Pakistan,India,121,Pakistan,National Stadium,1,India
+158,26.2,0,YK Pathan,2008-06-26,1st,Shoaib Malik,69,,Younis Khan,15,Pakistan,India,121,Pakistan,National Stadium,1,India
+159,26.3,1,YK Pathan,2008-06-26,1st,Shoaib Malik,69,,Younis Khan,16,Pakistan,India,122,Pakistan,National Stadium,1,India
+160,26.4,1,YK Pathan,2008-06-26,1st,Younis Khan,16,,Shoaib Malik,70,Pakistan,India,123,Pakistan,National Stadium,1,India
+161,26.5,0,YK Pathan,2008-06-26,1st,Shoaib Malik,70,,Younis Khan,16,Pakistan,India,123,Pakistan,National Stadium,1,India
+162,26.6,1,YK Pathan,2008-06-26,1st,Shoaib Malik,70,,Younis Khan,17,Pakistan,India,124,Pakistan,National Stadium,1,India
+163,27.1,1,PP Chawla,2008-06-26,1st,Shoaib Malik,70,,Younis Khan,18,Pakistan,India,125,Pakistan,National Stadium,1,India
+164,27.2,0,PP Chawla,2008-06-26,1st,Younis Khan,18,,Shoaib Malik,70,Pakistan,India,125,Pakistan,National Stadium,1,India
+165,27.3,4,PP Chawla,2008-06-26,1st,Younis Khan,18,,Shoaib Malik,74,Pakistan,India,129,Pakistan,National Stadium,1,India
+166,27.4,0,PP Chawla,2008-06-26,1st,Younis Khan,18,,Shoaib Malik,74,Pakistan,India,129,Pakistan,National Stadium,1,India
+167,27.5,0,PP Chawla,2008-06-26,1st,Younis Khan,18,,Shoaib Malik,74,Pakistan,India,129,Pakistan,National Stadium,1,India
+168,27.6,1,PP Chawla,2008-06-26,1st,Younis Khan,18,,Shoaib Malik,75,Pakistan,India,130,Pakistan,National Stadium,1,India
+169,28.1,0,YK Pathan,2008-06-26,1st,Younis Khan,18,,Shoaib Malik,75,Pakistan,India,130,Pakistan,National Stadium,1,India
+170,28.2,1,YK Pathan,2008-06-26,1st,Younis Khan,18,,Shoaib Malik,76,Pakistan,India,131,Pakistan,National Stadium,1,India
+171,28.3,1,YK Pathan,2008-06-26,1st,Shoaib Malik,76,,Younis Khan,19,Pakistan,India,132,Pakistan,National Stadium,1,India
+172,28.4,1,YK Pathan,2008-06-26,1st,Younis Khan,19,,Shoaib Malik,77,Pakistan,India,133,Pakistan,National Stadium,1,India
+173,28.5,3,YK Pathan,2008-06-26,1st,Shoaib Malik,77,,Younis Khan,22,Pakistan,India,136,Pakistan,National Stadium,1,India
+174,28.6,1,YK Pathan,2008-06-26,1st,Younis Khan,22,,Shoaib Malik,78,Pakistan,India,137,Pakistan,National Stadium,1,India
+175,29.1,4,Yuvraj Singh,2008-06-26,1st,Younis Khan,22,,Shoaib Malik,82,Pakistan,India,141,Pakistan,National Stadium,1,India
+176,29.2,3,Yuvraj Singh,2008-06-26,1st,Younis Khan,22,,Shoaib Malik,85,Pakistan,India,144,Pakistan,National Stadium,1,India
+177,29.3,1,Yuvraj Singh,2008-06-26,1st,Shoaib Malik,85,,Younis Khan,23,Pakistan,India,145,Pakistan,National Stadium,1,India
+178,29.4,0,Yuvraj Singh,2008-06-26,1st,Younis Khan,23,,Shoaib Malik,85,Pakistan,India,145,Pakistan,National Stadium,1,India
+179,29.5,1,Yuvraj Singh,2008-06-26,1st,Younis Khan,23,,Shoaib Malik,86,Pakistan,India,146,Pakistan,National Stadium,1,India
+180,29.6,1,Yuvraj Singh,2008-06-26,1st,Shoaib Malik,86,,Younis Khan,24,Pakistan,India,147,Pakistan,National Stadium,1,India
+181,30.1,4,YK Pathan,2008-06-26,1st,Shoaib Malik,86,,Younis Khan,28,Pakistan,India,151,Pakistan,National Stadium,1,India
+182,30.2,0,YK Pathan,2008-06-26,1st,Shoaib Malik,86,,Younis Khan,28,Pakistan,India,151,Pakistan,National Stadium,1,India
+183,30.3,0,YK Pathan,2008-06-26,1st,Shoaib Malik,86,,Younis Khan,28,Pakistan,India,151,Pakistan,National Stadium,1,India
+184,30.4,1,YK Pathan,2008-06-26,1st,Shoaib Malik,86,,Younis Khan,29,Pakistan,India,152,Pakistan,National Stadium,1,India
+185,30.5,1,YK Pathan,2008-06-26,1st,Younis Khan,29,,Shoaib Malik,87,Pakistan,India,153,Pakistan,National Stadium,1,India
+186,30.6,0,YK Pathan,2008-06-26,1st,Shoaib Malik,87,,Younis Khan,29,Pakistan,India,153,Pakistan,National Stadium,1,India
+187,31.1,1,Yuvraj Singh,2008-06-26,1st,Younis Khan,29,,Shoaib Malik,88,Pakistan,India,154,Pakistan,National Stadium,1,India
+188,31.2,1,Yuvraj Singh,2008-06-26,1st,Shoaib Malik,88,,Younis Khan,30,Pakistan,India,155,Pakistan,National Stadium,1,India
+189,31.3,0,Yuvraj Singh,2008-06-26,1st,Younis Khan,30,,Shoaib Malik,88,Pakistan,India,155,Pakistan,National Stadium,1,India
+190,31.4,1,Yuvraj Singh,2008-06-26,1st,Younis Khan,30,,Shoaib Malik,89,Pakistan,India,156,Pakistan,National Stadium,1,India
+191,31.5,1,Yuvraj Singh,2008-06-26,1st,Shoaib Malik,89,,Younis Khan,31,Pakistan,India,157,Pakistan,National Stadium,1,India
+192,31.6,0,Yuvraj Singh,2008-06-26,1st,Younis Khan,31,,Shoaib Malik,89,Pakistan,India,157,Pakistan,National Stadium,1,India
+193,32.1,4,YK Pathan,2008-06-26,1st,Shoaib Malik,89,,Younis Khan,35,Pakistan,India,161,Pakistan,National Stadium,1,India
+194,32.2,1,YK Pathan,2008-06-26,1st,Shoaib Malik,89,,Younis Khan,36,Pakistan,India,162,Pakistan,National Stadium,1,India
+195,32.3,1,YK Pathan,2008-06-26,1st,Younis Khan,36,,Shoaib Malik,90,Pakistan,India,163,Pakistan,National Stadium,1,India
+196,32.4,1,YK Pathan,2008-06-26,1st,Shoaib Malik,90,,Younis Khan,37,Pakistan,India,164,Pakistan,National Stadium,1,India
+197,32.5,0,YK Pathan,2008-06-26,1st,Younis Khan,37,,Shoaib Malik,90,Pakistan,India,164,Pakistan,National Stadium,1,India
+198,32.6,1,YK Pathan,2008-06-26,1st,Younis Khan,37,,Shoaib Malik,91,Pakistan,India,165,Pakistan,National Stadium,1,India
+199,33.1,1,Yuvraj Singh,2008-06-26,1st,Younis Khan,37,,Shoaib Malik,92,Pakistan,India,166,Pakistan,National Stadium,1,India
+200,33.2,1,Yuvraj Singh,2008-06-26,1st,Shoaib Malik,92,,Younis Khan,38,Pakistan,India,167,Pakistan,National Stadium,1,India
+201,33.3,1,Yuvraj Singh,2008-06-26,1st,Younis Khan,38,,Shoaib Malik,93,Pakistan,India,168,Pakistan,National Stadium,1,India
+202,33.4,1,Yuvraj Singh,2008-06-26,1st,Shoaib Malik,93,,Younis Khan,39,Pakistan,India,169,Pakistan,National Stadium,1,India
+203,33.5,1,Yuvraj Singh,2008-06-26,1st,Younis Khan,39,,Shoaib Malik,94,Pakistan,India,170,Pakistan,National Stadium,1,India
+204,33.6,2,Yuvraj Singh,2008-06-26,1st,Shoaib Malik,94,,Younis Khan,41,Pakistan,India,172,Pakistan,National Stadium,1,India
+205,34.1,0,PP Chawla,2008-06-26,1st,Younis Khan,41,,Shoaib Malik,94,Pakistan,India,172,Pakistan,National Stadium,1,India
+206,34.2,0,PP Chawla,2008-06-26,1st,Younis Khan,41,,Shoaib Malik,94,Pakistan,India,172,Pakistan,National Stadium,1,India
+207,34.3,4,PP Chawla,2008-06-26,1st,Younis Khan,41,,Shoaib Malik,98,Pakistan,India,176,Pakistan,National Stadium,1,India
+208,34.4,1,PP Chawla,2008-06-26,1st,Younis Khan,41,,Shoaib Malik,99,Pakistan,India,177,Pakistan,National Stadium,1,India
+209,34.5,2,PP Chawla,2008-06-26,1st,Shoaib Malik,99,,Younis Khan,43,Pakistan,India,179,Pakistan,National Stadium,1,India
+210,34.6,0,PP Chawla,2008-06-26,1st,Shoaib Malik,99,,Younis Khan,43,Pakistan,India,179,Pakistan,National Stadium,1,India
+211,35.1,1,I Sharma,2008-06-26,1st,Younis Khan,43,,Shoaib Malik,100,Pakistan,India,180,Pakistan,National Stadium,1,India
+212,35.2,0,I Sharma,2008-06-26,1st,Shoaib Malik,100,,Younis Khan,43,Pakistan,India,180,Pakistan,National Stadium,1,India
+213,35.3,0,I Sharma,2008-06-26,1st,Shoaib Malik,100,,Younis Khan,43,Pakistan,India,180,Pakistan,National Stadium,1,India
+214,35.4,1,I Sharma,2008-06-26,1st,Shoaib Malik,100,,Younis Khan,44,Pakistan,India,181,Pakistan,National Stadium,1,India
+215,35.5,1,I Sharma,2008-06-26,1st,Younis Khan,44,,Shoaib Malik,101,Pakistan,India,182,Pakistan,National Stadium,1,India
+216,35.6,1,I Sharma,2008-06-26,1st,Shoaib Malik,101,,Younis Khan,45,Pakistan,India,183,Pakistan,National Stadium,1,India
+217,36.1,1,PP Chawla,2008-06-26,1st,Shoaib Malik,101,,Younis Khan,46,Pakistan,India,184,Pakistan,National Stadium,1,India
+218,36.2,2,PP Chawla,2008-06-26,1st,Younis Khan,46,,Shoaib Malik,103,Pakistan,India,186,Pakistan,National Stadium,1,India
+219,36.3,4,PP Chawla,2008-06-26,1st,Younis Khan,46,,Shoaib Malik,107,Pakistan,India,190,Pakistan,National Stadium,1,India
+220,36.4,2,PP Chawla,2008-06-26,1st,Younis Khan,46,,Shoaib Malik,109,Pakistan,India,192,Pakistan,National Stadium,1,India
+221,36.5,1,PP Chawla,2008-06-26,1st,Younis Khan,46,,Shoaib Malik,110,Pakistan,India,193,Pakistan,National Stadium,1,India
+222,36.6,1,PP Chawla,2008-06-26,1st,Shoaib Malik,110,,Younis Khan,47,Pakistan,India,194,Pakistan,National Stadium,1,India
+223,37.1,1,I Sharma,2008-06-26,1st,Shoaib Malik,110,,Younis Khan,48,Pakistan,India,195,Pakistan,National Stadium,1,India
+224,37.2,1,I Sharma,2008-06-26,1st,Younis Khan,48,,Shoaib Malik,111,Pakistan,India,196,Pakistan,National Stadium,1,India
+225,37.3,1,I Sharma,2008-06-26,1st,Shoaib Malik,111,,Younis Khan,49,Pakistan,India,197,Pakistan,National Stadium,1,India
+226,37.4,0,I Sharma,2008-06-26,1st,Younis Khan,49,,Shoaib Malik,111,Pakistan,India,197,Pakistan,National Stadium,1,India
+227,37.5,4,I Sharma,2008-06-26,1st,Younis Khan,49,,Shoaib Malik,115,Pakistan,India,201,Pakistan,National Stadium,1,India
+228,37.6,1,I Sharma,2008-06-26,1st,Younis Khan,49,,Shoaib Malik,116,Pakistan,India,202,Pakistan,National Stadium,1,India
+229,38.1,1,YK Pathan,2008-06-26,1st,Younis Khan,49,,Shoaib Malik,117,Pakistan,India,203,Pakistan,National Stadium,1,India
+230,38.2,0,YK Pathan,2008-06-26,1st,Shoaib Malik,117,,Younis Khan,49,Pakistan,India,203,Pakistan,National Stadium,1,India
+231,38.3,2,YK Pathan,2008-06-26,1st,Shoaib Malik,117,,Younis Khan,51,Pakistan,India,205,Pakistan,National Stadium,1,India
+232,38.4,1,YK Pathan,2008-06-26,1st,Shoaib Malik,117,,Younis Khan,52,Pakistan,India,206,Pakistan,National Stadium,1,India
+233,38.5,4,YK Pathan,2008-06-26,1st,Younis Khan,52,,Shoaib Malik,121,Pakistan,India,210,Pakistan,National Stadium,1,India
+234,38.6,1,YK Pathan,2008-06-26,1st,Younis Khan,52,,Shoaib Malik,122,Pakistan,India,211,Pakistan,National Stadium,1,India
+235,39.1,1,RP Singh,2008-06-26,1st,Younis Khan,52,,Shoaib Malik,123,Pakistan,India,212,Pakistan,National Stadium,1,India
+236,39.2,0,RP Singh,2008-06-26,1st,Shoaib Malik,123,,Younis Khan,52,Pakistan,India,212,Pakistan,National Stadium,1,India
+237,39.3,4,RP Singh,2008-06-26,1st,Shoaib Malik,123,,Younis Khan,56,Pakistan,India,216,Pakistan,National Stadium,1,India
+238,39.4,1,RP Singh,2008-06-26,1st,Shoaib Malik,123,,Younis Khan,57,Pakistan,India,217,Pakistan,National Stadium,1,India
+239,39.5,0,RP Singh,2008-06-26,1st,Younis Khan,57,,Shoaib Malik,123,Pakistan,India,217,Pakistan,National Stadium,1,India
+240,39.6,2,RP Singh,2008-06-26,1st,Younis Khan,57,Shoaib Malik,Shoaib Malik,125,Pakistan,India,219,Pakistan,National Stadium,2,India
+241,40.1,1,YK Pathan,2008-06-26,1st,Mohammad Yousuf,0,,Younis Khan,58,Pakistan,India,220,Pakistan,National Stadium,2,India
+242,40.2,1,YK Pathan,2008-06-26,1st,Younis Khan,58,,Mohammad Yousuf,1,Pakistan,India,221,Pakistan,National Stadium,2,India
+243,40.3,1,YK Pathan,2008-06-26,1st,Mohammad Yousuf,1,,Younis Khan,59,Pakistan,India,222,Pakistan,National Stadium,2,India
+244,40.4,0,YK Pathan,2008-06-26,1st,Younis Khan,59,,Mohammad Yousuf,1,Pakistan,India,222,Pakistan,National Stadium,2,India
+245,40.5,1,YK Pathan,2008-06-26,1st,Younis Khan,59,,Mohammad Yousuf,2,Pakistan,India,223,Pakistan,National Stadium,2,India
+246,40.6,0,YK Pathan,2008-06-26,1st,Mohammad Yousuf,2,Younis Khan,Younis Khan,59,Pakistan,India,223,Pakistan,National Stadium,3,India
+247,41.1,1,Yuvraj Singh,2008-06-26,1st,Mohammad Yousuf,2,,Misbah-ul-Haq,1,Pakistan,India,224,Pakistan,National Stadium,3,India
+248,41.2,0,Yuvraj Singh,2008-06-26,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,2,Pakistan,India,224,Pakistan,National Stadium,3,India
+249,41.3,0,Yuvraj Singh,2008-06-26,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,2,Pakistan,India,224,Pakistan,National Stadium,3,India
+250,41.4,1,Yuvraj Singh,2008-06-26,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,3,Pakistan,India,225,Pakistan,National Stadium,3,India
+251,41.5,0,Yuvraj Singh,2008-06-26,1st,Mohammad Yousuf,3,,Misbah-ul-Haq,1,Pakistan,India,225,Pakistan,National Stadium,3,India
+252,41.6,1,Yuvraj Singh,2008-06-26,1st,Mohammad Yousuf,3,,Misbah-ul-Haq,2,Pakistan,India,226,Pakistan,National Stadium,3,India
+253,42.1,1,RP Singh,2008-06-26,1st,Mohammad Yousuf,3,,Misbah-ul-Haq,3,Pakistan,India,227,Pakistan,National Stadium,3,India
+254,42.2,1,RP Singh,2008-06-26,1st,Misbah-ul-Haq,3,,Mohammad Yousuf,4,Pakistan,India,228,Pakistan,National Stadium,3,India
+255,42.3,1,RP Singh,2008-06-26,1st,Mohammad Yousuf,4,,Misbah-ul-Haq,4,Pakistan,India,229,Pakistan,National Stadium,3,India
+256,42.4,0,RP Singh,2008-06-26,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,4,Pakistan,India,229,Pakistan,National Stadium,3,India
+257,42.5,4,RP Singh,2008-06-26,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,8,Pakistan,India,233,Pakistan,National Stadium,3,India
+258,42.6,1,RP Singh,2008-06-26,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,9,Pakistan,India,234,Pakistan,National Stadium,3,India
+259,43.1,4,P Kumar,2008-06-26,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,13,Pakistan,India,238,Pakistan,National Stadium,3,India
+260,43.2,4,P Kumar,2008-06-26,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,17,Pakistan,India,242,Pakistan,National Stadium,3,India
+261,43.3,1,P Kumar,2008-06-26,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,18,Pakistan,India,243,Pakistan,National Stadium,3,India
+262,43.4,1,P Kumar,2008-06-26,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,5,Pakistan,India,244,Pakistan,National Stadium,3,India
+263,43.5,2,P Kumar,2008-06-26,1st,Misbah-ul-Haq,5,,Mohammad Yousuf,20,Pakistan,India,246,Pakistan,National Stadium,3,India
+264,43.6,1,P Kumar,2008-06-26,1st,Misbah-ul-Haq,5,,Mohammad Yousuf,21,Pakistan,India,247,Pakistan,National Stadium,3,India
+265,44.1,0,I Sharma,2008-06-26,1st,Misbah-ul-Haq,5,,Mohammad Yousuf,21,Pakistan,India,248,Pakistan,National Stadium,3,India
+266,44.2,4,I Sharma,2008-06-26,1st,Misbah-ul-Haq,5,,Mohammad Yousuf,25,Pakistan,India,252,Pakistan,National Stadium,3,India
+267,44.3,1,I Sharma,2008-06-26,1st,Misbah-ul-Haq,5,,Mohammad Yousuf,26,Pakistan,India,253,Pakistan,National Stadium,3,India
+268,44.4,2,I Sharma,2008-06-26,1st,Mohammad Yousuf,26,,Misbah-ul-Haq,7,Pakistan,India,255,Pakistan,National Stadium,3,India
+269,44.5,1,I Sharma,2008-06-26,1st,Mohammad Yousuf,26,,Misbah-ul-Haq,8,Pakistan,India,256,Pakistan,National Stadium,3,India
+270,44.6,0,I Sharma,2008-06-26,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,26,Pakistan,India,256,Pakistan,National Stadium,3,India
+271,44.7,4,I Sharma,2008-06-26,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,30,Pakistan,India,260,Pakistan,National Stadium,3,India
+272,45.1,0,P Kumar,2008-06-26,1st,Mohammad Yousuf,30,,Misbah-ul-Haq,8,Pakistan,India,260,Pakistan,National Stadium,3,India
+273,45.2,1,P Kumar,2008-06-26,1st,Mohammad Yousuf,30,,Misbah-ul-Haq,9,Pakistan,India,261,Pakistan,National Stadium,3,India
+274,45.3,0,P Kumar,2008-06-26,1st,Misbah-ul-Haq,9,Mohammad Yousuf,Mohammad Yousuf,30,Pakistan,India,261,Pakistan,National Stadium,4,India
+275,45.4,1,P Kumar,2008-06-26,1st,Shahid Afridi,0,,Misbah-ul-Haq,10,Pakistan,India,262,Pakistan,National Stadium,4,India
+276,45.5,2,P Kumar,2008-06-26,1st,Misbah-ul-Haq,10,,Shahid Afridi,2,Pakistan,India,264,Pakistan,National Stadium,4,India
+277,45.6,0,P Kumar,2008-06-26,1st,Misbah-ul-Haq,10,,Shahid Afridi,2,Pakistan,India,265,Pakistan,National Stadium,4,India
+278,45.7,2,P Kumar,2008-06-26,1st,Misbah-ul-Haq,10,,Shahid Afridi,4,Pakistan,India,267,Pakistan,National Stadium,4,India
+279,46.1,1,RP Singh,2008-06-26,1st,Shahid Afridi,4,,Misbah-ul-Haq,11,Pakistan,India,268,Pakistan,National Stadium,4,India
+280,46.2,1,RP Singh,2008-06-26,1st,Misbah-ul-Haq,11,,Shahid Afridi,5,Pakistan,India,269,Pakistan,National Stadium,4,India
+281,46.3,0,RP Singh,2008-06-26,1st,Shahid Afridi,5,,Misbah-ul-Haq,11,Pakistan,India,269,Pakistan,National Stadium,4,India
+282,46.4,0,RP Singh,2008-06-26,1st,Shahid Afridi,5,,Misbah-ul-Haq,11,Pakistan,India,270,Pakistan,National Stadium,4,India
+283,46.5,0,RP Singh,2008-06-26,1st,Misbah-ul-Haq,11,,Shahid Afridi,5,Pakistan,India,271,Pakistan,National Stadium,4,India
+284,46.6,1,RP Singh,2008-06-26,1st,Misbah-ul-Haq,11,,Shahid Afridi,6,Pakistan,India,272,Pakistan,National Stadium,4,India
+285,46.7,1,RP Singh,2008-06-26,1st,Shahid Afridi,6,,Misbah-ul-Haq,12,Pakistan,India,273,Pakistan,National Stadium,4,India
+286,47.1,4,I Sharma,2008-06-26,1st,Shahid Afridi,6,,Misbah-ul-Haq,16,Pakistan,India,277,Pakistan,National Stadium,4,India
+287,47.2,0,I Sharma,2008-06-26,1st,Shahid Afridi,6,,Misbah-ul-Haq,16,Pakistan,India,278,Pakistan,National Stadium,4,India
+288,47.3,1,I Sharma,2008-06-26,1st,Shahid Afridi,6,,Misbah-ul-Haq,17,Pakistan,India,279,Pakistan,National Stadium,4,India
+289,47.4,2,I Sharma,2008-06-26,1st,Misbah-ul-Haq,17,,Shahid Afridi,8,Pakistan,India,281,Pakistan,National Stadium,4,India
+290,47.5,1,I Sharma,2008-06-26,1st,Misbah-ul-Haq,17,,Shahid Afridi,9,Pakistan,India,282,Pakistan,National Stadium,4,India
+291,47.6,2,I Sharma,2008-06-26,1st,Shahid Afridi,9,,Misbah-ul-Haq,19,Pakistan,India,284,Pakistan,National Stadium,4,India
+292,47.7,1,I Sharma,2008-06-26,1st,Shahid Afridi,9,,Misbah-ul-Haq,20,Pakistan,India,285,Pakistan,National Stadium,4,India
+293,48.1,4,RP Singh,2008-06-26,1st,Shahid Afridi,9,,Misbah-ul-Haq,24,Pakistan,India,289,Pakistan,National Stadium,4,India
+294,48.2,0,RP Singh,2008-06-26,1st,Shahid Afridi,9,,Misbah-ul-Haq,24,Pakistan,India,289,Pakistan,National Stadium,4,India
+295,48.3,1,RP Singh,2008-06-26,1st,Shahid Afridi,9,,Misbah-ul-Haq,25,Pakistan,India,290,Pakistan,National Stadium,4,India
+296,48.4,0,RP Singh,2008-06-26,1st,Misbah-ul-Haq,25,,Shahid Afridi,9,Pakistan,India,290,Pakistan,National Stadium,4,India
+297,48.5,0,RP Singh,2008-06-26,1st,Misbah-ul-Haq,25,Shahid Afridi,Shahid Afridi,9,Pakistan,India,290,Pakistan,National Stadium,5,India
+298,48.6,0,RP Singh,2008-06-26,1st,Misbah-ul-Haq,25,,Sohail Tanvir,0,Pakistan,India,290,Pakistan,National Stadium,5,India
+299,49.1,4,P Kumar,2008-06-26,1st,Sohail Tanvir,0,,Misbah-ul-Haq,29,Pakistan,India,294,Pakistan,National Stadium,5,India
+300,49.2,0,P Kumar,2008-06-26,1st,Sohail Tanvir,0,,Misbah-ul-Haq,29,Pakistan,India,294,Pakistan,National Stadium,5,India
+301,49.3,1,P Kumar,2008-06-26,1st,Sohail Tanvir,0,,Misbah-ul-Haq,30,Pakistan,India,295,Pakistan,National Stadium,5,India
+302,49.4,2,P Kumar,2008-06-26,1st,Misbah-ul-Haq,30,,Sohail Tanvir,2,Pakistan,India,297,Pakistan,National Stadium,5,India
+303,49.5,1,P Kumar,2008-06-26,1st,Misbah-ul-Haq,30,,Sohail Tanvir,3,Pakistan,India,298,Pakistan,National Stadium,5,India
+304,49.6,1,P Kumar,2008-06-26,1st,Sohail Tanvir,3,,Misbah-ul-Haq,31,Pakistan,India,299,Pakistan,National Stadium,5,India
+305,0.1,0,Umar Gul,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,1,Pakistan,National Stadium,0,India
+306,0.2,4,Umar Gul,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,5,Pakistan,National Stadium,0,India
+307,0.3,0,Umar Gul,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,5,Pakistan,National Stadium,0,India
+308,0.4,0,Umar Gul,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,5,Pakistan,National Stadium,0,India
+309,0.5,1,Umar Gul,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,6,Pakistan,National Stadium,0,India
+310,0.6,0,Umar Gul,2008-06-26,2nd,G Gambhir,0,,V Sehwag,0,Pakistan,India,6,Pakistan,National Stadium,0,India
+311,0.7,0,Umar Gul,2008-06-26,2nd,G Gambhir,0,,V Sehwag,0,Pakistan,India,6,Pakistan,National Stadium,0,India
+312,1.1,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,6,Pakistan,National Stadium,0,India
+313,1.2,4,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,10,Pakistan,National Stadium,0,India
+314,1.3,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,10,Pakistan,National Stadium,0,India
+315,1.4,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,10,Pakistan,National Stadium,0,India
+316,1.5,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,10,Pakistan,National Stadium,0,India
+317,1.6,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,11,Pakistan,National Stadium,0,India
+318,1.7,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,11,Pakistan,National Stadium,0,India
+319,2.1,0,Umar Gul,2008-06-26,2nd,G Gambhir,0,,V Sehwag,0,Pakistan,India,12,Pakistan,National Stadium,0,India
+320,2.2,0,Umar Gul,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,12,Pakistan,National Stadium,0,India
+321,2.3,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,G Gambhir,0,Pakistan,India,12,Pakistan,National Stadium,1,India
+322,2.4,3,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,15,Pakistan,National Stadium,1,India
+323,2.5,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,15,Pakistan,National Stadium,1,India
+324,2.6,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,15,Pakistan,National Stadium,1,India
+325,3.1,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,15,Pakistan,National Stadium,1,India
+326,3.2,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,15,Pakistan,National Stadium,1,India
+327,3.3,4,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,19,Pakistan,National Stadium,1,India
+328,3.4,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,19,Pakistan,National Stadium,1,India
+329,3.5,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,19,Pakistan,National Stadium,1,India
+330,3.6,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,19,Pakistan,National Stadium,1,India
+331,4.1,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,19,Pakistan,National Stadium,1,India
+332,4.2,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,20,Pakistan,National Stadium,1,India
+333,4.3,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,20,Pakistan,National Stadium,1,India
+334,4.4,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,20,Pakistan,National Stadium,1,India
+335,4.5,2,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,22,Pakistan,National Stadium,1,India
+336,4.6,4,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,26,Pakistan,National Stadium,1,India
+337,5.1,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,26,Pakistan,National Stadium,1,India
+338,5.2,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,26,Pakistan,National Stadium,1,India
+339,5.3,1,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,27,Pakistan,National Stadium,1,India
+340,5.4,4,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,31,Pakistan,National Stadium,1,India
+341,5.5,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,31,Pakistan,National Stadium,1,India
+342,5.6,4,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,35,Pakistan,National Stadium,1,India
+343,6.1,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,35,Pakistan,National Stadium,1,India
+344,6.2,2,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,37,Pakistan,National Stadium,1,India
+345,6.3,4,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,41,Pakistan,National Stadium,1,India
+346,6.4,4,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,45,Pakistan,National Stadium,1,India
+347,6.5,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,45,Pakistan,National Stadium,1,India
+348,6.6,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,46,Pakistan,National Stadium,1,India
+349,7.1,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,46,Pakistan,National Stadium,1,India
+350,7.2,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,46,Pakistan,National Stadium,1,India
+351,7.3,4,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,50,Pakistan,National Stadium,1,India
+352,7.4,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,50,Pakistan,National Stadium,1,India
+353,7.5,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,50,Pakistan,National Stadium,1,India
+354,7.6,4,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,54,Pakistan,National Stadium,1,India
+355,8.1,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,54,Pakistan,National Stadium,1,India
+356,8.2,4,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,58,Pakistan,National Stadium,1,India
+357,8.3,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,58,Pakistan,National Stadium,1,India
+358,8.4,2,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,60,Pakistan,National Stadium,1,India
+359,8.5,1,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,61,Pakistan,National Stadium,1,India
+360,8.6,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,61,Pakistan,National Stadium,1,India
+361,9.1,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,61,Pakistan,National Stadium,1,India
+362,9.2,4,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,65,Pakistan,National Stadium,1,India
+363,9.3,1,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,66,Pakistan,National Stadium,1,India
+364,9.4,2,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,68,Pakistan,National Stadium,1,India
+365,9.5,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,68,Pakistan,National Stadium,1,India
+366,9.6,0,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,68,Pakistan,National Stadium,1,India
+367,10.1,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,69,Pakistan,National Stadium,1,India
+368,10.2,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,70,Pakistan,National Stadium,1,India
+369,10.3,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,70,Pakistan,National Stadium,1,India
+370,10.4,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,70,Pakistan,National Stadium,1,India
+371,10.5,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,70,Pakistan,National Stadium,1,India
+372,10.6,4,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,74,Pakistan,National Stadium,1,India
+373,11.1,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,75,Pakistan,National Stadium,1,India
+374,11.2,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,75,Pakistan,National Stadium,1,India
+375,11.3,1,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,76,Pakistan,National Stadium,1,India
+376,11.4,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,76,Pakistan,National Stadium,1,India
+377,11.5,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,76,Pakistan,National Stadium,1,India
+378,11.6,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,76,Pakistan,National Stadium,1,India
+379,12.1,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,77,Pakistan,National Stadium,1,India
+380,12.2,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,78,Pakistan,National Stadium,1,India
+381,12.3,6,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,84,Pakistan,National Stadium,1,India
+382,12.4,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,85,Pakistan,National Stadium,1,India
+383,12.5,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,85,Pakistan,National Stadium,1,India
+384,12.6,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,86,Pakistan,National Stadium,1,India
+385,12.7,6,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,92,Pakistan,National Stadium,1,India
+386,13.1,6,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,98,Pakistan,National Stadium,1,India
+387,13.2,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,98,Pakistan,National Stadium,1,India
+388,13.3,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,98,Pakistan,National Stadium,1,India
+389,13.4,1,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,99,Pakistan,National Stadium,1,India
+390,13.5,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,99,Pakistan,National Stadium,1,India
+391,13.6,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,100,Pakistan,National Stadium,1,India
+392,14.1,4,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,104,Pakistan,National Stadium,1,India
+393,14.2,2,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,106,Pakistan,National Stadium,1,India
+394,14.3,1,Sohail Tanvir,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,107,Pakistan,National Stadium,1,India
+395,14.4,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,107,Pakistan,National Stadium,1,India
+396,14.5,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,107,Pakistan,National Stadium,1,India
+397,14.6,1,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,108,Pakistan,National Stadium,1,India
+398,15.1,1,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,109,Pakistan,National Stadium,1,India
+399,15.2,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,109,Pakistan,National Stadium,1,India
+400,15.3,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,110,Pakistan,National Stadium,1,India
+401,15.4,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,110,Pakistan,National Stadium,1,India
+402,15.5,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,111,Pakistan,National Stadium,1,India
+403,15.6,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,112,Pakistan,National Stadium,1,India
+404,15.7,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,112,Pakistan,National Stadium,1,India
+405,16.1,4,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,116,Pakistan,National Stadium,1,India
+406,16.2,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,116,Pakistan,National Stadium,1,India
+407,16.3,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,116,Pakistan,National Stadium,1,India
+408,16.4,4,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,120,Pakistan,National Stadium,1,India
+409,16.5,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,120,Pakistan,National Stadium,1,India
+410,16.6,0,Sohail Tanvir,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,120,Pakistan,National Stadium,1,India
+411,17.1,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,120,Pakistan,National Stadium,1,India
+412,17.2,4,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,124,Pakistan,National Stadium,1,India
+413,17.3,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,125,Pakistan,National Stadium,1,India
+414,17.4,1,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,126,Pakistan,National Stadium,1,India
+415,17.5,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,127,Pakistan,National Stadium,1,India
+416,17.6,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,127,Pakistan,National Stadium,1,India
+417,18.1,4,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,131,Pakistan,National Stadium,1,India
+418,18.2,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,131,Pakistan,National Stadium,1,India
+419,18.3,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,132,Pakistan,National Stadium,1,India
+420,18.4,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,133,Pakistan,National Stadium,1,India
+421,18.5,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,133,Pakistan,National Stadium,1,India
+422,18.6,6,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,139,Pakistan,National Stadium,1,India
+423,19.1,0,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,139,Pakistan,National Stadium,1,India
+424,19.2,6,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,145,Pakistan,National Stadium,1,India
+425,19.3,1,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,146,Pakistan,National Stadium,1,India
+426,19.4,1,Fawad Alam,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,147,Pakistan,National Stadium,1,India
+427,19.5,0,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,147,Pakistan,National Stadium,1,India
+428,19.6,4,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,151,Pakistan,National Stadium,1,India
+429,20.1,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,152,Pakistan,National Stadium,1,India
+430,20.2,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,153,Pakistan,National Stadium,1,India
+431,20.3,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,154,Pakistan,National Stadium,1,India
+432,20.4,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,155,Pakistan,National Stadium,1,India
+433,20.5,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,156,Pakistan,National Stadium,1,India
+434,20.6,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,157,Pakistan,National Stadium,1,India
+435,20.7,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,158,Pakistan,National Stadium,1,India
+436,20.8,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,158,Pakistan,National Stadium,1,India
+437,21.1,4,Fawad Alam,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,162,Pakistan,National Stadium,1,India
+438,21.2,0,Fawad Alam,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,163,Pakistan,National Stadium,1,India
+439,21.3,1,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,164,Pakistan,National Stadium,1,India
+440,21.4,0,Fawad Alam,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,165,Pakistan,National Stadium,1,India
+441,21.5,4,Fawad Alam,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,169,Pakistan,National Stadium,1,India
+442,21.6,1,Fawad Alam,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,170,Pakistan,National Stadium,1,India
+443,21.7,6,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,176,Pakistan,National Stadium,1,India
+444,22.1,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,176,Pakistan,National Stadium,1,India
+445,22.2,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,176,Pakistan,National Stadium,1,India
+446,22.3,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,176,Pakistan,National Stadium,1,India
+447,22.4,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,177,Pakistan,National Stadium,1,India
+448,22.5,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,178,Pakistan,National Stadium,1,India
+449,22.6,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,179,Pakistan,National Stadium,1,India
+450,23.1,0,Salman Butt,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,179,Pakistan,National Stadium,1,India
+451,23.2,0,Salman Butt,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,179,Pakistan,National Stadium,1,India
+452,23.3,6,Salman Butt,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,185,Pakistan,National Stadium,1,India
+453,23.4,0,Salman Butt,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,185,Pakistan,National Stadium,1,India
+454,23.5,6,Salman Butt,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,191,Pakistan,National Stadium,1,India
+455,23.6,1,Salman Butt,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,192,Pakistan,National Stadium,1,India
+456,24.1,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,193,Pakistan,National Stadium,1,India
+457,24.2,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,194,Pakistan,National Stadium,1,India
+458,24.3,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,194,Pakistan,National Stadium,1,India
+459,24.4,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,195,Pakistan,National Stadium,1,India
+460,24.5,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,195,Pakistan,National Stadium,1,India
+461,24.6,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,195,Pakistan,National Stadium,1,India
+462,25.1,4,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,199,Pakistan,National Stadium,1,India
+463,25.2,0,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,199,Pakistan,National Stadium,1,India
+464,25.3,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,200,Pakistan,National Stadium,1,India
+465,25.4,1,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,201,Pakistan,National Stadium,1,India
+466,25.5,1,Iftikhar Anjum,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,202,Pakistan,National Stadium,1,India
+467,25.6,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,202,Pakistan,National Stadium,1,India
+468,26.1,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,203,Pakistan,National Stadium,1,India
+469,26.2,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,204,Pakistan,National Stadium,1,India
+470,26.3,0,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,204,Pakistan,National Stadium,1,India
+471,26.4,4,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,208,Pakistan,National Stadium,1,India
+472,26.5,1,Shahid Afridi,2008-06-26,2nd,SK Raina,0,,V Sehwag,0,Pakistan,India,209,Pakistan,National Stadium,1,India
+473,26.6,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,210,Pakistan,National Stadium,1,India
+474,27.1,0,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,SK Raina,0,Pakistan,India,210,Pakistan,National Stadium,2,India
+475,27.2,1,Iftikhar Anjum,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,211,Pakistan,National Stadium,2,India
+476,27.3,0,Iftikhar Anjum,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,211,Pakistan,National Stadium,2,India
+477,27.4,0,Iftikhar Anjum,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,212,Pakistan,National Stadium,2,India
+478,27.5,0,Iftikhar Anjum,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,212,Pakistan,National Stadium,2,India
+479,27.6,2,Iftikhar Anjum,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,214,Pakistan,National Stadium,2,India
+480,27.7,2,Iftikhar Anjum,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,216,Pakistan,National Stadium,2,India
+481,28.1,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,217,Pakistan,National Stadium,2,India
+482,28.2,1,Shahid Afridi,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,218,Pakistan,National Stadium,2,India
+483,28.3,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,219,Pakistan,National Stadium,2,India
+484,28.4,1,Shahid Afridi,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,220,Pakistan,National Stadium,2,India
+485,28.5,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,220,Pakistan,National Stadium,2,India
+486,28.6,0,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,220,Pakistan,National Stadium,2,India
+487,29.1,2,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,222,Pakistan,National Stadium,2,India
+488,29.2,0,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,222,Pakistan,National Stadium,2,India
+489,29.3,4,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,226,Pakistan,National Stadium,2,India
+490,29.4,1,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,227,Pakistan,National Stadium,2,India
+491,29.5,0,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,227,Pakistan,National Stadium,2,India
+492,29.6,0,Fawad Alam,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,228,Pakistan,National Stadium,2,India
+493,30.1,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,229,Pakistan,National Stadium,2,India
+494,30.2,1,Shahid Afridi,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,230,Pakistan,National Stadium,2,India
+495,30.3,1,Shahid Afridi,2008-06-26,2nd,V Sehwag,0,,Yuvraj Singh,0,Pakistan,India,231,Pakistan,National Stadium,2,India
+496,30.4,0,Shahid Afridi,2008-06-26,2nd,Yuvraj Singh,0,,V Sehwag,0,Pakistan,India,231,Pakistan,National Stadium,3,India
+497,30.5,0,Shahid Afridi,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,231,Pakistan,National Stadium,3,India
+498,30.6,1,Shahid Afridi,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,232,Pakistan,National Stadium,3,India
+499,31.1,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,233,Pakistan,National Stadium,3,India
+500,31.2,1,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,234,Pakistan,National Stadium,3,India
+501,31.3,0,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,234,Pakistan,National Stadium,3,India
+502,31.4,0,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,234,Pakistan,National Stadium,3,India
+503,31.5,6,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,240,Pakistan,National Stadium,3,India
+504,31.6,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,241,Pakistan,National Stadium,3,India
+505,32.1,0,Shahid Afridi,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,241,Pakistan,National Stadium,3,India
+506,32.2,0,Shahid Afridi,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,241,Pakistan,National Stadium,3,India
+507,32.3,1,Shahid Afridi,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,242,Pakistan,National Stadium,3,India
+508,32.4,0,Shahid Afridi,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,242,Pakistan,National Stadium,3,India
+509,32.5,0,Shahid Afridi,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,242,Pakistan,National Stadium,3,India
+510,32.6,2,Shahid Afridi,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,244,Pakistan,National Stadium,3,India
+511,33.1,0,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,244,Pakistan,National Stadium,3,India
+512,33.2,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,245,Pakistan,National Stadium,3,India
+513,33.3,2,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,247,Pakistan,National Stadium,3,India
+514,33.4,1,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,248,Pakistan,National Stadium,3,India
+515,33.5,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,249,Pakistan,National Stadium,3,India
+516,33.6,1,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,250,Pakistan,National Stadium,3,India
+517,34.1,0,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,250,Pakistan,National Stadium,3,India
+518,34.2,0,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,250,Pakistan,National Stadium,3,India
+519,34.3,1,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,251,Pakistan,National Stadium,3,India
+520,34.4,1,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,252,Pakistan,National Stadium,3,India
+521,34.5,0,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,252,Pakistan,National Stadium,3,India
+522,34.6,2,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,254,Pakistan,National Stadium,3,India
+523,35.1,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,255,Pakistan,National Stadium,3,India
+524,35.2,0,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,255,Pakistan,National Stadium,3,India
+525,35.3,0,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,255,Pakistan,National Stadium,3,India
+526,35.4,1,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,256,Pakistan,National Stadium,3,India
+527,35.5,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,257,Pakistan,National Stadium,3,India
+528,35.6,0,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,257,Pakistan,National Stadium,3,India
+529,36.1,6,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,263,Pakistan,National Stadium,3,India
+530,36.2,1,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,264,Pakistan,National Stadium,3,India
+531,36.3,0,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,264,Pakistan,National Stadium,3,India
+532,36.4,1,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,265,Pakistan,National Stadium,3,India
+533,36.5,1,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,266,Pakistan,National Stadium,3,India
+534,36.6,0,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,266,Pakistan,National Stadium,3,India
+535,37.1,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,267,Pakistan,National Stadium,3,India
+536,37.2,1,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,268,Pakistan,National Stadium,3,India
+537,37.3,1,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,269,Pakistan,National Stadium,3,India
+538,37.4,1,Fawad Alam,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,270,Pakistan,National Stadium,3,India
+539,37.5,6,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,276,Pakistan,National Stadium,3,India
+540,37.6,0,Fawad Alam,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,276,Pakistan,National Stadium,3,India
+541,38.1,1,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,277,Pakistan,National Stadium,3,India
+542,38.2,0,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,277,Pakistan,National Stadium,3,India
+543,38.3,0,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,277,Pakistan,National Stadium,3,India
+544,38.4,4,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,281,Pakistan,National Stadium,3,India
+545,38.5,0,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,281,Pakistan,National Stadium,3,India
+546,38.6,1,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,282,Pakistan,National Stadium,3,India
+547,39.1,1,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,283,Pakistan,National Stadium,3,India
+548,39.2,0,Sohail Tanvir,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,283,Pakistan,National Stadium,3,India
+549,39.3,1,Sohail Tanvir,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,284,Pakistan,National Stadium,3,India
+550,39.4,0,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,284,Pakistan,National Stadium,3,India
+551,39.5,0,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,284,Pakistan,National Stadium,3,India
+552,39.6,2,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,286,Pakistan,National Stadium,3,India
+553,40.1,1,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,287,Pakistan,National Stadium,3,India
+554,40.2,1,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,288,Pakistan,National Stadium,3,India
+555,40.3,1,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,289,Pakistan,National Stadium,3,India
+556,40.4,1,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,290,Pakistan,National Stadium,3,India
+557,40.5,1,Younis Khan,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,291,Pakistan,National Stadium,3,India
+558,40.6,1,Younis Khan,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,292,Pakistan,National Stadium,3,India
+559,41.1,0,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,292,Pakistan,National Stadium,3,India
+560,41.2,1,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,293,Pakistan,National Stadium,3,India
+561,41.3,1,Sohail Tanvir,2008-06-26,2nd,Yuvraj Singh,0,,MS Dhoni,0,Pakistan,India,294,Pakistan,National Stadium,3,India
+562,41.4,0,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,Yuvraj Singh,0,Pakistan,India,294,Pakistan,National Stadium,4,India
+563,41.5,0,Sohail Tanvir,2008-06-26,2nd,RG Sharma,0,,MS Dhoni,0,Pakistan,India,295,Pakistan,National Stadium,4,India
+564,41.6,0,Sohail Tanvir,2008-06-26,2nd,MS Dhoni,0,,RG Sharma,0,Pakistan,India,295,Pakistan,National Stadium,4,India
+565,42.1,6,Younis Khan,2008-06-26,2nd,RG Sharma,0,,MS Dhoni,0,Pakistan,India,301,Pakistan,National Stadium,4,India

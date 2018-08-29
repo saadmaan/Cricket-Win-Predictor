@@ -1,0 +1,599 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,DW Steyn,2012-01-14,1st,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+1,0.2,0,DW Steyn,2012-01-14,1st,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+2,0.3,0,DW Steyn,2012-01-14,1st,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+3,0.4,0,DW Steyn,2012-01-14,1st,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+4,0.5,0,DW Steyn,2012-01-14,1st,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+5,0.6,0,DW Steyn,2012-01-14,1st,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+6,1.1,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+7,1.2,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+8,1.3,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,0,South Africa
+9,1.4,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,0,TM Dilshan,TM Dilshan,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,1,South Africa
+10,1.5,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Buffalo Park,1,South Africa
+11,1.6,1,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,1,South Africa,Sri Lanka,1,South Africa,Buffalo Park,1,South Africa
+12,2.1,0,DW Steyn,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,1,South Africa,Sri Lanka,1,South Africa,Buffalo Park,1,South Africa
+13,2.2,5,DW Steyn,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,6,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+14,2.3,0,DW Steyn,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+15,2.4,0,DW Steyn,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+16,2.5,0,DW Steyn,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+17,2.6,0,DW Steyn,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+18,3.1,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,6,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+19,3.2,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,6,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+20,3.3,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,6,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+21,3.4,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,6,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+22,3.5,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,6,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+23,3.6,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,0,,WU Tharanga,6,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+24,4.1,0,M Morkel,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+25,4.2,0,M Morkel,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+26,4.3,0,M Morkel,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+27,4.4,0,M Morkel,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,1,South Africa
+28,4.5,1,M Morkel,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,1,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+29,4.6,0,M Morkel,2012-01-14,1st,KC Sangakkara,1,,WU Tharanga,6,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+30,5.1,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,1,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+31,5.2,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,1,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+32,5.3,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,1,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+33,5.4,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,1,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+34,5.5,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,1,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+35,5.6,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,6,,KC Sangakkara,1,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+36,6.1,0,M Morkel,2012-01-14,1st,KC Sangakkara,1,,WU Tharanga,6,South Africa,Sri Lanka,7,South Africa,Buffalo Park,1,South Africa
+37,6.2,4,M Morkel,2012-01-14,1st,KC Sangakkara,1,,WU Tharanga,10,South Africa,Sri Lanka,11,South Africa,Buffalo Park,1,South Africa
+38,6.3,1,M Morkel,2012-01-14,1st,KC Sangakkara,1,,WU Tharanga,11,South Africa,Sri Lanka,12,South Africa,Buffalo Park,1,South Africa
+39,6.4,1,M Morkel,2012-01-14,1st,WU Tharanga,11,,KC Sangakkara,2,South Africa,Sri Lanka,13,South Africa,Buffalo Park,1,South Africa
+40,6.5,0,M Morkel,2012-01-14,1st,KC Sangakkara,2,,WU Tharanga,11,South Africa,Sri Lanka,13,South Africa,Buffalo Park,1,South Africa
+41,6.6,0,M Morkel,2012-01-14,1st,KC Sangakkara,2,,WU Tharanga,11,South Africa,Sri Lanka,13,South Africa,Buffalo Park,1,South Africa
+42,7.1,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,11,,KC Sangakkara,2,South Africa,Sri Lanka,13,South Africa,Buffalo Park,1,South Africa
+43,7.2,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,11,,KC Sangakkara,2,South Africa,Sri Lanka,13,South Africa,Buffalo Park,1,South Africa
+44,7.3,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,11,,KC Sangakkara,2,South Africa,Sri Lanka,13,South Africa,Buffalo Park,1,South Africa
+45,7.4,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,11,,KC Sangakkara,2,South Africa,Sri Lanka,13,South Africa,Buffalo Park,1,South Africa
+46,7.5,1,LL Tsotsobe,2012-01-14,1st,WU Tharanga,11,,KC Sangakkara,3,South Africa,Sri Lanka,14,South Africa,Buffalo Park,1,South Africa
+47,7.6,4,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,3,,WU Tharanga,15,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+48,8.1,0,M Morkel,2012-01-14,1st,WU Tharanga,15,,KC Sangakkara,3,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+49,8.2,0,M Morkel,2012-01-14,1st,WU Tharanga,15,,KC Sangakkara,3,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+50,8.3,0,M Morkel,2012-01-14,1st,WU Tharanga,15,,KC Sangakkara,3,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+51,8.4,0,M Morkel,2012-01-14,1st,WU Tharanga,15,,KC Sangakkara,3,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+52,8.5,0,M Morkel,2012-01-14,1st,WU Tharanga,15,,KC Sangakkara,3,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+53,8.6,0,M Morkel,2012-01-14,1st,WU Tharanga,15,,KC Sangakkara,3,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+54,9.1,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,3,,WU Tharanga,15,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+55,9.2,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,3,,WU Tharanga,15,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+56,9.3,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,3,,WU Tharanga,15,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+57,9.4,0,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,3,,WU Tharanga,15,South Africa,Sri Lanka,18,South Africa,Buffalo Park,1,South Africa
+58,9.5,3,LL Tsotsobe,2012-01-14,1st,KC Sangakkara,3,,WU Tharanga,18,South Africa,Sri Lanka,21,South Africa,Buffalo Park,1,South Africa
+59,9.6,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,18,KC Sangakkara,KC Sangakkara,3,South Africa,Sri Lanka,21,South Africa,Buffalo Park,2,South Africa
+60,10.1,0,JA Morkel,2012-01-14,1st,LD Chandimal,0,,WU Tharanga,18,South Africa,Sri Lanka,21,South Africa,Buffalo Park,2,South Africa
+61,10.2,0,JA Morkel,2012-01-14,1st,LD Chandimal,0,,WU Tharanga,18,South Africa,Sri Lanka,21,South Africa,Buffalo Park,2,South Africa
+62,10.3,0,JA Morkel,2012-01-14,1st,LD Chandimal,0,,WU Tharanga,18,South Africa,Sri Lanka,21,South Africa,Buffalo Park,2,South Africa
+63,10.4,0,JA Morkel,2012-01-14,1st,LD Chandimal,0,,WU Tharanga,18,South Africa,Sri Lanka,21,South Africa,Buffalo Park,2,South Africa
+64,10.5,0,JA Morkel,2012-01-14,1st,LD Chandimal,0,,WU Tharanga,18,South Africa,Sri Lanka,21,South Africa,Buffalo Park,2,South Africa
+65,10.6,2,JA Morkel,2012-01-14,1st,LD Chandimal,0,,WU Tharanga,20,South Africa,Sri Lanka,23,South Africa,Buffalo Park,2,South Africa
+66,11.1,0,JP Duminy,2012-01-14,1st,WU Tharanga,20,,LD Chandimal,0,South Africa,Sri Lanka,23,South Africa,Buffalo Park,2,South Africa
+67,11.2,1,JP Duminy,2012-01-14,1st,WU Tharanga,20,,LD Chandimal,1,South Africa,Sri Lanka,24,South Africa,Buffalo Park,2,South Africa
+68,11.3,0,JP Duminy,2012-01-14,1st,LD Chandimal,1,,WU Tharanga,20,South Africa,Sri Lanka,24,South Africa,Buffalo Park,2,South Africa
+69,11.4,0,JP Duminy,2012-01-14,1st,LD Chandimal,1,,WU Tharanga,20,South Africa,Sri Lanka,24,South Africa,Buffalo Park,2,South Africa
+70,11.5,0,JP Duminy,2012-01-14,1st,LD Chandimal,1,,WU Tharanga,20,South Africa,Sri Lanka,24,South Africa,Buffalo Park,2,South Africa
+71,11.6,6,JP Duminy,2012-01-14,1st,LD Chandimal,1,,WU Tharanga,26,South Africa,Sri Lanka,30,South Africa,Buffalo Park,2,South Africa
+72,12.1,0,JA Morkel,2012-01-14,1st,WU Tharanga,26,,LD Chandimal,1,South Africa,Sri Lanka,30,South Africa,Buffalo Park,2,South Africa
+73,12.2,0,JA Morkel,2012-01-14,1st,WU Tharanga,26,,LD Chandimal,1,South Africa,Sri Lanka,30,South Africa,Buffalo Park,2,South Africa
+74,12.3,1,JA Morkel,2012-01-14,1st,WU Tharanga,26,,LD Chandimal,2,South Africa,Sri Lanka,31,South Africa,Buffalo Park,2,South Africa
+75,12.4,1,JA Morkel,2012-01-14,1st,LD Chandimal,2,,WU Tharanga,27,South Africa,Sri Lanka,32,South Africa,Buffalo Park,2,South Africa
+76,12.5,0,JA Morkel,2012-01-14,1st,WU Tharanga,27,,LD Chandimal,2,South Africa,Sri Lanka,32,South Africa,Buffalo Park,2,South Africa
+77,12.6,1,JA Morkel,2012-01-14,1st,WU Tharanga,27,,LD Chandimal,3,South Africa,Sri Lanka,33,South Africa,Buffalo Park,2,South Africa
+78,13.1,0,JP Duminy,2012-01-14,1st,WU Tharanga,27,,LD Chandimal,3,South Africa,Sri Lanka,33,South Africa,Buffalo Park,2,South Africa
+79,13.2,1,JP Duminy,2012-01-14,1st,WU Tharanga,27,,LD Chandimal,4,South Africa,Sri Lanka,34,South Africa,Buffalo Park,2,South Africa
+80,13.3,0,JP Duminy,2012-01-14,1st,LD Chandimal,4,,WU Tharanga,27,South Africa,Sri Lanka,34,South Africa,Buffalo Park,2,South Africa
+81,13.4,0,JP Duminy,2012-01-14,1st,LD Chandimal,4,,WU Tharanga,27,South Africa,Sri Lanka,34,South Africa,Buffalo Park,2,South Africa
+82,13.5,0,JP Duminy,2012-01-14,1st,LD Chandimal,4,,WU Tharanga,27,South Africa,Sri Lanka,34,South Africa,Buffalo Park,2,South Africa
+83,13.6,0,JP Duminy,2012-01-14,1st,LD Chandimal,4,,WU Tharanga,27,South Africa,Sri Lanka,34,South Africa,Buffalo Park,2,South Africa
+84,14.1,0,JA Morkel,2012-01-14,1st,WU Tharanga,27,,LD Chandimal,4,South Africa,Sri Lanka,34,South Africa,Buffalo Park,2,South Africa
+85,14.2,1,JA Morkel,2012-01-14,1st,WU Tharanga,27,,LD Chandimal,5,South Africa,Sri Lanka,35,South Africa,Buffalo Park,2,South Africa
+86,14.3,1,JA Morkel,2012-01-14,1st,LD Chandimal,5,,WU Tharanga,28,South Africa,Sri Lanka,36,South Africa,Buffalo Park,2,South Africa
+87,14.4,0,JA Morkel,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,5,South Africa,Sri Lanka,36,South Africa,Buffalo Park,2,South Africa
+88,14.5,0,JA Morkel,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,5,South Africa,Sri Lanka,36,South Africa,Buffalo Park,2,South Africa
+89,14.6,1,JA Morkel,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,6,South Africa,Sri Lanka,37,South Africa,Buffalo Park,2,South Africa
+90,15.1,2,DW Steyn,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,8,South Africa,Sri Lanka,39,South Africa,Buffalo Park,2,South Africa
+91,15.2,4,DW Steyn,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,12,South Africa,Sri Lanka,43,South Africa,Buffalo Park,2,South Africa
+92,15.3,0,DW Steyn,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,12,South Africa,Sri Lanka,43,South Africa,Buffalo Park,2,South Africa
+93,15.4,0,DW Steyn,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,12,South Africa,Sri Lanka,43,South Africa,Buffalo Park,2,South Africa
+94,15.5,0,DW Steyn,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,12,South Africa,Sri Lanka,43,South Africa,Buffalo Park,2,South Africa
+95,15.6,0,DW Steyn,2012-01-14,1st,WU Tharanga,28,,LD Chandimal,12,South Africa,Sri Lanka,43,South Africa,Buffalo Park,2,South Africa
+96,16.1,0,RJ Peterson,2012-01-14,1st,LD Chandimal,12,,WU Tharanga,28,South Africa,Sri Lanka,43,South Africa,Buffalo Park,2,South Africa
+97,16.2,0,RJ Peterson,2012-01-14,1st,LD Chandimal,12,,WU Tharanga,28,South Africa,Sri Lanka,43,South Africa,Buffalo Park,2,South Africa
+98,16.3,4,RJ Peterson,2012-01-14,1st,LD Chandimal,12,,WU Tharanga,32,South Africa,Sri Lanka,47,South Africa,Buffalo Park,2,South Africa
+99,16.4,1,RJ Peterson,2012-01-14,1st,LD Chandimal,12,,WU Tharanga,33,South Africa,Sri Lanka,48,South Africa,Buffalo Park,2,South Africa
+100,16.5,0,RJ Peterson,2012-01-14,1st,WU Tharanga,33,,LD Chandimal,12,South Africa,Sri Lanka,48,South Africa,Buffalo Park,2,South Africa
+101,16.6,1,RJ Peterson,2012-01-14,1st,WU Tharanga,33,,LD Chandimal,13,South Africa,Sri Lanka,49,South Africa,Buffalo Park,2,South Africa
+102,17.1,1,DW Steyn,2012-01-14,1st,WU Tharanga,33,,LD Chandimal,14,South Africa,Sri Lanka,50,South Africa,Buffalo Park,2,South Africa
+103,17.2,2,DW Steyn,2012-01-14,1st,LD Chandimal,14,,WU Tharanga,35,South Africa,Sri Lanka,52,South Africa,Buffalo Park,2,South Africa
+104,17.3,0,DW Steyn,2012-01-14,1st,LD Chandimal,14,,WU Tharanga,35,South Africa,Sri Lanka,52,South Africa,Buffalo Park,2,South Africa
+105,17.4,1,DW Steyn,2012-01-14,1st,LD Chandimal,14,,WU Tharanga,36,South Africa,Sri Lanka,53,South Africa,Buffalo Park,2,South Africa
+106,17.5,1,DW Steyn,2012-01-14,1st,WU Tharanga,36,,LD Chandimal,15,South Africa,Sri Lanka,54,South Africa,Buffalo Park,2,South Africa
+107,17.6,0,DW Steyn,2012-01-14,1st,LD Chandimal,15,,WU Tharanga,36,South Africa,Sri Lanka,54,South Africa,Buffalo Park,2,South Africa
+108,18.1,0,RJ Peterson,2012-01-14,1st,WU Tharanga,36,,LD Chandimal,15,South Africa,Sri Lanka,54,South Africa,Buffalo Park,2,South Africa
+109,18.2,0,RJ Peterson,2012-01-14,1st,WU Tharanga,36,,LD Chandimal,15,South Africa,Sri Lanka,54,South Africa,Buffalo Park,2,South Africa
+110,18.3,1,RJ Peterson,2012-01-14,1st,WU Tharanga,36,,LD Chandimal,16,South Africa,Sri Lanka,55,South Africa,Buffalo Park,2,South Africa
+111,18.4,1,RJ Peterson,2012-01-14,1st,LD Chandimal,16,,WU Tharanga,37,South Africa,Sri Lanka,56,South Africa,Buffalo Park,2,South Africa
+112,18.5,1,RJ Peterson,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,17,South Africa,Sri Lanka,57,South Africa,Buffalo Park,2,South Africa
+113,18.6,0,RJ Peterson,2012-01-14,1st,LD Chandimal,17,,WU Tharanga,37,South Africa,Sri Lanka,57,South Africa,Buffalo Park,2,South Africa
+114,19.1,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,17,South Africa,Sri Lanka,57,South Africa,Buffalo Park,2,South Africa
+115,19.2,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,17,South Africa,Sri Lanka,57,South Africa,Buffalo Park,2,South Africa
+116,19.3,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,17,South Africa,Sri Lanka,57,South Africa,Buffalo Park,2,South Africa
+117,19.4,0,LL Tsotsobe,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,17,South Africa,Sri Lanka,57,South Africa,Buffalo Park,2,South Africa
+118,19.5,1,LL Tsotsobe,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,18,South Africa,Sri Lanka,58,South Africa,Buffalo Park,2,South Africa
+119,19.6,0,LL Tsotsobe,2012-01-14,1st,LD Chandimal,18,,WU Tharanga,37,South Africa,Sri Lanka,58,South Africa,Buffalo Park,2,South Africa
+120,20.1,0,RJ Peterson,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,18,South Africa,Sri Lanka,58,South Africa,Buffalo Park,2,South Africa
+121,20.2,1,RJ Peterson,2012-01-14,1st,WU Tharanga,37,,LD Chandimal,19,South Africa,Sri Lanka,59,South Africa,Buffalo Park,2,South Africa
+122,20.3,0,RJ Peterson,2012-01-14,1st,LD Chandimal,19,,WU Tharanga,37,South Africa,Sri Lanka,59,South Africa,Buffalo Park,2,South Africa
+123,20.4,0,RJ Peterson,2012-01-14,1st,LD Chandimal,19,,WU Tharanga,37,South Africa,Sri Lanka,59,South Africa,Buffalo Park,2,South Africa
+124,20.5,1,RJ Peterson,2012-01-14,1st,LD Chandimal,19,,WU Tharanga,38,South Africa,Sri Lanka,60,South Africa,Buffalo Park,2,South Africa
+125,20.6,1,RJ Peterson,2012-01-14,1st,WU Tharanga,38,,LD Chandimal,20,South Africa,Sri Lanka,61,South Africa,Buffalo Park,2,South Africa
+126,21.1,1,JA Morkel,2012-01-14,1st,WU Tharanga,38,,LD Chandimal,21,South Africa,Sri Lanka,62,South Africa,Buffalo Park,2,South Africa
+127,21.2,0,JA Morkel,2012-01-14,1st,LD Chandimal,21,,WU Tharanga,38,South Africa,Sri Lanka,62,South Africa,Buffalo Park,2,South Africa
+128,21.3,0,JA Morkel,2012-01-14,1st,LD Chandimal,21,,WU Tharanga,38,South Africa,Sri Lanka,62,South Africa,Buffalo Park,2,South Africa
+129,21.4,0,JA Morkel,2012-01-14,1st,LD Chandimal,21,,WU Tharanga,38,South Africa,Sri Lanka,62,South Africa,Buffalo Park,2,South Africa
+130,21.5,1,JA Morkel,2012-01-14,1st,LD Chandimal,21,,WU Tharanga,39,South Africa,Sri Lanka,63,South Africa,Buffalo Park,2,South Africa
+131,21.6,1,JA Morkel,2012-01-14,1st,WU Tharanga,39,,LD Chandimal,22,South Africa,Sri Lanka,64,South Africa,Buffalo Park,2,South Africa
+132,22.1,0,RJ Peterson,2012-01-14,1st,WU Tharanga,39,,LD Chandimal,22,South Africa,Sri Lanka,64,South Africa,Buffalo Park,2,South Africa
+133,22.2,0,RJ Peterson,2012-01-14,1st,WU Tharanga,39,,LD Chandimal,22,South Africa,Sri Lanka,64,South Africa,Buffalo Park,2,South Africa
+134,22.3,1,RJ Peterson,2012-01-14,1st,WU Tharanga,39,,LD Chandimal,23,South Africa,Sri Lanka,65,South Africa,Buffalo Park,2,South Africa
+135,22.4,1,RJ Peterson,2012-01-14,1st,LD Chandimal,23,,WU Tharanga,40,South Africa,Sri Lanka,66,South Africa,Buffalo Park,2,South Africa
+136,22.5,1,RJ Peterson,2012-01-14,1st,WU Tharanga,40,,LD Chandimal,24,South Africa,Sri Lanka,67,South Africa,Buffalo Park,2,South Africa
+137,22.6,1,RJ Peterson,2012-01-14,1st,LD Chandimal,24,,WU Tharanga,41,South Africa,Sri Lanka,68,South Africa,Buffalo Park,2,South Africa
+138,23.1,1,JA Morkel,2012-01-14,1st,LD Chandimal,24,,WU Tharanga,42,South Africa,Sri Lanka,69,South Africa,Buffalo Park,2,South Africa
+139,23.2,1,JA Morkel,2012-01-14,1st,WU Tharanga,42,,LD Chandimal,25,South Africa,Sri Lanka,70,South Africa,Buffalo Park,2,South Africa
+140,23.3,0,JA Morkel,2012-01-14,1st,LD Chandimal,25,,WU Tharanga,42,South Africa,Sri Lanka,70,South Africa,Buffalo Park,2,South Africa
+141,23.4,4,JA Morkel,2012-01-14,1st,LD Chandimal,25,,WU Tharanga,46,South Africa,Sri Lanka,74,South Africa,Buffalo Park,2,South Africa
+142,23.5,2,JA Morkel,2012-01-14,1st,LD Chandimal,25,,WU Tharanga,48,South Africa,Sri Lanka,76,South Africa,Buffalo Park,2,South Africa
+143,23.6,2,JA Morkel,2012-01-14,1st,LD Chandimal,25,,WU Tharanga,50,South Africa,Sri Lanka,78,South Africa,Buffalo Park,2,South Africa
+144,24.1,2,JP Duminy,2012-01-14,1st,WU Tharanga,50,,LD Chandimal,27,South Africa,Sri Lanka,80,South Africa,Buffalo Park,2,South Africa
+145,24.2,0,JP Duminy,2012-01-14,1st,WU Tharanga,50,,LD Chandimal,27,South Africa,Sri Lanka,80,South Africa,Buffalo Park,2,South Africa
+146,24.3,1,JP Duminy,2012-01-14,1st,WU Tharanga,50,,LD Chandimal,28,South Africa,Sri Lanka,81,South Africa,Buffalo Park,2,South Africa
+147,24.4,0,JP Duminy,2012-01-14,1st,LD Chandimal,28,,WU Tharanga,50,South Africa,Sri Lanka,81,South Africa,Buffalo Park,2,South Africa
+148,24.5,0,JP Duminy,2012-01-14,1st,LD Chandimal,28,,WU Tharanga,50,South Africa,Sri Lanka,81,South Africa,Buffalo Park,2,South Africa
+149,24.6,1,JP Duminy,2012-01-14,1st,LD Chandimal,28,,WU Tharanga,51,South Africa,Sri Lanka,82,South Africa,Buffalo Park,2,South Africa
+150,25.1,4,JA Morkel,2012-01-14,1st,LD Chandimal,28,,WU Tharanga,55,South Africa,Sri Lanka,86,South Africa,Buffalo Park,2,South Africa
+151,25.2,1,JA Morkel,2012-01-14,1st,LD Chandimal,28,,WU Tharanga,56,South Africa,Sri Lanka,87,South Africa,Buffalo Park,2,South Africa
+152,25.3,1,JA Morkel,2012-01-14,1st,WU Tharanga,56,,LD Chandimal,29,South Africa,Sri Lanka,88,South Africa,Buffalo Park,2,South Africa
+153,25.4,0,JA Morkel,2012-01-14,1st,LD Chandimal,29,,WU Tharanga,56,South Africa,Sri Lanka,88,South Africa,Buffalo Park,2,South Africa
+154,25.5,1,JA Morkel,2012-01-14,1st,LD Chandimal,29,,WU Tharanga,57,South Africa,Sri Lanka,89,South Africa,Buffalo Park,2,South Africa
+155,25.6,1,JA Morkel,2012-01-14,1st,WU Tharanga,57,,LD Chandimal,30,South Africa,Sri Lanka,90,South Africa,Buffalo Park,2,South Africa
+156,26.1,0,JP Duminy,2012-01-14,1st,WU Tharanga,57,,LD Chandimal,30,South Africa,Sri Lanka,90,South Africa,Buffalo Park,2,South Africa
+157,26.2,1,JP Duminy,2012-01-14,1st,WU Tharanga,57,,LD Chandimal,31,South Africa,Sri Lanka,91,South Africa,Buffalo Park,2,South Africa
+158,26.3,1,JP Duminy,2012-01-14,1st,LD Chandimal,31,,WU Tharanga,58,South Africa,Sri Lanka,92,South Africa,Buffalo Park,2,South Africa
+159,26.4,0,JP Duminy,2012-01-14,1st,WU Tharanga,58,,LD Chandimal,31,South Africa,Sri Lanka,92,South Africa,Buffalo Park,2,South Africa
+160,26.5,1,JP Duminy,2012-01-14,1st,WU Tharanga,58,,LD Chandimal,32,South Africa,Sri Lanka,93,South Africa,Buffalo Park,2,South Africa
+161,26.6,0,JP Duminy,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,58,South Africa,Sri Lanka,94,South Africa,Buffalo Park,2,South Africa
+162,26.7,1,JP Duminy,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,59,South Africa,Sri Lanka,95,South Africa,Buffalo Park,2,South Africa
+163,27.1,0,RJ Peterson,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,59,South Africa,Sri Lanka,95,South Africa,Buffalo Park,2,South Africa
+164,27.2,4,RJ Peterson,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,63,South Africa,Sri Lanka,99,South Africa,Buffalo Park,2,South Africa
+165,27.3,1,RJ Peterson,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,64,South Africa,Sri Lanka,100,South Africa,Buffalo Park,2,South Africa
+166,27.4,0,RJ Peterson,2012-01-14,1st,WU Tharanga,64,,LD Chandimal,32,South Africa,Sri Lanka,101,South Africa,Buffalo Park,2,South Africa
+167,27.5,0,RJ Peterson,2012-01-14,1st,WU Tharanga,64,,LD Chandimal,32,South Africa,Sri Lanka,102,South Africa,Buffalo Park,2,South Africa
+168,27.6,0,RJ Peterson,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,64,South Africa,Sri Lanka,102,South Africa,Buffalo Park,2,South Africa
+169,27.7,1,RJ Peterson,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,65,South Africa,Sri Lanka,103,South Africa,Buffalo Park,2,South Africa
+170,28.1,1,M Morkel,2012-01-14,1st,LD Chandimal,32,,WU Tharanga,66,South Africa,Sri Lanka,104,South Africa,Buffalo Park,2,South Africa
+171,28.2,1,M Morkel,2012-01-14,1st,WU Tharanga,66,,LD Chandimal,33,South Africa,Sri Lanka,105,South Africa,Buffalo Park,2,South Africa
+172,28.3,0,M Morkel,2012-01-14,1st,LD Chandimal,33,WU Tharanga,WU Tharanga,66,South Africa,Sri Lanka,105,South Africa,Buffalo Park,3,South Africa
+173,28.4,0,M Morkel,2012-01-14,1st,LD Chandimal,33,,DPMD Jayawardene,0,South Africa,Sri Lanka,105,South Africa,Buffalo Park,3,South Africa
+174,28.5,0,M Morkel,2012-01-14,1st,LD Chandimal,33,,DPMD Jayawardene,0,South Africa,Sri Lanka,105,South Africa,Buffalo Park,3,South Africa
+175,28.6,0,M Morkel,2012-01-14,1st,LD Chandimal,33,,DPMD Jayawardene,0,South Africa,Sri Lanka,105,South Africa,Buffalo Park,3,South Africa
+176,29.1,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,0,,LD Chandimal,33,South Africa,Sri Lanka,105,South Africa,Buffalo Park,3,South Africa
+177,29.2,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,0,,LD Chandimal,33,South Africa,Sri Lanka,105,South Africa,Buffalo Park,3,South Africa
+178,29.3,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,0,,LD Chandimal,33,South Africa,Sri Lanka,105,South Africa,Buffalo Park,3,South Africa
+179,29.4,1,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,0,,LD Chandimal,34,South Africa,Sri Lanka,106,South Africa,Buffalo Park,3,South Africa
+180,29.5,0,RJ Peterson,2012-01-14,1st,LD Chandimal,34,,DPMD Jayawardene,0,South Africa,Sri Lanka,106,South Africa,Buffalo Park,3,South Africa
+181,29.6,0,RJ Peterson,2012-01-14,1st,LD Chandimal,34,,DPMD Jayawardene,0,South Africa,Sri Lanka,106,South Africa,Buffalo Park,3,South Africa
+182,30.1,1,M Morkel,2012-01-14,1st,DPMD Jayawardene,0,,LD Chandimal,35,South Africa,Sri Lanka,107,South Africa,Buffalo Park,3,South Africa
+183,30.2,3,M Morkel,2012-01-14,1st,LD Chandimal,35,,DPMD Jayawardene,3,South Africa,Sri Lanka,110,South Africa,Buffalo Park,3,South Africa
+184,30.3,1,M Morkel,2012-01-14,1st,DPMD Jayawardene,3,,LD Chandimal,36,South Africa,Sri Lanka,111,South Africa,Buffalo Park,3,South Africa
+185,30.4,0,M Morkel,2012-01-14,1st,LD Chandimal,36,,DPMD Jayawardene,3,South Africa,Sri Lanka,111,South Africa,Buffalo Park,3,South Africa
+186,30.5,1,M Morkel,2012-01-14,1st,LD Chandimal,36,,DPMD Jayawardene,4,South Africa,Sri Lanka,112,South Africa,Buffalo Park,3,South Africa
+187,30.6,1,M Morkel,2012-01-14,1st,DPMD Jayawardene,4,,LD Chandimal,37,South Africa,Sri Lanka,113,South Africa,Buffalo Park,3,South Africa
+188,31.1,1,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,4,,LD Chandimal,38,South Africa,Sri Lanka,114,South Africa,Buffalo Park,3,South Africa
+189,31.2,1,RJ Peterson,2012-01-14,1st,LD Chandimal,38,,DPMD Jayawardene,5,South Africa,Sri Lanka,115,South Africa,Buffalo Park,3,South Africa
+190,31.3,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,5,,LD Chandimal,38,South Africa,Sri Lanka,115,South Africa,Buffalo Park,3,South Africa
+191,31.4,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,5,,LD Chandimal,38,South Africa,Sri Lanka,115,South Africa,Buffalo Park,3,South Africa
+192,31.5,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,5,,LD Chandimal,38,South Africa,Sri Lanka,115,South Africa,Buffalo Park,3,South Africa
+193,31.6,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,5,,LD Chandimal,38,South Africa,Sri Lanka,115,South Africa,Buffalo Park,3,South Africa
+194,32.1,0,JP Duminy,2012-01-14,1st,LD Chandimal,38,,DPMD Jayawardene,5,South Africa,Sri Lanka,115,South Africa,Buffalo Park,3,South Africa
+195,32.2,1,JP Duminy,2012-01-14,1st,LD Chandimal,38,,DPMD Jayawardene,6,South Africa,Sri Lanka,116,South Africa,Buffalo Park,3,South Africa
+196,32.3,0,JP Duminy,2012-01-14,1st,DPMD Jayawardene,6,,LD Chandimal,38,South Africa,Sri Lanka,116,South Africa,Buffalo Park,3,South Africa
+197,32.4,1,JP Duminy,2012-01-14,1st,DPMD Jayawardene,6,,LD Chandimal,39,South Africa,Sri Lanka,117,South Africa,Buffalo Park,3,South Africa
+198,32.5,1,JP Duminy,2012-01-14,1st,LD Chandimal,39,,DPMD Jayawardene,7,South Africa,Sri Lanka,118,South Africa,Buffalo Park,3,South Africa
+199,32.6,1,JP Duminy,2012-01-14,1st,DPMD Jayawardene,7,,LD Chandimal,40,South Africa,Sri Lanka,119,South Africa,Buffalo Park,3,South Africa
+200,33.1,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,7,,LD Chandimal,40,South Africa,Sri Lanka,119,South Africa,Buffalo Park,3,South Africa
+201,33.2,1,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,7,,LD Chandimal,41,South Africa,Sri Lanka,120,South Africa,Buffalo Park,3,South Africa
+202,33.3,0,RJ Peterson,2012-01-14,1st,LD Chandimal,41,,DPMD Jayawardene,7,South Africa,Sri Lanka,120,South Africa,Buffalo Park,3,South Africa
+203,33.4,1,RJ Peterson,2012-01-14,1st,LD Chandimal,41,,DPMD Jayawardene,8,South Africa,Sri Lanka,121,South Africa,Buffalo Park,3,South Africa
+204,33.5,0,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,8,,LD Chandimal,41,South Africa,Sri Lanka,121,South Africa,Buffalo Park,3,South Africa
+205,33.6,1,RJ Peterson,2012-01-14,1st,DPMD Jayawardene,8,,LD Chandimal,42,South Africa,Sri Lanka,122,South Africa,Buffalo Park,3,South Africa
+206,34.1,1,JP Duminy,2012-01-14,1st,DPMD Jayawardene,8,,LD Chandimal,43,South Africa,Sri Lanka,123,South Africa,Buffalo Park,3,South Africa
+207,34.2,1,JP Duminy,2012-01-14,1st,LD Chandimal,43,,DPMD Jayawardene,9,South Africa,Sri Lanka,124,South Africa,Buffalo Park,3,South Africa
+208,34.3,1,JP Duminy,2012-01-14,1st,DPMD Jayawardene,9,,LD Chandimal,44,South Africa,Sri Lanka,125,South Africa,Buffalo Park,3,South Africa
+209,34.4,1,JP Duminy,2012-01-14,1st,LD Chandimal,44,,DPMD Jayawardene,10,South Africa,Sri Lanka,126,South Africa,Buffalo Park,3,South Africa
+210,34.5,0,JP Duminy,2012-01-14,1st,DPMD Jayawardene,10,,LD Chandimal,44,South Africa,Sri Lanka,126,South Africa,Buffalo Park,3,South Africa
+211,34.6,1,JP Duminy,2012-01-14,1st,DPMD Jayawardene,10,,LD Chandimal,45,South Africa,Sri Lanka,127,South Africa,Buffalo Park,3,South Africa
+212,35.1,0,M Morkel,2012-01-14,1st,DPMD Jayawardene,10,,LD Chandimal,45,South Africa,Sri Lanka,127,South Africa,Buffalo Park,3,South Africa
+213,35.2,1,M Morkel,2012-01-14,1st,DPMD Jayawardene,10,,LD Chandimal,46,South Africa,Sri Lanka,128,South Africa,Buffalo Park,3,South Africa
+214,35.3,0,M Morkel,2012-01-14,1st,LD Chandimal,46,,DPMD Jayawardene,10,South Africa,Sri Lanka,129,South Africa,Buffalo Park,3,South Africa
+215,35.4,0,M Morkel,2012-01-14,1st,LD Chandimal,46,,DPMD Jayawardene,10,South Africa,Sri Lanka,129,South Africa,Buffalo Park,3,South Africa
+216,35.5,0,M Morkel,2012-01-14,1st,LD Chandimal,46,,DPMD Jayawardene,10,South Africa,Sri Lanka,129,South Africa,Buffalo Park,3,South Africa
+217,35.6,1,M Morkel,2012-01-14,1st,LD Chandimal,46,,DPMD Jayawardene,11,South Africa,Sri Lanka,130,South Africa,Buffalo Park,3,South Africa
+218,35.7,0,M Morkel,2012-01-14,1st,DPMD Jayawardene,11,,LD Chandimal,46,South Africa,Sri Lanka,131,South Africa,Buffalo Park,3,South Africa
+219,35.8,0,M Morkel,2012-01-14,1st,DPMD Jayawardene,11,,LD Chandimal,46,South Africa,Sri Lanka,131,South Africa,Buffalo Park,3,South Africa
+220,36.1,2,DW Steyn,2012-01-14,1st,LD Chandimal,46,,DPMD Jayawardene,13,South Africa,Sri Lanka,133,South Africa,Buffalo Park,3,South Africa
+221,36.2,0,DW Steyn,2012-01-14,1st,LD Chandimal,46,,DPMD Jayawardene,13,South Africa,Sri Lanka,133,South Africa,Buffalo Park,3,South Africa
+222,36.3,1,DW Steyn,2012-01-14,1st,LD Chandimal,46,,DPMD Jayawardene,14,South Africa,Sri Lanka,134,South Africa,Buffalo Park,3,South Africa
+223,36.4,1,DW Steyn,2012-01-14,1st,DPMD Jayawardene,14,,LD Chandimal,47,South Africa,Sri Lanka,135,South Africa,Buffalo Park,3,South Africa
+224,36.5,0,DW Steyn,2012-01-14,1st,LD Chandimal,47,,DPMD Jayawardene,14,South Africa,Sri Lanka,135,South Africa,Buffalo Park,3,South Africa
+225,36.6,1,DW Steyn,2012-01-14,1st,LD Chandimal,47,,DPMD Jayawardene,15,South Africa,Sri Lanka,136,South Africa,Buffalo Park,3,South Africa
+226,37.1,4,M Morkel,2012-01-14,1st,LD Chandimal,47,,DPMD Jayawardene,19,South Africa,Sri Lanka,140,South Africa,Buffalo Park,3,South Africa
+227,37.2,0,M Morkel,2012-01-14,1st,LD Chandimal,47,DPMD Jayawardene,DPMD Jayawardene,19,South Africa,Sri Lanka,140,South Africa,Buffalo Park,4,South Africa
+228,37.3,0,M Morkel,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,0,South Africa,Sri Lanka,140,South Africa,Buffalo Park,4,South Africa
+229,37.4,0,M Morkel,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,0,South Africa,Sri Lanka,140,South Africa,Buffalo Park,4,South Africa
+230,37.5,0,M Morkel,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,0,South Africa,Sri Lanka,140,South Africa,Buffalo Park,4,South Africa
+231,37.6,1,M Morkel,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,1,South Africa,Sri Lanka,141,South Africa,Buffalo Park,4,South Africa
+232,38.1,0,DW Steyn,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,1,South Africa,Sri Lanka,141,South Africa,Buffalo Park,4,South Africa
+233,38.2,4,DW Steyn,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,5,South Africa,Sri Lanka,145,South Africa,Buffalo Park,4,South Africa
+234,38.3,6,DW Steyn,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,11,South Africa,Sri Lanka,151,South Africa,Buffalo Park,4,South Africa
+235,38.4,0,DW Steyn,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,11,South Africa,Sri Lanka,151,South Africa,Buffalo Park,4,South Africa
+236,38.5,4,DW Steyn,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,15,South Africa,Sri Lanka,155,South Africa,Buffalo Park,4,South Africa
+237,38.6,0,DW Steyn,2012-01-14,1st,LD Chandimal,47,,KMDN Kulasekara,15,South Africa,Sri Lanka,155,South Africa,Buffalo Park,4,South Africa
+238,39.1,1,LL Tsotsobe,2012-01-14,1st,KMDN Kulasekara,15,,LD Chandimal,48,South Africa,Sri Lanka,156,South Africa,Buffalo Park,4,South Africa
+239,39.2,6,LL Tsotsobe,2012-01-14,1st,LD Chandimal,48,,KMDN Kulasekara,21,South Africa,Sri Lanka,162,South Africa,Buffalo Park,4,South Africa
+240,39.3,1,LL Tsotsobe,2012-01-14,1st,LD Chandimal,48,,KMDN Kulasekara,22,South Africa,Sri Lanka,163,South Africa,Buffalo Park,4,South Africa
+241,39.4,1,LL Tsotsobe,2012-01-14,1st,KMDN Kulasekara,22,,LD Chandimal,49,South Africa,Sri Lanka,164,South Africa,Buffalo Park,4,South Africa
+242,39.5,0,LL Tsotsobe,2012-01-14,1st,LD Chandimal,49,KMDN Kulasekara,KMDN Kulasekara,22,South Africa,Sri Lanka,164,South Africa,Buffalo Park,5,South Africa
+243,39.6,2,LL Tsotsobe,2012-01-14,1st,AD Mathews,0,,LD Chandimal,51,South Africa,Sri Lanka,166,South Africa,Buffalo Park,5,South Africa
+244,40.1,1,RJ Peterson,2012-01-14,1st,LD Chandimal,51,,AD Mathews,1,South Africa,Sri Lanka,167,South Africa,Buffalo Park,5,South Africa
+245,40.2,4,RJ Peterson,2012-01-14,1st,AD Mathews,1,,LD Chandimal,55,South Africa,Sri Lanka,171,South Africa,Buffalo Park,5,South Africa
+246,40.3,1,RJ Peterson,2012-01-14,1st,AD Mathews,1,,LD Chandimal,56,South Africa,Sri Lanka,172,South Africa,Buffalo Park,5,South Africa
+247,40.4,0,RJ Peterson,2012-01-14,1st,LD Chandimal,56,,AD Mathews,1,South Africa,Sri Lanka,172,South Africa,Buffalo Park,5,South Africa
+248,40.5,0,RJ Peterson,2012-01-14,1st,LD Chandimal,56,,AD Mathews,1,South Africa,Sri Lanka,172,South Africa,Buffalo Park,5,South Africa
+249,40.6,0,RJ Peterson,2012-01-14,1st,LD Chandimal,56,,AD Mathews,1,South Africa,Sri Lanka,172,South Africa,Buffalo Park,5,South Africa
+250,41.1,0,LL Tsotsobe,2012-01-14,1st,AD Mathews,1,,LD Chandimal,56,South Africa,Sri Lanka,172,South Africa,Buffalo Park,5,South Africa
+251,41.2,1,LL Tsotsobe,2012-01-14,1st,AD Mathews,1,,LD Chandimal,57,South Africa,Sri Lanka,173,South Africa,Buffalo Park,5,South Africa
+252,41.3,1,LL Tsotsobe,2012-01-14,1st,LD Chandimal,57,,AD Mathews,2,South Africa,Sri Lanka,174,South Africa,Buffalo Park,5,South Africa
+253,41.4,1,LL Tsotsobe,2012-01-14,1st,AD Mathews,2,,LD Chandimal,58,South Africa,Sri Lanka,175,South Africa,Buffalo Park,5,South Africa
+254,41.5,1,LL Tsotsobe,2012-01-14,1st,LD Chandimal,58,,AD Mathews,3,South Africa,Sri Lanka,176,South Africa,Buffalo Park,5,South Africa
+255,41.6,1,LL Tsotsobe,2012-01-14,1st,AD Mathews,3,,LD Chandimal,59,South Africa,Sri Lanka,177,South Africa,Buffalo Park,5,South Africa
+256,42.1,0,RJ Peterson,2012-01-14,1st,AD Mathews,3,,LD Chandimal,59,South Africa,Sri Lanka,177,South Africa,Buffalo Park,5,South Africa
+257,42.2,1,RJ Peterson,2012-01-14,1st,AD Mathews,3,,LD Chandimal,60,South Africa,Sri Lanka,178,South Africa,Buffalo Park,5,South Africa
+258,42.3,6,RJ Peterson,2012-01-14,1st,LD Chandimal,60,,AD Mathews,9,South Africa,Sri Lanka,184,South Africa,Buffalo Park,5,South Africa
+259,42.4,0,RJ Peterson,2012-01-14,1st,LD Chandimal,60,,AD Mathews,9,South Africa,Sri Lanka,184,South Africa,Buffalo Park,5,South Africa
+260,42.5,1,RJ Peterson,2012-01-14,1st,LD Chandimal,60,,AD Mathews,10,South Africa,Sri Lanka,185,South Africa,Buffalo Park,5,South Africa
+261,42.6,1,RJ Peterson,2012-01-14,1st,AD Mathews,10,,LD Chandimal,61,South Africa,Sri Lanka,186,South Africa,Buffalo Park,5,South Africa
+262,43.1,4,M Morkel,2012-01-14,1st,AD Mathews,10,,LD Chandimal,65,South Africa,Sri Lanka,190,South Africa,Buffalo Park,5,South Africa
+263,43.2,1,M Morkel,2012-01-14,1st,AD Mathews,10,,LD Chandimal,66,South Africa,Sri Lanka,191,South Africa,Buffalo Park,5,South Africa
+264,43.3,0,M Morkel,2012-01-14,1st,LD Chandimal,66,,AD Mathews,10,South Africa,Sri Lanka,192,South Africa,Buffalo Park,5,South Africa
+265,43.4,1,M Morkel,2012-01-14,1st,LD Chandimal,66,,AD Mathews,11,South Africa,Sri Lanka,193,South Africa,Buffalo Park,5,South Africa
+266,43.5,0,M Morkel,2012-01-14,1st,AD Mathews,11,,LD Chandimal,66,South Africa,Sri Lanka,193,South Africa,Buffalo Park,5,South Africa
+267,43.6,1,M Morkel,2012-01-14,1st,AD Mathews,11,,LD Chandimal,67,South Africa,Sri Lanka,194,South Africa,Buffalo Park,5,South Africa
+268,43.7,1,M Morkel,2012-01-14,1st,LD Chandimal,67,,AD Mathews,12,South Africa,Sri Lanka,195,South Africa,Buffalo Park,5,South Africa
+269,44.1,0,DW Steyn,2012-01-14,1st,LD Chandimal,67,,AD Mathews,12,South Africa,Sri Lanka,195,South Africa,Buffalo Park,5,South Africa
+270,44.2,0,DW Steyn,2012-01-14,1st,LD Chandimal,67,,AD Mathews,12,South Africa,Sri Lanka,195,South Africa,Buffalo Park,5,South Africa
+271,44.3,1,DW Steyn,2012-01-14,1st,LD Chandimal,67,,AD Mathews,13,South Africa,Sri Lanka,196,South Africa,Buffalo Park,5,South Africa
+272,44.4,0,DW Steyn,2012-01-14,1st,AD Mathews,13,,LD Chandimal,67,South Africa,Sri Lanka,196,South Africa,Buffalo Park,5,South Africa
+273,44.5,2,DW Steyn,2012-01-14,1st,AD Mathews,13,,LD Chandimal,69,South Africa,Sri Lanka,198,South Africa,Buffalo Park,5,South Africa
+274,44.6,1,DW Steyn,2012-01-14,1st,AD Mathews,13,,LD Chandimal,70,South Africa,Sri Lanka,199,South Africa,Buffalo Park,5,South Africa
+275,45.1,1,M Morkel,2012-01-14,1st,AD Mathews,13,,LD Chandimal,71,South Africa,Sri Lanka,200,South Africa,Buffalo Park,5,South Africa
+276,45.2,1,M Morkel,2012-01-14,1st,LD Chandimal,71,,AD Mathews,14,South Africa,Sri Lanka,201,South Africa,Buffalo Park,5,South Africa
+277,45.3,1,M Morkel,2012-01-14,1st,AD Mathews,14,,LD Chandimal,72,South Africa,Sri Lanka,202,South Africa,Buffalo Park,5,South Africa
+278,45.4,0,M Morkel,2012-01-14,1st,LD Chandimal,72,,AD Mathews,14,South Africa,Sri Lanka,202,South Africa,Buffalo Park,5,South Africa
+279,45.5,1,M Morkel,2012-01-14,1st,LD Chandimal,72,,AD Mathews,15,South Africa,Sri Lanka,203,South Africa,Buffalo Park,5,South Africa
+280,45.6,1,M Morkel,2012-01-14,1st,AD Mathews,15,,LD Chandimal,73,South Africa,Sri Lanka,204,South Africa,Buffalo Park,5,South Africa
+281,46.1,4,LL Tsotsobe,2012-01-14,1st,AD Mathews,15,,LD Chandimal,77,South Africa,Sri Lanka,208,South Africa,Buffalo Park,5,South Africa
+282,46.2,4,LL Tsotsobe,2012-01-14,1st,AD Mathews,15,,LD Chandimal,81,South Africa,Sri Lanka,212,South Africa,Buffalo Park,5,South Africa
+283,46.3,0,LL Tsotsobe,2012-01-14,1st,AD Mathews,15,,LD Chandimal,81,South Africa,Sri Lanka,212,South Africa,Buffalo Park,5,South Africa
+284,46.4,2,LL Tsotsobe,2012-01-14,1st,AD Mathews,15,,LD Chandimal,83,South Africa,Sri Lanka,214,South Africa,Buffalo Park,5,South Africa
+285,46.5,1,LL Tsotsobe,2012-01-14,1st,AD Mathews,15,,LD Chandimal,84,South Africa,Sri Lanka,215,South Africa,Buffalo Park,5,South Africa
+286,46.6,1,LL Tsotsobe,2012-01-14,1st,LD Chandimal,84,,AD Mathews,16,South Africa,Sri Lanka,216,South Africa,Buffalo Park,5,South Africa
+287,47.1,0,DW Steyn,2012-01-14,1st,LD Chandimal,84,,AD Mathews,16,South Africa,Sri Lanka,216,South Africa,Buffalo Park,5,South Africa
+288,47.2,1,DW Steyn,2012-01-14,1st,LD Chandimal,84,,AD Mathews,17,South Africa,Sri Lanka,217,South Africa,Buffalo Park,5,South Africa
+289,47.3,1,DW Steyn,2012-01-14,1st,AD Mathews,17,,LD Chandimal,85,South Africa,Sri Lanka,218,South Africa,Buffalo Park,5,South Africa
+290,47.4,1,DW Steyn,2012-01-14,1st,LD Chandimal,85,,AD Mathews,18,South Africa,Sri Lanka,219,South Africa,Buffalo Park,5,South Africa
+291,47.5,4,DW Steyn,2012-01-14,1st,AD Mathews,18,,LD Chandimal,89,South Africa,Sri Lanka,223,South Africa,Buffalo Park,5,South Africa
+292,47.6,0,DW Steyn,2012-01-14,1st,AD Mathews,18,,LD Chandimal,89,South Africa,Sri Lanka,223,South Africa,Buffalo Park,5,South Africa
+293,48.1,1,LL Tsotsobe,2012-01-14,1st,LD Chandimal,89,,AD Mathews,19,South Africa,Sri Lanka,224,South Africa,Buffalo Park,5,South Africa
+294,48.2,1,LL Tsotsobe,2012-01-14,1st,AD Mathews,19,,LD Chandimal,90,South Africa,Sri Lanka,225,South Africa,Buffalo Park,5,South Africa
+295,48.3,1,LL Tsotsobe,2012-01-14,1st,LD Chandimal,90,,AD Mathews,20,South Africa,Sri Lanka,226,South Africa,Buffalo Park,5,South Africa
+296,48.4,1,LL Tsotsobe,2012-01-14,1st,AD Mathews,20,,LD Chandimal,91,South Africa,Sri Lanka,227,South Africa,Buffalo Park,5,South Africa
+297,48.5,0,LL Tsotsobe,2012-01-14,1st,LD Chandimal,91,,AD Mathews,20,South Africa,Sri Lanka,227,South Africa,Buffalo Park,5,South Africa
+298,48.6,1,LL Tsotsobe,2012-01-14,1st,LD Chandimal,91,,AD Mathews,21,South Africa,Sri Lanka,228,South Africa,Buffalo Park,5,South Africa
+299,49.1,4,DW Steyn,2012-01-14,1st,LD Chandimal,91,,AD Mathews,25,South Africa,Sri Lanka,232,South Africa,Buffalo Park,5,South Africa
+300,49.2,2,DW Steyn,2012-01-14,1st,LD Chandimal,91,,AD Mathews,27,South Africa,Sri Lanka,234,South Africa,Buffalo Park,5,South Africa
+301,49.3,1,DW Steyn,2012-01-14,1st,LD Chandimal,91,,AD Mathews,28,South Africa,Sri Lanka,235,South Africa,Buffalo Park,5,South Africa
+302,49.4,0,DW Steyn,2012-01-14,1st,AD Mathews,28,,LD Chandimal,91,South Africa,Sri Lanka,235,South Africa,Buffalo Park,5,South Africa
+303,49.5,1,DW Steyn,2012-01-14,1st,AD Mathews,28,,LD Chandimal,92,South Africa,Sri Lanka,236,South Africa,Buffalo Park,5,South Africa
+304,49.6,0,DW Steyn,2012-01-14,1st,LD Chandimal,92,AD Mathews,AD Mathews,28,South Africa,Sri Lanka,236,South Africa,Buffalo Park,6,South Africa
+305,0.1,1,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,1,South Africa,Buffalo Park,0,South Africa
+306,0.2,0,SL Malinga,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,1,South Africa,Buffalo Park,0,South Africa
+307,0.3,0,SL Malinga,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,1,South Africa,Buffalo Park,0,South Africa
+308,0.4,1,SL Malinga,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,2,South Africa,Buffalo Park,0,South Africa
+309,0.5,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,2,South Africa,Buffalo Park,0,South Africa
+310,0.6,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,2,South Africa,Buffalo Park,0,South Africa
+311,1.1,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,2,South Africa,Buffalo Park,0,South Africa
+312,1.2,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,2,South Africa,Buffalo Park,0,South Africa
+313,1.3,2,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,4,South Africa,Buffalo Park,0,South Africa
+314,1.4,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,4,South Africa,Buffalo Park,0,South Africa
+315,1.5,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,4,South Africa,Buffalo Park,0,South Africa
+316,1.6,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,4,South Africa,Buffalo Park,0,South Africa
+317,2.1,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,4,South Africa,Buffalo Park,0,South Africa
+318,2.2,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,4,South Africa,Buffalo Park,0,South Africa
+319,2.3,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,4,South Africa,Buffalo Park,0,South Africa
+320,2.4,1,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,5,South Africa,Buffalo Park,0,South Africa
+321,2.5,0,SL Malinga,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,5,South Africa,Buffalo Park,0,South Africa
+322,2.6,0,SL Malinga,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,5,South Africa,Buffalo Park,0,South Africa
+323,3.1,1,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,0,South Africa
+324,3.2,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,6,South Africa,Buffalo Park,0,South Africa
+325,3.3,6,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,12,South Africa,Buffalo Park,0,South Africa
+326,3.4,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,13,South Africa,Buffalo Park,0,South Africa
+327,3.5,0,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,13,South Africa,Buffalo Park,0,South Africa
+328,3.6,2,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,15,South Africa,Buffalo Park,0,South Africa
+329,4.1,0,AD Mathews,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,15,South Africa,Buffalo Park,0,South Africa
+330,4.2,1,AD Mathews,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,16,South Africa,Buffalo Park,0,South Africa
+331,4.3,4,AD Mathews,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,20,South Africa,Buffalo Park,0,South Africa
+332,4.4,0,AD Mathews,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,20,South Africa,Buffalo Park,0,South Africa
+333,4.5,0,AD Mathews,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,20,South Africa,Buffalo Park,0,South Africa
+334,4.6,1,AD Mathews,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,21,South Africa,Buffalo Park,0,South Africa
+335,5.1,0,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,21,South Africa,Buffalo Park,0,South Africa
+336,5.2,0,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,21,South Africa,Buffalo Park,0,South Africa
+337,5.3,0,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,21,South Africa,Buffalo Park,0,South Africa
+338,5.4,1,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,22,South Africa,Buffalo Park,0,South Africa
+339,5.5,4,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,26,South Africa,Buffalo Park,0,South Africa
+340,5.6,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,26,South Africa,Buffalo Park,0,South Africa
+341,6.1,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,26,South Africa,Buffalo Park,0,South Africa
+342,6.2,1,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,27,South Africa,Buffalo Park,0,South Africa
+343,6.3,0,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,27,South Africa,Buffalo Park,0,South Africa
+344,6.4,1,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,28,South Africa,Buffalo Park,0,South Africa
+345,6.5,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,28,South Africa,Buffalo Park,0,South Africa
+346,6.6,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,28,South Africa,Buffalo Park,0,South Africa
+347,7.1,6,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,34,South Africa,Buffalo Park,0,South Africa
+348,7.2,0,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,34,South Africa,Buffalo Park,0,South Africa
+349,7.3,1,KMDN Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,35,South Africa,Buffalo Park,0,South Africa
+350,7.4,0,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,35,South Africa,Buffalo Park,0,South Africa
+351,7.5,0,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,35,South Africa,Buffalo Park,0,South Africa
+352,7.6,1,KMDN Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,36,South Africa,Buffalo Park,0,South Africa
+353,8.1,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,36,South Africa,Buffalo Park,0,South Africa
+354,8.2,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,36,South Africa,Buffalo Park,0,South Africa
+355,8.3,1,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,37,South Africa,Buffalo Park,0,South Africa
+356,8.4,4,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,41,South Africa,Buffalo Park,0,South Africa
+357,8.5,1,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,42,South Africa,Buffalo Park,0,South Africa
+358,8.6,1,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,43,South Africa,Buffalo Park,0,South Africa
+359,9.1,4,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,47,South Africa,Buffalo Park,0,South Africa
+360,9.2,0,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,47,South Africa,Buffalo Park,0,South Africa
+361,9.3,1,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,48,South Africa,Buffalo Park,0,South Africa
+362,9.4,1,TM Dilshan,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,49,South Africa,Buffalo Park,0,South Africa
+363,9.5,0,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,49,South Africa,Buffalo Park,0,South Africa
+364,9.6,0,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,49,South Africa,Buffalo Park,0,South Africa
+365,10.1,1,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,50,South Africa,Buffalo Park,0,South Africa
+366,10.2,1,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,51,South Africa,Buffalo Park,0,South Africa
+367,10.3,1,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,52,South Africa,Buffalo Park,0,South Africa
+368,10.4,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,52,South Africa,Buffalo Park,0,South Africa
+369,10.5,1,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,53,South Africa,Buffalo Park,0,South Africa
+370,10.6,0,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,53,South Africa,Buffalo Park,0,South Africa
+371,11.1,0,CKB Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,53,South Africa,Buffalo Park,0,South Africa
+372,11.2,1,CKB Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,54,South Africa,Buffalo Park,0,South Africa
+373,11.3,2,CKB Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,56,South Africa,Buffalo Park,0,South Africa
+374,11.4,1,CKB Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,57,South Africa,Buffalo Park,0,South Africa
+375,11.5,1,CKB Kulasekara,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,58,South Africa,Buffalo Park,0,South Africa
+376,11.6,1,CKB Kulasekara,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,59,South Africa,Buffalo Park,0,South Africa
+377,12.1,0,TM Dilshan,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,59,South Africa,Buffalo Park,0,South Africa
+378,12.2,4,TM Dilshan,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,63,South Africa,Buffalo Park,0,South Africa
+379,12.3,4,TM Dilshan,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,67,South Africa,Buffalo Park,0,South Africa
+380,12.4,1,TM Dilshan,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,68,South Africa,Buffalo Park,0,South Africa
+381,12.5,0,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,68,South Africa,Buffalo Park,0,South Africa
+382,12.6,0,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,68,South Africa,Buffalo Park,0,South Africa
+383,13.1,1,HMRKB Herath,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,69,South Africa,Buffalo Park,0,South Africa
+384,13.2,1,HMRKB Herath,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,70,South Africa,Buffalo Park,0,South Africa
+385,13.3,1,HMRKB Herath,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,71,South Africa,Buffalo Park,0,South Africa
+386,13.4,1,HMRKB Herath,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,72,South Africa,Buffalo Park,0,South Africa
+387,13.5,0,HMRKB Herath,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,72,South Africa,Buffalo Park,0,South Africa
+388,13.6,0,HMRKB Herath,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,72,South Africa,Buffalo Park,0,South Africa
+389,14.1,0,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,72,South Africa,Buffalo Park,0,South Africa
+390,14.2,0,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,72,South Africa,Buffalo Park,0,South Africa
+391,14.3,1,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,73,South Africa,Buffalo Park,0,South Africa
+392,14.4,0,TM Dilshan,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,73,South Africa,Buffalo Park,0,South Africa
+393,14.5,1,TM Dilshan,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,74,South Africa,Buffalo Park,0,South Africa
+394,14.6,1,TM Dilshan,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,75,South Africa,Buffalo Park,0,South Africa
+395,15.1,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,75,South Africa,Buffalo Park,0,South Africa
+396,15.2,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,75,South Africa,Buffalo Park,0,South Africa
+397,15.3,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,75,South Africa,Buffalo Park,0,South Africa
+398,15.4,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,75,South Africa,Buffalo Park,0,South Africa
+399,15.5,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,75,South Africa,Buffalo Park,0,South Africa
+400,15.6,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,75,South Africa,Buffalo Park,0,South Africa
+401,16.1,1,KTGD Prasad,2012-01-14,2nd,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,76,South Africa,Buffalo Park,0,South Africa
+402,16.2,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,76,South Africa,Buffalo Park,0,South Africa
+403,16.3,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,GC Smith,0,South Africa,Sri Lanka,76,South Africa,Buffalo Park,1,South Africa
+404,16.4,1,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,77,South Africa,Buffalo Park,1,South Africa
+405,16.5,4,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,81,South Africa,Buffalo Park,1,South Africa
+406,16.6,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,81,South Africa,Buffalo Park,1,South Africa
+407,17.1,0,SL Malinga,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,81,South Africa,Buffalo Park,1,South Africa
+408,17.2,1,SL Malinga,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,82,South Africa,Buffalo Park,1,South Africa
+409,17.3,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,82,South Africa,Buffalo Park,1,South Africa
+410,17.4,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,82,South Africa,Buffalo Park,1,South Africa
+411,17.5,0,SL Malinga,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,82,South Africa,Buffalo Park,1,South Africa
+412,17.6,4,SL Malinga,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,86,South Africa,Buffalo Park,1,South Africa
+413,18.1,0,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,86,South Africa,Buffalo Park,1,South Africa
+414,18.2,0,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,86,South Africa,Buffalo Park,1,South Africa
+415,18.3,0,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,86,South Africa,Buffalo Park,1,South Africa
+416,18.4,1,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,87,South Africa,Buffalo Park,1,South Africa
+417,18.5,1,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,88,South Africa,Buffalo Park,1,South Africa
+418,18.6,1,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,89,South Africa,Buffalo Park,1,South Africa
+419,19.1,0,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,89,South Africa,Buffalo Park,1,South Africa
+420,19.2,0,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,89,South Africa,Buffalo Park,1,South Africa
+421,19.3,0,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,89,South Africa,Buffalo Park,1,South Africa
+422,19.4,4,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,93,South Africa,Buffalo Park,1,South Africa
+423,19.5,0,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,93,South Africa,Buffalo Park,1,South Africa
+424,19.6,0,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,93,South Africa,Buffalo Park,1,South Africa
+425,20.1,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,93,South Africa,Buffalo Park,1,South Africa
+426,20.2,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,93,South Africa,Buffalo Park,1,South Africa
+427,20.3,0,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,93,South Africa,Buffalo Park,1,South Africa
+428,20.4,1,KTGD Prasad,2012-01-14,2nd,HM Amla,0,,JH Kallis,0,South Africa,Sri Lanka,94,South Africa,Buffalo Park,1,South Africa
+429,20.5,0,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,HM Amla,0,South Africa,Sri Lanka,94,South Africa,Buffalo Park,2,South Africa
+430,20.6,1,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,95,South Africa,Buffalo Park,2,South Africa
+431,21.1,0,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,95,South Africa,Buffalo Park,2,South Africa
+432,21.2,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,96,South Africa,Buffalo Park,2,South Africa
+433,21.3,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,96,South Africa,Buffalo Park,2,South Africa
+434,21.4,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,96,South Africa,Buffalo Park,2,South Africa
+435,21.5,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,96,South Africa,Buffalo Park,2,South Africa
+436,21.6,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,97,South Africa,Buffalo Park,2,South Africa
+437,22.1,1,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,98,South Africa,Buffalo Park,2,South Africa
+438,22.2,0,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,98,South Africa,Buffalo Park,2,South Africa
+439,22.3,0,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,98,South Africa,Buffalo Park,2,South Africa
+440,22.4,1,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,99,South Africa,Buffalo Park,2,South Africa
+441,22.5,1,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,100,South Africa,Buffalo Park,2,South Africa
+442,22.6,2,KMDN Kulasekara,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,102,South Africa,Buffalo Park,2,South Africa
+443,23.1,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,102,South Africa,Buffalo Park,2,South Africa
+444,23.2,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,102,South Africa,Buffalo Park,2,South Africa
+445,23.3,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,102,South Africa,Buffalo Park,2,South Africa
+446,23.4,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,103,South Africa,Buffalo Park,2,South Africa
+447,23.5,2,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,105,South Africa,Buffalo Park,2,South Africa
+448,23.6,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,106,South Africa,Buffalo Park,2,South Africa
+449,24.1,0,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,106,South Africa,Buffalo Park,2,South Africa
+450,24.2,1,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,107,South Africa,Buffalo Park,2,South Africa
+451,24.3,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,107,South Africa,Buffalo Park,2,South Africa
+452,24.4,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,108,South Africa,Buffalo Park,2,South Africa
+453,24.5,1,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,109,South Africa,Buffalo Park,2,South Africa
+454,24.6,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,110,South Africa,Buffalo Park,2,South Africa
+455,25.1,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,111,South Africa,Buffalo Park,2,South Africa
+456,25.2,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,112,South Africa,Buffalo Park,2,South Africa
+457,25.3,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,113,South Africa,Buffalo Park,2,South Africa
+458,25.4,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,114,South Africa,Buffalo Park,2,South Africa
+459,25.5,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,114,South Africa,Buffalo Park,2,South Africa
+460,25.6,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,114,South Africa,Buffalo Park,2,South Africa
+461,26.1,1,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,115,South Africa,Buffalo Park,2,South Africa
+462,26.2,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,116,South Africa,Buffalo Park,2,South Africa
+463,26.3,1,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,117,South Africa,Buffalo Park,2,South Africa
+464,26.4,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,118,South Africa,Buffalo Park,2,South Africa
+465,26.5,1,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,119,South Africa,Buffalo Park,2,South Africa
+466,26.6,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,119,South Africa,Buffalo Park,2,South Africa
+467,27.1,0,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,119,South Africa,Buffalo Park,2,South Africa
+468,27.2,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,120,South Africa,Buffalo Park,2,South Africa
+469,27.3,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,120,South Africa,Buffalo Park,2,South Africa
+470,27.4,2,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,122,South Africa,Buffalo Park,2,South Africa
+471,27.5,2,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,124,South Africa,Buffalo Park,2,South Africa
+472,27.6,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,124,South Africa,Buffalo Park,2,South Africa
+473,28.1,1,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,125,South Africa,Buffalo Park,2,South Africa
+474,28.2,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,125,South Africa,Buffalo Park,2,South Africa
+475,28.3,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,125,South Africa,Buffalo Park,2,South Africa
+476,28.4,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,125,South Africa,Buffalo Park,2,South Africa
+477,28.5,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,126,South Africa,Buffalo Park,2,South Africa
+478,28.6,0,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,126,South Africa,Buffalo Park,2,South Africa
+479,29.1,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,127,South Africa,Buffalo Park,2,South Africa
+480,29.2,0,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,127,South Africa,Buffalo Park,2,South Africa
+481,29.3,0,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,127,South Africa,Buffalo Park,2,South Africa
+482,29.4,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,128,South Africa,Buffalo Park,2,South Africa
+483,29.5,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,129,South Africa,Buffalo Park,2,South Africa
+484,29.6,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,130,South Africa,Buffalo Park,2,South Africa
+485,30.1,0,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,130,South Africa,Buffalo Park,2,South Africa
+486,30.2,0,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,130,South Africa,Buffalo Park,2,South Africa
+487,30.3,0,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,130,South Africa,Buffalo Park,2,South Africa
+488,30.4,0,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,130,South Africa,Buffalo Park,2,South Africa
+489,30.5,1,TM Dilshan,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,131,South Africa,Buffalo Park,2,South Africa
+490,30.6,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,132,South Africa,Buffalo Park,2,South Africa
+491,31.1,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,133,South Africa,Buffalo Park,2,South Africa
+492,31.2,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,134,South Africa,Buffalo Park,2,South Africa
+493,31.3,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,135,South Africa,Buffalo Park,2,South Africa
+494,31.4,0,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,135,South Africa,Buffalo Park,2,South Africa
+495,31.5,0,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,135,South Africa,Buffalo Park,2,South Africa
+496,31.6,1,HMRKB Herath,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,136,South Africa,Buffalo Park,2,South Africa
+497,32.1,1,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,137,South Africa,Buffalo Park,2,South Africa
+498,32.2,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,137,South Africa,Buffalo Park,2,South Africa
+499,32.3,1,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,138,South Africa,Buffalo Park,2,South Africa
+500,32.4,0,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,138,South Africa,Buffalo Park,2,South Africa
+501,32.5,1,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,139,South Africa,Buffalo Park,2,South Africa
+502,32.6,4,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,143,South Africa,Buffalo Park,2,South Africa
+503,33.1,0,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,143,South Africa,Buffalo Park,2,South Africa
+504,33.2,1,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,144,South Africa,Buffalo Park,2,South Africa
+505,33.3,1,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,145,South Africa,Buffalo Park,2,South Africa
+506,33.4,1,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,146,South Africa,Buffalo Park,2,South Africa
+507,33.5,1,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,147,South Africa,Buffalo Park,2,South Africa
+508,33.6,1,KTGD Prasad,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,148,South Africa,Buffalo Park,2,South Africa
+509,34.1,0,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,148,South Africa,Buffalo Park,2,South Africa
+510,34.2,0,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,148,South Africa,Buffalo Park,2,South Africa
+511,34.3,1,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,149,South Africa,Buffalo Park,2,South Africa
+512,34.4,1,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,150,South Africa,Buffalo Park,2,South Africa
+513,34.5,0,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,150,South Africa,Buffalo Park,2,South Africa
+514,34.6,2,SL Malinga,2012-01-14,2nd,JH Kallis,0,,JP Duminy,0,South Africa,Sri Lanka,152,South Africa,Buffalo Park,2,South Africa
+515,35.1,0,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,JH Kallis,0,South Africa,Sri Lanka,152,South Africa,Buffalo Park,3,South Africa
+516,35.2,1,KTGD Prasad,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,153,South Africa,Buffalo Park,3,South Africa
+517,35.3,2,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,155,South Africa,Buffalo Park,3,South Africa
+518,35.4,4,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,159,South Africa,Buffalo Park,3,South Africa
+519,35.5,1,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,160,South Africa,Buffalo Park,3,South Africa
+520,35.6,1,KTGD Prasad,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,161,South Africa,Buffalo Park,3,South Africa
+521,36.1,1,SL Malinga,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,162,South Africa,Buffalo Park,3,South Africa
+522,36.2,1,SL Malinga,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,163,South Africa,Buffalo Park,3,South Africa
+523,36.3,1,SL Malinga,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,164,South Africa,Buffalo Park,3,South Africa
+524,36.4,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,164,South Africa,Buffalo Park,3,South Africa
+525,36.5,1,SL Malinga,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,165,South Africa,Buffalo Park,3,South Africa
+526,36.6,1,SL Malinga,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,166,South Africa,Buffalo Park,3,South Africa
+527,37.1,0,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,166,South Africa,Buffalo Park,3,South Africa
+528,37.2,2,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,168,South Africa,Buffalo Park,3,South Africa
+529,37.3,0,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,168,South Africa,Buffalo Park,3,South Africa
+530,37.4,0,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,168,South Africa,Buffalo Park,3,South Africa
+531,37.5,1,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,169,South Africa,Buffalo Park,3,South Africa
+532,37.6,0,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,170,South Africa,Buffalo Park,3,South Africa
+533,38.1,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,170,South Africa,Buffalo Park,3,South Africa
+534,38.2,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,171,South Africa,Buffalo Park,3,South Africa
+535,38.3,1,TM Dilshan,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,172,South Africa,Buffalo Park,3,South Africa
+536,38.4,4,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,176,South Africa,Buffalo Park,3,South Africa
+537,38.5,1,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,177,South Africa,Buffalo Park,3,South Africa
+538,38.6,1,TM Dilshan,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,178,South Africa,Buffalo Park,3,South Africa
+539,39.1,2,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,180,South Africa,Buffalo Park,3,South Africa
+540,39.2,6,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,186,South Africa,Buffalo Park,3,South Africa
+541,39.3,1,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,187,South Africa,Buffalo Park,3,South Africa
+542,39.4,1,HMRKB Herath,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,188,South Africa,Buffalo Park,3,South Africa
+543,39.5,0,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,188,South Africa,Buffalo Park,3,South Africa
+544,39.6,1,HMRKB Herath,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,189,South Africa,Buffalo Park,3,South Africa
+545,40.1,1,AD Mathews,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,190,South Africa,Buffalo Park,3,South Africa
+546,40.2,1,AD Mathews,2012-01-14,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,Sri Lanka,191,South Africa,Buffalo Park,3,South Africa
+547,40.3,2,AD Mathews,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,193,South Africa,Buffalo Park,3,South Africa
+548,40.4,0,AD Mathews,2012-01-14,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,Sri Lanka,193,South Africa,Buffalo Park,4,South Africa
+549,40.5,1,AD Mathews,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,194,South Africa,Buffalo Park,4,South Africa
+550,40.6,0,AD Mathews,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,195,South Africa,Buffalo Park,4,South Africa
+551,40.7,1,AD Mathews,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,196,South Africa,Buffalo Park,4,South Africa
+552,41.1,0,KMDN Kulasekara,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,196,South Africa,Buffalo Park,4,South Africa
+553,41.2,1,KMDN Kulasekara,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,197,South Africa,Buffalo Park,4,South Africa
+554,41.3,1,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,198,South Africa,Buffalo Park,4,South Africa
+555,41.4,1,KMDN Kulasekara,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,199,South Africa,Buffalo Park,4,South Africa
+556,41.5,1,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,200,South Africa,Buffalo Park,4,South Africa
+557,41.6,1,KMDN Kulasekara,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,201,South Africa,Buffalo Park,4,South Africa
+558,42.1,0,SL Malinga,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,201,South Africa,Buffalo Park,4,South Africa
+559,42.2,1,SL Malinga,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,202,South Africa,Buffalo Park,4,South Africa
+560,42.3,1,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,203,South Africa,Buffalo Park,4,South Africa
+561,42.4,0,SL Malinga,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,203,South Africa,Buffalo Park,4,South Africa
+562,42.5,1,SL Malinga,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,204,South Africa,Buffalo Park,4,South Africa
+563,42.6,1,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,205,South Africa,Buffalo Park,4,South Africa
+564,43.1,4,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,209,South Africa,Buffalo Park,4,South Africa
+565,43.2,1,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,210,South Africa,Buffalo Park,4,South Africa
+566,43.3,1,KMDN Kulasekara,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,211,South Africa,Buffalo Park,4,South Africa
+567,43.4,1,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,212,South Africa,Buffalo Park,4,South Africa
+568,43.5,1,KMDN Kulasekara,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,213,South Africa,Buffalo Park,4,South Africa
+569,43.6,1,KMDN Kulasekara,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,214,South Africa,Buffalo Park,4,South Africa
+570,44.1,1,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,215,South Africa,Buffalo Park,4,South Africa
+571,44.2,0,SL Malinga,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,215,South Africa,Buffalo Park,4,South Africa
+572,44.3,1,SL Malinga,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,216,South Africa,Buffalo Park,4,South Africa
+573,44.4,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,216,South Africa,Buffalo Park,4,South Africa
+574,44.5,4,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,220,South Africa,Buffalo Park,4,South Africa
+575,44.6,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,220,South Africa,Buffalo Park,4,South Africa
+576,45.1,2,KTGD Prasad,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,222,South Africa,Buffalo Park,4,South Africa
+577,45.2,0,KTGD Prasad,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,222,South Africa,Buffalo Park,4,South Africa
+578,45.3,1,KTGD Prasad,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,223,South Africa,Buffalo Park,4,South Africa
+579,45.4,1,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,4,South Africa
+580,45.5,0,KTGD Prasad,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,4,South Africa
+581,45.6,0,KTGD Prasad,2012-01-14,2nd,F du Plessis,0,,JP Duminy,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,4,South Africa
+582,46.1,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,4,South Africa
+583,46.2,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,5,South Africa
+584,46.3,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,5,South Africa
+585,46.4,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,5,South Africa
+586,46.5,0,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,224,South Africa,Buffalo Park,5,South Africa
+587,46.6,4,SL Malinga,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,228,South Africa,Buffalo Park,5,South Africa
+588,47.1,1,KTGD Prasad,2012-01-14,2nd,JA Morkel,0,,JP Duminy,0,South Africa,Sri Lanka,229,South Africa,Buffalo Park,5,South Africa
+589,47.2,2,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,231,South Africa,Buffalo Park,5,South Africa
+590,47.3,0,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,231,South Africa,Buffalo Park,5,South Africa
+591,47.4,1,KTGD Prasad,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,232,South Africa,Buffalo Park,5,South Africa
+592,47.5,0,KTGD Prasad,2012-01-14,2nd,JA Morkel,0,,JP Duminy,0,South Africa,Sri Lanka,232,South Africa,Buffalo Park,5,South Africa
+593,47.6,0,KTGD Prasad,2012-01-14,2nd,JA Morkel,0,,JP Duminy,0,South Africa,Sri Lanka,232,South Africa,Buffalo Park,5,South Africa
+594,48.1,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,232,South Africa,Buffalo Park,5,South Africa
+595,48.2,0,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,232,South Africa,Buffalo Park,5,South Africa
+596,48.3,2,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,234,South Africa,Buffalo Park,5,South Africa
+597,48.4,3,TM Dilshan,2012-01-14,2nd,JP Duminy,0,,JA Morkel,0,South Africa,Sri Lanka,237,South Africa,Buffalo Park,5,South Africa

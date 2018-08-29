@@ -1,0 +1,535 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,0,,WU Tharanga,0,Bangladesh,Sri Lanka,0,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+1,0.2,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,0,,WU Tharanga,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+2,0.3,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,0,,WU Tharanga,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+3,0.4,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,0,,WU Tharanga,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+4,0.5,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,0,,WU Tharanga,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+5,0.6,1,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,0,,WU Tharanga,1,Bangladesh,Sri Lanka,2,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+6,0.7,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,1,,ST Jayasuriya,0,Bangladesh,Sri Lanka,4,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+7,0.8,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,0,,WU Tharanga,1,Bangladesh,Sri Lanka,4,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+8,1.1,0,Syed Rasel,2007-03-21,1st,WU Tharanga,1,,ST Jayasuriya,0,Bangladesh,Sri Lanka,4,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+9,1.2,0,Syed Rasel,2007-03-21,1st,WU Tharanga,1,,ST Jayasuriya,0,Bangladesh,Sri Lanka,4,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+10,1.3,0,Syed Rasel,2007-03-21,1st,WU Tharanga,1,,ST Jayasuriya,0,Bangladesh,Sri Lanka,4,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+11,1.4,4,Syed Rasel,2007-03-21,1st,WU Tharanga,1,,ST Jayasuriya,4,Bangladesh,Sri Lanka,8,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+12,1.5,0,Syed Rasel,2007-03-21,1st,WU Tharanga,1,,ST Jayasuriya,4,Bangladesh,Sri Lanka,8,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+13,1.6,0,Syed Rasel,2007-03-21,1st,WU Tharanga,1,,ST Jayasuriya,4,Bangladesh,Sri Lanka,8,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+14,2.1,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,4,,WU Tharanga,1,Bangladesh,Sri Lanka,8,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+15,2.2,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,4,,WU Tharanga,1,Bangladesh,Sri Lanka,8,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+16,2.3,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,4,,WU Tharanga,1,Bangladesh,Sri Lanka,8,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+17,2.4,1,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,4,,WU Tharanga,2,Bangladesh,Sri Lanka,9,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+18,2.5,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,2,,ST Jayasuriya,4,Bangladesh,Sri Lanka,9,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+19,2.6,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,2,,ST Jayasuriya,4,Bangladesh,Sri Lanka,11,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+20,3.1,1,Syed Rasel,2007-03-21,1st,ST Jayasuriya,4,,WU Tharanga,3,Bangladesh,Sri Lanka,12,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+21,3.2,2,Syed Rasel,2007-03-21,1st,WU Tharanga,3,,ST Jayasuriya,6,Bangladesh,Sri Lanka,14,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+22,3.3,0,Syed Rasel,2007-03-21,1st,WU Tharanga,3,,ST Jayasuriya,6,Bangladesh,Sri Lanka,14,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+23,3.4,6,Syed Rasel,2007-03-21,1st,WU Tharanga,3,,ST Jayasuriya,12,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+24,3.5,0,Syed Rasel,2007-03-21,1st,WU Tharanga,3,,ST Jayasuriya,12,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+25,3.6,0,Syed Rasel,2007-03-21,1st,WU Tharanga,3,,ST Jayasuriya,12,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+26,4.1,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,12,,WU Tharanga,3,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+27,4.2,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,12,,WU Tharanga,3,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+28,4.3,1,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,12,,WU Tharanga,4,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+29,4.4,1,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,4,,ST Jayasuriya,13,Bangladesh,Sri Lanka,22,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+30,4.5,2,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,13,,WU Tharanga,6,Bangladesh,Sri Lanka,24,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+31,4.6,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,13,,WU Tharanga,6,Bangladesh,Sri Lanka,24,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+32,5.1,3,Syed Rasel,2007-03-21,1st,WU Tharanga,6,,ST Jayasuriya,16,Bangladesh,Sri Lanka,27,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+33,5.2,4,Syed Rasel,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,10,Bangladesh,Sri Lanka,31,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+34,5.3,0,Syed Rasel,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,10,Bangladesh,Sri Lanka,31,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+35,5.4,1,Syed Rasel,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,11,Bangladesh,Sri Lanka,32,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+36,5.5,0,Syed Rasel,2007-03-21,1st,WU Tharanga,11,,ST Jayasuriya,16,Bangladesh,Sri Lanka,32,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+37,5.6,0,Syed Rasel,2007-03-21,1st,WU Tharanga,11,,ST Jayasuriya,16,Bangladesh,Sri Lanka,32,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+38,6.1,4,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,15,Bangladesh,Sri Lanka,36,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+39,6.2,2,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,17,Bangladesh,Sri Lanka,38,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+40,6.3,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,17,Bangladesh,Sri Lanka,39,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+41,6.4,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,17,Bangladesh,Sri Lanka,39,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+42,6.5,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,17,Bangladesh,Sri Lanka,40,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+43,6.6,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,17,,ST Jayasuriya,16,Bangladesh,Sri Lanka,40,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+44,6.7,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,17,,ST Jayasuriya,16,Bangladesh,Sri Lanka,40,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+45,7.1,1,Syed Rasel,2007-03-21,1st,ST Jayasuriya,16,,WU Tharanga,18,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+46,7.2,0,Syed Rasel,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,16,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+47,7.3,4,Syed Rasel,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,20,Bangladesh,Sri Lanka,45,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+48,7.4,0,Syed Rasel,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,20,Bangladesh,Sri Lanka,45,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+49,7.5,1,Syed Rasel,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,21,Bangladesh,Sri Lanka,46,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+50,7.6,0,Syed Rasel,2007-03-21,1st,ST Jayasuriya,21,,WU Tharanga,18,Bangladesh,Sri Lanka,46,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+51,8.1,1,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,22,Bangladesh,Sri Lanka,47,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+52,8.2,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,22,,WU Tharanga,18,Bangladesh,Sri Lanka,48,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+53,8.3,2,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,24,Bangladesh,Sri Lanka,50,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+54,8.4,4,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,28,Bangladesh,Sri Lanka,54,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+55,8.5,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,28,Bangladesh,Sri Lanka,54,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+56,8.6,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,18,,ST Jayasuriya,28,Bangladesh,Sri Lanka,54,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+57,9.1,2,Syed Rasel,2007-03-21,1st,ST Jayasuriya,28,,WU Tharanga,20,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+58,9.2,0,Syed Rasel,2007-03-21,1st,ST Jayasuriya,28,,WU Tharanga,20,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+59,9.3,1,Syed Rasel,2007-03-21,1st,ST Jayasuriya,28,,WU Tharanga,21,Bangladesh,Sri Lanka,57,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+60,9.4,6,Syed Rasel,2007-03-21,1st,WU Tharanga,21,,ST Jayasuriya,34,Bangladesh,Sri Lanka,63,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+61,9.5,0,Syed Rasel,2007-03-21,1st,WU Tharanga,21,,ST Jayasuriya,34,Bangladesh,Sri Lanka,63,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+62,9.6,0,Syed Rasel,2007-03-21,1st,WU Tharanga,21,,ST Jayasuriya,34,Bangladesh,Sri Lanka,63,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+63,10.1,4,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,34,,WU Tharanga,25,Bangladesh,Sri Lanka,67,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+64,10.2,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,34,,WU Tharanga,25,Bangladesh,Sri Lanka,67,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+65,10.3,1,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,34,,WU Tharanga,26,Bangladesh,Sri Lanka,68,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+66,10.4,0,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,34,Bangladesh,Sri Lanka,68,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+67,10.5,1,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,35,Bangladesh,Sri Lanka,69,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+68,10.6,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,35,,WU Tharanga,26,Bangladesh,Sri Lanka,69,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+69,11.1,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,35,Bangladesh,Sri Lanka,69,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+70,11.2,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,35,Bangladesh,Sri Lanka,70,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+71,11.3,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,35,Bangladesh,Sri Lanka,70,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+72,11.4,4,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,39,Bangladesh,Sri Lanka,74,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+73,11.5,1,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,40,Bangladesh,Sri Lanka,75,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+74,11.6,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,40,,WU Tharanga,26,Bangladesh,Sri Lanka,75,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+75,11.7,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,40,,WU Tharanga,26,Bangladesh,Sri Lanka,75,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+76,12.1,0,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,40,Bangladesh,Sri Lanka,75,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+77,12.2,6,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,46,Bangladesh,Sri Lanka,81,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+78,12.3,0,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,46,Bangladesh,Sri Lanka,81,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+79,12.4,0,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,46,Bangladesh,Sri Lanka,81,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+80,12.5,6,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,52,Bangladesh,Sri Lanka,87,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+81,12.6,1,Abdur Razzak,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,53,Bangladesh,Sri Lanka,88,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+82,13.1,4,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,57,Bangladesh,Sri Lanka,92,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+83,13.2,2,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,59,Bangladesh,Sri Lanka,94,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+84,13.3,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,59,Bangladesh,Sri Lanka,94,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+85,13.4,0,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,59,Bangladesh,Sri Lanka,94,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+86,13.5,2,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,61,Bangladesh,Sri Lanka,96,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+87,13.6,1,Mashrafe Mortaza,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,62,Bangladesh,Sri Lanka,97,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+88,14.1,1,Mohammad Rafique,2007-03-21,1st,WU Tharanga,26,,ST Jayasuriya,63,Bangladesh,Sri Lanka,98,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+89,14.2,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,63,WU Tharanga,WU Tharanga,26,Bangladesh,Sri Lanka,98,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+90,14.3,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,63,,DPMD Jayawardene,0,Bangladesh,Sri Lanka,98,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+91,14.4,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,63,,DPMD Jayawardene,0,Bangladesh,Sri Lanka,98,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+92,14.5,1,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,63,,DPMD Jayawardene,1,Bangladesh,Sri Lanka,99,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+93,14.6,0,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,1,,ST Jayasuriya,63,Bangladesh,Sri Lanka,101,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+94,14.7,1,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,63,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,102,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+95,15.1,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,63,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,103,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+96,15.2,4,Mashrafe Mortaza,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,67,Bangladesh,Sri Lanka,107,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+97,15.3,0,Mashrafe Mortaza,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,67,Bangladesh,Sri Lanka,108,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+98,15.4,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,67,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,108,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+99,15.5,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,67,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,108,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+100,15.6,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,67,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,108,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+101,16.1,0,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,67,Bangladesh,Sri Lanka,108,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+102,16.2,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,68,Bangladesh,Sri Lanka,109,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+103,16.3,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,68,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+104,16.4,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,68,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+105,16.5,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,68,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+106,16.6,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,68,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+107,17.1,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,68,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+108,17.2,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,68,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+109,17.3,2,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,70,Bangladesh,Sri Lanka,113,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+110,17.4,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,70,Bangladesh,Sri Lanka,113,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+111,17.5,1,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,71,Bangladesh,Sri Lanka,114,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+112,17.6,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,71,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,114,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+113,18.1,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,2,,ST Jayasuriya,72,Bangladesh,Sri Lanka,115,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+114,18.2,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,72,,DPMD Jayawardene,2,Bangladesh,Sri Lanka,115,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+115,18.3,1,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,72,,DPMD Jayawardene,3,Bangladesh,Sri Lanka,116,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+116,18.4,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,3,,ST Jayasuriya,73,Bangladesh,Sri Lanka,117,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+117,18.5,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,73,,DPMD Jayawardene,3,Bangladesh,Sri Lanka,117,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+118,18.6,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,73,,DPMD Jayawardene,3,Bangladesh,Sri Lanka,117,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+119,19.1,1,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,3,,ST Jayasuriya,74,Bangladesh,Sri Lanka,118,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+120,19.2,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,74,,DPMD Jayawardene,3,Bangladesh,Sri Lanka,118,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+121,19.3,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,74,,DPMD Jayawardene,3,Bangladesh,Sri Lanka,118,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+122,19.4,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,74,,DPMD Jayawardene,3,Bangladesh,Sri Lanka,118,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+123,19.5,4,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,74,,DPMD Jayawardene,7,Bangladesh,Sri Lanka,122,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+124,19.6,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,74,,DPMD Jayawardene,7,Bangladesh,Sri Lanka,122,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+125,20.1,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,7,,ST Jayasuriya,75,Bangladesh,Sri Lanka,123,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+126,20.2,1,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,75,,DPMD Jayawardene,8,Bangladesh,Sri Lanka,124,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+127,20.3,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,8,,ST Jayasuriya,76,Bangladesh,Sri Lanka,125,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+128,20.4,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,76,,DPMD Jayawardene,8,Bangladesh,Sri Lanka,125,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+129,20.5,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,76,,DPMD Jayawardene,8,Bangladesh,Sri Lanka,125,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+130,20.6,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,76,,DPMD Jayawardene,8,Bangladesh,Sri Lanka,125,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+131,21.1,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,8,,ST Jayasuriya,76,Bangladesh,Sri Lanka,125,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+132,21.2,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,8,,ST Jayasuriya,77,Bangladesh,Sri Lanka,126,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+133,21.3,0,Shakib Al Hasan,2007-03-21,1st,ST Jayasuriya,77,,DPMD Jayawardene,8,Bangladesh,Sri Lanka,126,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+134,21.4,1,Shakib Al Hasan,2007-03-21,1st,ST Jayasuriya,77,,DPMD Jayawardene,9,Bangladesh,Sri Lanka,127,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+135,21.5,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,9,,ST Jayasuriya,77,Bangladesh,Sri Lanka,127,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+136,21.6,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,9,,ST Jayasuriya,78,Bangladesh,Sri Lanka,128,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+137,22.1,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,9,,ST Jayasuriya,79,Bangladesh,Sri Lanka,129,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+138,22.2,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,79,,DPMD Jayawardene,9,Bangladesh,Sri Lanka,130,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+139,22.3,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,79,,DPMD Jayawardene,9,Bangladesh,Sri Lanka,130,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+140,22.4,1,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,79,,DPMD Jayawardene,10,Bangladesh,Sri Lanka,131,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+141,22.5,0,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,10,,ST Jayasuriya,79,Bangladesh,Sri Lanka,131,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+142,22.6,2,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,10,,ST Jayasuriya,81,Bangladesh,Sri Lanka,133,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+143,22.7,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,10,,ST Jayasuriya,82,Bangladesh,Sri Lanka,134,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+144,23.1,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,10,,ST Jayasuriya,82,Bangladesh,Sri Lanka,134,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+145,23.2,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,10,,ST Jayasuriya,82,Bangladesh,Sri Lanka,134,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+146,23.3,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,10,,ST Jayasuriya,82,Bangladesh,Sri Lanka,134,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+147,23.4,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,10,,ST Jayasuriya,83,Bangladesh,Sri Lanka,135,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+148,23.5,0,Shakib Al Hasan,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,10,Bangladesh,Sri Lanka,135,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+149,23.6,1,Shakib Al Hasan,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,11,Bangladesh,Sri Lanka,136,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+150,24.1,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,11,Bangladesh,Sri Lanka,136,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+151,24.2,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,11,Bangladesh,Sri Lanka,136,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+152,24.3,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,11,Bangladesh,Sri Lanka,136,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+153,24.4,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,11,Bangladesh,Sri Lanka,136,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+154,24.5,0,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,11,Bangladesh,Sri Lanka,136,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+155,24.6,1,Mohammad Rafique,2007-03-21,1st,ST Jayasuriya,83,,DPMD Jayawardene,12,Bangladesh,Sri Lanka,137,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+156,25.1,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,0,,DPMD Jayawardene,13,Bangladesh,Sri Lanka,138,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+157,25.2,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,13,,KC Sangakkara,0,Bangladesh,Sri Lanka,138,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+158,25.3,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,13,,KC Sangakkara,0,Bangladesh,Sri Lanka,138,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+159,25.4,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,13,,KC Sangakkara,1,Bangladesh,Sri Lanka,139,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+160,25.5,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,1,,DPMD Jayawardene,14,Bangladesh,Sri Lanka,140,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+161,25.6,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,14,,KC Sangakkara,1,Bangladesh,Sri Lanka,140,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+162,26.1,1,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,1,,DPMD Jayawardene,15,Bangladesh,Sri Lanka,141,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+163,26.2,2,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,15,,KC Sangakkara,3,Bangladesh,Sri Lanka,143,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+164,26.3,1,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,15,,KC Sangakkara,4,Bangladesh,Sri Lanka,144,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+165,26.4,1,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,4,,DPMD Jayawardene,16,Bangladesh,Sri Lanka,145,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+166,26.5,0,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,16,,KC Sangakkara,4,Bangladesh,Sri Lanka,145,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+167,26.6,0,Mohammad Rafique,2007-03-21,1st,DPMD Jayawardene,16,,KC Sangakkara,4,Bangladesh,Sri Lanka,145,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+168,27.1,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,4,,DPMD Jayawardene,16,Bangladesh,Sri Lanka,145,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+169,27.2,6,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,4,,DPMD Jayawardene,22,Bangladesh,Sri Lanka,151,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+170,27.3,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,4,,DPMD Jayawardene,22,Bangladesh,Sri Lanka,151,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+171,27.4,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,4,,DPMD Jayawardene,23,Bangladesh,Sri Lanka,152,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+172,27.5,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,23,,KC Sangakkara,5,Bangladesh,Sri Lanka,153,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+173,27.6,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,5,,DPMD Jayawardene,24,Bangladesh,Sri Lanka,154,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+174,28.1,0,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,5,,DPMD Jayawardene,24,Bangladesh,Sri Lanka,154,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+175,28.2,0,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,5,,DPMD Jayawardene,24,Bangladesh,Sri Lanka,154,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+176,28.3,2,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,5,,DPMD Jayawardene,26,Bangladesh,Sri Lanka,156,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+177,28.4,0,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,5,,DPMD Jayawardene,26,Bangladesh,Sri Lanka,156,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+178,28.5,2,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,5,,DPMD Jayawardene,28,Bangladesh,Sri Lanka,158,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+179,28.6,0,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,5,,DPMD Jayawardene,28,Bangladesh,Sri Lanka,158,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+180,29.1,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,28,,KC Sangakkara,6,Bangladesh,Sri Lanka,159,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+181,29.2,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,6,,DPMD Jayawardene,28,Bangladesh,Sri Lanka,159,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+182,29.3,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,6,,DPMD Jayawardene,28,Bangladesh,Sri Lanka,159,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+183,29.4,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,6,,DPMD Jayawardene,28,Bangladesh,Sri Lanka,159,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+184,29.5,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,6,,DPMD Jayawardene,28,Bangladesh,Sri Lanka,159,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+185,29.6,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,6,,DPMD Jayawardene,28,Bangladesh,Sri Lanka,159,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+186,30.1,2,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,28,,KC Sangakkara,8,Bangladesh,Sri Lanka,161,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+187,30.2,1,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,28,,KC Sangakkara,9,Bangladesh,Sri Lanka,162,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+188,30.3,1,Abdur Razzak,2007-03-21,1st,KC Sangakkara,9,,DPMD Jayawardene,29,Bangladesh,Sri Lanka,163,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+189,30.4,1,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,29,,KC Sangakkara,10,Bangladesh,Sri Lanka,164,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+190,30.5,6,Abdur Razzak,2007-03-21,1st,KC Sangakkara,10,,DPMD Jayawardene,35,Bangladesh,Sri Lanka,170,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+191,30.6,4,Abdur Razzak,2007-03-21,1st,KC Sangakkara,10,,DPMD Jayawardene,39,Bangladesh,Sri Lanka,174,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+192,31.1,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,39,,KC Sangakkara,11,Bangladesh,Sri Lanka,175,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+193,31.2,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,11,,DPMD Jayawardene,40,Bangladesh,Sri Lanka,176,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+194,31.3,2,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,40,,KC Sangakkara,13,Bangladesh,Sri Lanka,178,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+195,31.4,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,40,,KC Sangakkara,13,Bangladesh,Sri Lanka,178,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+196,31.5,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,40,,KC Sangakkara,13,Bangladesh,Sri Lanka,178,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+197,31.6,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,40,,KC Sangakkara,14,Bangladesh,Sri Lanka,179,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+198,32.1,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,40,,KC Sangakkara,14,Bangladesh,Sri Lanka,180,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+199,32.2,0,Abdur Razzak,2007-03-21,1st,KC Sangakkara,14,,DPMD Jayawardene,40,Bangladesh,Sri Lanka,180,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+200,32.3,1,Abdur Razzak,2007-03-21,1st,KC Sangakkara,14,,DPMD Jayawardene,41,Bangladesh,Sri Lanka,181,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+201,32.4,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,41,,KC Sangakkara,14,Bangladesh,Sri Lanka,181,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+202,32.5,1,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,41,,KC Sangakkara,15,Bangladesh,Sri Lanka,182,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+203,32.6,0,Abdur Razzak,2007-03-21,1st,KC Sangakkara,15,,DPMD Jayawardene,41,Bangladesh,Sri Lanka,182,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+204,33.1,2,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,41,,KC Sangakkara,17,Bangladesh,Sri Lanka,184,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+205,33.2,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,41,,KC Sangakkara,18,Bangladesh,Sri Lanka,185,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+206,33.3,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,18,,DPMD Jayawardene,42,Bangladesh,Sri Lanka,186,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+207,33.4,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,42,,KC Sangakkara,18,Bangladesh,Sri Lanka,186,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+208,33.5,0,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,42,,KC Sangakkara,18,Bangladesh,Sri Lanka,186,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+209,33.6,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,42,,KC Sangakkara,19,Bangladesh,Sri Lanka,187,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+210,34.1,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,42,,KC Sangakkara,19,Bangladesh,Sri Lanka,192,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+211,34.2,1,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,42,,KC Sangakkara,20,Bangladesh,Sri Lanka,193,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+212,34.3,2,Abdur Razzak,2007-03-21,1st,KC Sangakkara,20,,DPMD Jayawardene,44,Bangladesh,Sri Lanka,195,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+213,34.4,1,Abdur Razzak,2007-03-21,1st,KC Sangakkara,20,,DPMD Jayawardene,45,Bangladesh,Sri Lanka,196,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+214,34.5,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,45,,KC Sangakkara,20,Bangladesh,Sri Lanka,196,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+215,34.6,4,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,45,,KC Sangakkara,24,Bangladesh,Sri Lanka,200,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+216,34.7,0,Abdur Razzak,2007-03-21,1st,DPMD Jayawardene,45,,KC Sangakkara,24,Bangladesh,Sri Lanka,200,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+217,35.1,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,24,,DPMD Jayawardene,46,Bangladesh,Sri Lanka,201,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+218,35.2,1,Shakib Al Hasan,2007-03-21,1st,DPMD Jayawardene,46,,KC Sangakkara,25,Bangladesh,Sri Lanka,202,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+219,35.3,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,25,DPMD Jayawardene,DPMD Jayawardene,46,Bangladesh,Sri Lanka,202,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+220,35.4,1,Shakib Al Hasan,2007-03-21,1st,LPC Silva,0,,KC Sangakkara,26,Bangladesh,Sri Lanka,203,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+221,35.5,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,26,,LPC Silva,0,Bangladesh,Sri Lanka,203,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+222,35.6,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,26,,LPC Silva,0,Bangladesh,Sri Lanka,203,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+223,36.1,1,Syed Rasel,2007-03-21,1st,LPC Silva,0,,KC Sangakkara,27,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+224,36.2,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,27,,LPC Silva,0,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+225,36.3,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,27,,LPC Silva,0,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+226,36.4,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,27,,LPC Silva,0,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+227,36.5,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,27,,LPC Silva,0,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+228,36.6,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,27,,LPC Silva,0,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+229,37.1,0,Shakib Al Hasan,2007-03-21,1st,LPC Silva,0,,KC Sangakkara,27,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+230,37.2,0,Shakib Al Hasan,2007-03-21,1st,LPC Silva,0,,KC Sangakkara,27,Bangladesh,Sri Lanka,204,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+231,37.3,1,Shakib Al Hasan,2007-03-21,1st,LPC Silva,0,,KC Sangakkara,28,Bangladesh,Sri Lanka,205,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+232,37.4,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,28,,LPC Silva,1,Bangladesh,Sri Lanka,206,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+233,37.5,1,Shakib Al Hasan,2007-03-21,1st,LPC Silva,1,,KC Sangakkara,29,Bangladesh,Sri Lanka,207,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+234,37.6,0,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,29,,LPC Silva,1,Bangladesh,Sri Lanka,207,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+235,38.1,0,Syed Rasel,2007-03-21,1st,LPC Silva,1,,KC Sangakkara,29,Bangladesh,Sri Lanka,207,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+236,38.2,0,Syed Rasel,2007-03-21,1st,LPC Silva,1,,KC Sangakkara,29,Bangladesh,Sri Lanka,207,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+237,38.3,1,Syed Rasel,2007-03-21,1st,LPC Silva,1,,KC Sangakkara,30,Bangladesh,Sri Lanka,208,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+238,38.4,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,30,,LPC Silva,1,Bangladesh,Sri Lanka,208,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+239,38.5,4,Syed Rasel,2007-03-21,1st,KC Sangakkara,30,,LPC Silva,5,Bangladesh,Sri Lanka,212,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+240,38.6,1,Syed Rasel,2007-03-21,1st,KC Sangakkara,30,,LPC Silva,6,Bangladesh,Sri Lanka,213,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+241,39.1,6,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,30,,LPC Silva,12,Bangladesh,Sri Lanka,219,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+242,39.2,1,Shakib Al Hasan,2007-03-21,1st,KC Sangakkara,30,,LPC Silva,13,Bangladesh,Sri Lanka,220,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+243,39.3,0,Shakib Al Hasan,2007-03-21,1st,LPC Silva,13,,KC Sangakkara,30,Bangladesh,Sri Lanka,220,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+244,39.4,2,Shakib Al Hasan,2007-03-21,1st,LPC Silva,13,,KC Sangakkara,32,Bangladesh,Sri Lanka,222,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+245,39.5,0,Shakib Al Hasan,2007-03-21,1st,LPC Silva,13,,KC Sangakkara,32,Bangladesh,Sri Lanka,222,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+246,39.6,6,Shakib Al Hasan,2007-03-21,1st,LPC Silva,13,,KC Sangakkara,38,Bangladesh,Sri Lanka,228,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+247,40.1,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,38,,LPC Silva,13,Bangladesh,Sri Lanka,228,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+248,40.2,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,38,,LPC Silva,13,Bangladesh,Sri Lanka,228,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+249,40.3,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,38,,LPC Silva,13,Bangladesh,Sri Lanka,228,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+250,40.4,1,Syed Rasel,2007-03-21,1st,KC Sangakkara,38,,LPC Silva,14,Bangladesh,Sri Lanka,229,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+251,40.5,1,Syed Rasel,2007-03-21,1st,LPC Silva,14,,KC Sangakkara,39,Bangladesh,Sri Lanka,230,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+252,40.6,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,39,,LPC Silva,14,Bangladesh,Sri Lanka,230,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+253,41.1,1,Mohammad Rafique,2007-03-21,1st,LPC Silva,14,,KC Sangakkara,40,Bangladesh,Sri Lanka,231,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+254,41.2,4,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,40,,LPC Silva,18,Bangladesh,Sri Lanka,235,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+255,41.3,1,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,40,,LPC Silva,19,Bangladesh,Sri Lanka,236,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+256,41.4,4,Mohammad Rafique,2007-03-21,1st,LPC Silva,19,,KC Sangakkara,44,Bangladesh,Sri Lanka,240,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+257,41.5,1,Mohammad Rafique,2007-03-21,1st,LPC Silva,19,,KC Sangakkara,45,Bangladesh,Sri Lanka,241,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+258,41.6,1,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,45,,LPC Silva,20,Bangladesh,Sri Lanka,242,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+259,42.1,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,45,,LPC Silva,20,Bangladesh,Sri Lanka,242,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+260,42.2,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,45,,LPC Silva,20,Bangladesh,Sri Lanka,242,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+261,42.3,1,Syed Rasel,2007-03-21,1st,KC Sangakkara,45,,LPC Silva,21,Bangladesh,Sri Lanka,243,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+262,42.4,2,Syed Rasel,2007-03-21,1st,LPC Silva,21,,KC Sangakkara,47,Bangladesh,Sri Lanka,245,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+263,42.5,4,Syed Rasel,2007-03-21,1st,LPC Silva,21,,KC Sangakkara,51,Bangladesh,Sri Lanka,249,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+264,42.6,1,Syed Rasel,2007-03-21,1st,LPC Silva,21,,KC Sangakkara,52,Bangladesh,Sri Lanka,250,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+265,43.1,1,Mohammad Rafique,2007-03-21,1st,LPC Silva,21,,KC Sangakkara,53,Bangladesh,Sri Lanka,251,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+266,43.2,0,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,53,,LPC Silva,21,Bangladesh,Sri Lanka,251,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+267,43.3,4,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,53,,LPC Silva,25,Bangladesh,Sri Lanka,255,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+268,43.4,1,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,53,,LPC Silva,26,Bangladesh,Sri Lanka,256,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+269,43.5,1,Mohammad Rafique,2007-03-21,1st,LPC Silva,26,,KC Sangakkara,54,Bangladesh,Sri Lanka,257,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+270,43.6,1,Mohammad Rafique,2007-03-21,1st,KC Sangakkara,54,,LPC Silva,27,Bangladesh,Sri Lanka,258,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+271,44.1,0,Syed Rasel,2007-03-21,1st,KC Sangakkara,54,,LPC Silva,27,Bangladesh,Sri Lanka,258,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+272,44.2,1,Syed Rasel,2007-03-21,1st,KC Sangakkara,54,,LPC Silva,28,Bangladesh,Sri Lanka,259,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+273,44.3,2,Syed Rasel,2007-03-21,1st,LPC Silva,28,,KC Sangakkara,56,Bangladesh,Sri Lanka,261,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+274,44.4,0,Syed Rasel,2007-03-21,1st,LPC Silva,28,KC Sangakkara,KC Sangakkara,56,Bangladesh,Sri Lanka,261,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+275,44.5,1,Syed Rasel,2007-03-21,1st,LPC Silva,28,,ST Jayasuriya,84,Bangladesh,Sri Lanka,262,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+276,44.6,1,Syed Rasel,2007-03-21,1st,ST Jayasuriya,84,,LPC Silva,29,Bangladesh,Sri Lanka,263,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+277,45.1,1,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,84,,LPC Silva,30,Bangladesh,Sri Lanka,264,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+278,45.2,1,Abdur Razzak,2007-03-21,1st,LPC Silva,30,,ST Jayasuriya,85,Bangladesh,Sri Lanka,265,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+279,45.3,0,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,85,,LPC Silva,30,Bangladesh,Sri Lanka,265,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+280,45.4,1,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,85,,LPC Silva,31,Bangladesh,Sri Lanka,266,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+281,45.5,0,Abdur Razzak,2007-03-21,1st,LPC Silva,31,,ST Jayasuriya,85,Bangladesh,Sri Lanka,266,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+282,45.6,6,Abdur Razzak,2007-03-21,1st,LPC Silva,31,,ST Jayasuriya,91,Bangladesh,Sri Lanka,272,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+283,46.1,4,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,91,,LPC Silva,35,Bangladesh,Sri Lanka,276,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+284,46.2,2,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,91,,LPC Silva,37,Bangladesh,Sri Lanka,278,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+285,46.3,1,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,91,,LPC Silva,38,Bangladesh,Sri Lanka,279,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+286,46.4,4,Mashrafe Mortaza,2007-03-21,1st,LPC Silva,38,,ST Jayasuriya,95,Bangladesh,Sri Lanka,283,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+287,46.5,1,Mashrafe Mortaza,2007-03-21,1st,LPC Silva,38,,ST Jayasuriya,96,Bangladesh,Sri Lanka,284,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+288,46.6,0,Mashrafe Mortaza,2007-03-21,1st,ST Jayasuriya,96,,LPC Silva,38,Bangladesh,Sri Lanka,285,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+289,47.1,1,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,96,,LPC Silva,39,Bangladesh,Sri Lanka,286,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+290,47.2,1,Abdur Razzak,2007-03-21,1st,LPC Silva,39,,ST Jayasuriya,97,Bangladesh,Sri Lanka,287,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+291,47.3,1,Abdur Razzak,2007-03-21,1st,ST Jayasuriya,97,,LPC Silva,40,Bangladesh,Sri Lanka,288,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+292,47.4,6,Abdur Razzak,2007-03-21,1st,LPC Silva,40,,ST Jayasuriya,103,Bangladesh,Sri Lanka,294,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+293,47.5,6,Abdur Razzak,2007-03-21,1st,LPC Silva,40,,ST Jayasuriya,109,Bangladesh,Sri Lanka,300,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+294,47.6,0,Abdur Razzak,2007-03-21,1st,LPC Silva,40,ST Jayasuriya,ST Jayasuriya,109,Bangladesh,Sri Lanka,300,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+295,48.1,0,Mashrafe Mortaza,2007-03-21,1st,RP Arnold,0,,LPC Silva,40,Bangladesh,Sri Lanka,300,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+296,48.2,4,Mashrafe Mortaza,2007-03-21,1st,RP Arnold,0,,LPC Silva,44,Bangladesh,Sri Lanka,304,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+297,48.3,0,Mashrafe Mortaza,2007-03-21,1st,RP Arnold,0,,LPC Silva,44,Bangladesh,Sri Lanka,304,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+298,48.4,6,Mashrafe Mortaza,2007-03-21,1st,RP Arnold,0,,LPC Silva,50,Bangladesh,Sri Lanka,310,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+299,48.5,1,Mashrafe Mortaza,2007-03-21,1st,RP Arnold,0,,LPC Silva,51,Bangladesh,Sri Lanka,311,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+300,48.6,1,Mashrafe Mortaza,2007-03-21,1st,LPC Silva,51,,RP Arnold,1,Bangladesh,Sri Lanka,312,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+301,49.1,1,Abdur Razzak,2007-03-21,1st,LPC Silva,51,,RP Arnold,2,Bangladesh,Sri Lanka,313,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+302,49.2,1,Abdur Razzak,2007-03-21,1st,RP Arnold,2,,LPC Silva,52,Bangladesh,Sri Lanka,314,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+303,49.3,1,Abdur Razzak,2007-03-21,1st,LPC Silva,52,,RP Arnold,3,Bangladesh,Sri Lanka,315,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+304,49.4,0,Abdur Razzak,2007-03-21,1st,RP Arnold,3,,LPC Silva,52,Bangladesh,Sri Lanka,316,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+305,49.5,0,Abdur Razzak,2007-03-21,1st,LPC Silva,52,,RP Arnold,3,Bangladesh,Sri Lanka,316,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+306,49.6,2,Abdur Razzak,2007-03-21,1st,LPC Silva,52,,RP Arnold,5,Bangladesh,Sri Lanka,318,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+307,0.1,0,WPUJC Vaas,2007-03-21,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,0,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+308,0.2,1,WPUJC Vaas,2007-03-21,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+309,0.3,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+310,0.4,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",0,Sri Lanka
+311,0.5,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+312,0.6,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,1,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+313,1.1,1,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,2,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+314,1.2,0,SL Malinga,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,2,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+315,1.3,0,SL Malinga,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,2,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+316,1.4,0,SL Malinga,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,2,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+317,1.5,0,SL Malinga,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,2,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+318,1.6,1,SL Malinga,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+319,2.1,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+320,2.2,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+321,2.3,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+322,2.4,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+323,2.5,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+324,2.6,0,WPUJC Vaas,2007-03-21,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+325,3.1,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+326,3.2,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,3,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+327,3.3,4,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",1,Sri Lanka
+328,3.4,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+329,3.5,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+330,3.6,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+331,4.1,0,WPUJC Vaas,2007-03-21,2nd,Aftab Ahmed,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+332,4.2,0,WPUJC Vaas,2007-03-21,2nd,Aftab Ahmed,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+333,4.3,0,WPUJC Vaas,2007-03-21,2nd,Aftab Ahmed,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+334,4.4,0,WPUJC Vaas,2007-03-21,2nd,Aftab Ahmed,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+335,4.5,0,WPUJC Vaas,2007-03-21,2nd,Aftab Ahmed,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+336,4.6,0,WPUJC Vaas,2007-03-21,2nd,Aftab Ahmed,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+337,5.1,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,7,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+338,5.2,2,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,9,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+339,5.3,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,10,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+340,5.4,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,10,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+341,5.5,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,10,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+342,5.6,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,10,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+343,5.7,1,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,11,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+344,6.1,4,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,15,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+345,6.2,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,15,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+346,6.3,4,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,19,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+347,6.4,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,19,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+348,6.5,1,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+349,6.6,0,WPUJC Vaas,2007-03-21,2nd,Aftab Ahmed,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+350,7.1,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+351,7.2,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",2,Sri Lanka
+352,7.3,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Aftab Ahmed,0,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+353,7.4,0,SL Malinga,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,20,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+354,7.5,1,SL Malinga,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+355,7.6,0,SL Malinga,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+356,8.1,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+357,8.2,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+358,8.3,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+359,8.4,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+360,8.5,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+361,8.6,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,21,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+362,9.1,1,MF Maharoof,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,22,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+363,9.2,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,22,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+364,9.3,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,22,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+365,9.4,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,22,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+366,9.5,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,22,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+367,9.6,4,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+368,10.1,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+369,10.2,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+370,10.3,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+371,10.4,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+372,10.5,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+373,10.6,0,WPUJC Vaas,2007-03-21,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",3,Sri Lanka
+374,11.1,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+375,11.2,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+376,11.3,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+377,11.4,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+378,11.5,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+379,11.6,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+380,12.1,0,WPUJC Vaas,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+381,12.2,0,WPUJC Vaas,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,26,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+382,12.3,1,WPUJC Vaas,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,27,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+383,12.4,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,27,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+384,12.5,0,WPUJC Vaas,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,28,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+385,12.6,0,WPUJC Vaas,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,28,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+386,13.1,1,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,29,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+387,13.2,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,29,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+388,13.3,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,29,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+389,13.4,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,30,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+390,13.5,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,30,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+391,13.6,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,30,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+392,13.7,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,30,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+393,14.1,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,30,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+394,14.2,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,30,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+395,14.3,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,30,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+396,14.4,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,31,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+397,14.5,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,31,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+398,14.6,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,31,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+399,14.7,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,31,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+400,15.1,1,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,33,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+401,15.2,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,33,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+402,15.3,2,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,35,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+403,15.4,4,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,39,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+404,15.5,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,39,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+405,15.6,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,39,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+406,15.7,0,MF Maharoof,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,39,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+407,16.1,1,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,40,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+408,16.2,0,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,40,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+409,16.3,1,M Muralitharan,2007-03-21,2nd,Shakib Al Hasan,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",4,Sri Lanka
+410,16.4,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+411,16.5,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+412,16.6,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+413,17.1,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+414,17.2,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+415,17.3,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+416,17.4,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+417,17.5,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,41,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+418,17.6,1,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,42,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+419,18.1,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,42,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+420,18.2,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,42,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+421,18.3,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,42,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+422,18.4,1,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,43,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+423,18.5,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,43,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+424,18.6,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,43,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+425,19.1,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,43,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+426,19.2,4,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,47,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+427,19.3,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,47,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+428,19.4,1,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,48,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+429,19.5,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,48,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+430,19.6,1,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,49,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+431,20.1,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,49,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+432,20.2,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,49,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+433,20.3,1,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,50,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+434,20.4,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,50,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+435,20.5,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,50,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+436,20.6,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,50,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+437,21.1,1,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,51,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+438,21.2,0,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,51,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+439,21.3,1,MF Maharoof,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,52,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+440,21.4,2,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,54,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+441,21.5,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,54,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+442,21.6,0,MF Maharoof,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,54,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+443,22.1,1,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,55,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+444,22.2,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,55,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+445,22.3,1,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+446,22.4,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+447,22.5,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+448,22.6,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+449,23.1,0,SL Malinga,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+450,23.2,0,SL Malinga,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,56,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+451,23.3,4,SL Malinga,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,60,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+452,23.4,0,SL Malinga,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,60,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+453,23.5,4,SL Malinga,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,64,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+454,23.6,0,SL Malinga,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,64,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+455,24.1,1,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,65,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+456,24.2,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,65,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+457,24.3,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,65,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+458,24.4,0,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,65,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+459,24.5,1,M Muralitharan,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,66,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+460,24.6,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Habibul Bashar,0,Bangladesh,Sri Lanka,66,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+461,25.1,0,ST Jayasuriya,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,66,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+462,25.2,0,ST Jayasuriya,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,66,Bangladesh,"Queen's Park Oval, Port of Spain",5,Sri Lanka
+463,25.3,0,ST Jayasuriya,2007-03-21,2nd,Habibul Bashar,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,66,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+464,25.4,1,ST Jayasuriya,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,67,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+465,25.5,0,ST Jayasuriya,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,67,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+466,25.6,1,ST Jayasuriya,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,68,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+467,26.1,0,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,68,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+468,26.2,0,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,68,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+469,26.3,4,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+470,26.4,0,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+471,26.5,0,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+472,26.6,0,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+473,27.1,0,ST Jayasuriya,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+474,27.2,0,ST Jayasuriya,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+475,27.3,0,ST Jayasuriya,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+476,27.4,0,ST Jayasuriya,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+477,27.5,0,ST Jayasuriya,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+478,27.6,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+479,28.1,0,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,72,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+480,28.2,1,M Muralitharan,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,73,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+481,28.3,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,73,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+482,28.4,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,73,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+483,28.5,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,73,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+484,28.6,0,M Muralitharan,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,73,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+485,29.1,1,RP Arnold,2007-03-21,2nd,Mashrafe Mortaza,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,74,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+486,29.2,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,74,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+487,29.3,6,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,80,Bangladesh,"Queen's Park Oval, Port of Spain",6,Sri Lanka
+488,29.4,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Sri Lanka,80,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+489,29.5,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,80,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+490,29.6,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,80,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+491,30.1,1,TM Dilshan,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,81,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+492,30.2,0,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,81,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+493,30.3,0,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,81,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+494,30.4,1,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,82,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+495,30.5,1,TM Dilshan,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,83,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+496,30.6,1,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,84,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+497,31.1,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,84,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+498,31.2,1,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,85,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+499,31.3,1,RP Arnold,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,86,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+500,31.4,1,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,87,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+501,31.5,0,RP Arnold,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,87,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+502,31.6,1,RP Arnold,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,88,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+503,32.1,1,TM Dilshan,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,89,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+504,32.2,1,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,90,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+505,32.3,1,TM Dilshan,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,91,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+506,32.4,0,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,91,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+507,32.5,0,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,91,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+508,32.6,1,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,92,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+509,33.1,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,92,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+510,33.2,0,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,92,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+511,33.3,1,RP Arnold,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,93,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+512,33.4,0,RP Arnold,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,93,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+513,33.5,4,RP Arnold,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,97,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+514,33.6,1,RP Arnold,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,98,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+515,34.1,0,TM Dilshan,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,98,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+516,34.2,2,TM Dilshan,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,100,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+517,34.3,1,TM Dilshan,2007-03-21,2nd,Mohammad Rafique,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,101,Bangladesh,"Queen's Park Oval, Port of Spain",7,Sri Lanka
+518,34.4,0,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Mohammad Rafique,0,Bangladesh,Sri Lanka,101,Bangladesh,"Queen's Park Oval, Port of Spain",8,Sri Lanka
+519,34.5,1,TM Dilshan,2007-03-21,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,102,Bangladesh,"Queen's Park Oval, Port of Spain",8,Sri Lanka
+520,34.6,0,TM Dilshan,2007-03-21,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Sri Lanka,102,Bangladesh,"Queen's Park Oval, Port of Spain",8,Sri Lanka
+521,35.1,4,SL Malinga,2007-03-21,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,106,Bangladesh,"Queen's Park Oval, Port of Spain",8,Sri Lanka
+522,35.2,4,SL Malinga,2007-03-21,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,110,Bangladesh,"Queen's Park Oval, Port of Spain",8,Sri Lanka
+523,35.3,0,SL Malinga,2007-03-21,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,110,Bangladesh,"Queen's Park Oval, Port of Spain",8,Sri Lanka
+524,35.4,0,SL Malinga,2007-03-21,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",8,Sri Lanka
+525,35.5,0,SL Malinga,2007-03-21,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+526,35.6,0,SL Malinga,2007-03-21,2nd,Mohammad Ashraful,0,,Syed Rasel,0,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+527,36.1,0,M Muralitharan,2007-03-21,2nd,Syed Rasel,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,111,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+528,36.2,0,M Muralitharan,2007-03-21,2nd,Syed Rasel,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,112,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+529,36.3,0,M Muralitharan,2007-03-21,2nd,Syed Rasel,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,112,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+530,36.4,0,M Muralitharan,2007-03-21,2nd,Syed Rasel,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,112,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+531,36.5,0,M Muralitharan,2007-03-21,2nd,Syed Rasel,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,112,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+532,36.6,0,M Muralitharan,2007-03-21,2nd,Syed Rasel,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,112,Bangladesh,"Queen's Park Oval, Port of Spain",9,Sri Lanka
+533,36.7,0,M Muralitharan,2007-03-21,2nd,Syed Rasel,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,112,Bangladesh,"Queen's Park Oval, Port of Spain",10,Sri Lanka

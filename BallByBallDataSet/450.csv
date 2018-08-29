@@ -1,0 +1,481 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,DR Tuffey,2010-02-08,1st,Imrul Kayes,0,,Tamim Iqbal,1,New Zealand,Bangladesh,1,New Zealand,University Oval,0,New Zealand
+1,0.2,0,DR Tuffey,2010-02-08,1st,Tamim Iqbal,1,,Imrul Kayes,0,New Zealand,Bangladesh,1,New Zealand,University Oval,0,New Zealand
+2,0.3,4,DR Tuffey,2010-02-08,1st,Tamim Iqbal,1,,Imrul Kayes,4,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+3,0.4,0,DR Tuffey,2010-02-08,1st,Tamim Iqbal,1,,Imrul Kayes,4,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+4,0.5,0,DR Tuffey,2010-02-08,1st,Tamim Iqbal,1,,Imrul Kayes,4,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+5,0.6,0,DR Tuffey,2010-02-08,1st,Tamim Iqbal,1,,Imrul Kayes,4,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+6,1.1,0,AJ McKay,2010-02-08,1st,Imrul Kayes,4,,Tamim Iqbal,1,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+7,1.2,0,AJ McKay,2010-02-08,1st,Imrul Kayes,4,,Tamim Iqbal,1,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+8,1.3,0,AJ McKay,2010-02-08,1st,Imrul Kayes,4,,Tamim Iqbal,1,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+9,1.4,0,AJ McKay,2010-02-08,1st,Imrul Kayes,4,,Tamim Iqbal,1,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+10,1.5,0,AJ McKay,2010-02-08,1st,Imrul Kayes,4,Tamim Iqbal,Tamim Iqbal,1,New Zealand,Bangladesh,5,New Zealand,University Oval,1,New Zealand
+11,1.6,0,AJ McKay,2010-02-08,1st,Imrul Kayes,4,,Mohammad Ashraful,0,New Zealand,Bangladesh,5,New Zealand,University Oval,1,New Zealand
+12,2.1,0,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,0,,Imrul Kayes,4,New Zealand,Bangladesh,5,New Zealand,University Oval,1,New Zealand
+13,2.2,3,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,0,,Imrul Kayes,7,New Zealand,Bangladesh,8,New Zealand,University Oval,1,New Zealand
+14,2.3,0,DR Tuffey,2010-02-08,1st,Imrul Kayes,7,,Mohammad Ashraful,0,New Zealand,Bangladesh,8,New Zealand,University Oval,1,New Zealand
+15,2.4,0,DR Tuffey,2010-02-08,1st,Imrul Kayes,7,,Mohammad Ashraful,0,New Zealand,Bangladesh,8,New Zealand,University Oval,1,New Zealand
+16,2.5,0,DR Tuffey,2010-02-08,1st,Imrul Kayes,7,,Mohammad Ashraful,0,New Zealand,Bangladesh,8,New Zealand,University Oval,1,New Zealand
+17,2.6,0,DR Tuffey,2010-02-08,1st,Imrul Kayes,7,,Mohammad Ashraful,0,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+18,2.7,0,DR Tuffey,2010-02-08,1st,Imrul Kayes,7,,Mohammad Ashraful,0,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+19,3.1,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,0,,Imrul Kayes,7,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+20,3.2,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,0,,Imrul Kayes,7,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+21,3.3,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,0,,Imrul Kayes,7,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+22,3.4,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,0,,Imrul Kayes,7,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+23,3.5,1,AJ McKay,2010-02-08,1st,Mohammad Ashraful,0,,Imrul Kayes,8,New Zealand,Bangladesh,10,New Zealand,University Oval,1,New Zealand
+24,3.6,0,AJ McKay,2010-02-08,1st,Imrul Kayes,8,,Mohammad Ashraful,0,New Zealand,Bangladesh,10,New Zealand,University Oval,1,New Zealand
+25,4.1,1,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,0,Imrul Kayes,Imrul Kayes,9,New Zealand,Bangladesh,11,New Zealand,University Oval,2,New Zealand
+26,4.2,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,0,New Zealand,Bangladesh,11,New Zealand,University Oval,2,New Zealand
+27,4.3,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,0,New Zealand,Bangladesh,11,New Zealand,University Oval,2,New Zealand
+28,4.4,1,DR Tuffey,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+29,4.5,0,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,0,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+30,4.6,0,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,0,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+31,5.1,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+32,5.2,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+33,5.3,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+34,5.4,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+35,5.5,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,12,New Zealand,University Oval,2,New Zealand
+36,5.6,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,13,New Zealand,University Oval,2,New Zealand
+37,5.7,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,0,,Mohammad Ashraful,1,New Zealand,Bangladesh,13,New Zealand,University Oval,2,New Zealand
+38,6.1,0,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,0,New Zealand,Bangladesh,13,New Zealand,University Oval,2,New Zealand
+39,6.2,0,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,0,New Zealand,Bangladesh,13,New Zealand,University Oval,2,New Zealand
+40,6.3,0,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,0,New Zealand,Bangladesh,13,New Zealand,University Oval,2,New Zealand
+41,6.4,1,DR Tuffey,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+42,6.5,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,,Mohammad Ashraful,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+43,6.6,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,,Mohammad Ashraful,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+44,7.1,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+45,7.2,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+46,7.3,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+47,7.4,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+48,7.5,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+49,7.6,0,AJ McKay,2010-02-08,1st,Mohammad Ashraful,1,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,2,New Zealand
+50,8.1,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,Mohammad Ashraful,Mohammad Ashraful,1,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+51,8.2,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,,Shakib Al Hasan,0,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+52,8.3,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,,Shakib Al Hasan,0,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+53,8.4,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,,Shakib Al Hasan,0,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+54,8.5,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,,Shakib Al Hasan,0,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+55,8.6,0,DR Tuffey,2010-02-08,1st,Aftab Ahmed,1,,Shakib Al Hasan,0,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+56,9.1,0,AJ McKay,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+57,9.2,0,AJ McKay,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+58,9.3,0,AJ McKay,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,1,New Zealand,Bangladesh,14,New Zealand,University Oval,3,New Zealand
+59,9.4,1,AJ McKay,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,2,New Zealand,Bangladesh,15,New Zealand,University Oval,3,New Zealand
+60,9.5,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,2,,Shakib Al Hasan,0,New Zealand,Bangladesh,15,New Zealand,University Oval,3,New Zealand
+61,9.6,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,2,,Shakib Al Hasan,0,New Zealand,Bangladesh,15,New Zealand,University Oval,3,New Zealand
+62,10.1,4,DR Tuffey,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,6,New Zealand,Bangladesh,19,New Zealand,University Oval,3,New Zealand
+63,10.2,0,DR Tuffey,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,6,New Zealand,Bangladesh,19,New Zealand,University Oval,3,New Zealand
+64,10.3,0,DR Tuffey,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,6,New Zealand,Bangladesh,19,New Zealand,University Oval,3,New Zealand
+65,10.4,0,DR Tuffey,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,6,New Zealand,Bangladesh,19,New Zealand,University Oval,3,New Zealand
+66,10.5,0,DR Tuffey,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,6,New Zealand,Bangladesh,19,New Zealand,University Oval,3,New Zealand
+67,10.6,4,DR Tuffey,2010-02-08,1st,Shakib Al Hasan,0,,Aftab Ahmed,10,New Zealand,Bangladesh,23,New Zealand,University Oval,3,New Zealand
+68,11.1,0,AJ McKay,2010-02-08,1st,Aftab Ahmed,10,Shakib Al Hasan,Shakib Al Hasan,0,New Zealand,Bangladesh,23,New Zealand,University Oval,4,New Zealand
+69,11.2,1,AJ McKay,2010-02-08,1st,Aftab Ahmed,10,,Mushfiqur Rahim,1,New Zealand,Bangladesh,24,New Zealand,University Oval,4,New Zealand
+70,11.3,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,1,,Aftab Ahmed,10,New Zealand,Bangladesh,24,New Zealand,University Oval,4,New Zealand
+71,11.4,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,1,,Aftab Ahmed,10,New Zealand,Bangladesh,24,New Zealand,University Oval,4,New Zealand
+72,11.5,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,1,,Aftab Ahmed,10,New Zealand,Bangladesh,24,New Zealand,University Oval,4,New Zealand
+73,11.6,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,1,,Aftab Ahmed,10,New Zealand,Bangladesh,24,New Zealand,University Oval,4,New Zealand
+74,12.1,1,IG Butler,2010-02-08,1st,Aftab Ahmed,10,,Mushfiqur Rahim,2,New Zealand,Bangladesh,25,New Zealand,University Oval,4,New Zealand
+75,12.2,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,Aftab Ahmed,Aftab Ahmed,10,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+76,12.3,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,0,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+77,12.4,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,0,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+78,12.5,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,0,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+79,12.6,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,0,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+80,13.1,0,AJ McKay,2010-02-08,1st,Mahmudullah,0,,Mushfiqur Rahim,2,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+81,13.2,0,AJ McKay,2010-02-08,1st,Mahmudullah,0,,Mushfiqur Rahim,2,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+82,13.3,0,AJ McKay,2010-02-08,1st,Mahmudullah,0,,Mushfiqur Rahim,2,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+83,13.4,0,AJ McKay,2010-02-08,1st,Mahmudullah,0,,Mushfiqur Rahim,2,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+84,13.5,0,AJ McKay,2010-02-08,1st,Mahmudullah,0,,Mushfiqur Rahim,2,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+85,13.6,0,AJ McKay,2010-02-08,1st,Mahmudullah,0,,Mushfiqur Rahim,2,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+86,14.1,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,0,New Zealand,Bangladesh,25,New Zealand,University Oval,5,New Zealand
+87,14.2,2,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,2,New Zealand,Bangladesh,27,New Zealand,University Oval,5,New Zealand
+88,14.3,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,2,New Zealand,Bangladesh,27,New Zealand,University Oval,5,New Zealand
+89,14.4,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,2,New Zealand,Bangladesh,27,New Zealand,University Oval,5,New Zealand
+90,14.5,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,2,New Zealand,Bangladesh,27,New Zealand,University Oval,5,New Zealand
+91,14.6,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,2,,Mahmudullah,2,New Zealand,Bangladesh,27,New Zealand,University Oval,5,New Zealand
+92,15.1,4,JDP Oram,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,6,New Zealand,Bangladesh,31,New Zealand,University Oval,5,New Zealand
+93,15.2,0,JDP Oram,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,6,New Zealand,Bangladesh,31,New Zealand,University Oval,5,New Zealand
+94,15.3,4,JDP Oram,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,10,New Zealand,Bangladesh,35,New Zealand,University Oval,5,New Zealand
+95,15.4,0,JDP Oram,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,10,New Zealand,Bangladesh,35,New Zealand,University Oval,5,New Zealand
+96,15.5,1,JDP Oram,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+97,15.6,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,11,,Mahmudullah,2,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+98,16.1,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+99,16.2,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+100,16.3,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+101,16.4,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+102,16.5,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+103,16.6,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+104,17.1,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,11,,Mahmudullah,2,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+105,17.2,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,11,,Mahmudullah,2,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+106,17.3,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,11,,Mahmudullah,2,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+107,17.4,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,11,,Mahmudullah,2,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+108,17.5,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,11,,Mahmudullah,2,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+109,17.6,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,11,,Mahmudullah,2,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+110,18.1,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+111,18.2,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+112,18.3,0,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,11,New Zealand,Bangladesh,36,New Zealand,University Oval,5,New Zealand
+113,18.4,1,IG Butler,2010-02-08,1st,Mahmudullah,2,,Mushfiqur Rahim,12,New Zealand,Bangladesh,37,New Zealand,University Oval,5,New Zealand
+114,18.5,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,2,New Zealand,Bangladesh,37,New Zealand,University Oval,5,New Zealand
+115,18.6,1,IG Butler,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,3,New Zealand,Bangladesh,38,New Zealand,University Oval,5,New Zealand
+116,19.1,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,3,New Zealand,Bangladesh,38,New Zealand,University Oval,5,New Zealand
+117,19.2,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,3,New Zealand,Bangladesh,39,New Zealand,University Oval,5,New Zealand
+118,19.3,1,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,4,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+119,19.4,0,JDP Oram,2010-02-08,1st,Mahmudullah,4,,Mushfiqur Rahim,12,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+120,19.5,0,JDP Oram,2010-02-08,1st,Mahmudullah,4,,Mushfiqur Rahim,12,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+121,19.6,0,JDP Oram,2010-02-08,1st,Mahmudullah,4,,Mushfiqur Rahim,12,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+122,19.7,0,JDP Oram,2010-02-08,1st,Mahmudullah,4,,Mushfiqur Rahim,12,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+123,20.1,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,4,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+124,20.2,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,4,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+125,20.3,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,4,New Zealand,Bangladesh,40,New Zealand,University Oval,5,New Zealand
+126,20.4,4,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,8,New Zealand,Bangladesh,44,New Zealand,University Oval,5,New Zealand
+127,20.5,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,8,New Zealand,Bangladesh,44,New Zealand,University Oval,5,New Zealand
+128,20.6,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,12,,Mahmudullah,8,New Zealand,Bangladesh,44,New Zealand,University Oval,5,New Zealand
+129,21.1,0,JDP Oram,2010-02-08,1st,Mahmudullah,8,,Mushfiqur Rahim,12,New Zealand,Bangladesh,44,New Zealand,University Oval,5,New Zealand
+130,21.2,0,JDP Oram,2010-02-08,1st,Mahmudullah,8,,Mushfiqur Rahim,12,New Zealand,Bangladesh,44,New Zealand,University Oval,5,New Zealand
+131,21.3,0,JDP Oram,2010-02-08,1st,Mahmudullah,8,,Mushfiqur Rahim,12,New Zealand,Bangladesh,44,New Zealand,University Oval,5,New Zealand
+132,21.4,1,JDP Oram,2010-02-08,1st,Mahmudullah,8,,Mushfiqur Rahim,13,New Zealand,Bangladesh,45,New Zealand,University Oval,5,New Zealand
+133,21.5,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,13,,Mahmudullah,8,New Zealand,Bangladesh,45,New Zealand,University Oval,5,New Zealand
+134,21.6,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,13,,Mahmudullah,8,New Zealand,Bangladesh,45,New Zealand,University Oval,5,New Zealand
+135,22.1,1,DL Vettori,2010-02-08,1st,Mahmudullah,8,,Mushfiqur Rahim,14,New Zealand,Bangladesh,46,New Zealand,University Oval,5,New Zealand
+136,22.2,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,14,,Mahmudullah,8,New Zealand,Bangladesh,46,New Zealand,University Oval,5,New Zealand
+137,22.3,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,14,,Mahmudullah,8,New Zealand,Bangladesh,46,New Zealand,University Oval,5,New Zealand
+138,22.4,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,14,Mahmudullah,Mahmudullah,8,New Zealand,Bangladesh,46,New Zealand,University Oval,6,New Zealand
+139,22.5,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,14,,Naeem Islam,0,New Zealand,Bangladesh,46,New Zealand,University Oval,6,New Zealand
+140,22.6,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,14,,Naeem Islam,0,New Zealand,Bangladesh,46,New Zealand,University Oval,6,New Zealand
+141,23.1,0,JDP Oram,2010-02-08,1st,Naeem Islam,0,,Mushfiqur Rahim,14,New Zealand,Bangladesh,46,New Zealand,University Oval,6,New Zealand
+142,23.2,1,JDP Oram,2010-02-08,1st,Naeem Islam,0,,Mushfiqur Rahim,15,New Zealand,Bangladesh,47,New Zealand,University Oval,6,New Zealand
+143,23.3,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,15,,Naeem Islam,0,New Zealand,Bangladesh,47,New Zealand,University Oval,6,New Zealand
+144,23.4,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,15,,Naeem Islam,0,New Zealand,Bangladesh,47,New Zealand,University Oval,6,New Zealand
+145,23.5,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,15,,Naeem Islam,0,New Zealand,Bangladesh,47,New Zealand,University Oval,6,New Zealand
+146,23.6,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,15,,Naeem Islam,0,New Zealand,Bangladesh,47,New Zealand,University Oval,6,New Zealand
+147,24.1,1,DL Vettori,2010-02-08,1st,Naeem Islam,0,,Mushfiqur Rahim,16,New Zealand,Bangladesh,48,New Zealand,University Oval,6,New Zealand
+148,24.2,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,0,New Zealand,Bangladesh,48,New Zealand,University Oval,6,New Zealand
+149,24.3,1,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,1,New Zealand,Bangladesh,49,New Zealand,University Oval,6,New Zealand
+150,24.4,0,DL Vettori,2010-02-08,1st,Naeem Islam,1,,Mushfiqur Rahim,16,New Zealand,Bangladesh,49,New Zealand,University Oval,6,New Zealand
+151,24.5,0,DL Vettori,2010-02-08,1st,Naeem Islam,1,,Mushfiqur Rahim,16,New Zealand,Bangladesh,49,New Zealand,University Oval,6,New Zealand
+152,24.6,0,DL Vettori,2010-02-08,1st,Naeem Islam,1,,Mushfiqur Rahim,16,New Zealand,Bangladesh,49,New Zealand,University Oval,6,New Zealand
+153,25.1,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,1,New Zealand,Bangladesh,49,New Zealand,University Oval,6,New Zealand
+154,25.2,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,1,New Zealand,Bangladesh,49,New Zealand,University Oval,6,New Zealand
+155,25.3,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,1,New Zealand,Bangladesh,49,New Zealand,University Oval,6,New Zealand
+156,25.4,2,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,3,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+157,25.5,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,3,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+158,25.6,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,16,,Naeem Islam,3,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+159,26.1,0,DL Vettori,2010-02-08,1st,Naeem Islam,3,,Mushfiqur Rahim,16,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+160,26.2,0,DL Vettori,2010-02-08,1st,Naeem Islam,3,,Mushfiqur Rahim,16,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+161,26.3,0,DL Vettori,2010-02-08,1st,Naeem Islam,3,,Mushfiqur Rahim,16,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+162,26.4,0,DL Vettori,2010-02-08,1st,Naeem Islam,3,,Mushfiqur Rahim,16,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+163,26.5,0,DL Vettori,2010-02-08,1st,Naeem Islam,3,,Mushfiqur Rahim,16,New Zealand,Bangladesh,51,New Zealand,University Oval,6,New Zealand
+164,26.6,1,DL Vettori,2010-02-08,1st,Naeem Islam,3,,Mushfiqur Rahim,17,New Zealand,Bangladesh,52,New Zealand,University Oval,6,New Zealand
+165,27.1,1,AJ McKay,2010-02-08,1st,Naeem Islam,3,,Mushfiqur Rahim,18,New Zealand,Bangladesh,53,New Zealand,University Oval,6,New Zealand
+166,27.2,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,3,New Zealand,Bangladesh,53,New Zealand,University Oval,6,New Zealand
+167,27.3,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,3,New Zealand,Bangladesh,53,New Zealand,University Oval,6,New Zealand
+168,27.4,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,3,New Zealand,Bangladesh,53,New Zealand,University Oval,6,New Zealand
+169,27.5,0,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,3,New Zealand,Bangladesh,53,New Zealand,University Oval,6,New Zealand
+170,27.6,1,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,4,New Zealand,Bangladesh,54,New Zealand,University Oval,6,New Zealand
+171,28.1,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,4,New Zealand,Bangladesh,54,New Zealand,University Oval,6,New Zealand
+172,28.2,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,4,New Zealand,Bangladesh,54,New Zealand,University Oval,6,New Zealand
+173,28.3,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,4,New Zealand,Bangladesh,54,New Zealand,University Oval,6,New Zealand
+174,28.4,1,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,5,New Zealand,Bangladesh,55,New Zealand,University Oval,6,New Zealand
+175,28.5,0,DL Vettori,2010-02-08,1st,Naeem Islam,5,,Mushfiqur Rahim,18,New Zealand,Bangladesh,55,New Zealand,University Oval,6,New Zealand
+176,28.6,0,DL Vettori,2010-02-08,1st,Naeem Islam,5,,Mushfiqur Rahim,18,New Zealand,Bangladesh,55,New Zealand,University Oval,6,New Zealand
+177,29.1,1,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,18,,Naeem Islam,6,New Zealand,Bangladesh,56,New Zealand,University Oval,6,New Zealand
+178,29.2,2,AJ McKay,2010-02-08,1st,Naeem Islam,6,,Mushfiqur Rahim,20,New Zealand,Bangladesh,58,New Zealand,University Oval,6,New Zealand
+179,29.3,1,AJ McKay,2010-02-08,1st,Naeem Islam,6,,Mushfiqur Rahim,21,New Zealand,Bangladesh,59,New Zealand,University Oval,6,New Zealand
+180,29.4,1,AJ McKay,2010-02-08,1st,Mushfiqur Rahim,21,,Naeem Islam,7,New Zealand,Bangladesh,60,New Zealand,University Oval,6,New Zealand
+181,29.5,4,AJ McKay,2010-02-08,1st,Naeem Islam,7,,Mushfiqur Rahim,25,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+182,29.6,0,AJ McKay,2010-02-08,1st,Naeem Islam,7,,Mushfiqur Rahim,25,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+183,30.1,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,25,,Naeem Islam,7,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+184,30.2,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,25,,Naeem Islam,7,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+185,30.3,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,25,,Naeem Islam,7,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+186,30.4,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,25,,Naeem Islam,7,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+187,30.5,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,25,,Naeem Islam,7,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+188,30.6,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,25,,Naeem Islam,7,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+189,31.1,0,DL Vettori,2010-02-08,1st,Naeem Islam,7,,Mushfiqur Rahim,25,New Zealand,Bangladesh,64,New Zealand,University Oval,6,New Zealand
+190,31.2,1,DL Vettori,2010-02-08,1st,Naeem Islam,7,,Mushfiqur Rahim,26,New Zealand,Bangladesh,65,New Zealand,University Oval,6,New Zealand
+191,31.3,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,7,New Zealand,Bangladesh,65,New Zealand,University Oval,6,New Zealand
+192,31.4,1,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,8,New Zealand,Bangladesh,66,New Zealand,University Oval,6,New Zealand
+193,31.5,0,DL Vettori,2010-02-08,1st,Naeem Islam,8,,Mushfiqur Rahim,26,New Zealand,Bangladesh,66,New Zealand,University Oval,6,New Zealand
+194,31.6,0,DL Vettori,2010-02-08,1st,Naeem Islam,8,,Mushfiqur Rahim,26,New Zealand,Bangladesh,66,New Zealand,University Oval,6,New Zealand
+195,32.1,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,8,New Zealand,Bangladesh,66,New Zealand,University Oval,6,New Zealand
+196,32.2,1,IG Butler,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,9,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+197,32.3,0,IG Butler,2010-02-08,1st,Naeem Islam,9,,Mushfiqur Rahim,26,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+198,32.4,0,IG Butler,2010-02-08,1st,Naeem Islam,9,,Mushfiqur Rahim,26,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+199,32.5,0,IG Butler,2010-02-08,1st,Naeem Islam,9,,Mushfiqur Rahim,26,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+200,32.6,0,IG Butler,2010-02-08,1st,Naeem Islam,9,,Mushfiqur Rahim,26,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+201,33.1,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,9,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+202,33.2,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,9,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+203,33.3,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,9,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+204,33.4,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,9,New Zealand,Bangladesh,67,New Zealand,University Oval,6,New Zealand
+205,33.5,1,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,26,,Naeem Islam,10,New Zealand,Bangladesh,68,New Zealand,University Oval,6,New Zealand
+206,33.6,1,DL Vettori,2010-02-08,1st,Naeem Islam,10,,Mushfiqur Rahim,27,New Zealand,Bangladesh,69,New Zealand,University Oval,6,New Zealand
+207,34.1,0,IG Butler,2010-02-08,1st,Naeem Islam,10,,Mushfiqur Rahim,27,New Zealand,Bangladesh,69,New Zealand,University Oval,6,New Zealand
+208,34.2,1,IG Butler,2010-02-08,1st,Naeem Islam,10,,Mushfiqur Rahim,28,New Zealand,Bangladesh,70,New Zealand,University Oval,6,New Zealand
+209,34.3,1,IG Butler,2010-02-08,1st,Mushfiqur Rahim,28,,Naeem Islam,11,New Zealand,Bangladesh,71,New Zealand,University Oval,6,New Zealand
+210,34.4,0,IG Butler,2010-02-08,1st,Naeem Islam,11,,Mushfiqur Rahim,28,New Zealand,Bangladesh,71,New Zealand,University Oval,6,New Zealand
+211,34.5,1,IG Butler,2010-02-08,1st,Naeem Islam,11,,Mushfiqur Rahim,29,New Zealand,Bangladesh,72,New Zealand,University Oval,6,New Zealand
+212,34.6,1,IG Butler,2010-02-08,1st,Mushfiqur Rahim,29,,Naeem Islam,12,New Zealand,Bangladesh,73,New Zealand,University Oval,6,New Zealand
+213,35.1,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,29,,Naeem Islam,12,New Zealand,Bangladesh,73,New Zealand,University Oval,6,New Zealand
+214,35.2,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,29,,Naeem Islam,12,New Zealand,Bangladesh,73,New Zealand,University Oval,6,New Zealand
+215,35.3,1,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,29,,Naeem Islam,13,New Zealand,Bangladesh,74,New Zealand,University Oval,6,New Zealand
+216,35.4,1,DL Vettori,2010-02-08,1st,Naeem Islam,13,,Mushfiqur Rahim,30,New Zealand,Bangladesh,75,New Zealand,University Oval,6,New Zealand
+217,35.5,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,30,,Naeem Islam,13,New Zealand,Bangladesh,75,New Zealand,University Oval,6,New Zealand
+218,35.6,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,30,,Naeem Islam,13,New Zealand,Bangladesh,75,New Zealand,University Oval,6,New Zealand
+219,36.1,0,JEC Franklin,2010-02-08,1st,Naeem Islam,13,,Mushfiqur Rahim,30,New Zealand,Bangladesh,75,New Zealand,University Oval,6,New Zealand
+220,36.2,1,JEC Franklin,2010-02-08,1st,Naeem Islam,13,,Mushfiqur Rahim,31,New Zealand,Bangladesh,76,New Zealand,University Oval,6,New Zealand
+221,36.3,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,31,,Naeem Islam,13,New Zealand,Bangladesh,76,New Zealand,University Oval,6,New Zealand
+222,36.4,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,31,,Naeem Islam,13,New Zealand,Bangladesh,76,New Zealand,University Oval,6,New Zealand
+223,36.5,1,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,31,,Naeem Islam,14,New Zealand,Bangladesh,77,New Zealand,University Oval,6,New Zealand
+224,36.6,0,JEC Franklin,2010-02-08,1st,Naeem Islam,14,,Mushfiqur Rahim,31,New Zealand,Bangladesh,77,New Zealand,University Oval,6,New Zealand
+225,37.1,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,31,,Naeem Islam,14,New Zealand,Bangladesh,77,New Zealand,University Oval,6,New Zealand
+226,37.2,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,31,,Naeem Islam,14,New Zealand,Bangladesh,77,New Zealand,University Oval,6,New Zealand
+227,37.3,1,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,31,,Naeem Islam,15,New Zealand,Bangladesh,78,New Zealand,University Oval,6,New Zealand
+228,37.4,0,DL Vettori,2010-02-08,1st,Naeem Islam,15,,Mushfiqur Rahim,31,New Zealand,Bangladesh,78,New Zealand,University Oval,6,New Zealand
+229,37.5,2,DL Vettori,2010-02-08,1st,Naeem Islam,15,,Mushfiqur Rahim,33,New Zealand,Bangladesh,80,New Zealand,University Oval,6,New Zealand
+230,37.6,0,DL Vettori,2010-02-08,1st,Naeem Islam,15,,Mushfiqur Rahim,33,New Zealand,Bangladesh,80,New Zealand,University Oval,6,New Zealand
+231,38.1,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,33,,Naeem Islam,15,New Zealand,Bangladesh,80,New Zealand,University Oval,6,New Zealand
+232,38.2,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,33,,Naeem Islam,15,New Zealand,Bangladesh,80,New Zealand,University Oval,6,New Zealand
+233,38.3,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,33,,Naeem Islam,15,New Zealand,Bangladesh,80,New Zealand,University Oval,6,New Zealand
+234,38.4,4,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,33,,Naeem Islam,19,New Zealand,Bangladesh,84,New Zealand,University Oval,6,New Zealand
+235,38.5,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,33,,Naeem Islam,19,New Zealand,Bangladesh,84,New Zealand,University Oval,6,New Zealand
+236,38.6,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,33,,Naeem Islam,19,New Zealand,Bangladesh,84,New Zealand,University Oval,6,New Zealand
+237,39.1,1,DL Vettori,2010-02-08,1st,Naeem Islam,19,,Mushfiqur Rahim,34,New Zealand,Bangladesh,85,New Zealand,University Oval,6,New Zealand
+238,39.2,1,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,34,,Naeem Islam,20,New Zealand,Bangladesh,86,New Zealand,University Oval,6,New Zealand
+239,39.3,0,DL Vettori,2010-02-08,1st,Naeem Islam,20,,Mushfiqur Rahim,34,New Zealand,Bangladesh,86,New Zealand,University Oval,6,New Zealand
+240,39.4,1,DL Vettori,2010-02-08,1st,Naeem Islam,20,,Mushfiqur Rahim,35,New Zealand,Bangladesh,87,New Zealand,University Oval,6,New Zealand
+241,39.5,4,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,35,,Naeem Islam,24,New Zealand,Bangladesh,91,New Zealand,University Oval,6,New Zealand
+242,39.6,0,DL Vettori,2010-02-08,1st,Mushfiqur Rahim,35,,Naeem Islam,24,New Zealand,Bangladesh,91,New Zealand,University Oval,6,New Zealand
+243,40.1,0,JEC Franklin,2010-02-08,1st,Naeem Islam,24,,Mushfiqur Rahim,35,New Zealand,Bangladesh,91,New Zealand,University Oval,6,New Zealand
+244,40.2,0,JEC Franklin,2010-02-08,1st,Naeem Islam,24,,Mushfiqur Rahim,35,New Zealand,Bangladesh,91,New Zealand,University Oval,6,New Zealand
+245,40.3,1,JEC Franklin,2010-02-08,1st,Naeem Islam,24,,Mushfiqur Rahim,36,New Zealand,Bangladesh,92,New Zealand,University Oval,6,New Zealand
+246,40.4,4,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,36,,Naeem Islam,28,New Zealand,Bangladesh,96,New Zealand,University Oval,6,New Zealand
+247,40.5,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,36,,Naeem Islam,28,New Zealand,Bangladesh,96,New Zealand,University Oval,6,New Zealand
+248,40.6,2,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,36,,Naeem Islam,30,New Zealand,Bangladesh,98,New Zealand,University Oval,6,New Zealand
+249,41.1,0,JDP Oram,2010-02-08,1st,Naeem Islam,30,,Mushfiqur Rahim,36,New Zealand,Bangladesh,98,New Zealand,University Oval,6,New Zealand
+250,41.2,0,JDP Oram,2010-02-08,1st,Naeem Islam,30,,Mushfiqur Rahim,36,New Zealand,Bangladesh,98,New Zealand,University Oval,6,New Zealand
+251,41.3,4,JDP Oram,2010-02-08,1st,Naeem Islam,30,,Mushfiqur Rahim,40,New Zealand,Bangladesh,102,New Zealand,University Oval,6,New Zealand
+252,41.4,0,JDP Oram,2010-02-08,1st,Naeem Islam,30,,Mushfiqur Rahim,40,New Zealand,Bangladesh,102,New Zealand,University Oval,6,New Zealand
+253,41.5,4,JDP Oram,2010-02-08,1st,Naeem Islam,30,,Mushfiqur Rahim,44,New Zealand,Bangladesh,106,New Zealand,University Oval,6,New Zealand
+254,41.6,0,JDP Oram,2010-02-08,1st,Naeem Islam,30,,Mushfiqur Rahim,44,New Zealand,Bangladesh,106,New Zealand,University Oval,6,New Zealand
+255,42.1,0,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,44,,Naeem Islam,30,New Zealand,Bangladesh,106,New Zealand,University Oval,6,New Zealand
+256,42.2,1,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,44,,Naeem Islam,31,New Zealand,Bangladesh,107,New Zealand,University Oval,6,New Zealand
+257,42.3,0,JEC Franklin,2010-02-08,1st,Naeem Islam,31,,Mushfiqur Rahim,44,New Zealand,Bangladesh,107,New Zealand,University Oval,6,New Zealand
+258,42.4,1,JEC Franklin,2010-02-08,1st,Naeem Islam,31,,Mushfiqur Rahim,45,New Zealand,Bangladesh,108,New Zealand,University Oval,6,New Zealand
+259,42.5,1,JEC Franklin,2010-02-08,1st,Mushfiqur Rahim,45,,Naeem Islam,32,New Zealand,Bangladesh,109,New Zealand,University Oval,6,New Zealand
+260,42.6,0,JEC Franklin,2010-02-08,1st,Naeem Islam,32,,Mushfiqur Rahim,45,New Zealand,Bangladesh,109,New Zealand,University Oval,6,New Zealand
+261,43.1,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,45,,Naeem Islam,32,New Zealand,Bangladesh,109,New Zealand,University Oval,6,New Zealand
+262,43.2,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,45,,Naeem Islam,32,New Zealand,Bangladesh,109,New Zealand,University Oval,6,New Zealand
+263,43.3,0,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,45,,Naeem Islam,32,New Zealand,Bangladesh,109,New Zealand,University Oval,6,New Zealand
+264,43.4,1,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,45,,Naeem Islam,33,New Zealand,Bangladesh,110,New Zealand,University Oval,6,New Zealand
+265,43.5,1,JDP Oram,2010-02-08,1st,Naeem Islam,33,,Mushfiqur Rahim,46,New Zealand,Bangladesh,111,New Zealand,University Oval,6,New Zealand
+266,43.6,1,JDP Oram,2010-02-08,1st,Mushfiqur Rahim,46,,Naeem Islam,34,New Zealand,Bangladesh,112,New Zealand,University Oval,6,New Zealand
+267,44.1,1,DR Tuffey,2010-02-08,1st,Mushfiqur Rahim,46,,Naeem Islam,35,New Zealand,Bangladesh,113,New Zealand,University Oval,6,New Zealand
+268,44.2,6,DR Tuffey,2010-02-08,1st,Naeem Islam,35,,Mushfiqur Rahim,52,New Zealand,Bangladesh,119,New Zealand,University Oval,6,New Zealand
+269,44.3,2,DR Tuffey,2010-02-08,1st,Naeem Islam,35,,Mushfiqur Rahim,54,New Zealand,Bangladesh,121,New Zealand,University Oval,6,New Zealand
+270,44.4,1,DR Tuffey,2010-02-08,1st,Naeem Islam,35,,Mushfiqur Rahim,55,New Zealand,Bangladesh,122,New Zealand,University Oval,6,New Zealand
+271,44.5,1,DR Tuffey,2010-02-08,1st,Mushfiqur Rahim,55,,Naeem Islam,36,New Zealand,Bangladesh,123,New Zealand,University Oval,6,New Zealand
+272,44.6,1,DR Tuffey,2010-02-08,1st,Naeem Islam,36,,Mushfiqur Rahim,56,New Zealand,Bangladesh,124,New Zealand,University Oval,6,New Zealand
+273,45.1,4,IG Butler,2010-02-08,1st,Naeem Islam,36,,Mushfiqur Rahim,60,New Zealand,Bangladesh,128,New Zealand,University Oval,6,New Zealand
+274,45.2,0,IG Butler,2010-02-08,1st,Naeem Islam,36,,Mushfiqur Rahim,60,New Zealand,Bangladesh,129,New Zealand,University Oval,6,New Zealand
+275,45.3,0,IG Butler,2010-02-08,1st,Naeem Islam,36,,Mushfiqur Rahim,60,New Zealand,Bangladesh,129,New Zealand,University Oval,6,New Zealand
+276,45.4,1,IG Butler,2010-02-08,1st,Naeem Islam,36,,Mushfiqur Rahim,61,New Zealand,Bangladesh,130,New Zealand,University Oval,6,New Zealand
+277,45.5,1,IG Butler,2010-02-08,1st,Mushfiqur Rahim,61,,Naeem Islam,37,New Zealand,Bangladesh,131,New Zealand,University Oval,6,New Zealand
+278,45.6,0,IG Butler,2010-02-08,1st,Naeem Islam,37,,Mushfiqur Rahim,61,New Zealand,Bangladesh,132,New Zealand,University Oval,6,New Zealand
+279,45.7,0,IG Butler,2010-02-08,1st,Naeem Islam,37,,Mushfiqur Rahim,61,New Zealand,Bangladesh,133,New Zealand,University Oval,6,New Zealand
+280,45.8,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,61,,Naeem Islam,37,New Zealand,Bangladesh,133,New Zealand,University Oval,6,New Zealand
+281,46.1,0,DR Tuffey,2010-02-08,1st,Naeem Islam,37,,Mushfiqur Rahim,61,New Zealand,Bangladesh,133,New Zealand,University Oval,6,New Zealand
+282,46.2,1,DR Tuffey,2010-02-08,1st,Naeem Islam,37,,Mushfiqur Rahim,62,New Zealand,Bangladesh,134,New Zealand,University Oval,6,New Zealand
+283,46.3,4,DR Tuffey,2010-02-08,1st,Mushfiqur Rahim,62,,Naeem Islam,41,New Zealand,Bangladesh,138,New Zealand,University Oval,6,New Zealand
+284,46.4,1,DR Tuffey,2010-02-08,1st,Mushfiqur Rahim,62,,Naeem Islam,42,New Zealand,Bangladesh,139,New Zealand,University Oval,6,New Zealand
+285,46.5,6,DR Tuffey,2010-02-08,1st,Naeem Islam,42,,Mushfiqur Rahim,68,New Zealand,Bangladesh,145,New Zealand,University Oval,6,New Zealand
+286,46.6,0,DR Tuffey,2010-02-08,1st,Naeem Islam,42,,Mushfiqur Rahim,68,New Zealand,Bangladesh,145,New Zealand,University Oval,6,New Zealand
+287,47.1,1,IG Butler,2010-02-08,1st,Mushfiqur Rahim,68,,Naeem Islam,43,New Zealand,Bangladesh,146,New Zealand,University Oval,6,New Zealand
+288,47.2,1,IG Butler,2010-02-08,1st,Naeem Islam,43,,Mushfiqur Rahim,69,New Zealand,Bangladesh,147,New Zealand,University Oval,6,New Zealand
+289,47.3,0,IG Butler,2010-02-08,1st,Mushfiqur Rahim,69,Naeem Islam,Naeem Islam,43,New Zealand,Bangladesh,147,New Zealand,University Oval,7,New Zealand
+290,47.4,1,IG Butler,2010-02-08,1st,Mushfiqur Rahim,69,,Shahadat Hossain,1,New Zealand,Bangladesh,148,New Zealand,University Oval,7,New Zealand
+291,47.5,6,IG Butler,2010-02-08,1st,Shahadat Hossain,1,,Mushfiqur Rahim,75,New Zealand,Bangladesh,154,New Zealand,University Oval,7,New Zealand
+292,47.6,1,IG Butler,2010-02-08,1st,Shahadat Hossain,1,,Mushfiqur Rahim,76,New Zealand,Bangladesh,155,New Zealand,University Oval,7,New Zealand
+293,48.1,1,DR Tuffey,2010-02-08,1st,Shahadat Hossain,1,,Mushfiqur Rahim,77,New Zealand,Bangladesh,156,New Zealand,University Oval,7,New Zealand
+294,48.2,0,DR Tuffey,2010-02-08,1st,Mushfiqur Rahim,77,,Shahadat Hossain,1,New Zealand,Bangladesh,156,New Zealand,University Oval,7,New Zealand
+295,48.3,1,DR Tuffey,2010-02-08,1st,Mushfiqur Rahim,77,,Shahadat Hossain,2,New Zealand,Bangladesh,157,New Zealand,University Oval,7,New Zealand
+296,48.4,4,DR Tuffey,2010-02-08,1st,Shahadat Hossain,2,,Mushfiqur Rahim,81,New Zealand,Bangladesh,161,New Zealand,University Oval,7,New Zealand
+297,48.5,4,DR Tuffey,2010-02-08,1st,Shahadat Hossain,2,,Mushfiqur Rahim,85,New Zealand,Bangladesh,165,New Zealand,University Oval,7,New Zealand
+298,48.6,1,DR Tuffey,2010-02-08,1st,Shahadat Hossain,2,,Mushfiqur Rahim,86,New Zealand,Bangladesh,166,New Zealand,University Oval,7,New Zealand
+299,49.1,0,IG Butler,2010-02-08,1st,Shahadat Hossain,2,Mushfiqur Rahim,Mushfiqur Rahim,86,New Zealand,Bangladesh,166,New Zealand,University Oval,8,New Zealand
+300,49.2,1,IG Butler,2010-02-08,1st,Shahadat Hossain,2,,Shafiul Islam,1,New Zealand,Bangladesh,167,New Zealand,University Oval,8,New Zealand
+301,49.3,0,IG Butler,2010-02-08,1st,Shafiul Islam,1,,Shahadat Hossain,2,New Zealand,Bangladesh,169,New Zealand,University Oval,8,New Zealand
+302,49.4,6,IG Butler,2010-02-08,1st,Shafiul Islam,1,,Shahadat Hossain,8,New Zealand,Bangladesh,175,New Zealand,University Oval,8,New Zealand
+303,49.5,4,IG Butler,2010-02-08,1st,Shafiul Islam,1,,Shahadat Hossain,12,New Zealand,Bangladesh,179,New Zealand,University Oval,8,New Zealand
+304,49.6,4,IG Butler,2010-02-08,1st,Shafiul Islam,1,,Shahadat Hossain,16,New Zealand,Bangladesh,183,New Zealand,University Oval,8,New Zealand
+305,0.1,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,BB McCullum,0,New Zealand,Bangladesh,0,New Zealand,University Oval,0,New Zealand
+306,0.2,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,BB McCullum,0,New Zealand,Bangladesh,0,New Zealand,University Oval,0,New Zealand
+307,0.3,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,BB McCullum,0,New Zealand,Bangladesh,0,New Zealand,University Oval,0,New Zealand
+308,0.4,5,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,BB McCullum,0,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+309,0.5,0,Shahadat Hossain,2010-02-08,2nd,BB McCullum,0,,PJ Ingram,0,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+310,0.6,0,Shahadat Hossain,2010-02-08,2nd,BB McCullum,0,,PJ Ingram,0,New Zealand,Bangladesh,5,New Zealand,University Oval,0,New Zealand
+311,1.1,4,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,BB McCullum,0,New Zealand,Bangladesh,9,New Zealand,University Oval,0,New Zealand
+312,1.2,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,BB McCullum,0,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+313,1.3,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,9,New Zealand,University Oval,1,New Zealand
+314,1.4,4,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,13,New Zealand,University Oval,1,New Zealand
+315,1.5,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,13,New Zealand,University Oval,1,New Zealand
+316,1.6,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,13,New Zealand,University Oval,1,New Zealand
+317,2.1,0,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,13,New Zealand,University Oval,1,New Zealand
+318,2.2,1,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,14,New Zealand,University Oval,1,New Zealand
+319,2.3,4,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,18,New Zealand,University Oval,1,New Zealand
+320,2.4,1,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,19,New Zealand,University Oval,1,New Zealand
+321,2.5,0,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,19,New Zealand,University Oval,1,New Zealand
+322,2.6,0,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,19,New Zealand,University Oval,1,New Zealand
+323,3.1,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,19,New Zealand,University Oval,1,New Zealand
+324,3.2,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,19,New Zealand,University Oval,1,New Zealand
+325,3.3,4,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,23,New Zealand,University Oval,1,New Zealand
+326,3.4,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,23,New Zealand,University Oval,1,New Zealand
+327,3.5,6,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,29,New Zealand,University Oval,1,New Zealand
+328,3.6,1,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,30,New Zealand,University Oval,1,New Zealand
+329,4.1,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,31,New Zealand,University Oval,1,New Zealand
+330,4.2,1,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,32,New Zealand,University Oval,1,New Zealand
+331,4.3,1,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,33,New Zealand,University Oval,1,New Zealand
+332,4.4,2,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,35,New Zealand,University Oval,1,New Zealand
+333,4.5,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,35,New Zealand,University Oval,1,New Zealand
+334,4.6,1,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,36,New Zealand,University Oval,1,New Zealand
+335,4.7,0,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,36,New Zealand,University Oval,1,New Zealand
+336,5.1,0,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,36,New Zealand,University Oval,1,New Zealand
+337,5.2,1,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,37,New Zealand,University Oval,1,New Zealand
+338,5.3,0,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,37,New Zealand,University Oval,1,New Zealand
+339,5.4,0,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,37,New Zealand,University Oval,1,New Zealand
+340,5.5,0,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,37,New Zealand,University Oval,1,New Zealand
+341,5.6,1,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,38,New Zealand,University Oval,1,New Zealand
+342,6.1,0,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,38,New Zealand,University Oval,1,New Zealand
+343,6.2,1,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,39,New Zealand,University Oval,1,New Zealand
+344,6.3,4,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,43,New Zealand,University Oval,1,New Zealand
+345,6.4,1,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,44,New Zealand,University Oval,1,New Zealand
+346,6.5,0,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,45,New Zealand,University Oval,1,New Zealand
+347,6.6,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,45,New Zealand,University Oval,1,New Zealand
+348,7.1,0,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,45,New Zealand,University Oval,1,New Zealand
+349,7.2,1,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,46,New Zealand,University Oval,1,New Zealand
+350,7.3,0,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,46,New Zealand,University Oval,1,New Zealand
+351,7.4,1,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,47,New Zealand,University Oval,1,New Zealand
+352,7.5,0,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,47,New Zealand,University Oval,1,New Zealand
+353,7.6,4,Rubel Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,51,New Zealand,University Oval,1,New Zealand
+354,8.1,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,51,New Zealand,University Oval,1,New Zealand
+355,8.2,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,51,New Zealand,University Oval,1,New Zealand
+356,8.3,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,51,New Zealand,University Oval,1,New Zealand
+357,8.4,0,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,51,New Zealand,University Oval,1,New Zealand
+358,8.5,1,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,52,New Zealand,University Oval,1,New Zealand
+359,8.6,0,Shahadat Hossain,2010-02-08,2nd,MJ Guptill,0,,PJ Ingram,0,New Zealand,Bangladesh,52,New Zealand,University Oval,1,New Zealand
+360,9.1,0,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,MJ Guptill,0,New Zealand,Bangladesh,52,New Zealand,University Oval,2,New Zealand
+361,9.2,0,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,52,New Zealand,University Oval,2,New Zealand
+362,9.3,0,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,52,New Zealand,University Oval,2,New Zealand
+363,9.4,0,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,52,New Zealand,University Oval,2,New Zealand
+364,9.5,1,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,53,New Zealand,University Oval,2,New Zealand
+365,9.6,1,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,54,New Zealand,University Oval,2,New Zealand
+366,10.1,0,Shahadat Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,56,New Zealand,University Oval,2,New Zealand
+367,10.2,1,Shahadat Hossain,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,57,New Zealand,University Oval,2,New Zealand
+368,10.3,0,Shahadat Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,57,New Zealand,University Oval,2,New Zealand
+369,10.4,0,Shahadat Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,57,New Zealand,University Oval,2,New Zealand
+370,10.5,0,Shahadat Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,57,New Zealand,University Oval,2,New Zealand
+371,10.6,0,Shahadat Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,57,New Zealand,University Oval,2,New Zealand
+372,10.7,1,Shahadat Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,58,New Zealand,University Oval,2,New Zealand
+373,11.1,4,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,62,New Zealand,University Oval,2,New Zealand
+374,11.2,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,62,New Zealand,University Oval,2,New Zealand
+375,11.3,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,62,New Zealand,University Oval,2,New Zealand
+376,11.4,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,62,New Zealand,University Oval,2,New Zealand
+377,11.5,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,62,New Zealand,University Oval,2,New Zealand
+378,11.6,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,62,New Zealand,University Oval,2,New Zealand
+379,12.1,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,62,New Zealand,University Oval,2,New Zealand
+380,12.2,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,63,New Zealand,University Oval,2,New Zealand
+381,12.3,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,63,New Zealand,University Oval,2,New Zealand
+382,12.4,1,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,64,New Zealand,University Oval,2,New Zealand
+383,12.5,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,64,New Zealand,University Oval,2,New Zealand
+384,12.6,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,64,New Zealand,University Oval,2,New Zealand
+385,13.1,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,64,New Zealand,University Oval,2,New Zealand
+386,13.2,4,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,68,New Zealand,University Oval,2,New Zealand
+387,13.3,1,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,69,New Zealand,University Oval,2,New Zealand
+388,13.4,1,Rubel Hossain,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,70,New Zealand,University Oval,2,New Zealand
+389,13.5,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,70,New Zealand,University Oval,2,New Zealand
+390,13.6,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,70,New Zealand,University Oval,2,New Zealand
+391,14.1,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,70,New Zealand,University Oval,2,New Zealand
+392,14.2,1,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,71,New Zealand,University Oval,2,New Zealand
+393,14.3,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,71,New Zealand,University Oval,2,New Zealand
+394,14.4,4,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,75,New Zealand,University Oval,2,New Zealand
+395,14.5,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,75,New Zealand,University Oval,2,New Zealand
+396,14.6,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,75,New Zealand,University Oval,2,New Zealand
+397,15.1,0,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,75,New Zealand,University Oval,2,New Zealand
+398,15.2,0,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,75,New Zealand,University Oval,2,New Zealand
+399,15.3,1,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,76,New Zealand,University Oval,2,New Zealand
+400,15.4,1,Shakib Al Hasan,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,77,New Zealand,University Oval,2,New Zealand
+401,15.5,0,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,78,New Zealand,University Oval,2,New Zealand
+402,15.6,1,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,79,New Zealand,University Oval,2,New Zealand
+403,15.7,1,Shakib Al Hasan,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,80,New Zealand,University Oval,2,New Zealand
+404,16.1,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,81,New Zealand,University Oval,2,New Zealand
+405,16.2,4,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,85,New Zealand,University Oval,2,New Zealand
+406,16.3,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,85,New Zealand,University Oval,2,New Zealand
+407,16.4,0,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,86,New Zealand,University Oval,2,New Zealand
+408,16.5,2,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,88,New Zealand,University Oval,2,New Zealand
+409,16.6,4,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,92,New Zealand,University Oval,2,New Zealand
+410,16.7,2,Shafiul Islam,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,94,New Zealand,University Oval,2,New Zealand
+411,17.1,0,Shakib Al Hasan,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,94,New Zealand,University Oval,2,New Zealand
+412,17.2,1,Shakib Al Hasan,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,95,New Zealand,University Oval,2,New Zealand
+413,17.3,0,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,96,New Zealand,University Oval,2,New Zealand
+414,17.4,0,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,96,New Zealand,University Oval,2,New Zealand
+415,17.5,0,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,96,New Zealand,University Oval,2,New Zealand
+416,17.6,0,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,96,New Zealand,University Oval,2,New Zealand
+417,17.7,4,Shakib Al Hasan,2010-02-08,2nd,PJ Ingram,0,,LRPL Taylor,0,New Zealand,Bangladesh,100,New Zealand,University Oval,2,New Zealand
+418,18.1,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,PJ Ingram,0,New Zealand,Bangladesh,100,New Zealand,University Oval,3,New Zealand
+419,18.2,0,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,101,New Zealand,University Oval,3,New Zealand
+420,18.3,4,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,105,New Zealand,University Oval,3,New Zealand
+421,18.4,6,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,111,New Zealand,University Oval,3,New Zealand
+422,18.5,1,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,112,New Zealand,University Oval,3,New Zealand
+423,18.6,1,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,113,New Zealand,University Oval,3,New Zealand
+424,18.7,4,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,117,New Zealand,University Oval,3,New Zealand
+425,19.1,1,Shakib Al Hasan,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,118,New Zealand,University Oval,3,New Zealand
+426,19.2,0,Shakib Al Hasan,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,118,New Zealand,University Oval,3,New Zealand
+427,19.3,0,Shakib Al Hasan,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,118,New Zealand,University Oval,3,New Zealand
+428,19.4,1,Shakib Al Hasan,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,119,New Zealand,University Oval,3,New Zealand
+429,19.5,0,Shakib Al Hasan,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,119,New Zealand,University Oval,3,New Zealand
+430,19.6,0,Shakib Al Hasan,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,119,New Zealand,University Oval,3,New Zealand
+431,20.1,1,Naeem Islam,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,120,New Zealand,University Oval,3,New Zealand
+432,20.2,0,Naeem Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,120,New Zealand,University Oval,3,New Zealand
+433,20.3,1,Naeem Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,121,New Zealand,University Oval,3,New Zealand
+434,20.4,0,Naeem Islam,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,121,New Zealand,University Oval,3,New Zealand
+435,20.5,6,Naeem Islam,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,127,New Zealand,University Oval,3,New Zealand
+436,20.6,6,Naeem Islam,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,133,New Zealand,University Oval,3,New Zealand
+437,21.1,1,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,134,New Zealand,University Oval,3,New Zealand
+438,21.2,0,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,134,New Zealand,University Oval,3,New Zealand
+439,21.3,1,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,135,New Zealand,University Oval,3,New Zealand
+440,21.4,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,135,New Zealand,University Oval,3,New Zealand
+441,21.5,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,135,New Zealand,University Oval,3,New Zealand
+442,21.6,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,136,New Zealand,University Oval,3,New Zealand
+443,21.7,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,136,New Zealand,University Oval,3,New Zealand
+444,22.1,4,Shahadat Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,140,New Zealand,University Oval,3,New Zealand
+445,22.2,0,Shahadat Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,140,New Zealand,University Oval,3,New Zealand
+446,22.3,1,Shahadat Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,141,New Zealand,University Oval,3,New Zealand
+447,22.4,1,Shahadat Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,142,New Zealand,University Oval,3,New Zealand
+448,22.5,2,Shahadat Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,144,New Zealand,University Oval,3,New Zealand
+449,22.6,2,Shahadat Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,146,New Zealand,University Oval,3,New Zealand
+450,23.1,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,146,New Zealand,University Oval,3,New Zealand
+451,23.2,1,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,147,New Zealand,University Oval,3,New Zealand
+452,23.3,6,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,153,New Zealand,University Oval,3,New Zealand
+453,23.4,1,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,154,New Zealand,University Oval,3,New Zealand
+454,23.5,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,154,New Zealand,University Oval,3,New Zealand
+455,23.6,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,154,New Zealand,University Oval,3,New Zealand
+456,24.1,1,Shafiul Islam,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,155,New Zealand,University Oval,3,New Zealand
+457,24.2,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,155,New Zealand,University Oval,3,New Zealand
+458,24.3,4,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,159,New Zealand,University Oval,3,New Zealand
+459,24.4,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,159,New Zealand,University Oval,3,New Zealand
+460,24.5,0,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,159,New Zealand,University Oval,3,New Zealand
+461,24.6,2,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,161,New Zealand,University Oval,3,New Zealand
+462,25.1,1,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,162,New Zealand,University Oval,3,New Zealand
+463,25.2,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,163,New Zealand,University Oval,3,New Zealand
+464,25.3,2,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,165,New Zealand,University Oval,3,New Zealand
+465,25.4,0,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,166,New Zealand,University Oval,3,New Zealand
+466,25.5,1,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,167,New Zealand,University Oval,3,New Zealand
+467,25.6,6,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,173,New Zealand,University Oval,3,New Zealand
+468,25.7,0,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,173,New Zealand,University Oval,3,New Zealand
+469,25.8,1,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,175,New Zealand,University Oval,3,New Zealand
+470,25.9,1,Rubel Hossain,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,176,New Zealand,University Oval,3,New Zealand
+471,26.1,1,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,177,New Zealand,University Oval,3,New Zealand
+472,26.2,1,Shafiul Islam,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,178,New Zealand,University Oval,3,New Zealand
+473,26.3,1,Shafiul Islam,2010-02-08,2nd,LRPL Taylor,0,,JEC Franklin,0,New Zealand,Bangladesh,179,New Zealand,University Oval,3,New Zealand
+474,26.4,0,Shafiul Islam,2010-02-08,2nd,JEC Franklin,0,,LRPL Taylor,0,New Zealand,Bangladesh,179,New Zealand,University Oval,4,New Zealand
+475,26.5,1,Shafiul Islam,2010-02-08,2nd,NT Broom,0,,JEC Franklin,0,New Zealand,Bangladesh,180,New Zealand,University Oval,4,New Zealand
+476,26.6,0,Shafiul Islam,2010-02-08,2nd,JEC Franklin,0,,NT Broom,0,New Zealand,Bangladesh,180,New Zealand,University Oval,5,New Zealand
+477,27.1,0,Rubel Hossain,2010-02-08,2nd,DL Vettori,0,,JEC Franklin,0,New Zealand,Bangladesh,180,New Zealand,University Oval,5,New Zealand
+478,27.2,1,Rubel Hossain,2010-02-08,2nd,DL Vettori,0,,JEC Franklin,0,New Zealand,Bangladesh,181,New Zealand,University Oval,5,New Zealand
+479,27.3,4,Rubel Hossain,2010-02-08,2nd,JEC Franklin,0,,DL Vettori,0,New Zealand,Bangladesh,185,New Zealand,University Oval,5,New Zealand

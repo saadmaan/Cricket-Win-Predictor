@@ -1,0 +1,364 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Sohail Tanvir,2008-07-04,1st,Nazimuddin,0,,Tamim Iqbal,0,Pakistan,Bangladesh,0,Bangladesh,National Stadium,0,Pakistan
+1,0.2,1,Sohail Tanvir,2008-07-04,1st,Nazimuddin,0,,Tamim Iqbal,1,Pakistan,Bangladesh,1,Bangladesh,National Stadium,0,Pakistan
+2,0.3,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,1,,Nazimuddin,0,Pakistan,Bangladesh,2,Bangladesh,National Stadium,0,Pakistan
+3,0.4,2,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,1,,Nazimuddin,2,Pakistan,Bangladesh,4,Bangladesh,National Stadium,0,Pakistan
+4,0.5,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,1,,Nazimuddin,2,Pakistan,Bangladesh,4,Bangladesh,National Stadium,0,Pakistan
+5,0.6,1,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,1,,Nazimuddin,3,Pakistan,Bangladesh,5,Bangladesh,National Stadium,0,Pakistan
+6,0.7,0,Sohail Tanvir,2008-07-04,1st,Nazimuddin,3,,Tamim Iqbal,1,Pakistan,Bangladesh,5,Bangladesh,National Stadium,0,Pakistan
+7,1.1,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,1,,Nazimuddin,3,Pakistan,Bangladesh,6,Bangladesh,National Stadium,0,Pakistan
+8,1.2,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,1,,Nazimuddin,3,Pakistan,Bangladesh,6,Bangladesh,National Stadium,0,Pakistan
+9,1.3,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,1,Nazimuddin,Nazimuddin,3,Pakistan,Bangladesh,6,Bangladesh,National Stadium,1,Pakistan
+10,1.4,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,1,Pakistan,Bangladesh,6,Bangladesh,National Stadium,1,Pakistan
+11,1.5,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,1,Pakistan,Bangladesh,6,Bangladesh,National Stadium,1,Pakistan
+12,1.6,1,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,2,Pakistan,Bangladesh,7,Bangladesh,National Stadium,1,Pakistan
+13,1.7,1,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,2,,Mohammad Ashraful,1,Pakistan,Bangladesh,8,Bangladesh,National Stadium,1,Pakistan
+14,2.1,1,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,2,,Mohammad Ashraful,2,Pakistan,Bangladesh,9,Bangladesh,National Stadium,1,Pakistan
+15,2.2,1,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,2,,Tamim Iqbal,3,Pakistan,Bangladesh,10,Bangladesh,National Stadium,1,Pakistan
+16,2.3,1,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,3,,Mohammad Ashraful,3,Pakistan,Bangladesh,11,Bangladesh,National Stadium,1,Pakistan
+17,2.4,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,3,,Tamim Iqbal,3,Pakistan,Bangladesh,11,Bangladesh,National Stadium,1,Pakistan
+18,2.5,2,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,3,,Tamim Iqbal,5,Pakistan,Bangladesh,13,Bangladesh,National Stadium,1,Pakistan
+19,2.6,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,3,,Tamim Iqbal,5,Pakistan,Bangladesh,13,Bangladesh,National Stadium,1,Pakistan
+20,3.1,1,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,5,,Mohammad Ashraful,4,Pakistan,Bangladesh,14,Bangladesh,National Stadium,1,Pakistan
+21,3.2,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,5,Pakistan,Bangladesh,14,Bangladesh,National Stadium,1,Pakistan
+22,3.3,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,5,Pakistan,Bangladesh,14,Bangladesh,National Stadium,1,Pakistan
+23,3.4,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,5,Pakistan,Bangladesh,14,Bangladesh,National Stadium,1,Pakistan
+24,3.5,1,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,6,Pakistan,Bangladesh,15,Bangladesh,National Stadium,1,Pakistan
+25,3.6,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,6,,Mohammad Ashraful,4,Pakistan,Bangladesh,15,Bangladesh,National Stadium,1,Pakistan
+26,4.1,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,6,Pakistan,Bangladesh,15,Bangladesh,National Stadium,1,Pakistan
+27,4.2,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,6,Pakistan,Bangladesh,15,Bangladesh,National Stadium,1,Pakistan
+28,4.3,4,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,10,Pakistan,Bangladesh,19,Bangladesh,National Stadium,1,Pakistan
+29,4.4,1,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,4,,Tamim Iqbal,11,Pakistan,Bangladesh,20,Bangladesh,National Stadium,1,Pakistan
+30,4.5,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,11,,Mohammad Ashraful,4,Pakistan,Bangladesh,20,Bangladesh,National Stadium,1,Pakistan
+31,4.6,3,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,11,,Mohammad Ashraful,7,Pakistan,Bangladesh,23,Bangladesh,National Stadium,1,Pakistan
+32,5.1,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,11,,Mohammad Ashraful,7,Pakistan,Bangladesh,23,Bangladesh,National Stadium,1,Pakistan
+33,5.2,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,11,,Mohammad Ashraful,7,Pakistan,Bangladesh,23,Bangladesh,National Stadium,1,Pakistan
+34,5.3,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,11,,Mohammad Ashraful,7,Pakistan,Bangladesh,23,Bangladesh,National Stadium,1,Pakistan
+35,5.4,1,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,11,,Mohammad Ashraful,8,Pakistan,Bangladesh,24,Bangladesh,National Stadium,1,Pakistan
+36,5.5,1,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,12,Pakistan,Bangladesh,25,Bangladesh,National Stadium,1,Pakistan
+37,5.6,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,12,,Mohammad Ashraful,8,Pakistan,Bangladesh,25,Bangladesh,National Stadium,1,Pakistan
+38,6.1,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,12,Pakistan,Bangladesh,25,Bangladesh,National Stadium,1,Pakistan
+39,6.2,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,12,Pakistan,Bangladesh,25,Bangladesh,National Stadium,1,Pakistan
+40,6.3,4,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,16,Pakistan,Bangladesh,29,Bangladesh,National Stadium,1,Pakistan
+41,6.4,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,16,Pakistan,Bangladesh,29,Bangladesh,National Stadium,1,Pakistan
+42,6.5,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,16,Pakistan,Bangladesh,29,Bangladesh,National Stadium,1,Pakistan
+43,6.6,1,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,17,Pakistan,Bangladesh,30,Bangladesh,National Stadium,1,Pakistan
+44,7.1,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,17,Pakistan,Bangladesh,30,Bangladesh,National Stadium,1,Pakistan
+45,7.2,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,17,Pakistan,Bangladesh,30,Bangladesh,National Stadium,1,Pakistan
+46,7.3,4,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,21,Pakistan,Bangladesh,34,Bangladesh,National Stadium,1,Pakistan
+47,7.4,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,21,Pakistan,Bangladesh,34,Bangladesh,National Stadium,1,Pakistan
+48,7.5,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,21,Pakistan,Bangladesh,34,Bangladesh,National Stadium,1,Pakistan
+49,7.6,1,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,22,Pakistan,Bangladesh,35,Bangladesh,National Stadium,1,Pakistan
+50,8.1,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,22,Pakistan,Bangladesh,35,Bangladesh,National Stadium,1,Pakistan
+51,8.2,0,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,22,Pakistan,Bangladesh,39,Bangladesh,National Stadium,1,Pakistan
+52,8.3,1,Sohail Tanvir,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,23,Pakistan,Bangladesh,40,Bangladesh,National Stadium,1,Pakistan
+53,8.4,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,23,,Mohammad Ashraful,8,Pakistan,Bangladesh,40,Bangladesh,National Stadium,1,Pakistan
+54,8.5,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,23,,Mohammad Ashraful,8,Pakistan,Bangladesh,40,Bangladesh,National Stadium,1,Pakistan
+55,8.6,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,23,,Mohammad Ashraful,8,Pakistan,Bangladesh,40,Bangladesh,National Stadium,1,Pakistan
+56,9.1,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,23,Pakistan,Bangladesh,40,Bangladesh,National Stadium,1,Pakistan
+57,9.2,0,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,23,Pakistan,Bangladesh,40,Bangladesh,National Stadium,1,Pakistan
+58,9.3,1,Abdur Rauf,2008-07-04,1st,Mohammad Ashraful,8,,Tamim Iqbal,24,Pakistan,Bangladesh,41,Bangladesh,National Stadium,1,Pakistan
+59,9.4,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,24,,Mohammad Ashraful,8,Pakistan,Bangladesh,41,Bangladesh,National Stadium,1,Pakistan
+60,9.5,6,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,24,,Mohammad Ashraful,14,Pakistan,Bangladesh,47,Bangladesh,National Stadium,1,Pakistan
+61,9.6,0,Abdur Rauf,2008-07-04,1st,Tamim Iqbal,24,Mohammad Ashraful,Mohammad Ashraful,14,Pakistan,Bangladesh,47,Bangladesh,National Stadium,2,Pakistan
+62,10.1,1,Sohail Tanvir,2008-07-04,1st,Raqibul Hasan,0,,Tamim Iqbal,25,Pakistan,Bangladesh,48,Bangladesh,National Stadium,2,Pakistan
+63,10.2,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,25,Raqibul Hasan,Raqibul Hasan,0,Pakistan,Bangladesh,48,Bangladesh,National Stadium,3,Pakistan
+64,10.3,0,Sohail Tanvir,2008-07-04,1st,Mushfiqur Rahim,0,,Tamim Iqbal,25,Pakistan,Bangladesh,48,Bangladesh,National Stadium,3,Pakistan
+65,10.4,1,Sohail Tanvir,2008-07-04,1st,Mushfiqur Rahim,0,,Tamim Iqbal,26,Pakistan,Bangladesh,49,Bangladesh,National Stadium,3,Pakistan
+66,10.5,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,26,,Mushfiqur Rahim,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,3,Pakistan
+67,10.6,0,Sohail Tanvir,2008-07-04,1st,Tamim Iqbal,26,,Mushfiqur Rahim,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,3,Pakistan
+68,11.1,0,Abdur Rauf,2008-07-04,1st,Mushfiqur Rahim,0,Tamim Iqbal,Tamim Iqbal,26,Pakistan,Bangladesh,49,Bangladesh,National Stadium,4,Pakistan
+69,11.2,0,Abdur Rauf,2008-07-04,1st,Mushfiqur Rahim,0,,Alok Kapali,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,4,Pakistan
+70,11.3,0,Abdur Rauf,2008-07-04,1st,Mushfiqur Rahim,0,,Alok Kapali,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,4,Pakistan
+71,11.4,0,Abdur Rauf,2008-07-04,1st,Mushfiqur Rahim,0,,Alok Kapali,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,4,Pakistan
+72,11.5,0,Abdur Rauf,2008-07-04,1st,Mushfiqur Rahim,0,,Alok Kapali,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,4,Pakistan
+73,11.6,0,Abdur Rauf,2008-07-04,1st,Mushfiqur Rahim,0,,Alok Kapali,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,4,Pakistan
+74,12.1,0,Sohail Tanvir,2008-07-04,1st,Alok Kapali,0,,Mushfiqur Rahim,0,Pakistan,Bangladesh,49,Bangladesh,National Stadium,4,Pakistan
+75,12.2,1,Sohail Tanvir,2008-07-04,1st,Alok Kapali,0,,Mushfiqur Rahim,1,Pakistan,Bangladesh,50,Bangladesh,National Stadium,4,Pakistan
+76,12.3,0,Sohail Tanvir,2008-07-04,1st,Mushfiqur Rahim,1,,Alok Kapali,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,4,Pakistan
+77,12.4,0,Sohail Tanvir,2008-07-04,1st,Mushfiqur Rahim,1,,Alok Kapali,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,4,Pakistan
+78,12.5,0,Sohail Tanvir,2008-07-04,1st,Mushfiqur Rahim,1,,Alok Kapali,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,4,Pakistan
+79,12.6,4,Sohail Tanvir,2008-07-04,1st,Mushfiqur Rahim,1,,Alok Kapali,4,Pakistan,Bangladesh,54,Bangladesh,National Stadium,4,Pakistan
+80,13.1,0,Abdur Rauf,2008-07-04,1st,Alok Kapali,4,,Mushfiqur Rahim,1,Pakistan,Bangladesh,54,Bangladesh,National Stadium,4,Pakistan
+81,13.2,0,Abdur Rauf,2008-07-04,1st,Alok Kapali,4,,Mushfiqur Rahim,1,Pakistan,Bangladesh,54,Bangladesh,National Stadium,4,Pakistan
+82,13.3,0,Abdur Rauf,2008-07-04,1st,Alok Kapali,4,,Mushfiqur Rahim,1,Pakistan,Bangladesh,54,Bangladesh,National Stadium,4,Pakistan
+83,13.4,0,Abdur Rauf,2008-07-04,1st,Alok Kapali,4,,Mushfiqur Rahim,1,Pakistan,Bangladesh,55,Bangladesh,National Stadium,4,Pakistan
+84,13.5,0,Abdur Rauf,2008-07-04,1st,Alok Kapali,4,,Mushfiqur Rahim,1,Pakistan,Bangladesh,55,Bangladesh,National Stadium,4,Pakistan
+85,13.6,0,Abdur Rauf,2008-07-04,1st,Alok Kapali,4,,Mushfiqur Rahim,1,Pakistan,Bangladesh,55,Bangladesh,National Stadium,4,Pakistan
+86,13.7,2,Abdur Rauf,2008-07-04,1st,Alok Kapali,4,,Mushfiqur Rahim,3,Pakistan,Bangladesh,57,Bangladesh,National Stadium,4,Pakistan
+87,14.1,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,3,,Alok Kapali,4,Pakistan,Bangladesh,57,Bangladesh,National Stadium,4,Pakistan
+88,14.2,4,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,3,,Alok Kapali,8,Pakistan,Bangladesh,61,Bangladesh,National Stadium,4,Pakistan
+89,14.3,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,3,,Alok Kapali,8,Pakistan,Bangladesh,61,Bangladesh,National Stadium,4,Pakistan
+90,14.4,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,3,,Alok Kapali,8,Pakistan,Bangladesh,61,Bangladesh,National Stadium,4,Pakistan
+91,14.5,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,3,,Alok Kapali,8,Pakistan,Bangladesh,62,Bangladesh,National Stadium,4,Pakistan
+92,14.6,4,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,3,,Alok Kapali,12,Pakistan,Bangladesh,66,Bangladesh,National Stadium,4,Pakistan
+93,14.7,4,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,3,,Alok Kapali,16,Pakistan,Bangladesh,70,Bangladesh,National Stadium,4,Pakistan
+94,15.1,1,Saeed Ajmal,2008-07-04,1st,Alok Kapali,16,,Mushfiqur Rahim,4,Pakistan,Bangladesh,71,Bangladesh,National Stadium,4,Pakistan
+95,15.2,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,71,Bangladesh,National Stadium,4,Pakistan
+96,15.3,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,71,Bangladesh,National Stadium,4,Pakistan
+97,15.4,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+98,15.5,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+99,15.6,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+100,15.7,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+101,16.1,0,Iftikhar Anjum,2008-07-04,1st,Alok Kapali,16,,Mushfiqur Rahim,4,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+102,16.2,0,Iftikhar Anjum,2008-07-04,1st,Alok Kapali,16,,Mushfiqur Rahim,4,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+103,16.3,0,Iftikhar Anjum,2008-07-04,1st,Alok Kapali,16,,Mushfiqur Rahim,4,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+104,16.4,0,Iftikhar Anjum,2008-07-04,1st,Alok Kapali,16,,Mushfiqur Rahim,4,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+105,16.5,0,Iftikhar Anjum,2008-07-04,1st,Alok Kapali,16,,Mushfiqur Rahim,4,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+106,16.6,0,Iftikhar Anjum,2008-07-04,1st,Alok Kapali,16,,Mushfiqur Rahim,4,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+107,17.1,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+108,17.2,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+109,17.3,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+110,17.4,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+111,17.5,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,16,Pakistan,Bangladesh,72,Bangladesh,National Stadium,4,Pakistan
+112,17.6,1,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,4,,Alok Kapali,17,Pakistan,Bangladesh,73,Bangladesh,National Stadium,4,Pakistan
+113,18.1,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,4,Alok Kapali,Alok Kapali,17,Pakistan,Bangladesh,73,Bangladesh,National Stadium,5,Pakistan
+114,18.2,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,4,,Mahmudullah,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,5,Pakistan
+115,18.3,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,4,,Mahmudullah,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,5,Pakistan
+116,18.4,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,4,,Mahmudullah,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,5,Pakistan
+117,18.5,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,4,,Mahmudullah,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,5,Pakistan
+118,18.6,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,4,,Mahmudullah,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,5,Pakistan
+119,19.1,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,0,,Mushfiqur Rahim,4,Pakistan,Bangladesh,74,Bangladesh,National Stadium,5,Pakistan
+120,19.2,2,Saeed Ajmal,2008-07-04,1st,Mahmudullah,0,,Mushfiqur Rahim,6,Pakistan,Bangladesh,76,Bangladesh,National Stadium,5,Pakistan
+121,19.3,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,0,,Mushfiqur Rahim,6,Pakistan,Bangladesh,76,Bangladesh,National Stadium,5,Pakistan
+122,19.4,1,Saeed Ajmal,2008-07-04,1st,Mahmudullah,0,,Mushfiqur Rahim,7,Pakistan,Bangladesh,77,Bangladesh,National Stadium,5,Pakistan
+123,19.5,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,7,,Mahmudullah,0,Pakistan,Bangladesh,77,Bangladesh,National Stadium,5,Pakistan
+124,19.6,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,7,,Mahmudullah,0,Pakistan,Bangladesh,77,Bangladesh,National Stadium,5,Pakistan
+125,19.7,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,7,,Mahmudullah,0,Pakistan,Bangladesh,77,Bangladesh,National Stadium,5,Pakistan
+126,20.1,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,0,,Mushfiqur Rahim,7,Pakistan,Bangladesh,78,Bangladesh,National Stadium,5,Pakistan
+127,20.2,1,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,0,,Mushfiqur Rahim,8,Pakistan,Bangladesh,79,Bangladesh,National Stadium,5,Pakistan
+128,20.3,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,8,,Mahmudullah,0,Pakistan,Bangladesh,79,Bangladesh,National Stadium,5,Pakistan
+129,20.4,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,8,,Mahmudullah,0,Pakistan,Bangladesh,79,Bangladesh,National Stadium,5,Pakistan
+130,20.5,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,8,,Mahmudullah,0,Pakistan,Bangladesh,79,Bangladesh,National Stadium,5,Pakistan
+131,20.6,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,8,,Mahmudullah,0,Pakistan,Bangladesh,79,Bangladesh,National Stadium,5,Pakistan
+132,20.7,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,8,,Mahmudullah,0,Pakistan,Bangladesh,79,Bangladesh,National Stadium,5,Pakistan
+133,21.1,1,Saeed Ajmal,2008-07-04,1st,Mahmudullah,0,,Mushfiqur Rahim,9,Pakistan,Bangladesh,80,Bangladesh,National Stadium,5,Pakistan
+134,21.2,2,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,9,,Mahmudullah,2,Pakistan,Bangladesh,82,Bangladesh,National Stadium,5,Pakistan
+135,21.3,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,9,,Mahmudullah,2,Pakistan,Bangladesh,82,Bangladesh,National Stadium,5,Pakistan
+136,21.4,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,9,,Mahmudullah,2,Pakistan,Bangladesh,82,Bangladesh,National Stadium,5,Pakistan
+137,21.5,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,9,,Mahmudullah,2,Pakistan,Bangladesh,82,Bangladesh,National Stadium,5,Pakistan
+138,21.6,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,9,,Mahmudullah,2,Pakistan,Bangladesh,82,Bangladesh,National Stadium,5,Pakistan
+139,22.1,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,2,,Mushfiqur Rahim,9,Pakistan,Bangladesh,82,Bangladesh,National Stadium,5,Pakistan
+140,22.2,1,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,2,,Mushfiqur Rahim,10,Pakistan,Bangladesh,83,Bangladesh,National Stadium,5,Pakistan
+141,22.3,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,2,Pakistan,Bangladesh,83,Bangladesh,National Stadium,5,Pakistan
+142,22.4,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,2,Pakistan,Bangladesh,83,Bangladesh,National Stadium,5,Pakistan
+143,22.5,1,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,3,Pakistan,Bangladesh,84,Bangladesh,National Stadium,5,Pakistan
+144,22.6,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,3,,Mushfiqur Rahim,10,Pakistan,Bangladesh,84,Bangladesh,National Stadium,5,Pakistan
+145,23.1,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,3,Pakistan,Bangladesh,84,Bangladesh,National Stadium,5,Pakistan
+146,23.2,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,3,Pakistan,Bangladesh,85,Bangladesh,National Stadium,5,Pakistan
+147,23.3,0,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,3,Pakistan,Bangladesh,85,Bangladesh,National Stadium,5,Pakistan
+148,23.4,1,Saeed Ajmal,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,4,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+149,23.5,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,10,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+150,23.6,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,10,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+151,23.7,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,10,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+152,24.1,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,4,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+153,24.2,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,4,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+154,24.3,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,4,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+155,24.4,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,4,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+156,24.5,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,4,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+157,24.6,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,10,,Mahmudullah,4,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+158,25.1,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,10,Pakistan,Bangladesh,86,Bangladesh,National Stadium,5,Pakistan
+159,25.2,4,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,14,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+160,25.3,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,14,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+161,25.4,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,14,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+162,25.5,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,14,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+163,25.6,0,Saeed Ajmal,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,14,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+164,26.1,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,14,,Mahmudullah,4,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+165,26.2,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,14,,Mahmudullah,4,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+166,26.3,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,14,,Mahmudullah,4,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+167,26.4,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,14,,Mahmudullah,4,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+168,26.5,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,14,,Mahmudullah,4,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+169,26.6,0,Iftikhar Anjum,2008-07-04,1st,Mushfiqur Rahim,14,,Mahmudullah,4,Pakistan,Bangladesh,90,Bangladesh,National Stadium,5,Pakistan
+170,27.1,1,Shoaib Malik,2008-07-04,1st,Mahmudullah,4,,Mushfiqur Rahim,15,Pakistan,Bangladesh,91,Bangladesh,National Stadium,5,Pakistan
+171,27.2,1,Shoaib Malik,2008-07-04,1st,Mushfiqur Rahim,15,,Mahmudullah,5,Pakistan,Bangladesh,92,Bangladesh,National Stadium,5,Pakistan
+172,27.3,0,Shoaib Malik,2008-07-04,1st,Mahmudullah,5,,Mushfiqur Rahim,15,Pakistan,Bangladesh,92,Bangladesh,National Stadium,5,Pakistan
+173,27.4,0,Shoaib Malik,2008-07-04,1st,Mahmudullah,5,Mushfiqur Rahim,Mushfiqur Rahim,15,Pakistan,Bangladesh,92,Bangladesh,National Stadium,6,Pakistan
+174,27.5,0,Shoaib Malik,2008-07-04,1st,Mahmudullah,5,,Farhad Reza,0,Pakistan,Bangladesh,92,Bangladesh,National Stadium,6,Pakistan
+175,27.6,0,Shoaib Malik,2008-07-04,1st,Mahmudullah,5,,Farhad Reza,0,Pakistan,Bangladesh,92,Bangladesh,National Stadium,6,Pakistan
+176,28.1,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,0,,Mahmudullah,5,Pakistan,Bangladesh,92,Bangladesh,National Stadium,6,Pakistan
+177,28.2,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,0,,Mahmudullah,5,Pakistan,Bangladesh,92,Bangladesh,National Stadium,6,Pakistan
+178,28.3,2,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,0,,Mahmudullah,7,Pakistan,Bangladesh,94,Bangladesh,National Stadium,6,Pakistan
+179,28.4,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,0,,Mahmudullah,7,Pakistan,Bangladesh,94,Bangladesh,National Stadium,6,Pakistan
+180,28.5,1,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,0,,Mahmudullah,8,Pakistan,Bangladesh,95,Bangladesh,National Stadium,6,Pakistan
+181,28.6,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,8,,Farhad Reza,0,Pakistan,Bangladesh,95,Bangladesh,National Stadium,6,Pakistan
+182,29.1,0,Shoaib Malik,2008-07-04,1st,Farhad Reza,0,,Mahmudullah,8,Pakistan,Bangladesh,95,Bangladesh,National Stadium,6,Pakistan
+183,29.2,1,Shoaib Malik,2008-07-04,1st,Farhad Reza,0,,Mahmudullah,9,Pakistan,Bangladesh,96,Bangladesh,National Stadium,6,Pakistan
+184,29.3,0,Shoaib Malik,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,0,Pakistan,Bangladesh,96,Bangladesh,National Stadium,6,Pakistan
+185,29.4,0,Shoaib Malik,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,0,Pakistan,Bangladesh,96,Bangladesh,National Stadium,6,Pakistan
+186,29.5,0,Shoaib Malik,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,0,Pakistan,Bangladesh,96,Bangladesh,National Stadium,6,Pakistan
+187,29.6,1,Shoaib Malik,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,1,Pakistan,Bangladesh,97,Bangladesh,National Stadium,6,Pakistan
+188,30.1,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,1,Pakistan,Bangladesh,97,Bangladesh,National Stadium,6,Pakistan
+189,30.2,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,1,Pakistan,Bangladesh,97,Bangladesh,National Stadium,6,Pakistan
+190,30.3,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,1,Pakistan,Bangladesh,97,Bangladesh,National Stadium,6,Pakistan
+191,30.4,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,1,Pakistan,Bangladesh,97,Bangladesh,National Stadium,6,Pakistan
+192,30.5,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,1,Pakistan,Bangladesh,97,Bangladesh,National Stadium,6,Pakistan
+193,30.6,0,Iftikhar Anjum,2008-07-04,1st,Mahmudullah,9,,Farhad Reza,1,Pakistan,Bangladesh,97,Bangladesh,National Stadium,6,Pakistan
+194,31.1,2,Shoaib Malik,2008-07-04,1st,Farhad Reza,1,,Mahmudullah,11,Pakistan,Bangladesh,99,Bangladesh,National Stadium,6,Pakistan
+195,31.2,0,Shoaib Malik,2008-07-04,1st,Farhad Reza,1,,Mahmudullah,11,Pakistan,Bangladesh,99,Bangladesh,National Stadium,6,Pakistan
+196,31.3,0,Shoaib Malik,2008-07-04,1st,Farhad Reza,1,Mahmudullah,Mahmudullah,11,Pakistan,Bangladesh,99,Bangladesh,National Stadium,7,Pakistan
+197,31.4,0,Shoaib Malik,2008-07-04,1st,Farhad Reza,1,,Mashrafe Mortaza,0,Pakistan,Bangladesh,99,Bangladesh,National Stadium,7,Pakistan
+198,31.5,1,Shoaib Malik,2008-07-04,1st,Farhad Reza,1,,Mashrafe Mortaza,1,Pakistan,Bangladesh,100,Bangladesh,National Stadium,7,Pakistan
+199,31.6,0,Shoaib Malik,2008-07-04,1st,Mashrafe Mortaza,1,,Farhad Reza,1,Pakistan,Bangladesh,100,Bangladesh,National Stadium,7,Pakistan
+200,32.1,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,1,Mashrafe Mortaza,Mashrafe Mortaza,1,Pakistan,Bangladesh,100,Bangladesh,National Stadium,8,Pakistan
+201,32.2,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,1,,Abdur Razzak,0,Pakistan,Bangladesh,100,Bangladesh,National Stadium,8,Pakistan
+202,32.3,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,1,,Abdur Razzak,0,Pakistan,Bangladesh,100,Bangladesh,National Stadium,8,Pakistan
+203,32.4,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,1,,Abdur Razzak,0,Pakistan,Bangladesh,100,Bangladesh,National Stadium,8,Pakistan
+204,32.5,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,1,,Abdur Razzak,0,Pakistan,Bangladesh,100,Bangladesh,National Stadium,8,Pakistan
+205,32.6,0,Iftikhar Anjum,2008-07-04,1st,Farhad Reza,1,,Abdur Razzak,0,Pakistan,Bangladesh,100,Bangladesh,National Stadium,8,Pakistan
+206,33.1,0,Shoaib Malik,2008-07-04,1st,Abdur Razzak,0,,Farhad Reza,1,Pakistan,Bangladesh,100,Bangladesh,National Stadium,8,Pakistan
+207,33.2,0,Shoaib Malik,2008-07-04,1st,Abdur Razzak,0,,Farhad Reza,1,Pakistan,Bangladesh,101,Bangladesh,National Stadium,8,Pakistan
+208,33.3,0,Shoaib Malik,2008-07-04,1st,Abdur Razzak,0,,Farhad Reza,1,Pakistan,Bangladesh,101,Bangladesh,National Stadium,8,Pakistan
+209,33.4,1,Shoaib Malik,2008-07-04,1st,Abdur Razzak,0,,Farhad Reza,2,Pakistan,Bangladesh,102,Bangladesh,National Stadium,8,Pakistan
+210,33.5,0,Shoaib Malik,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,0,Pakistan,Bangladesh,102,Bangladesh,National Stadium,8,Pakistan
+211,33.6,0,Shoaib Malik,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,0,Pakistan,Bangladesh,102,Bangladesh,National Stadium,8,Pakistan
+212,33.7,1,Shoaib Malik,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,1,Pakistan,Bangladesh,103,Bangladesh,National Stadium,8,Pakistan
+213,34.1,1,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,2,Pakistan,Bangladesh,104,Bangladesh,National Stadium,8,Pakistan
+214,34.2,0,Saeed Ajmal,2008-07-04,1st,Abdur Razzak,2,,Farhad Reza,2,Pakistan,Bangladesh,104,Bangladesh,National Stadium,8,Pakistan
+215,34.3,0,Saeed Ajmal,2008-07-04,1st,Abdur Razzak,2,,Farhad Reza,2,Pakistan,Bangladesh,104,Bangladesh,National Stadium,8,Pakistan
+216,34.4,0,Saeed Ajmal,2008-07-04,1st,Abdur Razzak,2,,Farhad Reza,2,Pakistan,Bangladesh,105,Bangladesh,National Stadium,8,Pakistan
+217,34.5,0,Saeed Ajmal,2008-07-04,1st,Abdur Razzak,2,,Farhad Reza,2,Pakistan,Bangladesh,105,Bangladesh,National Stadium,8,Pakistan
+218,34.6,0,Saeed Ajmal,2008-07-04,1st,Abdur Razzak,2,,Farhad Reza,2,Pakistan,Bangladesh,105,Bangladesh,National Stadium,8,Pakistan
+219,34.7,0,Saeed Ajmal,2008-07-04,1st,Abdur Razzak,2,,Farhad Reza,2,Pakistan,Bangladesh,105,Bangladesh,National Stadium,8,Pakistan
+220,35.1,6,Shoaib Malik,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,8,Pakistan,Bangladesh,111,Bangladesh,National Stadium,8,Pakistan
+221,35.2,1,Shoaib Malik,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,9,Pakistan,Bangladesh,112,Bangladesh,National Stadium,8,Pakistan
+222,35.3,0,Shoaib Malik,2008-07-04,1st,Abdur Razzak,9,,Farhad Reza,2,Pakistan,Bangladesh,112,Bangladesh,National Stadium,8,Pakistan
+223,35.4,0,Shoaib Malik,2008-07-04,1st,Abdur Razzak,9,,Farhad Reza,2,Pakistan,Bangladesh,112,Bangladesh,National Stadium,8,Pakistan
+224,35.5,0,Shoaib Malik,2008-07-04,1st,Abdur Razzak,9,,Farhad Reza,2,Pakistan,Bangladesh,112,Bangladesh,National Stadium,8,Pakistan
+225,35.6,0,Shoaib Malik,2008-07-04,1st,Abdur Razzak,9,,Farhad Reza,2,Pakistan,Bangladesh,112,Bangladesh,National Stadium,8,Pakistan
+226,36.1,0,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,9,Pakistan,Bangladesh,112,Bangladesh,National Stadium,8,Pakistan
+227,36.2,0,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,9,Pakistan,Bangladesh,113,Bangladesh,National Stadium,8,Pakistan
+228,36.3,0,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,9,Pakistan,Bangladesh,113,Bangladesh,National Stadium,8,Pakistan
+229,36.4,0,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,,Abdur Razzak,9,Pakistan,Bangladesh,113,Bangladesh,National Stadium,8,Pakistan
+230,36.5,0,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,Abdur Razzak,Abdur Razzak,9,Pakistan,Bangladesh,113,Bangladesh,National Stadium,9,Pakistan
+231,36.6,0,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,,Shahadat Hossain,0,Pakistan,Bangladesh,113,Bangladesh,National Stadium,9,Pakistan
+232,36.7,0,Saeed Ajmal,2008-07-04,1st,Farhad Reza,2,,Shahadat Hossain,0,Pakistan,Bangladesh,113,Bangladesh,National Stadium,9,Pakistan
+233,37.1,0,Abdur Rauf,2008-07-04,1st,Shahadat Hossain,0,,Farhad Reza,2,Pakistan,Bangladesh,113,Bangladesh,National Stadium,9,Pakistan
+234,37.2,1,Abdur Rauf,2008-07-04,1st,Shahadat Hossain,0,,Farhad Reza,3,Pakistan,Bangladesh,114,Bangladesh,National Stadium,9,Pakistan
+235,37.3,0,Abdur Rauf,2008-07-04,1st,Farhad Reza,3,,Shahadat Hossain,0,Pakistan,Bangladesh,114,Bangladesh,National Stadium,9,Pakistan
+236,37.4,0,Abdur Rauf,2008-07-04,1st,Farhad Reza,3,,Shahadat Hossain,0,Pakistan,Bangladesh,115,Bangladesh,National Stadium,9,Pakistan
+237,37.5,0,Abdur Rauf,2008-07-04,1st,Farhad Reza,3,,Shahadat Hossain,0,Pakistan,Bangladesh,115,Bangladesh,National Stadium,9,Pakistan
+238,37.6,0,Abdur Rauf,2008-07-04,1st,Farhad Reza,3,,Shahadat Hossain,0,Pakistan,Bangladesh,115,Bangladesh,National Stadium,9,Pakistan
+239,37.7,0,Abdur Rauf,2008-07-04,1st,Farhad Reza,3,,Shahadat Hossain,0,Pakistan,Bangladesh,115,Bangladesh,National Stadium,9,Pakistan
+240,38.1,0,Saeed Ajmal,2008-07-04,1st,Shahadat Hossain,0,,Farhad Reza,3,Pakistan,Bangladesh,115,Bangladesh,National Stadium,9,Pakistan
+241,38.2,0,Saeed Ajmal,2008-07-04,1st,Shahadat Hossain,0,Farhad Reza,Farhad Reza,3,Pakistan,Bangladesh,115,Bangladesh,National Stadium,10,Pakistan
+242,0.1,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,1,Bangladesh,National Stadium,0,Pakistan
+243,0.2,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,1,Bangladesh,National Stadium,0,Pakistan
+244,0.3,2,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,3,Bangladesh,National Stadium,0,Pakistan
+245,0.4,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,3,Bangladesh,National Stadium,0,Pakistan
+246,0.5,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,3,Bangladesh,National Stadium,0,Pakistan
+247,0.6,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,3,Bangladesh,National Stadium,0,Pakistan
+248,0.7,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,3,Bangladesh,National Stadium,0,Pakistan
+249,1.1,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,3,Bangladesh,National Stadium,0,Pakistan
+250,1.2,1,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,4,Bangladesh,National Stadium,0,Pakistan
+251,1.3,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,4,Bangladesh,National Stadium,0,Pakistan
+252,1.4,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,4,Bangladesh,National Stadium,0,Pakistan
+253,1.5,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,4,Bangladesh,National Stadium,0,Pakistan
+254,1.6,2,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,6,Bangladesh,National Stadium,0,Pakistan
+255,2.1,0,Mashrafe Mortaza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,6,Bangladesh,National Stadium,0,Pakistan
+256,2.2,0,Mashrafe Mortaza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,6,Bangladesh,National Stadium,0,Pakistan
+257,2.3,0,Mashrafe Mortaza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,6,Bangladesh,National Stadium,0,Pakistan
+258,2.4,1,Mashrafe Mortaza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,7,Bangladesh,National Stadium,0,Pakistan
+259,2.5,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,7,Bangladesh,National Stadium,0,Pakistan
+260,2.6,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,7,Bangladesh,National Stadium,0,Pakistan
+261,3.1,6,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,13,Bangladesh,National Stadium,0,Pakistan
+262,3.2,1,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,14,Bangladesh,National Stadium,0,Pakistan
+263,3.3,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,14,Bangladesh,National Stadium,0,Pakistan
+264,3.4,1,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,15,Bangladesh,National Stadium,0,Pakistan
+265,3.5,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,15,Bangladesh,National Stadium,0,Pakistan
+266,3.6,4,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,19,Bangladesh,National Stadium,0,Pakistan
+267,4.1,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,19,Bangladesh,National Stadium,0,Pakistan
+268,4.2,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,19,Bangladesh,National Stadium,0,Pakistan
+269,4.3,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,19,Bangladesh,National Stadium,0,Pakistan
+270,4.4,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,19,Bangladesh,National Stadium,0,Pakistan
+271,4.5,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,19,Bangladesh,National Stadium,0,Pakistan
+272,4.6,4,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,23,Bangladesh,National Stadium,0,Pakistan
+273,5.1,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,23,Bangladesh,National Stadium,0,Pakistan
+274,5.2,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,23,Bangladesh,National Stadium,0,Pakistan
+275,5.3,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,24,Bangladesh,National Stadium,0,Pakistan
+276,5.4,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,28,Bangladesh,National Stadium,0,Pakistan
+277,5.5,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,28,Bangladesh,National Stadium,0,Pakistan
+278,5.6,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,28,Bangladesh,National Stadium,0,Pakistan
+279,6.1,1,Mashrafe Mortaza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,29,Bangladesh,National Stadium,0,Pakistan
+280,6.2,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,29,Bangladesh,National Stadium,0,Pakistan
+281,6.3,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,29,Bangladesh,National Stadium,0,Pakistan
+282,6.4,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,29,Bangladesh,National Stadium,0,Pakistan
+283,6.5,4,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,33,Bangladesh,National Stadium,0,Pakistan
+284,6.6,0,Mashrafe Mortaza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,33,Bangladesh,National Stadium,0,Pakistan
+285,7.1,4,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,37,Bangladesh,National Stadium,0,Pakistan
+286,7.2,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,37,Bangladesh,National Stadium,0,Pakistan
+287,7.3,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,37,Bangladesh,National Stadium,0,Pakistan
+288,7.4,1,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,38,Bangladesh,National Stadium,0,Pakistan
+289,7.5,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,38,Bangladesh,National Stadium,0,Pakistan
+290,7.6,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,38,Bangladesh,National Stadium,0,Pakistan
+291,8.1,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,38,Bangladesh,National Stadium,0,Pakistan
+292,8.2,4,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,42,Bangladesh,National Stadium,0,Pakistan
+293,8.3,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,42,Bangladesh,National Stadium,0,Pakistan
+294,8.4,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,43,Bangladesh,National Stadium,0,Pakistan
+295,8.5,2,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,45,Bangladesh,National Stadium,0,Pakistan
+296,8.6,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,45,Bangladesh,National Stadium,0,Pakistan
+297,8.7,1,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,46,Bangladesh,National Stadium,0,Pakistan
+298,9.1,4,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,0,Pakistan
+299,9.2,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,0,Pakistan
+300,9.3,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,0,Pakistan
+301,9.4,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,0,Pakistan
+302,9.5,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,50,Bangladesh,National Stadium,0,Pakistan
+303,9.6,1,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,51,Bangladesh,National Stadium,0,Pakistan
+304,10.1,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,51,Bangladesh,National Stadium,0,Pakistan
+305,10.2,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,51,Bangladesh,National Stadium,0,Pakistan
+306,10.3,1,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,52,Bangladesh,National Stadium,0,Pakistan
+307,10.4,1,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,53,Bangladesh,National Stadium,0,Pakistan
+308,10.5,1,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,54,Bangladesh,National Stadium,0,Pakistan
+309,10.6,1,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,55,Bangladesh,National Stadium,0,Pakistan
+310,11.1,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,55,Bangladesh,National Stadium,0,Pakistan
+311,11.2,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,55,Bangladesh,National Stadium,0,Pakistan
+312,11.3,4,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,59,Bangladesh,National Stadium,0,Pakistan
+313,11.4,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,59,Bangladesh,National Stadium,0,Pakistan
+314,11.5,1,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,60,Bangladesh,National Stadium,0,Pakistan
+315,11.6,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,61,Bangladesh,National Stadium,0,Pakistan
+316,11.7,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,61,Bangladesh,National Stadium,0,Pakistan
+317,12.1,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,61,Bangladesh,National Stadium,0,Pakistan
+318,12.2,1,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,62,Bangladesh,National Stadium,0,Pakistan
+319,12.3,1,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,63,Bangladesh,National Stadium,0,Pakistan
+320,12.4,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,63,Bangladesh,National Stadium,0,Pakistan
+321,12.5,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,63,Bangladesh,National Stadium,0,Pakistan
+322,12.6,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,63,Bangladesh,National Stadium,0,Pakistan
+323,13.1,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,63,Bangladesh,National Stadium,0,Pakistan
+324,13.2,0,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,63,Bangladesh,National Stadium,0,Pakistan
+325,13.3,1,Shahadat Hossain,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,64,Bangladesh,National Stadium,0,Pakistan
+326,13.4,4,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,68,Bangladesh,National Stadium,0,Pakistan
+327,13.5,4,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,72,Bangladesh,National Stadium,0,Pakistan
+328,13.6,0,Shahadat Hossain,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,72,Bangladesh,National Stadium,0,Pakistan
+329,14.1,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,72,Bangladesh,National Stadium,0,Pakistan
+330,14.2,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,72,Bangladesh,National Stadium,0,Pakistan
+331,14.3,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,72,Bangladesh,National Stadium,0,Pakistan
+332,14.4,1,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,0,Pakistan
+333,14.5,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,0,Pakistan
+334,14.6,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,73,Bangladesh,National Stadium,0,Pakistan
+335,15.1,1,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,74,Bangladesh,National Stadium,0,Pakistan
+336,15.2,0,Mahmudullah,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,74,Bangladesh,National Stadium,0,Pakistan
+337,15.3,0,Mahmudullah,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,74,Bangladesh,National Stadium,0,Pakistan
+338,15.4,0,Mahmudullah,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,74,Bangladesh,National Stadium,0,Pakistan
+339,15.5,1,Mahmudullah,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,75,Bangladesh,National Stadium,0,Pakistan
+340,15.6,1,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,76,Bangladesh,National Stadium,0,Pakistan
+341,16.1,0,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,76,Bangladesh,National Stadium,0,Pakistan
+342,16.2,1,Abdur Razzak,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,77,Bangladesh,National Stadium,0,Pakistan
+343,16.3,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,77,Bangladesh,National Stadium,0,Pakistan
+344,16.4,2,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,79,Bangladesh,National Stadium,0,Pakistan
+345,16.5,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,79,Bangladesh,National Stadium,0,Pakistan
+346,16.6,4,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,83,Bangladesh,National Stadium,0,Pakistan
+347,17.1,6,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,89,Bangladesh,National Stadium,0,Pakistan
+348,17.2,0,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,89,Bangladesh,National Stadium,0,Pakistan
+349,17.3,0,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,89,Bangladesh,National Stadium,0,Pakistan
+350,17.4,2,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,91,Bangladesh,National Stadium,0,Pakistan
+351,17.5,4,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,95,Bangladesh,National Stadium,0,Pakistan
+352,17.6,0,Mahmudullah,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,95,Bangladesh,National Stadium,0,Pakistan
+353,18.1,4,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,99,Bangladesh,National Stadium,0,Pakistan
+354,18.2,4,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,103,Bangladesh,National Stadium,0,Pakistan
+355,18.3,0,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,103,Bangladesh,National Stadium,0,Pakistan
+356,18.4,2,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,105,Bangladesh,National Stadium,0,Pakistan
+357,18.5,4,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,109,Bangladesh,National Stadium,0,Pakistan
+358,18.6,2,Abdur Razzak,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,111,Bangladesh,National Stadium,0,Pakistan
+359,19.1,0,Farhad Reza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,111,Bangladesh,National Stadium,0,Pakistan
+360,19.2,0,Farhad Reza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,111,Bangladesh,National Stadium,0,Pakistan
+361,19.3,1,Farhad Reza,2008-07-04,2nd,Salman Butt,0,,Nasir Jamshed,0,Pakistan,Bangladesh,112,Bangladesh,National Stadium,0,Pakistan
+362,19.4,4,Farhad Reza,2008-07-04,2nd,Nasir Jamshed,0,,Salman Butt,0,Pakistan,Bangladesh,116,Bangladesh,National Stadium,0,Pakistan

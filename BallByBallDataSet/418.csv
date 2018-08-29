@@ -1,0 +1,577 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Syed Rasel,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,0,Zimbabwe,Bangladesh,0,Bangladesh,Queens Sports Club,0,Zimbabwe
+1,0.2,0,Syed Rasel,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,0,Zimbabwe,Bangladesh,0,Bangladesh,Queens Sports Club,0,Zimbabwe
+2,0.3,0,Syed Rasel,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,0,Zimbabwe,Bangladesh,0,Bangladesh,Queens Sports Club,0,Zimbabwe
+3,0.4,0,Syed Rasel,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,0,Zimbabwe,Bangladesh,0,Bangladesh,Queens Sports Club,0,Zimbabwe
+4,0.5,1,Syed Rasel,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,1,Zimbabwe,Bangladesh,1,Bangladesh,Queens Sports Club,0,Zimbabwe
+5,0.6,0,Syed Rasel,2009-08-14,1st,MA Vermeulen,1,,V Sibanda,0,Zimbabwe,Bangladesh,1,Bangladesh,Queens Sports Club,0,Zimbabwe
+6,1.1,0,Mahbubul Alam,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,1,Zimbabwe,Bangladesh,1,Bangladesh,Queens Sports Club,0,Zimbabwe
+7,1.2,4,Mahbubul Alam,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,5,Zimbabwe,Bangladesh,5,Bangladesh,Queens Sports Club,0,Zimbabwe
+8,1.3,0,Mahbubul Alam,2009-08-14,1st,V Sibanda,0,,MA Vermeulen,5,Zimbabwe,Bangladesh,6,Bangladesh,Queens Sports Club,0,Zimbabwe
+9,1.4,0,Mahbubul Alam,2009-08-14,1st,MA Vermeulen,5,V Sibanda,V Sibanda,0,Zimbabwe,Bangladesh,6,Bangladesh,Queens Sports Club,1,Zimbabwe
+10,1.5,0,Mahbubul Alam,2009-08-14,1st,MA Vermeulen,5,,H Masakadza,0,Zimbabwe,Bangladesh,7,Bangladesh,Queens Sports Club,1,Zimbabwe
+11,1.6,4,Mahbubul Alam,2009-08-14,1st,H Masakadza,0,,MA Vermeulen,9,Zimbabwe,Bangladesh,11,Bangladesh,Queens Sports Club,1,Zimbabwe
+12,2.1,1,Syed Rasel,2009-08-14,1st,MA Vermeulen,9,,H Masakadza,1,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,1,Zimbabwe
+13,2.2,0,Syed Rasel,2009-08-14,1st,H Masakadza,1,,MA Vermeulen,9,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,1,Zimbabwe
+14,2.3,0,Syed Rasel,2009-08-14,1st,H Masakadza,1,,MA Vermeulen,9,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,1,Zimbabwe
+15,2.4,0,Syed Rasel,2009-08-14,1st,H Masakadza,1,,MA Vermeulen,9,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,1,Zimbabwe
+16,2.5,1,Syed Rasel,2009-08-14,1st,H Masakadza,1,,MA Vermeulen,10,Zimbabwe,Bangladesh,13,Bangladesh,Queens Sports Club,1,Zimbabwe
+17,2.6,0,Syed Rasel,2009-08-14,1st,MA Vermeulen,10,,H Masakadza,1,Zimbabwe,Bangladesh,13,Bangladesh,Queens Sports Club,1,Zimbabwe
+18,3.1,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,1,,MA Vermeulen,10,Zimbabwe,Bangladesh,13,Bangladesh,Queens Sports Club,1,Zimbabwe
+19,3.2,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,1,,MA Vermeulen,10,Zimbabwe,Bangladesh,13,Bangladesh,Queens Sports Club,1,Zimbabwe
+20,3.3,1,Mahbubul Alam,2009-08-14,1st,H Masakadza,1,,MA Vermeulen,11,Zimbabwe,Bangladesh,14,Bangladesh,Queens Sports Club,1,Zimbabwe
+21,3.4,3,Mahbubul Alam,2009-08-14,1st,MA Vermeulen,11,,H Masakadza,4,Zimbabwe,Bangladesh,17,Bangladesh,Queens Sports Club,1,Zimbabwe
+22,3.5,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,4,,MA Vermeulen,11,Zimbabwe,Bangladesh,17,Bangladesh,Queens Sports Club,1,Zimbabwe
+23,3.6,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,4,MA Vermeulen,MA Vermeulen,11,Zimbabwe,Bangladesh,17,Bangladesh,Queens Sports Club,2,Zimbabwe
+24,4.1,0,Syed Rasel,2009-08-14,1st,CK Coventry,0,,H Masakadza,4,Zimbabwe,Bangladesh,17,Bangladesh,Queens Sports Club,2,Zimbabwe
+25,4.2,4,Syed Rasel,2009-08-14,1st,CK Coventry,0,,H Masakadza,8,Zimbabwe,Bangladesh,21,Bangladesh,Queens Sports Club,2,Zimbabwe
+26,4.3,0,Syed Rasel,2009-08-14,1st,CK Coventry,0,,H Masakadza,8,Zimbabwe,Bangladesh,21,Bangladesh,Queens Sports Club,2,Zimbabwe
+27,4.4,1,Syed Rasel,2009-08-14,1st,CK Coventry,0,,H Masakadza,9,Zimbabwe,Bangladesh,22,Bangladesh,Queens Sports Club,2,Zimbabwe
+28,4.5,0,Syed Rasel,2009-08-14,1st,H Masakadza,9,,CK Coventry,0,Zimbabwe,Bangladesh,23,Bangladesh,Queens Sports Club,2,Zimbabwe
+29,4.6,4,Syed Rasel,2009-08-14,1st,H Masakadza,9,,CK Coventry,4,Zimbabwe,Bangladesh,27,Bangladesh,Queens Sports Club,2,Zimbabwe
+30,4.7,0,Syed Rasel,2009-08-14,1st,H Masakadza,9,,CK Coventry,4,Zimbabwe,Bangladesh,27,Bangladesh,Queens Sports Club,2,Zimbabwe
+31,5.1,0,Mahbubul Alam,2009-08-14,1st,CK Coventry,4,,H Masakadza,9,Zimbabwe,Bangladesh,27,Bangladesh,Queens Sports Club,2,Zimbabwe
+32,5.2,1,Mahbubul Alam,2009-08-14,1st,CK Coventry,4,,H Masakadza,10,Zimbabwe,Bangladesh,28,Bangladesh,Queens Sports Club,2,Zimbabwe
+33,5.3,4,Mahbubul Alam,2009-08-14,1st,H Masakadza,10,,CK Coventry,8,Zimbabwe,Bangladesh,32,Bangladesh,Queens Sports Club,2,Zimbabwe
+34,5.4,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,10,,CK Coventry,8,Zimbabwe,Bangladesh,33,Bangladesh,Queens Sports Club,2,Zimbabwe
+35,5.5,1,Mahbubul Alam,2009-08-14,1st,H Masakadza,10,,CK Coventry,9,Zimbabwe,Bangladesh,34,Bangladesh,Queens Sports Club,2,Zimbabwe
+36,5.6,1,Mahbubul Alam,2009-08-14,1st,CK Coventry,9,,H Masakadza,11,Zimbabwe,Bangladesh,35,Bangladesh,Queens Sports Club,2,Zimbabwe
+37,5.7,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,11,,CK Coventry,9,Zimbabwe,Bangladesh,35,Bangladesh,Queens Sports Club,2,Zimbabwe
+38,6.1,2,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+39,6.2,0,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+40,6.3,0,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+41,6.4,0,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+42,6.5,0,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+43,6.6,0,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+44,7.1,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,13,,CK Coventry,9,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+45,7.2,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,13,,CK Coventry,9,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+46,7.3,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,13,,CK Coventry,9,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+47,7.4,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,13,,CK Coventry,9,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+48,7.5,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,13,,CK Coventry,9,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+49,7.6,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,13,,CK Coventry,9,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+50,8.1,0,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+51,8.2,0,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,13,Zimbabwe,Bangladesh,37,Bangladesh,Queens Sports Club,2,Zimbabwe
+52,8.3,4,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,17,Zimbabwe,Bangladesh,41,Bangladesh,Queens Sports Club,2,Zimbabwe
+53,8.4,1,Syed Rasel,2009-08-14,1st,CK Coventry,9,,H Masakadza,18,Zimbabwe,Bangladesh,42,Bangladesh,Queens Sports Club,2,Zimbabwe
+54,8.5,0,Syed Rasel,2009-08-14,1st,H Masakadza,18,,CK Coventry,9,Zimbabwe,Bangladesh,42,Bangladesh,Queens Sports Club,2,Zimbabwe
+55,8.6,0,Syed Rasel,2009-08-14,1st,H Masakadza,18,,CK Coventry,9,Zimbabwe,Bangladesh,42,Bangladesh,Queens Sports Club,2,Zimbabwe
+56,9.1,3,Mahbubul Alam,2009-08-14,1st,CK Coventry,9,,H Masakadza,21,Zimbabwe,Bangladesh,45,Bangladesh,Queens Sports Club,2,Zimbabwe
+57,9.2,4,Mahbubul Alam,2009-08-14,1st,H Masakadza,21,,CK Coventry,13,Zimbabwe,Bangladesh,49,Bangladesh,Queens Sports Club,2,Zimbabwe
+58,9.3,6,Mahbubul Alam,2009-08-14,1st,H Masakadza,21,,CK Coventry,19,Zimbabwe,Bangladesh,55,Bangladesh,Queens Sports Club,2,Zimbabwe
+59,9.4,0,Mahbubul Alam,2009-08-14,1st,H Masakadza,21,,CK Coventry,19,Zimbabwe,Bangladesh,55,Bangladesh,Queens Sports Club,2,Zimbabwe
+60,9.5,1,Mahbubul Alam,2009-08-14,1st,H Masakadza,21,,CK Coventry,20,Zimbabwe,Bangladesh,56,Bangladesh,Queens Sports Club,2,Zimbabwe
+61,9.6,0,Mahbubul Alam,2009-08-14,1st,CK Coventry,20,,H Masakadza,21,Zimbabwe,Bangladesh,56,Bangladesh,Queens Sports Club,2,Zimbabwe
+62,10.1,1,Shakib Al Hasan,2009-08-14,1st,H Masakadza,21,,CK Coventry,21,Zimbabwe,Bangladesh,57,Bangladesh,Queens Sports Club,2,Zimbabwe
+63,10.2,0,Shakib Al Hasan,2009-08-14,1st,CK Coventry,21,,H Masakadza,21,Zimbabwe,Bangladesh,57,Bangladesh,Queens Sports Club,2,Zimbabwe
+64,10.3,0,Shakib Al Hasan,2009-08-14,1st,CK Coventry,21,,H Masakadza,21,Zimbabwe,Bangladesh,57,Bangladesh,Queens Sports Club,2,Zimbabwe
+65,10.4,0,Shakib Al Hasan,2009-08-14,1st,CK Coventry,21,,H Masakadza,21,Zimbabwe,Bangladesh,57,Bangladesh,Queens Sports Club,2,Zimbabwe
+66,10.5,1,Shakib Al Hasan,2009-08-14,1st,CK Coventry,21,,H Masakadza,22,Zimbabwe,Bangladesh,58,Bangladesh,Queens Sports Club,2,Zimbabwe
+67,10.6,0,Shakib Al Hasan,2009-08-14,1st,H Masakadza,22,,CK Coventry,21,Zimbabwe,Bangladesh,58,Bangladesh,Queens Sports Club,2,Zimbabwe
+68,11.1,1,Enamul Haque jnr,2009-08-14,1st,CK Coventry,21,,H Masakadza,23,Zimbabwe,Bangladesh,59,Bangladesh,Queens Sports Club,2,Zimbabwe
+69,11.2,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,23,CK Coventry,CK Coventry,22,Zimbabwe,Bangladesh,60,Bangladesh,Queens Sports Club,3,Zimbabwe
+70,11.3,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,23,,BRM Taylor,0,Zimbabwe,Bangladesh,60,Bangladesh,Queens Sports Club,3,Zimbabwe
+71,11.4,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,23,,BRM Taylor,1,Zimbabwe,Bangladesh,61,Bangladesh,Queens Sports Club,3,Zimbabwe
+72,11.5,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,1,,H Masakadza,23,Zimbabwe,Bangladesh,61,Bangladesh,Queens Sports Club,3,Zimbabwe
+73,12.1,0,Shakib Al Hasan,2009-08-14,1st,H Masakadza,23,,BRM Taylor,1,Zimbabwe,Bangladesh,61,Bangladesh,Queens Sports Club,3,Zimbabwe
+74,12.2,0,Shakib Al Hasan,2009-08-14,1st,H Masakadza,23,,BRM Taylor,1,Zimbabwe,Bangladesh,61,Bangladesh,Queens Sports Club,3,Zimbabwe
+75,12.3,1,Shakib Al Hasan,2009-08-14,1st,H Masakadza,23,,BRM Taylor,2,Zimbabwe,Bangladesh,62,Bangladesh,Queens Sports Club,3,Zimbabwe
+76,12.4,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,2,,H Masakadza,23,Zimbabwe,Bangladesh,62,Bangladesh,Queens Sports Club,3,Zimbabwe
+77,12.5,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,2,,H Masakadza,23,Zimbabwe,Bangladesh,62,Bangladesh,Queens Sports Club,3,Zimbabwe
+78,12.6,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,2,,H Masakadza,23,Zimbabwe,Bangladesh,62,Bangladesh,Queens Sports Club,3,Zimbabwe
+79,13.1,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,23,,BRM Taylor,3,Zimbabwe,Bangladesh,63,Bangladesh,Queens Sports Club,3,Zimbabwe
+80,13.2,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,3,,H Masakadza,24,Zimbabwe,Bangladesh,64,Bangladesh,Queens Sports Club,3,Zimbabwe
+81,13.3,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,24,,BRM Taylor,3,Zimbabwe,Bangladesh,64,Bangladesh,Queens Sports Club,3,Zimbabwe
+82,13.4,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,24,,BRM Taylor,3,Zimbabwe,Bangladesh,64,Bangladesh,Queens Sports Club,3,Zimbabwe
+83,13.5,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,24,,BRM Taylor,3,Zimbabwe,Bangladesh,64,Bangladesh,Queens Sports Club,3,Zimbabwe
+84,13.6,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,24,,BRM Taylor,4,Zimbabwe,Bangladesh,65,Bangladesh,Queens Sports Club,3,Zimbabwe
+85,14.1,0,Shakib Al Hasan,2009-08-14,1st,H Masakadza,24,,BRM Taylor,4,Zimbabwe,Bangladesh,65,Bangladesh,Queens Sports Club,3,Zimbabwe
+86,14.2,2,Shakib Al Hasan,2009-08-14,1st,H Masakadza,24,,BRM Taylor,6,Zimbabwe,Bangladesh,67,Bangladesh,Queens Sports Club,3,Zimbabwe
+87,14.3,1,Shakib Al Hasan,2009-08-14,1st,H Masakadza,24,,BRM Taylor,7,Zimbabwe,Bangladesh,68,Bangladesh,Queens Sports Club,3,Zimbabwe
+88,14.4,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,7,,H Masakadza,24,Zimbabwe,Bangladesh,68,Bangladesh,Queens Sports Club,3,Zimbabwe
+89,14.5,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,7,,H Masakadza,24,Zimbabwe,Bangladesh,68,Bangladesh,Queens Sports Club,3,Zimbabwe
+90,14.6,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,7,,H Masakadza,24,Zimbabwe,Bangladesh,68,Bangladesh,Queens Sports Club,3,Zimbabwe
+91,15.1,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,24,,BRM Taylor,8,Zimbabwe,Bangladesh,69,Bangladesh,Queens Sports Club,3,Zimbabwe
+92,15.2,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,8,,H Masakadza,25,Zimbabwe,Bangladesh,70,Bangladesh,Queens Sports Club,3,Zimbabwe
+93,15.3,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,25,,BRM Taylor,8,Zimbabwe,Bangladesh,70,Bangladesh,Queens Sports Club,3,Zimbabwe
+94,15.4,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,25,,BRM Taylor,9,Zimbabwe,Bangladesh,71,Bangladesh,Queens Sports Club,3,Zimbabwe
+95,15.5,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,9,,H Masakadza,25,Zimbabwe,Bangladesh,71,Bangladesh,Queens Sports Club,3,Zimbabwe
+96,15.6,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,9,,H Masakadza,26,Zimbabwe,Bangladesh,72,Bangladesh,Queens Sports Club,3,Zimbabwe
+97,16.1,1,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,9,,H Masakadza,27,Zimbabwe,Bangladesh,73,Bangladesh,Queens Sports Club,3,Zimbabwe
+98,16.2,1,Shakib Al Hasan,2009-08-14,1st,H Masakadza,27,,BRM Taylor,10,Zimbabwe,Bangladesh,74,Bangladesh,Queens Sports Club,3,Zimbabwe
+99,16.3,6,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,10,,H Masakadza,33,Zimbabwe,Bangladesh,80,Bangladesh,Queens Sports Club,3,Zimbabwe
+100,16.4,1,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,10,,H Masakadza,34,Zimbabwe,Bangladesh,81,Bangladesh,Queens Sports Club,3,Zimbabwe
+101,16.5,5,Shakib Al Hasan,2009-08-14,1st,H Masakadza,34,,BRM Taylor,15,Zimbabwe,Bangladesh,86,Bangladesh,Queens Sports Club,3,Zimbabwe
+102,16.6,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,15,,H Masakadza,34,Zimbabwe,Bangladesh,86,Bangladesh,Queens Sports Club,3,Zimbabwe
+103,17.1,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,34,,BRM Taylor,16,Zimbabwe,Bangladesh,87,Bangladesh,Queens Sports Club,3,Zimbabwe
+104,17.2,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,16,,H Masakadza,35,Zimbabwe,Bangladesh,88,Bangladesh,Queens Sports Club,3,Zimbabwe
+105,17.3,0,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,35,,BRM Taylor,16,Zimbabwe,Bangladesh,88,Bangladesh,Queens Sports Club,3,Zimbabwe
+106,17.4,2,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,35,,BRM Taylor,18,Zimbabwe,Bangladesh,90,Bangladesh,Queens Sports Club,3,Zimbabwe
+107,17.5,0,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,35,,BRM Taylor,18,Zimbabwe,Bangladesh,90,Bangladesh,Queens Sports Club,3,Zimbabwe
+108,17.6,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,35,,BRM Taylor,19,Zimbabwe,Bangladesh,91,Bangladesh,Queens Sports Club,3,Zimbabwe
+109,18.1,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,35,,BRM Taylor,20,Zimbabwe,Bangladesh,92,Bangladesh,Queens Sports Club,3,Zimbabwe
+110,18.2,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,20,,H Masakadza,35,Zimbabwe,Bangladesh,92,Bangladesh,Queens Sports Club,3,Zimbabwe
+111,18.3,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,20,,H Masakadza,36,Zimbabwe,Bangladesh,93,Bangladesh,Queens Sports Club,3,Zimbabwe
+112,18.4,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,36,,BRM Taylor,21,Zimbabwe,Bangladesh,94,Bangladesh,Queens Sports Club,3,Zimbabwe
+113,18.5,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,21,,H Masakadza,37,Zimbabwe,Bangladesh,95,Bangladesh,Queens Sports Club,3,Zimbabwe
+114,18.6,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,37,,BRM Taylor,22,Zimbabwe,Bangladesh,96,Bangladesh,Queens Sports Club,3,Zimbabwe
+115,19.1,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,37,,BRM Taylor,23,Zimbabwe,Bangladesh,97,Bangladesh,Queens Sports Club,3,Zimbabwe
+116,19.2,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,23,,H Masakadza,38,Zimbabwe,Bangladesh,98,Bangladesh,Queens Sports Club,3,Zimbabwe
+117,19.3,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,38,,BRM Taylor,24,Zimbabwe,Bangladesh,99,Bangladesh,Queens Sports Club,3,Zimbabwe
+118,19.4,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,24,,H Masakadza,39,Zimbabwe,Bangladesh,100,Bangladesh,Queens Sports Club,3,Zimbabwe
+119,19.5,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,39,,BRM Taylor,25,Zimbabwe,Bangladesh,101,Bangladesh,Queens Sports Club,3,Zimbabwe
+120,19.6,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,25,,H Masakadza,40,Zimbabwe,Bangladesh,102,Bangladesh,Queens Sports Club,3,Zimbabwe
+121,20.1,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,25,,H Masakadza,40,Zimbabwe,Bangladesh,102,Bangladesh,Queens Sports Club,3,Zimbabwe
+122,20.2,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,25,,H Masakadza,40,Zimbabwe,Bangladesh,102,Bangladesh,Queens Sports Club,3,Zimbabwe
+123,20.3,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,25,,H Masakadza,41,Zimbabwe,Bangladesh,103,Bangladesh,Queens Sports Club,3,Zimbabwe
+124,20.4,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,41,,BRM Taylor,26,Zimbabwe,Bangladesh,104,Bangladesh,Queens Sports Club,3,Zimbabwe
+125,20.5,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,26,,H Masakadza,42,Zimbabwe,Bangladesh,105,Bangladesh,Queens Sports Club,3,Zimbabwe
+126,20.6,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,42,,BRM Taylor,26,Zimbabwe,Bangladesh,105,Bangladesh,Queens Sports Club,3,Zimbabwe
+127,21.1,0,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,26,,H Masakadza,42,Zimbabwe,Bangladesh,105,Bangladesh,Queens Sports Club,3,Zimbabwe
+128,21.2,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,26,,H Masakadza,43,Zimbabwe,Bangladesh,106,Bangladesh,Queens Sports Club,3,Zimbabwe
+129,21.3,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,43,,BRM Taylor,27,Zimbabwe,Bangladesh,107,Bangladesh,Queens Sports Club,3,Zimbabwe
+130,21.4,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,27,,H Masakadza,44,Zimbabwe,Bangladesh,108,Bangladesh,Queens Sports Club,3,Zimbabwe
+131,21.5,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,44,,BRM Taylor,28,Zimbabwe,Bangladesh,109,Bangladesh,Queens Sports Club,3,Zimbabwe
+132,21.6,0,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,28,,H Masakadza,44,Zimbabwe,Bangladesh,109,Bangladesh,Queens Sports Club,3,Zimbabwe
+133,22.1,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,44,,BRM Taylor,28,Zimbabwe,Bangladesh,109,Bangladesh,Queens Sports Club,3,Zimbabwe
+134,22.2,2,Enamul Haque jnr,2009-08-14,1st,H Masakadza,44,,BRM Taylor,30,Zimbabwe,Bangladesh,111,Bangladesh,Queens Sports Club,3,Zimbabwe
+135,22.3,2,Enamul Haque jnr,2009-08-14,1st,H Masakadza,44,,BRM Taylor,32,Zimbabwe,Bangladesh,113,Bangladesh,Queens Sports Club,3,Zimbabwe
+136,22.4,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,44,,BRM Taylor,33,Zimbabwe,Bangladesh,114,Bangladesh,Queens Sports Club,3,Zimbabwe
+137,22.5,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,33,,H Masakadza,44,Zimbabwe,Bangladesh,114,Bangladesh,Queens Sports Club,3,Zimbabwe
+138,22.6,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,33,,H Masakadza,45,Zimbabwe,Bangladesh,115,Bangladesh,Queens Sports Club,3,Zimbabwe
+139,23.1,0,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,33,,H Masakadza,45,Zimbabwe,Bangladesh,115,Bangladesh,Queens Sports Club,3,Zimbabwe
+140,23.2,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,33,,H Masakadza,46,Zimbabwe,Bangladesh,116,Bangladesh,Queens Sports Club,3,Zimbabwe
+141,23.3,0,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,46,,BRM Taylor,33,Zimbabwe,Bangladesh,116,Bangladesh,Queens Sports Club,3,Zimbabwe
+142,23.4,0,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,46,,BRM Taylor,33,Zimbabwe,Bangladesh,116,Bangladesh,Queens Sports Club,3,Zimbabwe
+143,23.5,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,46,,BRM Taylor,34,Zimbabwe,Bangladesh,117,Bangladesh,Queens Sports Club,3,Zimbabwe
+144,23.6,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,34,,H Masakadza,47,Zimbabwe,Bangladesh,118,Bangladesh,Queens Sports Club,3,Zimbabwe
+145,24.1,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,34,,H Masakadza,48,Zimbabwe,Bangladesh,119,Bangladesh,Queens Sports Club,3,Zimbabwe
+146,24.2,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,48,,BRM Taylor,34,Zimbabwe,Bangladesh,119,Bangladesh,Queens Sports Club,3,Zimbabwe
+147,24.3,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,48,,BRM Taylor,34,Zimbabwe,Bangladesh,119,Bangladesh,Queens Sports Club,3,Zimbabwe
+148,24.4,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,48,,BRM Taylor,35,Zimbabwe,Bangladesh,120,Bangladesh,Queens Sports Club,3,Zimbabwe
+149,24.5,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,35,,H Masakadza,49,Zimbabwe,Bangladesh,121,Bangladesh,Queens Sports Club,3,Zimbabwe
+150,24.6,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,49,,BRM Taylor,36,Zimbabwe,Bangladesh,122,Bangladesh,Queens Sports Club,3,Zimbabwe
+151,25.1,0,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,49,,BRM Taylor,36,Zimbabwe,Bangladesh,122,Bangladesh,Queens Sports Club,3,Zimbabwe
+152,25.2,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,49,,BRM Taylor,37,Zimbabwe,Bangladesh,123,Bangladesh,Queens Sports Club,3,Zimbabwe
+153,25.3,0,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,37,,H Masakadza,49,Zimbabwe,Bangladesh,123,Bangladesh,Queens Sports Club,3,Zimbabwe
+154,25.4,0,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,37,,H Masakadza,49,Zimbabwe,Bangladesh,123,Bangladesh,Queens Sports Club,3,Zimbabwe
+155,25.5,2,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,37,,H Masakadza,51,Zimbabwe,Bangladesh,125,Bangladesh,Queens Sports Club,3,Zimbabwe
+156,25.6,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,37,,H Masakadza,52,Zimbabwe,Bangladesh,126,Bangladesh,Queens Sports Club,3,Zimbabwe
+157,26.1,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,37,,H Masakadza,52,Zimbabwe,Bangladesh,126,Bangladesh,Queens Sports Club,3,Zimbabwe
+158,26.2,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,37,,H Masakadza,52,Zimbabwe,Bangladesh,126,Bangladesh,Queens Sports Club,3,Zimbabwe
+159,26.3,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,37,,H Masakadza,53,Zimbabwe,Bangladesh,127,Bangladesh,Queens Sports Club,3,Zimbabwe
+160,26.4,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,53,,BRM Taylor,38,Zimbabwe,Bangladesh,128,Bangladesh,Queens Sports Club,3,Zimbabwe
+161,26.5,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,38,,H Masakadza,54,Zimbabwe,Bangladesh,129,Bangladesh,Queens Sports Club,3,Zimbabwe
+162,26.6,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,54,,BRM Taylor,39,Zimbabwe,Bangladesh,130,Bangladesh,Queens Sports Club,3,Zimbabwe
+163,27.1,0,Mahmudullah,2009-08-14,1st,H Masakadza,54,,BRM Taylor,39,Zimbabwe,Bangladesh,130,Bangladesh,Queens Sports Club,3,Zimbabwe
+164,27.2,1,Mahmudullah,2009-08-14,1st,H Masakadza,54,,BRM Taylor,40,Zimbabwe,Bangladesh,131,Bangladesh,Queens Sports Club,3,Zimbabwe
+165,27.3,0,Mahmudullah,2009-08-14,1st,BRM Taylor,40,,H Masakadza,54,Zimbabwe,Bangladesh,131,Bangladesh,Queens Sports Club,3,Zimbabwe
+166,27.4,4,Mahmudullah,2009-08-14,1st,BRM Taylor,40,,H Masakadza,58,Zimbabwe,Bangladesh,135,Bangladesh,Queens Sports Club,3,Zimbabwe
+167,27.5,1,Mahmudullah,2009-08-14,1st,BRM Taylor,40,,H Masakadza,59,Zimbabwe,Bangladesh,136,Bangladesh,Queens Sports Club,3,Zimbabwe
+168,27.6,1,Mahmudullah,2009-08-14,1st,H Masakadza,59,,BRM Taylor,41,Zimbabwe,Bangladesh,137,Bangladesh,Queens Sports Club,3,Zimbabwe
+169,28.1,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,59,,BRM Taylor,42,Zimbabwe,Bangladesh,138,Bangladesh,Queens Sports Club,3,Zimbabwe
+170,28.2,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,42,,H Masakadza,60,Zimbabwe,Bangladesh,139,Bangladesh,Queens Sports Club,3,Zimbabwe
+171,28.3,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,60,,BRM Taylor,43,Zimbabwe,Bangladesh,140,Bangladesh,Queens Sports Club,3,Zimbabwe
+172,28.4,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,43,,H Masakadza,61,Zimbabwe,Bangladesh,141,Bangladesh,Queens Sports Club,3,Zimbabwe
+173,28.5,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,61,,BRM Taylor,44,Zimbabwe,Bangladesh,142,Bangladesh,Queens Sports Club,3,Zimbabwe
+174,28.6,3,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,44,,H Masakadza,64,Zimbabwe,Bangladesh,145,Bangladesh,Queens Sports Club,3,Zimbabwe
+175,29.1,4,Mahmudullah,2009-08-14,1st,BRM Taylor,44,,H Masakadza,68,Zimbabwe,Bangladesh,149,Bangladesh,Queens Sports Club,3,Zimbabwe
+176,29.2,0,Mahmudullah,2009-08-14,1st,BRM Taylor,44,,H Masakadza,68,Zimbabwe,Bangladesh,149,Bangladesh,Queens Sports Club,3,Zimbabwe
+177,29.3,1,Mahmudullah,2009-08-14,1st,BRM Taylor,44,,H Masakadza,69,Zimbabwe,Bangladesh,150,Bangladesh,Queens Sports Club,3,Zimbabwe
+178,29.4,0,Mahmudullah,2009-08-14,1st,H Masakadza,69,,BRM Taylor,44,Zimbabwe,Bangladesh,150,Bangladesh,Queens Sports Club,3,Zimbabwe
+179,29.5,1,Mahmudullah,2009-08-14,1st,H Masakadza,69,,BRM Taylor,45,Zimbabwe,Bangladesh,151,Bangladesh,Queens Sports Club,3,Zimbabwe
+180,29.6,1,Mahmudullah,2009-08-14,1st,BRM Taylor,45,,H Masakadza,70,Zimbabwe,Bangladesh,152,Bangladesh,Queens Sports Club,3,Zimbabwe
+181,30.1,0,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,45,,H Masakadza,70,Zimbabwe,Bangladesh,152,Bangladesh,Queens Sports Club,3,Zimbabwe
+182,30.2,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,45,,H Masakadza,71,Zimbabwe,Bangladesh,153,Bangladesh,Queens Sports Club,3,Zimbabwe
+183,30.3,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,71,,BRM Taylor,46,Zimbabwe,Bangladesh,154,Bangladesh,Queens Sports Club,3,Zimbabwe
+184,30.4,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,46,,H Masakadza,72,Zimbabwe,Bangladesh,155,Bangladesh,Queens Sports Club,3,Zimbabwe
+185,30.5,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,72,,BRM Taylor,47,Zimbabwe,Bangladesh,156,Bangladesh,Queens Sports Club,3,Zimbabwe
+186,30.6,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,47,,H Masakadza,73,Zimbabwe,Bangladesh,157,Bangladesh,Queens Sports Club,3,Zimbabwe
+187,31.1,1,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,47,,H Masakadza,74,Zimbabwe,Bangladesh,158,Bangladesh,Queens Sports Club,3,Zimbabwe
+188,31.2,1,Shakib Al Hasan,2009-08-14,1st,H Masakadza,74,,BRM Taylor,48,Zimbabwe,Bangladesh,159,Bangladesh,Queens Sports Club,3,Zimbabwe
+189,31.3,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,48,,H Masakadza,74,Zimbabwe,Bangladesh,159,Bangladesh,Queens Sports Club,3,Zimbabwe
+190,31.4,1,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,48,,H Masakadza,75,Zimbabwe,Bangladesh,160,Bangladesh,Queens Sports Club,3,Zimbabwe
+191,31.5,0,Shakib Al Hasan,2009-08-14,1st,H Masakadza,75,,BRM Taylor,48,Zimbabwe,Bangladesh,160,Bangladesh,Queens Sports Club,3,Zimbabwe
+192,31.6,1,Shakib Al Hasan,2009-08-14,1st,H Masakadza,75,,BRM Taylor,49,Zimbabwe,Bangladesh,161,Bangladesh,Queens Sports Club,3,Zimbabwe
+193,32.1,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,75,,BRM Taylor,50,Zimbabwe,Bangladesh,162,Bangladesh,Queens Sports Club,3,Zimbabwe
+194,32.2,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,50,,H Masakadza,76,Zimbabwe,Bangladesh,163,Bangladesh,Queens Sports Club,3,Zimbabwe
+195,32.3,0,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,76,,BRM Taylor,50,Zimbabwe,Bangladesh,163,Bangladesh,Queens Sports Club,3,Zimbabwe
+196,32.4,0,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,76,,BRM Taylor,50,Zimbabwe,Bangladesh,163,Bangladesh,Queens Sports Club,3,Zimbabwe
+197,32.5,1,Mehrab Hossain jnr,2009-08-14,1st,H Masakadza,76,,BRM Taylor,51,Zimbabwe,Bangladesh,164,Bangladesh,Queens Sports Club,3,Zimbabwe
+198,32.6,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,51,,H Masakadza,77,Zimbabwe,Bangladesh,165,Bangladesh,Queens Sports Club,3,Zimbabwe
+199,33.1,1,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,51,,H Masakadza,78,Zimbabwe,Bangladesh,166,Bangladesh,Queens Sports Club,3,Zimbabwe
+200,33.2,0,Shakib Al Hasan,2009-08-14,1st,H Masakadza,78,,BRM Taylor,51,Zimbabwe,Bangladesh,166,Bangladesh,Queens Sports Club,3,Zimbabwe
+201,33.3,1,Shakib Al Hasan,2009-08-14,1st,H Masakadza,78,,BRM Taylor,52,Zimbabwe,Bangladesh,167,Bangladesh,Queens Sports Club,3,Zimbabwe
+202,33.4,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,52,,H Masakadza,78,Zimbabwe,Bangladesh,167,Bangladesh,Queens Sports Club,3,Zimbabwe
+203,33.5,3,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,52,,H Masakadza,81,Zimbabwe,Bangladesh,170,Bangladesh,Queens Sports Club,3,Zimbabwe
+204,33.6,0,Shakib Al Hasan,2009-08-14,1st,H Masakadza,81,,BRM Taylor,52,Zimbabwe,Bangladesh,170,Bangladesh,Queens Sports Club,3,Zimbabwe
+205,34.1,0,Mahbubul Alam,2009-08-14,1st,BRM Taylor,52,,H Masakadza,81,Zimbabwe,Bangladesh,170,Bangladesh,Queens Sports Club,3,Zimbabwe
+206,34.2,1,Mahbubul Alam,2009-08-14,1st,BRM Taylor,52,,H Masakadza,82,Zimbabwe,Bangladesh,171,Bangladesh,Queens Sports Club,3,Zimbabwe
+207,34.3,1,Mahbubul Alam,2009-08-14,1st,H Masakadza,82,,BRM Taylor,53,Zimbabwe,Bangladesh,172,Bangladesh,Queens Sports Club,3,Zimbabwe
+208,34.4,6,Mahbubul Alam,2009-08-14,1st,BRM Taylor,53,,H Masakadza,88,Zimbabwe,Bangladesh,178,Bangladesh,Queens Sports Club,3,Zimbabwe
+209,34.5,2,Mahbubul Alam,2009-08-14,1st,BRM Taylor,53,,H Masakadza,90,Zimbabwe,Bangladesh,180,Bangladesh,Queens Sports Club,3,Zimbabwe
+210,34.6,1,Mahbubul Alam,2009-08-14,1st,BRM Taylor,53,,H Masakadza,91,Zimbabwe,Bangladesh,181,Bangladesh,Queens Sports Club,3,Zimbabwe
+211,35.1,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,53,,H Masakadza,91,Zimbabwe,Bangladesh,181,Bangladesh,Queens Sports Club,3,Zimbabwe
+212,35.2,2,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,53,,H Masakadza,93,Zimbabwe,Bangladesh,183,Bangladesh,Queens Sports Club,3,Zimbabwe
+213,35.3,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,53,,H Masakadza,94,Zimbabwe,Bangladesh,184,Bangladesh,Queens Sports Club,3,Zimbabwe
+214,35.4,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,94,,BRM Taylor,53,Zimbabwe,Bangladesh,184,Bangladesh,Queens Sports Club,3,Zimbabwe
+215,35.5,0,Enamul Haque jnr,2009-08-14,1st,H Masakadza,94,,BRM Taylor,53,Zimbabwe,Bangladesh,184,Bangladesh,Queens Sports Club,3,Zimbabwe
+216,35.6,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,94,,BRM Taylor,54,Zimbabwe,Bangladesh,185,Bangladesh,Queens Sports Club,3,Zimbabwe
+217,36.1,0,Syed Rasel,2009-08-14,1st,H Masakadza,94,,BRM Taylor,54,Zimbabwe,Bangladesh,185,Bangladesh,Queens Sports Club,3,Zimbabwe
+218,36.2,1,Syed Rasel,2009-08-14,1st,H Masakadza,94,,BRM Taylor,55,Zimbabwe,Bangladesh,186,Bangladesh,Queens Sports Club,3,Zimbabwe
+219,36.3,1,Syed Rasel,2009-08-14,1st,BRM Taylor,55,,H Masakadza,95,Zimbabwe,Bangladesh,187,Bangladesh,Queens Sports Club,3,Zimbabwe
+220,36.4,1,Syed Rasel,2009-08-14,1st,H Masakadza,95,,BRM Taylor,56,Zimbabwe,Bangladesh,188,Bangladesh,Queens Sports Club,3,Zimbabwe
+221,36.5,0,Syed Rasel,2009-08-14,1st,BRM Taylor,56,,H Masakadza,95,Zimbabwe,Bangladesh,188,Bangladesh,Queens Sports Club,3,Zimbabwe
+222,36.6,2,Syed Rasel,2009-08-14,1st,BRM Taylor,56,,H Masakadza,97,Zimbabwe,Bangladesh,190,Bangladesh,Queens Sports Club,3,Zimbabwe
+223,37.1,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,97,,BRM Taylor,57,Zimbabwe,Bangladesh,191,Bangladesh,Queens Sports Club,3,Zimbabwe
+224,37.2,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,57,,H Masakadza,98,Zimbabwe,Bangladesh,192,Bangladesh,Queens Sports Club,3,Zimbabwe
+225,37.3,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,98,,BRM Taylor,58,Zimbabwe,Bangladesh,193,Bangladesh,Queens Sports Club,3,Zimbabwe
+226,37.4,1,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,58,,H Masakadza,99,Zimbabwe,Bangladesh,194,Bangladesh,Queens Sports Club,3,Zimbabwe
+227,37.5,1,Enamul Haque jnr,2009-08-14,1st,H Masakadza,99,,BRM Taylor,59,Zimbabwe,Bangladesh,195,Bangladesh,Queens Sports Club,3,Zimbabwe
+228,37.6,0,Enamul Haque jnr,2009-08-14,1st,BRM Taylor,59,,H Masakadza,99,Zimbabwe,Bangladesh,195,Bangladesh,Queens Sports Club,3,Zimbabwe
+229,38.1,0,Syed Rasel,2009-08-14,1st,H Masakadza,99,,BRM Taylor,59,Zimbabwe,Bangladesh,195,Bangladesh,Queens Sports Club,3,Zimbabwe
+230,38.2,1,Syed Rasel,2009-08-14,1st,H Masakadza,99,,BRM Taylor,60,Zimbabwe,Bangladesh,196,Bangladesh,Queens Sports Club,3,Zimbabwe
+231,38.3,1,Syed Rasel,2009-08-14,1st,BRM Taylor,60,,H Masakadza,100,Zimbabwe,Bangladesh,197,Bangladesh,Queens Sports Club,3,Zimbabwe
+232,38.4,3,Syed Rasel,2009-08-14,1st,H Masakadza,100,,BRM Taylor,63,Zimbabwe,Bangladesh,200,Bangladesh,Queens Sports Club,3,Zimbabwe
+233,38.5,2,Syed Rasel,2009-08-14,1st,BRM Taylor,63,,H Masakadza,102,Zimbabwe,Bangladesh,202,Bangladesh,Queens Sports Club,3,Zimbabwe
+234,38.6,0,Syed Rasel,2009-08-14,1st,BRM Taylor,63,H Masakadza,H Masakadza,102,Zimbabwe,Bangladesh,202,Bangladesh,Queens Sports Club,4,Zimbabwe
+235,39.1,2,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,0,,BRM Taylor,65,Zimbabwe,Bangladesh,204,Bangladesh,Queens Sports Club,4,Zimbabwe
+236,39.2,0,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,0,,BRM Taylor,65,Zimbabwe,Bangladesh,204,Bangladesh,Queens Sports Club,4,Zimbabwe
+237,39.3,0,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,0,,BRM Taylor,65,Zimbabwe,Bangladesh,204,Bangladesh,Queens Sports Club,4,Zimbabwe
+238,39.4,0,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,0,,BRM Taylor,65,Zimbabwe,Bangladesh,204,Bangladesh,Queens Sports Club,4,Zimbabwe
+239,39.5,0,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,0,,BRM Taylor,65,Zimbabwe,Bangladesh,204,Bangladesh,Queens Sports Club,4,Zimbabwe
+240,39.6,4,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,0,,BRM Taylor,69,Zimbabwe,Bangladesh,208,Bangladesh,Queens Sports Club,4,Zimbabwe
+241,40.1,0,Mahbubul Alam,2009-08-14,1st,BRM Taylor,69,,E Chigumbura,0,Zimbabwe,Bangladesh,208,Bangladesh,Queens Sports Club,4,Zimbabwe
+242,40.2,2,Mahbubul Alam,2009-08-14,1st,BRM Taylor,69,,E Chigumbura,2,Zimbabwe,Bangladesh,210,Bangladesh,Queens Sports Club,4,Zimbabwe
+243,40.3,4,Mahbubul Alam,2009-08-14,1st,BRM Taylor,69,,E Chigumbura,6,Zimbabwe,Bangladesh,214,Bangladesh,Queens Sports Club,4,Zimbabwe
+244,40.4,0,Mahbubul Alam,2009-08-14,1st,BRM Taylor,69,,E Chigumbura,6,Zimbabwe,Bangladesh,214,Bangladesh,Queens Sports Club,4,Zimbabwe
+245,40.5,2,Mahbubul Alam,2009-08-14,1st,BRM Taylor,69,,E Chigumbura,8,Zimbabwe,Bangladesh,216,Bangladesh,Queens Sports Club,4,Zimbabwe
+246,40.6,1,Mahbubul Alam,2009-08-14,1st,BRM Taylor,69,,E Chigumbura,9,Zimbabwe,Bangladesh,217,Bangladesh,Queens Sports Club,4,Zimbabwe
+247,41.1,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,69,,E Chigumbura,10,Zimbabwe,Bangladesh,218,Bangladesh,Queens Sports Club,4,Zimbabwe
+248,41.2,1,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,10,,BRM Taylor,70,Zimbabwe,Bangladesh,219,Bangladesh,Queens Sports Club,4,Zimbabwe
+249,41.3,6,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,70,,E Chigumbura,16,Zimbabwe,Bangladesh,225,Bangladesh,Queens Sports Club,4,Zimbabwe
+250,41.4,2,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,70,,E Chigumbura,18,Zimbabwe,Bangladesh,227,Bangladesh,Queens Sports Club,4,Zimbabwe
+251,41.5,1,Mehrab Hossain jnr,2009-08-14,1st,BRM Taylor,70,,E Chigumbura,19,Zimbabwe,Bangladesh,228,Bangladesh,Queens Sports Club,4,Zimbabwe
+252,41.6,0,Mehrab Hossain jnr,2009-08-14,1st,E Chigumbura,19,,BRM Taylor,70,Zimbabwe,Bangladesh,228,Bangladesh,Queens Sports Club,4,Zimbabwe
+253,42.1,0,Mahbubul Alam,2009-08-14,1st,BRM Taylor,70,,E Chigumbura,19,Zimbabwe,Bangladesh,228,Bangladesh,Queens Sports Club,4,Zimbabwe
+254,42.2,4,Mahbubul Alam,2009-08-14,1st,BRM Taylor,70,,E Chigumbura,23,Zimbabwe,Bangladesh,232,Bangladesh,Queens Sports Club,4,Zimbabwe
+255,42.3,4,Mahbubul Alam,2009-08-14,1st,BRM Taylor,70,,E Chigumbura,27,Zimbabwe,Bangladesh,236,Bangladesh,Queens Sports Club,4,Zimbabwe
+256,42.4,1,Mahbubul Alam,2009-08-14,1st,BRM Taylor,70,,E Chigumbura,28,Zimbabwe,Bangladesh,237,Bangladesh,Queens Sports Club,4,Zimbabwe
+257,42.5,3,Mahbubul Alam,2009-08-14,1st,E Chigumbura,28,,BRM Taylor,73,Zimbabwe,Bangladesh,240,Bangladesh,Queens Sports Club,4,Zimbabwe
+258,42.6,1,Mahbubul Alam,2009-08-14,1st,BRM Taylor,73,,E Chigumbura,29,Zimbabwe,Bangladesh,241,Bangladesh,Queens Sports Club,4,Zimbabwe
+259,43.1,1,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,73,,E Chigumbura,30,Zimbabwe,Bangladesh,242,Bangladesh,Queens Sports Club,4,Zimbabwe
+260,43.2,2,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,30,,BRM Taylor,75,Zimbabwe,Bangladesh,244,Bangladesh,Queens Sports Club,4,Zimbabwe
+261,43.3,6,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,30,,BRM Taylor,81,Zimbabwe,Bangladesh,250,Bangladesh,Queens Sports Club,4,Zimbabwe
+262,43.4,1,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,30,,BRM Taylor,82,Zimbabwe,Bangladesh,251,Bangladesh,Queens Sports Club,4,Zimbabwe
+263,43.5,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,82,,E Chigumbura,30,Zimbabwe,Bangladesh,251,Bangladesh,Queens Sports Club,4,Zimbabwe
+264,43.6,2,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,82,,E Chigumbura,32,Zimbabwe,Bangladesh,253,Bangladesh,Queens Sports Club,4,Zimbabwe
+265,44.1,1,Syed Rasel,2009-08-14,1st,E Chigumbura,32,,BRM Taylor,83,Zimbabwe,Bangladesh,254,Bangladesh,Queens Sports Club,4,Zimbabwe
+266,44.2,0,Syed Rasel,2009-08-14,1st,BRM Taylor,83,,E Chigumbura,32,Zimbabwe,Bangladesh,254,Bangladesh,Queens Sports Club,4,Zimbabwe
+267,44.3,0,Syed Rasel,2009-08-14,1st,BRM Taylor,83,,E Chigumbura,32,Zimbabwe,Bangladesh,254,Bangladesh,Queens Sports Club,4,Zimbabwe
+268,44.4,0,Syed Rasel,2009-08-14,1st,BRM Taylor,83,,E Chigumbura,32,Zimbabwe,Bangladesh,254,Bangladesh,Queens Sports Club,4,Zimbabwe
+269,44.5,0,Syed Rasel,2009-08-14,1st,BRM Taylor,83,,E Chigumbura,32,Zimbabwe,Bangladesh,255,Bangladesh,Queens Sports Club,4,Zimbabwe
+270,44.6,6,Syed Rasel,2009-08-14,1st,BRM Taylor,83,,E Chigumbura,38,Zimbabwe,Bangladesh,261,Bangladesh,Queens Sports Club,4,Zimbabwe
+271,44.7,6,Syed Rasel,2009-08-14,1st,BRM Taylor,83,,E Chigumbura,44,Zimbabwe,Bangladesh,267,Bangladesh,Queens Sports Club,4,Zimbabwe
+272,45.1,2,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,44,,BRM Taylor,85,Zimbabwe,Bangladesh,269,Bangladesh,Queens Sports Club,4,Zimbabwe
+273,45.2,1,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,44,,BRM Taylor,86,Zimbabwe,Bangladesh,270,Bangladesh,Queens Sports Club,4,Zimbabwe
+274,45.3,1,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,86,,E Chigumbura,45,Zimbabwe,Bangladesh,271,Bangladesh,Queens Sports Club,4,Zimbabwe
+275,45.4,1,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,45,,BRM Taylor,87,Zimbabwe,Bangladesh,272,Bangladesh,Queens Sports Club,4,Zimbabwe
+276,45.5,0,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,87,,E Chigumbura,45,Zimbabwe,Bangladesh,272,Bangladesh,Queens Sports Club,4,Zimbabwe
+277,45.6,6,Shakib Al Hasan,2009-08-14,1st,BRM Taylor,87,,E Chigumbura,51,Zimbabwe,Bangladesh,278,Bangladesh,Queens Sports Club,4,Zimbabwe
+278,46.1,0,Syed Rasel,2009-08-14,1st,E Chigumbura,51,,BRM Taylor,87,Zimbabwe,Bangladesh,278,Bangladesh,Queens Sports Club,4,Zimbabwe
+279,46.2,1,Syed Rasel,2009-08-14,1st,E Chigumbura,51,,BRM Taylor,88,Zimbabwe,Bangladesh,279,Bangladesh,Queens Sports Club,4,Zimbabwe
+280,46.3,1,Syed Rasel,2009-08-14,1st,BRM Taylor,88,,E Chigumbura,52,Zimbabwe,Bangladesh,280,Bangladesh,Queens Sports Club,4,Zimbabwe
+281,46.4,4,Syed Rasel,2009-08-14,1st,E Chigumbura,52,,BRM Taylor,92,Zimbabwe,Bangladesh,284,Bangladesh,Queens Sports Club,4,Zimbabwe
+282,46.5,1,Syed Rasel,2009-08-14,1st,E Chigumbura,52,,BRM Taylor,93,Zimbabwe,Bangladesh,285,Bangladesh,Queens Sports Club,4,Zimbabwe
+283,46.6,6,Syed Rasel,2009-08-14,1st,BRM Taylor,93,,E Chigumbura,58,Zimbabwe,Bangladesh,291,Bangladesh,Queens Sports Club,4,Zimbabwe
+284,47.1,0,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,58,,BRM Taylor,93,Zimbabwe,Bangladesh,291,Bangladesh,Queens Sports Club,4,Zimbabwe
+285,47.2,1,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,58,BRM Taylor,BRM Taylor,94,Zimbabwe,Bangladesh,292,Bangladesh,Queens Sports Club,5,Zimbabwe
+286,47.3,1,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,58,,S Matsikenyeri,1,Zimbabwe,Bangladesh,293,Bangladesh,Queens Sports Club,5,Zimbabwe
+287,47.4,1,Shakib Al Hasan,2009-08-14,1st,S Matsikenyeri,1,,E Chigumbura,59,Zimbabwe,Bangladesh,294,Bangladesh,Queens Sports Club,5,Zimbabwe
+288,47.5,1,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,59,,S Matsikenyeri,2,Zimbabwe,Bangladesh,295,Bangladesh,Queens Sports Club,5,Zimbabwe
+289,47.6,1,Shakib Al Hasan,2009-08-14,1st,S Matsikenyeri,2,,E Chigumbura,60,Zimbabwe,Bangladesh,296,Bangladesh,Queens Sports Club,5,Zimbabwe
+290,48.1,1,Mahbubul Alam,2009-08-14,1st,S Matsikenyeri,2,,E Chigumbura,61,Zimbabwe,Bangladesh,297,Bangladesh,Queens Sports Club,5,Zimbabwe
+291,48.2,6,Mahbubul Alam,2009-08-14,1st,E Chigumbura,61,,S Matsikenyeri,8,Zimbabwe,Bangladesh,303,Bangladesh,Queens Sports Club,5,Zimbabwe
+292,48.3,2,Mahbubul Alam,2009-08-14,1st,E Chigumbura,61,,S Matsikenyeri,10,Zimbabwe,Bangladesh,305,Bangladesh,Queens Sports Club,5,Zimbabwe
+293,48.4,2,Mahbubul Alam,2009-08-14,1st,E Chigumbura,61,,S Matsikenyeri,12,Zimbabwe,Bangladesh,307,Bangladesh,Queens Sports Club,5,Zimbabwe
+294,48.5,4,Mahbubul Alam,2009-08-14,1st,E Chigumbura,61,,S Matsikenyeri,16,Zimbabwe,Bangladesh,311,Bangladesh,Queens Sports Club,5,Zimbabwe
+295,48.6,0,Mahbubul Alam,2009-08-14,1st,E Chigumbura,61,,S Matsikenyeri,16,Zimbabwe,Bangladesh,312,Bangladesh,Queens Sports Club,5,Zimbabwe
+296,48.7,1,Mahbubul Alam,2009-08-14,1st,E Chigumbura,61,,S Matsikenyeri,17,Zimbabwe,Bangladesh,313,Bangladesh,Queens Sports Club,5,Zimbabwe
+297,49.1,6,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,61,,S Matsikenyeri,23,Zimbabwe,Bangladesh,319,Bangladesh,Queens Sports Club,5,Zimbabwe
+298,49.2,0,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,61,S Matsikenyeri,S Matsikenyeri,23,Zimbabwe,Bangladesh,319,Bangladesh,Queens Sports Club,6,Zimbabwe
+299,49.3,0,Shakib Al Hasan,2009-08-14,1st,MN Waller,0,,E Chigumbura,61,Zimbabwe,Bangladesh,320,Bangladesh,Queens Sports Club,6,Zimbabwe
+300,49.4,2,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,61,,MN Waller,2,Zimbabwe,Bangladesh,322,Bangladesh,Queens Sports Club,6,Zimbabwe
+301,49.5,0,Shakib Al Hasan,2009-08-14,1st,E Chigumbura,61,MN Waller,MN Waller,2,Zimbabwe,Bangladesh,322,Bangladesh,Queens Sports Club,7,Zimbabwe
+302,49.6,0,Shakib Al Hasan,2009-08-14,1st,P Utseya,0,,E Chigumbura,61,Zimbabwe,Bangladesh,323,Bangladesh,Queens Sports Club,7,Zimbabwe
+303,0.1,0,T Mupariwa,2009-08-14,2nd,Naeem Islam,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,0,Bangladesh,Queens Sports Club,1,Zimbabwe
+304,0.2,4,T Mupariwa,2009-08-14,2nd,Naeem Islam,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,4,Bangladesh,Queens Sports Club,1,Zimbabwe
+305,0.3,0,T Mupariwa,2009-08-14,2nd,Naeem Islam,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,4,Bangladesh,Queens Sports Club,1,Zimbabwe
+306,0.4,0,T Mupariwa,2009-08-14,2nd,Naeem Islam,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,4,Bangladesh,Queens Sports Club,1,Zimbabwe
+307,0.5,0,T Mupariwa,2009-08-14,2nd,Naeem Islam,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,4,Bangladesh,Queens Sports Club,1,Zimbabwe
+308,0.6,0,T Mupariwa,2009-08-14,2nd,Naeem Islam,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,4,Bangladesh,Queens Sports Club,1,Zimbabwe
+309,1.1,0,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Naeem Islam,0,Zimbabwe,Bangladesh,4,Bangladesh,Queens Sports Club,1,Zimbabwe
+310,1.2,4,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Naeem Islam,0,Zimbabwe,Bangladesh,8,Bangladesh,Queens Sports Club,1,Zimbabwe
+311,1.3,0,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Naeem Islam,0,Zimbabwe,Bangladesh,8,Bangladesh,Queens Sports Club,2,Zimbabwe
+312,1.4,2,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,10,Bangladesh,Queens Sports Club,2,Zimbabwe
+313,1.5,0,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,10,Bangladesh,Queens Sports Club,2,Zimbabwe
+314,1.6,0,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,10,Bangladesh,Queens Sports Club,2,Zimbabwe
+315,2.1,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,10,Bangladesh,Queens Sports Club,2,Zimbabwe
+316,2.2,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,10,Bangladesh,Queens Sports Club,2,Zimbabwe
+317,2.3,2,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,2,Zimbabwe
+318,2.4,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,2,Zimbabwe
+319,2.5,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,2,Zimbabwe
+320,2.6,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,12,Bangladesh,Queens Sports Club,2,Zimbabwe
+321,3.1,1,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,13,Bangladesh,Queens Sports Club,2,Zimbabwe
+322,3.2,2,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,15,Bangladesh,Queens Sports Club,2,Zimbabwe
+323,3.3,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,15,Bangladesh,Queens Sports Club,2,Zimbabwe
+324,3.4,1,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,16,Bangladesh,Queens Sports Club,2,Zimbabwe
+325,3.5,0,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,16,Bangladesh,Queens Sports Club,2,Zimbabwe
+326,3.6,0,E Chigumbura,2009-08-14,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,16,Bangladesh,Queens Sports Club,2,Zimbabwe
+327,4.1,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Zimbabwe,Bangladesh,16,Bangladesh,Queens Sports Club,3,Zimbabwe
+328,4.2,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,16,Bangladesh,Queens Sports Club,3,Zimbabwe
+329,4.3,1,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,17,Bangladesh,Queens Sports Club,3,Zimbabwe
+330,4.4,0,T Mupariwa,2009-08-14,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,18,Bangladesh,Queens Sports Club,3,Zimbabwe
+331,4.5,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,18,Bangladesh,Queens Sports Club,3,Zimbabwe
+332,4.6,4,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,22,Bangladesh,Queens Sports Club,3,Zimbabwe
+333,5.1,0,E Chigumbura,2009-08-14,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,22,Bangladesh,Queens Sports Club,3,Zimbabwe
+334,5.2,1,E Chigumbura,2009-08-14,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,23,Bangladesh,Queens Sports Club,3,Zimbabwe
+335,5.3,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,23,Bangladesh,Queens Sports Club,3,Zimbabwe
+336,5.4,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,24,Bangladesh,Queens Sports Club,3,Zimbabwe
+337,5.5,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,24,Bangladesh,Queens Sports Club,3,Zimbabwe
+338,5.6,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,24,Bangladesh,Queens Sports Club,3,Zimbabwe
+339,5.7,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,24,Bangladesh,Queens Sports Club,3,Zimbabwe
+340,6.1,0,T Mupariwa,2009-08-14,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,24,Bangladesh,Queens Sports Club,3,Zimbabwe
+341,6.2,1,T Mupariwa,2009-08-14,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,25,Bangladesh,Queens Sports Club,3,Zimbabwe
+342,6.3,2,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,27,Bangladesh,Queens Sports Club,3,Zimbabwe
+343,6.4,2,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,29,Bangladesh,Queens Sports Club,3,Zimbabwe
+344,6.5,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,29,Bangladesh,Queens Sports Club,3,Zimbabwe
+345,6.6,1,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,30,Bangladesh,Queens Sports Club,3,Zimbabwe
+346,7.1,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,31,Bangladesh,Queens Sports Club,3,Zimbabwe
+347,7.2,1,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,32,Bangladesh,Queens Sports Club,3,Zimbabwe
+348,7.3,1,E Chigumbura,2009-08-14,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,33,Bangladesh,Queens Sports Club,3,Zimbabwe
+349,7.4,6,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,39,Bangladesh,Queens Sports Club,3,Zimbabwe
+350,7.5,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,39,Bangladesh,Queens Sports Club,4,Zimbabwe
+351,7.6,1,E Chigumbura,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,40,Bangladesh,Queens Sports Club,4,Zimbabwe
+352,7.7,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,40,Bangladesh,Queens Sports Club,4,Zimbabwe
+353,8.1,0,T Mupariwa,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,40,Bangladesh,Queens Sports Club,4,Zimbabwe
+354,8.2,1,T Mupariwa,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,41,Bangladesh,Queens Sports Club,4,Zimbabwe
+355,8.3,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,41,Bangladesh,Queens Sports Club,4,Zimbabwe
+356,8.4,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,41,Bangladesh,Queens Sports Club,4,Zimbabwe
+357,8.5,4,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,45,Bangladesh,Queens Sports Club,4,Zimbabwe
+358,8.6,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,45,Bangladesh,Queens Sports Club,4,Zimbabwe
+359,9.1,1,E Chigumbura,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,46,Bangladesh,Queens Sports Club,4,Zimbabwe
+360,9.2,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,46,Bangladesh,Queens Sports Club,4,Zimbabwe
+361,9.3,1,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,47,Bangladesh,Queens Sports Club,4,Zimbabwe
+362,9.4,1,E Chigumbura,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,48,Bangladesh,Queens Sports Club,4,Zimbabwe
+363,9.5,1,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,49,Bangladesh,Queens Sports Club,4,Zimbabwe
+364,9.6,1,E Chigumbura,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,50,Bangladesh,Queens Sports Club,4,Zimbabwe
+365,10.1,0,T Mupariwa,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,50,Bangladesh,Queens Sports Club,4,Zimbabwe
+366,10.2,1,T Mupariwa,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,51,Bangladesh,Queens Sports Club,4,Zimbabwe
+367,10.3,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,51,Bangladesh,Queens Sports Club,4,Zimbabwe
+368,10.4,1,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,52,Bangladesh,Queens Sports Club,4,Zimbabwe
+369,10.5,1,T Mupariwa,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,53,Bangladesh,Queens Sports Club,4,Zimbabwe
+370,10.6,0,T Mupariwa,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,53,Bangladesh,Queens Sports Club,4,Zimbabwe
+371,11.1,1,E Chigumbura,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,54,Bangladesh,Queens Sports Club,4,Zimbabwe
+372,11.2,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,54,Bangladesh,Queens Sports Club,4,Zimbabwe
+373,11.3,3,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,57,Bangladesh,Queens Sports Club,4,Zimbabwe
+374,11.4,1,E Chigumbura,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,58,Bangladesh,Queens Sports Club,4,Zimbabwe
+375,11.5,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,58,Bangladesh,Queens Sports Club,4,Zimbabwe
+376,11.6,0,E Chigumbura,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,58,Bangladesh,Queens Sports Club,4,Zimbabwe
+377,12.1,1,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,59,Bangladesh,Queens Sports Club,4,Zimbabwe
+378,12.2,0,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,59,Bangladesh,Queens Sports Club,4,Zimbabwe
+379,12.3,6,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,65,Bangladesh,Queens Sports Club,4,Zimbabwe
+380,12.4,1,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,66,Bangladesh,Queens Sports Club,4,Zimbabwe
+381,12.5,0,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,67,Bangladesh,Queens Sports Club,4,Zimbabwe
+382,12.6,0,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,67,Bangladesh,Queens Sports Club,4,Zimbabwe
+383,12.7,1,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,68,Bangladesh,Queens Sports Club,4,Zimbabwe
+384,13.1,0,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,68,Bangladesh,Queens Sports Club,4,Zimbabwe
+385,13.2,1,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,69,Bangladesh,Queens Sports Club,4,Zimbabwe
+386,13.3,1,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,70,Bangladesh,Queens Sports Club,4,Zimbabwe
+387,13.4,1,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,71,Bangladesh,Queens Sports Club,4,Zimbabwe
+388,13.5,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,71,Bangladesh,Queens Sports Club,4,Zimbabwe
+389,13.6,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,71,Bangladesh,Queens Sports Club,4,Zimbabwe
+390,14.1,4,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,75,Bangladesh,Queens Sports Club,4,Zimbabwe
+391,14.2,0,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,76,Bangladesh,Queens Sports Club,4,Zimbabwe
+392,14.3,0,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,76,Bangladesh,Queens Sports Club,4,Zimbabwe
+393,14.4,0,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,76,Bangladesh,Queens Sports Club,4,Zimbabwe
+394,14.5,1,H Masakadza,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,77,Bangladesh,Queens Sports Club,4,Zimbabwe
+395,14.6,4,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,81,Bangladesh,Queens Sports Club,4,Zimbabwe
+396,14.7,1,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,82,Bangladesh,Queens Sports Club,4,Zimbabwe
+397,15.1,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,83,Bangladesh,Queens Sports Club,4,Zimbabwe
+398,15.2,1,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,84,Bangladesh,Queens Sports Club,4,Zimbabwe
+399,15.3,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,85,Bangladesh,Queens Sports Club,4,Zimbabwe
+400,15.4,0,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,85,Bangladesh,Queens Sports Club,4,Zimbabwe
+401,15.5,1,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,86,Bangladesh,Queens Sports Club,4,Zimbabwe
+402,15.6,2,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,88,Bangladesh,Queens Sports Club,4,Zimbabwe
+403,16.1,1,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,89,Bangladesh,Queens Sports Club,4,Zimbabwe
+404,16.2,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,89,Bangladesh,Queens Sports Club,4,Zimbabwe
+405,16.3,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,89,Bangladesh,Queens Sports Club,4,Zimbabwe
+406,16.4,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,89,Bangladesh,Queens Sports Club,4,Zimbabwe
+407,16.5,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,89,Bangladesh,Queens Sports Club,4,Zimbabwe
+408,16.6,1,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,90,Bangladesh,Queens Sports Club,4,Zimbabwe
+409,17.1,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,91,Bangladesh,Queens Sports Club,4,Zimbabwe
+410,17.2,1,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,92,Bangladesh,Queens Sports Club,4,Zimbabwe
+411,17.3,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,93,Bangladesh,Queens Sports Club,4,Zimbabwe
+412,17.4,0,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,93,Bangladesh,Queens Sports Club,4,Zimbabwe
+413,17.5,4,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,97,Bangladesh,Queens Sports Club,4,Zimbabwe
+414,17.6,0,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,97,Bangladesh,Queens Sports Club,4,Zimbabwe
+415,18.1,1,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,98,Bangladesh,Queens Sports Club,4,Zimbabwe
+416,18.2,1,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,99,Bangladesh,Queens Sports Club,4,Zimbabwe
+417,18.3,1,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,100,Bangladesh,Queens Sports Club,4,Zimbabwe
+418,18.4,0,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,100,Bangladesh,Queens Sports Club,4,Zimbabwe
+419,18.5,1,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,101,Bangladesh,Queens Sports Club,4,Zimbabwe
+420,18.6,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,101,Bangladesh,Queens Sports Club,4,Zimbabwe
+421,19.1,0,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,101,Bangladesh,Queens Sports Club,4,Zimbabwe
+422,19.2,2,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,103,Bangladesh,Queens Sports Club,4,Zimbabwe
+423,19.3,2,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,105,Bangladesh,Queens Sports Club,4,Zimbabwe
+424,19.4,0,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,105,Bangladesh,Queens Sports Club,4,Zimbabwe
+425,19.5,0,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,105,Bangladesh,Queens Sports Club,4,Zimbabwe
+426,19.6,0,MN Waller,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,105,Bangladesh,Queens Sports Club,4,Zimbabwe
+427,20.1,1,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,106,Bangladesh,Queens Sports Club,4,Zimbabwe
+428,20.2,1,RW Price,2009-08-14,2nd,Mushfiqur Rahim,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,107,Bangladesh,Queens Sports Club,4,Zimbabwe
+429,20.3,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,107,Bangladesh,Queens Sports Club,4,Zimbabwe
+430,20.4,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,107,Bangladesh,Queens Sports Club,5,Zimbabwe
+431,20.5,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,107,Bangladesh,Queens Sports Club,5,Zimbabwe
+432,20.6,1,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,108,Bangladesh,Queens Sports Club,5,Zimbabwe
+433,21.1,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,109,Bangladesh,Queens Sports Club,5,Zimbabwe
+434,21.2,0,MN Waller,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,109,Bangladesh,Queens Sports Club,5,Zimbabwe
+435,21.3,1,MN Waller,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,110,Bangladesh,Queens Sports Club,5,Zimbabwe
+436,21.4,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,111,Bangladesh,Queens Sports Club,5,Zimbabwe
+437,21.5,1,MN Waller,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,112,Bangladesh,Queens Sports Club,5,Zimbabwe
+438,21.6,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,113,Bangladesh,Queens Sports Club,5,Zimbabwe
+439,22.1,1,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,114,Bangladesh,Queens Sports Club,5,Zimbabwe
+440,22.2,1,RW Price,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,115,Bangladesh,Queens Sports Club,5,Zimbabwe
+441,22.3,2,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,117,Bangladesh,Queens Sports Club,5,Zimbabwe
+442,22.4,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,117,Bangladesh,Queens Sports Club,5,Zimbabwe
+443,22.5,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,117,Bangladesh,Queens Sports Club,5,Zimbabwe
+444,22.6,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,117,Bangladesh,Queens Sports Club,5,Zimbabwe
+445,23.1,0,P Utseya,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,117,Bangladesh,Queens Sports Club,5,Zimbabwe
+446,23.2,1,P Utseya,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,118,Bangladesh,Queens Sports Club,5,Zimbabwe
+447,23.3,0,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,118,Bangladesh,Queens Sports Club,5,Zimbabwe
+448,23.4,0,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,118,Bangladesh,Queens Sports Club,5,Zimbabwe
+449,23.5,1,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,119,Bangladesh,Queens Sports Club,5,Zimbabwe
+450,23.6,1,P Utseya,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,120,Bangladesh,Queens Sports Club,5,Zimbabwe
+451,24.1,0,RW Price,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,120,Bangladesh,Queens Sports Club,5,Zimbabwe
+452,24.2,0,RW Price,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,120,Bangladesh,Queens Sports Club,5,Zimbabwe
+453,24.3,0,RW Price,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,120,Bangladesh,Queens Sports Club,5,Zimbabwe
+454,24.4,2,RW Price,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,122,Bangladesh,Queens Sports Club,5,Zimbabwe
+455,24.5,0,RW Price,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,122,Bangladesh,Queens Sports Club,5,Zimbabwe
+456,24.6,2,RW Price,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,124,Bangladesh,Queens Sports Club,5,Zimbabwe
+457,25.1,3,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,127,Bangladesh,Queens Sports Club,5,Zimbabwe
+458,25.2,0,P Utseya,2009-08-14,2nd,Mahmudullah,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,128,Bangladesh,Queens Sports Club,5,Zimbabwe
+459,25.3,0,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,128,Bangladesh,Queens Sports Club,5,Zimbabwe
+460,25.4,2,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,130,Bangladesh,Queens Sports Club,5,Zimbabwe
+461,25.5,0,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,130,Bangladesh,Queens Sports Club,5,Zimbabwe
+462,25.6,1,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,131,Bangladesh,Queens Sports Club,5,Zimbabwe
+463,26.1,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mahmudullah,0,Zimbabwe,Bangladesh,131,Bangladesh,Queens Sports Club,6,Zimbabwe
+464,26.2,4,RW Price,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,135,Bangladesh,Queens Sports Club,6,Zimbabwe
+465,26.3,1,RW Price,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,136,Bangladesh,Queens Sports Club,6,Zimbabwe
+466,26.4,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,136,Bangladesh,Queens Sports Club,6,Zimbabwe
+467,26.5,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,136,Bangladesh,Queens Sports Club,6,Zimbabwe
+468,26.6,0,RW Price,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,136,Bangladesh,Queens Sports Club,6,Zimbabwe
+469,27.1,1,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,137,Bangladesh,Queens Sports Club,6,Zimbabwe
+470,27.2,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,138,Bangladesh,Queens Sports Club,6,Zimbabwe
+471,27.3,1,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,139,Bangladesh,Queens Sports Club,6,Zimbabwe
+472,27.4,0,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,139,Bangladesh,Queens Sports Club,6,Zimbabwe
+473,27.5,0,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,139,Bangladesh,Queens Sports Club,6,Zimbabwe
+474,27.6,0,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,139,Bangladesh,Queens Sports Club,6,Zimbabwe
+475,28.1,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,139,Bangladesh,Queens Sports Club,6,Zimbabwe
+476,28.2,4,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,143,Bangladesh,Queens Sports Club,6,Zimbabwe
+477,28.3,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,143,Bangladesh,Queens Sports Club,6,Zimbabwe
+478,28.4,6,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,149,Bangladesh,Queens Sports Club,6,Zimbabwe
+479,28.5,1,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,150,Bangladesh,Queens Sports Club,6,Zimbabwe
+480,28.6,0,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,151,Bangladesh,Queens Sports Club,6,Zimbabwe
+481,28.7,2,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,153,Bangladesh,Queens Sports Club,6,Zimbabwe
+482,29.1,1,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,154,Bangladesh,Queens Sports Club,6,Zimbabwe
+483,29.2,2,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,156,Bangladesh,Queens Sports Club,6,Zimbabwe
+484,29.3,0,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,156,Bangladesh,Queens Sports Club,6,Zimbabwe
+485,29.4,1,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,157,Bangladesh,Queens Sports Club,6,Zimbabwe
+486,29.5,1,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,158,Bangladesh,Queens Sports Club,6,Zimbabwe
+487,29.6,0,MN Waller,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,158,Bangladesh,Queens Sports Club,6,Zimbabwe
+488,30.1,6,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,164,Bangladesh,Queens Sports Club,6,Zimbabwe
+489,30.2,1,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,165,Bangladesh,Queens Sports Club,6,Zimbabwe
+490,30.3,0,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,165,Bangladesh,Queens Sports Club,6,Zimbabwe
+491,30.4,1,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,166,Bangladesh,Queens Sports Club,6,Zimbabwe
+492,30.5,0,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,167,Bangladesh,Queens Sports Club,6,Zimbabwe
+493,30.6,1,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,168,Bangladesh,Queens Sports Club,6,Zimbabwe
+494,30.7,1,H Masakadza,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,169,Bangladesh,Queens Sports Club,6,Zimbabwe
+495,31.1,1,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,170,Bangladesh,Queens Sports Club,6,Zimbabwe
+496,31.2,1,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,171,Bangladesh,Queens Sports Club,6,Zimbabwe
+497,31.3,1,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,172,Bangladesh,Queens Sports Club,6,Zimbabwe
+498,31.4,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,172,Bangladesh,Queens Sports Club,6,Zimbabwe
+499,31.5,1,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,173,Bangladesh,Queens Sports Club,6,Zimbabwe
+500,31.6,0,P Utseya,2009-08-14,2nd,Raqibul Hasan,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,173,Bangladesh,Queens Sports Club,6,Zimbabwe
+501,32.1,0,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Raqibul Hasan,0,Zimbabwe,Bangladesh,173,Bangladesh,Queens Sports Club,7,Zimbabwe
+502,32.2,4,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,177,Bangladesh,Queens Sports Club,7,Zimbabwe
+503,32.3,0,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,177,Bangladesh,Queens Sports Club,7,Zimbabwe
+504,32.4,1,H Masakadza,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,178,Bangladesh,Queens Sports Club,7,Zimbabwe
+505,32.5,0,H Masakadza,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,180,Bangladesh,Queens Sports Club,7,Zimbabwe
+506,32.6,0,H Masakadza,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,180,Bangladesh,Queens Sports Club,7,Zimbabwe
+507,33.1,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,180,Bangladesh,Queens Sports Club,7,Zimbabwe
+508,33.2,1,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,181,Bangladesh,Queens Sports Club,7,Zimbabwe
+509,33.3,1,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,182,Bangladesh,Queens Sports Club,7,Zimbabwe
+510,33.4,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,182,Bangladesh,Queens Sports Club,7,Zimbabwe
+511,33.5,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,182,Bangladesh,Queens Sports Club,7,Zimbabwe
+512,33.6,1,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,183,Bangladesh,Queens Sports Club,7,Zimbabwe
+513,34.1,0,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,183,Bangladesh,Queens Sports Club,7,Zimbabwe
+514,34.2,0,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,183,Bangladesh,Queens Sports Club,7,Zimbabwe
+515,34.3,1,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,184,Bangladesh,Queens Sports Club,7,Zimbabwe
+516,34.4,0,MN Waller,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,184,Bangladesh,Queens Sports Club,7,Zimbabwe
+517,34.5,1,MN Waller,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,185,Bangladesh,Queens Sports Club,7,Zimbabwe
+518,34.6,0,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,185,Bangladesh,Queens Sports Club,7,Zimbabwe
+519,35.1,1,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,186,Bangladesh,Queens Sports Club,7,Zimbabwe
+520,35.2,1,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,187,Bangladesh,Queens Sports Club,7,Zimbabwe
+521,35.3,0,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,187,Bangladesh,Queens Sports Club,7,Zimbabwe
+522,35.4,1,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,188,Bangladesh,Queens Sports Club,7,Zimbabwe
+523,35.5,2,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,190,Bangladesh,Queens Sports Club,7,Zimbabwe
+524,35.6,2,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,192,Bangladesh,Queens Sports Club,7,Zimbabwe
+525,36.1,1,MN Waller,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,193,Bangladesh,Queens Sports Club,7,Zimbabwe
+526,36.2,0,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,193,Bangladesh,Queens Sports Club,7,Zimbabwe
+527,36.3,2,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,195,Bangladesh,Queens Sports Club,7,Zimbabwe
+528,36.4,6,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,201,Bangladesh,Queens Sports Club,7,Zimbabwe
+529,36.5,6,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,207,Bangladesh,Queens Sports Club,7,Zimbabwe
+530,36.6,6,MN Waller,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,213,Bangladesh,Queens Sports Club,7,Zimbabwe
+531,37.1,1,RW Price,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,214,Bangladesh,Queens Sports Club,7,Zimbabwe
+532,37.2,0,RW Price,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,215,Bangladesh,Queens Sports Club,7,Zimbabwe
+533,37.3,0,RW Price,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,215,Bangladesh,Queens Sports Club,7,Zimbabwe
+534,37.4,0,RW Price,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,215,Bangladesh,Queens Sports Club,7,Zimbabwe
+535,37.5,2,RW Price,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,217,Bangladesh,Queens Sports Club,7,Zimbabwe
+536,37.6,1,RW Price,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,218,Bangladesh,Queens Sports Club,7,Zimbabwe
+537,37.7,0,RW Price,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,218,Bangladesh,Queens Sports Club,7,Zimbabwe
+538,38.1,1,E Chigumbura,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,219,Bangladesh,Queens Sports Club,7,Zimbabwe
+539,38.2,1,E Chigumbura,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,220,Bangladesh,Queens Sports Club,7,Zimbabwe
+540,38.3,1,E Chigumbura,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,221,Bangladesh,Queens Sports Club,7,Zimbabwe
+541,38.4,1,E Chigumbura,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,222,Bangladesh,Queens Sports Club,7,Zimbabwe
+542,38.5,3,E Chigumbura,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,225,Bangladesh,Queens Sports Club,7,Zimbabwe
+543,38.6,0,E Chigumbura,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,225,Bangladesh,Queens Sports Club,7,Zimbabwe
+544,39.1,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,225,Bangladesh,Queens Sports Club,7,Zimbabwe
+545,39.2,0,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,225,Bangladesh,Queens Sports Club,7,Zimbabwe
+546,39.3,1,P Utseya,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,226,Bangladesh,Queens Sports Club,7,Zimbabwe
+547,39.4,0,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,226,Bangladesh,Queens Sports Club,7,Zimbabwe
+548,39.5,0,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,226,Bangladesh,Queens Sports Club,7,Zimbabwe
+549,39.6,1,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,227,Bangladesh,Queens Sports Club,7,Zimbabwe
+550,40.1,1,E Chigumbura,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,228,Bangladesh,Queens Sports Club,7,Zimbabwe
+551,40.2,0,E Chigumbura,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,228,Bangladesh,Queens Sports Club,7,Zimbabwe
+552,40.3,2,E Chigumbura,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,230,Bangladesh,Queens Sports Club,7,Zimbabwe
+553,40.4,2,E Chigumbura,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,232,Bangladesh,Queens Sports Club,7,Zimbabwe
+554,40.5,1,E Chigumbura,2009-08-14,2nd,Mehrab Hossain jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,233,Bangladesh,Queens Sports Club,7,Zimbabwe
+555,40.6,1,E Chigumbura,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,234,Bangladesh,Queens Sports Club,7,Zimbabwe
+556,41.1,4,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,238,Bangladesh,Queens Sports Club,7,Zimbabwe
+557,41.2,0,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,238,Bangladesh,Queens Sports Club,7,Zimbabwe
+558,41.3,0,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Mehrab Hossain jnr,0,Zimbabwe,Bangladesh,238,Bangladesh,Queens Sports Club,8,Zimbabwe
+559,41.4,0,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Enamul Haque jnr,0,Zimbabwe,Bangladesh,238,Bangladesh,Queens Sports Club,8,Zimbabwe
+560,41.5,1,P Utseya,2009-08-14,2nd,Mahbubul Alam,0,,Enamul Haque jnr,0,Zimbabwe,Bangladesh,239,Bangladesh,Queens Sports Club,8,Zimbabwe
+561,41.6,4,P Utseya,2009-08-14,2nd,Enamul Haque jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,243,Bangladesh,Queens Sports Club,8,Zimbabwe
+562,42.1,1,T Mupariwa,2009-08-14,2nd,Mahbubul Alam,0,,Enamul Haque jnr,0,Zimbabwe,Bangladesh,244,Bangladesh,Queens Sports Club,8,Zimbabwe
+563,42.2,1,T Mupariwa,2009-08-14,2nd,Enamul Haque jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,245,Bangladesh,Queens Sports Club,8,Zimbabwe
+564,42.3,0,T Mupariwa,2009-08-14,2nd,Mahbubul Alam,0,,Enamul Haque jnr,0,Zimbabwe,Bangladesh,245,Bangladesh,Queens Sports Club,8,Zimbabwe
+565,42.4,1,T Mupariwa,2009-08-14,2nd,Mahbubul Alam,0,,Enamul Haque jnr,0,Zimbabwe,Bangladesh,246,Bangladesh,Queens Sports Club,8,Zimbabwe
+566,42.5,0,T Mupariwa,2009-08-14,2nd,Enamul Haque jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,246,Bangladesh,Queens Sports Club,8,Zimbabwe
+567,42.6,2,T Mupariwa,2009-08-14,2nd,Enamul Haque jnr,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,248,Bangladesh,Queens Sports Club,8,Zimbabwe
+568,43.1,0,RW Price,2009-08-14,2nd,Mahbubul Alam,0,,Enamul Haque jnr,0,Zimbabwe,Bangladesh,248,Bangladesh,Queens Sports Club,9,Zimbabwe
+569,43.2,0,RW Price,2009-08-14,2nd,Mahbubul Alam,0,,Syed Rasel,0,Zimbabwe,Bangladesh,248,Bangladesh,Queens Sports Club,9,Zimbabwe
+570,43.3,1,RW Price,2009-08-14,2nd,Mahbubul Alam,0,,Syed Rasel,0,Zimbabwe,Bangladesh,249,Bangladesh,Queens Sports Club,9,Zimbabwe
+571,43.4,2,RW Price,2009-08-14,2nd,Syed Rasel,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,251,Bangladesh,Queens Sports Club,9,Zimbabwe
+572,43.5,0,RW Price,2009-08-14,2nd,Syed Rasel,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,251,Bangladesh,Queens Sports Club,9,Zimbabwe
+573,43.6,1,RW Price,2009-08-14,2nd,Syed Rasel,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,252,Bangladesh,Queens Sports Club,9,Zimbabwe
+574,44.1,2,T Mupariwa,2009-08-14,2nd,Syed Rasel,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,254,Bangladesh,Queens Sports Club,9,Zimbabwe
+575,44.2,0,T Mupariwa,2009-08-14,2nd,Syed Rasel,0,,Mahbubul Alam,0,Zimbabwe,Bangladesh,254,Bangladesh,Queens Sports Club,10,Zimbabwe

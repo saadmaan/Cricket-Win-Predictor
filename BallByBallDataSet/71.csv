@@ -1,0 +1,576 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mashrafe Mortaza,2007-04-19,1st,DS Smith,0,,CH Gayle,0,West Indies,Bangladesh,0,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+1,0.2,1,Mashrafe Mortaza,2007-04-19,1st,DS Smith,0,,CH Gayle,1,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+2,0.3,1,Mashrafe Mortaza,2007-04-19,1st,CH Gayle,1,,DS Smith,1,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+3,0.4,0,Mashrafe Mortaza,2007-04-19,1st,DS Smith,1,,CH Gayle,1,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+4,0.5,0,Mashrafe Mortaza,2007-04-19,1st,DS Smith,1,,CH Gayle,1,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+5,0.6,0,Mashrafe Mortaza,2007-04-19,1st,DS Smith,1,,CH Gayle,1,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+6,1.1,0,Syed Rasel,2007-04-19,1st,CH Gayle,1,,DS Smith,1,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+7,1.2,0,Syed Rasel,2007-04-19,1st,CH Gayle,1,,DS Smith,1,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+8,1.3,0,Syed Rasel,2007-04-19,1st,CH Gayle,1,,DS Smith,1,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+9,1.4,2,Syed Rasel,2007-04-19,1st,CH Gayle,1,,DS Smith,3,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+10,1.5,0,Syed Rasel,2007-04-19,1st,CH Gayle,1,,DS Smith,3,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+11,1.6,0,Syed Rasel,2007-04-19,1st,CH Gayle,1,,DS Smith,3,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+12,2.1,0,Mashrafe Mortaza,2007-04-19,1st,DS Smith,3,,CH Gayle,1,West Indies,Bangladesh,5,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+13,2.2,0,Mashrafe Mortaza,2007-04-19,1st,DS Smith,3,,CH Gayle,1,West Indies,Bangladesh,6,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+14,2.3,0,Mashrafe Mortaza,2007-04-19,1st,CH Gayle,1,,DS Smith,3,West Indies,Bangladesh,6,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+15,2.4,0,Mashrafe Mortaza,2007-04-19,1st,CH Gayle,1,,DS Smith,3,West Indies,Bangladesh,6,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+16,2.5,2,Mashrafe Mortaza,2007-04-19,1st,CH Gayle,1,,DS Smith,5,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+17,2.6,0,Mashrafe Mortaza,2007-04-19,1st,CH Gayle,1,,DS Smith,5,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+18,2.7,0,Mashrafe Mortaza,2007-04-19,1st,CH Gayle,1,DS Smith,DS Smith,5,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+19,3.1,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,0,,CH Gayle,1,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+20,3.2,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,0,,CH Gayle,1,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+21,3.3,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,0,,CH Gayle,1,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+22,3.4,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,0,,CH Gayle,1,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+23,3.5,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,0,CH Gayle,CH Gayle,1,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+24,3.6,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,0,,MN Samuels,0,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+25,4.1,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,0,,S Chanderpaul,0,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+26,4.2,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,0,,S Chanderpaul,0,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+27,4.3,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,0,,S Chanderpaul,0,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+28,4.4,2,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,0,,S Chanderpaul,2,West Indies,Bangladesh,10,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+29,4.5,4,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,0,,S Chanderpaul,6,West Indies,Bangladesh,14,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+30,4.6,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,0,,S Chanderpaul,6,West Indies,Bangladesh,14,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+31,5.1,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,0,West Indies,Bangladesh,14,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+32,5.2,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,0,West Indies,Bangladesh,14,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+33,5.3,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,0,West Indies,Bangladesh,14,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+34,5.4,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,0,West Indies,Bangladesh,14,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+35,5.5,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,0,West Indies,Bangladesh,14,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+36,5.6,1,Syed Rasel,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,1,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+37,6.1,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,1,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+38,6.2,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,1,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+39,6.3,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,1,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+40,6.4,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,1,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+41,6.5,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,1,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+42,6.6,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,6,,MN Samuels,1,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+43,7.1,0,Syed Rasel,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,6,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+44,7.2,1,Syed Rasel,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,7,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+45,7.3,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,1,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+46,7.4,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,1,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+47,7.5,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,1,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+48,7.6,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,1,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+49,8.1,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,7,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+50,8.2,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,7,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+51,8.3,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,7,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+52,8.4,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,7,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+53,8.5,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,7,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+54,8.6,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,1,,S Chanderpaul,7,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+55,9.1,1,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,2,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+56,9.2,0,Syed Rasel,2007-04-19,1st,MN Samuels,2,,S Chanderpaul,7,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+57,9.3,0,Syed Rasel,2007-04-19,1st,MN Samuels,2,,S Chanderpaul,7,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+58,9.4,0,Syed Rasel,2007-04-19,1st,MN Samuels,2,,S Chanderpaul,7,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+59,9.5,0,Syed Rasel,2007-04-19,1st,MN Samuels,2,,S Chanderpaul,7,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+60,9.6,0,Syed Rasel,2007-04-19,1st,MN Samuels,2,,S Chanderpaul,7,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+61,10.1,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,2,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+62,10.2,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,2,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+63,10.3,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,2,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+64,10.4,0,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,2,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+65,10.5,1,Mashrafe Mortaza,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+66,10.6,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+67,11.1,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+68,11.2,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+69,11.3,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+70,11.4,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+71,11.5,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+72,11.6,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+73,12.1,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+74,12.2,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+75,12.3,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+76,12.4,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+77,12.5,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+78,12.6,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+79,12.7,0,Mashrafe Mortaza,2007-04-19,1st,MN Samuels,3,,S Chanderpaul,7,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+80,13.1,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,3,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+81,13.2,2,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,5,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+82,13.3,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,5,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+83,13.4,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,5,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+84,13.5,0,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,5,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+85,13.6,4,Syed Rasel,2007-04-19,1st,S Chanderpaul,7,,MN Samuels,9,West Indies,Bangladesh,25,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+86,14.1,1,Abdur Razzak,2007-04-19,1st,MN Samuels,9,,S Chanderpaul,8,West Indies,Bangladesh,26,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+87,14.2,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,8,,MN Samuels,9,West Indies,Bangladesh,26,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+88,14.3,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,8,,MN Samuels,9,West Indies,Bangladesh,26,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+89,14.4,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,8,,MN Samuels,9,West Indies,Bangladesh,26,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+90,14.5,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,8,,MN Samuels,9,West Indies,Bangladesh,26,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+91,14.6,1,Abdur Razzak,2007-04-19,1st,S Chanderpaul,8,,MN Samuels,10,West Indies,Bangladesh,27,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+92,15.1,1,Syed Rasel,2007-04-19,1st,S Chanderpaul,8,,MN Samuels,11,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+93,15.2,0,Syed Rasel,2007-04-19,1st,MN Samuels,11,,S Chanderpaul,8,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+94,15.3,0,Syed Rasel,2007-04-19,1st,MN Samuels,11,,S Chanderpaul,8,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+95,15.4,1,Syed Rasel,2007-04-19,1st,MN Samuels,11,,S Chanderpaul,9,West Indies,Bangladesh,29,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+96,15.5,4,Syed Rasel,2007-04-19,1st,S Chanderpaul,9,,MN Samuels,15,West Indies,Bangladesh,33,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+97,15.6,4,Syed Rasel,2007-04-19,1st,S Chanderpaul,9,,MN Samuels,19,West Indies,Bangladesh,37,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+98,16.1,0,Abdur Razzak,2007-04-19,1st,MN Samuels,19,,S Chanderpaul,9,West Indies,Bangladesh,37,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+99,16.2,0,Abdur Razzak,2007-04-19,1st,MN Samuels,19,,S Chanderpaul,9,West Indies,Bangladesh,37,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+100,16.3,1,Abdur Razzak,2007-04-19,1st,MN Samuels,19,,S Chanderpaul,10,West Indies,Bangladesh,38,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+101,16.4,1,Abdur Razzak,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,20,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+102,16.5,0,Abdur Razzak,2007-04-19,1st,MN Samuels,20,,S Chanderpaul,10,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+103,16.6,0,Abdur Razzak,2007-04-19,1st,MN Samuels,20,,S Chanderpaul,10,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+104,17.1,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,20,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+105,17.2,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,20,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+106,17.3,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,20,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+107,17.4,2,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,22,West Indies,Bangladesh,41,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+108,17.5,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,22,West Indies,Bangladesh,41,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+109,17.6,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,23,West Indies,Bangladesh,42,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+110,18.1,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,23,West Indies,Bangladesh,42,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+111,18.2,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,23,West Indies,Bangladesh,42,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+112,18.3,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,23,West Indies,Bangladesh,42,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+113,18.4,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,23,West Indies,Bangladesh,42,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+114,18.5,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,23,West Indies,Bangladesh,42,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+115,18.6,2,Abdur Razzak,2007-04-19,1st,S Chanderpaul,10,,MN Samuels,25,West Indies,Bangladesh,44,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+116,19.1,1,Mohammad Rafique,2007-04-19,1st,MN Samuels,25,,S Chanderpaul,11,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+117,19.2,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,11,,MN Samuels,25,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+118,19.3,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,11,,MN Samuels,26,West Indies,Bangladesh,46,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+119,19.4,1,Mohammad Rafique,2007-04-19,1st,MN Samuels,26,,S Chanderpaul,12,West Indies,Bangladesh,47,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+120,19.5,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,12,,MN Samuels,26,West Indies,Bangladesh,47,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+121,19.6,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,12,,MN Samuels,26,West Indies,Bangladesh,47,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+122,20.1,1,Abdur Razzak,2007-04-19,1st,MN Samuels,26,,S Chanderpaul,13,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+123,20.2,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,13,,MN Samuels,26,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+124,20.3,4,Abdur Razzak,2007-04-19,1st,S Chanderpaul,13,,MN Samuels,30,West Indies,Bangladesh,52,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+125,20.4,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,13,,MN Samuels,30,West Indies,Bangladesh,52,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+126,20.5,1,Abdur Razzak,2007-04-19,1st,S Chanderpaul,13,,MN Samuels,31,West Indies,Bangladesh,53,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+127,20.6,1,Abdur Razzak,2007-04-19,1st,MN Samuels,31,,S Chanderpaul,14,West Indies,Bangladesh,54,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+128,21.1,1,Shakib Al Hasan,2007-04-19,1st,MN Samuels,31,,S Chanderpaul,15,West Indies,Bangladesh,55,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+129,21.2,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,15,,MN Samuels,31,West Indies,Bangladesh,55,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+130,21.3,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,15,MN Samuels,MN Samuels,31,West Indies,Bangladesh,55,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+131,21.4,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,15,,RR Sarwan,0,West Indies,Bangladesh,55,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+132,21.5,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,15,,RR Sarwan,1,West Indies,Bangladesh,56,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+133,21.6,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,1,,S Chanderpaul,16,West Indies,Bangladesh,57,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+134,22.1,1,Abdur Razzak,2007-04-19,1st,RR Sarwan,1,,S Chanderpaul,17,West Indies,Bangladesh,58,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+135,22.2,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,17,,RR Sarwan,1,West Indies,Bangladesh,58,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+136,22.3,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,17,,RR Sarwan,1,West Indies,Bangladesh,58,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+137,22.4,1,Abdur Razzak,2007-04-19,1st,S Chanderpaul,17,,RR Sarwan,2,West Indies,Bangladesh,59,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+138,22.5,2,Abdur Razzak,2007-04-19,1st,RR Sarwan,2,,S Chanderpaul,19,West Indies,Bangladesh,61,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+139,22.6,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,2,,S Chanderpaul,19,West Indies,Bangladesh,61,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+140,23.1,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,19,,RR Sarwan,3,West Indies,Bangladesh,62,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+141,23.2,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,3,,S Chanderpaul,20,West Indies,Bangladesh,63,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+142,23.3,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,20,,RR Sarwan,3,West Indies,Bangladesh,63,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+143,23.4,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,20,,RR Sarwan,3,West Indies,Bangladesh,63,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+144,23.5,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,20,,RR Sarwan,3,West Indies,Bangladesh,63,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+145,23.6,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,20,,RR Sarwan,4,West Indies,Bangladesh,64,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+146,24.1,1,Abdur Razzak,2007-04-19,1st,S Chanderpaul,20,,RR Sarwan,5,West Indies,Bangladesh,65,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+147,24.2,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,5,,S Chanderpaul,20,West Indies,Bangladesh,65,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+148,24.3,1,Abdur Razzak,2007-04-19,1st,RR Sarwan,5,,S Chanderpaul,21,West Indies,Bangladesh,66,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+149,24.4,0,Abdur Razzak,2007-04-19,1st,S Chanderpaul,21,,RR Sarwan,5,West Indies,Bangladesh,66,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+150,24.5,1,Abdur Razzak,2007-04-19,1st,S Chanderpaul,21,,RR Sarwan,6,West Indies,Bangladesh,67,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+151,24.6,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,6,,S Chanderpaul,21,West Indies,Bangladesh,67,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+152,25.1,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,21,,RR Sarwan,6,West Indies,Bangladesh,67,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+153,25.2,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,21,,RR Sarwan,7,West Indies,Bangladesh,68,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+154,25.3,0,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,7,,S Chanderpaul,21,West Indies,Bangladesh,68,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+155,25.4,0,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,7,,S Chanderpaul,21,West Indies,Bangladesh,68,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+156,25.5,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,7,,S Chanderpaul,22,West Indies,Bangladesh,69,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+157,25.6,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,22,,RR Sarwan,7,West Indies,Bangladesh,69,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+158,26.1,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,7,,S Chanderpaul,23,West Indies,Bangladesh,70,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+159,26.2,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,23,,RR Sarwan,7,West Indies,Bangladesh,70,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+160,26.3,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,23,,RR Sarwan,8,West Indies,Bangladesh,71,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+161,26.4,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,8,,S Chanderpaul,23,West Indies,Bangladesh,71,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+162,26.5,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,8,,S Chanderpaul,23,West Indies,Bangladesh,71,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+163,26.6,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,8,,S Chanderpaul,23,West Indies,Bangladesh,71,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+164,27.1,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,23,,RR Sarwan,9,West Indies,Bangladesh,72,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+165,27.2,0,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,23,West Indies,Bangladesh,72,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+166,27.3,0,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,23,West Indies,Bangladesh,72,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+167,27.4,4,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,27,West Indies,Bangladesh,76,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+168,27.5,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,28,West Indies,Bangladesh,77,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+169,27.6,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,28,,RR Sarwan,9,West Indies,Bangladesh,77,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+170,28.1,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,28,West Indies,Bangladesh,77,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+171,28.2,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,28,West Indies,Bangladesh,77,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+172,28.3,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,28,West Indies,Bangladesh,77,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+173,28.4,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,29,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+174,28.5,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,29,,RR Sarwan,9,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+175,28.6,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,29,,RR Sarwan,9,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+176,29.1,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,9,,S Chanderpaul,30,West Indies,Bangladesh,79,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+177,29.2,4,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,30,,RR Sarwan,13,West Indies,Bangladesh,83,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+178,29.3,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,30,,RR Sarwan,13,West Indies,Bangladesh,83,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+179,29.4,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,30,,RR Sarwan,13,West Indies,Bangladesh,83,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+180,29.5,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,30,,RR Sarwan,13,West Indies,Bangladesh,83,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+181,29.6,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,30,,RR Sarwan,13,West Indies,Bangladesh,83,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+182,30.1,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,13,,S Chanderpaul,30,West Indies,Bangladesh,83,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+183,30.2,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,13,,S Chanderpaul,31,West Indies,Bangladesh,84,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+184,30.3,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,31,,RR Sarwan,14,West Indies,Bangladesh,85,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+185,30.4,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,14,,S Chanderpaul,31,West Indies,Bangladesh,85,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+186,30.5,4,Mohammad Rafique,2007-04-19,1st,RR Sarwan,14,,S Chanderpaul,35,West Indies,Bangladesh,89,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+187,30.6,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,14,,S Chanderpaul,36,West Indies,Bangladesh,90,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+188,31.1,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,14,,S Chanderpaul,37,West Indies,Bangladesh,91,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+189,31.2,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,37,,RR Sarwan,15,West Indies,Bangladesh,92,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+190,31.3,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,15,,S Chanderpaul,38,West Indies,Bangladesh,93,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+191,31.4,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,38,,RR Sarwan,16,West Indies,Bangladesh,94,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+192,31.5,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,16,,S Chanderpaul,39,West Indies,Bangladesh,95,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+193,31.6,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,39,,RR Sarwan,17,West Indies,Bangladesh,96,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+194,32.1,2,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,39,,RR Sarwan,19,West Indies,Bangladesh,98,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+195,32.2,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,39,,RR Sarwan,20,West Indies,Bangladesh,99,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+196,32.3,2,Mohammad Rafique,2007-04-19,1st,RR Sarwan,20,,S Chanderpaul,41,West Indies,Bangladesh,101,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+197,32.4,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,20,,S Chanderpaul,42,West Indies,Bangladesh,102,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+198,32.5,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,42,,RR Sarwan,20,West Indies,Bangladesh,102,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+199,32.6,0,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,42,,RR Sarwan,20,West Indies,Bangladesh,102,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+200,33.1,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,20,,S Chanderpaul,43,West Indies,Bangladesh,103,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+201,33.2,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,43,,RR Sarwan,20,West Indies,Bangladesh,103,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+202,33.3,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,43,,RR Sarwan,21,West Indies,Bangladesh,104,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+203,33.4,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,21,,S Chanderpaul,44,West Indies,Bangladesh,105,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+204,33.5,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,44,,RR Sarwan,22,West Indies,Bangladesh,106,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+205,33.6,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,22,,S Chanderpaul,45,West Indies,Bangladesh,107,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+206,34.1,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,22,,S Chanderpaul,46,West Indies,Bangladesh,108,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+207,34.2,4,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,46,,RR Sarwan,26,West Indies,Bangladesh,112,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+208,34.3,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,46,,RR Sarwan,27,West Indies,Bangladesh,113,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+209,34.4,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,27,,S Chanderpaul,47,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+210,34.5,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,47,,RR Sarwan,28,West Indies,Bangladesh,115,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+211,34.6,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,28,,S Chanderpaul,47,West Indies,Bangladesh,115,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+212,35.1,6,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,47,,RR Sarwan,34,West Indies,Bangladesh,121,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+213,35.2,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,47,,RR Sarwan,34,West Indies,Bangladesh,121,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+214,35.3,1,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,47,,RR Sarwan,35,West Indies,Bangladesh,122,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+215,35.4,1,Shakib Al Hasan,2007-04-19,1st,RR Sarwan,35,,S Chanderpaul,48,West Indies,Bangladesh,123,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+216,35.5,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,48,,RR Sarwan,35,West Indies,Bangladesh,123,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+217,35.6,0,Shakib Al Hasan,2007-04-19,1st,S Chanderpaul,48,,RR Sarwan,35,West Indies,Bangladesh,123,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+218,36.1,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,35,,S Chanderpaul,48,West Indies,Bangladesh,123,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+219,36.2,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,35,,S Chanderpaul,49,West Indies,Bangladesh,124,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+220,36.3,4,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,49,,RR Sarwan,39,West Indies,Bangladesh,128,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+221,36.4,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,49,,RR Sarwan,40,West Indies,Bangladesh,129,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+222,36.5,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,40,,S Chanderpaul,50,West Indies,Bangladesh,130,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+223,36.6,1,Mohammad Rafique,2007-04-19,1st,S Chanderpaul,50,,RR Sarwan,41,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+224,37.1,0,Aftab Ahmed,2007-04-19,1st,S Chanderpaul,50,,RR Sarwan,41,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+225,37.2,4,Aftab Ahmed,2007-04-19,1st,S Chanderpaul,50,,RR Sarwan,45,West Indies,Bangladesh,135,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+226,37.3,1,Aftab Ahmed,2007-04-19,1st,S Chanderpaul,50,,RR Sarwan,46,West Indies,Bangladesh,136,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+227,37.4,0,Aftab Ahmed,2007-04-19,1st,RR Sarwan,46,S Chanderpaul,S Chanderpaul,50,West Indies,Bangladesh,136,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+228,37.5,1,Aftab Ahmed,2007-04-19,1st,RR Sarwan,46,,BC Lara,1,West Indies,Bangladesh,137,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+229,37.6,1,Aftab Ahmed,2007-04-19,1st,BC Lara,1,,RR Sarwan,47,West Indies,Bangladesh,138,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+230,38.1,1,Mohammad Rafique,2007-04-19,1st,BC Lara,1,,RR Sarwan,48,West Indies,Bangladesh,139,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+231,38.2,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,48,,BC Lara,1,West Indies,Bangladesh,139,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+232,38.3,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,48,,BC Lara,2,West Indies,Bangladesh,140,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+233,38.4,0,Mohammad Rafique,2007-04-19,1st,BC Lara,2,,RR Sarwan,48,West Indies,Bangladesh,140,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+234,38.5,1,Mohammad Rafique,2007-04-19,1st,BC Lara,2,,RR Sarwan,49,West Indies,Bangladesh,141,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+235,38.6,0,Mohammad Rafique,2007-04-19,1st,RR Sarwan,49,,BC Lara,2,West Indies,Bangladesh,141,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+236,39.1,1,Aftab Ahmed,2007-04-19,1st,BC Lara,2,,RR Sarwan,50,West Indies,Bangladesh,142,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+237,39.2,1,Aftab Ahmed,2007-04-19,1st,RR Sarwan,50,,BC Lara,3,West Indies,Bangladesh,143,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+238,39.3,1,Aftab Ahmed,2007-04-19,1st,BC Lara,3,,RR Sarwan,51,West Indies,Bangladesh,144,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+239,39.4,0,Aftab Ahmed,2007-04-19,1st,RR Sarwan,51,,BC Lara,3,West Indies,Bangladesh,144,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+240,39.5,1,Aftab Ahmed,2007-04-19,1st,RR Sarwan,51,,BC Lara,4,West Indies,Bangladesh,145,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+241,39.6,1,Aftab Ahmed,2007-04-19,1st,BC Lara,4,,RR Sarwan,52,West Indies,Bangladesh,146,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+242,40.1,0,Mohammad Rafique,2007-04-19,1st,BC Lara,4,,RR Sarwan,52,West Indies,Bangladesh,146,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+243,40.2,1,Mohammad Rafique,2007-04-19,1st,BC Lara,4,,RR Sarwan,53,West Indies,Bangladesh,147,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+244,40.3,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,53,,BC Lara,5,West Indies,Bangladesh,148,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+245,40.4,1,Mohammad Rafique,2007-04-19,1st,BC Lara,5,,RR Sarwan,54,West Indies,Bangladesh,149,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+246,40.5,1,Mohammad Rafique,2007-04-19,1st,RR Sarwan,54,,BC Lara,6,West Indies,Bangladesh,150,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+247,40.6,1,Mohammad Rafique,2007-04-19,1st,BC Lara,6,,RR Sarwan,55,West Indies,Bangladesh,151,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+248,41.1,1,Syed Rasel,2007-04-19,1st,BC Lara,6,,RR Sarwan,56,West Indies,Bangladesh,152,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+249,41.2,1,Syed Rasel,2007-04-19,1st,RR Sarwan,56,,BC Lara,7,West Indies,Bangladesh,153,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+250,41.3,0,Syed Rasel,2007-04-19,1st,BC Lara,7,,RR Sarwan,56,West Indies,Bangladesh,158,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+251,41.4,2,Syed Rasel,2007-04-19,1st,BC Lara,7,,RR Sarwan,58,West Indies,Bangladesh,160,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+252,41.5,1,Syed Rasel,2007-04-19,1st,BC Lara,7,,RR Sarwan,59,West Indies,Bangladesh,161,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+253,41.6,1,Syed Rasel,2007-04-19,1st,RR Sarwan,59,,BC Lara,8,West Indies,Bangladesh,162,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+254,41.7,1,Syed Rasel,2007-04-19,1st,BC Lara,8,,RR Sarwan,60,West Indies,Bangladesh,163,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+255,42.1,1,Abdur Razzak,2007-04-19,1st,BC Lara,8,,RR Sarwan,61,West Indies,Bangladesh,164,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+256,42.2,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,61,,BC Lara,8,West Indies,Bangladesh,164,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+257,42.3,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,61,,BC Lara,8,West Indies,Bangladesh,165,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+258,42.4,1,Abdur Razzak,2007-04-19,1st,BC Lara,8,,RR Sarwan,62,West Indies,Bangladesh,166,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+259,42.5,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,62,,BC Lara,8,West Indies,Bangladesh,166,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+260,42.6,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,62,,BC Lara,8,West Indies,Bangladesh,166,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+261,43.1,1,Syed Rasel,2007-04-19,1st,BC Lara,8,,RR Sarwan,63,West Indies,Bangladesh,167,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+262,43.2,2,Syed Rasel,2007-04-19,1st,RR Sarwan,63,,BC Lara,10,West Indies,Bangladesh,169,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+263,43.3,4,Syed Rasel,2007-04-19,1st,RR Sarwan,63,,BC Lara,14,West Indies,Bangladesh,173,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+264,43.4,1,Syed Rasel,2007-04-19,1st,RR Sarwan,63,,BC Lara,15,West Indies,Bangladesh,174,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+265,43.5,1,Syed Rasel,2007-04-19,1st,BC Lara,15,,RR Sarwan,64,West Indies,Bangladesh,175,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+266,43.6,6,Syed Rasel,2007-04-19,1st,RR Sarwan,64,,BC Lara,21,West Indies,Bangladesh,181,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+267,44.1,0,Abdur Razzak,2007-04-19,1st,BC Lara,21,,RR Sarwan,64,West Indies,Bangladesh,181,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+268,44.2,1,Abdur Razzak,2007-04-19,1st,BC Lara,21,,RR Sarwan,65,West Indies,Bangladesh,182,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+269,44.3,1,Abdur Razzak,2007-04-19,1st,RR Sarwan,65,,BC Lara,22,West Indies,Bangladesh,183,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+270,44.4,1,Abdur Razzak,2007-04-19,1st,BC Lara,22,,RR Sarwan,66,West Indies,Bangladesh,184,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+271,44.5,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,66,,BC Lara,22,West Indies,Bangladesh,184,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+272,44.6,2,Abdur Razzak,2007-04-19,1st,RR Sarwan,66,,BC Lara,24,West Indies,Bangladesh,186,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+273,45.1,0,Mashrafe Mortaza,2007-04-19,1st,BC Lara,24,,RR Sarwan,66,West Indies,Bangladesh,186,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+274,45.2,1,Mashrafe Mortaza,2007-04-19,1st,BC Lara,24,,RR Sarwan,67,West Indies,Bangladesh,187,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+275,45.3,0,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,67,,BC Lara,24,West Indies,Bangladesh,187,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+276,45.4,6,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,67,,BC Lara,30,West Indies,Bangladesh,193,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+277,45.5,2,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,67,,BC Lara,32,West Indies,Bangladesh,195,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+278,45.6,1,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,67,,BC Lara,33,West Indies,Bangladesh,196,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+279,46.1,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,67,BC Lara,BC Lara,33,West Indies,Bangladesh,196,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+280,46.2,1,Abdur Razzak,2007-04-19,1st,RR Sarwan,67,,DJ Bravo,1,West Indies,Bangladesh,197,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+281,46.3,0,Abdur Razzak,2007-04-19,1st,DJ Bravo,1,,RR Sarwan,67,West Indies,Bangladesh,197,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+282,46.4,1,Abdur Razzak,2007-04-19,1st,DJ Bravo,1,,RR Sarwan,68,West Indies,Bangladesh,198,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+283,46.5,0,Abdur Razzak,2007-04-19,1st,RR Sarwan,68,,DJ Bravo,1,West Indies,Bangladesh,199,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+284,46.6,0,Abdur Razzak,2007-04-19,1st,DJ Bravo,1,,RR Sarwan,68,West Indies,Bangladesh,199,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+285,47.1,1,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,68,,DJ Bravo,2,West Indies,Bangladesh,200,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+286,47.2,0,Mashrafe Mortaza,2007-04-19,1st,DJ Bravo,2,,RR Sarwan,68,West Indies,Bangladesh,200,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+287,47.3,4,Mashrafe Mortaza,2007-04-19,1st,DJ Bravo,2,,RR Sarwan,72,West Indies,Bangladesh,204,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+288,47.4,1,Mashrafe Mortaza,2007-04-19,1st,DJ Bravo,2,,RR Sarwan,73,West Indies,Bangladesh,205,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+289,47.5,1,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,73,,DJ Bravo,3,West Indies,Bangladesh,206,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+290,47.6,2,Mashrafe Mortaza,2007-04-19,1st,DJ Bravo,3,,RR Sarwan,75,West Indies,Bangladesh,208,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+291,48.1,1,Abdur Razzak,2007-04-19,1st,RR Sarwan,75,,DJ Bravo,4,West Indies,Bangladesh,209,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+292,48.2,2,Abdur Razzak,2007-04-19,1st,DJ Bravo,4,,RR Sarwan,77,West Indies,Bangladesh,211,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+293,48.3,6,Abdur Razzak,2007-04-19,1st,DJ Bravo,4,,RR Sarwan,83,West Indies,Bangladesh,217,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+294,48.4,2,Abdur Razzak,2007-04-19,1st,DJ Bravo,4,,RR Sarwan,85,West Indies,Bangladesh,219,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+295,48.5,2,Abdur Razzak,2007-04-19,1st,DJ Bravo,4,,RR Sarwan,87,West Indies,Bangladesh,221,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+296,48.6,2,Abdur Razzak,2007-04-19,1st,DJ Bravo,4,,RR Sarwan,89,West Indies,Bangladesh,223,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+297,49.1,2,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,89,,DJ Bravo,6,West Indies,Bangladesh,225,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+298,49.2,1,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,89,,DJ Bravo,7,West Indies,Bangladesh,226,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+299,49.3,1,Mashrafe Mortaza,2007-04-19,1st,DJ Bravo,7,,RR Sarwan,90,West Indies,Bangladesh,227,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+300,49.4,1,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,90,,DJ Bravo,8,West Indies,Bangladesh,228,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+301,49.5,1,Mashrafe Mortaza,2007-04-19,1st,DJ Bravo,8,,RR Sarwan,91,West Indies,Bangladesh,229,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+302,49.6,1,Mashrafe Mortaza,2007-04-19,1st,RR Sarwan,91,,DJ Bravo,9,West Indies,Bangladesh,230,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+303,0.1,0,CD Collymore,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,0,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+304,0.2,1,CD Collymore,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+305,0.3,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+306,0.4,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+307,0.5,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+308,0.6,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+309,1.1,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+310,1.2,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+311,1.3,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+312,1.4,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,1,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+313,1.5,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+314,1.6,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+315,1.7,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+316,2.1,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+317,2.2,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+318,2.3,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+319,2.4,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,2,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+320,2.5,1,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,3,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+321,2.6,0,CD Collymore,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,3,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+322,3.1,1,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+323,3.2,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+324,3.3,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+325,3.4,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+326,3.5,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+327,3.6,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+328,4.1,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+329,4.2,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+330,4.3,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+331,4.4,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+332,4.5,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+333,4.6,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,4,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+334,5.1,0,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,5,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+335,5.2,1,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,6,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+336,5.3,1,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,7,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+337,5.4,1,DBL Powell,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+338,5.5,0,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+339,5.6,0,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,8,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+340,5.7,4,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Tamim Iqbal,0,West Indies,Bangladesh,12,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+341,6.1,0,CD Collymore,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,13,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+342,6.2,0,CD Collymore,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,13,Bangladesh,"Kensington Oval, Bridgetown",0,West Indies
+343,6.3,0,CD Collymore,2007-04-19,2nd,Tamim Iqbal,0,,Javed Omar,0,West Indies,Bangladesh,13,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+344,6.4,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,13,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+345,6.5,2,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+346,6.6,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+347,6.7,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+348,7.1,0,DBL Powell,2007-04-19,2nd,Aftab Ahmed,0,,Javed Omar,0,West Indies,Bangladesh,15,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+349,7.2,0,DBL Powell,2007-04-19,2nd,Aftab Ahmed,0,,Javed Omar,0,West Indies,Bangladesh,16,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+350,7.3,1,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+351,7.4,0,DBL Powell,2007-04-19,2nd,Aftab Ahmed,0,,Javed Omar,0,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+352,7.5,0,DBL Powell,2007-04-19,2nd,Aftab Ahmed,0,,Javed Omar,0,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+353,7.6,0,DBL Powell,2007-04-19,2nd,Aftab Ahmed,0,,Javed Omar,0,West Indies,Bangladesh,17,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+354,8.1,1,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+355,8.2,0,CD Collymore,2007-04-19,2nd,Aftab Ahmed,0,,Javed Omar,0,West Indies,Bangladesh,18,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+356,8.3,1,CD Collymore,2007-04-19,2nd,Aftab Ahmed,0,,Javed Omar,0,West Indies,Bangladesh,19,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+357,8.4,2,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",1,West Indies
+358,8.5,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Aftab Ahmed,0,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+359,8.6,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Shakib Al Hasan,0,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+360,9.1,0,JE Taylor,2007-04-19,2nd,Shakib Al Hasan,0,,Javed Omar,0,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+361,9.2,0,JE Taylor,2007-04-19,2nd,Shakib Al Hasan,0,,Javed Omar,0,West Indies,Bangladesh,21,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+362,9.3,1,JE Taylor,2007-04-19,2nd,Shakib Al Hasan,0,,Javed Omar,0,West Indies,Bangladesh,22,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+363,9.4,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Shakib Al Hasan,0,West Indies,Bangladesh,22,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+364,9.5,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Shakib Al Hasan,0,West Indies,Bangladesh,22,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+365,9.6,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Shakib Al Hasan,0,West Indies,Bangladesh,22,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+366,10.1,0,CD Collymore,2007-04-19,2nd,Shakib Al Hasan,0,,Javed Omar,0,West Indies,Bangladesh,22,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+367,10.2,0,CD Collymore,2007-04-19,2nd,Shakib Al Hasan,0,,Javed Omar,0,West Indies,Bangladesh,22,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+368,10.3,0,CD Collymore,2007-04-19,2nd,Shakib Al Hasan,0,,Javed Omar,0,West Indies,Bangladesh,22,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+369,10.4,1,CD Collymore,2007-04-19,2nd,Shakib Al Hasan,0,,Javed Omar,0,West Indies,Bangladesh,23,Bangladesh,"Kensington Oval, Bridgetown",2,West Indies
+370,10.5,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Shakib Al Hasan,0,West Indies,Bangladesh,23,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+371,10.6,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,23,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+372,11.1,0,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,23,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+373,11.2,4,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,27,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+374,11.3,0,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,27,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+375,11.4,0,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,27,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+376,11.5,0,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,27,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+377,11.6,1,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+378,12.1,0,CD Collymore,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+379,12.2,0,CD Collymore,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+380,12.3,0,CD Collymore,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+381,12.4,0,CD Collymore,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,28,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+382,12.5,1,CD Collymore,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,29,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+383,12.6,0,CD Collymore,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,29,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+384,13.1,1,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,30,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+385,13.2,0,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,30,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+386,13.3,1,JE Taylor,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,31,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+387,13.4,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,31,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+388,13.5,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,31,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+389,13.6,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,31,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+390,14.1,1,DBL Powell,2007-04-19,2nd,Mohammad Ashraful,0,,Javed Omar,0,West Indies,Bangladesh,32,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+391,14.2,0,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,32,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+392,14.3,2,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,34,Bangladesh,"Kensington Oval, Bridgetown",3,West Indies
+393,14.4,0,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Mohammad Ashraful,0,West Indies,Bangladesh,34,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+394,14.5,0,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Habibul Bashar,0,West Indies,Bangladesh,34,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+395,14.6,0,DBL Powell,2007-04-19,2nd,Javed Omar,0,,Habibul Bashar,0,West Indies,Bangladesh,34,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+396,15.1,1,JE Taylor,2007-04-19,2nd,Habibul Bashar,0,,Javed Omar,0,West Indies,Bangladesh,35,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+397,15.2,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Habibul Bashar,0,West Indies,Bangladesh,35,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+398,15.3,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Habibul Bashar,0,West Indies,Bangladesh,35,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+399,15.4,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Habibul Bashar,0,West Indies,Bangladesh,35,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+400,15.5,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Habibul Bashar,0,West Indies,Bangladesh,35,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+401,15.6,0,JE Taylor,2007-04-19,2nd,Javed Omar,0,,Habibul Bashar,0,West Indies,Bangladesh,35,Bangladesh,"Kensington Oval, Bridgetown",4,West Indies
+402,16.1,0,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Javed Omar,0,West Indies,Bangladesh,35,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+403,16.2,0,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,36,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+404,16.3,0,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,37,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+405,16.4,0,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,37,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+406,16.5,0,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,37,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+407,16.6,1,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,38,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+408,16.7,0,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,38,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+409,16.8,1,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+410,17.1,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,39,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+411,17.2,2,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,41,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+412,17.3,4,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+413,17.4,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+414,17.5,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+415,17.6,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+416,18.1,0,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+417,18.2,0,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,45,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+418,18.3,1,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,46,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+419,18.4,1,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,47,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+420,18.5,1,DBL Powell,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+421,18.6,0,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+422,19.1,0,DJ Bravo,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+423,19.2,0,DJ Bravo,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+424,19.3,0,DJ Bravo,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+425,19.4,0,DJ Bravo,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+426,19.5,0,DJ Bravo,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+427,19.6,0,DJ Bravo,2007-04-19,2nd,Habibul Bashar,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,48,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+428,20.1,2,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,50,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+429,20.2,2,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,52,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+430,20.3,0,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,52,Bangladesh,"Kensington Oval, Bridgetown",5,West Indies
+431,20.4,0,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Habibul Bashar,0,West Indies,Bangladesh,52,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+432,20.5,1,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,53,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+433,20.6,0,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,53,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+434,21.1,4,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,57,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+435,21.2,2,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,59,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+436,21.3,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,59,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+437,21.4,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,60,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+438,21.5,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,61,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+439,21.6,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,61,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+440,21.7,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,61,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+441,21.8,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,61,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+442,22.1,0,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,61,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+443,22.2,1,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,62,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+444,22.3,0,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,62,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+445,22.4,4,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,66,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+446,22.5,0,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,66,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+447,22.6,2,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,68,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+448,23.1,1,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,69,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+449,23.2,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,69,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+450,23.3,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,69,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+451,23.4,4,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,73,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+452,23.5,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,73,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+453,23.6,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,73,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+454,24.1,0,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,73,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+455,24.2,0,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,73,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+456,24.3,0,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,73,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+457,24.4,0,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,73,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+458,24.5,1,DBL Powell,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,74,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+459,24.6,4,DBL Powell,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+460,25.1,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+461,25.2,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+462,25.3,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+463,25.4,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+464,25.5,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+465,25.6,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+466,26.1,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,78,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+467,26.2,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,79,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+468,26.3,1,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,80,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+469,26.4,0,JE Taylor,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,80,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+470,26.5,0,JE Taylor,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,80,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+471,26.6,1,JE Taylor,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,81,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+472,26.7,1,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,82,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+473,27.1,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,82,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+474,27.2,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,83,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+475,27.3,1,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,84,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+476,27.4,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,85,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+477,27.5,0,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,85,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+478,27.6,0,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,85,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+479,28.1,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,85,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+480,28.2,2,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,87,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+481,28.3,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,87,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+482,28.4,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,87,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+483,28.5,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,87,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+484,28.6,1,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,88,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+485,29.1,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,89,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+486,29.2,0,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,89,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+487,29.3,1,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,90,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+488,29.4,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,90,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+489,29.5,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,90,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+490,29.6,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,90,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+491,30.1,1,JE Taylor,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,91,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+492,30.2,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,91,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+493,30.3,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,91,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+494,30.4,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,91,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+495,30.5,0,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,91,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+496,30.6,2,JE Taylor,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,93,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+497,31.1,1,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,94,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+498,31.2,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,94,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+499,31.3,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,94,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+500,31.4,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,95,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+501,31.5,0,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,95,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+502,31.6,0,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,95,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+503,32.1,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,95,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+504,32.2,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,95,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+505,32.3,1,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,96,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+506,32.4,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,96,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+507,32.5,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,96,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+508,32.6,4,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,100,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+509,33.1,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,101,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+510,33.2,1,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,102,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+511,33.3,2,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,104,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+512,33.4,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,105,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+513,33.5,2,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,107,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+514,33.6,1,CH Gayle,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,108,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+515,34.1,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,108,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+516,34.2,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,108,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+517,34.3,0,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,108,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+518,34.4,1,DJ Bravo,2007-04-19,2nd,Mashrafe Mortaza,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,109,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+519,34.5,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,110,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+520,34.6,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,110,Bangladesh,"Kensington Oval, Bridgetown",6,West Indies
+521,34.7,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Mashrafe Mortaza,0,West Indies,Bangladesh,110,Bangladesh,"Kensington Oval, Bridgetown",7,West Indies
+522,35.1,1,CH Gayle,2007-04-19,2nd,Mohammad Rafique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",7,West Indies
+523,35.2,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mohammad Rafique,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",7,West Indies
+524,35.3,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mohammad Rafique,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",7,West Indies
+525,35.4,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mohammad Rafique,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",7,West Indies
+526,35.5,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mohammad Rafique,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",7,West Indies
+527,35.6,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Mohammad Rafique,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+528,36.1,0,DJ Bravo,2007-04-19,2nd,Abdur Razzak,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+529,36.2,0,DJ Bravo,2007-04-19,2nd,Abdur Razzak,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+530,36.3,0,DJ Bravo,2007-04-19,2nd,Abdur Razzak,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+531,36.4,0,DJ Bravo,2007-04-19,2nd,Abdur Razzak,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,111,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+532,36.5,1,DJ Bravo,2007-04-19,2nd,Abdur Razzak,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,112,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+533,36.6,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,112,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+534,37.1,1,CH Gayle,2007-04-19,2nd,Abdur Razzak,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,113,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+535,37.2,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,113,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+536,37.3,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,113,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+537,37.4,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,113,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+538,37.5,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,113,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+539,37.6,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+540,38.1,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+541,38.2,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+542,38.3,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",8,West Indies
+543,38.4,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Abdur Razzak,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+544,38.5,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+545,38.6,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+546,39.1,0,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+547,39.2,0,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,114,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+548,39.3,1,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,115,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+549,39.4,1,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,116,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+550,39.5,4,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,120,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+551,39.6,1,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,121,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+552,40.1,0,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,121,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+553,40.2,2,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,123,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+554,40.3,0,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,123,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+555,40.4,2,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,125,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+556,40.5,1,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,126,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+557,40.6,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,126,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+558,41.1,0,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,126,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+559,41.2,2,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,128,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+560,41.3,0,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,128,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+561,41.4,1,CH Gayle,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,129,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+562,41.5,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,129,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+563,41.6,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,129,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+564,42.1,0,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,129,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+565,42.2,0,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,129,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+566,42.3,1,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,130,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+567,42.4,0,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,130,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+568,42.5,1,DJ Bravo,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+569,42.6,0,DJ Bravo,2007-04-19,2nd,Syed Rasel,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+570,43.1,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+571,43.2,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+572,43.3,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+573,43.4,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",9,West Indies
+574,43.5,0,CH Gayle,2007-04-19,2nd,Mushfiqur Rahim,0,,Syed Rasel,0,West Indies,Bangladesh,131,Bangladesh,"Kensington Oval, Bridgetown",10,West Indies

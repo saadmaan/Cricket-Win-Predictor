@@ -1,0 +1,508 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,WB Rankin,2011-03-15,1st,GC Smith,0,,HM Amla,0,Ireland,South Africa,0,Ireland,Eden Gardens,0,South Africa
+1,0.2,1,WB Rankin,2011-03-15,1st,GC Smith,0,,HM Amla,1,Ireland,South Africa,1,Ireland,Eden Gardens,0,South Africa
+2,0.3,1,WB Rankin,2011-03-15,1st,HM Amla,1,,GC Smith,1,Ireland,South Africa,2,Ireland,Eden Gardens,0,South Africa
+3,0.4,0,WB Rankin,2011-03-15,1st,GC Smith,1,,HM Amla,1,Ireland,South Africa,2,Ireland,Eden Gardens,0,South Africa
+4,0.5,1,WB Rankin,2011-03-15,1st,GC Smith,1,,HM Amla,2,Ireland,South Africa,3,Ireland,Eden Gardens,0,South Africa
+5,0.6,0,WB Rankin,2011-03-15,1st,HM Amla,2,,GC Smith,1,Ireland,South Africa,3,Ireland,Eden Gardens,0,South Africa
+6,1.1,0,DT Johnston,2011-03-15,1st,GC Smith,1,,HM Amla,2,Ireland,South Africa,3,Ireland,Eden Gardens,0,South Africa
+7,1.2,0,DT Johnston,2011-03-15,1st,GC Smith,1,,HM Amla,2,Ireland,South Africa,4,Ireland,Eden Gardens,0,South Africa
+8,1.3,0,DT Johnston,2011-03-15,1st,GC Smith,1,,HM Amla,2,Ireland,South Africa,4,Ireland,Eden Gardens,0,South Africa
+9,1.4,0,DT Johnston,2011-03-15,1st,GC Smith,1,,HM Amla,2,Ireland,South Africa,4,Ireland,Eden Gardens,0,South Africa
+10,1.5,2,DT Johnston,2011-03-15,1st,GC Smith,1,,HM Amla,4,Ireland,South Africa,6,Ireland,Eden Gardens,0,South Africa
+11,1.6,1,DT Johnston,2011-03-15,1st,GC Smith,1,,HM Amla,5,Ireland,South Africa,7,Ireland,Eden Gardens,0,South Africa
+12,1.7,0,DT Johnston,2011-03-15,1st,HM Amla,5,,GC Smith,1,Ireland,South Africa,7,Ireland,Eden Gardens,0,South Africa
+13,2.1,1,WB Rankin,2011-03-15,1st,GC Smith,1,,HM Amla,6,Ireland,South Africa,8,Ireland,Eden Gardens,0,South Africa
+14,2.2,1,WB Rankin,2011-03-15,1st,HM Amla,6,,GC Smith,2,Ireland,South Africa,9,Ireland,Eden Gardens,0,South Africa
+15,2.3,1,WB Rankin,2011-03-15,1st,GC Smith,2,,HM Amla,7,Ireland,South Africa,10,Ireland,Eden Gardens,0,South Africa
+16,2.4,0,WB Rankin,2011-03-15,1st,HM Amla,7,,GC Smith,2,Ireland,South Africa,10,Ireland,Eden Gardens,0,South Africa
+17,2.5,1,WB Rankin,2011-03-15,1st,HM Amla,7,,GC Smith,3,Ireland,South Africa,11,Ireland,Eden Gardens,0,South Africa
+18,2.6,0,WB Rankin,2011-03-15,1st,GC Smith,3,,HM Amla,7,Ireland,South Africa,12,Ireland,Eden Gardens,0,South Africa
+19,2.7,0,WB Rankin,2011-03-15,1st,GC Smith,3,,HM Amla,7,Ireland,South Africa,12,Ireland,Eden Gardens,0,South Africa
+20,3.1,0,DT Johnston,2011-03-15,1st,HM Amla,7,,GC Smith,3,Ireland,South Africa,12,Ireland,Eden Gardens,0,South Africa
+21,3.2,0,DT Johnston,2011-03-15,1st,HM Amla,7,,GC Smith,3,Ireland,South Africa,12,Ireland,Eden Gardens,0,South Africa
+22,3.3,0,DT Johnston,2011-03-15,1st,HM Amla,7,,GC Smith,3,Ireland,South Africa,12,Ireland,Eden Gardens,0,South Africa
+23,3.4,1,DT Johnston,2011-03-15,1st,HM Amla,7,,GC Smith,4,Ireland,South Africa,13,Ireland,Eden Gardens,0,South Africa
+24,3.5,1,DT Johnston,2011-03-15,1st,GC Smith,4,,HM Amla,8,Ireland,South Africa,14,Ireland,Eden Gardens,0,South Africa
+25,3.6,0,DT Johnston,2011-03-15,1st,HM Amla,8,,GC Smith,4,Ireland,South Africa,14,Ireland,Eden Gardens,0,South Africa
+26,4.1,4,WB Rankin,2011-03-15,1st,GC Smith,4,,HM Amla,12,Ireland,South Africa,18,Ireland,Eden Gardens,0,South Africa
+27,4.2,0,WB Rankin,2011-03-15,1st,GC Smith,4,,HM Amla,12,Ireland,South Africa,18,Ireland,Eden Gardens,0,South Africa
+28,4.3,6,WB Rankin,2011-03-15,1st,GC Smith,4,,HM Amla,18,Ireland,South Africa,24,Ireland,Eden Gardens,0,South Africa
+29,4.4,0,WB Rankin,2011-03-15,1st,GC Smith,4,HM Amla,HM Amla,18,Ireland,South Africa,24,Ireland,Eden Gardens,1,South Africa
+30,4.5,0,WB Rankin,2011-03-15,1st,MN van Wyk,0,,GC Smith,4,Ireland,South Africa,24,Ireland,Eden Gardens,1,South Africa
+31,4.6,0,WB Rankin,2011-03-15,1st,MN van Wyk,0,,GC Smith,4,Ireland,South Africa,24,Ireland,Eden Gardens,1,South Africa
+32,5.1,0,DT Johnston,2011-03-15,1st,GC Smith,4,,MN van Wyk,0,Ireland,South Africa,24,Ireland,Eden Gardens,1,South Africa
+33,5.2,0,DT Johnston,2011-03-15,1st,GC Smith,4,,MN van Wyk,0,Ireland,South Africa,24,Ireland,Eden Gardens,1,South Africa
+34,5.3,4,DT Johnston,2011-03-15,1st,GC Smith,4,,MN van Wyk,4,Ireland,South Africa,28,Ireland,Eden Gardens,1,South Africa
+35,5.4,0,DT Johnston,2011-03-15,1st,GC Smith,4,,MN van Wyk,4,Ireland,South Africa,28,Ireland,Eden Gardens,1,South Africa
+36,5.5,0,DT Johnston,2011-03-15,1st,GC Smith,4,,MN van Wyk,4,Ireland,South Africa,28,Ireland,Eden Gardens,1,South Africa
+37,5.6,0,DT Johnston,2011-03-15,1st,GC Smith,4,,MN van Wyk,4,Ireland,South Africa,28,Ireland,Eden Gardens,1,South Africa
+38,6.1,1,WB Rankin,2011-03-15,1st,MN van Wyk,4,,GC Smith,5,Ireland,South Africa,29,Ireland,Eden Gardens,1,South Africa
+39,6.2,1,WB Rankin,2011-03-15,1st,GC Smith,5,,MN van Wyk,5,Ireland,South Africa,30,Ireland,Eden Gardens,1,South Africa
+40,6.3,0,WB Rankin,2011-03-15,1st,MN van Wyk,5,,GC Smith,5,Ireland,South Africa,30,Ireland,Eden Gardens,1,South Africa
+41,6.4,1,WB Rankin,2011-03-15,1st,MN van Wyk,5,,GC Smith,6,Ireland,South Africa,31,Ireland,Eden Gardens,1,South Africa
+42,6.5,0,WB Rankin,2011-03-15,1st,GC Smith,6,,MN van Wyk,5,Ireland,South Africa,31,Ireland,Eden Gardens,1,South Africa
+43,6.6,1,WB Rankin,2011-03-15,1st,GC Smith,6,,MN van Wyk,6,Ireland,South Africa,32,Ireland,Eden Gardens,1,South Africa
+44,7.1,0,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,6,Ireland,South Africa,32,Ireland,Eden Gardens,1,South Africa
+45,7.2,4,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,10,Ireland,South Africa,36,Ireland,Eden Gardens,1,South Africa
+46,7.3,0,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,10,Ireland,South Africa,36,Ireland,Eden Gardens,1,South Africa
+47,7.4,0,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,10,Ireland,South Africa,36,Ireland,Eden Gardens,1,South Africa
+48,7.5,4,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,14,Ireland,South Africa,40,Ireland,Eden Gardens,1,South Africa
+49,7.6,1,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,15,Ireland,South Africa,41,Ireland,Eden Gardens,1,South Africa
+50,8.1,0,WB Rankin,2011-03-15,1st,GC Smith,6,,MN van Wyk,15,Ireland,South Africa,41,Ireland,Eden Gardens,1,South Africa
+51,8.2,4,WB Rankin,2011-03-15,1st,GC Smith,6,,MN van Wyk,19,Ireland,South Africa,45,Ireland,Eden Gardens,1,South Africa
+52,8.3,4,WB Rankin,2011-03-15,1st,GC Smith,6,,MN van Wyk,23,Ireland,South Africa,49,Ireland,Eden Gardens,1,South Africa
+53,8.4,0,WB Rankin,2011-03-15,1st,GC Smith,6,,MN van Wyk,23,Ireland,South Africa,49,Ireland,Eden Gardens,1,South Africa
+54,8.5,1,WB Rankin,2011-03-15,1st,GC Smith,6,,MN van Wyk,24,Ireland,South Africa,50,Ireland,Eden Gardens,1,South Africa
+55,8.6,0,WB Rankin,2011-03-15,1st,MN van Wyk,24,,GC Smith,6,Ireland,South Africa,50,Ireland,Eden Gardens,1,South Africa
+56,9.1,0,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,24,Ireland,South Africa,50,Ireland,Eden Gardens,1,South Africa
+57,9.2,1,DT Johnston,2011-03-15,1st,GC Smith,6,,MN van Wyk,25,Ireland,South Africa,51,Ireland,Eden Gardens,1,South Africa
+58,9.3,1,DT Johnston,2011-03-15,1st,MN van Wyk,25,,GC Smith,7,Ireland,South Africa,52,Ireland,Eden Gardens,1,South Africa
+59,9.4,0,DT Johnston,2011-03-15,1st,GC Smith,7,GC Smith,MN van Wyk,25,Ireland,South Africa,52,Ireland,Eden Gardens,2,South Africa
+60,9.5,0,DT Johnston,2011-03-15,1st,JH Kallis,0,,MN van Wyk,25,Ireland,South Africa,52,Ireland,Eden Gardens,2,South Africa
+61,9.6,0,DT Johnston,2011-03-15,1st,JH Kallis,0,,MN van Wyk,25,Ireland,South Africa,52,Ireland,Eden Gardens,2,South Africa
+62,10.1,1,WB Rankin,2011-03-15,1st,MN van Wyk,25,,JH Kallis,1,Ireland,South Africa,53,Ireland,Eden Gardens,2,South Africa
+63,10.2,0,WB Rankin,2011-03-15,1st,JH Kallis,1,,MN van Wyk,25,Ireland,South Africa,53,Ireland,Eden Gardens,2,South Africa
+64,10.3,1,WB Rankin,2011-03-15,1st,JH Kallis,1,,MN van Wyk,26,Ireland,South Africa,54,Ireland,Eden Gardens,2,South Africa
+65,10.4,0,WB Rankin,2011-03-15,1st,MN van Wyk,26,,JH Kallis,1,Ireland,South Africa,54,Ireland,Eden Gardens,2,South Africa
+66,10.5,4,WB Rankin,2011-03-15,1st,MN van Wyk,26,,JH Kallis,5,Ireland,South Africa,58,Ireland,Eden Gardens,2,South Africa
+67,10.6,0,WB Rankin,2011-03-15,1st,MN van Wyk,26,,JH Kallis,5,Ireland,South Africa,58,Ireland,Eden Gardens,2,South Africa
+68,11.1,0,DT Johnston,2011-03-15,1st,JH Kallis,5,,MN van Wyk,26,Ireland,South Africa,58,Ireland,Eden Gardens,2,South Africa
+69,11.2,0,DT Johnston,2011-03-15,1st,JH Kallis,5,,MN van Wyk,26,Ireland,South Africa,58,Ireland,Eden Gardens,2,South Africa
+70,11.3,4,DT Johnston,2011-03-15,1st,JH Kallis,5,,MN van Wyk,30,Ireland,South Africa,62,Ireland,Eden Gardens,2,South Africa
+71,11.4,0,DT Johnston,2011-03-15,1st,JH Kallis,5,,MN van Wyk,30,Ireland,South Africa,62,Ireland,Eden Gardens,2,South Africa
+72,11.5,6,DT Johnston,2011-03-15,1st,JH Kallis,5,,MN van Wyk,36,Ireland,South Africa,68,Ireland,Eden Gardens,2,South Africa
+73,11.6,4,DT Johnston,2011-03-15,1st,JH Kallis,5,,MN van Wyk,40,Ireland,South Africa,72,Ireland,Eden Gardens,2,South Africa
+74,12.1,0,JF Mooney,2011-03-15,1st,MN van Wyk,40,,JH Kallis,5,Ireland,South Africa,72,Ireland,Eden Gardens,2,South Africa
+75,12.2,0,JF Mooney,2011-03-15,1st,MN van Wyk,40,,JH Kallis,5,Ireland,South Africa,72,Ireland,Eden Gardens,2,South Africa
+76,12.3,4,JF Mooney,2011-03-15,1st,MN van Wyk,40,,JH Kallis,9,Ireland,South Africa,76,Ireland,Eden Gardens,2,South Africa
+77,12.4,0,JF Mooney,2011-03-15,1st,MN van Wyk,40,,JH Kallis,9,Ireland,South Africa,76,Ireland,Eden Gardens,2,South Africa
+78,12.5,0,JF Mooney,2011-03-15,1st,MN van Wyk,40,,JH Kallis,9,Ireland,South Africa,76,Ireland,Eden Gardens,2,South Africa
+79,12.6,0,JF Mooney,2011-03-15,1st,MN van Wyk,40,,JH Kallis,9,Ireland,South Africa,76,Ireland,Eden Gardens,2,South Africa
+80,13.1,0,GH Dockrell,2011-03-15,1st,JH Kallis,9,,MN van Wyk,40,Ireland,South Africa,76,Ireland,Eden Gardens,2,South Africa
+81,13.2,1,GH Dockrell,2011-03-15,1st,JH Kallis,9,,MN van Wyk,41,Ireland,South Africa,77,Ireland,Eden Gardens,2,South Africa
+82,13.3,0,GH Dockrell,2011-03-15,1st,MN van Wyk,41,,JH Kallis,9,Ireland,South Africa,77,Ireland,Eden Gardens,2,South Africa
+83,13.4,0,GH Dockrell,2011-03-15,1st,MN van Wyk,41,,JH Kallis,9,Ireland,South Africa,77,Ireland,Eden Gardens,2,South Africa
+84,13.5,4,GH Dockrell,2011-03-15,1st,MN van Wyk,41,,JH Kallis,13,Ireland,South Africa,81,Ireland,Eden Gardens,2,South Africa
+85,13.6,0,GH Dockrell,2011-03-15,1st,MN van Wyk,41,,JH Kallis,13,Ireland,South Africa,81,Ireland,Eden Gardens,2,South Africa
+86,14.1,0,JF Mooney,2011-03-15,1st,JH Kallis,13,,MN van Wyk,41,Ireland,South Africa,81,Ireland,Eden Gardens,2,South Africa
+87,14.2,0,JF Mooney,2011-03-15,1st,JH Kallis,13,,MN van Wyk,41,Ireland,South Africa,81,Ireland,Eden Gardens,2,South Africa
+88,14.3,1,JF Mooney,2011-03-15,1st,JH Kallis,13,,MN van Wyk,42,Ireland,South Africa,82,Ireland,Eden Gardens,2,South Africa
+89,14.4,1,JF Mooney,2011-03-15,1st,MN van Wyk,42,,JH Kallis,14,Ireland,South Africa,83,Ireland,Eden Gardens,2,South Africa
+90,14.5,0,JF Mooney,2011-03-15,1st,JH Kallis,14,,MN van Wyk,42,Ireland,South Africa,83,Ireland,Eden Gardens,2,South Africa
+91,14.6,0,JF Mooney,2011-03-15,1st,JH Kallis,14,,MN van Wyk,42,Ireland,South Africa,83,Ireland,Eden Gardens,2,South Africa
+92,15.1,0,GH Dockrell,2011-03-15,1st,MN van Wyk,42,,JH Kallis,14,Ireland,South Africa,83,Ireland,Eden Gardens,2,South Africa
+93,15.2,0,GH Dockrell,2011-03-15,1st,MN van Wyk,42,,JH Kallis,14,Ireland,South Africa,83,Ireland,Eden Gardens,2,South Africa
+94,15.3,0,GH Dockrell,2011-03-15,1st,MN van Wyk,42,,JH Kallis,14,Ireland,South Africa,83,Ireland,Eden Gardens,2,South Africa
+95,15.4,1,GH Dockrell,2011-03-15,1st,MN van Wyk,42,,JH Kallis,15,Ireland,South Africa,84,Ireland,Eden Gardens,2,South Africa
+96,15.5,0,GH Dockrell,2011-03-15,1st,JH Kallis,15,MN van Wyk,MN van Wyk,42,Ireland,South Africa,84,Ireland,Eden Gardens,3,South Africa
+97,15.6,1,GH Dockrell,2011-03-15,1st,JH Kallis,15,,JP Duminy,1,Ireland,South Africa,85,Ireland,Eden Gardens,3,South Africa
+98,16.1,0,PR Stirling,2011-03-15,1st,JH Kallis,15,,JP Duminy,1,Ireland,South Africa,85,Ireland,Eden Gardens,3,South Africa
+99,16.2,0,PR Stirling,2011-03-15,1st,JH Kallis,15,,JP Duminy,1,Ireland,South Africa,85,Ireland,Eden Gardens,3,South Africa
+100,16.3,1,PR Stirling,2011-03-15,1st,JH Kallis,15,,JP Duminy,2,Ireland,South Africa,86,Ireland,Eden Gardens,3,South Africa
+101,16.4,0,PR Stirling,2011-03-15,1st,JP Duminy,2,,JH Kallis,15,Ireland,South Africa,86,Ireland,Eden Gardens,3,South Africa
+102,16.5,0,PR Stirling,2011-03-15,1st,JP Duminy,2,,JH Kallis,15,Ireland,South Africa,86,Ireland,Eden Gardens,3,South Africa
+103,16.6,1,PR Stirling,2011-03-15,1st,JP Duminy,2,,JH Kallis,16,Ireland,South Africa,87,Ireland,Eden Gardens,3,South Africa
+104,17.1,0,GH Dockrell,2011-03-15,1st,JP Duminy,2,,JH Kallis,16,Ireland,South Africa,87,Ireland,Eden Gardens,3,South Africa
+105,17.2,1,GH Dockrell,2011-03-15,1st,JP Duminy,2,,JH Kallis,17,Ireland,South Africa,88,Ireland,Eden Gardens,3,South Africa
+106,17.3,0,GH Dockrell,2011-03-15,1st,JH Kallis,17,,JP Duminy,2,Ireland,South Africa,88,Ireland,Eden Gardens,3,South Africa
+107,17.4,0,GH Dockrell,2011-03-15,1st,JH Kallis,17,,JP Duminy,2,Ireland,South Africa,88,Ireland,Eden Gardens,3,South Africa
+108,17.5,1,GH Dockrell,2011-03-15,1st,JH Kallis,17,,JP Duminy,3,Ireland,South Africa,89,Ireland,Eden Gardens,3,South Africa
+109,17.6,0,GH Dockrell,2011-03-15,1st,JP Duminy,3,,JH Kallis,17,Ireland,South Africa,89,Ireland,Eden Gardens,3,South Africa
+110,18.1,2,PR Stirling,2011-03-15,1st,JH Kallis,17,,JP Duminy,5,Ireland,South Africa,91,Ireland,Eden Gardens,3,South Africa
+111,18.2,0,PR Stirling,2011-03-15,1st,JH Kallis,17,,JP Duminy,5,Ireland,South Africa,91,Ireland,Eden Gardens,3,South Africa
+112,18.3,0,PR Stirling,2011-03-15,1st,JH Kallis,17,,JP Duminy,5,Ireland,South Africa,91,Ireland,Eden Gardens,3,South Africa
+113,18.4,0,PR Stirling,2011-03-15,1st,JH Kallis,17,,JP Duminy,5,Ireland,South Africa,91,Ireland,Eden Gardens,3,South Africa
+114,18.5,0,PR Stirling,2011-03-15,1st,JH Kallis,17,,JP Duminy,5,Ireland,South Africa,91,Ireland,Eden Gardens,3,South Africa
+115,18.6,1,PR Stirling,2011-03-15,1st,JH Kallis,17,,JP Duminy,6,Ireland,South Africa,92,Ireland,Eden Gardens,3,South Africa
+116,19.1,1,GH Dockrell,2011-03-15,1st,JH Kallis,17,,JP Duminy,7,Ireland,South Africa,93,Ireland,Eden Gardens,3,South Africa
+117,19.2,0,GH Dockrell,2011-03-15,1st,JP Duminy,7,,JH Kallis,17,Ireland,South Africa,93,Ireland,Eden Gardens,3,South Africa
+118,19.3,0,GH Dockrell,2011-03-15,1st,JP Duminy,7,,JH Kallis,17,Ireland,South Africa,93,Ireland,Eden Gardens,3,South Africa
+119,19.4,0,GH Dockrell,2011-03-15,1st,JP Duminy,7,,JH Kallis,17,Ireland,South Africa,93,Ireland,Eden Gardens,3,South Africa
+120,19.5,1,GH Dockrell,2011-03-15,1st,JP Duminy,7,,JH Kallis,18,Ireland,South Africa,94,Ireland,Eden Gardens,3,South Africa
+121,19.6,0,GH Dockrell,2011-03-15,1st,JH Kallis,18,,JP Duminy,7,Ireland,South Africa,94,Ireland,Eden Gardens,3,South Africa
+122,20.1,0,PR Stirling,2011-03-15,1st,JP Duminy,7,,JH Kallis,18,Ireland,South Africa,94,Ireland,Eden Gardens,3,South Africa
+123,20.2,1,PR Stirling,2011-03-15,1st,JP Duminy,7,,JH Kallis,19,Ireland,South Africa,95,Ireland,Eden Gardens,3,South Africa
+124,20.3,0,PR Stirling,2011-03-15,1st,JH Kallis,19,JH Kallis,JP Duminy,7,Ireland,South Africa,95,Ireland,Eden Gardens,4,South Africa
+125,20.4,1,PR Stirling,2011-03-15,1st,JP Duminy,7,,F du Plessis,1,Ireland,South Africa,96,Ireland,Eden Gardens,4,South Africa
+126,20.5,1,PR Stirling,2011-03-15,1st,F du Plessis,1,,JP Duminy,8,Ireland,South Africa,97,Ireland,Eden Gardens,4,South Africa
+127,20.6,0,PR Stirling,2011-03-15,1st,JP Duminy,8,,F du Plessis,1,Ireland,South Africa,97,Ireland,Eden Gardens,4,South Africa
+128,21.1,1,GH Dockrell,2011-03-15,1st,F du Plessis,1,,JP Duminy,9,Ireland,South Africa,98,Ireland,Eden Gardens,4,South Africa
+129,21.2,0,GH Dockrell,2011-03-15,1st,JP Duminy,9,,F du Plessis,1,Ireland,South Africa,98,Ireland,Eden Gardens,4,South Africa
+130,21.3,1,GH Dockrell,2011-03-15,1st,JP Duminy,9,,F du Plessis,2,Ireland,South Africa,99,Ireland,Eden Gardens,4,South Africa
+131,21.4,1,GH Dockrell,2011-03-15,1st,F du Plessis,2,,JP Duminy,10,Ireland,South Africa,100,Ireland,Eden Gardens,4,South Africa
+132,21.5,0,GH Dockrell,2011-03-15,1st,JP Duminy,10,,F du Plessis,2,Ireland,South Africa,100,Ireland,Eden Gardens,4,South Africa
+133,21.6,0,GH Dockrell,2011-03-15,1st,JP Duminy,10,,F du Plessis,2,Ireland,South Africa,100,Ireland,Eden Gardens,4,South Africa
+134,22.1,0,PR Stirling,2011-03-15,1st,F du Plessis,2,,JP Duminy,10,Ireland,South Africa,100,Ireland,Eden Gardens,4,South Africa
+135,22.2,1,PR Stirling,2011-03-15,1st,F du Plessis,2,,JP Duminy,11,Ireland,South Africa,101,Ireland,Eden Gardens,4,South Africa
+136,22.3,1,PR Stirling,2011-03-15,1st,JP Duminy,11,,F du Plessis,3,Ireland,South Africa,102,Ireland,Eden Gardens,4,South Africa
+137,22.4,0,PR Stirling,2011-03-15,1st,F du Plessis,3,,JP Duminy,11,Ireland,South Africa,102,Ireland,Eden Gardens,4,South Africa
+138,22.5,0,PR Stirling,2011-03-15,1st,F du Plessis,3,,JP Duminy,11,Ireland,South Africa,102,Ireland,Eden Gardens,4,South Africa
+139,22.6,1,PR Stirling,2011-03-15,1st,F du Plessis,3,,JP Duminy,12,Ireland,South Africa,103,Ireland,Eden Gardens,4,South Africa
+140,23.1,1,GH Dockrell,2011-03-15,1st,F du Plessis,3,,JP Duminy,13,Ireland,South Africa,104,Ireland,Eden Gardens,4,South Africa
+141,23.2,2,GH Dockrell,2011-03-15,1st,JP Duminy,13,,F du Plessis,5,Ireland,South Africa,106,Ireland,Eden Gardens,4,South Africa
+142,23.3,1,GH Dockrell,2011-03-15,1st,JP Duminy,13,,F du Plessis,6,Ireland,South Africa,107,Ireland,Eden Gardens,4,South Africa
+143,23.4,0,GH Dockrell,2011-03-15,1st,F du Plessis,6,,JP Duminy,13,Ireland,South Africa,107,Ireland,Eden Gardens,4,South Africa
+144,23.5,1,GH Dockrell,2011-03-15,1st,F du Plessis,6,,JP Duminy,14,Ireland,South Africa,108,Ireland,Eden Gardens,4,South Africa
+145,23.6,0,GH Dockrell,2011-03-15,1st,JP Duminy,14,,F du Plessis,6,Ireland,South Africa,108,Ireland,Eden Gardens,4,South Africa
+146,24.1,1,PR Stirling,2011-03-15,1st,F du Plessis,6,,JP Duminy,15,Ireland,South Africa,109,Ireland,Eden Gardens,4,South Africa
+147,24.2,2,PR Stirling,2011-03-15,1st,JP Duminy,15,,F du Plessis,8,Ireland,South Africa,111,Ireland,Eden Gardens,4,South Africa
+148,24.3,0,PR Stirling,2011-03-15,1st,JP Duminy,15,,F du Plessis,8,Ireland,South Africa,111,Ireland,Eden Gardens,4,South Africa
+149,24.4,1,PR Stirling,2011-03-15,1st,JP Duminy,15,,F du Plessis,9,Ireland,South Africa,112,Ireland,Eden Gardens,4,South Africa
+150,24.5,1,PR Stirling,2011-03-15,1st,F du Plessis,9,,JP Duminy,16,Ireland,South Africa,113,Ireland,Eden Gardens,4,South Africa
+151,24.6,0,PR Stirling,2011-03-15,1st,JP Duminy,16,,F du Plessis,9,Ireland,South Africa,113,Ireland,Eden Gardens,4,South Africa
+152,25.1,0,JF Mooney,2011-03-15,1st,F du Plessis,9,,JP Duminy,16,Ireland,South Africa,113,Ireland,Eden Gardens,4,South Africa
+153,25.2,0,JF Mooney,2011-03-15,1st,F du Plessis,9,,JP Duminy,16,Ireland,South Africa,114,Ireland,Eden Gardens,4,South Africa
+154,25.3,0,JF Mooney,2011-03-15,1st,JP Duminy,16,,F du Plessis,9,Ireland,South Africa,114,Ireland,Eden Gardens,4,South Africa
+155,25.4,0,JF Mooney,2011-03-15,1st,JP Duminy,16,,F du Plessis,9,Ireland,South Africa,114,Ireland,Eden Gardens,4,South Africa
+156,25.5,1,JF Mooney,2011-03-15,1st,JP Duminy,16,,F du Plessis,10,Ireland,South Africa,115,Ireland,Eden Gardens,4,South Africa
+157,25.6,0,JF Mooney,2011-03-15,1st,F du Plessis,10,,JP Duminy,16,Ireland,South Africa,115,Ireland,Eden Gardens,4,South Africa
+158,26.1,1,PR Stirling,2011-03-15,1st,JP Duminy,16,,F du Plessis,11,Ireland,South Africa,116,Ireland,Eden Gardens,4,South Africa
+159,26.2,1,PR Stirling,2011-03-15,1st,F du Plessis,11,,JP Duminy,17,Ireland,South Africa,117,Ireland,Eden Gardens,4,South Africa
+160,26.3,0,PR Stirling,2011-03-15,1st,JP Duminy,17,F du Plessis,F du Plessis,11,Ireland,South Africa,117,Ireland,Eden Gardens,5,South Africa
+161,26.4,0,PR Stirling,2011-03-15,1st,JP Duminy,17,,CA Ingram,0,Ireland,South Africa,117,Ireland,Eden Gardens,5,South Africa
+162,26.5,1,PR Stirling,2011-03-15,1st,JP Duminy,17,,CA Ingram,1,Ireland,South Africa,118,Ireland,Eden Gardens,5,South Africa
+163,26.6,0,PR Stirling,2011-03-15,1st,CA Ingram,1,,JP Duminy,17,Ireland,South Africa,119,Ireland,Eden Gardens,5,South Africa
+164,26.7,0,PR Stirling,2011-03-15,1st,CA Ingram,1,,JP Duminy,17,Ireland,South Africa,119,Ireland,Eden Gardens,5,South Africa
+165,27.1,0,JF Mooney,2011-03-15,1st,JP Duminy,17,,CA Ingram,1,Ireland,South Africa,119,Ireland,Eden Gardens,5,South Africa
+166,27.2,4,JF Mooney,2011-03-15,1st,JP Duminy,17,,CA Ingram,5,Ireland,South Africa,123,Ireland,Eden Gardens,5,South Africa
+167,27.3,0,JF Mooney,2011-03-15,1st,JP Duminy,17,,CA Ingram,5,Ireland,South Africa,123,Ireland,Eden Gardens,5,South Africa
+168,27.4,0,JF Mooney,2011-03-15,1st,JP Duminy,17,,CA Ingram,5,Ireland,South Africa,124,Ireland,Eden Gardens,5,South Africa
+169,27.5,1,JF Mooney,2011-03-15,1st,CA Ingram,5,,JP Duminy,18,Ireland,South Africa,125,Ireland,Eden Gardens,5,South Africa
+170,27.6,0,JF Mooney,2011-03-15,1st,JP Duminy,18,,CA Ingram,5,Ireland,South Africa,125,Ireland,Eden Gardens,5,South Africa
+171,28.1,1,PR Stirling,2011-03-15,1st,CA Ingram,5,,JP Duminy,19,Ireland,South Africa,126,Ireland,Eden Gardens,5,South Africa
+172,28.2,0,PR Stirling,2011-03-15,1st,JP Duminy,19,,CA Ingram,5,Ireland,South Africa,126,Ireland,Eden Gardens,5,South Africa
+173,28.3,0,PR Stirling,2011-03-15,1st,JP Duminy,19,,CA Ingram,5,Ireland,South Africa,126,Ireland,Eden Gardens,5,South Africa
+174,28.4,1,PR Stirling,2011-03-15,1st,JP Duminy,19,,CA Ingram,6,Ireland,South Africa,127,Ireland,Eden Gardens,5,South Africa
+175,28.5,1,PR Stirling,2011-03-15,1st,CA Ingram,6,,JP Duminy,20,Ireland,South Africa,128,Ireland,Eden Gardens,5,South Africa
+176,28.6,1,PR Stirling,2011-03-15,1st,JP Duminy,20,,CA Ingram,7,Ireland,South Africa,129,Ireland,Eden Gardens,5,South Africa
+177,29.1,1,GH Dockrell,2011-03-15,1st,JP Duminy,20,,CA Ingram,8,Ireland,South Africa,130,Ireland,Eden Gardens,5,South Africa
+178,29.2,3,GH Dockrell,2011-03-15,1st,CA Ingram,8,,JP Duminy,23,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+179,29.3,0,GH Dockrell,2011-03-15,1st,JP Duminy,23,,CA Ingram,8,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+180,29.4,0,GH Dockrell,2011-03-15,1st,JP Duminy,23,,CA Ingram,8,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+181,29.5,0,GH Dockrell,2011-03-15,1st,JP Duminy,23,,CA Ingram,8,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+182,29.6,0,GH Dockrell,2011-03-15,1st,JP Duminy,23,,CA Ingram,8,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+183,30.1,0,PR Stirling,2011-03-15,1st,CA Ingram,8,,JP Duminy,23,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+184,30.2,0,PR Stirling,2011-03-15,1st,CA Ingram,8,,JP Duminy,23,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+185,30.3,0,PR Stirling,2011-03-15,1st,CA Ingram,8,,JP Duminy,23,Ireland,South Africa,133,Ireland,Eden Gardens,5,South Africa
+186,30.4,1,PR Stirling,2011-03-15,1st,CA Ingram,8,,JP Duminy,24,Ireland,South Africa,134,Ireland,Eden Gardens,5,South Africa
+187,30.5,1,PR Stirling,2011-03-15,1st,JP Duminy,24,,CA Ingram,9,Ireland,South Africa,135,Ireland,Eden Gardens,5,South Africa
+188,30.6,1,PR Stirling,2011-03-15,1st,CA Ingram,9,,JP Duminy,25,Ireland,South Africa,136,Ireland,Eden Gardens,5,South Africa
+189,31.1,0,GH Dockrell,2011-03-15,1st,CA Ingram,9,,JP Duminy,25,Ireland,South Africa,136,Ireland,Eden Gardens,5,South Africa
+190,31.2,1,GH Dockrell,2011-03-15,1st,CA Ingram,9,,JP Duminy,26,Ireland,South Africa,137,Ireland,Eden Gardens,5,South Africa
+191,31.3,4,GH Dockrell,2011-03-15,1st,JP Duminy,26,,CA Ingram,13,Ireland,South Africa,141,Ireland,Eden Gardens,5,South Africa
+192,31.4,0,GH Dockrell,2011-03-15,1st,JP Duminy,26,,CA Ingram,13,Ireland,South Africa,141,Ireland,Eden Gardens,5,South Africa
+193,31.5,1,GH Dockrell,2011-03-15,1st,JP Duminy,26,,CA Ingram,14,Ireland,South Africa,142,Ireland,Eden Gardens,5,South Africa
+194,31.6,1,GH Dockrell,2011-03-15,1st,CA Ingram,14,,JP Duminy,27,Ireland,South Africa,143,Ireland,Eden Gardens,5,South Africa
+195,32.1,4,PR Stirling,2011-03-15,1st,CA Ingram,14,,JP Duminy,31,Ireland,South Africa,147,Ireland,Eden Gardens,5,South Africa
+196,32.2,1,PR Stirling,2011-03-15,1st,CA Ingram,14,,JP Duminy,32,Ireland,South Africa,148,Ireland,Eden Gardens,5,South Africa
+197,32.3,0,PR Stirling,2011-03-15,1st,JP Duminy,32,,CA Ingram,14,Ireland,South Africa,148,Ireland,Eden Gardens,5,South Africa
+198,32.4,2,PR Stirling,2011-03-15,1st,JP Duminy,32,,CA Ingram,16,Ireland,South Africa,150,Ireland,Eden Gardens,5,South Africa
+199,32.5,4,PR Stirling,2011-03-15,1st,JP Duminy,32,,CA Ingram,20,Ireland,South Africa,154,Ireland,Eden Gardens,5,South Africa
+200,32.6,0,PR Stirling,2011-03-15,1st,JP Duminy,32,,CA Ingram,20,Ireland,South Africa,154,Ireland,Eden Gardens,5,South Africa
+201,33.1,0,AR Cusack,2011-03-15,1st,CA Ingram,20,,JP Duminy,32,Ireland,South Africa,154,Ireland,Eden Gardens,5,South Africa
+202,33.2,0,AR Cusack,2011-03-15,1st,CA Ingram,20,,JP Duminy,32,Ireland,South Africa,155,Ireland,Eden Gardens,5,South Africa
+203,33.3,1,AR Cusack,2011-03-15,1st,CA Ingram,20,,JP Duminy,33,Ireland,South Africa,156,Ireland,Eden Gardens,5,South Africa
+204,33.4,0,AR Cusack,2011-03-15,1st,JP Duminy,33,,CA Ingram,20,Ireland,South Africa,156,Ireland,Eden Gardens,5,South Africa
+205,33.5,1,AR Cusack,2011-03-15,1st,JP Duminy,33,,CA Ingram,21,Ireland,South Africa,157,Ireland,Eden Gardens,5,South Africa
+206,33.6,1,AR Cusack,2011-03-15,1st,CA Ingram,21,,JP Duminy,34,Ireland,South Africa,158,Ireland,Eden Gardens,5,South Africa
+207,33.7,0,AR Cusack,2011-03-15,1st,JP Duminy,34,,CA Ingram,21,Ireland,South Africa,158,Ireland,Eden Gardens,5,South Africa
+208,34.1,1,WB Rankin,2011-03-15,1st,CA Ingram,21,,JP Duminy,35,Ireland,South Africa,159,Ireland,Eden Gardens,5,South Africa
+209,34.2,0,WB Rankin,2011-03-15,1st,JP Duminy,35,,CA Ingram,21,Ireland,South Africa,159,Ireland,Eden Gardens,5,South Africa
+210,34.3,1,WB Rankin,2011-03-15,1st,JP Duminy,35,,CA Ingram,22,Ireland,South Africa,160,Ireland,Eden Gardens,5,South Africa
+211,34.4,2,WB Rankin,2011-03-15,1st,CA Ingram,22,,JP Duminy,37,Ireland,South Africa,162,Ireland,Eden Gardens,5,South Africa
+212,34.5,0,WB Rankin,2011-03-15,1st,CA Ingram,22,,JP Duminy,37,Ireland,South Africa,162,Ireland,Eden Gardens,5,South Africa
+213,34.6,0,WB Rankin,2011-03-15,1st,CA Ingram,22,,JP Duminy,37,Ireland,South Africa,162,Ireland,Eden Gardens,5,South Africa
+214,35.1,4,AR Cusack,2011-03-15,1st,JP Duminy,37,,CA Ingram,26,Ireland,South Africa,166,Ireland,Eden Gardens,5,South Africa
+215,35.2,1,AR Cusack,2011-03-15,1st,JP Duminy,37,,CA Ingram,27,Ireland,South Africa,167,Ireland,Eden Gardens,5,South Africa
+216,35.3,0,AR Cusack,2011-03-15,1st,CA Ingram,27,,JP Duminy,37,Ireland,South Africa,167,Ireland,Eden Gardens,5,South Africa
+217,35.4,1,AR Cusack,2011-03-15,1st,CA Ingram,27,,JP Duminy,38,Ireland,South Africa,168,Ireland,Eden Gardens,5,South Africa
+218,35.5,0,AR Cusack,2011-03-15,1st,JP Duminy,38,,CA Ingram,27,Ireland,South Africa,168,Ireland,Eden Gardens,5,South Africa
+219,35.6,4,AR Cusack,2011-03-15,1st,JP Duminy,38,,CA Ingram,31,Ireland,South Africa,172,Ireland,Eden Gardens,5,South Africa
+220,36.1,0,WB Rankin,2011-03-15,1st,CA Ingram,31,,JP Duminy,38,Ireland,South Africa,172,Ireland,Eden Gardens,5,South Africa
+221,36.2,1,WB Rankin,2011-03-15,1st,CA Ingram,31,,JP Duminy,39,Ireland,South Africa,173,Ireland,Eden Gardens,5,South Africa
+222,36.3,4,WB Rankin,2011-03-15,1st,JP Duminy,39,,CA Ingram,35,Ireland,South Africa,177,Ireland,Eden Gardens,5,South Africa
+223,36.4,4,WB Rankin,2011-03-15,1st,JP Duminy,39,,CA Ingram,39,Ireland,South Africa,181,Ireland,Eden Gardens,5,South Africa
+224,36.5,1,WB Rankin,2011-03-15,1st,JP Duminy,39,,CA Ingram,40,Ireland,South Africa,182,Ireland,Eden Gardens,5,South Africa
+225,36.6,1,WB Rankin,2011-03-15,1st,CA Ingram,40,,JP Duminy,40,Ireland,South Africa,183,Ireland,Eden Gardens,5,South Africa
+226,37.1,3,DT Johnston,2011-03-15,1st,CA Ingram,40,,JP Duminy,43,Ireland,South Africa,186,Ireland,Eden Gardens,5,South Africa
+227,37.2,1,DT Johnston,2011-03-15,1st,JP Duminy,43,,CA Ingram,41,Ireland,South Africa,187,Ireland,Eden Gardens,5,South Africa
+228,37.3,1,DT Johnston,2011-03-15,1st,CA Ingram,41,,JP Duminy,44,Ireland,South Africa,188,Ireland,Eden Gardens,5,South Africa
+229,37.4,1,DT Johnston,2011-03-15,1st,JP Duminy,44,,CA Ingram,42,Ireland,South Africa,189,Ireland,Eden Gardens,5,South Africa
+230,37.5,1,DT Johnston,2011-03-15,1st,CA Ingram,42,,JP Duminy,45,Ireland,South Africa,190,Ireland,Eden Gardens,5,South Africa
+231,37.6,2,DT Johnston,2011-03-15,1st,JP Duminy,45,,CA Ingram,44,Ireland,South Africa,192,Ireland,Eden Gardens,5,South Africa
+232,38.1,1,GH Dockrell,2011-03-15,1st,CA Ingram,44,,JP Duminy,46,Ireland,South Africa,193,Ireland,Eden Gardens,5,South Africa
+233,38.2,1,GH Dockrell,2011-03-15,1st,JP Duminy,46,,CA Ingram,45,Ireland,South Africa,194,Ireland,Eden Gardens,5,South Africa
+234,38.3,1,GH Dockrell,2011-03-15,1st,CA Ingram,45,,JP Duminy,47,Ireland,South Africa,195,Ireland,Eden Gardens,5,South Africa
+235,38.4,1,GH Dockrell,2011-03-15,1st,JP Duminy,47,,CA Ingram,46,Ireland,South Africa,196,Ireland,Eden Gardens,5,South Africa
+236,38.5,1,GH Dockrell,2011-03-15,1st,CA Ingram,46,,JP Duminy,48,Ireland,South Africa,197,Ireland,Eden Gardens,5,South Africa
+237,38.6,0,GH Dockrell,2011-03-15,1st,JP Duminy,48,,CA Ingram,46,Ireland,South Africa,197,Ireland,Eden Gardens,5,South Africa
+238,39.1,4,DT Johnston,2011-03-15,1st,CA Ingram,46,,JP Duminy,52,Ireland,South Africa,201,Ireland,Eden Gardens,5,South Africa
+239,39.2,2,DT Johnston,2011-03-15,1st,CA Ingram,46,,JP Duminy,54,Ireland,South Africa,203,Ireland,Eden Gardens,5,South Africa
+240,39.3,1,DT Johnston,2011-03-15,1st,CA Ingram,46,,JP Duminy,55,Ireland,South Africa,204,Ireland,Eden Gardens,5,South Africa
+241,39.4,0,DT Johnston,2011-03-15,1st,JP Duminy,55,CA Ingram,CA Ingram,46,Ireland,South Africa,204,Ireland,Eden Gardens,6,South Africa
+242,39.5,0,DT Johnston,2011-03-15,1st,JP Duminy,55,,J Botha,0,Ireland,South Africa,204,Ireland,Eden Gardens,6,South Africa
+243,39.6,0,DT Johnston,2011-03-15,1st,JP Duminy,55,,J Botha,0,Ireland,South Africa,204,Ireland,Eden Gardens,6,South Africa
+244,40.1,0,GH Dockrell,2011-03-15,1st,J Botha,0,,JP Duminy,55,Ireland,South Africa,204,Ireland,Eden Gardens,6,South Africa
+245,40.2,0,GH Dockrell,2011-03-15,1st,J Botha,0,,JP Duminy,55,Ireland,South Africa,204,Ireland,Eden Gardens,6,South Africa
+246,40.3,1,GH Dockrell,2011-03-15,1st,J Botha,0,,JP Duminy,56,Ireland,South Africa,205,Ireland,Eden Gardens,6,South Africa
+247,40.4,1,GH Dockrell,2011-03-15,1st,JP Duminy,56,,J Botha,1,Ireland,South Africa,206,Ireland,Eden Gardens,6,South Africa
+248,40.5,0,GH Dockrell,2011-03-15,1st,J Botha,1,,JP Duminy,56,Ireland,South Africa,206,Ireland,Eden Gardens,6,South Africa
+249,40.6,0,GH Dockrell,2011-03-15,1st,J Botha,1,,JP Duminy,56,Ireland,South Africa,206,Ireland,Eden Gardens,6,South Africa
+250,41.1,0,JF Mooney,2011-03-15,1st,JP Duminy,56,,J Botha,1,Ireland,South Africa,206,Ireland,Eden Gardens,6,South Africa
+251,41.2,1,JF Mooney,2011-03-15,1st,JP Duminy,56,,J Botha,2,Ireland,South Africa,207,Ireland,Eden Gardens,6,South Africa
+252,41.3,1,JF Mooney,2011-03-15,1st,J Botha,2,,JP Duminy,57,Ireland,South Africa,208,Ireland,Eden Gardens,6,South Africa
+253,41.4,1,JF Mooney,2011-03-15,1st,JP Duminy,57,,J Botha,3,Ireland,South Africa,209,Ireland,Eden Gardens,6,South Africa
+254,41.5,1,JF Mooney,2011-03-15,1st,J Botha,3,,JP Duminy,58,Ireland,South Africa,210,Ireland,Eden Gardens,6,South Africa
+255,41.6,0,JF Mooney,2011-03-15,1st,JP Duminy,58,,J Botha,3,Ireland,South Africa,210,Ireland,Eden Gardens,6,South Africa
+256,42.1,1,PR Stirling,2011-03-15,1st,J Botha,3,,JP Duminy,59,Ireland,South Africa,211,Ireland,Eden Gardens,6,South Africa
+257,42.2,4,PR Stirling,2011-03-15,1st,JP Duminy,59,,J Botha,7,Ireland,South Africa,215,Ireland,Eden Gardens,6,South Africa
+258,42.3,0,PR Stirling,2011-03-15,1st,JP Duminy,59,,J Botha,7,Ireland,South Africa,215,Ireland,Eden Gardens,6,South Africa
+259,42.4,1,PR Stirling,2011-03-15,1st,JP Duminy,59,,J Botha,8,Ireland,South Africa,216,Ireland,Eden Gardens,6,South Africa
+260,42.5,0,PR Stirling,2011-03-15,1st,J Botha,8,,JP Duminy,59,Ireland,South Africa,216,Ireland,Eden Gardens,6,South Africa
+261,42.6,1,PR Stirling,2011-03-15,1st,J Botha,8,,JP Duminy,60,Ireland,South Africa,217,Ireland,Eden Gardens,6,South Africa
+262,43.1,1,JF Mooney,2011-03-15,1st,J Botha,8,,JP Duminy,61,Ireland,South Africa,218,Ireland,Eden Gardens,6,South Africa
+263,43.2,2,JF Mooney,2011-03-15,1st,JP Duminy,61,,J Botha,10,Ireland,South Africa,220,Ireland,Eden Gardens,6,South Africa
+264,43.3,1,JF Mooney,2011-03-15,1st,JP Duminy,61,,J Botha,11,Ireland,South Africa,221,Ireland,Eden Gardens,6,South Africa
+265,43.4,1,JF Mooney,2011-03-15,1st,J Botha,11,,JP Duminy,62,Ireland,South Africa,222,Ireland,Eden Gardens,6,South Africa
+266,43.5,1,JF Mooney,2011-03-15,1st,JP Duminy,62,,J Botha,12,Ireland,South Africa,223,Ireland,Eden Gardens,6,South Africa
+267,43.6,4,JF Mooney,2011-03-15,1st,J Botha,12,,JP Duminy,66,Ireland,South Africa,227,Ireland,Eden Gardens,6,South Africa
+268,44.1,0,WB Rankin,2011-03-15,1st,JP Duminy,66,,J Botha,12,Ireland,South Africa,227,Ireland,Eden Gardens,6,South Africa
+269,44.2,1,WB Rankin,2011-03-15,1st,JP Duminy,66,,J Botha,13,Ireland,South Africa,228,Ireland,Eden Gardens,6,South Africa
+270,44.3,1,WB Rankin,2011-03-15,1st,J Botha,13,,JP Duminy,67,Ireland,South Africa,229,Ireland,Eden Gardens,6,South Africa
+271,44.4,0,WB Rankin,2011-03-15,1st,JP Duminy,67,,J Botha,13,Ireland,South Africa,229,Ireland,Eden Gardens,6,South Africa
+272,44.5,1,WB Rankin,2011-03-15,1st,JP Duminy,67,,J Botha,14,Ireland,South Africa,230,Ireland,Eden Gardens,6,South Africa
+273,44.6,1,WB Rankin,2011-03-15,1st,J Botha,14,,JP Duminy,68,Ireland,South Africa,231,Ireland,Eden Gardens,6,South Africa
+274,45.1,1,DT Johnston,2011-03-15,1st,J Botha,14,,JP Duminy,69,Ireland,South Africa,232,Ireland,Eden Gardens,6,South Africa
+275,45.2,0,DT Johnston,2011-03-15,1st,JP Duminy,69,,J Botha,14,Ireland,South Africa,232,Ireland,Eden Gardens,6,South Africa
+276,45.3,1,DT Johnston,2011-03-15,1st,JP Duminy,69,,J Botha,15,Ireland,South Africa,233,Ireland,Eden Gardens,6,South Africa
+277,45.4,5,DT Johnston,2011-03-15,1st,J Botha,15,,JP Duminy,74,Ireland,South Africa,238,Ireland,Eden Gardens,6,South Africa
+278,45.5,1,DT Johnston,2011-03-15,1st,JP Duminy,74,,J Botha,16,Ireland,South Africa,239,Ireland,Eden Gardens,6,South Africa
+279,45.6,1,DT Johnston,2011-03-15,1st,J Botha,16,,JP Duminy,75,Ireland,South Africa,240,Ireland,Eden Gardens,6,South Africa
+280,46.1,0,WB Rankin,2011-03-15,1st,J Botha,16,,JP Duminy,75,Ireland,South Africa,240,Ireland,Eden Gardens,6,South Africa
+281,46.2,1,WB Rankin,2011-03-15,1st,J Botha,16,,JP Duminy,76,Ireland,South Africa,241,Ireland,Eden Gardens,6,South Africa
+282,46.3,1,WB Rankin,2011-03-15,1st,JP Duminy,76,,J Botha,17,Ireland,South Africa,242,Ireland,Eden Gardens,6,South Africa
+283,46.4,0,WB Rankin,2011-03-15,1st,J Botha,17,,JP Duminy,76,Ireland,South Africa,242,Ireland,Eden Gardens,6,South Africa
+284,46.5,1,WB Rankin,2011-03-15,1st,J Botha,17,,JP Duminy,77,Ireland,South Africa,243,Ireland,Eden Gardens,6,South Africa
+285,46.6,0,WB Rankin,2011-03-15,1st,JP Duminy,77,,J Botha,17,Ireland,South Africa,243,Ireland,Eden Gardens,6,South Africa
+286,47.1,0,JF Mooney,2011-03-15,1st,J Botha,17,,JP Duminy,77,Ireland,South Africa,243,Ireland,Eden Gardens,6,South Africa
+287,47.2,4,JF Mooney,2011-03-15,1st,J Botha,17,,JP Duminy,81,Ireland,South Africa,247,Ireland,Eden Gardens,6,South Africa
+288,47.3,1,JF Mooney,2011-03-15,1st,J Botha,17,,JP Duminy,82,Ireland,South Africa,248,Ireland,Eden Gardens,6,South Africa
+289,47.4,1,JF Mooney,2011-03-15,1st,JP Duminy,82,,J Botha,18,Ireland,South Africa,249,Ireland,Eden Gardens,6,South Africa
+290,47.5,0,JF Mooney,2011-03-15,1st,J Botha,18,,JP Duminy,82,Ireland,South Africa,249,Ireland,Eden Gardens,6,South Africa
+291,47.6,1,JF Mooney,2011-03-15,1st,J Botha,18,,JP Duminy,83,Ireland,South Africa,250,Ireland,Eden Gardens,6,South Africa
+292,48.1,4,DT Johnston,2011-03-15,1st,J Botha,18,,JP Duminy,87,Ireland,South Africa,254,Ireland,Eden Gardens,6,South Africa
+293,48.2,0,DT Johnston,2011-03-15,1st,J Botha,18,,JP Duminy,87,Ireland,South Africa,255,Ireland,Eden Gardens,6,South Africa
+294,48.3,1,DT Johnston,2011-03-15,1st,JP Duminy,87,,J Botha,19,Ireland,South Africa,256,Ireland,Eden Gardens,6,South Africa
+295,48.4,6,DT Johnston,2011-03-15,1st,J Botha,19,,JP Duminy,93,Ireland,South Africa,262,Ireland,Eden Gardens,6,South Africa
+296,48.5,4,DT Johnston,2011-03-15,1st,J Botha,19,,JP Duminy,97,Ireland,South Africa,266,Ireland,Eden Gardens,6,South Africa
+297,48.6,1,DT Johnston,2011-03-15,1st,J Botha,19,,JP Duminy,98,Ireland,South Africa,267,Ireland,Eden Gardens,6,South Africa
+298,49.1,1,JF Mooney,2011-03-15,1st,J Botha,19,,JP Duminy,99,Ireland,South Africa,268,Ireland,Eden Gardens,6,South Africa
+299,49.2,0,JF Mooney,2011-03-15,1st,JP Duminy,99,,J Botha,19,Ireland,South Africa,268,Ireland,Eden Gardens,6,South Africa
+300,49.3,0,JF Mooney,2011-03-15,1st,JP Duminy,99,,J Botha,19,Ireland,South Africa,269,Ireland,Eden Gardens,6,South Africa
+301,49.4,0,JF Mooney,2011-03-15,1st,J Botha,19,JP Duminy,JP Duminy,99,Ireland,South Africa,269,Ireland,Eden Gardens,7,South Africa
+302,49.5,2,JF Mooney,2011-03-15,1st,RJ Peterson,0,,J Botha,21,Ireland,South Africa,271,Ireland,Eden Gardens,7,South Africa
+303,49.6,0,JF Mooney,2011-03-15,1st,RJ Peterson,0,,J Botha,21,Ireland,South Africa,272,Ireland,Eden Gardens,7,South Africa
+304,0.1,0,DW Steyn,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,0,Ireland,Eden Gardens,0,South Africa
+305,0.2,0,DW Steyn,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,0,Ireland,Eden Gardens,0,South Africa
+306,0.3,0,DW Steyn,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,0,Ireland,Eden Gardens,0,South Africa
+307,0.4,4,DW Steyn,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,4,Ireland,Eden Gardens,0,South Africa
+308,0.5,2,DW Steyn,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,6,Ireland,Eden Gardens,0,South Africa
+309,0.6,0,DW Steyn,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,6,Ireland,Eden Gardens,0,South Africa
+310,1.1,0,M Morkel,2011-03-15,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,South Africa,7,Ireland,Eden Gardens,0,South Africa
+311,1.2,0,M Morkel,2011-03-15,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,South Africa,7,Ireland,Eden Gardens,0,South Africa
+312,1.3,0,M Morkel,2011-03-15,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,South Africa,7,Ireland,Eden Gardens,0,South Africa
+313,1.4,0,M Morkel,2011-03-15,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,South Africa,7,Ireland,Eden Gardens,0,South Africa
+314,1.5,1,M Morkel,2011-03-15,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,South Africa,8,Ireland,Eden Gardens,0,South Africa
+315,1.6,0,M Morkel,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,8,Ireland,Eden Gardens,0,South Africa
+316,1.7,0,M Morkel,2011-03-15,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,South Africa,8,Ireland,Eden Gardens,1,South Africa
+317,2.1,1,DW Steyn,2011-03-15,2nd,EC Joyce,0,,PR Stirling,0,Ireland,South Africa,9,Ireland,Eden Gardens,1,South Africa
+318,2.2,1,DW Steyn,2011-03-15,2nd,PR Stirling,0,,EC Joyce,0,Ireland,South Africa,10,Ireland,Eden Gardens,1,South Africa
+319,2.3,4,DW Steyn,2011-03-15,2nd,EC Joyce,0,,PR Stirling,0,Ireland,South Africa,14,Ireland,Eden Gardens,1,South Africa
+320,2.4,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,PR Stirling,0,Ireland,South Africa,14,Ireland,Eden Gardens,1,South Africa
+321,2.5,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,PR Stirling,0,Ireland,South Africa,14,Ireland,Eden Gardens,1,South Africa
+322,2.6,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,PR Stirling,0,Ireland,South Africa,14,Ireland,Eden Gardens,1,South Africa
+323,3.1,1,M Morkel,2011-03-15,2nd,PR Stirling,0,,EC Joyce,0,Ireland,South Africa,15,Ireland,Eden Gardens,1,South Africa
+324,3.2,4,M Morkel,2011-03-15,2nd,EC Joyce,0,,PR Stirling,0,Ireland,South Africa,19,Ireland,Eden Gardens,1,South Africa
+325,3.3,0,M Morkel,2011-03-15,2nd,EC Joyce,0,,PR Stirling,0,Ireland,South Africa,19,Ireland,Eden Gardens,2,South Africa
+326,3.4,1,M Morkel,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,20,Ireland,Eden Gardens,2,South Africa
+327,3.5,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,20,Ireland,Eden Gardens,2,South Africa
+328,3.6,4,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,24,Ireland,Eden Gardens,2,South Africa
+329,4.1,1,DW Steyn,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+330,4.2,0,DW Steyn,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+331,4.3,0,DW Steyn,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+332,4.4,0,DW Steyn,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+333,4.5,0,DW Steyn,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+334,4.6,0,DW Steyn,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+335,5.1,0,M Morkel,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+336,5.2,0,M Morkel,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,25,Ireland,Eden Gardens,2,South Africa
+337,5.3,6,M Morkel,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,31,Ireland,Eden Gardens,2,South Africa
+338,5.4,1,M Morkel,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+339,5.5,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+340,5.6,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+341,6.1,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+342,6.2,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+343,6.3,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+344,6.4,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+345,6.5,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+346,6.6,0,DW Steyn,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+347,7.1,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+348,7.2,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+349,7.3,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,32,Ireland,Eden Gardens,2,South Africa
+350,7.4,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,33,Ireland,Eden Gardens,2,South Africa
+351,7.5,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,33,Ireland,Eden Gardens,2,South Africa
+352,7.6,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,33,Ireland,Eden Gardens,2,South Africa
+353,7.7,0,M Morkel,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,33,Ireland,Eden Gardens,2,South Africa
+354,8.1,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,33,Ireland,Eden Gardens,2,South Africa
+355,8.2,1,JH Kallis,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,34,Ireland,Eden Gardens,2,South Africa
+356,8.3,1,JH Kallis,2011-03-15,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,South Africa,35,Ireland,Eden Gardens,2,South Africa
+357,8.4,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,35,Ireland,Eden Gardens,2,South Africa
+358,8.5,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,South Africa,35,Ireland,Eden Gardens,3,South Africa
+359,8.6,1,JH Kallis,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,36,Ireland,Eden Gardens,3,South Africa
+360,9.1,4,M Morkel,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,40,Ireland,Eden Gardens,3,South Africa
+361,9.2,0,M Morkel,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,40,Ireland,Eden Gardens,3,South Africa
+362,9.3,1,M Morkel,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,41,Ireland,Eden Gardens,3,South Africa
+363,9.4,4,M Morkel,2011-03-15,2nd,GC Wilson,0,,EC Joyce,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+364,9.5,0,M Morkel,2011-03-15,2nd,GC Wilson,0,,EC Joyce,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+365,9.6,0,M Morkel,2011-03-15,2nd,GC Wilson,0,,EC Joyce,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+366,10.1,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+367,10.2,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+368,10.3,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+369,10.4,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+370,10.5,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+371,10.6,0,JH Kallis,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,45,Ireland,Eden Gardens,3,South Africa
+372,11.1,1,J Botha,2011-03-15,2nd,GC Wilson,0,,EC Joyce,0,Ireland,South Africa,46,Ireland,Eden Gardens,3,South Africa
+373,11.2,4,J Botha,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,50,Ireland,Eden Gardens,3,South Africa
+374,11.3,1,J Botha,2011-03-15,2nd,EC Joyce,0,,GC Wilson,0,Ireland,South Africa,51,Ireland,Eden Gardens,3,South Africa
+375,11.4,0,J Botha,2011-03-15,2nd,GC Wilson,0,,EC Joyce,0,Ireland,South Africa,51,Ireland,Eden Gardens,3,South Africa
+376,11.5,0,J Botha,2011-03-15,2nd,GC Wilson,0,,EC Joyce,0,Ireland,South Africa,51,Ireland,Eden Gardens,4,South Africa
+377,11.6,0,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,51,Ireland,Eden Gardens,4,South Africa
+378,12.1,0,JH Kallis,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,51,Ireland,Eden Gardens,4,South Africa
+379,12.2,1,JH Kallis,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,52,Ireland,Eden Gardens,4,South Africa
+380,12.3,0,JH Kallis,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,52,Ireland,Eden Gardens,4,South Africa
+381,12.4,0,JH Kallis,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,52,Ireland,Eden Gardens,4,South Africa
+382,12.5,0,JH Kallis,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,52,Ireland,Eden Gardens,4,South Africa
+383,12.6,4,JH Kallis,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,56,Ireland,Eden Gardens,4,South Africa
+384,13.1,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,56,Ireland,Eden Gardens,4,South Africa
+385,13.2,6,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,62,Ireland,Eden Gardens,4,South Africa
+386,13.3,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,62,Ireland,Eden Gardens,4,South Africa
+387,13.4,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,62,Ireland,Eden Gardens,4,South Africa
+388,13.5,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,62,Ireland,Eden Gardens,4,South Africa
+389,13.6,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,62,Ireland,Eden Gardens,4,South Africa
+390,14.1,1,JH Kallis,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,63,Ireland,Eden Gardens,4,South Africa
+391,14.2,0,JH Kallis,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,63,Ireland,Eden Gardens,4,South Africa
+392,14.3,1,JH Kallis,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,64,Ireland,Eden Gardens,4,South Africa
+393,14.4,2,JH Kallis,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,66,Ireland,Eden Gardens,4,South Africa
+394,14.5,1,JH Kallis,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,67,Ireland,Eden Gardens,4,South Africa
+395,14.6,0,JH Kallis,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,67,Ireland,Eden Gardens,4,South Africa
+396,15.1,0,RJ Peterson,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,67,Ireland,Eden Gardens,4,South Africa
+397,15.2,1,RJ Peterson,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,68,Ireland,Eden Gardens,4,South Africa
+398,15.3,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,68,Ireland,Eden Gardens,4,South Africa
+399,15.4,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,68,Ireland,Eden Gardens,4,South Africa
+400,15.5,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,68,Ireland,Eden Gardens,4,South Africa
+401,15.6,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,68,Ireland,Eden Gardens,4,South Africa
+402,16.1,0,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,68,Ireland,Eden Gardens,4,South Africa
+403,16.2,0,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,68,Ireland,Eden Gardens,4,South Africa
+404,16.3,0,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,70,Ireland,Eden Gardens,4,South Africa
+405,16.4,4,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,74,Ireland,Eden Gardens,4,South Africa
+406,16.5,0,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,74,Ireland,Eden Gardens,4,South Africa
+407,16.6,0,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,74,Ireland,Eden Gardens,4,South Africa
+408,16.7,0,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,74,Ireland,Eden Gardens,4,South Africa
+409,17.1,1,RJ Peterson,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,75,Ireland,Eden Gardens,4,South Africa
+410,17.2,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,75,Ireland,Eden Gardens,4,South Africa
+411,17.3,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,75,Ireland,Eden Gardens,4,South Africa
+412,17.4,1,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,76,Ireland,Eden Gardens,4,South Africa
+413,17.5,1,RJ Peterson,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,77,Ireland,Eden Gardens,4,South Africa
+414,17.6,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,77,Ireland,Eden Gardens,4,South Africa
+415,18.1,1,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,78,Ireland,Eden Gardens,4,South Africa
+416,18.2,1,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,79,Ireland,Eden Gardens,4,South Africa
+417,18.3,1,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,80,Ireland,Eden Gardens,4,South Africa
+418,18.4,0,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,80,Ireland,Eden Gardens,4,South Africa
+419,18.5,1,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,81,Ireland,Eden Gardens,4,South Africa
+420,18.6,0,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,81,Ireland,Eden Gardens,4,South Africa
+421,19.1,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,81,Ireland,Eden Gardens,4,South Africa
+422,19.2,4,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,85,Ireland,Eden Gardens,4,South Africa
+423,19.3,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,85,Ireland,Eden Gardens,4,South Africa
+424,19.4,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,85,Ireland,Eden Gardens,4,South Africa
+425,19.5,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,85,Ireland,Eden Gardens,4,South Africa
+426,19.6,0,RJ Peterson,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,85,Ireland,Eden Gardens,4,South Africa
+427,20.1,0,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,85,Ireland,Eden Gardens,4,South Africa
+428,20.2,0,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,85,Ireland,Eden Gardens,4,South Africa
+429,20.3,1,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,86,Ireland,Eden Gardens,4,South Africa
+430,20.4,0,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,86,Ireland,Eden Gardens,4,South Africa
+431,20.5,1,J Botha,2011-03-15,2nd,KJ O'Brien,0,,GC Wilson,0,Ireland,South Africa,87,Ireland,Eden Gardens,4,South Africa
+432,20.6,1,J Botha,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,88,Ireland,Eden Gardens,4,South Africa
+433,21.1,4,RJ Peterson,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,92,Ireland,Eden Gardens,4,South Africa
+434,21.2,0,RJ Peterson,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,92,Ireland,Eden Gardens,4,South Africa
+435,21.3,0,RJ Peterson,2011-03-15,2nd,GC Wilson,0,,KJ O'Brien,0,Ireland,South Africa,92,Ireland,Eden Gardens,5,South Africa
+436,21.4,0,RJ Peterson,2011-03-15,2nd,AR Cusack,0,,GC Wilson,0,Ireland,South Africa,92,Ireland,Eden Gardens,5,South Africa
+437,21.5,0,RJ Peterson,2011-03-15,2nd,AR Cusack,0,,GC Wilson,0,Ireland,South Africa,92,Ireland,Eden Gardens,6,South Africa
+438,21.6,1,RJ Peterson,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,93,Ireland,Eden Gardens,6,South Africa
+439,22.1,0,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,93,Ireland,Eden Gardens,6,South Africa
+440,22.2,0,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,93,Ireland,Eden Gardens,6,South Africa
+441,22.3,1,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,94,Ireland,Eden Gardens,6,South Africa
+442,22.4,0,J Botha,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,94,Ireland,Eden Gardens,6,South Africa
+443,22.5,1,J Botha,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,95,Ireland,Eden Gardens,6,South Africa
+444,22.6,0,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,95,Ireland,Eden Gardens,6,South Africa
+445,23.1,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,95,Ireland,Eden Gardens,6,South Africa
+446,23.2,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,95,Ireland,Eden Gardens,6,South Africa
+447,23.3,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,95,Ireland,Eden Gardens,6,South Africa
+448,23.4,4,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,99,Ireland,Eden Gardens,6,South Africa
+449,23.5,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,99,Ireland,Eden Gardens,6,South Africa
+450,23.6,1,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,100,Ireland,Eden Gardens,6,South Africa
+451,24.1,1,J Botha,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,101,Ireland,Eden Gardens,6,South Africa
+452,24.2,0,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,101,Ireland,Eden Gardens,6,South Africa
+453,24.3,4,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,105,Ireland,Eden Gardens,6,South Africa
+454,24.4,0,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,105,Ireland,Eden Gardens,6,South Africa
+455,24.5,1,J Botha,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,106,Ireland,Eden Gardens,6,South Africa
+456,24.6,0,J Botha,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,106,Ireland,Eden Gardens,6,South Africa
+457,25.1,0,RJ Peterson,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,106,Ireland,Eden Gardens,6,South Africa
+458,25.2,0,RJ Peterson,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,106,Ireland,Eden Gardens,6,South Africa
+459,25.3,0,RJ Peterson,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,106,Ireland,Eden Gardens,6,South Africa
+460,25.4,1,RJ Peterson,2011-03-15,2nd,AR Cusack,0,,JF Mooney,0,Ireland,South Africa,107,Ireland,Eden Gardens,6,South Africa
+461,25.5,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,AR Cusack,0,Ireland,South Africa,107,Ireland,Eden Gardens,7,South Africa
+462,25.6,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,107,Ireland,Eden Gardens,7,South Africa
+463,26.1,2,J Botha,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,109,Ireland,Eden Gardens,7,South Africa
+464,26.2,1,J Botha,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,110,Ireland,Eden Gardens,7,South Africa
+465,26.3,0,J Botha,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,110,Ireland,Eden Gardens,7,South Africa
+466,26.4,0,J Botha,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,110,Ireland,Eden Gardens,7,South Africa
+467,26.5,1,J Botha,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,111,Ireland,Eden Gardens,7,South Africa
+468,26.6,0,J Botha,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,111,Ireland,Eden Gardens,7,South Africa
+469,27.1,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,111,Ireland,Eden Gardens,7,South Africa
+470,27.2,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,111,Ireland,Eden Gardens,7,South Africa
+471,27.3,6,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,117,Ireland,Eden Gardens,7,South Africa
+472,27.4,0,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,117,Ireland,Eden Gardens,7,South Africa
+473,27.5,1,RJ Peterson,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,118,Ireland,Eden Gardens,7,South Africa
+474,27.6,0,RJ Peterson,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,118,Ireland,Eden Gardens,7,South Africa
+475,28.1,0,J Botha,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,118,Ireland,Eden Gardens,7,South Africa
+476,28.2,0,J Botha,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,118,Ireland,Eden Gardens,7,South Africa
+477,28.3,1,J Botha,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,119,Ireland,Eden Gardens,7,South Africa
+478,28.4,0,J Botha,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,119,Ireland,Eden Gardens,7,South Africa
+479,28.5,0,J Botha,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,119,Ireland,Eden Gardens,7,South Africa
+480,28.6,0,J Botha,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,119,Ireland,Eden Gardens,7,South Africa
+481,29.1,0,JP Duminy,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,119,Ireland,Eden Gardens,7,South Africa
+482,29.2,1,JP Duminy,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,120,Ireland,Eden Gardens,7,South Africa
+483,29.3,1,JP Duminy,2011-03-15,2nd,DT Johnston,0,,JF Mooney,0,Ireland,South Africa,121,Ireland,Eden Gardens,7,South Africa
+484,29.4,2,JP Duminy,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,123,Ireland,Eden Gardens,7,South Africa
+485,29.5,0,JP Duminy,2011-03-15,2nd,JF Mooney,0,,DT Johnston,0,Ireland,South Africa,123,Ireland,Eden Gardens,8,South Africa
+486,29.6,4,JP Duminy,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,127,Ireland,Eden Gardens,8,South Africa
+487,30.1,0,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,JF Mooney,0,Ireland,South Africa,127,Ireland,Eden Gardens,8,South Africa
+488,30.2,1,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,JF Mooney,0,Ireland,South Africa,128,Ireland,Eden Gardens,8,South Africa
+489,30.3,1,JH Kallis,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,129,Ireland,Eden Gardens,8,South Africa
+490,30.4,0,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,JF Mooney,0,Ireland,South Africa,129,Ireland,Eden Gardens,8,South Africa
+491,30.5,0,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,JF Mooney,0,Ireland,South Africa,129,Ireland,Eden Gardens,8,South Africa
+492,30.6,0,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,JF Mooney,0,Ireland,South Africa,129,Ireland,Eden Gardens,8,South Africa
+493,31.1,0,JP Duminy,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,129,Ireland,Eden Gardens,8,South Africa
+494,31.2,0,JP Duminy,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,129,Ireland,Eden Gardens,8,South Africa
+495,31.3,0,JP Duminy,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,129,Ireland,Eden Gardens,8,South Africa
+496,31.4,1,JP Duminy,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,130,Ireland,Eden Gardens,8,South Africa
+497,31.5,1,JP Duminy,2011-03-15,2nd,GH Dockrell,0,,JF Mooney,0,Ireland,South Africa,131,Ireland,Eden Gardens,8,South Africa
+498,31.6,1,JP Duminy,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,132,Ireland,Eden Gardens,8,South Africa
+499,32.1,0,JH Kallis,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,132,Ireland,Eden Gardens,8,South Africa
+500,32.2,4,JH Kallis,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,136,Ireland,Eden Gardens,8,South Africa
+501,32.3,1,JH Kallis,2011-03-15,2nd,JF Mooney,0,,GH Dockrell,0,Ireland,South Africa,137,Ireland,Eden Gardens,8,South Africa
+502,32.4,0,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,JF Mooney,0,Ireland,South Africa,137,Ireland,Eden Gardens,9,South Africa
+503,32.5,0,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,WB Rankin,0,Ireland,South Africa,137,Ireland,Eden Gardens,9,South Africa
+504,32.6,0,JH Kallis,2011-03-15,2nd,GH Dockrell,0,,WB Rankin,0,Ireland,South Africa,137,Ireland,Eden Gardens,9,South Africa
+505,33.1,4,M Morkel,2011-03-15,2nd,WB Rankin,0,,GH Dockrell,0,Ireland,South Africa,141,Ireland,Eden Gardens,9,South Africa
+506,33.2,0,M Morkel,2011-03-15,2nd,WB Rankin,0,,GH Dockrell,0,Ireland,South Africa,141,Ireland,Eden Gardens,10,South Africa

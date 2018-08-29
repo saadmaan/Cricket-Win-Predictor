@@ -1,0 +1,623 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,SM Pollock,2007-10-20,1st,Kamran Akmal,0,,Imran Nazir,0,Pakistan,South Africa,0,Pakistan,Gaddafi Stadium,0,Pakistan
+1,0.2,1,SM Pollock,2007-10-20,1st,Kamran Akmal,0,,Imran Nazir,1,Pakistan,South Africa,1,Pakistan,Gaddafi Stadium,0,Pakistan
+2,0.3,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Kamran Akmal,0,Pakistan,South Africa,1,Pakistan,Gaddafi Stadium,0,Pakistan
+3,0.4,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Kamran Akmal,0,Pakistan,South Africa,1,Pakistan,Gaddafi Stadium,0,Pakistan
+4,0.5,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,Kamran Akmal,Kamran Akmal,0,Pakistan,South Africa,1,Pakistan,Gaddafi Stadium,1,Pakistan
+5,0.6,1,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Younis Khan,1,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+6,1.1,0,M Ntini,2007-10-20,1st,Imran Nazir,1,,Younis Khan,1,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+7,1.2,0,M Ntini,2007-10-20,1st,Imran Nazir,1,,Younis Khan,1,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+8,1.3,0,M Ntini,2007-10-20,1st,Imran Nazir,1,,Younis Khan,1,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+9,1.4,0,M Ntini,2007-10-20,1st,Imran Nazir,1,,Younis Khan,1,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+10,1.5,1,M Ntini,2007-10-20,1st,Imran Nazir,1,,Younis Khan,2,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+11,1.6,0,M Ntini,2007-10-20,1st,Younis Khan,2,,Imran Nazir,1,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+12,2.1,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Younis Khan,2,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+13,2.2,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Younis Khan,2,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+14,2.3,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Younis Khan,2,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+15,2.4,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Younis Khan,2,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+16,2.5,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Younis Khan,2,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+17,2.6,0,SM Pollock,2007-10-20,1st,Imran Nazir,1,,Younis Khan,2,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+18,3.1,0,M Ntini,2007-10-20,1st,Younis Khan,2,,Imran Nazir,1,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+19,3.2,1,M Ntini,2007-10-20,1st,Younis Khan,2,,Imran Nazir,2,Pakistan,South Africa,4,Pakistan,Gaddafi Stadium,1,Pakistan
+20,3.3,1,M Ntini,2007-10-20,1st,Imran Nazir,2,,Younis Khan,3,Pakistan,South Africa,5,Pakistan,Gaddafi Stadium,1,Pakistan
+21,3.4,0,M Ntini,2007-10-20,1st,Younis Khan,3,,Imran Nazir,2,Pakistan,South Africa,5,Pakistan,Gaddafi Stadium,1,Pakistan
+22,3.5,0,M Ntini,2007-10-20,1st,Younis Khan,3,,Imran Nazir,2,Pakistan,South Africa,5,Pakistan,Gaddafi Stadium,1,Pakistan
+23,3.6,0,M Ntini,2007-10-20,1st,Younis Khan,3,,Imran Nazir,2,Pakistan,South Africa,10,Pakistan,Gaddafi Stadium,1,Pakistan
+24,3.7,0,M Ntini,2007-10-20,1st,Younis Khan,3,,Imran Nazir,2,Pakistan,South Africa,10,Pakistan,Gaddafi Stadium,1,Pakistan
+25,4.1,0,SM Pollock,2007-10-20,1st,Imran Nazir,2,,Younis Khan,3,Pakistan,South Africa,10,Pakistan,Gaddafi Stadium,1,Pakistan
+26,4.2,0,SM Pollock,2007-10-20,1st,Imran Nazir,2,,Younis Khan,3,Pakistan,South Africa,10,Pakistan,Gaddafi Stadium,1,Pakistan
+27,4.3,1,SM Pollock,2007-10-20,1st,Imran Nazir,2,,Younis Khan,4,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,1,Pakistan
+28,4.4,0,SM Pollock,2007-10-20,1st,Younis Khan,4,,Imran Nazir,2,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,1,Pakistan
+29,4.5,0,SM Pollock,2007-10-20,1st,Younis Khan,4,,Imran Nazir,2,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,1,Pakistan
+30,4.6,0,SM Pollock,2007-10-20,1st,Younis Khan,4,,Imran Nazir,2,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,1,Pakistan
+31,5.1,0,M Ntini,2007-10-20,1st,Imran Nazir,2,,Younis Khan,4,Pakistan,South Africa,12,Pakistan,Gaddafi Stadium,1,Pakistan
+32,5.2,1,M Ntini,2007-10-20,1st,Imran Nazir,2,,Younis Khan,5,Pakistan,South Africa,13,Pakistan,Gaddafi Stadium,1,Pakistan
+33,5.3,0,M Ntini,2007-10-20,1st,Younis Khan,5,,Imran Nazir,2,Pakistan,South Africa,13,Pakistan,Gaddafi Stadium,1,Pakistan
+34,5.4,0,M Ntini,2007-10-20,1st,Younis Khan,5,Imran Nazir,Imran Nazir,2,Pakistan,South Africa,13,Pakistan,Gaddafi Stadium,2,Pakistan
+35,5.5,0,M Ntini,2007-10-20,1st,Younis Khan,5,,Mohammad Yousuf,0,Pakistan,South Africa,13,Pakistan,Gaddafi Stadium,2,Pakistan
+36,5.6,2,M Ntini,2007-10-20,1st,Younis Khan,5,,Mohammad Yousuf,2,Pakistan,South Africa,15,Pakistan,Gaddafi Stadium,2,Pakistan
+37,5.7,0,M Ntini,2007-10-20,1st,Younis Khan,5,,Mohammad Yousuf,2,Pakistan,South Africa,15,Pakistan,Gaddafi Stadium,2,Pakistan
+38,6.1,1,SM Pollock,2007-10-20,1st,Mohammad Yousuf,2,,Younis Khan,6,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+39,6.2,0,SM Pollock,2007-10-20,1st,Younis Khan,6,,Mohammad Yousuf,2,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+40,6.3,0,SM Pollock,2007-10-20,1st,Younis Khan,6,,Mohammad Yousuf,2,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+41,6.4,0,SM Pollock,2007-10-20,1st,Younis Khan,6,,Mohammad Yousuf,2,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+42,6.5,0,SM Pollock,2007-10-20,1st,Younis Khan,6,,Mohammad Yousuf,2,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+43,6.6,0,SM Pollock,2007-10-20,1st,Younis Khan,6,,Mohammad Yousuf,2,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+44,7.1,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,2,,Younis Khan,6,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+45,7.2,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,2,,Younis Khan,6,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+46,7.3,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,2,,Younis Khan,6,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+47,7.4,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,2,,Younis Khan,6,Pakistan,South Africa,16,Pakistan,Gaddafi Stadium,2,Pakistan
+48,7.5,4,M Ntini,2007-10-20,1st,Mohammad Yousuf,2,,Younis Khan,10,Pakistan,South Africa,20,Pakistan,Gaddafi Stadium,2,Pakistan
+49,7.6,4,M Ntini,2007-10-20,1st,Mohammad Yousuf,2,,Younis Khan,14,Pakistan,South Africa,24,Pakistan,Gaddafi Stadium,2,Pakistan
+50,8.1,0,SM Pollock,2007-10-20,1st,Younis Khan,14,,Mohammad Yousuf,2,Pakistan,South Africa,24,Pakistan,Gaddafi Stadium,2,Pakistan
+51,8.2,1,SM Pollock,2007-10-20,1st,Younis Khan,14,,Mohammad Yousuf,3,Pakistan,South Africa,25,Pakistan,Gaddafi Stadium,2,Pakistan
+52,8.3,1,SM Pollock,2007-10-20,1st,Mohammad Yousuf,3,,Younis Khan,15,Pakistan,South Africa,26,Pakistan,Gaddafi Stadium,2,Pakistan
+53,8.4,0,SM Pollock,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,3,Pakistan,South Africa,26,Pakistan,Gaddafi Stadium,2,Pakistan
+54,8.5,1,SM Pollock,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,4,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+55,8.6,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,4,,Younis Khan,15,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+56,9.1,0,M Ntini,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,4,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+57,9.2,0,M Ntini,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,4,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+58,9.3,0,M Ntini,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,4,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+59,9.4,0,M Ntini,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,4,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+60,9.5,0,M Ntini,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,4,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+61,9.6,4,M Ntini,2007-10-20,1st,Younis Khan,15,,Mohammad Yousuf,8,Pakistan,South Africa,31,Pakistan,Gaddafi Stadium,2,Pakistan
+62,10.1,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,8,,Younis Khan,15,Pakistan,South Africa,31,Pakistan,Gaddafi Stadium,2,Pakistan
+63,10.2,1,SM Pollock,2007-10-20,1st,Mohammad Yousuf,8,,Younis Khan,16,Pakistan,South Africa,32,Pakistan,Gaddafi Stadium,2,Pakistan
+64,10.3,0,SM Pollock,2007-10-20,1st,Younis Khan,16,,Mohammad Yousuf,8,Pakistan,South Africa,32,Pakistan,Gaddafi Stadium,2,Pakistan
+65,10.4,4,SM Pollock,2007-10-20,1st,Younis Khan,16,,Mohammad Yousuf,12,Pakistan,South Africa,36,Pakistan,Gaddafi Stadium,2,Pakistan
+66,10.5,0,SM Pollock,2007-10-20,1st,Younis Khan,16,,Mohammad Yousuf,12,Pakistan,South Africa,36,Pakistan,Gaddafi Stadium,2,Pakistan
+67,10.6,0,SM Pollock,2007-10-20,1st,Younis Khan,16,,Mohammad Yousuf,12,Pakistan,South Africa,36,Pakistan,Gaddafi Stadium,2,Pakistan
+68,11.1,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,12,,Younis Khan,16,Pakistan,South Africa,36,Pakistan,Gaddafi Stadium,2,Pakistan
+69,11.2,1,M Ntini,2007-10-20,1st,Mohammad Yousuf,12,,Younis Khan,17,Pakistan,South Africa,37,Pakistan,Gaddafi Stadium,2,Pakistan
+70,11.3,4,M Ntini,2007-10-20,1st,Younis Khan,17,,Mohammad Yousuf,16,Pakistan,South Africa,41,Pakistan,Gaddafi Stadium,2,Pakistan
+71,11.4,0,M Ntini,2007-10-20,1st,Younis Khan,17,,Mohammad Yousuf,16,Pakistan,South Africa,41,Pakistan,Gaddafi Stadium,2,Pakistan
+72,11.5,1,M Ntini,2007-10-20,1st,Younis Khan,17,,Mohammad Yousuf,17,Pakistan,South Africa,42,Pakistan,Gaddafi Stadium,2,Pakistan
+73,11.6,4,M Ntini,2007-10-20,1st,Mohammad Yousuf,17,,Younis Khan,21,Pakistan,South Africa,46,Pakistan,Gaddafi Stadium,2,Pakistan
+74,12.1,0,SM Pollock,2007-10-20,1st,Younis Khan,21,,Mohammad Yousuf,17,Pakistan,South Africa,46,Pakistan,Gaddafi Stadium,2,Pakistan
+75,12.2,1,SM Pollock,2007-10-20,1st,Younis Khan,21,,Mohammad Yousuf,18,Pakistan,South Africa,47,Pakistan,Gaddafi Stadium,2,Pakistan
+76,12.3,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,18,,Younis Khan,21,Pakistan,South Africa,47,Pakistan,Gaddafi Stadium,2,Pakistan
+77,12.4,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,18,,Younis Khan,21,Pakistan,South Africa,47,Pakistan,Gaddafi Stadium,2,Pakistan
+78,12.5,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,18,,Younis Khan,21,Pakistan,South Africa,47,Pakistan,Gaddafi Stadium,2,Pakistan
+79,12.6,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,18,,Younis Khan,21,Pakistan,South Africa,47,Pakistan,Gaddafi Stadium,2,Pakistan
+80,13.1,0,CK Langeveldt,2007-10-20,1st,Younis Khan,21,,Mohammad Yousuf,18,Pakistan,South Africa,47,Pakistan,Gaddafi Stadium,2,Pakistan
+81,13.2,0,CK Langeveldt,2007-10-20,1st,Younis Khan,21,,Mohammad Yousuf,18,Pakistan,South Africa,47,Pakistan,Gaddafi Stadium,2,Pakistan
+82,13.3,1,CK Langeveldt,2007-10-20,1st,Younis Khan,21,,Mohammad Yousuf,19,Pakistan,South Africa,48,Pakistan,Gaddafi Stadium,2,Pakistan
+83,13.4,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,19,,Younis Khan,22,Pakistan,South Africa,49,Pakistan,Gaddafi Stadium,2,Pakistan
+84,13.5,1,CK Langeveldt,2007-10-20,1st,Younis Khan,22,,Mohammad Yousuf,20,Pakistan,South Africa,50,Pakistan,Gaddafi Stadium,2,Pakistan
+85,13.6,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,20,,Younis Khan,22,Pakistan,South Africa,50,Pakistan,Gaddafi Stadium,2,Pakistan
+86,14.1,1,JA Morkel,2007-10-20,1st,Younis Khan,22,,Mohammad Yousuf,21,Pakistan,South Africa,51,Pakistan,Gaddafi Stadium,2,Pakistan
+87,14.2,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,21,,Younis Khan,23,Pakistan,South Africa,52,Pakistan,Gaddafi Stadium,2,Pakistan
+88,14.3,1,JA Morkel,2007-10-20,1st,Younis Khan,23,,Mohammad Yousuf,22,Pakistan,South Africa,53,Pakistan,Gaddafi Stadium,2,Pakistan
+89,14.4,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,22,,Younis Khan,24,Pakistan,South Africa,54,Pakistan,Gaddafi Stadium,2,Pakistan
+90,14.5,0,JA Morkel,2007-10-20,1st,Younis Khan,24,,Mohammad Yousuf,22,Pakistan,South Africa,54,Pakistan,Gaddafi Stadium,2,Pakistan
+91,14.6,1,JA Morkel,2007-10-20,1st,Younis Khan,24,,Mohammad Yousuf,23,Pakistan,South Africa,55,Pakistan,Gaddafi Stadium,2,Pakistan
+92,15.1,0,CK Langeveldt,2007-10-20,1st,Younis Khan,24,,Mohammad Yousuf,23,Pakistan,South Africa,55,Pakistan,Gaddafi Stadium,2,Pakistan
+93,15.2,1,CK Langeveldt,2007-10-20,1st,Younis Khan,24,,Mohammad Yousuf,24,Pakistan,South Africa,56,Pakistan,Gaddafi Stadium,2,Pakistan
+94,15.3,2,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,24,,Younis Khan,26,Pakistan,South Africa,58,Pakistan,Gaddafi Stadium,2,Pakistan
+95,15.4,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,24,,Younis Khan,26,Pakistan,South Africa,59,Pakistan,Gaddafi Stadium,2,Pakistan
+96,15.5,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,24,,Younis Khan,27,Pakistan,South Africa,60,Pakistan,Gaddafi Stadium,2,Pakistan
+97,15.6,0,CK Langeveldt,2007-10-20,1st,Younis Khan,27,,Mohammad Yousuf,24,Pakistan,South Africa,60,Pakistan,Gaddafi Stadium,2,Pakistan
+98,15.7,0,CK Langeveldt,2007-10-20,1st,Younis Khan,27,,Mohammad Yousuf,24,Pakistan,South Africa,60,Pakistan,Gaddafi Stadium,2,Pakistan
+99,16.1,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,24,,Younis Khan,28,Pakistan,South Africa,61,Pakistan,Gaddafi Stadium,2,Pakistan
+100,16.2,1,JA Morkel,2007-10-20,1st,Younis Khan,28,,Mohammad Yousuf,25,Pakistan,South Africa,62,Pakistan,Gaddafi Stadium,2,Pakistan
+101,16.3,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,25,,Younis Khan,29,Pakistan,South Africa,63,Pakistan,Gaddafi Stadium,2,Pakistan
+102,16.4,0,JA Morkel,2007-10-20,1st,Younis Khan,29,,Mohammad Yousuf,25,Pakistan,South Africa,63,Pakistan,Gaddafi Stadium,2,Pakistan
+103,16.5,1,JA Morkel,2007-10-20,1st,Younis Khan,29,,Mohammad Yousuf,26,Pakistan,South Africa,64,Pakistan,Gaddafi Stadium,2,Pakistan
+104,16.6,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,26,,Younis Khan,29,Pakistan,South Africa,64,Pakistan,Gaddafi Stadium,2,Pakistan
+105,17.1,2,CK Langeveldt,2007-10-20,1st,Younis Khan,29,,Mohammad Yousuf,28,Pakistan,South Africa,66,Pakistan,Gaddafi Stadium,2,Pakistan
+106,17.2,1,CK Langeveldt,2007-10-20,1st,Younis Khan,29,,Mohammad Yousuf,29,Pakistan,South Africa,67,Pakistan,Gaddafi Stadium,2,Pakistan
+107,17.3,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,29,,Younis Khan,30,Pakistan,South Africa,68,Pakistan,Gaddafi Stadium,2,Pakistan
+108,17.4,1,CK Langeveldt,2007-10-20,1st,Younis Khan,30,,Mohammad Yousuf,30,Pakistan,South Africa,69,Pakistan,Gaddafi Stadium,2,Pakistan
+109,17.5,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,30,,Younis Khan,30,Pakistan,South Africa,69,Pakistan,Gaddafi Stadium,2,Pakistan
+110,17.6,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,30,,Younis Khan,31,Pakistan,South Africa,70,Pakistan,Gaddafi Stadium,2,Pakistan
+111,18.1,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,30,,Younis Khan,32,Pakistan,South Africa,71,Pakistan,Gaddafi Stadium,2,Pakistan
+112,18.2,0,JA Morkel,2007-10-20,1st,Younis Khan,32,,Mohammad Yousuf,30,Pakistan,South Africa,71,Pakistan,Gaddafi Stadium,2,Pakistan
+113,18.3,2,JA Morkel,2007-10-20,1st,Younis Khan,32,,Mohammad Yousuf,32,Pakistan,South Africa,73,Pakistan,Gaddafi Stadium,2,Pakistan
+114,18.4,0,JA Morkel,2007-10-20,1st,Younis Khan,32,Younis Khan,Mohammad Yousuf,32,Pakistan,South Africa,73,Pakistan,Gaddafi Stadium,3,Pakistan
+115,18.5,0,JA Morkel,2007-10-20,1st,Shoaib Malik,0,,Mohammad Yousuf,32,Pakistan,South Africa,73,Pakistan,Gaddafi Stadium,3,Pakistan
+116,18.6,0,JA Morkel,2007-10-20,1st,Shoaib Malik,0,,Mohammad Yousuf,32,Pakistan,South Africa,73,Pakistan,Gaddafi Stadium,3,Pakistan
+117,19.1,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,32,,Shoaib Malik,1,Pakistan,South Africa,74,Pakistan,Gaddafi Stadium,3,Pakistan
+118,19.2,1,CK Langeveldt,2007-10-20,1st,Shoaib Malik,1,,Mohammad Yousuf,33,Pakistan,South Africa,75,Pakistan,Gaddafi Stadium,3,Pakistan
+119,19.3,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,33,,Shoaib Malik,1,Pakistan,South Africa,75,Pakistan,Gaddafi Stadium,3,Pakistan
+120,19.4,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,33,,Shoaib Malik,2,Pakistan,South Africa,76,Pakistan,Gaddafi Stadium,3,Pakistan
+121,19.5,0,CK Langeveldt,2007-10-20,1st,Shoaib Malik,2,,Mohammad Yousuf,33,Pakistan,South Africa,76,Pakistan,Gaddafi Stadium,3,Pakistan
+122,19.6,1,CK Langeveldt,2007-10-20,1st,Shoaib Malik,2,,Mohammad Yousuf,34,Pakistan,South Africa,77,Pakistan,Gaddafi Stadium,3,Pakistan
+123,20.1,1,J Botha,2007-10-20,1st,Shoaib Malik,2,,Mohammad Yousuf,35,Pakistan,South Africa,78,Pakistan,Gaddafi Stadium,3,Pakistan
+124,20.2,0,J Botha,2007-10-20,1st,Mohammad Yousuf,35,,Shoaib Malik,2,Pakistan,South Africa,78,Pakistan,Gaddafi Stadium,3,Pakistan
+125,20.3,0,J Botha,2007-10-20,1st,Mohammad Yousuf,35,,Shoaib Malik,2,Pakistan,South Africa,78,Pakistan,Gaddafi Stadium,3,Pakistan
+126,20.4,6,J Botha,2007-10-20,1st,Mohammad Yousuf,35,,Shoaib Malik,8,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+127,20.5,0,J Botha,2007-10-20,1st,Mohammad Yousuf,35,,Shoaib Malik,8,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+128,20.6,0,J Botha,2007-10-20,1st,Mohammad Yousuf,35,,Shoaib Malik,8,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+129,21.1,4,CK Langeveldt,2007-10-20,1st,Shoaib Malik,8,,Mohammad Yousuf,39,Pakistan,South Africa,88,Pakistan,Gaddafi Stadium,3,Pakistan
+130,21.2,1,CK Langeveldt,2007-10-20,1st,Shoaib Malik,8,,Mohammad Yousuf,40,Pakistan,South Africa,89,Pakistan,Gaddafi Stadium,3,Pakistan
+131,21.3,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,40,,Shoaib Malik,8,Pakistan,South Africa,89,Pakistan,Gaddafi Stadium,3,Pakistan
+132,21.4,2,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,40,,Shoaib Malik,10,Pakistan,South Africa,91,Pakistan,Gaddafi Stadium,3,Pakistan
+133,21.5,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,40,,Shoaib Malik,10,Pakistan,South Africa,91,Pakistan,Gaddafi Stadium,3,Pakistan
+134,21.6,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,40,,Shoaib Malik,11,Pakistan,South Africa,92,Pakistan,Gaddafi Stadium,3,Pakistan
+135,22.1,1,J Botha,2007-10-20,1st,Mohammad Yousuf,40,,Shoaib Malik,12,Pakistan,South Africa,93,Pakistan,Gaddafi Stadium,3,Pakistan
+136,22.2,0,J Botha,2007-10-20,1st,Shoaib Malik,12,,Mohammad Yousuf,40,Pakistan,South Africa,93,Pakistan,Gaddafi Stadium,3,Pakistan
+137,22.3,1,J Botha,2007-10-20,1st,Shoaib Malik,12,,Mohammad Yousuf,41,Pakistan,South Africa,94,Pakistan,Gaddafi Stadium,3,Pakistan
+138,22.4,1,J Botha,2007-10-20,1st,Mohammad Yousuf,41,,Shoaib Malik,13,Pakistan,South Africa,95,Pakistan,Gaddafi Stadium,3,Pakistan
+139,22.5,0,J Botha,2007-10-20,1st,Shoaib Malik,13,,Mohammad Yousuf,41,Pakistan,South Africa,95,Pakistan,Gaddafi Stadium,3,Pakistan
+140,22.6,4,J Botha,2007-10-20,1st,Shoaib Malik,13,,Mohammad Yousuf,45,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,3,Pakistan
+141,23.1,1,JH Kallis,2007-10-20,1st,Mohammad Yousuf,45,,Shoaib Malik,14,Pakistan,South Africa,100,Pakistan,Gaddafi Stadium,3,Pakistan
+142,23.2,0,JH Kallis,2007-10-20,1st,Shoaib Malik,14,,Mohammad Yousuf,45,Pakistan,South Africa,100,Pakistan,Gaddafi Stadium,3,Pakistan
+143,23.3,1,JH Kallis,2007-10-20,1st,Shoaib Malik,14,,Mohammad Yousuf,46,Pakistan,South Africa,101,Pakistan,Gaddafi Stadium,3,Pakistan
+144,23.4,1,JH Kallis,2007-10-20,1st,Mohammad Yousuf,46,,Shoaib Malik,15,Pakistan,South Africa,102,Pakistan,Gaddafi Stadium,3,Pakistan
+145,23.5,0,JH Kallis,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,46,Pakistan,South Africa,102,Pakistan,Gaddafi Stadium,3,Pakistan
+146,23.6,1,JH Kallis,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,47,Pakistan,South Africa,103,Pakistan,Gaddafi Stadium,3,Pakistan
+147,24.1,2,J Botha,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,49,Pakistan,South Africa,105,Pakistan,Gaddafi Stadium,3,Pakistan
+148,24.2,0,J Botha,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,49,Pakistan,South Africa,105,Pakistan,Gaddafi Stadium,3,Pakistan
+149,24.3,0,J Botha,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,49,Pakistan,South Africa,105,Pakistan,Gaddafi Stadium,3,Pakistan
+150,24.4,0,J Botha,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,49,Pakistan,South Africa,105,Pakistan,Gaddafi Stadium,3,Pakistan
+151,24.5,0,J Botha,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,49,Pakistan,South Africa,105,Pakistan,Gaddafi Stadium,3,Pakistan
+152,24.6,1,J Botha,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,50,Pakistan,South Africa,106,Pakistan,Gaddafi Stadium,3,Pakistan
+153,25.1,2,JH Kallis,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,52,Pakistan,South Africa,108,Pakistan,Gaddafi Stadium,3,Pakistan
+154,25.2,1,JH Kallis,2007-10-20,1st,Shoaib Malik,15,,Mohammad Yousuf,53,Pakistan,South Africa,109,Pakistan,Gaddafi Stadium,3,Pakistan
+155,25.3,1,JH Kallis,2007-10-20,1st,Mohammad Yousuf,53,,Shoaib Malik,16,Pakistan,South Africa,110,Pakistan,Gaddafi Stadium,3,Pakistan
+156,25.4,2,JH Kallis,2007-10-20,1st,Shoaib Malik,16,,Mohammad Yousuf,55,Pakistan,South Africa,112,Pakistan,Gaddafi Stadium,3,Pakistan
+157,25.5,1,JH Kallis,2007-10-20,1st,Shoaib Malik,16,,Mohammad Yousuf,56,Pakistan,South Africa,113,Pakistan,Gaddafi Stadium,3,Pakistan
+158,25.6,1,JH Kallis,2007-10-20,1st,Mohammad Yousuf,56,,Shoaib Malik,17,Pakistan,South Africa,114,Pakistan,Gaddafi Stadium,3,Pakistan
+159,26.1,1,J Botha,2007-10-20,1st,Mohammad Yousuf,56,,Shoaib Malik,18,Pakistan,South Africa,115,Pakistan,Gaddafi Stadium,3,Pakistan
+160,26.2,1,J Botha,2007-10-20,1st,Shoaib Malik,18,,Mohammad Yousuf,57,Pakistan,South Africa,116,Pakistan,Gaddafi Stadium,3,Pakistan
+161,26.3,6,J Botha,2007-10-20,1st,Mohammad Yousuf,57,,Shoaib Malik,24,Pakistan,South Africa,122,Pakistan,Gaddafi Stadium,3,Pakistan
+162,26.4,1,J Botha,2007-10-20,1st,Mohammad Yousuf,57,,Shoaib Malik,25,Pakistan,South Africa,123,Pakistan,Gaddafi Stadium,3,Pakistan
+163,26.5,0,J Botha,2007-10-20,1st,Shoaib Malik,25,,Mohammad Yousuf,57,Pakistan,South Africa,123,Pakistan,Gaddafi Stadium,3,Pakistan
+164,26.6,1,J Botha,2007-10-20,1st,Shoaib Malik,25,,Mohammad Yousuf,58,Pakistan,South Africa,124,Pakistan,Gaddafi Stadium,3,Pakistan
+165,27.1,1,JH Kallis,2007-10-20,1st,Shoaib Malik,25,,Mohammad Yousuf,59,Pakistan,South Africa,125,Pakistan,Gaddafi Stadium,3,Pakistan
+166,27.2,0,JH Kallis,2007-10-20,1st,Mohammad Yousuf,59,,Shoaib Malik,25,Pakistan,South Africa,125,Pakistan,Gaddafi Stadium,3,Pakistan
+167,27.3,2,JH Kallis,2007-10-20,1st,Mohammad Yousuf,59,,Shoaib Malik,27,Pakistan,South Africa,127,Pakistan,Gaddafi Stadium,3,Pakistan
+168,27.4,6,JH Kallis,2007-10-20,1st,Mohammad Yousuf,59,,Shoaib Malik,33,Pakistan,South Africa,133,Pakistan,Gaddafi Stadium,3,Pakistan
+169,27.5,0,JH Kallis,2007-10-20,1st,Mohammad Yousuf,59,,Shoaib Malik,33,Pakistan,South Africa,133,Pakistan,Gaddafi Stadium,3,Pakistan
+170,27.6,1,JH Kallis,2007-10-20,1st,Mohammad Yousuf,59,,Shoaib Malik,34,Pakistan,South Africa,134,Pakistan,Gaddafi Stadium,3,Pakistan
+171,28.1,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,59,,Shoaib Malik,35,Pakistan,South Africa,135,Pakistan,Gaddafi Stadium,3,Pakistan
+172,28.2,1,JA Morkel,2007-10-20,1st,Shoaib Malik,35,,Mohammad Yousuf,60,Pakistan,South Africa,136,Pakistan,Gaddafi Stadium,3,Pakistan
+173,28.3,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,60,,Shoaib Malik,35,Pakistan,South Africa,137,Pakistan,Gaddafi Stadium,3,Pakistan
+174,28.4,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,60,,Shoaib Malik,36,Pakistan,South Africa,138,Pakistan,Gaddafi Stadium,3,Pakistan
+175,28.5,0,JA Morkel,2007-10-20,1st,Shoaib Malik,36,,Mohammad Yousuf,60,Pakistan,South Africa,138,Pakistan,Gaddafi Stadium,3,Pakistan
+176,28.6,1,JA Morkel,2007-10-20,1st,Shoaib Malik,36,,Mohammad Yousuf,61,Pakistan,South Africa,139,Pakistan,Gaddafi Stadium,3,Pakistan
+177,28.7,2,JA Morkel,2007-10-20,1st,Mohammad Yousuf,61,,Shoaib Malik,38,Pakistan,South Africa,141,Pakistan,Gaddafi Stadium,3,Pakistan
+178,29.1,0,J Botha,2007-10-20,1st,Shoaib Malik,38,,Mohammad Yousuf,61,Pakistan,South Africa,141,Pakistan,Gaddafi Stadium,3,Pakistan
+179,29.2,1,J Botha,2007-10-20,1st,Shoaib Malik,38,,Mohammad Yousuf,62,Pakistan,South Africa,142,Pakistan,Gaddafi Stadium,3,Pakistan
+180,29.3,1,J Botha,2007-10-20,1st,Mohammad Yousuf,62,,Shoaib Malik,39,Pakistan,South Africa,143,Pakistan,Gaddafi Stadium,3,Pakistan
+181,29.4,1,J Botha,2007-10-20,1st,Shoaib Malik,39,,Mohammad Yousuf,63,Pakistan,South Africa,144,Pakistan,Gaddafi Stadium,3,Pakistan
+182,29.5,1,J Botha,2007-10-20,1st,Mohammad Yousuf,63,,Shoaib Malik,40,Pakistan,South Africa,145,Pakistan,Gaddafi Stadium,3,Pakistan
+183,29.6,1,J Botha,2007-10-20,1st,Shoaib Malik,40,,Mohammad Yousuf,64,Pakistan,South Africa,146,Pakistan,Gaddafi Stadium,3,Pakistan
+184,30.1,0,JA Morkel,2007-10-20,1st,Shoaib Malik,40,,Mohammad Yousuf,64,Pakistan,South Africa,146,Pakistan,Gaddafi Stadium,3,Pakistan
+185,30.2,0,JA Morkel,2007-10-20,1st,Shoaib Malik,40,,Mohammad Yousuf,64,Pakistan,South Africa,146,Pakistan,Gaddafi Stadium,3,Pakistan
+186,30.3,1,JA Morkel,2007-10-20,1st,Shoaib Malik,40,,Mohammad Yousuf,65,Pakistan,South Africa,147,Pakistan,Gaddafi Stadium,3,Pakistan
+187,30.4,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,65,,Shoaib Malik,40,Pakistan,South Africa,147,Pakistan,Gaddafi Stadium,3,Pakistan
+188,30.5,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,65,,Shoaib Malik,41,Pakistan,South Africa,148,Pakistan,Gaddafi Stadium,3,Pakistan
+189,30.6,0,JA Morkel,2007-10-20,1st,Shoaib Malik,41,,Mohammad Yousuf,65,Pakistan,South Africa,148,Pakistan,Gaddafi Stadium,3,Pakistan
+190,31.1,6,J Botha,2007-10-20,1st,Mohammad Yousuf,65,,Shoaib Malik,47,Pakistan,South Africa,154,Pakistan,Gaddafi Stadium,3,Pakistan
+191,31.2,0,J Botha,2007-10-20,1st,Mohammad Yousuf,65,,Shoaib Malik,47,Pakistan,South Africa,154,Pakistan,Gaddafi Stadium,3,Pakistan
+192,31.3,1,J Botha,2007-10-20,1st,Mohammad Yousuf,65,,Shoaib Malik,48,Pakistan,South Africa,155,Pakistan,Gaddafi Stadium,3,Pakistan
+193,31.4,0,J Botha,2007-10-20,1st,Shoaib Malik,48,,Mohammad Yousuf,65,Pakistan,South Africa,155,Pakistan,Gaddafi Stadium,3,Pakistan
+194,31.5,1,J Botha,2007-10-20,1st,Shoaib Malik,48,,Mohammad Yousuf,66,Pakistan,South Africa,156,Pakistan,Gaddafi Stadium,3,Pakistan
+195,31.6,0,J Botha,2007-10-20,1st,Mohammad Yousuf,66,,Shoaib Malik,48,Pakistan,South Africa,156,Pakistan,Gaddafi Stadium,3,Pakistan
+196,32.1,0,SM Pollock,2007-10-20,1st,Shoaib Malik,48,,Mohammad Yousuf,66,Pakistan,South Africa,156,Pakistan,Gaddafi Stadium,3,Pakistan
+197,32.2,0,SM Pollock,2007-10-20,1st,Shoaib Malik,48,,Mohammad Yousuf,66,Pakistan,South Africa,156,Pakistan,Gaddafi Stadium,3,Pakistan
+198,32.3,1,SM Pollock,2007-10-20,1st,Shoaib Malik,48,,Mohammad Yousuf,67,Pakistan,South Africa,157,Pakistan,Gaddafi Stadium,3,Pakistan
+199,32.4,1,SM Pollock,2007-10-20,1st,Mohammad Yousuf,67,,Shoaib Malik,49,Pakistan,South Africa,158,Pakistan,Gaddafi Stadium,3,Pakistan
+200,32.5,0,SM Pollock,2007-10-20,1st,Shoaib Malik,49,,Mohammad Yousuf,67,Pakistan,South Africa,158,Pakistan,Gaddafi Stadium,3,Pakistan
+201,32.6,0,SM Pollock,2007-10-20,1st,Shoaib Malik,49,,Mohammad Yousuf,67,Pakistan,South Africa,158,Pakistan,Gaddafi Stadium,3,Pakistan
+202,33.1,0,J Botha,2007-10-20,1st,Mohammad Yousuf,67,,Shoaib Malik,49,Pakistan,South Africa,158,Pakistan,Gaddafi Stadium,3,Pakistan
+203,33.2,1,J Botha,2007-10-20,1st,Mohammad Yousuf,67,,Shoaib Malik,50,Pakistan,South Africa,159,Pakistan,Gaddafi Stadium,3,Pakistan
+204,33.3,0,J Botha,2007-10-20,1st,Shoaib Malik,50,,Mohammad Yousuf,67,Pakistan,South Africa,159,Pakistan,Gaddafi Stadium,3,Pakistan
+205,33.4,0,J Botha,2007-10-20,1st,Shoaib Malik,50,,Mohammad Yousuf,67,Pakistan,South Africa,159,Pakistan,Gaddafi Stadium,3,Pakistan
+206,33.5,0,J Botha,2007-10-20,1st,Shoaib Malik,50,,Mohammad Yousuf,67,Pakistan,South Africa,159,Pakistan,Gaddafi Stadium,3,Pakistan
+207,33.6,1,J Botha,2007-10-20,1st,Shoaib Malik,50,,Mohammad Yousuf,68,Pakistan,South Africa,160,Pakistan,Gaddafi Stadium,3,Pakistan
+208,34.1,2,SM Pollock,2007-10-20,1st,Shoaib Malik,50,,Mohammad Yousuf,70,Pakistan,South Africa,162,Pakistan,Gaddafi Stadium,3,Pakistan
+209,34.2,0,SM Pollock,2007-10-20,1st,Shoaib Malik,50,,Mohammad Yousuf,70,Pakistan,South Africa,162,Pakistan,Gaddafi Stadium,3,Pakistan
+210,34.3,1,SM Pollock,2007-10-20,1st,Shoaib Malik,50,,Mohammad Yousuf,71,Pakistan,South Africa,163,Pakistan,Gaddafi Stadium,3,Pakistan
+211,34.4,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,71,,Shoaib Malik,50,Pakistan,South Africa,163,Pakistan,Gaddafi Stadium,3,Pakistan
+212,34.5,1,SM Pollock,2007-10-20,1st,Mohammad Yousuf,71,,Shoaib Malik,51,Pakistan,South Africa,164,Pakistan,Gaddafi Stadium,3,Pakistan
+213,34.6,4,SM Pollock,2007-10-20,1st,Shoaib Malik,51,,Mohammad Yousuf,75,Pakistan,South Africa,168,Pakistan,Gaddafi Stadium,3,Pakistan
+214,35.1,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,75,,Shoaib Malik,51,Pakistan,South Africa,168,Pakistan,Gaddafi Stadium,3,Pakistan
+215,35.2,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,75,,Shoaib Malik,51,Pakistan,South Africa,168,Pakistan,Gaddafi Stadium,3,Pakistan
+216,35.3,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,75,,Shoaib Malik,51,Pakistan,South Africa,168,Pakistan,Gaddafi Stadium,3,Pakistan
+217,35.4,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,75,,Shoaib Malik,52,Pakistan,South Africa,169,Pakistan,Gaddafi Stadium,3,Pakistan
+218,35.5,1,CK Langeveldt,2007-10-20,1st,Shoaib Malik,52,,Mohammad Yousuf,76,Pakistan,South Africa,170,Pakistan,Gaddafi Stadium,3,Pakistan
+219,35.6,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,76,,Shoaib Malik,53,Pakistan,South Africa,171,Pakistan,Gaddafi Stadium,3,Pakistan
+220,36.1,0,SM Pollock,2007-10-20,1st,Mohammad Yousuf,76,,Shoaib Malik,53,Pakistan,South Africa,171,Pakistan,Gaddafi Stadium,3,Pakistan
+221,36.2,1,SM Pollock,2007-10-20,1st,Mohammad Yousuf,76,,Shoaib Malik,54,Pakistan,South Africa,172,Pakistan,Gaddafi Stadium,3,Pakistan
+222,36.3,1,SM Pollock,2007-10-20,1st,Shoaib Malik,54,,Mohammad Yousuf,77,Pakistan,South Africa,173,Pakistan,Gaddafi Stadium,3,Pakistan
+223,36.4,1,SM Pollock,2007-10-20,1st,Mohammad Yousuf,77,,Shoaib Malik,55,Pakistan,South Africa,174,Pakistan,Gaddafi Stadium,3,Pakistan
+224,36.5,2,SM Pollock,2007-10-20,1st,Shoaib Malik,55,,Mohammad Yousuf,79,Pakistan,South Africa,176,Pakistan,Gaddafi Stadium,3,Pakistan
+225,36.6,1,SM Pollock,2007-10-20,1st,Shoaib Malik,55,,Mohammad Yousuf,80,Pakistan,South Africa,177,Pakistan,Gaddafi Stadium,3,Pakistan
+226,37.1,1,CK Langeveldt,2007-10-20,1st,Shoaib Malik,55,,Mohammad Yousuf,81,Pakistan,South Africa,178,Pakistan,Gaddafi Stadium,3,Pakistan
+227,37.2,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,81,,Shoaib Malik,56,Pakistan,South Africa,179,Pakistan,Gaddafi Stadium,3,Pakistan
+228,37.3,0,CK Langeveldt,2007-10-20,1st,Shoaib Malik,56,,Mohammad Yousuf,81,Pakistan,South Africa,179,Pakistan,Gaddafi Stadium,3,Pakistan
+229,37.4,1,CK Langeveldt,2007-10-20,1st,Shoaib Malik,56,,Mohammad Yousuf,82,Pakistan,South Africa,180,Pakistan,Gaddafi Stadium,3,Pakistan
+230,37.5,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,82,Shoaib Malik,Shoaib Malik,56,Pakistan,South Africa,180,Pakistan,Gaddafi Stadium,4,Pakistan
+231,37.6,0,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,82,,Misbah-ul-Haq,0,Pakistan,South Africa,180,Pakistan,Gaddafi Stadium,4,Pakistan
+232,38.1,1,JA Morkel,2007-10-20,1st,Misbah-ul-Haq,0,,Mohammad Yousuf,83,Pakistan,South Africa,181,Pakistan,Gaddafi Stadium,4,Pakistan
+233,38.2,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,83,,Misbah-ul-Haq,0,Pakistan,South Africa,181,Pakistan,Gaddafi Stadium,4,Pakistan
+234,38.3,1,JA Morkel,2007-10-20,1st,Mohammad Yousuf,83,,Misbah-ul-Haq,1,Pakistan,South Africa,182,Pakistan,Gaddafi Stadium,4,Pakistan
+235,38.4,1,JA Morkel,2007-10-20,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,84,Pakistan,South Africa,183,Pakistan,Gaddafi Stadium,4,Pakistan
+236,38.5,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,84,,Misbah-ul-Haq,1,Pakistan,South Africa,183,Pakistan,Gaddafi Stadium,4,Pakistan
+237,38.6,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,84,,Misbah-ul-Haq,1,Pakistan,South Africa,183,Pakistan,Gaddafi Stadium,4,Pakistan
+238,39.1,2,J Botha,2007-10-20,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,86,Pakistan,South Africa,185,Pakistan,Gaddafi Stadium,4,Pakistan
+239,39.2,0,J Botha,2007-10-20,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,86,Pakistan,South Africa,185,Pakistan,Gaddafi Stadium,4,Pakistan
+240,39.3,0,J Botha,2007-10-20,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,86,Pakistan,South Africa,185,Pakistan,Gaddafi Stadium,4,Pakistan
+241,39.4,1,J Botha,2007-10-20,1st,Misbah-ul-Haq,1,,Mohammad Yousuf,87,Pakistan,South Africa,186,Pakistan,Gaddafi Stadium,4,Pakistan
+242,39.5,0,J Botha,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,1,Pakistan,South Africa,186,Pakistan,Gaddafi Stadium,4,Pakistan
+243,39.6,1,J Botha,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,2,Pakistan,South Africa,187,Pakistan,Gaddafi Stadium,4,Pakistan
+244,40.1,2,JA Morkel,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,4,Pakistan,South Africa,189,Pakistan,Gaddafi Stadium,4,Pakistan
+245,40.2,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,4,Pakistan,South Africa,189,Pakistan,Gaddafi Stadium,4,Pakistan
+246,40.3,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,4,Pakistan,South Africa,189,Pakistan,Gaddafi Stadium,4,Pakistan
+247,40.4,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,4,Pakistan,South Africa,189,Pakistan,Gaddafi Stadium,4,Pakistan
+248,40.5,4,JA Morkel,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,8,Pakistan,South Africa,193,Pakistan,Gaddafi Stadium,4,Pakistan
+249,40.6,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,87,,Misbah-ul-Haq,8,Pakistan,South Africa,193,Pakistan,Gaddafi Stadium,4,Pakistan
+250,41.1,1,J Botha,2007-10-20,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,88,Pakistan,South Africa,194,Pakistan,Gaddafi Stadium,4,Pakistan
+251,41.2,0,J Botha,2007-10-20,1st,Mohammad Yousuf,88,,Misbah-ul-Haq,8,Pakistan,South Africa,194,Pakistan,Gaddafi Stadium,4,Pakistan
+252,41.3,6,J Botha,2007-10-20,1st,Mohammad Yousuf,88,,Misbah-ul-Haq,14,Pakistan,South Africa,200,Pakistan,Gaddafi Stadium,4,Pakistan
+253,41.4,1,J Botha,2007-10-20,1st,Mohammad Yousuf,88,,Misbah-ul-Haq,15,Pakistan,South Africa,201,Pakistan,Gaddafi Stadium,4,Pakistan
+254,41.5,1,J Botha,2007-10-20,1st,Misbah-ul-Haq,15,,Mohammad Yousuf,89,Pakistan,South Africa,202,Pakistan,Gaddafi Stadium,4,Pakistan
+255,41.6,4,J Botha,2007-10-20,1st,Mohammad Yousuf,89,,Misbah-ul-Haq,19,Pakistan,South Africa,206,Pakistan,Gaddafi Stadium,4,Pakistan
+256,42.1,0,JH Kallis,2007-10-20,1st,Misbah-ul-Haq,19,,Mohammad Yousuf,89,Pakistan,South Africa,210,Pakistan,Gaddafi Stadium,4,Pakistan
+257,42.2,0,JH Kallis,2007-10-20,1st,Misbah-ul-Haq,19,,Mohammad Yousuf,89,Pakistan,South Africa,211,Pakistan,Gaddafi Stadium,4,Pakistan
+258,42.3,1,JH Kallis,2007-10-20,1st,Misbah-ul-Haq,19,,Mohammad Yousuf,90,Pakistan,South Africa,212,Pakistan,Gaddafi Stadium,4,Pakistan
+259,42.4,0,JH Kallis,2007-10-20,1st,Mohammad Yousuf,90,,Misbah-ul-Haq,19,Pakistan,South Africa,212,Pakistan,Gaddafi Stadium,4,Pakistan
+260,42.5,1,JH Kallis,2007-10-20,1st,Mohammad Yousuf,90,,Misbah-ul-Haq,20,Pakistan,South Africa,213,Pakistan,Gaddafi Stadium,4,Pakistan
+261,42.6,0,JH Kallis,2007-10-20,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,90,Pakistan,South Africa,213,Pakistan,Gaddafi Stadium,4,Pakistan
+262,42.7,1,JH Kallis,2007-10-20,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,91,Pakistan,South Africa,214,Pakistan,Gaddafi Stadium,4,Pakistan
+263,43.1,2,M Ntini,2007-10-20,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,93,Pakistan,South Africa,216,Pakistan,Gaddafi Stadium,4,Pakistan
+264,43.2,3,M Ntini,2007-10-20,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,96,Pakistan,South Africa,219,Pakistan,Gaddafi Stadium,4,Pakistan
+265,43.3,1,M Ntini,2007-10-20,1st,Mohammad Yousuf,96,,Misbah-ul-Haq,21,Pakistan,South Africa,220,Pakistan,Gaddafi Stadium,4,Pakistan
+266,43.4,1,M Ntini,2007-10-20,1st,Misbah-ul-Haq,21,,Mohammad Yousuf,97,Pakistan,South Africa,221,Pakistan,Gaddafi Stadium,4,Pakistan
+267,43.5,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,97,Misbah-ul-Haq,Misbah-ul-Haq,21,Pakistan,South Africa,221,Pakistan,Gaddafi Stadium,5,Pakistan
+268,43.6,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,97,,Shahid Afridi,0,Pakistan,South Africa,221,Pakistan,Gaddafi Stadium,5,Pakistan
+269,44.1,1,JH Kallis,2007-10-20,1st,Shahid Afridi,0,,Mohammad Yousuf,98,Pakistan,South Africa,222,Pakistan,Gaddafi Stadium,5,Pakistan
+270,44.2,0,JH Kallis,2007-10-20,1st,Mohammad Yousuf,98,,Shahid Afridi,0,Pakistan,South Africa,222,Pakistan,Gaddafi Stadium,5,Pakistan
+271,44.3,6,JH Kallis,2007-10-20,1st,Mohammad Yousuf,98,,Shahid Afridi,6,Pakistan,South Africa,228,Pakistan,Gaddafi Stadium,5,Pakistan
+272,44.4,0,JH Kallis,2007-10-20,1st,Mohammad Yousuf,98,Shahid Afridi,Shahid Afridi,6,Pakistan,South Africa,228,Pakistan,Gaddafi Stadium,6,Pakistan
+273,44.5,0,JH Kallis,2007-10-20,1st,Sohail Tanvir,0,,Mohammad Yousuf,98,Pakistan,South Africa,228,Pakistan,Gaddafi Stadium,6,Pakistan
+274,44.6,4,JH Kallis,2007-10-20,1st,Sohail Tanvir,0,,Mohammad Yousuf,102,Pakistan,South Africa,232,Pakistan,Gaddafi Stadium,6,Pakistan
+275,45.1,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,102,,Sohail Tanvir,0,Pakistan,South Africa,232,Pakistan,Gaddafi Stadium,6,Pakistan
+276,45.2,0,M Ntini,2007-10-20,1st,Mohammad Yousuf,102,,Sohail Tanvir,0,Pakistan,South Africa,233,Pakistan,Gaddafi Stadium,6,Pakistan
+277,45.3,1,M Ntini,2007-10-20,1st,Sohail Tanvir,0,,Mohammad Yousuf,103,Pakistan,South Africa,234,Pakistan,Gaddafi Stadium,6,Pakistan
+278,45.4,1,M Ntini,2007-10-20,1st,Mohammad Yousuf,103,,Sohail Tanvir,1,Pakistan,South Africa,235,Pakistan,Gaddafi Stadium,6,Pakistan
+279,45.5,0,M Ntini,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,103,Pakistan,South Africa,235,Pakistan,Gaddafi Stadium,6,Pakistan
+280,45.6,1,M Ntini,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,104,Pakistan,South Africa,236,Pakistan,Gaddafi Stadium,6,Pakistan
+281,46.1,4,JA Morkel,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,108,Pakistan,South Africa,240,Pakistan,Gaddafi Stadium,6,Pakistan
+282,46.2,1,JA Morkel,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,109,Pakistan,South Africa,241,Pakistan,Gaddafi Stadium,6,Pakistan
+283,46.3,0,JA Morkel,2007-10-20,1st,Mohammad Yousuf,109,,Sohail Tanvir,1,Pakistan,South Africa,242,Pakistan,Gaddafi Stadium,6,Pakistan
+284,46.4,0,JA Morkel,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,109,Pakistan,South Africa,242,Pakistan,Gaddafi Stadium,6,Pakistan
+285,46.5,0,JA Morkel,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,109,Pakistan,South Africa,243,Pakistan,Gaddafi Stadium,6,Pakistan
+286,46.6,4,JA Morkel,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,113,Pakistan,South Africa,247,Pakistan,Gaddafi Stadium,6,Pakistan
+287,46.7,1,JA Morkel,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,114,Pakistan,South Africa,248,Pakistan,Gaddafi Stadium,6,Pakistan
+288,47.1,1,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,1,,Mohammad Yousuf,115,Pakistan,South Africa,249,Pakistan,Gaddafi Stadium,6,Pakistan
+289,47.2,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,115,,Sohail Tanvir,2,Pakistan,South Africa,250,Pakistan,Gaddafi Stadium,6,Pakistan
+290,47.3,0,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,2,,Mohammad Yousuf,115,Pakistan,South Africa,250,Pakistan,Gaddafi Stadium,6,Pakistan
+291,47.4,1,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,2,,Mohammad Yousuf,116,Pakistan,South Africa,251,Pakistan,Gaddafi Stadium,6,Pakistan
+292,47.5,1,CK Langeveldt,2007-10-20,1st,Mohammad Yousuf,116,,Sohail Tanvir,3,Pakistan,South Africa,252,Pakistan,Gaddafi Stadium,6,Pakistan
+293,47.6,1,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,3,,Mohammad Yousuf,117,Pakistan,South Africa,253,Pakistan,Gaddafi Stadium,6,Pakistan
+294,48.1,0,JA Morkel,2007-10-20,1st,Sohail Tanvir,3,,Mohammad Yousuf,117,Pakistan,South Africa,253,Pakistan,Gaddafi Stadium,6,Pakistan
+295,48.2,0,JA Morkel,2007-10-20,1st,Sohail Tanvir,3,Mohammad Yousuf,Mohammad Yousuf,117,Pakistan,South Africa,253,Pakistan,Gaddafi Stadium,7,Pakistan
+296,48.3,2,JA Morkel,2007-10-20,1st,Sohail Tanvir,3,,Abdur Rehman,2,Pakistan,South Africa,255,Pakistan,Gaddafi Stadium,7,Pakistan
+297,48.4,0,JA Morkel,2007-10-20,1st,Sohail Tanvir,3,Abdur Rehman,Abdur Rehman,2,Pakistan,South Africa,255,Pakistan,Gaddafi Stadium,8,Pakistan
+298,48.5,0,JA Morkel,2007-10-20,1st,Iftikhar Anjum,0,,Sohail Tanvir,3,Pakistan,South Africa,255,Pakistan,Gaddafi Stadium,8,Pakistan
+299,48.6,0,JA Morkel,2007-10-20,1st,Iftikhar Anjum,0,,Sohail Tanvir,3,Pakistan,South Africa,255,Pakistan,Gaddafi Stadium,8,Pakistan
+300,49.1,0,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,3,Iftikhar Anjum,Iftikhar Anjum,0,Pakistan,South Africa,255,Pakistan,Gaddafi Stadium,9,Pakistan
+301,49.2,1,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,3,,Umar Gul,1,Pakistan,South Africa,256,Pakistan,Gaddafi Stadium,9,Pakistan
+302,49.3,0,CK Langeveldt,2007-10-20,1st,Umar Gul,1,,Sohail Tanvir,3,Pakistan,South Africa,257,Pakistan,Gaddafi Stadium,9,Pakistan
+303,49.4,1,CK Langeveldt,2007-10-20,1st,Umar Gul,1,,Sohail Tanvir,4,Pakistan,South Africa,258,Pakistan,Gaddafi Stadium,9,Pakistan
+304,49.5,0,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,4,,Umar Gul,1,Pakistan,South Africa,258,Pakistan,Gaddafi Stadium,9,Pakistan
+305,49.6,6,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,4,,Umar Gul,7,Pakistan,South Africa,264,Pakistan,Gaddafi Stadium,9,Pakistan
+306,49.7,1,CK Langeveldt,2007-10-20,1st,Sohail Tanvir,4,,Umar Gul,8,Pakistan,South Africa,265,Pakistan,Gaddafi Stadium,9,Pakistan
+307,0.1,0,Umar Gul,2007-10-20,2nd,HH Gibbs,0,,GC Smith,0,Pakistan,South Africa,0,Pakistan,Gaddafi Stadium,0,Pakistan
+308,0.2,0,Umar Gul,2007-10-20,2nd,HH Gibbs,0,,GC Smith,0,Pakistan,South Africa,1,Pakistan,Gaddafi Stadium,0,Pakistan
+309,0.3,1,Umar Gul,2007-10-20,2nd,HH Gibbs,0,,GC Smith,0,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,0,Pakistan
+310,0.4,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,HH Gibbs,0,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+311,0.5,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,JH Kallis,0,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+312,0.6,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,JH Kallis,0,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+313,0.7,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,JH Kallis,0,Pakistan,South Africa,2,Pakistan,Gaddafi Stadium,1,Pakistan
+314,1.1,0,Sohail Tanvir,2007-10-20,2nd,JH Kallis,0,,GC Smith,0,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+315,1.2,0,Sohail Tanvir,2007-10-20,2nd,JH Kallis,0,,GC Smith,0,Pakistan,South Africa,3,Pakistan,Gaddafi Stadium,1,Pakistan
+316,1.3,1,Sohail Tanvir,2007-10-20,2nd,JH Kallis,0,,GC Smith,0,Pakistan,South Africa,4,Pakistan,Gaddafi Stadium,1,Pakistan
+317,1.4,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,JH Kallis,0,Pakistan,South Africa,4,Pakistan,Gaddafi Stadium,1,Pakistan
+318,1.5,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,JH Kallis,0,Pakistan,South Africa,4,Pakistan,Gaddafi Stadium,2,Pakistan
+319,1.6,3,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,8,Pakistan,Gaddafi Stadium,2,Pakistan
+320,1.7,1,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,9,Pakistan,Gaddafi Stadium,2,Pakistan
+321,1.8,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,9,Pakistan,Gaddafi Stadium,2,Pakistan
+322,2.1,0,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,9,Pakistan,Gaddafi Stadium,2,Pakistan
+323,2.2,0,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,9,Pakistan,Gaddafi Stadium,2,Pakistan
+324,2.3,1,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,10,Pakistan,Gaddafi Stadium,2,Pakistan
+325,2.4,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,2,Pakistan
+326,2.5,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,2,Pakistan
+327,2.6,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,2,Pakistan
+328,2.7,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,2,Pakistan
+329,3.1,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,2,Pakistan
+330,3.2,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,11,Pakistan,Gaddafi Stadium,2,Pakistan
+331,3.3,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,12,Pakistan,Gaddafi Stadium,2,Pakistan
+332,3.4,1,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,13,Pakistan,Gaddafi Stadium,2,Pakistan
+333,3.5,4,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,17,Pakistan,Gaddafi Stadium,2,Pakistan
+334,3.6,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,17,Pakistan,Gaddafi Stadium,2,Pakistan
+335,3.7,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,17,Pakistan,Gaddafi Stadium,2,Pakistan
+336,4.1,3,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,20,Pakistan,Gaddafi Stadium,2,Pakistan
+337,4.2,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,20,Pakistan,Gaddafi Stadium,2,Pakistan
+338,4.3,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,20,Pakistan,Gaddafi Stadium,2,Pakistan
+339,4.4,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,20,Pakistan,Gaddafi Stadium,2,Pakistan
+340,4.5,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,20,Pakistan,Gaddafi Stadium,2,Pakistan
+341,4.6,4,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,24,Pakistan,Gaddafi Stadium,2,Pakistan
+342,5.1,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,24,Pakistan,Gaddafi Stadium,2,Pakistan
+343,5.2,1,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,25,Pakistan,Gaddafi Stadium,2,Pakistan
+344,5.3,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,25,Pakistan,Gaddafi Stadium,2,Pakistan
+345,5.4,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,25,Pakistan,Gaddafi Stadium,2,Pakistan
+346,5.5,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,25,Pakistan,Gaddafi Stadium,2,Pakistan
+347,5.6,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,25,Pakistan,Gaddafi Stadium,2,Pakistan
+348,6.1,1,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,26,Pakistan,Gaddafi Stadium,2,Pakistan
+349,6.2,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,26,Pakistan,Gaddafi Stadium,2,Pakistan
+350,6.3,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,26,Pakistan,Gaddafi Stadium,2,Pakistan
+351,6.4,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,27,Pakistan,Gaddafi Stadium,2,Pakistan
+352,6.5,2,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,29,Pakistan,Gaddafi Stadium,2,Pakistan
+353,6.6,4,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,33,Pakistan,Gaddafi Stadium,2,Pakistan
+354,6.7,1,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,34,Pakistan,Gaddafi Stadium,2,Pakistan
+355,7.1,1,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,35,Pakistan,Gaddafi Stadium,2,Pakistan
+356,7.2,1,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,36,Pakistan,Gaddafi Stadium,2,Pakistan
+357,7.3,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,36,Pakistan,Gaddafi Stadium,2,Pakistan
+358,7.4,4,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,40,Pakistan,Gaddafi Stadium,2,Pakistan
+359,7.5,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,40,Pakistan,Gaddafi Stadium,2,Pakistan
+360,7.6,1,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,41,Pakistan,Gaddafi Stadium,2,Pakistan
+361,8.1,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,41,Pakistan,Gaddafi Stadium,2,Pakistan
+362,8.2,0,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,41,Pakistan,Gaddafi Stadium,2,Pakistan
+363,8.3,1,Umar Gul,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,42,Pakistan,Gaddafi Stadium,2,Pakistan
+364,8.4,2,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,44,Pakistan,Gaddafi Stadium,2,Pakistan
+365,8.5,0,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,44,Pakistan,Gaddafi Stadium,2,Pakistan
+366,8.6,4,Umar Gul,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,48,Pakistan,Gaddafi Stadium,2,Pakistan
+367,9.1,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,48,Pakistan,Gaddafi Stadium,2,Pakistan
+368,9.2,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,48,Pakistan,Gaddafi Stadium,2,Pakistan
+369,9.3,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,48,Pakistan,Gaddafi Stadium,2,Pakistan
+370,9.4,3,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,51,Pakistan,Gaddafi Stadium,2,Pakistan
+371,9.5,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,51,Pakistan,Gaddafi Stadium,2,Pakistan
+372,9.6,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,51,Pakistan,Gaddafi Stadium,2,Pakistan
+373,10.1,1,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,52,Pakistan,Gaddafi Stadium,2,Pakistan
+374,10.2,0,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,52,Pakistan,Gaddafi Stadium,2,Pakistan
+375,10.3,2,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,54,Pakistan,Gaddafi Stadium,2,Pakistan
+376,10.4,1,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,55,Pakistan,Gaddafi Stadium,2,Pakistan
+377,10.5,1,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,56,Pakistan,Gaddafi Stadium,2,Pakistan
+378,10.6,0,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,56,Pakistan,Gaddafi Stadium,2,Pakistan
+379,11.1,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,56,Pakistan,Gaddafi Stadium,2,Pakistan
+380,11.2,1,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,58,Pakistan,Gaddafi Stadium,2,Pakistan
+381,11.3,1,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,59,Pakistan,Gaddafi Stadium,2,Pakistan
+382,11.4,0,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,59,Pakistan,Gaddafi Stadium,2,Pakistan
+383,11.5,1,Sohail Tanvir,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,60,Pakistan,Gaddafi Stadium,2,Pakistan
+384,11.6,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,60,Pakistan,Gaddafi Stadium,2,Pakistan
+385,11.7,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,60,Pakistan,Gaddafi Stadium,2,Pakistan
+386,12.1,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,60,Pakistan,Gaddafi Stadium,2,Pakistan
+387,12.2,1,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,61,Pakistan,Gaddafi Stadium,2,Pakistan
+388,12.3,1,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,62,Pakistan,Gaddafi Stadium,2,Pakistan
+389,12.4,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,62,Pakistan,Gaddafi Stadium,2,Pakistan
+390,12.5,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,62,Pakistan,Gaddafi Stadium,2,Pakistan
+391,12.6,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,62,Pakistan,Gaddafi Stadium,2,Pakistan
+392,13.1,4,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,66,Pakistan,Gaddafi Stadium,2,Pakistan
+393,13.2,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,66,Pakistan,Gaddafi Stadium,2,Pakistan
+394,13.3,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,66,Pakistan,Gaddafi Stadium,2,Pakistan
+395,13.4,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,66,Pakistan,Gaddafi Stadium,2,Pakistan
+396,13.5,0,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,66,Pakistan,Gaddafi Stadium,2,Pakistan
+397,13.6,1,Sohail Tanvir,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,67,Pakistan,Gaddafi Stadium,2,Pakistan
+398,14.1,0,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,67,Pakistan,Gaddafi Stadium,2,Pakistan
+399,14.2,0,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,67,Pakistan,Gaddafi Stadium,2,Pakistan
+400,14.3,2,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,69,Pakistan,Gaddafi Stadium,2,Pakistan
+401,14.4,0,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,69,Pakistan,Gaddafi Stadium,2,Pakistan
+402,14.5,4,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,73,Pakistan,Gaddafi Stadium,2,Pakistan
+403,14.6,4,Iftikhar Anjum,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,77,Pakistan,Gaddafi Stadium,2,Pakistan
+404,15.1,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,78,Pakistan,Gaddafi Stadium,2,Pakistan
+405,15.2,0,Shahid Afridi,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,78,Pakistan,Gaddafi Stadium,2,Pakistan
+406,15.3,1,Shahid Afridi,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,79,Pakistan,Gaddafi Stadium,2,Pakistan
+407,15.4,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,79,Pakistan,Gaddafi Stadium,2,Pakistan
+408,15.5,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,2,Pakistan
+409,15.6,0,Shahid Afridi,2007-10-20,2nd,AB de Villiers,0,,GC Smith,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,2,Pakistan
+410,16.1,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,2,Pakistan
+411,16.2,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,2,Pakistan
+412,16.3,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,AB de Villiers,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,3,Pakistan
+413,16.4,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,3,Pakistan
+414,16.5,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,3,Pakistan
+415,16.6,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,3,Pakistan
+416,17.1,0,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,80,Pakistan,Gaddafi Stadium,3,Pakistan
+417,17.2,1,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,81,Pakistan,Gaddafi Stadium,3,Pakistan
+418,17.3,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,81,Pakistan,Gaddafi Stadium,3,Pakistan
+419,17.4,2,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,83,Pakistan,Gaddafi Stadium,3,Pakistan
+420,17.5,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,83,Pakistan,Gaddafi Stadium,3,Pakistan
+421,17.6,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,83,Pakistan,Gaddafi Stadium,3,Pakistan
+422,18.1,0,Iftikhar Anjum,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,83,Pakistan,Gaddafi Stadium,3,Pakistan
+423,18.2,0,Iftikhar Anjum,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,83,Pakistan,Gaddafi Stadium,3,Pakistan
+424,18.3,0,Iftikhar Anjum,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,83,Pakistan,Gaddafi Stadium,3,Pakistan
+425,18.4,1,Iftikhar Anjum,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+426,18.5,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+427,18.6,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+428,19.1,0,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+429,19.2,0,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+430,19.3,0,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+431,19.4,0,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,84,Pakistan,Gaddafi Stadium,3,Pakistan
+432,19.5,1,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,85,Pakistan,Gaddafi Stadium,3,Pakistan
+433,19.6,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,85,Pakistan,Gaddafi Stadium,3,Pakistan
+434,20.1,1,Iftikhar Anjum,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,86,Pakistan,Gaddafi Stadium,3,Pakistan
+435,20.2,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,86,Pakistan,Gaddafi Stadium,3,Pakistan
+436,20.3,1,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,87,Pakistan,Gaddafi Stadium,3,Pakistan
+437,20.4,1,Iftikhar Anjum,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,88,Pakistan,Gaddafi Stadium,3,Pakistan
+438,20.5,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,88,Pakistan,Gaddafi Stadium,3,Pakistan
+439,20.6,2,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,90,Pakistan,Gaddafi Stadium,3,Pakistan
+440,21.1,1,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,91,Pakistan,Gaddafi Stadium,3,Pakistan
+441,21.2,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,91,Pakistan,Gaddafi Stadium,3,Pakistan
+442,21.3,2,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,93,Pakistan,Gaddafi Stadium,3,Pakistan
+443,21.4,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,93,Pakistan,Gaddafi Stadium,3,Pakistan
+444,21.5,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,94,Pakistan,Gaddafi Stadium,3,Pakistan
+445,21.6,0,Shahid Afridi,2007-10-20,2nd,JM Kemp,0,,GC Smith,0,Pakistan,South Africa,94,Pakistan,Gaddafi Stadium,3,Pakistan
+446,22.1,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,JM Kemp,0,Pakistan,South Africa,94,Pakistan,Gaddafi Stadium,4,Pakistan
+447,22.2,1,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,95,Pakistan,Gaddafi Stadium,4,Pakistan
+448,22.3,2,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,97,Pakistan,Gaddafi Stadium,4,Pakistan
+449,22.4,0,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,97,Pakistan,Gaddafi Stadium,4,Pakistan
+450,22.5,0,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,97,Pakistan,Gaddafi Stadium,4,Pakistan
+451,22.6,0,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,97,Pakistan,Gaddafi Stadium,4,Pakistan
+452,23.1,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,98,Pakistan,Gaddafi Stadium,4,Pakistan
+453,23.2,0,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,98,Pakistan,Gaddafi Stadium,4,Pakistan
+454,23.3,1,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,4,Pakistan
+455,23.4,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,4,Pakistan
+456,23.5,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,4,Pakistan
+457,23.6,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,4,Pakistan
+458,24.1,0,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,4,Pakistan
+459,24.2,0,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,4,Pakistan
+460,24.3,0,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,99,Pakistan,Gaddafi Stadium,4,Pakistan
+461,24.4,1,Iftikhar Anjum,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,100,Pakistan,Gaddafi Stadium,4,Pakistan
+462,24.5,0,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,100,Pakistan,Gaddafi Stadium,4,Pakistan
+463,24.6,1,Iftikhar Anjum,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,101,Pakistan,Gaddafi Stadium,4,Pakistan
+464,25.1,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,101,Pakistan,Gaddafi Stadium,4,Pakistan
+465,25.2,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,102,Pakistan,Gaddafi Stadium,4,Pakistan
+466,25.3,4,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,106,Pakistan,Gaddafi Stadium,4,Pakistan
+467,25.4,0,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,106,Pakistan,Gaddafi Stadium,4,Pakistan
+468,25.5,0,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,106,Pakistan,Gaddafi Stadium,4,Pakistan
+469,25.6,0,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,106,Pakistan,Gaddafi Stadium,4,Pakistan
+470,26.1,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,106,Pakistan,Gaddafi Stadium,4,Pakistan
+471,26.2,1,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,107,Pakistan,Gaddafi Stadium,4,Pakistan
+472,26.3,0,Abdur Rehman,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,108,Pakistan,Gaddafi Stadium,4,Pakistan
+473,26.4,0,Abdur Rehman,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,108,Pakistan,Gaddafi Stadium,4,Pakistan
+474,26.5,0,Abdur Rehman,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,108,Pakistan,Gaddafi Stadium,4,Pakistan
+475,26.6,1,Abdur Rehman,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,109,Pakistan,Gaddafi Stadium,4,Pakistan
+476,26.7,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,109,Pakistan,Gaddafi Stadium,4,Pakistan
+477,27.1,1,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,110,Pakistan,Gaddafi Stadium,4,Pakistan
+478,27.2,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,111,Pakistan,Gaddafi Stadium,4,Pakistan
+479,27.3,1,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,112,Pakistan,Gaddafi Stadium,4,Pakistan
+480,27.4,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,113,Pakistan,Gaddafi Stadium,4,Pakistan
+481,27.5,1,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,114,Pakistan,Gaddafi Stadium,4,Pakistan
+482,27.6,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,115,Pakistan,Gaddafi Stadium,4,Pakistan
+483,28.1,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,115,Pakistan,Gaddafi Stadium,4,Pakistan
+484,28.2,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,115,Pakistan,Gaddafi Stadium,4,Pakistan
+485,28.3,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,115,Pakistan,Gaddafi Stadium,4,Pakistan
+486,28.4,1,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,116,Pakistan,Gaddafi Stadium,4,Pakistan
+487,28.5,0,Abdur Rehman,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,117,Pakistan,Gaddafi Stadium,4,Pakistan
+488,28.6,1,Abdur Rehman,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,118,Pakistan,Gaddafi Stadium,4,Pakistan
+489,28.7,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,118,Pakistan,Gaddafi Stadium,4,Pakistan
+490,29.1,1,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,119,Pakistan,Gaddafi Stadium,4,Pakistan
+491,29.2,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,120,Pakistan,Gaddafi Stadium,4,Pakistan
+492,29.3,0,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,120,Pakistan,Gaddafi Stadium,4,Pakistan
+493,29.4,1,Shahid Afridi,2007-10-20,2nd,MV Boucher,0,,GC Smith,0,Pakistan,South Africa,121,Pakistan,Gaddafi Stadium,4,Pakistan
+494,29.5,4,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,125,Pakistan,Gaddafi Stadium,4,Pakistan
+495,29.6,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,MV Boucher,0,Pakistan,South Africa,125,Pakistan,Gaddafi Stadium,5,Pakistan
+496,30.1,1,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,126,Pakistan,Gaddafi Stadium,5,Pakistan
+497,30.2,1,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,127,Pakistan,Gaddafi Stadium,5,Pakistan
+498,30.3,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,127,Pakistan,Gaddafi Stadium,5,Pakistan
+499,30.4,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,127,Pakistan,Gaddafi Stadium,5,Pakistan
+500,30.5,1,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,128,Pakistan,Gaddafi Stadium,5,Pakistan
+501,30.6,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,128,Pakistan,Gaddafi Stadium,5,Pakistan
+502,31.1,1,Shahid Afridi,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,129,Pakistan,Gaddafi Stadium,5,Pakistan
+503,31.2,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,130,Pakistan,Gaddafi Stadium,5,Pakistan
+504,31.3,1,Shahid Afridi,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,131,Pakistan,Gaddafi Stadium,5,Pakistan
+505,31.4,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,131,Pakistan,Gaddafi Stadium,5,Pakistan
+506,31.5,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,131,Pakistan,Gaddafi Stadium,5,Pakistan
+507,31.6,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,131,Pakistan,Gaddafi Stadium,5,Pakistan
+508,32.1,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,131,Pakistan,Gaddafi Stadium,5,Pakistan
+509,32.2,1,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,132,Pakistan,Gaddafi Stadium,5,Pakistan
+510,32.3,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,132,Pakistan,Gaddafi Stadium,5,Pakistan
+511,32.4,0,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,132,Pakistan,Gaddafi Stadium,5,Pakistan
+512,32.5,1,Abdur Rehman,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,133,Pakistan,Gaddafi Stadium,5,Pakistan
+513,32.6,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,133,Pakistan,Gaddafi Stadium,5,Pakistan
+514,33.1,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,133,Pakistan,Gaddafi Stadium,5,Pakistan
+515,33.2,1,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,134,Pakistan,Gaddafi Stadium,5,Pakistan
+516,33.3,1,Shahid Afridi,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,135,Pakistan,Gaddafi Stadium,5,Pakistan
+517,33.4,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,136,Pakistan,Gaddafi Stadium,5,Pakistan
+518,33.5,4,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,5,Pakistan
+519,33.6,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,5,Pakistan
+520,33.7,0,Shahid Afridi,2007-10-20,2nd,GC Smith,0,,SM Pollock,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,5,Pakistan
+521,34.1,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,5,Pakistan
+522,34.2,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,GC Smith,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,6,Pakistan
+523,34.3,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,6,Pakistan
+524,34.4,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,6,Pakistan
+525,34.5,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,6,Pakistan
+526,34.6,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,140,Pakistan,Gaddafi Stadium,6,Pakistan
+527,35.1,1,Umar Gul,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,141,Pakistan,Gaddafi Stadium,6,Pakistan
+528,35.2,2,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,143,Pakistan,Gaddafi Stadium,6,Pakistan
+529,35.3,0,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,144,Pakistan,Gaddafi Stadium,6,Pakistan
+530,35.4,0,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,144,Pakistan,Gaddafi Stadium,6,Pakistan
+531,35.5,0,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,144,Pakistan,Gaddafi Stadium,6,Pakistan
+532,35.6,4,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,148,Pakistan,Gaddafi Stadium,6,Pakistan
+533,35.7,4,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,152,Pakistan,Gaddafi Stadium,6,Pakistan
+534,36.1,0,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,152,Pakistan,Gaddafi Stadium,6,Pakistan
+535,36.2,1,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,153,Pakistan,Gaddafi Stadium,6,Pakistan
+536,36.3,1,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,154,Pakistan,Gaddafi Stadium,6,Pakistan
+537,36.4,6,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,160,Pakistan,Gaddafi Stadium,6,Pakistan
+538,36.5,0,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,160,Pakistan,Gaddafi Stadium,6,Pakistan
+539,36.6,0,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,160,Pakistan,Gaddafi Stadium,6,Pakistan
+540,37.1,1,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,161,Pakistan,Gaddafi Stadium,6,Pakistan
+541,37.2,4,Umar Gul,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,165,Pakistan,Gaddafi Stadium,6,Pakistan
+542,37.3,1,Umar Gul,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,166,Pakistan,Gaddafi Stadium,6,Pakistan
+543,37.4,0,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,166,Pakistan,Gaddafi Stadium,6,Pakistan
+544,37.5,2,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,168,Pakistan,Gaddafi Stadium,6,Pakistan
+545,37.6,0,Umar Gul,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,168,Pakistan,Gaddafi Stadium,6,Pakistan
+546,38.1,0,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,168,Pakistan,Gaddafi Stadium,6,Pakistan
+547,38.2,1,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,169,Pakistan,Gaddafi Stadium,6,Pakistan
+548,38.3,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,169,Pakistan,Gaddafi Stadium,6,Pakistan
+549,38.4,6,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,175,Pakistan,Gaddafi Stadium,6,Pakistan
+550,38.5,2,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,177,Pakistan,Gaddafi Stadium,6,Pakistan
+551,38.6,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,177,Pakistan,Gaddafi Stadium,6,Pakistan
+552,39.1,1,Sohail Tanvir,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,178,Pakistan,Gaddafi Stadium,6,Pakistan
+553,39.2,4,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,182,Pakistan,Gaddafi Stadium,6,Pakistan
+554,39.3,1,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,183,Pakistan,Gaddafi Stadium,6,Pakistan
+555,39.4,0,Sohail Tanvir,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,183,Pakistan,Gaddafi Stadium,6,Pakistan
+556,39.5,0,Sohail Tanvir,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,183,Pakistan,Gaddafi Stadium,6,Pakistan
+557,39.6,0,Sohail Tanvir,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,183,Pakistan,Gaddafi Stadium,6,Pakistan
+558,40.1,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,184,Pakistan,Gaddafi Stadium,6,Pakistan
+559,40.2,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,185,Pakistan,Gaddafi Stadium,6,Pakistan
+560,40.3,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,185,Pakistan,Gaddafi Stadium,6,Pakistan
+561,40.4,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,186,Pakistan,Gaddafi Stadium,6,Pakistan
+562,40.5,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,187,Pakistan,Gaddafi Stadium,6,Pakistan
+563,40.6,1,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,188,Pakistan,Gaddafi Stadium,6,Pakistan
+564,40.7,1,Abdur Rehman,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,189,Pakistan,Gaddafi Stadium,6,Pakistan
+565,40.8,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,189,Pakistan,Gaddafi Stadium,6,Pakistan
+566,40.9,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,189,Pakistan,Gaddafi Stadium,6,Pakistan
+567,40.1,1,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,190,Pakistan,Gaddafi Stadium,6,Pakistan
+568,41.1,1,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,191,Pakistan,Gaddafi Stadium,6,Pakistan
+569,41.2,2,Sohail Tanvir,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,193,Pakistan,Gaddafi Stadium,6,Pakistan
+570,41.3,1,Sohail Tanvir,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,194,Pakistan,Gaddafi Stadium,6,Pakistan
+571,41.4,1,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,JA Morkel,0,Pakistan,South Africa,195,Pakistan,Gaddafi Stadium,6,Pakistan
+572,41.5,0,Sohail Tanvir,2007-10-20,2nd,JA Morkel,0,,SM Pollock,0,Pakistan,South Africa,195,Pakistan,Gaddafi Stadium,7,Pakistan
+573,41.6,0,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,196,Pakistan,Gaddafi Stadium,7,Pakistan
+574,41.7,0,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,197,Pakistan,Gaddafi Stadium,7,Pakistan
+575,41.8,0,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,197,Pakistan,Gaddafi Stadium,7,Pakistan
+576,42.1,2,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,199,Pakistan,Gaddafi Stadium,7,Pakistan
+577,42.2,0,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,199,Pakistan,Gaddafi Stadium,7,Pakistan
+578,42.3,1,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,200,Pakistan,Gaddafi Stadium,7,Pakistan
+579,42.4,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,201,Pakistan,Gaddafi Stadium,7,Pakistan
+580,42.5,2,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,203,Pakistan,Gaddafi Stadium,7,Pakistan
+581,42.6,0,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,203,Pakistan,Gaddafi Stadium,7,Pakistan
+582,43.1,1,Sohail Tanvir,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,204,Pakistan,Gaddafi Stadium,7,Pakistan
+583,43.2,0,Sohail Tanvir,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,204,Pakistan,Gaddafi Stadium,7,Pakistan
+584,43.3,0,Sohail Tanvir,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,204,Pakistan,Gaddafi Stadium,7,Pakistan
+585,43.4,2,Sohail Tanvir,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,206,Pakistan,Gaddafi Stadium,7,Pakistan
+586,43.5,0,Sohail Tanvir,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,206,Pakistan,Gaddafi Stadium,7,Pakistan
+587,43.6,1,Sohail Tanvir,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,207,Pakistan,Gaddafi Stadium,7,Pakistan
+588,44.1,1,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,208,Pakistan,Gaddafi Stadium,7,Pakistan
+589,44.2,2,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,210,Pakistan,Gaddafi Stadium,7,Pakistan
+590,44.3,1,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,211,Pakistan,Gaddafi Stadium,7,Pakistan
+591,44.4,0,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,211,Pakistan,Gaddafi Stadium,7,Pakistan
+592,44.5,1,Abdur Rehman,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,212,Pakistan,Gaddafi Stadium,7,Pakistan
+593,44.6,0,Abdur Rehman,2007-10-20,2nd,SM Pollock,0,,J Botha,0,Pakistan,South Africa,212,Pakistan,Gaddafi Stadium,7,Pakistan
+594,45.1,0,Umar Gul,2007-10-20,2nd,J Botha,0,,SM Pollock,0,Pakistan,South Africa,212,Pakistan,Gaddafi Stadium,8,Pakistan
+595,45.2,0,Umar Gul,2007-10-20,2nd,J Botha,0,,CK Langeveldt,0,Pakistan,South Africa,212,Pakistan,Gaddafi Stadium,8,Pakistan
+596,45.3,1,Umar Gul,2007-10-20,2nd,J Botha,0,,CK Langeveldt,0,Pakistan,South Africa,213,Pakistan,Gaddafi Stadium,8,Pakistan
+597,45.4,4,Umar Gul,2007-10-20,2nd,CK Langeveldt,0,,J Botha,0,Pakistan,South Africa,217,Pakistan,Gaddafi Stadium,8,Pakistan
+598,45.5,1,Umar Gul,2007-10-20,2nd,CK Langeveldt,0,,J Botha,0,Pakistan,South Africa,218,Pakistan,Gaddafi Stadium,8,Pakistan
+599,45.6,1,Umar Gul,2007-10-20,2nd,J Botha,0,,CK Langeveldt,0,Pakistan,South Africa,219,Pakistan,Gaddafi Stadium,8,Pakistan
+600,46.1,1,Iftikhar Anjum,2007-10-20,2nd,J Botha,0,,CK Langeveldt,0,Pakistan,South Africa,220,Pakistan,Gaddafi Stadium,8,Pakistan
+601,46.2,0,Iftikhar Anjum,2007-10-20,2nd,CK Langeveldt,0,,J Botha,0,Pakistan,South Africa,220,Pakistan,Gaddafi Stadium,9,Pakistan
+602,46.3,1,Iftikhar Anjum,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,221,Pakistan,Gaddafi Stadium,9,Pakistan
+603,46.4,4,Iftikhar Anjum,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,225,Pakistan,Gaddafi Stadium,9,Pakistan
+604,46.5,1,Iftikhar Anjum,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,226,Pakistan,Gaddafi Stadium,9,Pakistan
+605,46.6,0,Iftikhar Anjum,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,226,Pakistan,Gaddafi Stadium,9,Pakistan
+606,47.1,1,Umar Gul,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,227,Pakistan,Gaddafi Stadium,9,Pakistan
+607,47.2,0,Umar Gul,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,227,Pakistan,Gaddafi Stadium,9,Pakistan
+608,47.3,0,Umar Gul,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,227,Pakistan,Gaddafi Stadium,9,Pakistan
+609,47.4,1,Umar Gul,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,228,Pakistan,Gaddafi Stadium,9,Pakistan
+610,47.5,1,Umar Gul,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,229,Pakistan,Gaddafi Stadium,9,Pakistan
+611,47.6,1,Umar Gul,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,230,Pakistan,Gaddafi Stadium,9,Pakistan
+612,48.1,0,Iftikhar Anjum,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,231,Pakistan,Gaddafi Stadium,9,Pakistan
+613,48.2,4,Iftikhar Anjum,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,235,Pakistan,Gaddafi Stadium,9,Pakistan
+614,48.3,1,Iftikhar Anjum,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,236,Pakistan,Gaddafi Stadium,9,Pakistan
+615,48.4,1,Iftikhar Anjum,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,237,Pakistan,Gaddafi Stadium,9,Pakistan
+616,48.5,1,Iftikhar Anjum,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,238,Pakistan,Gaddafi Stadium,9,Pakistan
+617,48.6,0,Iftikhar Anjum,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,239,Pakistan,Gaddafi Stadium,9,Pakistan
+618,48.7,0,Iftikhar Anjum,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,239,Pakistan,Gaddafi Stadium,9,Pakistan
+619,49.1,0,Umar Gul,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,239,Pakistan,Gaddafi Stadium,9,Pakistan
+620,49.2,1,Umar Gul,2007-10-20,2nd,CK Langeveldt,0,,M Ntini,0,Pakistan,South Africa,240,Pakistan,Gaddafi Stadium,9,Pakistan
+621,49.3,0,Umar Gul,2007-10-20,2nd,M Ntini,0,,CK Langeveldt,0,Pakistan,South Africa,240,Pakistan,Gaddafi Stadium,10,Pakistan

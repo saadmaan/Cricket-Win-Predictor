@@ -1,0 +1,429 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,0,,V Sibanda,0,Bangladesh,Zimbabwe,0,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+1,0.2,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,0,,V Sibanda,0,Bangladesh,Zimbabwe,0,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+2,0.3,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,0,,V Sibanda,0,Bangladesh,Zimbabwe,0,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+3,0.4,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,0,,V Sibanda,0,Bangladesh,Zimbabwe,0,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+4,0.5,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,0,V Sibanda,V Sibanda,0,Bangladesh,Zimbabwe,0,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+5,0.6,2,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,0,,S Matsikenyeri,2,Bangladesh,Zimbabwe,2,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+6,1.1,0,Nazmul Hossain,2009-01-23,1st,S Matsikenyeri,2,,H Masakadza,0,Bangladesh,Zimbabwe,2,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+7,1.2,1,Nazmul Hossain,2009-01-23,1st,S Matsikenyeri,2,,H Masakadza,1,Bangladesh,Zimbabwe,3,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+8,1.3,0,Nazmul Hossain,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,2,Bangladesh,Zimbabwe,3,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+9,1.4,0,Nazmul Hossain,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,2,Bangladesh,Zimbabwe,3,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+10,1.5,0,Nazmul Hossain,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,2,Bangladesh,Zimbabwe,3,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+11,1.6,0,Nazmul Hossain,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,2,Bangladesh,Zimbabwe,3,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+12,2.1,0,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,2,,H Masakadza,1,Bangladesh,Zimbabwe,3,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+13,2.2,0,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,2,,H Masakadza,1,Bangladesh,Zimbabwe,4,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+14,2.3,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,2,Bangladesh,Zimbabwe,4,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+15,2.4,4,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,6,Bangladesh,Zimbabwe,8,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+16,2.5,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,6,Bangladesh,Zimbabwe,8,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+17,2.6,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,1,,S Matsikenyeri,6,Bangladesh,Zimbabwe,8,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+18,3.1,0,Nazmul Hossain,2009-01-23,1st,S Matsikenyeri,6,,H Masakadza,1,Bangladesh,Zimbabwe,8,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+19,3.2,4,Nazmul Hossain,2009-01-23,1st,S Matsikenyeri,6,,H Masakadza,5,Bangladesh,Zimbabwe,12,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+20,3.3,0,Nazmul Hossain,2009-01-23,1st,S Matsikenyeri,6,,H Masakadza,5,Bangladesh,Zimbabwe,12,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+21,3.4,1,Nazmul Hossain,2009-01-23,1st,S Matsikenyeri,6,,H Masakadza,6,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+22,3.5,1,Nazmul Hossain,2009-01-23,1st,H Masakadza,6,,S Matsikenyeri,7,Bangladesh,Zimbabwe,14,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+23,3.6,4,Nazmul Hossain,2009-01-23,1st,S Matsikenyeri,7,,H Masakadza,10,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+24,4.1,0,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,10,,S Matsikenyeri,7,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+25,4.2,1,Mashrafe Mortaza,2009-01-23,1st,H Masakadza,10,,S Matsikenyeri,8,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+26,4.3,0,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,8,,H Masakadza,10,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+27,4.4,0,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,8,H Masakadza,H Masakadza,10,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+28,4.5,0,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,8,,T Taibu,0,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+29,4.6,0,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,8,,T Taibu,0,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+30,5.1,0,Shakib Al Hasan,2009-01-23,1st,T Taibu,0,,S Matsikenyeri,8,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+31,5.2,0,Shakib Al Hasan,2009-01-23,1st,T Taibu,0,,S Matsikenyeri,8,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+32,5.3,0,Shakib Al Hasan,2009-01-23,1st,T Taibu,0,,S Matsikenyeri,8,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+33,5.4,0,Shakib Al Hasan,2009-01-23,1st,T Taibu,0,,S Matsikenyeri,8,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+34,5.5,1,Shakib Al Hasan,2009-01-23,1st,T Taibu,0,,S Matsikenyeri,9,Bangladesh,Zimbabwe,20,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+35,5.6,1,Shakib Al Hasan,2009-01-23,1st,S Matsikenyeri,9,,T Taibu,1,Bangladesh,Zimbabwe,21,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+36,6.1,1,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,9,,T Taibu,2,Bangladesh,Zimbabwe,22,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+37,6.2,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,2,,S Matsikenyeri,9,Bangladesh,Zimbabwe,22,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+38,6.3,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,2,,S Matsikenyeri,9,Bangladesh,Zimbabwe,23,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+39,6.4,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,2,,S Matsikenyeri,9,Bangladesh,Zimbabwe,23,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+40,6.5,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,2,,S Matsikenyeri,9,Bangladesh,Zimbabwe,23,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+41,6.6,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,2,,S Matsikenyeri,9,Bangladesh,Zimbabwe,23,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+42,6.7,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,2,,S Matsikenyeri,9,Bangladesh,Zimbabwe,23,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+43,7.1,1,Shakib Al Hasan,2009-01-23,1st,S Matsikenyeri,9,,T Taibu,3,Bangladesh,Zimbabwe,24,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+44,7.2,0,Shakib Al Hasan,2009-01-23,1st,T Taibu,3,,S Matsikenyeri,9,Bangladesh,Zimbabwe,24,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+45,7.3,0,Shakib Al Hasan,2009-01-23,1st,T Taibu,3,,S Matsikenyeri,9,Bangladesh,Zimbabwe,24,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+46,7.4,1,Shakib Al Hasan,2009-01-23,1st,T Taibu,3,,S Matsikenyeri,10,Bangladesh,Zimbabwe,25,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+47,7.5,1,Shakib Al Hasan,2009-01-23,1st,S Matsikenyeri,10,,T Taibu,4,Bangladesh,Zimbabwe,26,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+48,7.6,0,Shakib Al Hasan,2009-01-23,1st,T Taibu,4,,S Matsikenyeri,10,Bangladesh,Zimbabwe,26,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+49,8.1,4,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,10,,T Taibu,8,Bangladesh,Zimbabwe,30,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+50,8.2,0,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,10,,T Taibu,8,Bangladesh,Zimbabwe,30,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+51,8.3,1,Mashrafe Mortaza,2009-01-23,1st,S Matsikenyeri,10,,T Taibu,9,Bangladesh,Zimbabwe,31,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+52,8.4,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,9,S Matsikenyeri,S Matsikenyeri,10,Bangladesh,Zimbabwe,31,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+53,8.5,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,9,,SC Williams,0,Bangladesh,Zimbabwe,31,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+54,8.6,1,Mashrafe Mortaza,2009-01-23,1st,T Taibu,9,,SC Williams,1,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+55,9.1,4,Nazmul Hossain,2009-01-23,1st,T Taibu,9,,SC Williams,5,Bangladesh,Zimbabwe,36,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+56,9.2,0,Nazmul Hossain,2009-01-23,1st,T Taibu,9,,SC Williams,5,Bangladesh,Zimbabwe,36,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+57,9.3,0,Nazmul Hossain,2009-01-23,1st,T Taibu,9,,SC Williams,5,Bangladesh,Zimbabwe,36,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+58,9.4,0,Nazmul Hossain,2009-01-23,1st,T Taibu,9,,SC Williams,5,Bangladesh,Zimbabwe,36,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+59,9.5,1,Nazmul Hossain,2009-01-23,1st,T Taibu,9,,SC Williams,6,Bangladesh,Zimbabwe,37,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+60,9.6,1,Nazmul Hossain,2009-01-23,1st,SC Williams,6,,T Taibu,10,Bangladesh,Zimbabwe,38,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+61,10.1,1,Mashrafe Mortaza,2009-01-23,1st,SC Williams,6,,T Taibu,11,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+62,10.2,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,11,,SC Williams,6,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+63,10.3,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,11,,SC Williams,6,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+64,10.4,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,11,,SC Williams,6,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+65,10.5,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,11,,SC Williams,6,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+66,10.6,0,Mashrafe Mortaza,2009-01-23,1st,T Taibu,11,,SC Williams,6,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+67,11.1,0,Nazmul Hossain,2009-01-23,1st,SC Williams,6,,T Taibu,11,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+68,11.2,0,Nazmul Hossain,2009-01-23,1st,SC Williams,6,,T Taibu,11,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+69,11.3,0,Nazmul Hossain,2009-01-23,1st,SC Williams,6,,T Taibu,11,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+70,11.4,1,Nazmul Hossain,2009-01-23,1st,SC Williams,6,,T Taibu,12,Bangladesh,Zimbabwe,40,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+71,11.5,1,Nazmul Hossain,2009-01-23,1st,T Taibu,12,,SC Williams,7,Bangladesh,Zimbabwe,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+72,11.6,0,Nazmul Hossain,2009-01-23,1st,SC Williams,7,,T Taibu,12,Bangladesh,Zimbabwe,41,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+73,12.1,2,Rubel Hossain,2009-01-23,1st,T Taibu,12,,SC Williams,9,Bangladesh,Zimbabwe,43,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+74,12.2,1,Rubel Hossain,2009-01-23,1st,T Taibu,12,,SC Williams,10,Bangladesh,Zimbabwe,44,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+75,12.3,0,Rubel Hossain,2009-01-23,1st,SC Williams,10,T Taibu,T Taibu,12,Bangladesh,Zimbabwe,44,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+76,12.4,0,Rubel Hossain,2009-01-23,1st,SC Williams,10,,P Utseya,0,Bangladesh,Zimbabwe,44,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+77,12.5,0,Rubel Hossain,2009-01-23,1st,SC Williams,10,,P Utseya,0,Bangladesh,Zimbabwe,44,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+78,12.6,4,Rubel Hossain,2009-01-23,1st,SC Williams,10,,P Utseya,4,Bangladesh,Zimbabwe,48,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+79,13.1,0,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,10,Bangladesh,Zimbabwe,48,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+80,13.2,4,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,14,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+81,13.3,0,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,14,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+82,13.4,0,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,14,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+83,13.5,1,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,15,Bangladesh,Zimbabwe,53,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+84,13.6,0,Nazmul Hossain,2009-01-23,1st,SC Williams,15,,P Utseya,4,Bangladesh,Zimbabwe,53,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+85,14.1,4,Rubel Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,19,Bangladesh,Zimbabwe,57,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+86,14.2,1,Rubel Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,20,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+87,14.3,0,Rubel Hossain,2009-01-23,1st,SC Williams,20,,P Utseya,4,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+88,14.4,0,Rubel Hossain,2009-01-23,1st,SC Williams,20,,P Utseya,4,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+89,14.5,0,Rubel Hossain,2009-01-23,1st,SC Williams,20,,P Utseya,4,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+90,14.6,0,Rubel Hossain,2009-01-23,1st,SC Williams,20,,P Utseya,4,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+91,15.1,0,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,20,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+92,15.2,0,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,20,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+93,15.3,0,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,20,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+94,15.4,0,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,20,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+95,15.5,1,Nazmul Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,21,Bangladesh,Zimbabwe,59,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+96,15.6,0,Nazmul Hossain,2009-01-23,1st,SC Williams,21,,P Utseya,4,Bangladesh,Zimbabwe,59,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+97,16.1,0,Rubel Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,21,Bangladesh,Zimbabwe,59,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+98,16.2,4,Rubel Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,25,Bangladesh,Zimbabwe,63,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+99,16.3,1,Rubel Hossain,2009-01-23,1st,P Utseya,4,,SC Williams,26,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+100,16.4,0,Rubel Hossain,2009-01-23,1st,SC Williams,26,,P Utseya,4,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+101,16.5,0,Rubel Hossain,2009-01-23,1st,SC Williams,26,,P Utseya,4,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+102,16.6,0,Rubel Hossain,2009-01-23,1st,SC Williams,26,,P Utseya,4,Bangladesh,Zimbabwe,65,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+103,17.1,0,Nazmul Hossain,2009-01-23,1st,SC Williams,26,,P Utseya,4,Bangladesh,Zimbabwe,65,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+104,17.2,1,Nazmul Hossain,2009-01-23,1st,SC Williams,26,,P Utseya,5,Bangladesh,Zimbabwe,66,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+105,17.3,1,Nazmul Hossain,2009-01-23,1st,P Utseya,5,,SC Williams,27,Bangladesh,Zimbabwe,67,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+106,17.4,0,Nazmul Hossain,2009-01-23,1st,SC Williams,27,,P Utseya,5,Bangladesh,Zimbabwe,67,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+107,17.5,0,Nazmul Hossain,2009-01-23,1st,SC Williams,27,,P Utseya,5,Bangladesh,Zimbabwe,67,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+108,17.6,0,Nazmul Hossain,2009-01-23,1st,SC Williams,27,,P Utseya,5,Bangladesh,Zimbabwe,67,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+109,18.1,0,Naeem Islam,2009-01-23,1st,P Utseya,5,,SC Williams,27,Bangladesh,Zimbabwe,67,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+110,18.2,1,Naeem Islam,2009-01-23,1st,P Utseya,5,,SC Williams,28,Bangladesh,Zimbabwe,68,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+111,18.3,0,Naeem Islam,2009-01-23,1st,SC Williams,28,,P Utseya,5,Bangladesh,Zimbabwe,68,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+112,18.4,0,Naeem Islam,2009-01-23,1st,SC Williams,28,,P Utseya,5,Bangladesh,Zimbabwe,68,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+113,18.5,0,Naeem Islam,2009-01-23,1st,SC Williams,28,,P Utseya,5,Bangladesh,Zimbabwe,68,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+114,18.6,1,Naeem Islam,2009-01-23,1st,SC Williams,28,,P Utseya,6,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+115,19.1,0,Mahmudullah,2009-01-23,1st,SC Williams,28,,P Utseya,6,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+116,19.2,0,Mahmudullah,2009-01-23,1st,SC Williams,28,P Utseya,P Utseya,6,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+117,19.3,1,Mahmudullah,2009-01-23,1st,SC Williams,28,,E Chigumbura,1,Bangladesh,Zimbabwe,70,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+118,19.4,0,Mahmudullah,2009-01-23,1st,E Chigumbura,1,,SC Williams,28,Bangladesh,Zimbabwe,70,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+119,19.5,0,Mahmudullah,2009-01-23,1st,E Chigumbura,1,,SC Williams,28,Bangladesh,Zimbabwe,70,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+120,19.6,1,Mahmudullah,2009-01-23,1st,E Chigumbura,1,,SC Williams,29,Bangladesh,Zimbabwe,71,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+121,20.1,1,Naeem Islam,2009-01-23,1st,E Chigumbura,1,,SC Williams,30,Bangladesh,Zimbabwe,72,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+122,20.2,0,Naeem Islam,2009-01-23,1st,SC Williams,30,,E Chigumbura,1,Bangladesh,Zimbabwe,72,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+123,20.3,0,Naeem Islam,2009-01-23,1st,SC Williams,30,,E Chigumbura,1,Bangladesh,Zimbabwe,72,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+124,20.4,0,Naeem Islam,2009-01-23,1st,SC Williams,30,,E Chigumbura,1,Bangladesh,Zimbabwe,72,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+125,20.5,1,Naeem Islam,2009-01-23,1st,SC Williams,30,,E Chigumbura,2,Bangladesh,Zimbabwe,73,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+126,20.6,0,Naeem Islam,2009-01-23,1st,E Chigumbura,2,,SC Williams,30,Bangladesh,Zimbabwe,73,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+127,21.1,0,Mahmudullah,2009-01-23,1st,SC Williams,30,,E Chigumbura,2,Bangladesh,Zimbabwe,73,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+128,21.2,0,Mahmudullah,2009-01-23,1st,SC Williams,30,,E Chigumbura,2,Bangladesh,Zimbabwe,73,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+129,21.3,0,Mahmudullah,2009-01-23,1st,SC Williams,30,,E Chigumbura,2,Bangladesh,Zimbabwe,73,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+130,21.4,1,Mahmudullah,2009-01-23,1st,SC Williams,30,,E Chigumbura,3,Bangladesh,Zimbabwe,74,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+131,21.5,1,Mahmudullah,2009-01-23,1st,E Chigumbura,3,,SC Williams,31,Bangladesh,Zimbabwe,75,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+132,21.6,1,Mahmudullah,2009-01-23,1st,SC Williams,31,,E Chigumbura,4,Bangladesh,Zimbabwe,76,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+133,22.1,0,Naeem Islam,2009-01-23,1st,SC Williams,31,,E Chigumbura,4,Bangladesh,Zimbabwe,76,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+134,22.2,0,Naeem Islam,2009-01-23,1st,SC Williams,31,,E Chigumbura,4,Bangladesh,Zimbabwe,76,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+135,22.3,1,Naeem Islam,2009-01-23,1st,SC Williams,31,,E Chigumbura,5,Bangladesh,Zimbabwe,77,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+136,22.4,4,Naeem Islam,2009-01-23,1st,E Chigumbura,5,,SC Williams,35,Bangladesh,Zimbabwe,81,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+137,22.5,1,Naeem Islam,2009-01-23,1st,E Chigumbura,5,,SC Williams,36,Bangladesh,Zimbabwe,82,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+138,22.6,0,Naeem Islam,2009-01-23,1st,SC Williams,36,,E Chigumbura,5,Bangladesh,Zimbabwe,82,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+139,23.1,0,Mahmudullah,2009-01-23,1st,E Chigumbura,5,,SC Williams,36,Bangladesh,Zimbabwe,82,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+140,23.2,2,Mahmudullah,2009-01-23,1st,E Chigumbura,5,,SC Williams,38,Bangladesh,Zimbabwe,84,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+141,23.3,0,Mahmudullah,2009-01-23,1st,E Chigumbura,5,,SC Williams,38,Bangladesh,Zimbabwe,84,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+142,23.4,0,Mahmudullah,2009-01-23,1st,E Chigumbura,5,,SC Williams,38,Bangladesh,Zimbabwe,84,Bangladesh,Shere Bangla National Stadium,5,Bangladesh
+143,23.5,0,Mahmudullah,2009-01-23,1st,E Chigumbura,5,SC Williams,SC Williams,38,Bangladesh,Zimbabwe,84,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+144,23.6,0,Mahmudullah,2009-01-23,1st,E Chigumbura,5,,KM Dabengwa,0,Bangladesh,Zimbabwe,84,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+145,24.1,0,Naeem Islam,2009-01-23,1st,KM Dabengwa,0,,E Chigumbura,5,Bangladesh,Zimbabwe,84,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+146,24.2,1,Naeem Islam,2009-01-23,1st,KM Dabengwa,0,,E Chigumbura,6,Bangladesh,Zimbabwe,85,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+147,24.3,0,Naeem Islam,2009-01-23,1st,E Chigumbura,6,,KM Dabengwa,0,Bangladesh,Zimbabwe,85,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+148,24.4,1,Naeem Islam,2009-01-23,1st,E Chigumbura,6,,KM Dabengwa,1,Bangladesh,Zimbabwe,86,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+149,24.5,1,Naeem Islam,2009-01-23,1st,KM Dabengwa,1,,E Chigumbura,7,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+150,24.6,0,Naeem Islam,2009-01-23,1st,E Chigumbura,7,,KM Dabengwa,1,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+151,25.1,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,1,,E Chigumbura,7,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,6,Bangladesh
+152,25.2,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,1,E Chigumbura,E Chigumbura,7,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+153,25.3,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,1,,RW Price,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+154,25.4,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,1,,RW Price,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+155,25.5,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,1,,RW Price,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+156,25.6,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,1,,RW Price,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+157,26.1,0,Mahmudullah,2009-01-23,1st,RW Price,0,,KM Dabengwa,1,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+158,26.2,0,Mahmudullah,2009-01-23,1st,RW Price,0,,KM Dabengwa,1,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+159,26.3,0,Mahmudullah,2009-01-23,1st,RW Price,0,,KM Dabengwa,1,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+160,26.4,1,Mahmudullah,2009-01-23,1st,RW Price,0,,KM Dabengwa,2,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+161,26.5,0,Mahmudullah,2009-01-23,1st,KM Dabengwa,2,,RW Price,0,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+162,26.6,0,Mahmudullah,2009-01-23,1st,KM Dabengwa,2,,RW Price,0,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+163,27.1,0,Shakib Al Hasan,2009-01-23,1st,RW Price,0,,KM Dabengwa,2,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+164,27.2,0,Shakib Al Hasan,2009-01-23,1st,RW Price,0,,KM Dabengwa,2,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+165,27.3,0,Shakib Al Hasan,2009-01-23,1st,RW Price,0,,KM Dabengwa,2,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+166,27.4,0,Shakib Al Hasan,2009-01-23,1st,RW Price,0,,KM Dabengwa,2,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+167,27.5,0,Shakib Al Hasan,2009-01-23,1st,RW Price,0,,KM Dabengwa,2,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+168,27.6,0,Shakib Al Hasan,2009-01-23,1st,RW Price,0,,KM Dabengwa,2,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+169,28.1,1,Mahmudullah,2009-01-23,1st,KM Dabengwa,2,,RW Price,1,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+170,28.2,0,Mahmudullah,2009-01-23,1st,RW Price,1,,KM Dabengwa,2,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+171,28.3,0,Mahmudullah,2009-01-23,1st,RW Price,1,,KM Dabengwa,2,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+172,28.4,0,Mahmudullah,2009-01-23,1st,RW Price,1,,KM Dabengwa,2,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+173,28.5,1,Mahmudullah,2009-01-23,1st,RW Price,1,,KM Dabengwa,3,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+174,28.6,0,Mahmudullah,2009-01-23,1st,KM Dabengwa,3,,RW Price,1,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+175,29.1,0,Shakib Al Hasan,2009-01-23,1st,RW Price,1,,KM Dabengwa,3,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+176,29.2,0,Shakib Al Hasan,2009-01-23,1st,RW Price,1,,KM Dabengwa,3,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+177,29.3,0,Shakib Al Hasan,2009-01-23,1st,RW Price,1,,KM Dabengwa,3,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+178,29.4,0,Shakib Al Hasan,2009-01-23,1st,RW Price,1,,KM Dabengwa,3,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+179,29.5,0,Shakib Al Hasan,2009-01-23,1st,RW Price,1,,KM Dabengwa,3,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+180,29.6,0,Shakib Al Hasan,2009-01-23,1st,RW Price,1,,KM Dabengwa,3,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+181,30.1,0,Mahmudullah,2009-01-23,1st,KM Dabengwa,3,,RW Price,1,Bangladesh,Zimbabwe,91,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+182,30.2,1,Mahmudullah,2009-01-23,1st,KM Dabengwa,3,,RW Price,2,Bangladesh,Zimbabwe,92,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+183,30.3,0,Mahmudullah,2009-01-23,1st,RW Price,2,,KM Dabengwa,3,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+184,30.4,0,Mahmudullah,2009-01-23,1st,RW Price,2,,KM Dabengwa,3,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+185,30.5,1,Mahmudullah,2009-01-23,1st,RW Price,2,,KM Dabengwa,4,Bangladesh,Zimbabwe,94,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+186,30.6,1,Mahmudullah,2009-01-23,1st,KM Dabengwa,4,,RW Price,3,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+187,30.7,0,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,4,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+188,30.8,0,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,4,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+189,31.1,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,4,,RW Price,3,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+190,31.2,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,4,,RW Price,3,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+191,31.3,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,4,,RW Price,3,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+192,31.4,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,4,,RW Price,3,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+193,31.5,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,4,,RW Price,3,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+194,31.6,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,4,,RW Price,3,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+195,32.1,4,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,8,Bangladesh,Zimbabwe,99,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+196,32.2,0,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,8,Bangladesh,Zimbabwe,99,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+197,32.3,0,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,8,Bangladesh,Zimbabwe,99,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+198,32.4,0,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,8,Bangladesh,Zimbabwe,99,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+199,32.5,0,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,8,Bangladesh,Zimbabwe,99,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+200,32.6,0,Mahmudullah,2009-01-23,1st,RW Price,3,,KM Dabengwa,8,Bangladesh,Zimbabwe,99,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+201,33.1,4,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,8,,RW Price,7,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+202,33.2,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,8,,RW Price,7,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,7,Bangladesh
+203,33.3,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,8,RW Price,RW Price,7,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+204,33.4,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,8,,EC Rainsford,0,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+205,33.5,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,8,,EC Rainsford,0,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+206,33.6,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,8,,EC Rainsford,0,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+207,34.1,0,Mashrafe Mortaza,2009-01-23,1st,EC Rainsford,0,,KM Dabengwa,8,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+208,34.2,1,Mashrafe Mortaza,2009-01-23,1st,EC Rainsford,0,,KM Dabengwa,9,Bangladesh,Zimbabwe,104,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+209,34.3,0,Mashrafe Mortaza,2009-01-23,1st,KM Dabengwa,9,,EC Rainsford,0,Bangladesh,Zimbabwe,104,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+210,34.4,0,Mashrafe Mortaza,2009-01-23,1st,KM Dabengwa,9,,EC Rainsford,0,Bangladesh,Zimbabwe,104,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+211,34.5,0,Mashrafe Mortaza,2009-01-23,1st,KM Dabengwa,9,,EC Rainsford,0,Bangladesh,Zimbabwe,104,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+212,34.6,0,Mashrafe Mortaza,2009-01-23,1st,KM Dabengwa,9,,EC Rainsford,0,Bangladesh,Zimbabwe,104,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+213,35.1,1,Shakib Al Hasan,2009-01-23,1st,EC Rainsford,0,,KM Dabengwa,10,Bangladesh,Zimbabwe,105,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+214,35.2,1,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,10,,EC Rainsford,1,Bangladesh,Zimbabwe,106,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+215,35.3,3,Shakib Al Hasan,2009-01-23,1st,EC Rainsford,1,,KM Dabengwa,13,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+216,35.4,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,13,,EC Rainsford,1,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,8,Bangladesh
+217,35.5,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,13,EC Rainsford,EC Rainsford,1,Bangladesh,Zimbabwe,110,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+218,35.6,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,13,,CB Mpofu,0,Bangladesh,Zimbabwe,110,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+219,35.7,0,Shakib Al Hasan,2009-01-23,1st,KM Dabengwa,13,,CB Mpofu,0,Bangladesh,Zimbabwe,110,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+220,36.1,2,Mashrafe Mortaza,2009-01-23,1st,CB Mpofu,0,,KM Dabengwa,15,Bangladesh,Zimbabwe,112,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+221,36.2,1,Mashrafe Mortaza,2009-01-23,1st,CB Mpofu,0,,KM Dabengwa,16,Bangladesh,Zimbabwe,113,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+222,36.3,0,Mashrafe Mortaza,2009-01-23,1st,KM Dabengwa,16,,CB Mpofu,0,Bangladesh,Zimbabwe,113,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+223,36.4,1,Mashrafe Mortaza,2009-01-23,1st,KM Dabengwa,16,,CB Mpofu,1,Bangladesh,Zimbabwe,114,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+224,36.5,4,Mashrafe Mortaza,2009-01-23,1st,CB Mpofu,1,,KM Dabengwa,20,Bangladesh,Zimbabwe,118,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+225,36.6,1,Mashrafe Mortaza,2009-01-23,1st,CB Mpofu,1,,KM Dabengwa,21,Bangladesh,Zimbabwe,119,Bangladesh,Shere Bangla National Stadium,9,Bangladesh
+226,0.1,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+227,0.2,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,1,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+228,0.3,1,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+229,0.4,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+230,0.5,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+231,0.6,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+232,0.7,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,2,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+233,1.1,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,3,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+234,1.2,4,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,7,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+235,1.3,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,12,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+236,1.4,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,12,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+237,1.5,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,12,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+238,1.6,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+239,1.7,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+240,1.8,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+241,1.9,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+242,2.1,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+243,2.2,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+244,2.3,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,13,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+245,2.4,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,14,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+246,2.5,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,14,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+247,2.6,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,14,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+248,2.7,0,EC Rainsford,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,14,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+249,3.1,2,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,16,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+250,3.2,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,16,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+251,3.3,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,16,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+252,3.4,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,17,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+253,3.5,1,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+254,3.6,0,CB Mpofu,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+255,3.7,0,CB Mpofu,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+256,4.1,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+257,4.2,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+258,4.3,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+259,4.4,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+260,4.5,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+261,4.6,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,18,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+262,5.1,1,CB Mpofu,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+263,5.2,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+264,5.3,0,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,19,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+265,5.4,1,CB Mpofu,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,20,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+266,5.5,0,CB Mpofu,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,20,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+267,5.6,0,CB Mpofu,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,24,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+268,6.1,4,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,28,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+269,6.2,4,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+270,6.3,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+271,6.4,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+272,6.5,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+273,6.6,0,EC Rainsford,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+274,7.1,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+275,7.2,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+276,7.3,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+277,7.4,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,32,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+278,7.5,1,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,33,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+279,7.6,4,P Utseya,2009-01-23,2nd,Mehrab Hossain jnr,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,37,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+280,8.1,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,37,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+281,8.2,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,37,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+282,8.3,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,37,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+283,8.4,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,38,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+284,8.5,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,38,Bangladesh,Shere Bangla National Stadium,0,Bangladesh
+285,8.6,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mehrab Hossain jnr,0,Bangladesh,Zimbabwe,38,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+286,8.7,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,38,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+287,9.1,0,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,38,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+288,9.2,0,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,38,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+289,9.3,1,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+290,9.4,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+291,9.5,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+292,9.6,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+293,10.1,0,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,39,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+294,10.2,2,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,41,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+295,10.3,1,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,42,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+296,10.4,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,42,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+297,10.5,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,42,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+298,10.6,0,E Chigumbura,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,42,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+299,11.1,0,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,42,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+300,11.2,1,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,43,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+301,11.3,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,43,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+302,11.4,1,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,44,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+303,11.5,1,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,45,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+304,11.6,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,45,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+305,12.1,0,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,45,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+306,12.2,0,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,45,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+307,12.3,0,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,45,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+308,12.4,0,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,45,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+309,12.5,4,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,49,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+310,12.6,1,E Chigumbura,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,50,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+311,13.1,0,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,50,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+312,13.2,1,P Utseya,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,51,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+313,13.3,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,51,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+314,13.4,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,51,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+315,13.5,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,51,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+316,13.6,0,P Utseya,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,51,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+317,14.1,0,RW Price,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,51,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+318,14.2,0,RW Price,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,51,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+319,14.3,1,RW Price,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+320,14.4,0,RW Price,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+321,14.5,0,RW Price,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+322,14.6,0,RW Price,2009-01-23,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,1,Bangladesh
+323,15.1,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+324,15.2,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+325,15.3,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+326,15.4,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+327,15.5,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+328,15.6,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+329,16.1,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+330,16.2,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+331,16.3,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+332,16.4,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+333,16.5,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+334,16.6,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+335,17.1,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,52,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+336,17.2,2,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,54,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+337,17.3,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,54,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+338,17.4,0,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,54,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+339,17.5,4,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,58,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+340,17.6,4,CB Mpofu,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,62,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+341,18.1,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,62,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+342,18.2,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,62,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+343,18.3,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,62,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+344,18.4,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,62,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+345,18.5,1,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,63,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+346,18.6,0,RW Price,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,63,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+347,19.1,0,KM Dabengwa,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,63,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+348,19.2,1,KM Dabengwa,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+349,19.3,0,KM Dabengwa,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+350,19.4,0,KM Dabengwa,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+351,19.5,0,KM Dabengwa,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+352,19.6,0,KM Dabengwa,2009-01-23,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,2,Bangladesh
+353,20.1,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+354,20.2,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,64,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+355,20.3,1,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,65,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+356,20.4,4,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+357,20.5,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+358,20.6,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+359,21.1,0,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+360,21.2,0,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,69,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+361,21.3,4,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,73,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+362,21.4,0,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,73,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+363,21.5,4,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,77,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+364,21.6,1,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+365,22.1,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+366,22.2,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+367,22.3,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+368,22.4,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,78,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+369,22.5,1,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,79,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+370,22.6,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,79,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+371,23.1,4,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,83,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+372,23.2,4,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+373,23.3,0,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+374,23.4,0,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+375,23.5,0,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,87,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+376,23.6,1,P Utseya,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+377,24.1,0,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,88,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+378,24.2,1,RW Price,2009-01-23,2nd,Raqibul Hasan,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+379,24.3,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+380,24.4,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,3,Bangladesh
+381,24.5,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+382,24.6,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,89,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+383,25.1,1,P Utseya,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+384,25.2,0,P Utseya,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+385,25.3,0,P Utseya,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+386,25.4,0,P Utseya,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,90,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+387,25.5,2,P Utseya,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,92,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+388,25.6,1,P Utseya,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+389,26.1,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+390,26.2,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+391,26.3,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+392,26.4,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+393,26.5,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+394,26.6,0,RW Price,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,93,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+395,27.1,1,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,94,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+396,27.2,0,EC Rainsford,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,94,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+397,27.3,0,EC Rainsford,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,94,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+398,27.4,1,EC Rainsford,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+399,27.5,0,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,95,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+400,27.6,1,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,96,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+401,28.1,1,KM Dabengwa,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,97,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+402,28.2,0,KM Dabengwa,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,97,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+403,28.3,4,KM Dabengwa,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,101,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+404,28.4,0,KM Dabengwa,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,101,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+405,28.5,1,KM Dabengwa,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,102,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+406,28.6,1,KM Dabengwa,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,103,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+407,29.1,1,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,104,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+408,29.2,1,EC Rainsford,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,105,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+409,29.3,0,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,105,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+410,29.4,0,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,105,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+411,29.5,2,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,107,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+412,29.6,1,EC Rainsford,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,108,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+413,30.1,1,E Chigumbura,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+414,30.2,0,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+415,30.3,0,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+416,30.4,0,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+417,30.5,0,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+418,30.6,0,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,109,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+419,31.1,1,S Matsikenyeri,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,110,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+420,31.2,0,S Matsikenyeri,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,110,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+421,31.3,1,S Matsikenyeri,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,111,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+422,31.4,1,S Matsikenyeri,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,112,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+423,31.5,1,S Matsikenyeri,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,113,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+424,31.6,0,S Matsikenyeri,2009-01-23,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,113,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+425,32.1,4,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,117,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+426,32.2,0,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,117,Bangladesh,Shere Bangla National Stadium,4,Bangladesh
+427,32.3,4,E Chigumbura,2009-01-23,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,121,Bangladesh,Shere Bangla National Stadium,4,Bangladesh

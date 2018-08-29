@@ -1,0 +1,521 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,0,Kamran Akmal,Kamran Akmal,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,1,Pakistan
+1,0.2,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,0,,Younis Khan,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,1,Pakistan
+2,0.3,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,0,,Younis Khan,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,1,Pakistan
+3,0.4,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,0,,Younis Khan,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,1,Pakistan
+4,0.5,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,0,,Younis Khan,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,1,Pakistan
+5,0.6,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,0,,Younis Khan,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,1,Pakistan
+6,1.1,3,KTGD Prasad,2009-08-09,1st,Younis Khan,0,,Imran Nazir,3,Sri Lanka,Pakistan,3,Pakistan,R Premadasa Stadium,1,Pakistan
+7,1.2,1,KTGD Prasad,2009-08-09,1st,Imran Nazir,3,,Younis Khan,1,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+8,1.3,0,KTGD Prasad,2009-08-09,1st,Younis Khan,1,,Imran Nazir,3,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+9,1.4,4,KTGD Prasad,2009-08-09,1st,Younis Khan,1,,Imran Nazir,7,Sri Lanka,Pakistan,8,Pakistan,R Premadasa Stadium,1,Pakistan
+10,1.5,4,KTGD Prasad,2009-08-09,1st,Younis Khan,1,,Imran Nazir,11,Sri Lanka,Pakistan,12,Pakistan,R Premadasa Stadium,1,Pakistan
+11,1.6,4,KTGD Prasad,2009-08-09,1st,Younis Khan,1,,Imran Nazir,15,Sri Lanka,Pakistan,16,Pakistan,R Premadasa Stadium,1,Pakistan
+12,2.1,2,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,15,,Younis Khan,3,Sri Lanka,Pakistan,18,Pakistan,R Premadasa Stadium,1,Pakistan
+13,2.2,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,15,,Younis Khan,3,Sri Lanka,Pakistan,18,Pakistan,R Premadasa Stadium,1,Pakistan
+14,2.3,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,15,,Younis Khan,3,Sri Lanka,Pakistan,18,Pakistan,R Premadasa Stadium,1,Pakistan
+15,2.4,2,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,15,,Younis Khan,5,Sri Lanka,Pakistan,20,Pakistan,R Premadasa Stadium,1,Pakistan
+16,2.5,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,15,,Younis Khan,5,Sri Lanka,Pakistan,20,Pakistan,R Premadasa Stadium,1,Pakistan
+17,2.6,1,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,15,,Younis Khan,6,Sri Lanka,Pakistan,21,Pakistan,R Premadasa Stadium,1,Pakistan
+18,3.1,1,KTGD Prasad,2009-08-09,1st,Imran Nazir,15,,Younis Khan,7,Sri Lanka,Pakistan,22,Pakistan,R Premadasa Stadium,1,Pakistan
+19,3.2,0,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,15,Sri Lanka,Pakistan,22,Pakistan,R Premadasa Stadium,1,Pakistan
+20,3.3,3,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,18,Sri Lanka,Pakistan,25,Pakistan,R Premadasa Stadium,1,Pakistan
+21,3.4,0,KTGD Prasad,2009-08-09,1st,Imran Nazir,18,,Younis Khan,7,Sri Lanka,Pakistan,25,Pakistan,R Premadasa Stadium,1,Pakistan
+22,3.5,0,KTGD Prasad,2009-08-09,1st,Imran Nazir,18,,Younis Khan,7,Sri Lanka,Pakistan,25,Pakistan,R Premadasa Stadium,1,Pakistan
+23,3.6,0,KTGD Prasad,2009-08-09,1st,Imran Nazir,18,,Younis Khan,7,Sri Lanka,Pakistan,25,Pakistan,R Premadasa Stadium,1,Pakistan
+24,4.1,2,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,20,Sri Lanka,Pakistan,27,Pakistan,R Premadasa Stadium,1,Pakistan
+25,4.2,0,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,20,Sri Lanka,Pakistan,27,Pakistan,R Premadasa Stadium,1,Pakistan
+26,4.3,0,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,20,Sri Lanka,Pakistan,27,Pakistan,R Premadasa Stadium,1,Pakistan
+27,4.4,0,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,20,Sri Lanka,Pakistan,27,Pakistan,R Premadasa Stadium,1,Pakistan
+28,4.5,1,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,21,Sri Lanka,Pakistan,28,Pakistan,R Premadasa Stadium,1,Pakistan
+29,4.6,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,21,,Younis Khan,7,Sri Lanka,Pakistan,28,Pakistan,R Premadasa Stadium,1,Pakistan
+30,5.1,0,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,21,Sri Lanka,Pakistan,29,Pakistan,R Premadasa Stadium,1,Pakistan
+31,5.2,0,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,21,Sri Lanka,Pakistan,29,Pakistan,R Premadasa Stadium,1,Pakistan
+32,5.3,0,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,21,Sri Lanka,Pakistan,29,Pakistan,R Premadasa Stadium,1,Pakistan
+33,5.4,0,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,21,Sri Lanka,Pakistan,29,Pakistan,R Premadasa Stadium,1,Pakistan
+34,5.5,4,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,25,Sri Lanka,Pakistan,33,Pakistan,R Premadasa Stadium,1,Pakistan
+35,5.6,4,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,29,Sri Lanka,Pakistan,37,Pakistan,R Premadasa Stadium,1,Pakistan
+36,5.7,1,KTGD Prasad,2009-08-09,1st,Younis Khan,7,,Imran Nazir,30,Sri Lanka,Pakistan,38,Pakistan,R Premadasa Stadium,1,Pakistan
+37,6.1,4,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,34,Sri Lanka,Pakistan,42,Pakistan,R Premadasa Stadium,1,Pakistan
+38,6.2,0,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,34,Sri Lanka,Pakistan,42,Pakistan,R Premadasa Stadium,1,Pakistan
+39,6.3,1,KMDN Kulasekara,2009-08-09,1st,Younis Khan,7,,Imran Nazir,35,Sri Lanka,Pakistan,43,Pakistan,R Premadasa Stadium,1,Pakistan
+40,6.4,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,35,,Younis Khan,7,Sri Lanka,Pakistan,43,Pakistan,R Premadasa Stadium,1,Pakistan
+41,6.5,0,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,35,,Younis Khan,7,Sri Lanka,Pakistan,43,Pakistan,R Premadasa Stadium,1,Pakistan
+42,6.6,1,KMDN Kulasekara,2009-08-09,1st,Imran Nazir,35,,Younis Khan,8,Sri Lanka,Pakistan,44,Pakistan,R Premadasa Stadium,1,Pakistan
+43,7.1,0,BAW Mendis,2009-08-09,1st,Imran Nazir,35,,Younis Khan,8,Sri Lanka,Pakistan,44,Pakistan,R Premadasa Stadium,1,Pakistan
+44,7.2,0,BAW Mendis,2009-08-09,1st,Imran Nazir,35,,Younis Khan,8,Sri Lanka,Pakistan,44,Pakistan,R Premadasa Stadium,1,Pakistan
+45,7.3,1,BAW Mendis,2009-08-09,1st,Imran Nazir,35,,Younis Khan,9,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,1,Pakistan
+46,7.4,0,BAW Mendis,2009-08-09,1st,Younis Khan,9,,Imran Nazir,35,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,1,Pakistan
+47,7.5,0,BAW Mendis,2009-08-09,1st,Younis Khan,9,Imran Nazir,Imran Nazir,35,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+48,7.6,0,BAW Mendis,2009-08-09,1st,Younis Khan,9,,Mohammad Yousuf,0,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+49,8.1,0,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,0,,Younis Khan,9,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+50,8.2,0,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,0,,Younis Khan,9,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+51,8.3,0,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,0,,Younis Khan,9,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+52,8.4,1,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,0,,Younis Khan,10,Sri Lanka,Pakistan,46,Pakistan,R Premadasa Stadium,2,Pakistan
+53,8.5,0,KMDN Kulasekara,2009-08-09,1st,Younis Khan,10,,Mohammad Yousuf,0,Sri Lanka,Pakistan,46,Pakistan,R Premadasa Stadium,2,Pakistan
+54,8.6,4,KMDN Kulasekara,2009-08-09,1st,Younis Khan,10,,Mohammad Yousuf,4,Sri Lanka,Pakistan,50,Pakistan,R Premadasa Stadium,2,Pakistan
+55,9.1,0,BAW Mendis,2009-08-09,1st,Mohammad Yousuf,4,,Younis Khan,10,Sri Lanka,Pakistan,50,Pakistan,R Premadasa Stadium,2,Pakistan
+56,9.2,1,BAW Mendis,2009-08-09,1st,Mohammad Yousuf,4,,Younis Khan,11,Sri Lanka,Pakistan,51,Pakistan,R Premadasa Stadium,2,Pakistan
+57,9.3,0,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,4,Sri Lanka,Pakistan,51,Pakistan,R Premadasa Stadium,2,Pakistan
+58,9.4,0,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,4,Sri Lanka,Pakistan,51,Pakistan,R Premadasa Stadium,2,Pakistan
+59,9.5,1,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,5,Sri Lanka,Pakistan,52,Pakistan,R Premadasa Stadium,2,Pakistan
+60,9.6,0,BAW Mendis,2009-08-09,1st,Mohammad Yousuf,5,,Younis Khan,11,Sri Lanka,Pakistan,52,Pakistan,R Premadasa Stadium,2,Pakistan
+61,10.1,0,KMDN Kulasekara,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,5,Sri Lanka,Pakistan,52,Pakistan,R Premadasa Stadium,2,Pakistan
+62,10.2,1,KMDN Kulasekara,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,6,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+63,10.3,0,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,6,,Younis Khan,11,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+64,10.4,0,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,6,,Younis Khan,11,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+65,10.5,0,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,6,,Younis Khan,11,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+66,10.6,0,KMDN Kulasekara,2009-08-09,1st,Mohammad Yousuf,6,,Younis Khan,11,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+67,11.1,0,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,6,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+68,11.2,0,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,6,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+69,11.3,0,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,6,Sri Lanka,Pakistan,53,Pakistan,R Premadasa Stadium,2,Pakistan
+70,11.4,4,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,10,Sri Lanka,Pakistan,57,Pakistan,R Premadasa Stadium,2,Pakistan
+71,11.5,0,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,10,Sri Lanka,Pakistan,57,Pakistan,R Premadasa Stadium,2,Pakistan
+72,11.6,2,BAW Mendis,2009-08-09,1st,Younis Khan,11,,Mohammad Yousuf,12,Sri Lanka,Pakistan,59,Pakistan,R Premadasa Stadium,2,Pakistan
+73,12.1,1,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,12,,Younis Khan,12,Sri Lanka,Pakistan,60,Pakistan,R Premadasa Stadium,2,Pakistan
+74,12.2,0,KTGD Prasad,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,12,Sri Lanka,Pakistan,60,Pakistan,R Premadasa Stadium,2,Pakistan
+75,12.3,2,KTGD Prasad,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,14,Sri Lanka,Pakistan,62,Pakistan,R Premadasa Stadium,2,Pakistan
+76,12.4,0,KTGD Prasad,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,14,Sri Lanka,Pakistan,62,Pakistan,R Premadasa Stadium,2,Pakistan
+77,12.5,0,KTGD Prasad,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,14,Sri Lanka,Pakistan,62,Pakistan,R Premadasa Stadium,2,Pakistan
+78,12.6,1,KTGD Prasad,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,15,Sri Lanka,Pakistan,63,Pakistan,R Premadasa Stadium,2,Pakistan
+79,13.1,0,BAW Mendis,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,15,Sri Lanka,Pakistan,63,Pakistan,R Premadasa Stadium,2,Pakistan
+80,13.2,0,BAW Mendis,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,15,Sri Lanka,Pakistan,63,Pakistan,R Premadasa Stadium,2,Pakistan
+81,13.3,0,BAW Mendis,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,15,Sri Lanka,Pakistan,63,Pakistan,R Premadasa Stadium,2,Pakistan
+82,13.4,0,BAW Mendis,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,15,Sri Lanka,Pakistan,63,Pakistan,R Premadasa Stadium,2,Pakistan
+83,13.5,1,BAW Mendis,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,16,Sri Lanka,Pakistan,64,Pakistan,R Premadasa Stadium,2,Pakistan
+84,13.6,0,BAW Mendis,2009-08-09,1st,Mohammad Yousuf,16,,Younis Khan,12,Sri Lanka,Pakistan,64,Pakistan,R Premadasa Stadium,2,Pakistan
+85,14.1,0,KTGD Prasad,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,16,Sri Lanka,Pakistan,64,Pakistan,R Premadasa Stadium,2,Pakistan
+86,14.2,1,KTGD Prasad,2009-08-09,1st,Younis Khan,12,,Mohammad Yousuf,17,Sri Lanka,Pakistan,65,Pakistan,R Premadasa Stadium,2,Pakistan
+87,14.3,0,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,17,,Younis Khan,12,Sri Lanka,Pakistan,65,Pakistan,R Premadasa Stadium,2,Pakistan
+88,14.4,0,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,17,,Younis Khan,12,Sri Lanka,Pakistan,65,Pakistan,R Premadasa Stadium,2,Pakistan
+89,14.5,1,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,17,,Younis Khan,13,Sri Lanka,Pakistan,66,Pakistan,R Premadasa Stadium,2,Pakistan
+90,14.6,1,KTGD Prasad,2009-08-09,1st,Younis Khan,13,,Mohammad Yousuf,18,Sri Lanka,Pakistan,67,Pakistan,R Premadasa Stadium,2,Pakistan
+91,15.1,0,AD Mathews,2009-08-09,1st,Younis Khan,13,,Mohammad Yousuf,18,Sri Lanka,Pakistan,67,Pakistan,R Premadasa Stadium,2,Pakistan
+92,15.2,2,AD Mathews,2009-08-09,1st,Younis Khan,13,,Mohammad Yousuf,20,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,2,Pakistan
+93,15.3,1,AD Mathews,2009-08-09,1st,Younis Khan,13,,Mohammad Yousuf,21,Sri Lanka,Pakistan,70,Pakistan,R Premadasa Stadium,2,Pakistan
+94,15.4,1,AD Mathews,2009-08-09,1st,Mohammad Yousuf,21,,Younis Khan,14,Sri Lanka,Pakistan,71,Pakistan,R Premadasa Stadium,2,Pakistan
+95,15.5,1,AD Mathews,2009-08-09,1st,Younis Khan,14,,Mohammad Yousuf,22,Sri Lanka,Pakistan,72,Pakistan,R Premadasa Stadium,2,Pakistan
+96,15.6,1,AD Mathews,2009-08-09,1st,Mohammad Yousuf,22,,Younis Khan,15,Sri Lanka,Pakistan,73,Pakistan,R Premadasa Stadium,2,Pakistan
+97,16.1,1,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,22,,Younis Khan,16,Sri Lanka,Pakistan,74,Pakistan,R Premadasa Stadium,2,Pakistan
+98,16.2,1,KTGD Prasad,2009-08-09,1st,Younis Khan,16,,Mohammad Yousuf,23,Sri Lanka,Pakistan,75,Pakistan,R Premadasa Stadium,2,Pakistan
+99,16.3,1,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,23,,Younis Khan,17,Sri Lanka,Pakistan,76,Pakistan,R Premadasa Stadium,2,Pakistan
+100,16.4,1,KTGD Prasad,2009-08-09,1st,Younis Khan,17,,Mohammad Yousuf,24,Sri Lanka,Pakistan,77,Pakistan,R Premadasa Stadium,2,Pakistan
+101,16.5,4,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,24,,Younis Khan,21,Sri Lanka,Pakistan,81,Pakistan,R Premadasa Stadium,2,Pakistan
+102,16.6,0,KTGD Prasad,2009-08-09,1st,Mohammad Yousuf,24,,Younis Khan,21,Sri Lanka,Pakistan,81,Pakistan,R Premadasa Stadium,2,Pakistan
+103,17.1,0,HMCM Bandara,2009-08-09,1st,Younis Khan,21,,Mohammad Yousuf,24,Sri Lanka,Pakistan,81,Pakistan,R Premadasa Stadium,2,Pakistan
+104,17.2,1,HMCM Bandara,2009-08-09,1st,Younis Khan,21,,Mohammad Yousuf,25,Sri Lanka,Pakistan,82,Pakistan,R Premadasa Stadium,2,Pakistan
+105,17.3,0,HMCM Bandara,2009-08-09,1st,Mohammad Yousuf,25,,Younis Khan,21,Sri Lanka,Pakistan,82,Pakistan,R Premadasa Stadium,2,Pakistan
+106,17.4,2,HMCM Bandara,2009-08-09,1st,Mohammad Yousuf,25,,Younis Khan,23,Sri Lanka,Pakistan,84,Pakistan,R Premadasa Stadium,2,Pakistan
+107,17.5,0,HMCM Bandara,2009-08-09,1st,Mohammad Yousuf,25,,Younis Khan,23,Sri Lanka,Pakistan,85,Pakistan,R Premadasa Stadium,2,Pakistan
+108,17.6,1,HMCM Bandara,2009-08-09,1st,Mohammad Yousuf,25,,Younis Khan,24,Sri Lanka,Pakistan,86,Pakistan,R Premadasa Stadium,2,Pakistan
+109,17.7,0,HMCM Bandara,2009-08-09,1st,Younis Khan,24,,Mohammad Yousuf,25,Sri Lanka,Pakistan,86,Pakistan,R Premadasa Stadium,2,Pakistan
+110,18.1,1,ST Jayasuriya,2009-08-09,1st,Mohammad Yousuf,25,,Younis Khan,25,Sri Lanka,Pakistan,87,Pakistan,R Premadasa Stadium,2,Pakistan
+111,18.2,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,25,Sri Lanka,Pakistan,87,Pakistan,R Premadasa Stadium,2,Pakistan
+112,18.3,4,ST Jayasuriya,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,29,Sri Lanka,Pakistan,91,Pakistan,R Premadasa Stadium,2,Pakistan
+113,18.4,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,29,Sri Lanka,Pakistan,91,Pakistan,R Premadasa Stadium,2,Pakistan
+114,18.5,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,29,Sri Lanka,Pakistan,91,Pakistan,R Premadasa Stadium,2,Pakistan
+115,18.6,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,30,Sri Lanka,Pakistan,92,Pakistan,R Premadasa Stadium,2,Pakistan
+116,19.1,0,HMCM Bandara,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,30,Sri Lanka,Pakistan,92,Pakistan,R Premadasa Stadium,2,Pakistan
+117,19.2,0,HMCM Bandara,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,30,Sri Lanka,Pakistan,92,Pakistan,R Premadasa Stadium,2,Pakistan
+118,19.3,0,HMCM Bandara,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,30,Sri Lanka,Pakistan,92,Pakistan,R Premadasa Stadium,2,Pakistan
+119,19.4,4,HMCM Bandara,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,34,Sri Lanka,Pakistan,96,Pakistan,R Premadasa Stadium,2,Pakistan
+120,19.5,2,HMCM Bandara,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,36,Sri Lanka,Pakistan,98,Pakistan,R Premadasa Stadium,2,Pakistan
+121,19.6,1,HMCM Bandara,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,37,Sri Lanka,Pakistan,99,Pakistan,R Premadasa Stadium,2,Pakistan
+122,20.1,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,25,,Mohammad Yousuf,38,Sri Lanka,Pakistan,100,Pakistan,R Premadasa Stadium,2,Pakistan
+123,20.2,1,ST Jayasuriya,2009-08-09,1st,Mohammad Yousuf,38,,Younis Khan,26,Sri Lanka,Pakistan,101,Pakistan,R Premadasa Stadium,2,Pakistan
+124,20.3,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,26,,Mohammad Yousuf,38,Sri Lanka,Pakistan,101,Pakistan,R Premadasa Stadium,2,Pakistan
+125,20.4,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,26,,Mohammad Yousuf,39,Sri Lanka,Pakistan,102,Pakistan,R Premadasa Stadium,2,Pakistan
+126,20.5,0,ST Jayasuriya,2009-08-09,1st,Mohammad Yousuf,39,,Younis Khan,26,Sri Lanka,Pakistan,102,Pakistan,R Premadasa Stadium,2,Pakistan
+127,20.6,1,ST Jayasuriya,2009-08-09,1st,Mohammad Yousuf,39,,Younis Khan,27,Sri Lanka,Pakistan,103,Pakistan,R Premadasa Stadium,2,Pakistan
+128,21.1,0,HMCM Bandara,2009-08-09,1st,Mohammad Yousuf,39,,Younis Khan,27,Sri Lanka,Pakistan,103,Pakistan,R Premadasa Stadium,2,Pakistan
+129,21.2,0,HMCM Bandara,2009-08-09,1st,Mohammad Yousuf,39,,Younis Khan,27,Sri Lanka,Pakistan,103,Pakistan,R Premadasa Stadium,2,Pakistan
+130,21.3,1,HMCM Bandara,2009-08-09,1st,Mohammad Yousuf,39,,Younis Khan,28,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,2,Pakistan
+131,21.4,0,HMCM Bandara,2009-08-09,1st,Younis Khan,28,,Mohammad Yousuf,39,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,2,Pakistan
+132,21.5,0,HMCM Bandara,2009-08-09,1st,Younis Khan,28,,Mohammad Yousuf,39,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,2,Pakistan
+133,21.6,4,HMCM Bandara,2009-08-09,1st,Younis Khan,28,,Mohammad Yousuf,43,Sri Lanka,Pakistan,108,Pakistan,R Premadasa Stadium,2,Pakistan
+134,22.1,4,ST Jayasuriya,2009-08-09,1st,Mohammad Yousuf,43,,Younis Khan,32,Sri Lanka,Pakistan,112,Pakistan,R Premadasa Stadium,2,Pakistan
+135,22.2,1,ST Jayasuriya,2009-08-09,1st,Mohammad Yousuf,43,,Younis Khan,33,Sri Lanka,Pakistan,113,Pakistan,R Premadasa Stadium,2,Pakistan
+136,22.3,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,33,,Mohammad Yousuf,43,Sri Lanka,Pakistan,113,Pakistan,R Premadasa Stadium,2,Pakistan
+137,22.4,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,33,Mohammad Yousuf,Mohammad Yousuf,43,Sri Lanka,Pakistan,113,Pakistan,R Premadasa Stadium,3,Pakistan
+138,22.5,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,33,,Misbah-ul-Haq,0,Sri Lanka,Pakistan,113,Pakistan,R Premadasa Stadium,3,Pakistan
+139,22.6,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,33,,Misbah-ul-Haq,1,Sri Lanka,Pakistan,114,Pakistan,R Premadasa Stadium,3,Pakistan
+140,23.1,1,HMCM Bandara,2009-08-09,1st,Younis Khan,33,,Misbah-ul-Haq,2,Sri Lanka,Pakistan,115,Pakistan,R Premadasa Stadium,3,Pakistan
+141,23.2,1,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,2,,Younis Khan,34,Sri Lanka,Pakistan,116,Pakistan,R Premadasa Stadium,3,Pakistan
+142,23.3,0,HMCM Bandara,2009-08-09,1st,Younis Khan,34,,Misbah-ul-Haq,2,Sri Lanka,Pakistan,116,Pakistan,R Premadasa Stadium,3,Pakistan
+143,23.4,0,HMCM Bandara,2009-08-09,1st,Younis Khan,34,,Misbah-ul-Haq,2,Sri Lanka,Pakistan,116,Pakistan,R Premadasa Stadium,3,Pakistan
+144,23.5,0,HMCM Bandara,2009-08-09,1st,Younis Khan,34,,Misbah-ul-Haq,2,Sri Lanka,Pakistan,116,Pakistan,R Premadasa Stadium,3,Pakistan
+145,23.6,1,HMCM Bandara,2009-08-09,1st,Younis Khan,34,,Misbah-ul-Haq,3,Sri Lanka,Pakistan,117,Pakistan,R Premadasa Stadium,3,Pakistan
+146,24.1,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,34,,Misbah-ul-Haq,4,Sri Lanka,Pakistan,118,Pakistan,R Premadasa Stadium,3,Pakistan
+147,24.2,2,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,4,,Younis Khan,36,Sri Lanka,Pakistan,120,Pakistan,R Premadasa Stadium,3,Pakistan
+148,24.3,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,4,,Younis Khan,37,Sri Lanka,Pakistan,121,Pakistan,R Premadasa Stadium,3,Pakistan
+149,24.4,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,37,,Misbah-ul-Haq,4,Sri Lanka,Pakistan,121,Pakistan,R Premadasa Stadium,3,Pakistan
+150,24.5,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,37,,Misbah-ul-Haq,4,Sri Lanka,Pakistan,121,Pakistan,R Premadasa Stadium,3,Pakistan
+151,24.6,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,37,,Misbah-ul-Haq,5,Sri Lanka,Pakistan,122,Pakistan,R Premadasa Stadium,3,Pakistan
+152,25.1,1,HMCM Bandara,2009-08-09,1st,Younis Khan,37,,Misbah-ul-Haq,6,Sri Lanka,Pakistan,123,Pakistan,R Premadasa Stadium,3,Pakistan
+153,25.2,1,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,6,,Younis Khan,38,Sri Lanka,Pakistan,124,Pakistan,R Premadasa Stadium,3,Pakistan
+154,25.3,1,HMCM Bandara,2009-08-09,1st,Younis Khan,38,,Misbah-ul-Haq,7,Sri Lanka,Pakistan,125,Pakistan,R Premadasa Stadium,3,Pakistan
+155,25.4,0,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,7,,Younis Khan,38,Sri Lanka,Pakistan,125,Pakistan,R Premadasa Stadium,3,Pakistan
+156,25.5,4,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,7,,Younis Khan,42,Sri Lanka,Pakistan,129,Pakistan,R Premadasa Stadium,3,Pakistan
+157,25.6,2,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,7,,Younis Khan,44,Sri Lanka,Pakistan,131,Pakistan,R Premadasa Stadium,3,Pakistan
+158,26.1,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,44,,Misbah-ul-Haq,8,Sri Lanka,Pakistan,132,Pakistan,R Premadasa Stadium,3,Pakistan
+159,26.2,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,8,,Younis Khan,45,Sri Lanka,Pakistan,133,Pakistan,R Premadasa Stadium,3,Pakistan
+160,26.3,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,45,,Misbah-ul-Haq,9,Sri Lanka,Pakistan,134,Pakistan,R Premadasa Stadium,3,Pakistan
+161,26.4,0,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,9,,Younis Khan,45,Sri Lanka,Pakistan,134,Pakistan,R Premadasa Stadium,3,Pakistan
+162,26.5,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,9,,Younis Khan,46,Sri Lanka,Pakistan,135,Pakistan,R Premadasa Stadium,3,Pakistan
+163,26.6,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,46,,Misbah-ul-Haq,9,Sri Lanka,Pakistan,135,Pakistan,R Premadasa Stadium,3,Pakistan
+164,27.1,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,9,,Younis Khan,46,Sri Lanka,Pakistan,135,Pakistan,R Premadasa Stadium,3,Pakistan
+165,27.2,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,9,,Younis Khan,47,Sri Lanka,Pakistan,136,Pakistan,R Premadasa Stadium,3,Pakistan
+166,27.3,3,BAW Mendis,2009-08-09,1st,Younis Khan,47,,Misbah-ul-Haq,12,Sri Lanka,Pakistan,139,Pakistan,R Premadasa Stadium,3,Pakistan
+167,27.4,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,12,,Younis Khan,48,Sri Lanka,Pakistan,140,Pakistan,R Premadasa Stadium,3,Pakistan
+168,27.5,1,BAW Mendis,2009-08-09,1st,Younis Khan,48,,Misbah-ul-Haq,13,Sri Lanka,Pakistan,141,Pakistan,R Premadasa Stadium,3,Pakistan
+169,27.6,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,13,,Younis Khan,49,Sri Lanka,Pakistan,142,Pakistan,R Premadasa Stadium,3,Pakistan
+170,28.1,2,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,13,,Younis Khan,51,Sri Lanka,Pakistan,144,Pakistan,R Premadasa Stadium,3,Pakistan
+171,28.2,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,13,,Younis Khan,52,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,3,Pakistan
+172,28.3,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,52,,Misbah-ul-Haq,14,Sri Lanka,Pakistan,146,Pakistan,R Premadasa Stadium,3,Pakistan
+173,28.4,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,14,,Younis Khan,53,Sri Lanka,Pakistan,147,Pakistan,R Premadasa Stadium,3,Pakistan
+174,28.5,2,ST Jayasuriya,2009-08-09,1st,Younis Khan,53,,Misbah-ul-Haq,16,Sri Lanka,Pakistan,149,Pakistan,R Premadasa Stadium,3,Pakistan
+175,28.6,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,53,,Misbah-ul-Haq,17,Sri Lanka,Pakistan,150,Pakistan,R Premadasa Stadium,3,Pakistan
+176,29.1,0,BAW Mendis,2009-08-09,1st,Younis Khan,53,,Misbah-ul-Haq,17,Sri Lanka,Pakistan,150,Pakistan,R Premadasa Stadium,3,Pakistan
+177,29.2,1,BAW Mendis,2009-08-09,1st,Younis Khan,53,,Misbah-ul-Haq,18,Sri Lanka,Pakistan,151,Pakistan,R Premadasa Stadium,3,Pakistan
+178,29.3,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,18,,Younis Khan,54,Sri Lanka,Pakistan,152,Pakistan,R Premadasa Stadium,3,Pakistan
+179,29.4,1,BAW Mendis,2009-08-09,1st,Younis Khan,54,,Misbah-ul-Haq,19,Sri Lanka,Pakistan,153,Pakistan,R Premadasa Stadium,3,Pakistan
+180,29.5,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,19,,Younis Khan,54,Sri Lanka,Pakistan,153,Pakistan,R Premadasa Stadium,3,Pakistan
+181,29.6,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,19,,Younis Khan,55,Sri Lanka,Pakistan,154,Pakistan,R Premadasa Stadium,3,Pakistan
+182,30.1,4,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,19,,Younis Khan,59,Sri Lanka,Pakistan,158,Pakistan,R Premadasa Stadium,3,Pakistan
+183,30.2,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,19,,Younis Khan,60,Sri Lanka,Pakistan,159,Pakistan,R Premadasa Stadium,3,Pakistan
+184,30.3,4,ST Jayasuriya,2009-08-09,1st,Younis Khan,60,,Misbah-ul-Haq,23,Sri Lanka,Pakistan,163,Pakistan,R Premadasa Stadium,3,Pakistan
+185,30.4,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,60,,Misbah-ul-Haq,23,Sri Lanka,Pakistan,163,Pakistan,R Premadasa Stadium,3,Pakistan
+186,30.5,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,60,,Misbah-ul-Haq,24,Sri Lanka,Pakistan,164,Pakistan,R Premadasa Stadium,3,Pakistan
+187,30.6,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,24,,Younis Khan,61,Sri Lanka,Pakistan,165,Pakistan,R Premadasa Stadium,3,Pakistan
+188,31.1,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,24,,Younis Khan,61,Sri Lanka,Pakistan,165,Pakistan,R Premadasa Stadium,3,Pakistan
+189,31.2,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,24,,Younis Khan,61,Sri Lanka,Pakistan,165,Pakistan,R Premadasa Stadium,3,Pakistan
+190,31.3,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,24,,Younis Khan,61,Sri Lanka,Pakistan,165,Pakistan,R Premadasa Stadium,3,Pakistan
+191,31.4,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,24,,Younis Khan,62,Sri Lanka,Pakistan,166,Pakistan,R Premadasa Stadium,3,Pakistan
+192,31.5,1,BAW Mendis,2009-08-09,1st,Younis Khan,62,,Misbah-ul-Haq,25,Sri Lanka,Pakistan,167,Pakistan,R Premadasa Stadium,3,Pakistan
+193,31.6,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,25,,Younis Khan,63,Sri Lanka,Pakistan,168,Pakistan,R Premadasa Stadium,3,Pakistan
+194,32.1,4,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,25,,Younis Khan,67,Sri Lanka,Pakistan,172,Pakistan,R Premadasa Stadium,3,Pakistan
+195,32.2,0,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,25,,Younis Khan,67,Sri Lanka,Pakistan,172,Pakistan,R Premadasa Stadium,3,Pakistan
+196,32.3,1,HMCM Bandara,2009-08-09,1st,Misbah-ul-Haq,25,,Younis Khan,68,Sri Lanka,Pakistan,173,Pakistan,R Premadasa Stadium,3,Pakistan
+197,32.4,4,HMCM Bandara,2009-08-09,1st,Younis Khan,68,,Misbah-ul-Haq,29,Sri Lanka,Pakistan,177,Pakistan,R Premadasa Stadium,3,Pakistan
+198,32.5,0,HMCM Bandara,2009-08-09,1st,Younis Khan,68,,Misbah-ul-Haq,29,Sri Lanka,Pakistan,177,Pakistan,R Premadasa Stadium,3,Pakistan
+199,32.6,1,HMCM Bandara,2009-08-09,1st,Younis Khan,68,,Misbah-ul-Haq,30,Sri Lanka,Pakistan,178,Pakistan,R Premadasa Stadium,3,Pakistan
+200,33.1,1,ST Jayasuriya,2009-08-09,1st,Younis Khan,68,,Misbah-ul-Haq,31,Sri Lanka,Pakistan,179,Pakistan,R Premadasa Stadium,3,Pakistan
+201,33.2,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,31,,Younis Khan,69,Sri Lanka,Pakistan,180,Pakistan,R Premadasa Stadium,3,Pakistan
+202,33.3,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,69,,Misbah-ul-Haq,31,Sri Lanka,Pakistan,180,Pakistan,R Premadasa Stadium,3,Pakistan
+203,33.4,2,ST Jayasuriya,2009-08-09,1st,Younis Khan,69,,Misbah-ul-Haq,33,Sri Lanka,Pakistan,182,Pakistan,R Premadasa Stadium,3,Pakistan
+204,33.5,0,ST Jayasuriya,2009-08-09,1st,Younis Khan,69,,Misbah-ul-Haq,33,Sri Lanka,Pakistan,182,Pakistan,R Premadasa Stadium,3,Pakistan
+205,33.6,4,ST Jayasuriya,2009-08-09,1st,Younis Khan,69,,Misbah-ul-Haq,37,Sri Lanka,Pakistan,186,Pakistan,R Premadasa Stadium,3,Pakistan
+206,34.1,1,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,37,,Younis Khan,70,Sri Lanka,Pakistan,187,Pakistan,R Premadasa Stadium,3,Pakistan
+207,34.2,1,KTGD Prasad,2009-08-09,1st,Younis Khan,70,,Misbah-ul-Haq,38,Sri Lanka,Pakistan,188,Pakistan,R Premadasa Stadium,3,Pakistan
+208,34.3,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,38,,Younis Khan,70,Sri Lanka,Pakistan,188,Pakistan,R Premadasa Stadium,3,Pakistan
+209,34.4,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,38,,Younis Khan,70,Sri Lanka,Pakistan,188,Pakistan,R Premadasa Stadium,3,Pakistan
+210,34.5,1,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,38,,Younis Khan,71,Sri Lanka,Pakistan,189,Pakistan,R Premadasa Stadium,3,Pakistan
+211,34.6,0,KTGD Prasad,2009-08-09,1st,Younis Khan,71,,Misbah-ul-Haq,38,Sri Lanka,Pakistan,189,Pakistan,R Premadasa Stadium,3,Pakistan
+212,35.1,0,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,38,,Younis Khan,71,Sri Lanka,Pakistan,189,Pakistan,R Premadasa Stadium,3,Pakistan
+213,35.2,1,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,38,,Younis Khan,72,Sri Lanka,Pakistan,190,Pakistan,R Premadasa Stadium,3,Pakistan
+214,35.3,1,AD Mathews,2009-08-09,1st,Younis Khan,72,,Misbah-ul-Haq,39,Sri Lanka,Pakistan,191,Pakistan,R Premadasa Stadium,3,Pakistan
+215,35.4,2,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,39,,Younis Khan,74,Sri Lanka,Pakistan,193,Pakistan,R Premadasa Stadium,3,Pakistan
+216,35.5,1,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,39,,Younis Khan,75,Sri Lanka,Pakistan,194,Pakistan,R Premadasa Stadium,3,Pakistan
+217,35.6,0,AD Mathews,2009-08-09,1st,Younis Khan,75,,Misbah-ul-Haq,39,Sri Lanka,Pakistan,194,Pakistan,R Premadasa Stadium,3,Pakistan
+218,36.1,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,39,,Younis Khan,75,Sri Lanka,Pakistan,194,Pakistan,R Premadasa Stadium,3,Pakistan
+219,36.2,1,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,39,,Younis Khan,76,Sri Lanka,Pakistan,195,Pakistan,R Premadasa Stadium,3,Pakistan
+220,36.3,1,KTGD Prasad,2009-08-09,1st,Younis Khan,76,,Misbah-ul-Haq,40,Sri Lanka,Pakistan,196,Pakistan,R Premadasa Stadium,3,Pakistan
+221,36.4,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,40,Younis Khan,Younis Khan,76,Sri Lanka,Pakistan,196,Pakistan,R Premadasa Stadium,4,Pakistan
+222,36.5,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,40,,Umar Akmal,0,Sri Lanka,Pakistan,196,Pakistan,R Premadasa Stadium,4,Pakistan
+223,36.6,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,40,,Umar Akmal,0,Sri Lanka,Pakistan,196,Pakistan,R Premadasa Stadium,4,Pakistan
+224,37.1,0,AD Mathews,2009-08-09,1st,Umar Akmal,0,,Misbah-ul-Haq,40,Sri Lanka,Pakistan,196,Pakistan,R Premadasa Stadium,4,Pakistan
+225,37.2,0,AD Mathews,2009-08-09,1st,Umar Akmal,0,,Misbah-ul-Haq,40,Sri Lanka,Pakistan,196,Pakistan,R Premadasa Stadium,4,Pakistan
+226,37.3,1,AD Mathews,2009-08-09,1st,Umar Akmal,0,,Misbah-ul-Haq,41,Sri Lanka,Pakistan,198,Pakistan,R Premadasa Stadium,4,Pakistan
+227,37.4,1,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,41,,Umar Akmal,1,Sri Lanka,Pakistan,199,Pakistan,R Premadasa Stadium,4,Pakistan
+228,37.5,1,AD Mathews,2009-08-09,1st,Umar Akmal,1,,Misbah-ul-Haq,42,Sri Lanka,Pakistan,200,Pakistan,R Premadasa Stadium,4,Pakistan
+229,37.6,1,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,42,,Umar Akmal,2,Sri Lanka,Pakistan,201,Pakistan,R Premadasa Stadium,4,Pakistan
+230,37.7,0,AD Mathews,2009-08-09,1st,Umar Akmal,2,,Misbah-ul-Haq,42,Sri Lanka,Pakistan,201,Pakistan,R Premadasa Stadium,4,Pakistan
+231,38.1,0,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,42,,Umar Akmal,2,Sri Lanka,Pakistan,201,Pakistan,R Premadasa Stadium,4,Pakistan
+232,38.2,3,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,42,,Umar Akmal,5,Sri Lanka,Pakistan,204,Pakistan,R Premadasa Stadium,4,Pakistan
+233,38.3,0,KMDN Kulasekara,2009-08-09,1st,Umar Akmal,5,,Misbah-ul-Haq,42,Sri Lanka,Pakistan,204,Pakistan,R Premadasa Stadium,4,Pakistan
+234,38.4,2,KMDN Kulasekara,2009-08-09,1st,Umar Akmal,5,,Misbah-ul-Haq,44,Sri Lanka,Pakistan,206,Pakistan,R Premadasa Stadium,4,Pakistan
+235,38.5,1,KMDN Kulasekara,2009-08-09,1st,Umar Akmal,5,,Misbah-ul-Haq,45,Sri Lanka,Pakistan,207,Pakistan,R Premadasa Stadium,4,Pakistan
+236,38.6,1,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,45,,Umar Akmal,6,Sri Lanka,Pakistan,208,Pakistan,R Premadasa Stadium,4,Pakistan
+237,39.1,0,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,45,,Umar Akmal,6,Sri Lanka,Pakistan,208,Pakistan,R Premadasa Stadium,4,Pakistan
+238,39.2,0,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,45,Umar Akmal,Umar Akmal,6,Sri Lanka,Pakistan,208,Pakistan,R Premadasa Stadium,5,Pakistan
+239,39.3,1,AD Mathews,2009-08-09,1st,Shahid Afridi,0,,Misbah-ul-Haq,46,Sri Lanka,Pakistan,209,Pakistan,R Premadasa Stadium,5,Pakistan
+240,39.4,4,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,46,,Shahid Afridi,4,Sri Lanka,Pakistan,213,Pakistan,R Premadasa Stadium,5,Pakistan
+241,39.5,1,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,46,,Shahid Afridi,5,Sri Lanka,Pakistan,214,Pakistan,R Premadasa Stadium,5,Pakistan
+242,39.6,0,AD Mathews,2009-08-09,1st,Shahid Afridi,5,,Misbah-ul-Haq,46,Sri Lanka,Pakistan,214,Pakistan,R Premadasa Stadium,5,Pakistan
+243,40.1,0,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,46,Shahid Afridi,Shahid Afridi,5,Sri Lanka,Pakistan,214,Pakistan,R Premadasa Stadium,6,Pakistan
+244,40.2,0,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,46,,Naved-ul-Hasan,0,Sri Lanka,Pakistan,214,Pakistan,R Premadasa Stadium,6,Pakistan
+245,40.3,1,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,46,,Naved-ul-Hasan,1,Sri Lanka,Pakistan,215,Pakistan,R Premadasa Stadium,6,Pakistan
+246,40.4,0,KMDN Kulasekara,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,46,Sri Lanka,Pakistan,215,Pakistan,R Premadasa Stadium,6,Pakistan
+247,40.5,1,KMDN Kulasekara,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,47,Sri Lanka,Pakistan,216,Pakistan,R Premadasa Stadium,6,Pakistan
+248,40.6,0,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,47,,Naved-ul-Hasan,1,Sri Lanka,Pakistan,216,Pakistan,R Premadasa Stadium,6,Pakistan
+249,41.1,0,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,47,Sri Lanka,Pakistan,216,Pakistan,R Premadasa Stadium,6,Pakistan
+250,41.2,0,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,47,Sri Lanka,Pakistan,216,Pakistan,R Premadasa Stadium,6,Pakistan
+251,41.3,0,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,47,Sri Lanka,Pakistan,216,Pakistan,R Premadasa Stadium,6,Pakistan
+252,41.4,0,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,47,Sri Lanka,Pakistan,216,Pakistan,R Premadasa Stadium,6,Pakistan
+253,41.5,0,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,47,Sri Lanka,Pakistan,216,Pakistan,R Premadasa Stadium,6,Pakistan
+254,41.6,1,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,48,Sri Lanka,Pakistan,217,Pakistan,R Premadasa Stadium,6,Pakistan
+255,42.1,1,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,1,,Misbah-ul-Haq,49,Sri Lanka,Pakistan,218,Pakistan,R Premadasa Stadium,6,Pakistan
+256,42.2,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,49,,Naved-ul-Hasan,1,Sri Lanka,Pakistan,218,Pakistan,R Premadasa Stadium,6,Pakistan
+257,42.3,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,49,,Naved-ul-Hasan,1,Sri Lanka,Pakistan,218,Pakistan,R Premadasa Stadium,6,Pakistan
+258,42.4,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,49,,Naved-ul-Hasan,2,Sri Lanka,Pakistan,219,Pakistan,R Premadasa Stadium,6,Pakistan
+259,42.5,0,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,2,,Misbah-ul-Haq,49,Sri Lanka,Pakistan,219,Pakistan,R Premadasa Stadium,6,Pakistan
+260,42.6,2,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,2,,Misbah-ul-Haq,51,Sri Lanka,Pakistan,221,Pakistan,R Premadasa Stadium,6,Pakistan
+261,43.1,2,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,51,,Naved-ul-Hasan,4,Sri Lanka,Pakistan,223,Pakistan,R Premadasa Stadium,6,Pakistan
+262,43.2,2,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,51,,Naved-ul-Hasan,6,Sri Lanka,Pakistan,225,Pakistan,R Premadasa Stadium,6,Pakistan
+263,43.3,1,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,51,,Naved-ul-Hasan,7,Sri Lanka,Pakistan,226,Pakistan,R Premadasa Stadium,6,Pakistan
+264,43.4,0,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,7,,Misbah-ul-Haq,51,Sri Lanka,Pakistan,226,Pakistan,R Premadasa Stadium,6,Pakistan
+265,43.5,1,AD Mathews,2009-08-09,1st,Naved-ul-Hasan,7,,Misbah-ul-Haq,52,Sri Lanka,Pakistan,227,Pakistan,R Premadasa Stadium,6,Pakistan
+266,43.6,1,AD Mathews,2009-08-09,1st,Misbah-ul-Haq,52,,Naved-ul-Hasan,8,Sri Lanka,Pakistan,228,Pakistan,R Premadasa Stadium,6,Pakistan
+267,44.1,0,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,52,,Naved-ul-Hasan,8,Sri Lanka,Pakistan,229,Pakistan,R Premadasa Stadium,6,Pakistan
+268,44.2,0,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,52,,Naved-ul-Hasan,8,Sri Lanka,Pakistan,229,Pakistan,R Premadasa Stadium,6,Pakistan
+269,44.3,1,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,52,,Naved-ul-Hasan,9,Sri Lanka,Pakistan,230,Pakistan,R Premadasa Stadium,6,Pakistan
+270,44.4,1,ST Jayasuriya,2009-08-09,1st,Naved-ul-Hasan,9,,Misbah-ul-Haq,53,Sri Lanka,Pakistan,231,Pakistan,R Premadasa Stadium,6,Pakistan
+271,44.5,0,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,53,,Naved-ul-Hasan,9,Sri Lanka,Pakistan,231,Pakistan,R Premadasa Stadium,6,Pakistan
+272,44.6,0,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,53,,Naved-ul-Hasan,9,Sri Lanka,Pakistan,231,Pakistan,R Premadasa Stadium,6,Pakistan
+273,44.7,2,ST Jayasuriya,2009-08-09,1st,Misbah-ul-Haq,53,,Naved-ul-Hasan,11,Sri Lanka,Pakistan,233,Pakistan,R Premadasa Stadium,6,Pakistan
+274,45.1,0,KMDN Kulasekara,2009-08-09,1st,Naved-ul-Hasan,11,,Misbah-ul-Haq,53,Sri Lanka,Pakistan,233,Pakistan,R Premadasa Stadium,6,Pakistan
+275,45.2,1,KMDN Kulasekara,2009-08-09,1st,Naved-ul-Hasan,11,,Misbah-ul-Haq,54,Sri Lanka,Pakistan,234,Pakistan,R Premadasa Stadium,6,Pakistan
+276,45.3,6,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,54,,Naved-ul-Hasan,17,Sri Lanka,Pakistan,240,Pakistan,R Premadasa Stadium,6,Pakistan
+277,45.4,0,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,54,,Naved-ul-Hasan,17,Sri Lanka,Pakistan,240,Pakistan,R Premadasa Stadium,6,Pakistan
+278,45.5,1,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,54,,Naved-ul-Hasan,18,Sri Lanka,Pakistan,241,Pakistan,R Premadasa Stadium,6,Pakistan
+279,45.6,0,KMDN Kulasekara,2009-08-09,1st,Naved-ul-Hasan,18,,Misbah-ul-Haq,54,Sri Lanka,Pakistan,241,Pakistan,R Premadasa Stadium,6,Pakistan
+280,46.1,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,54,,Naved-ul-Hasan,18,Sri Lanka,Pakistan,241,Pakistan,R Premadasa Stadium,6,Pakistan
+281,46.2,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,54,,Naved-ul-Hasan,19,Sri Lanka,Pakistan,242,Pakistan,R Premadasa Stadium,6,Pakistan
+282,46.3,1,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,19,,Misbah-ul-Haq,55,Sri Lanka,Pakistan,243,Pakistan,R Premadasa Stadium,6,Pakistan
+283,46.4,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,55,,Naved-ul-Hasan,20,Sri Lanka,Pakistan,244,Pakistan,R Premadasa Stadium,6,Pakistan
+284,46.5,2,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,20,,Misbah-ul-Haq,57,Sri Lanka,Pakistan,246,Pakistan,R Premadasa Stadium,6,Pakistan
+285,46.6,1,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,20,,Misbah-ul-Haq,58,Sri Lanka,Pakistan,247,Pakistan,R Premadasa Stadium,6,Pakistan
+286,47.1,0,KTGD Prasad,2009-08-09,1st,Naved-ul-Hasan,20,,Misbah-ul-Haq,58,Sri Lanka,Pakistan,247,Pakistan,R Premadasa Stadium,6,Pakistan
+287,47.2,1,KTGD Prasad,2009-08-09,1st,Naved-ul-Hasan,20,,Misbah-ul-Haq,59,Sri Lanka,Pakistan,248,Pakistan,R Premadasa Stadium,6,Pakistan
+288,47.3,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,59,,Naved-ul-Hasan,20,Sri Lanka,Pakistan,250,Pakistan,R Premadasa Stadium,6,Pakistan
+289,47.4,1,KTGD Prasad,2009-08-09,1st,Naved-ul-Hasan,20,,Misbah-ul-Haq,60,Sri Lanka,Pakistan,251,Pakistan,R Premadasa Stadium,6,Pakistan
+290,47.5,6,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,60,,Naved-ul-Hasan,26,Sri Lanka,Pakistan,257,Pakistan,R Premadasa Stadium,6,Pakistan
+291,47.6,0,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,60,,Naved-ul-Hasan,26,Sri Lanka,Pakistan,257,Pakistan,R Premadasa Stadium,6,Pakistan
+292,47.7,1,KTGD Prasad,2009-08-09,1st,Misbah-ul-Haq,60,,Naved-ul-Hasan,27,Sri Lanka,Pakistan,258,Pakistan,R Premadasa Stadium,6,Pakistan
+293,48.1,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,60,,Naved-ul-Hasan,28,Sri Lanka,Pakistan,259,Pakistan,R Premadasa Stadium,6,Pakistan
+294,48.2,0,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,28,,Misbah-ul-Haq,60,Sri Lanka,Pakistan,259,Pakistan,R Premadasa Stadium,6,Pakistan
+295,48.3,1,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,28,,Misbah-ul-Haq,61,Sri Lanka,Pakistan,260,Pakistan,R Premadasa Stadium,6,Pakistan
+296,48.4,4,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,61,,Naved-ul-Hasan,32,Sri Lanka,Pakistan,264,Pakistan,R Premadasa Stadium,6,Pakistan
+297,48.5,0,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,61,,Naved-ul-Hasan,32,Sri Lanka,Pakistan,265,Pakistan,R Premadasa Stadium,6,Pakistan
+298,48.6,1,BAW Mendis,2009-08-09,1st,Misbah-ul-Haq,61,,Naved-ul-Hasan,33,Sri Lanka,Pakistan,266,Pakistan,R Premadasa Stadium,6,Pakistan
+299,48.7,3,BAW Mendis,2009-08-09,1st,Naved-ul-Hasan,33,,Misbah-ul-Haq,64,Sri Lanka,Pakistan,269,Pakistan,R Premadasa Stadium,6,Pakistan
+300,49.1,4,KMDN Kulasekara,2009-08-09,1st,Naved-ul-Hasan,33,,Misbah-ul-Haq,68,Sri Lanka,Pakistan,273,Pakistan,R Premadasa Stadium,6,Pakistan
+301,49.2,0,KMDN Kulasekara,2009-08-09,1st,Naved-ul-Hasan,33,,Misbah-ul-Haq,68,Sri Lanka,Pakistan,274,Pakistan,R Premadasa Stadium,6,Pakistan
+302,49.3,0,KMDN Kulasekara,2009-08-09,1st,Misbah-ul-Haq,68,Naved-ul-Hasan,Naved-ul-Hasan,33,Sri Lanka,Pakistan,274,Pakistan,R Premadasa Stadium,7,Pakistan
+303,49.4,0,KMDN Kulasekara,2009-08-09,1st,Iftikhar Anjum,0,,Misbah-ul-Haq,68,Sri Lanka,Pakistan,274,Pakistan,R Premadasa Stadium,7,Pakistan
+304,49.5,4,KMDN Kulasekara,2009-08-09,1st,Iftikhar Anjum,0,,Misbah-ul-Haq,72,Sri Lanka,Pakistan,278,Pakistan,R Premadasa Stadium,7,Pakistan
+305,49.6,1,KMDN Kulasekara,2009-08-09,1st,Iftikhar Anjum,0,Iftikhar Anjum,Misbah-ul-Haq,73,Sri Lanka,Pakistan,279,Pakistan,R Premadasa Stadium,8,Pakistan
+306,0.1,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,WU Tharanga,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,0,Pakistan
+307,0.2,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,WU Tharanga,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,0,Pakistan
+308,0.3,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,WU Tharanga,0,Sri Lanka,Pakistan,0,Pakistan,R Premadasa Stadium,1,Pakistan
+309,0.4,2,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,2,Pakistan,R Premadasa Stadium,1,Pakistan
+310,0.5,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,2,Pakistan,R Premadasa Stadium,1,Pakistan
+311,0.6,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,2,Pakistan,R Premadasa Stadium,1,Pakistan
+312,1.1,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,2,Pakistan,R Premadasa Stadium,1,Pakistan
+313,1.2,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,2,Pakistan,R Premadasa Stadium,1,Pakistan
+314,1.3,1,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,3,Pakistan,R Premadasa Stadium,1,Pakistan
+315,1.4,0,Naved-ul-Hasan,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+316,1.5,0,Naved-ul-Hasan,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+317,1.6,0,Naved-ul-Hasan,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+318,1.7,0,Naved-ul-Hasan,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+319,2.1,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+320,2.2,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,4,Pakistan,R Premadasa Stadium,1,Pakistan
+321,2.3,1,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,5,Pakistan,R Premadasa Stadium,1,Pakistan
+322,2.4,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,6,Pakistan,R Premadasa Stadium,1,Pakistan
+323,2.5,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,6,Pakistan,R Premadasa Stadium,1,Pakistan
+324,2.6,0,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,7,Pakistan,R Premadasa Stadium,1,Pakistan
+325,2.7,4,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,11,Pakistan,R Premadasa Stadium,1,Pakistan
+326,2.8,4,Mohammad Amir,2009-08-09,2nd,ST Jayasuriya,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,15,Pakistan,R Premadasa Stadium,1,Pakistan
+327,3.1,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,15,Pakistan,R Premadasa Stadium,1,Pakistan
+328,3.2,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,15,Pakistan,R Premadasa Stadium,1,Pakistan
+329,3.3,4,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,19,Pakistan,R Premadasa Stadium,1,Pakistan
+330,3.4,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,ST Jayasuriya,0,Sri Lanka,Pakistan,19,Pakistan,R Premadasa Stadium,2,Pakistan
+331,3.5,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,19,Pakistan,R Premadasa Stadium,2,Pakistan
+332,3.6,4,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,23,Pakistan,R Premadasa Stadium,2,Pakistan
+333,4.1,0,Mohammad Amir,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,23,Pakistan,R Premadasa Stadium,2,Pakistan
+334,4.2,1,Mohammad Amir,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,24,Pakistan,R Premadasa Stadium,2,Pakistan
+335,4.3,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,24,Pakistan,R Premadasa Stadium,2,Pakistan
+336,4.4,1,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,25,Pakistan,R Premadasa Stadium,2,Pakistan
+337,4.5,1,Mohammad Amir,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,26,Pakistan,R Premadasa Stadium,2,Pakistan
+338,4.6,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,26,Pakistan,R Premadasa Stadium,2,Pakistan
+339,5.1,2,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,28,Pakistan,R Premadasa Stadium,2,Pakistan
+340,5.2,0,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,28,Pakistan,R Premadasa Stadium,2,Pakistan
+341,5.3,2,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,30,Pakistan,R Premadasa Stadium,2,Pakistan
+342,5.4,0,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,30,Pakistan,R Premadasa Stadium,2,Pakistan
+343,5.5,0,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,30,Pakistan,R Premadasa Stadium,2,Pakistan
+344,5.6,6,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,36,Pakistan,R Premadasa Stadium,2,Pakistan
+345,6.1,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,36,Pakistan,R Premadasa Stadium,2,Pakistan
+346,6.2,1,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,37,Pakistan,R Premadasa Stadium,2,Pakistan
+347,6.3,0,Mohammad Amir,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,37,Pakistan,R Premadasa Stadium,2,Pakistan
+348,6.4,0,Mohammad Amir,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,37,Pakistan,R Premadasa Stadium,2,Pakistan
+349,6.5,1,Mohammad Amir,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,38,Pakistan,R Premadasa Stadium,2,Pakistan
+350,6.6,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,38,Pakistan,R Premadasa Stadium,2,Pakistan
+351,7.1,0,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,38,Pakistan,R Premadasa Stadium,2,Pakistan
+352,7.2,1,Naved-ul-Hasan,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,39,Pakistan,R Premadasa Stadium,2,Pakistan
+353,7.3,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,39,Pakistan,R Premadasa Stadium,2,Pakistan
+354,7.4,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,40,Pakistan,R Premadasa Stadium,2,Pakistan
+355,7.5,4,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,44,Pakistan,R Premadasa Stadium,2,Pakistan
+356,7.6,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,44,Pakistan,R Premadasa Stadium,2,Pakistan
+357,7.7,1,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+358,8.1,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+359,8.2,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+360,8.3,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+361,8.4,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,45,Pakistan,R Premadasa Stadium,2,Pakistan
+362,8.5,1,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,46,Pakistan,R Premadasa Stadium,2,Pakistan
+363,8.6,4,Mohammad Amir,2009-08-09,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,50,Pakistan,R Premadasa Stadium,2,Pakistan
+364,9.1,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,50,Pakistan,R Premadasa Stadium,2,Pakistan
+365,9.2,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,50,Pakistan,R Premadasa Stadium,2,Pakistan
+366,9.3,4,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,54,Pakistan,R Premadasa Stadium,2,Pakistan
+367,9.4,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,54,Pakistan,R Premadasa Stadium,2,Pakistan
+368,9.5,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,54,Pakistan,R Premadasa Stadium,3,Pakistan
+369,9.6,0,Naved-ul-Hasan,2009-08-09,2nd,DPMD Jayawardene,0,,CK Kapugedera,0,Sri Lanka,Pakistan,54,Pakistan,R Premadasa Stadium,3,Pakistan
+370,10.1,1,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,55,Pakistan,R Premadasa Stadium,3,Pakistan
+371,10.2,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,CK Kapugedera,0,Sri Lanka,Pakistan,55,Pakistan,R Premadasa Stadium,3,Pakistan
+372,10.3,1,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,CK Kapugedera,0,Sri Lanka,Pakistan,56,Pakistan,R Premadasa Stadium,3,Pakistan
+373,10.4,0,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,56,Pakistan,R Premadasa Stadium,3,Pakistan
+374,10.5,1,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,57,Pakistan,R Premadasa Stadium,3,Pakistan
+375,10.6,0,Mohammad Amir,2009-08-09,2nd,DPMD Jayawardene,0,,CK Kapugedera,0,Sri Lanka,Pakistan,57,Pakistan,R Premadasa Stadium,3,Pakistan
+376,11.1,0,Iftikhar Anjum,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,57,Pakistan,R Premadasa Stadium,3,Pakistan
+377,11.2,0,Iftikhar Anjum,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,57,Pakistan,R Premadasa Stadium,3,Pakistan
+378,11.3,1,Iftikhar Anjum,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,3,Pakistan
+379,11.4,0,Iftikhar Anjum,2009-08-09,2nd,DPMD Jayawardene,0,,CK Kapugedera,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,3,Pakistan
+380,11.5,0,Iftikhar Anjum,2009-08-09,2nd,DPMD Jayawardene,0,,CK Kapugedera,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,3,Pakistan
+381,11.6,0,Iftikhar Anjum,2009-08-09,2nd,DPMD Jayawardene,0,,CK Kapugedera,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,3,Pakistan
+382,12.1,0,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,3,Pakistan
+383,12.2,0,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,3,Pakistan
+384,12.3,0,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,4,Pakistan
+385,12.4,0,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,SHT Kandamby,0,Sri Lanka,Pakistan,58,Pakistan,R Premadasa Stadium,4,Pakistan
+386,12.5,1,Mohammad Amir,2009-08-09,2nd,CK Kapugedera,0,,SHT Kandamby,0,Sri Lanka,Pakistan,59,Pakistan,R Premadasa Stadium,4,Pakistan
+387,12.6,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,CK Kapugedera,0,Sri Lanka,Pakistan,59,Pakistan,R Premadasa Stadium,5,Pakistan
+388,13.1,0,Iftikhar Anjum,2009-08-09,2nd,AD Mathews,0,,SHT Kandamby,0,Sri Lanka,Pakistan,59,Pakistan,R Premadasa Stadium,5,Pakistan
+389,13.2,4,Iftikhar Anjum,2009-08-09,2nd,AD Mathews,0,,SHT Kandamby,0,Sri Lanka,Pakistan,63,Pakistan,R Premadasa Stadium,5,Pakistan
+390,13.3,1,Iftikhar Anjum,2009-08-09,2nd,AD Mathews,0,,SHT Kandamby,0,Sri Lanka,Pakistan,64,Pakistan,R Premadasa Stadium,5,Pakistan
+391,13.4,4,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,68,Pakistan,R Premadasa Stadium,5,Pakistan
+392,13.5,0,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,68,Pakistan,R Premadasa Stadium,5,Pakistan
+393,13.6,1,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,5,Pakistan
+394,14.1,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,5,Pakistan
+395,14.2,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,5,Pakistan
+396,14.3,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,5,Pakistan
+397,14.4,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,5,Pakistan
+398,14.5,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,5,Pakistan
+399,14.6,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,AD Mathews,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,6,Pakistan
+400,15.1,0,Naved-ul-Hasan,2009-08-09,2nd,KMDN Kulasekara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,6,Pakistan
+401,15.2,0,Naved-ul-Hasan,2009-08-09,2nd,KMDN Kulasekara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,6,Pakistan
+402,15.3,0,Naved-ul-Hasan,2009-08-09,2nd,KMDN Kulasekara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,69,Pakistan,R Premadasa Stadium,6,Pakistan
+403,15.4,1,Naved-ul-Hasan,2009-08-09,2nd,KMDN Kulasekara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,70,Pakistan,R Premadasa Stadium,6,Pakistan
+404,15.5,0,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,KMDN Kulasekara,0,Sri Lanka,Pakistan,70,Pakistan,R Premadasa Stadium,7,Pakistan
+405,15.6,0,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,KTGD Prasad,0,Sri Lanka,Pakistan,70,Pakistan,R Premadasa Stadium,7,Pakistan
+406,16.1,0,Mohammad Amir,2009-08-09,2nd,KTGD Prasad,0,,SHT Kandamby,0,Sri Lanka,Pakistan,70,Pakistan,R Premadasa Stadium,7,Pakistan
+407,16.2,0,Mohammad Amir,2009-08-09,2nd,KTGD Prasad,0,,SHT Kandamby,0,Sri Lanka,Pakistan,70,Pakistan,R Premadasa Stadium,7,Pakistan
+408,16.3,0,Mohammad Amir,2009-08-09,2nd,KTGD Prasad,0,,SHT Kandamby,0,Sri Lanka,Pakistan,70,Pakistan,R Premadasa Stadium,7,Pakistan
+409,16.4,1,Mohammad Amir,2009-08-09,2nd,KTGD Prasad,0,,SHT Kandamby,0,Sri Lanka,Pakistan,71,Pakistan,R Premadasa Stadium,7,Pakistan
+410,16.5,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,KTGD Prasad,0,Sri Lanka,Pakistan,71,Pakistan,R Premadasa Stadium,7,Pakistan
+411,16.6,0,Mohammad Amir,2009-08-09,2nd,SHT Kandamby,0,,KTGD Prasad,0,Sri Lanka,Pakistan,71,Pakistan,R Premadasa Stadium,7,Pakistan
+412,17.1,0,Naved-ul-Hasan,2009-08-09,2nd,KTGD Prasad,0,,SHT Kandamby,0,Sri Lanka,Pakistan,71,Pakistan,R Premadasa Stadium,7,Pakistan
+413,17.2,1,Naved-ul-Hasan,2009-08-09,2nd,KTGD Prasad,0,,SHT Kandamby,0,Sri Lanka,Pakistan,72,Pakistan,R Premadasa Stadium,7,Pakistan
+414,17.3,1,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,KTGD Prasad,0,Sri Lanka,Pakistan,73,Pakistan,R Premadasa Stadium,7,Pakistan
+415,17.4,1,Naved-ul-Hasan,2009-08-09,2nd,KTGD Prasad,0,,SHT Kandamby,0,Sri Lanka,Pakistan,74,Pakistan,R Premadasa Stadium,7,Pakistan
+416,17.5,0,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,KTGD Prasad,0,Sri Lanka,Pakistan,74,Pakistan,R Premadasa Stadium,8,Pakistan
+417,17.6,0,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,74,Pakistan,R Premadasa Stadium,8,Pakistan
+418,18.1,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,74,Pakistan,R Premadasa Stadium,8,Pakistan
+419,18.2,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,74,Pakistan,R Premadasa Stadium,8,Pakistan
+420,18.3,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,76,Pakistan,R Premadasa Stadium,8,Pakistan
+421,18.4,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,76,Pakistan,R Premadasa Stadium,8,Pakistan
+422,18.5,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,76,Pakistan,R Premadasa Stadium,8,Pakistan
+423,18.6,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,76,Pakistan,R Premadasa Stadium,8,Pakistan
+424,19.1,2,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,78,Pakistan,R Premadasa Stadium,8,Pakistan
+425,19.2,1,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,79,Pakistan,R Premadasa Stadium,8,Pakistan
+426,19.3,0,Naved-ul-Hasan,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,79,Pakistan,R Premadasa Stadium,8,Pakistan
+427,19.4,0,Naved-ul-Hasan,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,79,Pakistan,R Premadasa Stadium,8,Pakistan
+428,19.5,1,Naved-ul-Hasan,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,80,Pakistan,R Premadasa Stadium,8,Pakistan
+429,19.6,1,Naved-ul-Hasan,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,82,Pakistan,R Premadasa Stadium,8,Pakistan
+430,19.7,2,Naved-ul-Hasan,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,85,Pakistan,R Premadasa Stadium,8,Pakistan
+431,19.8,0,Naved-ul-Hasan,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,85,Pakistan,R Premadasa Stadium,8,Pakistan
+432,20.1,0,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,85,Pakistan,R Premadasa Stadium,8,Pakistan
+433,20.2,1,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,86,Pakistan,R Premadasa Stadium,8,Pakistan
+434,20.3,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,86,Pakistan,R Premadasa Stadium,8,Pakistan
+435,20.4,2,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,88,Pakistan,R Premadasa Stadium,8,Pakistan
+436,20.5,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,88,Pakistan,R Premadasa Stadium,8,Pakistan
+437,20.6,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,88,Pakistan,R Premadasa Stadium,8,Pakistan
+438,21.1,1,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,89,Pakistan,R Premadasa Stadium,8,Pakistan
+439,21.2,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,89,Pakistan,R Premadasa Stadium,8,Pakistan
+440,21.3,1,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,90,Pakistan,R Premadasa Stadium,8,Pakistan
+441,21.4,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,95,Pakistan,R Premadasa Stadium,8,Pakistan
+442,21.5,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,95,Pakistan,R Premadasa Stadium,8,Pakistan
+443,21.6,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,95,Pakistan,R Premadasa Stadium,8,Pakistan
+444,21.7,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,95,Pakistan,R Premadasa Stadium,8,Pakistan
+445,22.1,1,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,96,Pakistan,R Premadasa Stadium,8,Pakistan
+446,22.2,0,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,96,Pakistan,R Premadasa Stadium,8,Pakistan
+447,22.3,1,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,97,Pakistan,R Premadasa Stadium,8,Pakistan
+448,22.4,1,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,98,Pakistan,R Premadasa Stadium,8,Pakistan
+449,22.5,2,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,100,Pakistan,R Premadasa Stadium,8,Pakistan
+450,22.6,1,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,101,Pakistan,R Premadasa Stadium,8,Pakistan
+451,23.1,1,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,102,Pakistan,R Premadasa Stadium,8,Pakistan
+452,23.2,1,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,103,Pakistan,R Premadasa Stadium,8,Pakistan
+453,23.3,1,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,8,Pakistan
+454,23.4,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,8,Pakistan
+455,23.5,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,8,Pakistan
+456,23.6,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,8,Pakistan
+457,24.1,0,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,104,Pakistan,R Premadasa Stadium,8,Pakistan
+458,24.2,1,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,105,Pakistan,R Premadasa Stadium,8,Pakistan
+459,24.3,1,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,106,Pakistan,R Premadasa Stadium,8,Pakistan
+460,24.4,2,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,108,Pakistan,R Premadasa Stadium,8,Pakistan
+461,24.5,0,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,108,Pakistan,R Premadasa Stadium,8,Pakistan
+462,24.6,1,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,109,Pakistan,R Premadasa Stadium,8,Pakistan
+463,25.1,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,109,Pakistan,R Premadasa Stadium,8,Pakistan
+464,25.2,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,109,Pakistan,R Premadasa Stadium,8,Pakistan
+465,25.3,1,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,110,Pakistan,R Premadasa Stadium,8,Pakistan
+466,25.4,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,110,Pakistan,R Premadasa Stadium,8,Pakistan
+467,25.5,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,110,Pakistan,R Premadasa Stadium,8,Pakistan
+468,25.6,2,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,112,Pakistan,R Premadasa Stadium,8,Pakistan
+469,26.1,0,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,112,Pakistan,R Premadasa Stadium,8,Pakistan
+470,26.2,1,Iftikhar Anjum,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,113,Pakistan,R Premadasa Stadium,8,Pakistan
+471,26.3,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,113,Pakistan,R Premadasa Stadium,8,Pakistan
+472,26.4,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,113,Pakistan,R Premadasa Stadium,8,Pakistan
+473,26.5,2,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,115,Pakistan,R Premadasa Stadium,8,Pakistan
+474,26.6,0,Iftikhar Anjum,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,115,Pakistan,R Premadasa Stadium,8,Pakistan
+475,27.1,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,115,Pakistan,R Premadasa Stadium,8,Pakistan
+476,27.2,2,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,117,Pakistan,R Premadasa Stadium,8,Pakistan
+477,27.3,2,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,119,Pakistan,R Premadasa Stadium,8,Pakistan
+478,27.4,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,119,Pakistan,R Premadasa Stadium,8,Pakistan
+479,27.5,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,119,Pakistan,R Premadasa Stadium,8,Pakistan
+480,27.6,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,119,Pakistan,R Premadasa Stadium,8,Pakistan
+481,28.1,4,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,123,Pakistan,R Premadasa Stadium,8,Pakistan
+482,28.2,0,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,123,Pakistan,R Premadasa Stadium,8,Pakistan
+483,28.3,1,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,124,Pakistan,R Premadasa Stadium,8,Pakistan
+484,28.4,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,124,Pakistan,R Premadasa Stadium,8,Pakistan
+485,28.5,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,124,Pakistan,R Premadasa Stadium,8,Pakistan
+486,28.6,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,124,Pakistan,R Premadasa Stadium,8,Pakistan
+487,29.1,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,124,Pakistan,R Premadasa Stadium,8,Pakistan
+488,29.2,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,124,Pakistan,R Premadasa Stadium,8,Pakistan
+489,29.3,2,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,126,Pakistan,R Premadasa Stadium,8,Pakistan
+490,29.4,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,126,Pakistan,R Premadasa Stadium,8,Pakistan
+491,29.5,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,126,Pakistan,R Premadasa Stadium,8,Pakistan
+492,29.6,1,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,127,Pakistan,R Premadasa Stadium,8,Pakistan
+493,30.1,0,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,127,Pakistan,R Premadasa Stadium,8,Pakistan
+494,30.2,2,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,129,Pakistan,R Premadasa Stadium,8,Pakistan
+495,30.3,1,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,130,Pakistan,R Premadasa Stadium,8,Pakistan
+496,30.4,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,130,Pakistan,R Premadasa Stadium,8,Pakistan
+497,30.5,1,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,131,Pakistan,R Premadasa Stadium,8,Pakistan
+498,30.6,0,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,131,Pakistan,R Premadasa Stadium,8,Pakistan
+499,31.1,4,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,135,Pakistan,R Premadasa Stadium,8,Pakistan
+500,31.2,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,135,Pakistan,R Premadasa Stadium,8,Pakistan
+501,31.3,3,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,138,Pakistan,R Premadasa Stadium,8,Pakistan
+502,31.4,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,138,Pakistan,R Premadasa Stadium,8,Pakistan
+503,31.5,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,138,Pakistan,R Premadasa Stadium,8,Pakistan
+504,31.6,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,139,Pakistan,R Premadasa Stadium,8,Pakistan
+505,31.7,0,Saeed Ajmal,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,139,Pakistan,R Premadasa Stadium,8,Pakistan
+506,32.1,1,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,140,Pakistan,R Premadasa Stadium,8,Pakistan
+507,32.2,4,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,144,Pakistan,R Premadasa Stadium,8,Pakistan
+508,32.3,1,Shahid Afridi,2009-08-09,2nd,HMCM Bandara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,8,Pakistan
+509,32.4,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,8,Pakistan
+510,32.5,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,HMCM Bandara,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,9,Pakistan
+511,32.6,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,BAW Mendis,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,9,Pakistan
+512,33.1,0,Saeed Ajmal,2009-08-09,2nd,BAW Mendis,0,,SHT Kandamby,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,9,Pakistan
+513,33.2,0,Saeed Ajmal,2009-08-09,2nd,BAW Mendis,0,,SHT Kandamby,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,9,Pakistan
+514,33.3,0,Saeed Ajmal,2009-08-09,2nd,BAW Mendis,0,,SHT Kandamby,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,9,Pakistan
+515,33.4,0,Saeed Ajmal,2009-08-09,2nd,BAW Mendis,0,,SHT Kandamby,0,Sri Lanka,Pakistan,145,Pakistan,R Premadasa Stadium,9,Pakistan
+516,33.5,1,Saeed Ajmal,2009-08-09,2nd,BAW Mendis,0,,SHT Kandamby,0,Sri Lanka,Pakistan,146,Pakistan,R Premadasa Stadium,9,Pakistan
+517,33.6,0,Saeed Ajmal,2009-08-09,2nd,SHT Kandamby,0,,BAW Mendis,0,Sri Lanka,Pakistan,146,Pakistan,R Premadasa Stadium,9,Pakistan
+518,34.1,1,Shahid Afridi,2009-08-09,2nd,BAW Mendis,0,,SHT Kandamby,0,Sri Lanka,Pakistan,147,Pakistan,R Premadasa Stadium,9,Pakistan
+519,34.2,0,Shahid Afridi,2009-08-09,2nd,SHT Kandamby,0,,BAW Mendis,0,Sri Lanka,Pakistan,147,Pakistan,R Premadasa Stadium,10,Pakistan

@@ -1,0 +1,619 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,JM Anderson,2010-07-10,1st,Imrul Kayes,0,,Tamim Iqbal,0,England,Bangladesh,0,England,County Ground,0,Bangladesh
+1,0.2,0,JM Anderson,2010-07-10,1st,Imrul Kayes,0,,Tamim Iqbal,0,England,Bangladesh,0,England,County Ground,0,Bangladesh
+2,0.3,4,JM Anderson,2010-07-10,1st,Imrul Kayes,0,,Tamim Iqbal,4,England,Bangladesh,4,England,County Ground,0,Bangladesh
+3,0.4,0,JM Anderson,2010-07-10,1st,Imrul Kayes,0,,Tamim Iqbal,4,England,Bangladesh,4,England,County Ground,0,Bangladesh
+4,0.5,0,JM Anderson,2010-07-10,1st,Imrul Kayes,0,,Tamim Iqbal,4,England,Bangladesh,4,England,County Ground,0,Bangladesh
+5,0.6,0,JM Anderson,2010-07-10,1st,Imrul Kayes,0,,Tamim Iqbal,4,England,Bangladesh,4,England,County Ground,0,Bangladesh
+6,1.1,0,A Shahzad,2010-07-10,1st,Tamim Iqbal,4,,Imrul Kayes,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+7,1.2,0,A Shahzad,2010-07-10,1st,Tamim Iqbal,4,,Imrul Kayes,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+8,1.3,0,A Shahzad,2010-07-10,1st,Tamim Iqbal,4,,Imrul Kayes,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+9,1.4,1,A Shahzad,2010-07-10,1st,Tamim Iqbal,4,,Imrul Kayes,1,England,Bangladesh,5,England,County Ground,0,Bangladesh
+10,1.5,1,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,5,England,Bangladesh,6,England,County Ground,0,Bangladesh
+11,1.6,0,A Shahzad,2010-07-10,1st,Tamim Iqbal,5,,Imrul Kayes,1,England,Bangladesh,6,England,County Ground,0,Bangladesh
+12,2.1,0,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,5,England,Bangladesh,6,England,County Ground,0,Bangladesh
+13,2.2,4,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,9,England,Bangladesh,10,England,County Ground,0,Bangladesh
+14,2.3,0,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,9,England,Bangladesh,10,England,County Ground,0,Bangladesh
+15,2.4,0,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,9,England,Bangladesh,10,England,County Ground,0,Bangladesh
+16,2.5,1,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,10,England,Bangladesh,11,England,County Ground,0,Bangladesh
+17,2.6,0,JM Anderson,2010-07-10,1st,Tamim Iqbal,10,,Imrul Kayes,1,England,Bangladesh,11,England,County Ground,0,Bangladesh
+18,3.1,0,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,10,England,Bangladesh,11,England,County Ground,0,Bangladesh
+19,3.2,0,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,10,England,Bangladesh,11,England,County Ground,0,Bangladesh
+20,3.3,0,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,10,England,Bangladesh,11,England,County Ground,0,Bangladesh
+21,3.4,0,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,10,England,Bangladesh,11,England,County Ground,0,Bangladesh
+22,3.5,2,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,12,England,Bangladesh,13,England,County Ground,0,Bangladesh
+23,3.6,1,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,13,England,Bangladesh,14,England,County Ground,0,Bangladesh
+24,4.1,0,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,13,England,Bangladesh,14,England,County Ground,0,Bangladesh
+25,4.2,4,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,17,England,Bangladesh,18,England,County Ground,0,Bangladesh
+26,4.3,0,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,17,England,Bangladesh,18,England,County Ground,0,Bangladesh
+27,4.4,1,JM Anderson,2010-07-10,1st,Imrul Kayes,1,,Tamim Iqbal,18,England,Bangladesh,19,England,County Ground,0,Bangladesh
+28,4.5,0,JM Anderson,2010-07-10,1st,Tamim Iqbal,18,,Imrul Kayes,1,England,Bangladesh,19,England,County Ground,0,Bangladesh
+29,4.6,0,JM Anderson,2010-07-10,1st,Tamim Iqbal,18,,Imrul Kayes,1,England,Bangladesh,19,England,County Ground,0,Bangladesh
+30,5.1,0,A Shahzad,2010-07-10,1st,Imrul Kayes,1,Tamim Iqbal,Tamim Iqbal,18,England,Bangladesh,19,England,County Ground,1,Bangladesh
+31,5.2,0,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Junaid Siddique,0,England,Bangladesh,19,England,County Ground,1,Bangladesh
+32,5.3,0,A Shahzad,2010-07-10,1st,Imrul Kayes,1,,Junaid Siddique,0,England,Bangladesh,20,England,County Ground,1,Bangladesh
+33,5.4,1,A Shahzad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,2,England,Bangladesh,21,England,County Ground,1,Bangladesh
+34,5.5,0,A Shahzad,2010-07-10,1st,Imrul Kayes,2,,Junaid Siddique,0,England,Bangladesh,21,England,County Ground,1,Bangladesh
+35,5.6,0,A Shahzad,2010-07-10,1st,Imrul Kayes,2,,Junaid Siddique,0,England,Bangladesh,21,England,County Ground,1,Bangladesh
+36,6.1,0,JM Anderson,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,2,England,Bangladesh,21,England,County Ground,1,Bangladesh
+37,6.2,4,JM Anderson,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,6,England,Bangladesh,25,England,County Ground,1,Bangladesh
+38,6.3,0,JM Anderson,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,6,England,Bangladesh,25,England,County Ground,1,Bangladesh
+39,6.4,0,JM Anderson,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,6,England,Bangladesh,25,England,County Ground,1,Bangladesh
+40,6.5,0,JM Anderson,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,6,England,Bangladesh,26,England,County Ground,1,Bangladesh
+41,6.6,4,JM Anderson,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,10,England,Bangladesh,30,England,County Ground,1,Bangladesh
+42,6.7,1,JM Anderson,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,11,England,Bangladesh,31,England,County Ground,1,Bangladesh
+43,7.1,0,A Shahzad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,11,England,Bangladesh,31,England,County Ground,1,Bangladesh
+44,7.2,0,A Shahzad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,11,England,Bangladesh,32,England,County Ground,1,Bangladesh
+45,7.3,0,A Shahzad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,11,England,Bangladesh,32,England,County Ground,1,Bangladesh
+46,7.4,0,A Shahzad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,11,England,Bangladesh,33,England,County Ground,1,Bangladesh
+47,7.5,1,A Shahzad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,12,England,Bangladesh,34,England,County Ground,1,Bangladesh
+48,7.6,0,A Shahzad,2010-07-10,1st,Imrul Kayes,12,,Junaid Siddique,0,England,Bangladesh,34,England,County Ground,1,Bangladesh
+49,7.7,0,A Shahzad,2010-07-10,1st,Imrul Kayes,12,,Junaid Siddique,0,England,Bangladesh,34,England,County Ground,1,Bangladesh
+50,7.8,0,A Shahzad,2010-07-10,1st,Imrul Kayes,12,,Junaid Siddique,0,England,Bangladesh,34,England,County Ground,1,Bangladesh
+51,8.1,0,SCJ Broad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,12,England,Bangladesh,34,England,County Ground,1,Bangladesh
+52,8.2,1,SCJ Broad,2010-07-10,1st,Junaid Siddique,0,,Imrul Kayes,13,England,Bangladesh,35,England,County Ground,1,Bangladesh
+53,8.3,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,0,England,Bangladesh,35,England,County Ground,1,Bangladesh
+54,8.4,1,SCJ Broad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,1,England,Bangladesh,36,England,County Ground,1,Bangladesh
+55,8.5,0,SCJ Broad,2010-07-10,1st,Junaid Siddique,1,,Imrul Kayes,13,England,Bangladesh,36,England,County Ground,1,Bangladesh
+56,8.6,0,SCJ Broad,2010-07-10,1st,Junaid Siddique,1,,Imrul Kayes,13,England,Bangladesh,36,England,County Ground,1,Bangladesh
+57,9.1,2,A Shahzad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,3,England,Bangladesh,38,England,County Ground,1,Bangladesh
+58,9.2,4,A Shahzad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,7,England,Bangladesh,42,England,County Ground,1,Bangladesh
+59,9.3,0,A Shahzad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,7,England,Bangladesh,42,England,County Ground,1,Bangladesh
+60,9.4,4,A Shahzad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,11,England,Bangladesh,46,England,County Ground,1,Bangladesh
+61,9.5,4,A Shahzad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,15,England,Bangladesh,50,England,County Ground,1,Bangladesh
+62,9.6,0,A Shahzad,2010-07-10,1st,Imrul Kayes,13,,Junaid Siddique,15,England,Bangladesh,50,England,County Ground,1,Bangladesh
+63,10.1,0,SCJ Broad,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,13,England,Bangladesh,50,England,County Ground,1,Bangladesh
+64,10.2,0,SCJ Broad,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,13,England,Bangladesh,50,England,County Ground,1,Bangladesh
+65,10.3,0,SCJ Broad,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,13,England,Bangladesh,50,England,County Ground,1,Bangladesh
+66,10.4,0,SCJ Broad,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,13,England,Bangladesh,50,England,County Ground,1,Bangladesh
+67,10.5,4,SCJ Broad,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,17,England,Bangladesh,54,England,County Ground,1,Bangladesh
+68,10.6,1,SCJ Broad,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,18,England,Bangladesh,55,England,County Ground,1,Bangladesh
+69,11.1,2,LJ Wright,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,20,England,Bangladesh,57,England,County Ground,1,Bangladesh
+70,11.2,0,LJ Wright,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,20,England,Bangladesh,57,England,County Ground,1,Bangladesh
+71,11.3,1,LJ Wright,2010-07-10,1st,Junaid Siddique,15,,Imrul Kayes,21,England,Bangladesh,58,England,County Ground,1,Bangladesh
+72,11.4,4,LJ Wright,2010-07-10,1st,Imrul Kayes,21,,Junaid Siddique,19,England,Bangladesh,62,England,County Ground,1,Bangladesh
+73,11.5,0,LJ Wright,2010-07-10,1st,Imrul Kayes,21,,Junaid Siddique,19,England,Bangladesh,62,England,County Ground,1,Bangladesh
+74,11.6,1,LJ Wright,2010-07-10,1st,Imrul Kayes,21,,Junaid Siddique,20,England,Bangladesh,63,England,County Ground,1,Bangladesh
+75,12.1,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,21,,Junaid Siddique,20,England,Bangladesh,63,England,County Ground,1,Bangladesh
+76,12.2,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,21,,Junaid Siddique,20,England,Bangladesh,63,England,County Ground,1,Bangladesh
+77,12.3,1,SCJ Broad,2010-07-10,1st,Imrul Kayes,21,,Junaid Siddique,21,England,Bangladesh,64,England,County Ground,1,Bangladesh
+78,12.4,1,SCJ Broad,2010-07-10,1st,Junaid Siddique,21,,Imrul Kayes,22,England,Bangladesh,65,England,County Ground,1,Bangladesh
+79,12.5,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,22,,Junaid Siddique,21,England,Bangladesh,65,England,County Ground,1,Bangladesh
+80,12.6,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,22,Junaid Siddique,Junaid Siddique,21,England,Bangladesh,65,England,County Ground,2,Bangladesh
+81,13.1,0,LJ Wright,2010-07-10,1st,Jahurul Islam,0,,Imrul Kayes,22,England,Bangladesh,65,England,County Ground,2,Bangladesh
+82,13.2,0,LJ Wright,2010-07-10,1st,Jahurul Islam,0,,Imrul Kayes,22,England,Bangladesh,65,England,County Ground,2,Bangladesh
+83,13.3,0,LJ Wright,2010-07-10,1st,Jahurul Islam,0,,Imrul Kayes,22,England,Bangladesh,66,England,County Ground,2,Bangladesh
+84,13.4,1,LJ Wright,2010-07-10,1st,Jahurul Islam,0,,Imrul Kayes,23,England,Bangladesh,67,England,County Ground,2,Bangladesh
+85,13.5,0,LJ Wright,2010-07-10,1st,Imrul Kayes,23,,Jahurul Islam,0,England,Bangladesh,67,England,County Ground,2,Bangladesh
+86,13.6,0,LJ Wright,2010-07-10,1st,Imrul Kayes,23,,Jahurul Islam,0,England,Bangladesh,67,England,County Ground,2,Bangladesh
+87,13.7,0,LJ Wright,2010-07-10,1st,Imrul Kayes,23,,Jahurul Islam,0,England,Bangladesh,67,England,County Ground,2,Bangladesh
+88,14.1,0,SCJ Broad,2010-07-10,1st,Jahurul Islam,0,,Imrul Kayes,23,England,Bangladesh,67,England,County Ground,2,Bangladesh
+89,14.2,0,SCJ Broad,2010-07-10,1st,Jahurul Islam,0,,Imrul Kayes,23,England,Bangladesh,68,England,County Ground,2,Bangladesh
+90,14.3,1,SCJ Broad,2010-07-10,1st,Jahurul Islam,0,,Imrul Kayes,24,England,Bangladesh,69,England,County Ground,2,Bangladesh
+91,14.4,1,SCJ Broad,2010-07-10,1st,Imrul Kayes,24,,Jahurul Islam,1,England,Bangladesh,70,England,County Ground,2,Bangladesh
+92,14.5,1,SCJ Broad,2010-07-10,1st,Jahurul Islam,1,,Imrul Kayes,25,England,Bangladesh,71,England,County Ground,2,Bangladesh
+93,14.6,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,25,,Jahurul Islam,1,England,Bangladesh,71,England,County Ground,2,Bangladesh
+94,14.7,1,SCJ Broad,2010-07-10,1st,Imrul Kayes,25,,Jahurul Islam,2,England,Bangladesh,73,England,County Ground,2,Bangladesh
+95,14.8,1,SCJ Broad,2010-07-10,1st,Jahurul Islam,2,,Imrul Kayes,26,England,Bangladesh,74,England,County Ground,2,Bangladesh
+96,15.1,0,LJ Wright,2010-07-10,1st,Jahurul Islam,2,,Imrul Kayes,26,England,Bangladesh,74,England,County Ground,2,Bangladesh
+97,15.2,1,LJ Wright,2010-07-10,1st,Jahurul Islam,2,,Imrul Kayes,27,England,Bangladesh,75,England,County Ground,2,Bangladesh
+98,15.3,0,LJ Wright,2010-07-10,1st,Imrul Kayes,27,,Jahurul Islam,2,England,Bangladesh,75,England,County Ground,2,Bangladesh
+99,15.4,0,LJ Wright,2010-07-10,1st,Imrul Kayes,27,,Jahurul Islam,2,England,Bangladesh,75,England,County Ground,2,Bangladesh
+100,15.5,0,LJ Wright,2010-07-10,1st,Imrul Kayes,27,,Jahurul Islam,2,England,Bangladesh,75,England,County Ground,2,Bangladesh
+101,15.6,2,LJ Wright,2010-07-10,1st,Imrul Kayes,27,,Jahurul Islam,4,England,Bangladesh,77,England,County Ground,2,Bangladesh
+102,16.1,0,SCJ Broad,2010-07-10,1st,Jahurul Islam,4,,Imrul Kayes,27,England,Bangladesh,77,England,County Ground,2,Bangladesh
+103,16.2,0,SCJ Broad,2010-07-10,1st,Jahurul Islam,4,,Imrul Kayes,27,England,Bangladesh,77,England,County Ground,2,Bangladesh
+104,16.3,1,SCJ Broad,2010-07-10,1st,Jahurul Islam,4,,Imrul Kayes,28,England,Bangladesh,78,England,County Ground,2,Bangladesh
+105,16.4,6,SCJ Broad,2010-07-10,1st,Imrul Kayes,28,,Jahurul Islam,10,England,Bangladesh,84,England,County Ground,2,Bangladesh
+106,16.5,3,SCJ Broad,2010-07-10,1st,Imrul Kayes,28,,Jahurul Islam,13,England,Bangladesh,87,England,County Ground,2,Bangladesh
+107,16.6,1,SCJ Broad,2010-07-10,1st,Jahurul Islam,13,,Imrul Kayes,29,England,Bangladesh,88,England,County Ground,2,Bangladesh
+108,17.1,1,MH Yardy,2010-07-10,1st,Jahurul Islam,13,,Imrul Kayes,30,England,Bangladesh,89,England,County Ground,2,Bangladesh
+109,17.2,1,MH Yardy,2010-07-10,1st,Imrul Kayes,30,,Jahurul Islam,14,England,Bangladesh,90,England,County Ground,2,Bangladesh
+110,17.3,0,MH Yardy,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,30,England,Bangladesh,90,England,County Ground,2,Bangladesh
+111,17.4,0,MH Yardy,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,30,England,Bangladesh,90,England,County Ground,2,Bangladesh
+112,17.5,1,MH Yardy,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,31,England,Bangladesh,91,England,County Ground,2,Bangladesh
+113,17.6,0,MH Yardy,2010-07-10,1st,Imrul Kayes,31,,Jahurul Islam,14,England,Bangladesh,91,England,County Ground,2,Bangladesh
+114,18.1,0,LJ Wright,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,31,England,Bangladesh,91,England,County Ground,2,Bangladesh
+115,18.2,0,LJ Wright,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,31,England,Bangladesh,91,England,County Ground,2,Bangladesh
+116,18.3,0,LJ Wright,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,31,England,Bangladesh,92,England,County Ground,2,Bangladesh
+117,18.4,2,LJ Wright,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,33,England,Bangladesh,94,England,County Ground,2,Bangladesh
+118,18.5,1,LJ Wright,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,34,England,Bangladesh,95,England,County Ground,2,Bangladesh
+119,18.6,0,LJ Wright,2010-07-10,1st,Imrul Kayes,34,,Jahurul Islam,14,England,Bangladesh,95,England,County Ground,2,Bangladesh
+120,18.7,0,LJ Wright,2010-07-10,1st,Imrul Kayes,34,,Jahurul Islam,14,England,Bangladesh,95,England,County Ground,2,Bangladesh
+121,19.1,0,MH Yardy,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,34,England,Bangladesh,95,England,County Ground,2,Bangladesh
+122,19.2,1,MH Yardy,2010-07-10,1st,Jahurul Islam,14,,Imrul Kayes,35,England,Bangladesh,96,England,County Ground,2,Bangladesh
+123,19.3,2,MH Yardy,2010-07-10,1st,Imrul Kayes,35,,Jahurul Islam,16,England,Bangladesh,98,England,County Ground,2,Bangladesh
+124,19.4,0,MH Yardy,2010-07-10,1st,Imrul Kayes,35,,Jahurul Islam,16,England,Bangladesh,98,England,County Ground,2,Bangladesh
+125,19.5,0,MH Yardy,2010-07-10,1st,Imrul Kayes,35,,Jahurul Islam,16,England,Bangladesh,98,England,County Ground,2,Bangladesh
+126,19.6,0,MH Yardy,2010-07-10,1st,Imrul Kayes,35,,Jahurul Islam,16,England,Bangladesh,98,England,County Ground,2,Bangladesh
+127,20.1,1,LJ Wright,2010-07-10,1st,Jahurul Islam,16,,Imrul Kayes,36,England,Bangladesh,99,England,County Ground,2,Bangladesh
+128,20.2,1,LJ Wright,2010-07-10,1st,Imrul Kayes,36,,Jahurul Islam,17,England,Bangladesh,100,England,County Ground,2,Bangladesh
+129,20.3,1,LJ Wright,2010-07-10,1st,Jahurul Islam,17,,Imrul Kayes,37,England,Bangladesh,101,England,County Ground,2,Bangladesh
+130,20.4,0,LJ Wright,2010-07-10,1st,Imrul Kayes,37,,Jahurul Islam,17,England,Bangladesh,101,England,County Ground,2,Bangladesh
+131,20.5,1,LJ Wright,2010-07-10,1st,Imrul Kayes,37,,Jahurul Islam,18,England,Bangladesh,102,England,County Ground,2,Bangladesh
+132,20.6,4,LJ Wright,2010-07-10,1st,Jahurul Islam,18,,Imrul Kayes,41,England,Bangladesh,106,England,County Ground,2,Bangladesh
+133,21.1,0,MH Yardy,2010-07-10,1st,Imrul Kayes,41,,Jahurul Islam,18,England,Bangladesh,106,England,County Ground,2,Bangladesh
+134,21.2,1,MH Yardy,2010-07-10,1st,Imrul Kayes,41,,Jahurul Islam,19,England,Bangladesh,107,England,County Ground,2,Bangladesh
+135,21.3,0,MH Yardy,2010-07-10,1st,Jahurul Islam,19,,Imrul Kayes,41,England,Bangladesh,107,England,County Ground,2,Bangladesh
+136,21.4,0,MH Yardy,2010-07-10,1st,Jahurul Islam,19,,Imrul Kayes,41,England,Bangladesh,107,England,County Ground,2,Bangladesh
+137,21.5,0,MH Yardy,2010-07-10,1st,Jahurul Islam,19,,Imrul Kayes,41,England,Bangladesh,107,England,County Ground,2,Bangladesh
+138,21.6,1,MH Yardy,2010-07-10,1st,Jahurul Islam,19,,Imrul Kayes,42,England,Bangladesh,108,England,County Ground,2,Bangladesh
+139,22.1,1,LJ Wright,2010-07-10,1st,Jahurul Islam,19,,Imrul Kayes,43,England,Bangladesh,109,England,County Ground,2,Bangladesh
+140,22.2,1,LJ Wright,2010-07-10,1st,Imrul Kayes,43,,Jahurul Islam,20,England,Bangladesh,110,England,County Ground,2,Bangladesh
+141,22.3,1,LJ Wright,2010-07-10,1st,Jahurul Islam,20,,Imrul Kayes,44,England,Bangladesh,111,England,County Ground,2,Bangladesh
+142,22.4,1,LJ Wright,2010-07-10,1st,Imrul Kayes,44,,Jahurul Islam,21,England,Bangladesh,112,England,County Ground,2,Bangladesh
+143,22.5,0,LJ Wright,2010-07-10,1st,Jahurul Islam,21,,Imrul Kayes,44,England,Bangladesh,112,England,County Ground,2,Bangladesh
+144,22.6,1,LJ Wright,2010-07-10,1st,Jahurul Islam,21,,Imrul Kayes,45,England,Bangladesh,113,England,County Ground,2,Bangladesh
+145,23.1,0,MH Yardy,2010-07-10,1st,Jahurul Islam,21,,Imrul Kayes,45,England,Bangladesh,113,England,County Ground,2,Bangladesh
+146,23.2,0,MH Yardy,2010-07-10,1st,Jahurul Islam,21,,Imrul Kayes,45,England,Bangladesh,115,England,County Ground,2,Bangladesh
+147,23.3,1,MH Yardy,2010-07-10,1st,Jahurul Islam,21,,Imrul Kayes,46,England,Bangladesh,116,England,County Ground,2,Bangladesh
+148,23.4,0,MH Yardy,2010-07-10,1st,Imrul Kayes,46,,Jahurul Islam,21,England,Bangladesh,116,England,County Ground,2,Bangladesh
+149,23.5,0,MH Yardy,2010-07-10,1st,Imrul Kayes,46,,Jahurul Islam,21,England,Bangladesh,116,England,County Ground,2,Bangladesh
+150,23.6,0,MH Yardy,2010-07-10,1st,Imrul Kayes,46,,Jahurul Islam,21,England,Bangladesh,116,England,County Ground,2,Bangladesh
+151,24.1,1,PD Collingwood,2010-07-10,1st,Jahurul Islam,21,,Imrul Kayes,47,England,Bangladesh,117,England,County Ground,2,Bangladesh
+152,24.2,1,PD Collingwood,2010-07-10,1st,Imrul Kayes,47,,Jahurul Islam,22,England,Bangladesh,118,England,County Ground,2,Bangladesh
+153,24.3,1,PD Collingwood,2010-07-10,1st,Jahurul Islam,22,,Imrul Kayes,48,England,Bangladesh,119,England,County Ground,2,Bangladesh
+154,24.4,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,48,,Jahurul Islam,22,England,Bangladesh,119,England,County Ground,2,Bangladesh
+155,24.5,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,48,,Jahurul Islam,22,England,Bangladesh,119,England,County Ground,2,Bangladesh
+156,24.6,1,PD Collingwood,2010-07-10,1st,Imrul Kayes,48,,Jahurul Islam,23,England,Bangladesh,120,England,County Ground,2,Bangladesh
+157,25.1,1,MH Yardy,2010-07-10,1st,Imrul Kayes,48,,Jahurul Islam,24,England,Bangladesh,121,England,County Ground,2,Bangladesh
+158,25.2,1,MH Yardy,2010-07-10,1st,Jahurul Islam,24,,Imrul Kayes,49,England,Bangladesh,122,England,County Ground,2,Bangladesh
+159,25.3,0,MH Yardy,2010-07-10,1st,Imrul Kayes,49,,Jahurul Islam,24,England,Bangladesh,123,England,County Ground,2,Bangladesh
+160,25.4,0,MH Yardy,2010-07-10,1st,Imrul Kayes,49,,Jahurul Islam,24,England,Bangladesh,123,England,County Ground,2,Bangladesh
+161,25.5,0,MH Yardy,2010-07-10,1st,Imrul Kayes,49,,Jahurul Islam,24,England,Bangladesh,123,England,County Ground,2,Bangladesh
+162,25.6,2,MH Yardy,2010-07-10,1st,Imrul Kayes,49,,Jahurul Islam,26,England,Bangladesh,125,England,County Ground,2,Bangladesh
+163,25.7,2,MH Yardy,2010-07-10,1st,Imrul Kayes,49,,Jahurul Islam,28,England,Bangladesh,127,England,County Ground,2,Bangladesh
+164,26.1,0,PD Collingwood,2010-07-10,1st,Jahurul Islam,28,,Imrul Kayes,49,England,Bangladesh,127,England,County Ground,2,Bangladesh
+165,26.2,1,PD Collingwood,2010-07-10,1st,Jahurul Islam,28,,Imrul Kayes,50,England,Bangladesh,128,England,County Ground,2,Bangladesh
+166,26.3,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,50,,Jahurul Islam,28,England,Bangladesh,128,England,County Ground,2,Bangladesh
+167,26.4,1,PD Collingwood,2010-07-10,1st,Imrul Kayes,50,,Jahurul Islam,29,England,Bangladesh,129,England,County Ground,2,Bangladesh
+168,26.5,1,PD Collingwood,2010-07-10,1st,Jahurul Islam,29,,Imrul Kayes,51,England,Bangladesh,130,England,County Ground,2,Bangladesh
+169,26.6,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,51,,Jahurul Islam,29,England,Bangladesh,130,England,County Ground,2,Bangladesh
+170,27.1,1,MH Yardy,2010-07-10,1st,Jahurul Islam,29,,Imrul Kayes,52,England,Bangladesh,131,England,County Ground,2,Bangladesh
+171,27.2,0,MH Yardy,2010-07-10,1st,Imrul Kayes,52,,Jahurul Islam,29,England,Bangladesh,131,England,County Ground,2,Bangladesh
+172,27.3,1,MH Yardy,2010-07-10,1st,Imrul Kayes,52,,Jahurul Islam,30,England,Bangladesh,132,England,County Ground,2,Bangladesh
+173,27.4,0,MH Yardy,2010-07-10,1st,Jahurul Islam,30,,Imrul Kayes,52,England,Bangladesh,132,England,County Ground,2,Bangladesh
+174,27.5,0,MH Yardy,2010-07-10,1st,Jahurul Islam,30,,Imrul Kayes,52,England,Bangladesh,135,England,County Ground,2,Bangladesh
+175,27.6,1,MH Yardy,2010-07-10,1st,Jahurul Islam,30,,Imrul Kayes,53,England,Bangladesh,136,England,County Ground,2,Bangladesh
+176,27.7,1,MH Yardy,2010-07-10,1st,Imrul Kayes,53,,Jahurul Islam,31,England,Bangladesh,137,England,County Ground,2,Bangladesh
+177,28.1,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,53,,Jahurul Islam,31,England,Bangladesh,137,England,County Ground,2,Bangladesh
+178,28.2,2,PD Collingwood,2010-07-10,1st,Imrul Kayes,53,,Jahurul Islam,33,England,Bangladesh,139,England,County Ground,2,Bangladesh
+179,28.3,1,PD Collingwood,2010-07-10,1st,Imrul Kayes,53,,Jahurul Islam,34,England,Bangladesh,140,England,County Ground,2,Bangladesh
+180,28.4,1,PD Collingwood,2010-07-10,1st,Jahurul Islam,34,,Imrul Kayes,54,England,Bangladesh,141,England,County Ground,2,Bangladesh
+181,28.5,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,54,,Jahurul Islam,34,England,Bangladesh,141,England,County Ground,2,Bangladesh
+182,28.6,1,PD Collingwood,2010-07-10,1st,Imrul Kayes,54,,Jahurul Islam,35,England,Bangladesh,142,England,County Ground,2,Bangladesh
+183,29.1,1,A Shahzad,2010-07-10,1st,Imrul Kayes,54,,Jahurul Islam,36,England,Bangladesh,143,England,County Ground,2,Bangladesh
+184,29.2,1,A Shahzad,2010-07-10,1st,Jahurul Islam,36,,Imrul Kayes,55,England,Bangladesh,144,England,County Ground,2,Bangladesh
+185,29.3,4,A Shahzad,2010-07-10,1st,Imrul Kayes,55,,Jahurul Islam,40,England,Bangladesh,148,England,County Ground,2,Bangladesh
+186,29.4,0,A Shahzad,2010-07-10,1st,Imrul Kayes,55,Jahurul Islam,Jahurul Islam,40,England,Bangladesh,148,England,County Ground,3,Bangladesh
+187,29.5,1,A Shahzad,2010-07-10,1st,Imrul Kayes,55,,Shakib Al Hasan,1,England,Bangladesh,149,England,County Ground,3,Bangladesh
+188,29.6,0,A Shahzad,2010-07-10,1st,Shakib Al Hasan,1,,Imrul Kayes,55,England,Bangladesh,149,England,County Ground,3,Bangladesh
+189,30.1,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,55,,Shakib Al Hasan,1,England,Bangladesh,149,England,County Ground,3,Bangladesh
+190,30.2,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,55,Shakib Al Hasan,Shakib Al Hasan,1,England,Bangladesh,149,England,County Ground,4,Bangladesh
+191,30.3,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,0,England,Bangladesh,149,England,County Ground,4,Bangladesh
+192,30.4,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,0,England,Bangladesh,149,England,County Ground,4,Bangladesh
+193,30.5,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,0,England,Bangladesh,149,England,County Ground,4,Bangladesh
+194,30.6,1,PD Collingwood,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,1,England,Bangladesh,150,England,County Ground,4,Bangladesh
+195,31.1,0,A Shahzad,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,1,England,Bangladesh,150,England,County Ground,4,Bangladesh
+196,31.2,0,A Shahzad,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,1,England,Bangladesh,150,England,County Ground,4,Bangladesh
+197,31.3,0,A Shahzad,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,1,England,Bangladesh,150,England,County Ground,4,Bangladesh
+198,31.4,1,A Shahzad,2010-07-10,1st,Imrul Kayes,55,,Mohammad Ashraful,2,England,Bangladesh,151,England,County Ground,4,Bangladesh
+199,31.5,1,A Shahzad,2010-07-10,1st,Mohammad Ashraful,2,,Imrul Kayes,56,England,Bangladesh,152,England,County Ground,4,Bangladesh
+200,31.6,0,A Shahzad,2010-07-10,1st,Imrul Kayes,56,,Mohammad Ashraful,2,England,Bangladesh,152,England,County Ground,4,Bangladesh
+201,32.1,0,PD Collingwood,2010-07-10,1st,Mohammad Ashraful,2,,Imrul Kayes,56,England,Bangladesh,152,England,County Ground,4,Bangladesh
+202,32.2,0,PD Collingwood,2010-07-10,1st,Mohammad Ashraful,2,,Imrul Kayes,56,England,Bangladesh,152,England,County Ground,4,Bangladesh
+203,32.3,0,PD Collingwood,2010-07-10,1st,Mohammad Ashraful,2,,Imrul Kayes,56,England,Bangladesh,152,England,County Ground,4,Bangladesh
+204,32.4,2,PD Collingwood,2010-07-10,1st,Mohammad Ashraful,2,,Imrul Kayes,58,England,Bangladesh,154,England,County Ground,4,Bangladesh
+205,32.5,1,PD Collingwood,2010-07-10,1st,Mohammad Ashraful,2,,Imrul Kayes,59,England,Bangladesh,155,England,County Ground,4,Bangladesh
+206,32.6,0,PD Collingwood,2010-07-10,1st,Imrul Kayes,59,,Mohammad Ashraful,2,England,Bangladesh,155,England,County Ground,4,Bangladesh
+207,33.1,1,A Shahzad,2010-07-10,1st,Mohammad Ashraful,2,,Imrul Kayes,60,England,Bangladesh,156,England,County Ground,4,Bangladesh
+208,33.2,0,A Shahzad,2010-07-10,1st,Imrul Kayes,60,,Mohammad Ashraful,2,England,Bangladesh,156,England,County Ground,4,Bangladesh
+209,33.3,0,A Shahzad,2010-07-10,1st,Imrul Kayes,60,,Mohammad Ashraful,2,England,Bangladesh,156,England,County Ground,4,Bangladesh
+210,33.4,0,A Shahzad,2010-07-10,1st,Imrul Kayes,60,,Mohammad Ashraful,2,England,Bangladesh,156,England,County Ground,4,Bangladesh
+211,33.5,1,A Shahzad,2010-07-10,1st,Imrul Kayes,60,,Mohammad Ashraful,3,England,Bangladesh,157,England,County Ground,4,Bangladesh
+212,33.6,1,A Shahzad,2010-07-10,1st,Mohammad Ashraful,3,,Imrul Kayes,61,England,Bangladesh,158,England,County Ground,4,Bangladesh
+213,34.1,1,SCJ Broad,2010-07-10,1st,Mohammad Ashraful,3,,Imrul Kayes,62,England,Bangladesh,159,England,County Ground,4,Bangladesh
+214,34.2,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,62,,Mohammad Ashraful,3,England,Bangladesh,159,England,County Ground,4,Bangladesh
+215,34.3,1,SCJ Broad,2010-07-10,1st,Imrul Kayes,62,,Mohammad Ashraful,4,England,Bangladesh,160,England,County Ground,4,Bangladesh
+216,34.4,1,SCJ Broad,2010-07-10,1st,Mohammad Ashraful,4,,Imrul Kayes,63,England,Bangladesh,161,England,County Ground,4,Bangladesh
+217,34.5,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,63,,Mohammad Ashraful,4,England,Bangladesh,161,England,County Ground,4,Bangladesh
+218,34.6,1,SCJ Broad,2010-07-10,1st,Imrul Kayes,63,,Mohammad Ashraful,5,England,Bangladesh,162,England,County Ground,4,Bangladesh
+219,35.1,0,MH Yardy,2010-07-10,1st,Imrul Kayes,63,,Mohammad Ashraful,5,England,Bangladesh,162,England,County Ground,4,Bangladesh
+220,35.2,0,MH Yardy,2010-07-10,1st,Imrul Kayes,63,,Mohammad Ashraful,5,England,Bangladesh,162,England,County Ground,4,Bangladesh
+221,35.3,1,MH Yardy,2010-07-10,1st,Imrul Kayes,63,,Mohammad Ashraful,6,England,Bangladesh,163,England,County Ground,4,Bangladesh
+222,35.4,1,MH Yardy,2010-07-10,1st,Mohammad Ashraful,6,,Imrul Kayes,64,England,Bangladesh,164,England,County Ground,4,Bangladesh
+223,35.5,1,MH Yardy,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,7,England,Bangladesh,165,England,County Ground,4,Bangladesh
+224,35.6,0,MH Yardy,2010-07-10,1st,Mohammad Ashraful,7,,Imrul Kayes,64,England,Bangladesh,165,England,County Ground,4,Bangladesh
+225,36.1,4,SCJ Broad,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,11,England,Bangladesh,169,England,County Ground,4,Bangladesh
+226,36.2,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,11,England,Bangladesh,169,England,County Ground,4,Bangladesh
+227,36.3,2,SCJ Broad,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,13,England,Bangladesh,171,England,County Ground,4,Bangladesh
+228,36.4,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,13,England,Bangladesh,171,England,County Ground,4,Bangladesh
+229,36.5,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,13,England,Bangladesh,171,England,County Ground,4,Bangladesh
+230,36.6,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,13,England,Bangladesh,172,England,County Ground,4,Bangladesh
+231,36.7,0,SCJ Broad,2010-07-10,1st,Imrul Kayes,64,,Mohammad Ashraful,13,England,Bangladesh,172,England,County Ground,4,Bangladesh
+232,37.1,1,MH Yardy,2010-07-10,1st,Mohammad Ashraful,13,,Imrul Kayes,65,England,Bangladesh,173,England,County Ground,4,Bangladesh
+233,37.2,1,MH Yardy,2010-07-10,1st,Imrul Kayes,65,Mohammad Ashraful,Mohammad Ashraful,14,England,Bangladesh,174,England,County Ground,5,Bangladesh
+234,37.3,0,MH Yardy,2010-07-10,1st,Imrul Kayes,65,,Mahmudullah,0,England,Bangladesh,174,England,County Ground,5,Bangladesh
+235,37.4,0,MH Yardy,2010-07-10,1st,Imrul Kayes,65,,Mahmudullah,0,England,Bangladesh,174,England,County Ground,5,Bangladesh
+236,37.5,0,MH Yardy,2010-07-10,1st,Imrul Kayes,65,,Mahmudullah,0,England,Bangladesh,174,England,County Ground,5,Bangladesh
+237,37.6,0,MH Yardy,2010-07-10,1st,Imrul Kayes,65,,Mahmudullah,0,England,Bangladesh,174,England,County Ground,5,Bangladesh
+238,38.1,0,JM Anderson,2010-07-10,1st,Mahmudullah,0,,Imrul Kayes,65,England,Bangladesh,174,England,County Ground,5,Bangladesh
+239,38.2,1,JM Anderson,2010-07-10,1st,Mahmudullah,0,,Imrul Kayes,66,England,Bangladesh,175,England,County Ground,5,Bangladesh
+240,38.3,0,JM Anderson,2010-07-10,1st,Imrul Kayes,66,,Mahmudullah,0,England,Bangladesh,175,England,County Ground,5,Bangladesh
+241,38.4,0,JM Anderson,2010-07-10,1st,Imrul Kayes,66,,Mahmudullah,0,England,Bangladesh,175,England,County Ground,5,Bangladesh
+242,38.5,0,JM Anderson,2010-07-10,1st,Imrul Kayes,66,,Mahmudullah,0,England,Bangladesh,175,England,County Ground,5,Bangladesh
+243,38.6,1,JM Anderson,2010-07-10,1st,Imrul Kayes,66,,Mahmudullah,1,England,Bangladesh,176,England,County Ground,5,Bangladesh
+244,39.1,0,MH Yardy,2010-07-10,1st,Imrul Kayes,66,,Mahmudullah,1,England,Bangladesh,177,England,County Ground,5,Bangladesh
+245,39.2,3,MH Yardy,2010-07-10,1st,Imrul Kayes,66,,Mahmudullah,4,England,Bangladesh,180,England,County Ground,5,Bangladesh
+246,39.3,1,MH Yardy,2010-07-10,1st,Mahmudullah,4,,Imrul Kayes,67,England,Bangladesh,181,England,County Ground,5,Bangladesh
+247,39.4,1,MH Yardy,2010-07-10,1st,Imrul Kayes,67,,Mahmudullah,5,England,Bangladesh,182,England,County Ground,5,Bangladesh
+248,39.5,0,MH Yardy,2010-07-10,1st,Mahmudullah,5,,Imrul Kayes,67,England,Bangladesh,182,England,County Ground,5,Bangladesh
+249,39.6,0,MH Yardy,2010-07-10,1st,Mahmudullah,5,,Imrul Kayes,67,England,Bangladesh,182,England,County Ground,5,Bangladesh
+250,39.7,1,MH Yardy,2010-07-10,1st,Mahmudullah,5,,Imrul Kayes,68,England,Bangladesh,183,England,County Ground,5,Bangladesh
+251,40.1,1,JM Anderson,2010-07-10,1st,Mahmudullah,5,,Imrul Kayes,69,England,Bangladesh,184,England,County Ground,5,Bangladesh
+252,40.2,1,JM Anderson,2010-07-10,1st,Imrul Kayes,69,,Mahmudullah,6,England,Bangladesh,185,England,County Ground,5,Bangladesh
+253,40.3,0,JM Anderson,2010-07-10,1st,Mahmudullah,6,,Imrul Kayes,69,England,Bangladesh,185,England,County Ground,5,Bangladesh
+254,40.4,1,JM Anderson,2010-07-10,1st,Mahmudullah,6,,Imrul Kayes,70,England,Bangladesh,186,England,County Ground,5,Bangladesh
+255,40.5,0,JM Anderson,2010-07-10,1st,Imrul Kayes,70,,Mahmudullah,6,England,Bangladesh,186,England,County Ground,5,Bangladesh
+256,40.6,0,JM Anderson,2010-07-10,1st,Imrul Kayes,70,,Mahmudullah,6,England,Bangladesh,186,England,County Ground,5,Bangladesh
+257,41.1,0,MH Yardy,2010-07-10,1st,Mahmudullah,6,,Imrul Kayes,70,England,Bangladesh,186,England,County Ground,5,Bangladesh
+258,41.2,1,MH Yardy,2010-07-10,1st,Mahmudullah,6,,Imrul Kayes,71,England,Bangladesh,187,England,County Ground,5,Bangladesh
+259,41.3,1,MH Yardy,2010-07-10,1st,Imrul Kayes,71,,Mahmudullah,7,England,Bangladesh,188,England,County Ground,5,Bangladesh
+260,41.4,1,MH Yardy,2010-07-10,1st,Mahmudullah,7,,Imrul Kayes,72,England,Bangladesh,189,England,County Ground,5,Bangladesh
+261,41.5,1,MH Yardy,2010-07-10,1st,Imrul Kayes,72,,Mahmudullah,8,England,Bangladesh,190,England,County Ground,5,Bangladesh
+262,41.6,0,MH Yardy,2010-07-10,1st,Mahmudullah,8,,Imrul Kayes,72,England,Bangladesh,190,England,County Ground,5,Bangladesh
+263,42.1,1,JM Anderson,2010-07-10,1st,Imrul Kayes,72,,Mahmudullah,9,England,Bangladesh,191,England,County Ground,5,Bangladesh
+264,42.2,1,JM Anderson,2010-07-10,1st,Mahmudullah,9,,Imrul Kayes,73,England,Bangladesh,192,England,County Ground,5,Bangladesh
+265,42.3,0,JM Anderson,2010-07-10,1st,Imrul Kayes,73,,Mahmudullah,9,England,Bangladesh,192,England,County Ground,5,Bangladesh
+266,42.4,0,JM Anderson,2010-07-10,1st,Imrul Kayes,73,,Mahmudullah,9,England,Bangladesh,192,England,County Ground,5,Bangladesh
+267,42.5,1,JM Anderson,2010-07-10,1st,Imrul Kayes,73,,Mahmudullah,10,England,Bangladesh,193,England,County Ground,5,Bangladesh
+268,42.6,1,JM Anderson,2010-07-10,1st,Mahmudullah,10,,Imrul Kayes,74,England,Bangladesh,194,England,County Ground,5,Bangladesh
+269,43.1,2,A Shahzad,2010-07-10,1st,Mahmudullah,10,,Imrul Kayes,76,England,Bangladesh,196,England,County Ground,5,Bangladesh
+270,43.2,0,A Shahzad,2010-07-10,1st,Mahmudullah,10,Imrul Kayes,Imrul Kayes,76,England,Bangladesh,196,England,County Ground,6,Bangladesh
+271,43.3,0,A Shahzad,2010-07-10,1st,Mahmudullah,10,,Mashrafe Mortaza,0,England,Bangladesh,196,England,County Ground,6,Bangladesh
+272,43.4,0,A Shahzad,2010-07-10,1st,Mahmudullah,10,,Mashrafe Mortaza,0,England,Bangladesh,196,England,County Ground,6,Bangladesh
+273,43.5,0,A Shahzad,2010-07-10,1st,Mahmudullah,10,,Mashrafe Mortaza,0,England,Bangladesh,196,England,County Ground,6,Bangladesh
+274,43.6,0,A Shahzad,2010-07-10,1st,Mahmudullah,10,,Mashrafe Mortaza,0,England,Bangladesh,196,England,County Ground,6,Bangladesh
+275,44.1,1,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,0,,Mahmudullah,11,England,Bangladesh,197,England,County Ground,6,Bangladesh
+276,44.2,1,SCJ Broad,2010-07-10,1st,Mahmudullah,11,,Mashrafe Mortaza,1,England,Bangladesh,198,England,County Ground,6,Bangladesh
+277,44.3,0,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,1,,Mahmudullah,11,England,Bangladesh,198,England,County Ground,6,Bangladesh
+278,44.4,0,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,1,,Mahmudullah,11,England,Bangladesh,198,England,County Ground,6,Bangladesh
+279,44.5,0,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,1,,Mahmudullah,11,England,Bangladesh,198,England,County Ground,6,Bangladesh
+280,44.6,0,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,1,,Mahmudullah,11,England,Bangladesh,198,England,County Ground,6,Bangladesh
+281,45.1,0,A Shahzad,2010-07-10,1st,Mahmudullah,11,,Mashrafe Mortaza,1,England,Bangladesh,198,England,County Ground,6,Bangladesh
+282,45.2,0,A Shahzad,2010-07-10,1st,Mahmudullah,11,,Mashrafe Mortaza,1,England,Bangladesh,198,England,County Ground,6,Bangladesh
+283,45.3,1,A Shahzad,2010-07-10,1st,Mahmudullah,11,,Mashrafe Mortaza,2,England,Bangladesh,199,England,County Ground,6,Bangladesh
+284,45.4,1,A Shahzad,2010-07-10,1st,Mashrafe Mortaza,2,,Mahmudullah,12,England,Bangladesh,200,England,County Ground,6,Bangladesh
+285,45.5,1,A Shahzad,2010-07-10,1st,Mahmudullah,12,,Mashrafe Mortaza,3,England,Bangladesh,201,England,County Ground,6,Bangladesh
+286,45.6,1,A Shahzad,2010-07-10,1st,Mashrafe Mortaza,3,,Mahmudullah,13,England,Bangladesh,202,England,County Ground,6,Bangladesh
+287,46.1,1,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,3,,Mahmudullah,14,England,Bangladesh,203,England,County Ground,6,Bangladesh
+288,46.2,0,SCJ Broad,2010-07-10,1st,Mahmudullah,14,,Mashrafe Mortaza,3,England,Bangladesh,203,England,County Ground,6,Bangladesh
+289,46.3,0,SCJ Broad,2010-07-10,1st,Mahmudullah,14,,Mashrafe Mortaza,3,England,Bangladesh,204,England,County Ground,6,Bangladesh
+290,46.4,1,SCJ Broad,2010-07-10,1st,Mahmudullah,14,,Mashrafe Mortaza,4,England,Bangladesh,205,England,County Ground,6,Bangladesh
+291,46.5,1,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,4,,Mahmudullah,15,England,Bangladesh,206,England,County Ground,6,Bangladesh
+292,46.6,0,SCJ Broad,2010-07-10,1st,Mahmudullah,15,,Mashrafe Mortaza,4,England,Bangladesh,206,England,County Ground,6,Bangladesh
+293,46.7,0,SCJ Broad,2010-07-10,1st,Mahmudullah,15,,Mashrafe Mortaza,4,England,Bangladesh,207,England,County Ground,6,Bangladesh
+294,47.1,0,JM Anderson,2010-07-10,1st,Mahmudullah,15,,Mashrafe Mortaza,4,England,Bangladesh,207,England,County Ground,6,Bangladesh
+295,47.2,1,JM Anderson,2010-07-10,1st,Mahmudullah,15,,Mashrafe Mortaza,5,England,Bangladesh,208,England,County Ground,6,Bangladesh
+296,47.3,1,JM Anderson,2010-07-10,1st,Mashrafe Mortaza,5,,Mahmudullah,16,England,Bangladesh,209,England,County Ground,6,Bangladesh
+297,47.4,1,JM Anderson,2010-07-10,1st,Mahmudullah,16,,Mashrafe Mortaza,6,England,Bangladesh,210,England,County Ground,6,Bangladesh
+298,47.5,1,JM Anderson,2010-07-10,1st,Mashrafe Mortaza,6,,Mahmudullah,17,England,Bangladesh,211,England,County Ground,6,Bangladesh
+299,47.6,4,JM Anderson,2010-07-10,1st,Mahmudullah,17,,Mashrafe Mortaza,10,England,Bangladesh,215,England,County Ground,6,Bangladesh
+300,48.1,3,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,10,,Mahmudullah,20,England,Bangladesh,218,England,County Ground,6,Bangladesh
+301,48.2,4,SCJ Broad,2010-07-10,1st,Mahmudullah,20,,Mashrafe Mortaza,14,England,Bangladesh,222,England,County Ground,6,Bangladesh
+302,48.3,0,SCJ Broad,2010-07-10,1st,Mahmudullah,20,,Mashrafe Mortaza,14,England,Bangladesh,222,England,County Ground,6,Bangladesh
+303,48.4,0,SCJ Broad,2010-07-10,1st,Mahmudullah,20,,Mashrafe Mortaza,14,England,Bangladesh,223,England,County Ground,6,Bangladesh
+304,48.5,1,SCJ Broad,2010-07-10,1st,Mahmudullah,20,,Mashrafe Mortaza,15,England,Bangladesh,224,England,County Ground,6,Bangladesh
+305,48.6,1,SCJ Broad,2010-07-10,1st,Mashrafe Mortaza,15,,Mahmudullah,21,England,Bangladesh,225,England,County Ground,6,Bangladesh
+306,48.7,6,SCJ Broad,2010-07-10,1st,Mahmudullah,21,,Mashrafe Mortaza,21,England,Bangladesh,231,England,County Ground,6,Bangladesh
+307,49.1,1,JM Anderson,2010-07-10,1st,Mashrafe Mortaza,21,,Mahmudullah,22,England,Bangladesh,232,England,County Ground,6,Bangladesh
+308,49.2,0,JM Anderson,2010-07-10,1st,Mahmudullah,22,,Mashrafe Mortaza,21,England,Bangladesh,232,England,County Ground,6,Bangladesh
+309,49.3,1,JM Anderson,2010-07-10,1st,Mahmudullah,22,Mashrafe Mortaza,Mashrafe Mortaza,22,England,Bangladesh,233,England,County Ground,7,Bangladesh
+310,49.4,0,JM Anderson,2010-07-10,1st,Mahmudullah,22,,Abdur Razzak,0,England,Bangladesh,233,England,County Ground,7,Bangladesh
+311,49.5,1,JM Anderson,2010-07-10,1st,Mahmudullah,22,,Abdur Razzak,1,England,Bangladesh,234,England,County Ground,7,Bangladesh
+312,49.6,2,JM Anderson,2010-07-10,1st,Abdur Razzak,1,,Mahmudullah,24,England,Bangladesh,236,England,County Ground,7,Bangladesh
+313,0.1,1,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,1,England,County Ground,0,Bangladesh
+314,0.2,1,Mashrafe Mortaza,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,2,England,County Ground,0,Bangladesh
+315,0.3,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,2,England,County Ground,0,Bangladesh
+316,0.4,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,2,England,County Ground,0,Bangladesh
+317,0.5,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,2,England,County Ground,0,Bangladesh
+318,0.6,1,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,3,England,County Ground,0,Bangladesh
+319,1.1,0,Abdur Razzak,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,3,England,County Ground,0,Bangladesh
+320,1.2,0,Abdur Razzak,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,3,England,County Ground,0,Bangladesh
+321,1.3,0,Abdur Razzak,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,3,England,County Ground,0,Bangladesh
+322,1.4,0,Abdur Razzak,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,3,England,County Ground,0,Bangladesh
+323,1.5,1,Abdur Razzak,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+324,1.6,0,Abdur Razzak,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+325,2.1,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+326,2.2,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+327,2.3,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+328,2.4,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,4,England,County Ground,0,Bangladesh
+329,2.5,2,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,6,England,County Ground,0,Bangladesh
+330,2.6,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,6,England,County Ground,0,Bangladesh
+331,3.1,0,Abdur Razzak,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,6,England,County Ground,0,Bangladesh
+332,3.2,4,Abdur Razzak,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,10,England,County Ground,0,Bangladesh
+333,3.3,0,Abdur Razzak,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,10,England,County Ground,0,Bangladesh
+334,3.4,1,Abdur Razzak,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,11,England,County Ground,0,Bangladesh
+335,3.5,6,Abdur Razzak,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,17,England,County Ground,0,Bangladesh
+336,3.6,1,Abdur Razzak,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,18,England,County Ground,0,Bangladesh
+337,4.1,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,18,England,County Ground,0,Bangladesh
+338,4.2,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,18,England,County Ground,0,Bangladesh
+339,4.3,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,18,England,County Ground,0,Bangladesh
+340,4.4,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,18,England,County Ground,0,Bangladesh
+341,4.5,1,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,19,England,County Ground,0,Bangladesh
+342,4.6,0,Mashrafe Mortaza,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,19,England,County Ground,0,Bangladesh
+343,5.1,4,Shafiul Islam,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,23,England,County Ground,0,Bangladesh
+344,5.2,0,Shafiul Islam,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,23,England,County Ground,0,Bangladesh
+345,5.3,1,Shafiul Islam,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,24,England,County Ground,0,Bangladesh
+346,5.4,2,Shafiul Islam,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,26,England,County Ground,0,Bangladesh
+347,5.5,1,Shafiul Islam,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,27,England,County Ground,0,Bangladesh
+348,5.6,4,Shafiul Islam,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,31,England,County Ground,0,Bangladesh
+349,6.1,1,Mashrafe Mortaza,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,32,England,County Ground,0,Bangladesh
+350,6.2,4,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,36,England,County Ground,0,Bangladesh
+351,6.3,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,36,England,County Ground,0,Bangladesh
+352,6.4,0,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,36,England,County Ground,0,Bangladesh
+353,6.5,1,Mashrafe Mortaza,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,37,England,County Ground,0,Bangladesh
+354,6.6,6,Mashrafe Mortaza,2010-07-10,2nd,AJ Strauss,0,,C Kieswetter,0,England,Bangladesh,43,England,County Ground,0,Bangladesh
+355,7.1,0,Rubel Hossain,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,43,England,County Ground,0,Bangladesh
+356,7.2,0,Rubel Hossain,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,43,England,County Ground,0,Bangladesh
+357,7.3,4,Rubel Hossain,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,47,England,County Ground,0,Bangladesh
+358,7.4,2,Rubel Hossain,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,49,England,County Ground,0,Bangladesh
+359,7.5,0,Rubel Hossain,2010-07-10,2nd,C Kieswetter,0,,AJ Strauss,0,England,Bangladesh,49,England,County Ground,1,Bangladesh
+360,7.6,0,Rubel Hossain,2010-07-10,2nd,C Kieswetter,0,,IJL Trott,0,England,Bangladesh,49,England,County Ground,1,Bangladesh
+361,8.1,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,C Kieswetter,0,England,Bangladesh,49,England,County Ground,1,Bangladesh
+362,8.2,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,C Kieswetter,0,England,Bangladesh,49,England,County Ground,1,Bangladesh
+363,8.3,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,C Kieswetter,0,England,Bangladesh,49,England,County Ground,1,Bangladesh
+364,8.4,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,C Kieswetter,0,England,Bangladesh,50,England,County Ground,1,Bangladesh
+365,8.5,0,Shakib Al Hasan,2010-07-10,2nd,C Kieswetter,0,,IJL Trott,0,England,Bangladesh,50,England,County Ground,1,Bangladesh
+366,8.6,4,Shakib Al Hasan,2010-07-10,2nd,C Kieswetter,0,,IJL Trott,0,England,Bangladesh,54,England,County Ground,1,Bangladesh
+367,9.1,4,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,C Kieswetter,0,England,Bangladesh,58,England,County Ground,1,Bangladesh
+368,9.2,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,C Kieswetter,0,England,Bangladesh,58,England,County Ground,2,Bangladesh
+369,9.3,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,58,England,County Ground,2,Bangladesh
+370,9.4,1,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,59,England,County Ground,2,Bangladesh
+371,9.5,0,Rubel Hossain,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,59,England,County Ground,2,Bangladesh
+372,9.6,2,Rubel Hossain,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,61,England,County Ground,2,Bangladesh
+373,10.1,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,61,England,County Ground,2,Bangladesh
+374,10.2,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,61,England,County Ground,2,Bangladesh
+375,10.3,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,61,England,County Ground,2,Bangladesh
+376,10.4,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,61,England,County Ground,2,Bangladesh
+377,10.5,1,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,62,England,County Ground,2,Bangladesh
+378,10.6,1,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,63,England,County Ground,2,Bangladesh
+379,11.1,0,Rubel Hossain,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,63,England,County Ground,2,Bangladesh
+380,11.2,4,Rubel Hossain,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,67,England,County Ground,2,Bangladesh
+381,11.3,0,Rubel Hossain,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,67,England,County Ground,2,Bangladesh
+382,11.4,0,Rubel Hossain,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,67,England,County Ground,2,Bangladesh
+383,11.5,1,Rubel Hossain,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,68,England,County Ground,2,Bangladesh
+384,11.6,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,68,England,County Ground,2,Bangladesh
+385,12.1,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,68,England,County Ground,2,Bangladesh
+386,12.2,1,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,69,England,County Ground,2,Bangladesh
+387,12.3,1,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+388,12.4,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+389,12.5,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+390,12.6,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+391,13.1,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+392,13.2,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+393,13.3,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+394,13.4,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+395,13.5,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,70,England,County Ground,2,Bangladesh
+396,13.6,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,75,England,County Ground,2,Bangladesh
+397,13.7,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,75,England,County Ground,2,Bangladesh
+398,14.1,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,75,England,County Ground,2,Bangladesh
+399,14.2,2,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,77,England,County Ground,2,Bangladesh
+400,14.3,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,77,England,County Ground,2,Bangladesh
+401,14.4,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,77,England,County Ground,2,Bangladesh
+402,14.5,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,77,England,County Ground,2,Bangladesh
+403,14.6,0,Mashrafe Mortaza,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,77,England,County Ground,2,Bangladesh
+404,15.1,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,77,England,County Ground,2,Bangladesh
+405,15.2,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,77,England,County Ground,2,Bangladesh
+406,15.3,6,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,83,England,County Ground,2,Bangladesh
+407,15.4,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,83,England,County Ground,2,Bangladesh
+408,15.5,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,83,England,County Ground,2,Bangladesh
+409,15.6,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,83,England,County Ground,2,Bangladesh
+410,16.1,1,Abdur Razzak,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,84,England,County Ground,2,Bangladesh
+411,16.2,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,84,England,County Ground,2,Bangladesh
+412,16.3,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,85,England,County Ground,2,Bangladesh
+413,16.4,0,Abdur Razzak,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,85,England,County Ground,2,Bangladesh
+414,16.5,1,Abdur Razzak,2010-07-10,2nd,PD Collingwood,0,,IJL Trott,0,England,Bangladesh,86,England,County Ground,2,Bangladesh
+415,16.6,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,PD Collingwood,0,England,Bangladesh,86,England,County Ground,3,Bangladesh
+416,17.1,2,Shafiul Islam,2010-07-10,2nd,EJG Morgan,0,,IJL Trott,0,England,Bangladesh,88,England,County Ground,3,Bangladesh
+417,17.2,0,Shafiul Islam,2010-07-10,2nd,EJG Morgan,0,,IJL Trott,0,England,Bangladesh,88,England,County Ground,3,Bangladesh
+418,17.3,0,Shafiul Islam,2010-07-10,2nd,EJG Morgan,0,,IJL Trott,0,England,Bangladesh,88,England,County Ground,3,Bangladesh
+419,17.4,1,Shafiul Islam,2010-07-10,2nd,EJG Morgan,0,,IJL Trott,0,England,Bangladesh,89,England,County Ground,3,Bangladesh
+420,17.5,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,EJG Morgan,0,England,Bangladesh,89,England,County Ground,3,Bangladesh
+421,17.6,1,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,EJG Morgan,0,England,Bangladesh,90,England,County Ground,3,Bangladesh
+422,18.1,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,EJG Morgan,0,England,Bangladesh,90,England,County Ground,4,Bangladesh
+423,18.2,2,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,92,England,County Ground,4,Bangladesh
+424,18.3,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,92,England,County Ground,4,Bangladesh
+425,18.4,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+426,18.5,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+427,18.6,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+428,19.1,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+429,19.2,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+430,19.3,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+431,19.4,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+432,19.5,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+433,19.6,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,93,England,County Ground,4,Bangladesh
+434,20.1,1,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,94,England,County Ground,4,Bangladesh
+435,20.2,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,94,England,County Ground,4,Bangladesh
+436,20.3,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,95,England,County Ground,4,Bangladesh
+437,20.4,1,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,96,England,County Ground,4,Bangladesh
+438,20.5,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,97,England,County Ground,4,Bangladesh
+439,20.6,1,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,98,England,County Ground,4,Bangladesh
+440,21.1,0,Shafiul Islam,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+441,21.2,0,Shafiul Islam,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+442,21.3,0,Shafiul Islam,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+443,21.4,0,Shafiul Islam,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+444,21.5,0,Shafiul Islam,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+445,21.6,0,Shafiul Islam,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+446,22.1,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+447,22.2,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+448,22.3,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,102,England,County Ground,4,Bangladesh
+449,22.4,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,103,England,County Ground,4,Bangladesh
+450,22.5,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,103,England,County Ground,4,Bangladesh
+451,22.6,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,103,England,County Ground,4,Bangladesh
+452,23.1,3,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,106,England,County Ground,4,Bangladesh
+453,23.2,1,Shakib Al Hasan,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,107,England,County Ground,4,Bangladesh
+454,23.3,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,107,England,County Ground,4,Bangladesh
+455,23.4,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,107,England,County Ground,4,Bangladesh
+456,23.5,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,107,England,County Ground,4,Bangladesh
+457,23.6,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,107,England,County Ground,4,Bangladesh
+458,24.1,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,107,England,County Ground,4,Bangladesh
+459,24.2,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,107,England,County Ground,4,Bangladesh
+460,24.3,2,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,109,England,County Ground,4,Bangladesh
+461,24.4,4,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,113,England,County Ground,4,Bangladesh
+462,24.5,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,113,England,County Ground,4,Bangladesh
+463,24.6,0,Abdur Razzak,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,113,England,County Ground,4,Bangladesh
+464,25.1,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,114,England,County Ground,4,Bangladesh
+465,25.2,0,Shakib Al Hasan,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,114,England,County Ground,4,Bangladesh
+466,25.3,1,Shakib Al Hasan,2010-07-10,2nd,MH Yardy,0,,IJL Trott,0,England,Bangladesh,115,England,County Ground,4,Bangladesh
+467,25.4,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,115,England,County Ground,4,Bangladesh
+468,25.5,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,MH Yardy,0,England,Bangladesh,115,England,County Ground,5,Bangladesh
+469,25.6,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,115,England,County Ground,5,Bangladesh
+470,26.1,1,Abdur Razzak,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,116,England,County Ground,5,Bangladesh
+471,26.2,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,116,England,County Ground,5,Bangladesh
+472,26.3,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,116,England,County Ground,5,Bangladesh
+473,26.4,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,117,England,County Ground,5,Bangladesh
+474,26.5,0,Abdur Razzak,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,117,England,County Ground,5,Bangladesh
+475,26.6,0,Abdur Razzak,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,117,England,County Ground,5,Bangladesh
+476,27.1,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,117,England,County Ground,5,Bangladesh
+477,27.2,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,117,England,County Ground,5,Bangladesh
+478,27.3,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,117,England,County Ground,5,Bangladesh
+479,27.4,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,117,England,County Ground,5,Bangladesh
+480,27.5,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,118,England,County Ground,5,Bangladesh
+481,27.6,1,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,119,England,County Ground,5,Bangladesh
+482,28.1,1,Rubel Hossain,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,120,England,County Ground,5,Bangladesh
+483,28.2,1,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,121,England,County Ground,5,Bangladesh
+484,28.3,0,Rubel Hossain,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,121,England,County Ground,5,Bangladesh
+485,28.4,0,Rubel Hossain,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,121,England,County Ground,5,Bangladesh
+486,28.5,1,Rubel Hossain,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,122,England,County Ground,5,Bangladesh
+487,28.6,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,122,England,County Ground,5,Bangladesh
+488,29.1,0,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,123,England,County Ground,5,Bangladesh
+489,29.2,0,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,124,England,County Ground,5,Bangladesh
+490,29.3,1,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,125,England,County Ground,5,Bangladesh
+491,29.4,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,126,England,County Ground,5,Bangladesh
+492,29.5,0,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,126,England,County Ground,5,Bangladesh
+493,29.6,0,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,126,England,County Ground,5,Bangladesh
+494,29.7,2,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,128,England,County Ground,5,Bangladesh
+495,29.8,1,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,129,England,County Ground,5,Bangladesh
+496,30.1,0,Rubel Hossain,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,129,England,County Ground,5,Bangladesh
+497,30.2,2,Rubel Hossain,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,131,England,County Ground,5,Bangladesh
+498,30.3,0,Rubel Hossain,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,132,England,County Ground,5,Bangladesh
+499,30.4,2,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,134,England,County Ground,5,Bangladesh
+500,30.5,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,134,England,County Ground,5,Bangladesh
+501,30.6,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,134,England,County Ground,5,Bangladesh
+502,31.1,1,Mohammad Ashraful,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,135,England,County Ground,5,Bangladesh
+503,31.2,1,Mohammad Ashraful,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,136,England,County Ground,5,Bangladesh
+504,31.3,0,Mohammad Ashraful,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,136,England,County Ground,5,Bangladesh
+505,31.4,1,Mohammad Ashraful,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,137,England,County Ground,5,Bangladesh
+506,31.5,6,Mohammad Ashraful,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+507,31.6,0,Mohammad Ashraful,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+508,32.1,0,Shafiul Islam,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+509,32.2,0,Shafiul Islam,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+510,32.3,0,Shafiul Islam,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+511,32.4,0,Shafiul Islam,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+512,32.5,0,Shafiul Islam,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+513,32.6,0,Shafiul Islam,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,143,England,County Ground,5,Bangladesh
+514,33.1,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,144,England,County Ground,5,Bangladesh
+515,33.2,0,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,144,England,County Ground,5,Bangladesh
+516,33.3,0,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,144,England,County Ground,5,Bangladesh
+517,33.4,1,Shakib Al Hasan,2010-07-10,2nd,LJ Wright,0,,IJL Trott,0,England,Bangladesh,145,England,County Ground,5,Bangladesh
+518,33.5,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,145,England,County Ground,5,Bangladesh
+519,33.6,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,146,England,County Ground,5,Bangladesh
+520,34.1,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,LJ Wright,0,England,Bangladesh,146,England,County Ground,6,Bangladesh
+521,34.2,1,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,147,England,County Ground,6,Bangladesh
+522,34.3,0,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,147,England,County Ground,6,Bangladesh
+523,34.4,0,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,147,England,County Ground,6,Bangladesh
+524,34.5,0,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,148,England,County Ground,6,Bangladesh
+525,34.6,0,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,148,England,County Ground,6,Bangladesh
+526,34.7,1,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,149,England,County Ground,6,Bangladesh
+527,35.1,0,Shakib Al Hasan,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,149,England,County Ground,6,Bangladesh
+528,35.2,0,Shakib Al Hasan,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,149,England,County Ground,6,Bangladesh
+529,35.3,1,Shakib Al Hasan,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,150,England,County Ground,6,Bangladesh
+530,35.4,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,150,England,County Ground,6,Bangladesh
+531,35.5,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,150,England,County Ground,6,Bangladesh
+532,35.6,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,150,England,County Ground,6,Bangladesh
+533,36.1,0,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,150,England,County Ground,6,Bangladesh
+534,36.2,0,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,150,England,County Ground,6,Bangladesh
+535,36.3,2,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,152,England,County Ground,6,Bangladesh
+536,36.4,0,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,152,England,County Ground,6,Bangladesh
+537,36.5,4,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,156,England,County Ground,6,Bangladesh
+538,36.6,1,Shafiul Islam,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,157,England,County Ground,6,Bangladesh
+539,37.1,0,Shakib Al Hasan,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,157,England,County Ground,6,Bangladesh
+540,37.2,1,Shakib Al Hasan,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,158,England,County Ground,6,Bangladesh
+541,37.3,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,159,England,County Ground,6,Bangladesh
+542,37.4,0,Shakib Al Hasan,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,159,England,County Ground,6,Bangladesh
+543,37.5,1,Shakib Al Hasan,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,160,England,County Ground,6,Bangladesh
+544,37.6,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,161,England,County Ground,6,Bangladesh
+545,38.1,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,162,England,County Ground,6,Bangladesh
+546,38.2,0,Abdur Razzak,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,162,England,County Ground,6,Bangladesh
+547,38.3,0,Abdur Razzak,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,162,England,County Ground,6,Bangladesh
+548,38.4,2,Abdur Razzak,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,164,England,County Ground,6,Bangladesh
+549,38.5,1,Abdur Razzak,2010-07-10,2nd,A Shahzad,0,,IJL Trott,0,England,Bangladesh,165,England,County Ground,6,Bangladesh
+550,38.6,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,166,England,County Ground,6,Bangladesh
+551,39.1,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,A Shahzad,0,England,Bangladesh,166,England,County Ground,7,Bangladesh
+552,39.2,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,167,England,County Ground,7,Bangladesh
+553,39.3,0,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,167,England,County Ground,7,Bangladesh
+554,39.4,0,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,167,England,County Ground,7,Bangladesh
+555,39.5,4,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,171,England,County Ground,7,Bangladesh
+556,39.6,0,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,171,England,County Ground,7,Bangladesh
+557,40.1,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,171,England,County Ground,7,Bangladesh
+558,40.2,1,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,172,England,County Ground,7,Bangladesh
+559,40.3,2,Rubel Hossain,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,174,England,County Ground,7,Bangladesh
+560,40.4,0,Rubel Hossain,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,174,England,County Ground,7,Bangladesh
+561,40.5,1,Rubel Hossain,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,175,England,County Ground,7,Bangladesh
+562,40.6,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,176,England,County Ground,7,Bangladesh
+563,40.7,2,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,178,England,County Ground,7,Bangladesh
+564,41.1,1,Mashrafe Mortaza,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,179,England,County Ground,7,Bangladesh
+565,41.2,1,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,180,England,County Ground,7,Bangladesh
+566,41.3,1,Mashrafe Mortaza,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,181,England,County Ground,7,Bangladesh
+567,41.4,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,181,England,County Ground,7,Bangladesh
+568,41.5,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,181,England,County Ground,7,Bangladesh
+569,41.6,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,181,England,County Ground,7,Bangladesh
+570,42.1,0,Abdur Razzak,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,183,England,County Ground,7,Bangladesh
+571,42.2,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,184,England,County Ground,7,Bangladesh
+572,42.3,0,Abdur Razzak,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,184,England,County Ground,7,Bangladesh
+573,42.4,1,Abdur Razzak,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,185,England,County Ground,7,Bangladesh
+574,42.5,0,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,185,England,County Ground,7,Bangladesh
+575,42.6,1,Abdur Razzak,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,186,England,County Ground,7,Bangladesh
+576,42.7,0,Abdur Razzak,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,186,England,County Ground,7,Bangladesh
+577,43.1,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,187,England,County Ground,7,Bangladesh
+578,43.2,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,187,England,County Ground,7,Bangladesh
+579,43.3,4,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,191,England,County Ground,7,Bangladesh
+580,43.4,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,191,England,County Ground,7,Bangladesh
+581,43.5,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,191,England,County Ground,7,Bangladesh
+582,43.6,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,191,England,County Ground,7,Bangladesh
+583,43.7,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,192,England,County Ground,7,Bangladesh
+584,44.1,1,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,193,England,County Ground,7,Bangladesh
+585,44.2,1,Rubel Hossain,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,194,England,County Ground,7,Bangladesh
+586,44.3,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,194,England,County Ground,7,Bangladesh
+587,44.4,6,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,200,England,County Ground,7,Bangladesh
+588,44.5,0,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,200,England,County Ground,7,Bangladesh
+589,44.6,1,Rubel Hossain,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,201,England,County Ground,7,Bangladesh
+590,45.1,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,202,England,County Ground,7,Bangladesh
+591,45.2,0,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,202,England,County Ground,7,Bangladesh
+592,45.3,4,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,206,England,County Ground,7,Bangladesh
+593,45.4,0,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,206,England,County Ground,7,Bangladesh
+594,45.5,1,Shakib Al Hasan,2010-07-10,2nd,SCJ Broad,0,,IJL Trott,0,England,Bangladesh,207,England,County Ground,7,Bangladesh
+595,45.6,0,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,208,England,County Ground,7,Bangladesh
+596,45.7,1,Shakib Al Hasan,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,209,England,County Ground,7,Bangladesh
+597,46.1,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,SCJ Broad,0,England,Bangladesh,209,England,County Ground,8,Bangladesh
+598,46.2,1,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,JM Anderson,0,England,Bangladesh,210,England,County Ground,8,Bangladesh
+599,46.3,1,Mashrafe Mortaza,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,211,England,County Ground,8,Bangladesh
+600,46.4,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,JM Anderson,0,England,Bangladesh,211,England,County Ground,8,Bangladesh
+601,46.5,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,JM Anderson,0,England,Bangladesh,211,England,County Ground,8,Bangladesh
+602,46.6,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,JM Anderson,0,England,Bangladesh,211,England,County Ground,8,Bangladesh
+603,47.1,1,Shafiul Islam,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,212,England,County Ground,8,Bangladesh
+604,47.2,0,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,JM Anderson,0,England,Bangladesh,212,England,County Ground,8,Bangladesh
+605,47.3,1,Shafiul Islam,2010-07-10,2nd,IJL Trott,0,,JM Anderson,0,England,Bangladesh,213,England,County Ground,8,Bangladesh
+606,47.4,0,Shafiul Islam,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,213,England,County Ground,8,Bangladesh
+607,47.5,0,Shafiul Islam,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,213,England,County Ground,8,Bangladesh
+608,47.6,1,Shafiul Islam,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,214,England,County Ground,8,Bangladesh
+609,48.1,2,Mashrafe Mortaza,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,216,England,County Ground,8,Bangladesh
+610,48.2,4,Mashrafe Mortaza,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,220,England,County Ground,8,Bangladesh
+611,48.3,4,Mashrafe Mortaza,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,224,England,County Ground,8,Bangladesh
+612,48.4,2,Mashrafe Mortaza,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,226,England,County Ground,8,Bangladesh
+613,48.5,1,Mashrafe Mortaza,2010-07-10,2nd,JM Anderson,0,,IJL Trott,0,England,Bangladesh,227,England,County Ground,8,Bangladesh
+614,48.6,0,Mashrafe Mortaza,2010-07-10,2nd,IJL Trott,0,,JM Anderson,0,England,Bangladesh,227,England,County Ground,9,Bangladesh
+615,49.1,2,Shafiul Islam,2010-07-10,2nd,IR Bell,0,,IJL Trott,0,England,Bangladesh,229,England,County Ground,9,Bangladesh
+616,49.2,2,Shafiul Islam,2010-07-10,2nd,IR Bell,0,,IJL Trott,0,England,Bangladesh,231,England,County Ground,9,Bangladesh
+617,49.3,0,Shafiul Islam,2010-07-10,2nd,IR Bell,0,,IJL Trott,0,England,Bangladesh,231,England,County Ground,10,Bangladesh

@@ -1,0 +1,617 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,SM Pollock,2007-11-25,1st,BB McCullum,0,,L Vincent,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+1,0.2,0,SM Pollock,2007-11-25,1st,BB McCullum,0,,L Vincent,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+2,0.3,0,SM Pollock,2007-11-25,1st,BB McCullum,0,,L Vincent,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+3,0.4,0,SM Pollock,2007-11-25,1st,BB McCullum,0,,L Vincent,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+4,0.5,0,SM Pollock,2007-11-25,1st,BB McCullum,0,,L Vincent,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+5,0.6,0,SM Pollock,2007-11-25,1st,BB McCullum,0,,L Vincent,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+6,1.1,1,M Ntini,2007-11-25,1st,L Vincent,0,,BB McCullum,1,South Africa,New Zealand,1,South Africa,Kingsmead,0,South Africa
+7,1.2,0,M Ntini,2007-11-25,1st,BB McCullum,1,,L Vincent,0,South Africa,New Zealand,2,South Africa,Kingsmead,0,South Africa
+8,1.3,0,M Ntini,2007-11-25,1st,BB McCullum,1,,L Vincent,0,South Africa,New Zealand,2,South Africa,Kingsmead,0,South Africa
+9,1.4,0,M Ntini,2007-11-25,1st,BB McCullum,1,,L Vincent,0,South Africa,New Zealand,2,South Africa,Kingsmead,0,South Africa
+10,1.5,0,M Ntini,2007-11-25,1st,BB McCullum,1,,L Vincent,0,South Africa,New Zealand,3,South Africa,Kingsmead,0,South Africa
+11,1.6,0,M Ntini,2007-11-25,1st,L Vincent,0,,BB McCullum,1,South Africa,New Zealand,3,South Africa,Kingsmead,0,South Africa
+12,1.7,3,M Ntini,2007-11-25,1st,L Vincent,0,,BB McCullum,4,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+13,2.1,0,SM Pollock,2007-11-25,1st,L Vincent,0,,BB McCullum,4,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+14,2.2,0,SM Pollock,2007-11-25,1st,L Vincent,0,,BB McCullum,4,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+15,2.3,0,SM Pollock,2007-11-25,1st,L Vincent,0,,BB McCullum,4,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+16,2.4,0,SM Pollock,2007-11-25,1st,L Vincent,0,,BB McCullum,4,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+17,2.5,0,SM Pollock,2007-11-25,1st,L Vincent,0,,BB McCullum,4,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+18,2.6,0,SM Pollock,2007-11-25,1st,L Vincent,0,,BB McCullum,4,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+19,3.1,0,M Ntini,2007-11-25,1st,BB McCullum,4,,L Vincent,0,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+20,3.2,0,M Ntini,2007-11-25,1st,BB McCullum,4,,L Vincent,0,South Africa,New Zealand,6,South Africa,Kingsmead,0,South Africa
+21,3.3,6,M Ntini,2007-11-25,1st,BB McCullum,4,,L Vincent,6,South Africa,New Zealand,12,South Africa,Kingsmead,0,South Africa
+22,3.4,0,M Ntini,2007-11-25,1st,BB McCullum,4,L Vincent,L Vincent,6,South Africa,New Zealand,12,South Africa,Kingsmead,1,South Africa
+23,3.5,0,M Ntini,2007-11-25,1st,BB McCullum,4,,JM How,0,South Africa,New Zealand,12,South Africa,Kingsmead,1,South Africa
+24,3.6,0,M Ntini,2007-11-25,1st,BB McCullum,4,,JM How,0,South Africa,New Zealand,12,South Africa,Kingsmead,1,South Africa
+25,4.1,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,Kingsmead,1,South Africa
+26,4.2,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,Kingsmead,1,South Africa
+27,4.3,1,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,5,South Africa,New Zealand,13,South Africa,Kingsmead,1,South Africa
+28,4.4,0,SM Pollock,2007-11-25,1st,BB McCullum,5,,JM How,0,South Africa,New Zealand,13,South Africa,Kingsmead,1,South Africa
+29,4.5,0,SM Pollock,2007-11-25,1st,BB McCullum,5,,JM How,0,South Africa,New Zealand,13,South Africa,Kingsmead,1,South Africa
+30,4.6,0,SM Pollock,2007-11-25,1st,BB McCullum,5,,JM How,0,South Africa,New Zealand,13,South Africa,Kingsmead,1,South Africa
+31,5.1,4,M Ntini,2007-11-25,1st,JM How,0,,BB McCullum,9,South Africa,New Zealand,17,South Africa,Kingsmead,1,South Africa
+32,5.2,0,M Ntini,2007-11-25,1st,JM How,0,,BB McCullum,9,South Africa,New Zealand,17,South Africa,Kingsmead,1,South Africa
+33,5.3,0,M Ntini,2007-11-25,1st,JM How,0,,BB McCullum,9,South Africa,New Zealand,17,South Africa,Kingsmead,1,South Africa
+34,5.4,1,M Ntini,2007-11-25,1st,JM How,0,,BB McCullum,10,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+35,5.5,0,M Ntini,2007-11-25,1st,BB McCullum,10,,JM How,0,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+36,5.6,0,M Ntini,2007-11-25,1st,BB McCullum,10,,JM How,0,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+37,6.1,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,10,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+38,6.2,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,10,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+39,6.3,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,10,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+40,6.4,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,10,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+41,6.5,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,10,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+42,6.6,0,SM Pollock,2007-11-25,1st,JM How,0,,BB McCullum,10,South Africa,New Zealand,18,South Africa,Kingsmead,1,South Africa
+43,7.1,0,A Nel,2007-11-25,1st,BB McCullum,10,,JM How,0,South Africa,New Zealand,19,South Africa,Kingsmead,1,South Africa
+44,7.2,0,A Nel,2007-11-25,1st,BB McCullum,10,,JM How,0,South Africa,New Zealand,19,South Africa,Kingsmead,1,South Africa
+45,7.3,0,A Nel,2007-11-25,1st,BB McCullum,10,,JM How,0,South Africa,New Zealand,19,South Africa,Kingsmead,1,South Africa
+46,7.4,0,A Nel,2007-11-25,1st,BB McCullum,10,,JM How,0,South Africa,New Zealand,19,South Africa,Kingsmead,1,South Africa
+47,7.5,0,A Nel,2007-11-25,1st,BB McCullum,10,,JM How,0,South Africa,New Zealand,19,South Africa,Kingsmead,1,South Africa
+48,7.6,4,A Nel,2007-11-25,1st,BB McCullum,10,,JM How,4,South Africa,New Zealand,23,South Africa,Kingsmead,1,South Africa
+49,7.7,1,A Nel,2007-11-25,1st,BB McCullum,10,,JM How,5,South Africa,New Zealand,24,South Africa,Kingsmead,1,South Africa
+50,8.1,1,SM Pollock,2007-11-25,1st,BB McCullum,10,,JM How,6,South Africa,New Zealand,25,South Africa,Kingsmead,1,South Africa
+51,8.2,0,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,10,South Africa,New Zealand,25,South Africa,Kingsmead,1,South Africa
+52,8.3,0,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,10,South Africa,New Zealand,25,South Africa,Kingsmead,1,South Africa
+53,8.4,0,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,10,South Africa,New Zealand,25,South Africa,Kingsmead,1,South Africa
+54,8.5,4,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,14,South Africa,New Zealand,29,South Africa,Kingsmead,1,South Africa
+55,8.6,1,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,15,South Africa,New Zealand,30,South Africa,Kingsmead,1,South Africa
+56,9.1,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,15,South Africa,New Zealand,30,South Africa,Kingsmead,1,South Africa
+57,9.2,2,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,17,South Africa,New Zealand,32,South Africa,Kingsmead,1,South Africa
+58,9.3,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,17,South Africa,New Zealand,32,South Africa,Kingsmead,1,South Africa
+59,9.4,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,17,South Africa,New Zealand,32,South Africa,Kingsmead,1,South Africa
+60,9.5,1,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,18,South Africa,New Zealand,33,South Africa,Kingsmead,1,South Africa
+61,9.6,0,A Nel,2007-11-25,1st,BB McCullum,18,,JM How,6,South Africa,New Zealand,33,South Africa,Kingsmead,1,South Africa
+62,10.1,0,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,18,South Africa,New Zealand,33,South Africa,Kingsmead,1,South Africa
+63,10.2,0,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,18,South Africa,New Zealand,33,South Africa,Kingsmead,1,South Africa
+64,10.3,0,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,18,South Africa,New Zealand,33,South Africa,Kingsmead,1,South Africa
+65,10.4,1,SM Pollock,2007-11-25,1st,JM How,6,,BB McCullum,19,South Africa,New Zealand,34,South Africa,Kingsmead,1,South Africa
+66,10.5,0,SM Pollock,2007-11-25,1st,BB McCullum,19,,JM How,6,South Africa,New Zealand,34,South Africa,Kingsmead,1,South Africa
+67,10.6,0,SM Pollock,2007-11-25,1st,BB McCullum,19,,JM How,6,South Africa,New Zealand,34,South Africa,Kingsmead,1,South Africa
+68,11.1,1,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,20,South Africa,New Zealand,35,South Africa,Kingsmead,1,South Africa
+69,11.2,0,A Nel,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,35,South Africa,Kingsmead,1,South Africa
+70,11.3,0,A Nel,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,35,South Africa,Kingsmead,1,South Africa
+71,11.4,0,A Nel,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,36,South Africa,Kingsmead,1,South Africa
+72,11.5,0,A Nel,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+73,11.6,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,20,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+74,11.7,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,20,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+75,12.1,0,SM Pollock,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+76,12.2,0,SM Pollock,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+77,12.3,0,SM Pollock,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+78,12.4,0,SM Pollock,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+79,12.5,0,SM Pollock,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+80,12.6,0,SM Pollock,2007-11-25,1st,BB McCullum,20,,JM How,6,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+81,13.1,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,20,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+82,13.2,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,20,South Africa,New Zealand,37,South Africa,Kingsmead,1,South Africa
+83,13.3,0,A Nel,2007-11-25,1st,JM How,6,,BB McCullum,20,South Africa,New Zealand,38,South Africa,Kingsmead,1,South Africa
+84,13.4,2,A Nel,2007-11-25,1st,BB McCullum,20,,JM How,8,South Africa,New Zealand,40,South Africa,Kingsmead,1,South Africa
+85,13.5,0,A Nel,2007-11-25,1st,BB McCullum,20,,JM How,8,South Africa,New Zealand,40,South Africa,Kingsmead,1,South Africa
+86,13.6,0,A Nel,2007-11-25,1st,BB McCullum,20,,JM How,8,South Africa,New Zealand,40,South Africa,Kingsmead,1,South Africa
+87,14.1,0,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,20,South Africa,New Zealand,40,South Africa,Kingsmead,1,South Africa
+88,14.2,4,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,24,South Africa,New Zealand,44,South Africa,Kingsmead,1,South Africa
+89,14.3,0,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,24,South Africa,New Zealand,44,South Africa,Kingsmead,1,South Africa
+90,14.4,0,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,24,South Africa,New Zealand,44,South Africa,Kingsmead,1,South Africa
+91,14.5,1,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,25,South Africa,New Zealand,45,South Africa,Kingsmead,1,South Africa
+92,14.6,0,M Ntini,2007-11-25,1st,BB McCullum,25,,JM How,8,South Africa,New Zealand,45,South Africa,Kingsmead,1,South Africa
+93,15.1,4,A Nel,2007-11-25,1st,JM How,8,,BB McCullum,29,South Africa,New Zealand,49,South Africa,Kingsmead,1,South Africa
+94,15.2,0,A Nel,2007-11-25,1st,JM How,8,,BB McCullum,29,South Africa,New Zealand,49,South Africa,Kingsmead,1,South Africa
+95,15.3,0,A Nel,2007-11-25,1st,JM How,8,,BB McCullum,29,South Africa,New Zealand,49,South Africa,Kingsmead,1,South Africa
+96,15.4,0,A Nel,2007-11-25,1st,JM How,8,,BB McCullum,29,South Africa,New Zealand,49,South Africa,Kingsmead,1,South Africa
+97,15.5,0,A Nel,2007-11-25,1st,JM How,8,,BB McCullum,29,South Africa,New Zealand,49,South Africa,Kingsmead,1,South Africa
+98,15.6,1,A Nel,2007-11-25,1st,JM How,8,,BB McCullum,30,South Africa,New Zealand,50,South Africa,Kingsmead,1,South Africa
+99,16.1,1,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,31,South Africa,New Zealand,51,South Africa,Kingsmead,1,South Africa
+100,16.2,0,M Ntini,2007-11-25,1st,BB McCullum,31,,JM How,8,South Africa,New Zealand,52,South Africa,Kingsmead,1,South Africa
+101,16.3,0,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,31,South Africa,New Zealand,52,South Africa,Kingsmead,1,South Africa
+102,16.4,1,M Ntini,2007-11-25,1st,JM How,8,,BB McCullum,32,South Africa,New Zealand,53,South Africa,Kingsmead,1,South Africa
+103,16.5,0,M Ntini,2007-11-25,1st,BB McCullum,32,,JM How,8,South Africa,New Zealand,53,South Africa,Kingsmead,1,South Africa
+104,16.6,0,M Ntini,2007-11-25,1st,BB McCullum,32,,JM How,8,South Africa,New Zealand,53,South Africa,Kingsmead,1,South Africa
+105,17.1,1,JA Morkel,2007-11-25,1st,JM How,8,,BB McCullum,33,South Africa,New Zealand,54,South Africa,Kingsmead,1,South Africa
+106,17.2,0,JA Morkel,2007-11-25,1st,BB McCullum,33,,JM How,8,South Africa,New Zealand,54,South Africa,Kingsmead,1,South Africa
+107,17.3,0,JA Morkel,2007-11-25,1st,BB McCullum,33,,JM How,8,South Africa,New Zealand,54,South Africa,Kingsmead,1,South Africa
+108,17.4,4,JA Morkel,2007-11-25,1st,BB McCullum,33,,JM How,12,South Africa,New Zealand,58,South Africa,Kingsmead,1,South Africa
+109,17.5,4,JA Morkel,2007-11-25,1st,BB McCullum,33,,JM How,16,South Africa,New Zealand,62,South Africa,Kingsmead,1,South Africa
+110,17.6,0,JA Morkel,2007-11-25,1st,BB McCullum,33,,JM How,16,South Africa,New Zealand,62,South Africa,Kingsmead,1,South Africa
+111,18.1,3,M Ntini,2007-11-25,1st,JM How,16,,BB McCullum,36,South Africa,New Zealand,65,South Africa,Kingsmead,1,South Africa
+112,18.2,0,M Ntini,2007-11-25,1st,BB McCullum,36,,JM How,16,South Africa,New Zealand,65,South Africa,Kingsmead,1,South Africa
+113,18.3,0,M Ntini,2007-11-25,1st,BB McCullum,36,,JM How,16,South Africa,New Zealand,65,South Africa,Kingsmead,1,South Africa
+114,18.4,0,M Ntini,2007-11-25,1st,BB McCullum,36,,JM How,16,South Africa,New Zealand,65,South Africa,Kingsmead,1,South Africa
+115,18.5,0,M Ntini,2007-11-25,1st,BB McCullum,36,,JM How,16,South Africa,New Zealand,65,South Africa,Kingsmead,1,South Africa
+116,18.6,4,M Ntini,2007-11-25,1st,BB McCullum,36,,JM How,20,South Africa,New Zealand,69,South Africa,Kingsmead,1,South Africa
+117,19.1,1,JA Morkel,2007-11-25,1st,JM How,20,,BB McCullum,37,South Africa,New Zealand,70,South Africa,Kingsmead,1,South Africa
+118,19.2,0,JA Morkel,2007-11-25,1st,BB McCullum,37,,JM How,20,South Africa,New Zealand,70,South Africa,Kingsmead,1,South Africa
+119,19.3,4,JA Morkel,2007-11-25,1st,BB McCullum,37,,JM How,24,South Africa,New Zealand,74,South Africa,Kingsmead,1,South Africa
+120,19.4,2,JA Morkel,2007-11-25,1st,BB McCullum,37,,JM How,26,South Africa,New Zealand,76,South Africa,Kingsmead,1,South Africa
+121,19.5,0,JA Morkel,2007-11-25,1st,BB McCullum,37,,JM How,26,South Africa,New Zealand,76,South Africa,Kingsmead,1,South Africa
+122,19.6,1,JA Morkel,2007-11-25,1st,BB McCullum,37,,JM How,27,South Africa,New Zealand,77,South Africa,Kingsmead,1,South Africa
+123,20.1,1,J Botha,2007-11-25,1st,BB McCullum,37,,JM How,28,South Africa,New Zealand,78,South Africa,Kingsmead,1,South Africa
+124,20.2,0,J Botha,2007-11-25,1st,JM How,28,,BB McCullum,37,South Africa,New Zealand,78,South Africa,Kingsmead,1,South Africa
+125,20.3,0,J Botha,2007-11-25,1st,JM How,28,,BB McCullum,37,South Africa,New Zealand,78,South Africa,Kingsmead,1,South Africa
+126,20.4,1,J Botha,2007-11-25,1st,JM How,28,,BB McCullum,38,South Africa,New Zealand,79,South Africa,Kingsmead,1,South Africa
+127,20.5,2,J Botha,2007-11-25,1st,BB McCullum,38,,JM How,30,South Africa,New Zealand,81,South Africa,Kingsmead,1,South Africa
+128,20.6,0,J Botha,2007-11-25,1st,BB McCullum,38,,JM How,30,South Africa,New Zealand,81,South Africa,Kingsmead,1,South Africa
+129,21.1,0,JA Morkel,2007-11-25,1st,JM How,30,,BB McCullum,38,South Africa,New Zealand,81,South Africa,Kingsmead,1,South Africa
+130,21.2,1,JA Morkel,2007-11-25,1st,JM How,30,,BB McCullum,39,South Africa,New Zealand,82,South Africa,Kingsmead,1,South Africa
+131,21.3,0,JA Morkel,2007-11-25,1st,BB McCullum,39,,JM How,30,South Africa,New Zealand,82,South Africa,Kingsmead,1,South Africa
+132,21.4,0,JA Morkel,2007-11-25,1st,BB McCullum,39,,JM How,30,South Africa,New Zealand,82,South Africa,Kingsmead,1,South Africa
+133,21.5,0,JA Morkel,2007-11-25,1st,BB McCullum,39,,JM How,30,South Africa,New Zealand,82,South Africa,Kingsmead,1,South Africa
+134,21.6,0,JA Morkel,2007-11-25,1st,BB McCullum,39,,JM How,30,South Africa,New Zealand,82,South Africa,Kingsmead,1,South Africa
+135,22.1,1,J Botha,2007-11-25,1st,JM How,30,,BB McCullum,40,South Africa,New Zealand,83,South Africa,Kingsmead,1,South Africa
+136,22.2,1,J Botha,2007-11-25,1st,BB McCullum,40,,JM How,31,South Africa,New Zealand,84,South Africa,Kingsmead,1,South Africa
+137,22.3,0,J Botha,2007-11-25,1st,JM How,31,,BB McCullum,40,South Africa,New Zealand,84,South Africa,Kingsmead,1,South Africa
+138,22.4,0,J Botha,2007-11-25,1st,JM How,31,BB McCullum,BB McCullum,40,South Africa,New Zealand,84,South Africa,Kingsmead,2,South Africa
+139,22.5,1,J Botha,2007-11-25,1st,JM How,31,,SB Styris,1,South Africa,New Zealand,85,South Africa,Kingsmead,2,South Africa
+140,22.6,0,J Botha,2007-11-25,1st,SB Styris,1,,JM How,31,South Africa,New Zealand,85,South Africa,Kingsmead,2,South Africa
+141,23.1,0,JA Morkel,2007-11-25,1st,JM How,31,,SB Styris,1,South Africa,New Zealand,85,South Africa,Kingsmead,2,South Africa
+142,23.2,1,JA Morkel,2007-11-25,1st,JM How,31,,SB Styris,2,South Africa,New Zealand,86,South Africa,Kingsmead,2,South Africa
+143,23.3,0,JA Morkel,2007-11-25,1st,SB Styris,2,,JM How,31,South Africa,New Zealand,86,South Africa,Kingsmead,2,South Africa
+144,23.4,0,JA Morkel,2007-11-25,1st,SB Styris,2,,JM How,31,South Africa,New Zealand,86,South Africa,Kingsmead,2,South Africa
+145,23.5,0,JA Morkel,2007-11-25,1st,SB Styris,2,,JM How,31,South Africa,New Zealand,86,South Africa,Kingsmead,2,South Africa
+146,23.6,0,JA Morkel,2007-11-25,1st,SB Styris,2,,JM How,31,South Africa,New Zealand,86,South Africa,Kingsmead,2,South Africa
+147,24.1,1,J Botha,2007-11-25,1st,JM How,31,,SB Styris,3,South Africa,New Zealand,87,South Africa,Kingsmead,2,South Africa
+148,24.2,0,J Botha,2007-11-25,1st,SB Styris,3,,JM How,31,South Africa,New Zealand,87,South Africa,Kingsmead,2,South Africa
+149,24.3,0,J Botha,2007-11-25,1st,SB Styris,3,,JM How,31,South Africa,New Zealand,87,South Africa,Kingsmead,2,South Africa
+150,24.4,1,J Botha,2007-11-25,1st,SB Styris,3,,JM How,32,South Africa,New Zealand,88,South Africa,Kingsmead,2,South Africa
+151,24.5,1,J Botha,2007-11-25,1st,JM How,32,,SB Styris,4,South Africa,New Zealand,89,South Africa,Kingsmead,2,South Africa
+152,24.6,0,J Botha,2007-11-25,1st,SB Styris,4,,JM How,32,South Africa,New Zealand,89,South Africa,Kingsmead,2,South Africa
+153,25.1,1,JA Morkel,2007-11-25,1st,JM How,32,,SB Styris,5,South Africa,New Zealand,90,South Africa,Kingsmead,2,South Africa
+154,25.2,0,JA Morkel,2007-11-25,1st,SB Styris,5,,JM How,32,South Africa,New Zealand,90,South Africa,Kingsmead,2,South Africa
+155,25.3,1,JA Morkel,2007-11-25,1st,SB Styris,5,,JM How,33,South Africa,New Zealand,91,South Africa,Kingsmead,2,South Africa
+156,25.4,1,JA Morkel,2007-11-25,1st,JM How,33,,SB Styris,6,South Africa,New Zealand,92,South Africa,Kingsmead,2,South Africa
+157,25.5,1,JA Morkel,2007-11-25,1st,SB Styris,6,,JM How,34,South Africa,New Zealand,93,South Africa,Kingsmead,2,South Africa
+158,25.6,1,JA Morkel,2007-11-25,1st,JM How,34,,SB Styris,7,South Africa,New Zealand,94,South Africa,Kingsmead,2,South Africa
+159,26.1,1,J Botha,2007-11-25,1st,JM How,34,,SB Styris,8,South Africa,New Zealand,95,South Africa,Kingsmead,2,South Africa
+160,26.2,0,J Botha,2007-11-25,1st,SB Styris,8,,JM How,34,South Africa,New Zealand,95,South Africa,Kingsmead,2,South Africa
+161,26.3,0,J Botha,2007-11-25,1st,SB Styris,8,,JM How,34,South Africa,New Zealand,95,South Africa,Kingsmead,2,South Africa
+162,26.4,0,J Botha,2007-11-25,1st,SB Styris,8,,JM How,34,South Africa,New Zealand,95,South Africa,Kingsmead,2,South Africa
+163,26.5,1,J Botha,2007-11-25,1st,SB Styris,8,,JM How,35,South Africa,New Zealand,96,South Africa,Kingsmead,2,South Africa
+164,26.6,0,J Botha,2007-11-25,1st,JM How,35,,SB Styris,8,South Africa,New Zealand,96,South Africa,Kingsmead,2,South Africa
+165,27.1,4,JA Morkel,2007-11-25,1st,SB Styris,8,,JM How,39,South Africa,New Zealand,100,South Africa,Kingsmead,2,South Africa
+166,27.2,0,JA Morkel,2007-11-25,1st,SB Styris,8,,JM How,39,South Africa,New Zealand,100,South Africa,Kingsmead,2,South Africa
+167,27.3,4,JA Morkel,2007-11-25,1st,SB Styris,8,,JM How,43,South Africa,New Zealand,104,South Africa,Kingsmead,2,South Africa
+168,27.4,0,JA Morkel,2007-11-25,1st,SB Styris,8,,JM How,43,South Africa,New Zealand,104,South Africa,Kingsmead,2,South Africa
+169,27.5,2,JA Morkel,2007-11-25,1st,SB Styris,8,,JM How,45,South Africa,New Zealand,106,South Africa,Kingsmead,2,South Africa
+170,27.6,4,JA Morkel,2007-11-25,1st,SB Styris,8,,JM How,49,South Africa,New Zealand,110,South Africa,Kingsmead,2,South Africa
+171,28.1,1,J Botha,2007-11-25,1st,JM How,49,,SB Styris,9,South Africa,New Zealand,111,South Africa,Kingsmead,2,South Africa
+172,28.2,0,J Botha,2007-11-25,1st,SB Styris,9,,JM How,49,South Africa,New Zealand,111,South Africa,Kingsmead,2,South Africa
+173,28.3,0,J Botha,2007-11-25,1st,SB Styris,9,,JM How,49,South Africa,New Zealand,111,South Africa,Kingsmead,2,South Africa
+174,28.4,1,J Botha,2007-11-25,1st,SB Styris,9,,JM How,50,South Africa,New Zealand,112,South Africa,Kingsmead,2,South Africa
+175,28.5,0,J Botha,2007-11-25,1st,JM How,50,,SB Styris,9,South Africa,New Zealand,112,South Africa,Kingsmead,2,South Africa
+176,28.6,1,J Botha,2007-11-25,1st,JM How,50,,SB Styris,10,South Africa,New Zealand,113,South Africa,Kingsmead,2,South Africa
+177,29.1,0,JP Duminy,2007-11-25,1st,JM How,50,,SB Styris,10,South Africa,New Zealand,113,South Africa,Kingsmead,2,South Africa
+178,29.2,1,JP Duminy,2007-11-25,1st,JM How,50,,SB Styris,11,South Africa,New Zealand,114,South Africa,Kingsmead,2,South Africa
+179,29.3,1,JP Duminy,2007-11-25,1st,SB Styris,11,,JM How,51,South Africa,New Zealand,115,South Africa,Kingsmead,2,South Africa
+180,29.4,1,JP Duminy,2007-11-25,1st,JM How,51,,SB Styris,12,South Africa,New Zealand,116,South Africa,Kingsmead,2,South Africa
+181,29.5,1,JP Duminy,2007-11-25,1st,SB Styris,12,,JM How,52,South Africa,New Zealand,117,South Africa,Kingsmead,2,South Africa
+182,29.6,1,JP Duminy,2007-11-25,1st,JM How,52,,SB Styris,13,South Africa,New Zealand,118,South Africa,Kingsmead,2,South Africa
+183,30.1,1,J Botha,2007-11-25,1st,JM How,52,,SB Styris,14,South Africa,New Zealand,119,South Africa,Kingsmead,2,South Africa
+184,30.2,1,J Botha,2007-11-25,1st,SB Styris,14,,JM How,53,South Africa,New Zealand,120,South Africa,Kingsmead,2,South Africa
+185,30.3,0,J Botha,2007-11-25,1st,JM How,53,,SB Styris,14,South Africa,New Zealand,120,South Africa,Kingsmead,2,South Africa
+186,30.4,0,J Botha,2007-11-25,1st,JM How,53,,SB Styris,14,South Africa,New Zealand,120,South Africa,Kingsmead,2,South Africa
+187,30.5,1,J Botha,2007-11-25,1st,JM How,53,,SB Styris,15,South Africa,New Zealand,121,South Africa,Kingsmead,2,South Africa
+188,30.6,0,J Botha,2007-11-25,1st,SB Styris,15,,JM How,53,South Africa,New Zealand,121,South Africa,Kingsmead,2,South Africa
+189,31.1,1,JP Duminy,2007-11-25,1st,JM How,53,,SB Styris,16,South Africa,New Zealand,122,South Africa,Kingsmead,2,South Africa
+190,31.2,1,JP Duminy,2007-11-25,1st,SB Styris,16,,JM How,54,South Africa,New Zealand,123,South Africa,Kingsmead,2,South Africa
+191,31.3,2,JP Duminy,2007-11-25,1st,JM How,54,,SB Styris,18,South Africa,New Zealand,125,South Africa,Kingsmead,2,South Africa
+192,31.4,4,JP Duminy,2007-11-25,1st,JM How,54,,SB Styris,22,South Africa,New Zealand,129,South Africa,Kingsmead,2,South Africa
+193,31.5,2,JP Duminy,2007-11-25,1st,JM How,54,,SB Styris,24,South Africa,New Zealand,131,South Africa,Kingsmead,2,South Africa
+194,31.6,1,JP Duminy,2007-11-25,1st,JM How,54,,SB Styris,25,South Africa,New Zealand,132,South Africa,Kingsmead,2,South Africa
+195,32.1,1,J Botha,2007-11-25,1st,JM How,54,,SB Styris,26,South Africa,New Zealand,133,South Africa,Kingsmead,2,South Africa
+196,32.2,0,J Botha,2007-11-25,1st,SB Styris,26,,JM How,54,South Africa,New Zealand,133,South Africa,Kingsmead,2,South Africa
+197,32.3,0,J Botha,2007-11-25,1st,SB Styris,26,,JM How,54,South Africa,New Zealand,133,South Africa,Kingsmead,2,South Africa
+198,32.4,1,J Botha,2007-11-25,1st,SB Styris,26,,JM How,55,South Africa,New Zealand,134,South Africa,Kingsmead,2,South Africa
+199,32.5,1,J Botha,2007-11-25,1st,JM How,55,,SB Styris,27,South Africa,New Zealand,135,South Africa,Kingsmead,2,South Africa
+200,32.6,1,J Botha,2007-11-25,1st,SB Styris,27,,JM How,56,South Africa,New Zealand,136,South Africa,Kingsmead,2,South Africa
+201,33.1,0,A Nel,2007-11-25,1st,SB Styris,27,,JM How,56,South Africa,New Zealand,136,South Africa,Kingsmead,2,South Africa
+202,33.2,0,A Nel,2007-11-25,1st,SB Styris,27,,JM How,56,South Africa,New Zealand,136,South Africa,Kingsmead,2,South Africa
+203,33.3,4,A Nel,2007-11-25,1st,SB Styris,27,,JM How,60,South Africa,New Zealand,140,South Africa,Kingsmead,2,South Africa
+204,33.4,0,A Nel,2007-11-25,1st,SB Styris,27,,JM How,60,South Africa,New Zealand,140,South Africa,Kingsmead,2,South Africa
+205,33.5,1,A Nel,2007-11-25,1st,SB Styris,27,,JM How,61,South Africa,New Zealand,141,South Africa,Kingsmead,2,South Africa
+206,33.6,1,A Nel,2007-11-25,1st,JM How,61,,SB Styris,28,South Africa,New Zealand,142,South Africa,Kingsmead,2,South Africa
+207,34.1,2,SM Pollock,2007-11-25,1st,JM How,61,,SB Styris,30,South Africa,New Zealand,144,South Africa,Kingsmead,2,South Africa
+208,34.2,2,SM Pollock,2007-11-25,1st,JM How,61,,SB Styris,32,South Africa,New Zealand,146,South Africa,Kingsmead,2,South Africa
+209,34.3,0,SM Pollock,2007-11-25,1st,JM How,61,,SB Styris,32,South Africa,New Zealand,146,South Africa,Kingsmead,2,South Africa
+210,34.4,0,SM Pollock,2007-11-25,1st,JM How,61,,SB Styris,32,South Africa,New Zealand,146,South Africa,Kingsmead,2,South Africa
+211,34.5,0,SM Pollock,2007-11-25,1st,JM How,61,,SB Styris,32,South Africa,New Zealand,146,South Africa,Kingsmead,2,South Africa
+212,34.6,1,SM Pollock,2007-11-25,1st,JM How,61,,SB Styris,33,South Africa,New Zealand,147,South Africa,Kingsmead,2,South Africa
+213,35.1,0,A Nel,2007-11-25,1st,JM How,61,,SB Styris,33,South Africa,New Zealand,147,South Africa,Kingsmead,2,South Africa
+214,35.2,1,A Nel,2007-11-25,1st,JM How,61,,SB Styris,34,South Africa,New Zealand,148,South Africa,Kingsmead,2,South Africa
+215,35.3,1,A Nel,2007-11-25,1st,SB Styris,34,,JM How,62,South Africa,New Zealand,149,South Africa,Kingsmead,2,South Africa
+216,35.4,1,A Nel,2007-11-25,1st,JM How,62,,SB Styris,35,South Africa,New Zealand,150,South Africa,Kingsmead,2,South Africa
+217,35.5,3,A Nel,2007-11-25,1st,SB Styris,35,,JM How,65,South Africa,New Zealand,153,South Africa,Kingsmead,2,South Africa
+218,35.6,1,A Nel,2007-11-25,1st,JM How,65,,SB Styris,36,South Africa,New Zealand,154,South Africa,Kingsmead,2,South Africa
+219,36.1,2,SM Pollock,2007-11-25,1st,JM How,65,,SB Styris,38,South Africa,New Zealand,156,South Africa,Kingsmead,2,South Africa
+220,36.2,1,SM Pollock,2007-11-25,1st,JM How,65,,SB Styris,39,South Africa,New Zealand,157,South Africa,Kingsmead,2,South Africa
+221,36.3,1,SM Pollock,2007-11-25,1st,SB Styris,39,,JM How,66,South Africa,New Zealand,158,South Africa,Kingsmead,2,South Africa
+222,36.4,0,SM Pollock,2007-11-25,1st,JM How,66,,SB Styris,39,South Africa,New Zealand,158,South Africa,Kingsmead,2,South Africa
+223,36.5,0,SM Pollock,2007-11-25,1st,JM How,66,,SB Styris,39,South Africa,New Zealand,158,South Africa,Kingsmead,2,South Africa
+224,36.6,1,SM Pollock,2007-11-25,1st,JM How,66,,SB Styris,40,South Africa,New Zealand,159,South Africa,Kingsmead,2,South Africa
+225,37.1,0,A Nel,2007-11-25,1st,JM How,66,SB Styris,SB Styris,40,South Africa,New Zealand,159,South Africa,Kingsmead,3,South Africa
+226,37.2,1,A Nel,2007-11-25,1st,LRPL Taylor,0,,JM How,67,South Africa,New Zealand,160,South Africa,Kingsmead,3,South Africa
+227,37.3,0,A Nel,2007-11-25,1st,JM How,67,,LRPL Taylor,0,South Africa,New Zealand,160,South Africa,Kingsmead,3,South Africa
+228,37.4,0,A Nel,2007-11-25,1st,JM How,67,,LRPL Taylor,0,South Africa,New Zealand,160,South Africa,Kingsmead,3,South Africa
+229,37.5,2,A Nel,2007-11-25,1st,JM How,67,,LRPL Taylor,2,South Africa,New Zealand,162,South Africa,Kingsmead,3,South Africa
+230,37.6,0,A Nel,2007-11-25,1st,JM How,67,,LRPL Taylor,2,South Africa,New Zealand,163,South Africa,Kingsmead,3,South Africa
+231,38.1,0,SM Pollock,2007-11-25,1st,JM How,67,,LRPL Taylor,2,South Africa,New Zealand,163,South Africa,Kingsmead,3,South Africa
+232,38.2,0,SM Pollock,2007-11-25,1st,JM How,67,,LRPL Taylor,2,South Africa,New Zealand,163,South Africa,Kingsmead,3,South Africa
+233,38.3,1,SM Pollock,2007-11-25,1st,JM How,67,,LRPL Taylor,3,South Africa,New Zealand,164,South Africa,Kingsmead,3,South Africa
+234,38.4,1,SM Pollock,2007-11-25,1st,LRPL Taylor,3,,JM How,68,South Africa,New Zealand,165,South Africa,Kingsmead,3,South Africa
+235,38.5,0,SM Pollock,2007-11-25,1st,JM How,68,,LRPL Taylor,3,South Africa,New Zealand,165,South Africa,Kingsmead,3,South Africa
+236,38.6,1,SM Pollock,2007-11-25,1st,JM How,68,,LRPL Taylor,4,South Africa,New Zealand,166,South Africa,Kingsmead,3,South Africa
+237,39.1,0,JA Morkel,2007-11-25,1st,JM How,68,,LRPL Taylor,4,South Africa,New Zealand,166,South Africa,Kingsmead,3,South Africa
+238,39.2,0,JA Morkel,2007-11-25,1st,JM How,68,,LRPL Taylor,4,South Africa,New Zealand,166,South Africa,Kingsmead,3,South Africa
+239,39.3,1,JA Morkel,2007-11-25,1st,JM How,68,,LRPL Taylor,5,South Africa,New Zealand,167,South Africa,Kingsmead,3,South Africa
+240,39.4,2,JA Morkel,2007-11-25,1st,LRPL Taylor,5,,JM How,70,South Africa,New Zealand,169,South Africa,Kingsmead,3,South Africa
+241,39.5,1,JA Morkel,2007-11-25,1st,LRPL Taylor,5,,JM How,71,South Africa,New Zealand,170,South Africa,Kingsmead,3,South Africa
+242,39.6,0,JA Morkel,2007-11-25,1st,JM How,71,,LRPL Taylor,5,South Africa,New Zealand,170,South Africa,Kingsmead,3,South Africa
+243,40.1,1,J Botha,2007-11-25,1st,LRPL Taylor,5,,JM How,72,South Africa,New Zealand,171,South Africa,Kingsmead,3,South Africa
+244,40.2,1,J Botha,2007-11-25,1st,JM How,72,,LRPL Taylor,6,South Africa,New Zealand,172,South Africa,Kingsmead,3,South Africa
+245,40.3,1,J Botha,2007-11-25,1st,LRPL Taylor,6,,JM How,73,South Africa,New Zealand,173,South Africa,Kingsmead,3,South Africa
+246,40.4,1,J Botha,2007-11-25,1st,JM How,73,,LRPL Taylor,7,South Africa,New Zealand,174,South Africa,Kingsmead,3,South Africa
+247,40.5,1,J Botha,2007-11-25,1st,LRPL Taylor,7,,JM How,74,South Africa,New Zealand,175,South Africa,Kingsmead,3,South Africa
+248,40.6,4,J Botha,2007-11-25,1st,JM How,74,,LRPL Taylor,11,South Africa,New Zealand,179,South Africa,Kingsmead,3,South Africa
+249,41.1,0,JA Morkel,2007-11-25,1st,LRPL Taylor,11,,JM How,74,South Africa,New Zealand,179,South Africa,Kingsmead,3,South Africa
+250,41.2,0,JA Morkel,2007-11-25,1st,LRPL Taylor,11,,JM How,74,South Africa,New Zealand,179,South Africa,Kingsmead,3,South Africa
+251,41.3,0,JA Morkel,2007-11-25,1st,LRPL Taylor,11,,JM How,74,South Africa,New Zealand,179,South Africa,Kingsmead,3,South Africa
+252,41.4,1,JA Morkel,2007-11-25,1st,LRPL Taylor,11,,JM How,75,South Africa,New Zealand,180,South Africa,Kingsmead,3,South Africa
+253,41.5,1,JA Morkel,2007-11-25,1st,JM How,75,,LRPL Taylor,12,South Africa,New Zealand,181,South Africa,Kingsmead,3,South Africa
+254,41.6,0,JA Morkel,2007-11-25,1st,LRPL Taylor,12,,JM How,75,South Africa,New Zealand,181,South Africa,Kingsmead,3,South Africa
+255,42.1,6,J Botha,2007-11-25,1st,JM How,75,,LRPL Taylor,18,South Africa,New Zealand,187,South Africa,Kingsmead,3,South Africa
+256,42.2,1,J Botha,2007-11-25,1st,JM How,75,,LRPL Taylor,19,South Africa,New Zealand,188,South Africa,Kingsmead,3,South Africa
+257,42.3,0,J Botha,2007-11-25,1st,LRPL Taylor,19,,JM How,75,South Africa,New Zealand,188,South Africa,Kingsmead,3,South Africa
+258,42.4,4,J Botha,2007-11-25,1st,LRPL Taylor,19,,JM How,79,South Africa,New Zealand,192,South Africa,Kingsmead,3,South Africa
+259,42.5,1,J Botha,2007-11-25,1st,LRPL Taylor,19,,JM How,80,South Africa,New Zealand,193,South Africa,Kingsmead,3,South Africa
+260,42.6,1,J Botha,2007-11-25,1st,JM How,80,,LRPL Taylor,20,South Africa,New Zealand,194,South Africa,Kingsmead,3,South Africa
+261,43.1,0,JA Morkel,2007-11-25,1st,JM How,80,,LRPL Taylor,20,South Africa,New Zealand,194,South Africa,Kingsmead,3,South Africa
+262,43.2,0,JA Morkel,2007-11-25,1st,JM How,80,,LRPL Taylor,20,South Africa,New Zealand,195,South Africa,Kingsmead,3,South Africa
+263,43.3,0,JA Morkel,2007-11-25,1st,JM How,80,LRPL Taylor,LRPL Taylor,20,South Africa,New Zealand,195,South Africa,Kingsmead,4,South Africa
+264,43.4,0,JA Morkel,2007-11-25,1st,MS Sinclair,0,,JM How,80,South Africa,New Zealand,195,South Africa,Kingsmead,4,South Africa
+265,43.5,1,JA Morkel,2007-11-25,1st,MS Sinclair,0,,JM How,81,South Africa,New Zealand,196,South Africa,Kingsmead,4,South Africa
+266,43.6,1,JA Morkel,2007-11-25,1st,JM How,81,,MS Sinclair,1,South Africa,New Zealand,197,South Africa,Kingsmead,4,South Africa
+267,43.7,0,JA Morkel,2007-11-25,1st,MS Sinclair,1,,JM How,81,South Africa,New Zealand,197,South Africa,Kingsmead,4,South Africa
+268,44.1,0,M Ntini,2007-11-25,1st,JM How,81,,MS Sinclair,1,South Africa,New Zealand,197,South Africa,Kingsmead,4,South Africa
+269,44.2,0,M Ntini,2007-11-25,1st,JM How,81,,MS Sinclair,1,South Africa,New Zealand,197,South Africa,Kingsmead,4,South Africa
+270,44.3,2,M Ntini,2007-11-25,1st,JM How,81,,MS Sinclair,3,South Africa,New Zealand,199,South Africa,Kingsmead,4,South Africa
+271,44.4,1,M Ntini,2007-11-25,1st,JM How,81,,MS Sinclair,4,South Africa,New Zealand,200,South Africa,Kingsmead,4,South Africa
+272,44.5,4,M Ntini,2007-11-25,1st,MS Sinclair,4,,JM How,85,South Africa,New Zealand,204,South Africa,Kingsmead,4,South Africa
+273,44.6,0,M Ntini,2007-11-25,1st,MS Sinclair,4,,JM How,85,South Africa,New Zealand,204,South Africa,Kingsmead,4,South Africa
+274,45.1,1,JA Morkel,2007-11-25,1st,JM How,85,,MS Sinclair,5,South Africa,New Zealand,205,South Africa,Kingsmead,4,South Africa
+275,45.2,1,JA Morkel,2007-11-25,1st,MS Sinclair,5,,JM How,86,South Africa,New Zealand,206,South Africa,Kingsmead,4,South Africa
+276,45.3,2,JA Morkel,2007-11-25,1st,JM How,86,,MS Sinclair,7,South Africa,New Zealand,208,South Africa,Kingsmead,4,South Africa
+277,45.4,1,JA Morkel,2007-11-25,1st,JM How,86,,MS Sinclair,8,South Africa,New Zealand,209,South Africa,Kingsmead,4,South Africa
+278,45.5,1,JA Morkel,2007-11-25,1st,MS Sinclair,8,,JM How,87,South Africa,New Zealand,210,South Africa,Kingsmead,4,South Africa
+279,45.6,1,JA Morkel,2007-11-25,1st,JM How,87,,MS Sinclair,9,South Africa,New Zealand,211,South Africa,Kingsmead,4,South Africa
+280,46.1,4,M Ntini,2007-11-25,1st,JM How,87,,MS Sinclair,13,South Africa,New Zealand,215,South Africa,Kingsmead,4,South Africa
+281,46.2,0,M Ntini,2007-11-25,1st,JM How,87,,MS Sinclair,13,South Africa,New Zealand,215,South Africa,Kingsmead,4,South Africa
+282,46.3,1,M Ntini,2007-11-25,1st,JM How,87,,MS Sinclair,14,South Africa,New Zealand,216,South Africa,Kingsmead,4,South Africa
+283,46.4,1,M Ntini,2007-11-25,1st,MS Sinclair,14,,JM How,88,South Africa,New Zealand,217,South Africa,Kingsmead,4,South Africa
+284,46.5,0,M Ntini,2007-11-25,1st,JM How,88,,MS Sinclair,14,South Africa,New Zealand,217,South Africa,Kingsmead,4,South Africa
+285,46.6,4,M Ntini,2007-11-25,1st,JM How,88,,MS Sinclair,18,South Africa,New Zealand,221,South Africa,Kingsmead,4,South Africa
+286,47.1,0,A Nel,2007-11-25,1st,MS Sinclair,18,,JM How,88,South Africa,New Zealand,221,South Africa,Kingsmead,4,South Africa
+287,47.2,2,A Nel,2007-11-25,1st,MS Sinclair,18,,JM How,90,South Africa,New Zealand,223,South Africa,Kingsmead,4,South Africa
+288,47.3,0,A Nel,2007-11-25,1st,MS Sinclair,18,JM How,JM How,90,South Africa,New Zealand,223,South Africa,Kingsmead,5,South Africa
+289,47.4,0,A Nel,2007-11-25,1st,MS Sinclair,18,GJ Hopkins,GJ Hopkins,0,South Africa,New Zealand,223,South Africa,Kingsmead,6,South Africa
+290,47.5,1,A Nel,2007-11-25,1st,MS Sinclair,18,,KD Mills,1,South Africa,New Zealand,224,South Africa,Kingsmead,6,South Africa
+291,47.6,1,A Nel,2007-11-25,1st,KD Mills,1,,MS Sinclair,19,South Africa,New Zealand,225,South Africa,Kingsmead,6,South Africa
+292,48.1,1,M Ntini,2007-11-25,1st,KD Mills,1,,MS Sinclair,20,South Africa,New Zealand,226,South Africa,Kingsmead,6,South Africa
+293,48.2,3,M Ntini,2007-11-25,1st,MS Sinclair,20,,KD Mills,4,South Africa,New Zealand,229,South Africa,Kingsmead,6,South Africa
+294,48.3,0,M Ntini,2007-11-25,1st,KD Mills,4,,MS Sinclair,20,South Africa,New Zealand,229,South Africa,Kingsmead,6,South Africa
+295,48.4,0,M Ntini,2007-11-25,1st,KD Mills,4,,MS Sinclair,20,South Africa,New Zealand,229,South Africa,Kingsmead,6,South Africa
+296,48.5,4,M Ntini,2007-11-25,1st,KD Mills,4,,MS Sinclair,24,South Africa,New Zealand,233,South Africa,Kingsmead,6,South Africa
+297,48.6,0,M Ntini,2007-11-25,1st,KD Mills,4,,MS Sinclair,24,South Africa,New Zealand,234,South Africa,Kingsmead,6,South Africa
+298,48.7,6,M Ntini,2007-11-25,1st,KD Mills,4,,MS Sinclair,30,South Africa,New Zealand,240,South Africa,Kingsmead,6,South Africa
+299,49.1,1,A Nel,2007-11-25,1st,MS Sinclair,30,,KD Mills,5,South Africa,New Zealand,241,South Africa,Kingsmead,6,South Africa
+300,49.2,1,A Nel,2007-11-25,1st,KD Mills,5,,MS Sinclair,31,South Africa,New Zealand,242,South Africa,Kingsmead,6,South Africa
+301,49.3,1,A Nel,2007-11-25,1st,MS Sinclair,31,,KD Mills,6,South Africa,New Zealand,243,South Africa,Kingsmead,6,South Africa
+302,49.4,1,A Nel,2007-11-25,1st,KD Mills,6,,MS Sinclair,32,South Africa,New Zealand,244,South Africa,Kingsmead,6,South Africa
+303,49.5,0,A Nel,2007-11-25,1st,MS Sinclair,32,,KD Mills,6,South Africa,New Zealand,245,South Africa,Kingsmead,6,South Africa
+304,49.6,2,A Nel,2007-11-25,1st,MS Sinclair,32,,KD Mills,8,South Africa,New Zealand,247,South Africa,Kingsmead,6,South Africa
+305,49.7,1,A Nel,2007-11-25,1st,MS Sinclair,32,,KD Mills,9,South Africa,New Zealand,248,South Africa,Kingsmead,6,South Africa
+306,0.1,0,KD Mills,2007-11-25,2nd,GC Smith,0,,MN van Wyk,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+307,0.2,0,KD Mills,2007-11-25,2nd,GC Smith,0,,MN van Wyk,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+308,0.3,0,KD Mills,2007-11-25,2nd,GC Smith,0,,MN van Wyk,0,South Africa,New Zealand,0,South Africa,Kingsmead,0,South Africa
+309,0.4,0,KD Mills,2007-11-25,2nd,GC Smith,0,,MN van Wyk,0,South Africa,New Zealand,0,South Africa,Kingsmead,1,South Africa
+310,0.5,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,0,South Africa,Kingsmead,1,South Africa
+311,0.6,1,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,1,South Africa,Kingsmead,1,South Africa
+312,1.1,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,1,South Africa,Kingsmead,1,South Africa
+313,1.2,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,1,South Africa,Kingsmead,1,South Africa
+314,1.3,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,1,South Africa,Kingsmead,1,South Africa
+315,1.4,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+316,1.5,0,MR Gillespie,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+317,1.6,0,MR Gillespie,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+318,2.1,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+319,2.2,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+320,2.3,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+321,2.4,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+322,2.5,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+323,2.6,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+324,3.1,0,MR Gillespie,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+325,3.2,0,MR Gillespie,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,2,South Africa,Kingsmead,1,South Africa
+326,3.3,0,MR Gillespie,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,3,South Africa,Kingsmead,1,South Africa
+327,3.4,0,MR Gillespie,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,3,South Africa,Kingsmead,1,South Africa
+328,3.5,1,MR Gillespie,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,4,South Africa,Kingsmead,1,South Africa
+329,3.6,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,4,South Africa,Kingsmead,1,South Africa
+330,3.7,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,4,South Africa,Kingsmead,1,South Africa
+331,4.1,0,KD Mills,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,4,South Africa,Kingsmead,1,South Africa
+332,4.2,4,KD Mills,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,8,South Africa,Kingsmead,1,South Africa
+333,4.3,0,KD Mills,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,8,South Africa,Kingsmead,1,South Africa
+334,4.4,0,KD Mills,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,8,South Africa,Kingsmead,1,South Africa
+335,4.5,1,KD Mills,2007-11-25,2nd,JH Kallis,0,,GC Smith,0,South Africa,New Zealand,9,South Africa,Kingsmead,1,South Africa
+336,4.6,0,KD Mills,2007-11-25,2nd,GC Smith,0,,JH Kallis,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+337,5.1,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+338,5.2,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+339,5.3,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+340,5.4,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+341,5.5,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+342,5.6,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+343,6.1,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+344,6.2,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+345,6.3,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+346,6.4,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,9,South Africa,Kingsmead,2,South Africa
+347,6.5,2,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,11,South Africa,Kingsmead,2,South Africa
+348,6.6,1,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+349,7.1,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+350,7.2,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+351,7.3,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+352,7.4,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+353,7.5,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+354,7.6,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+355,8.1,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+356,8.2,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+357,8.3,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+358,8.4,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+359,8.5,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+360,8.6,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,12,South Africa,Kingsmead,2,South Africa
+361,9.1,2,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,14,South Africa,Kingsmead,2,South Africa
+362,9.2,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,14,South Africa,Kingsmead,2,South Africa
+363,9.3,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,14,South Africa,Kingsmead,2,South Africa
+364,9.4,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,14,South Africa,Kingsmead,2,South Africa
+365,9.5,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,14,South Africa,Kingsmead,2,South Africa
+366,9.6,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,14,South Africa,Kingsmead,2,South Africa
+367,10.1,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,15,South Africa,Kingsmead,2,South Africa
+368,10.2,1,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,16,South Africa,Kingsmead,2,South Africa
+369,10.3,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,16,South Africa,Kingsmead,2,South Africa
+370,10.4,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,16,South Africa,Kingsmead,2,South Africa
+371,10.5,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,16,South Africa,Kingsmead,2,South Africa
+372,10.6,1,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,17,South Africa,Kingsmead,2,South Africa
+373,10.7,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,17,South Africa,Kingsmead,2,South Africa
+374,11.1,4,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,21,South Africa,Kingsmead,2,South Africa
+375,11.2,4,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,25,South Africa,Kingsmead,2,South Africa
+376,11.3,2,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,27,South Africa,Kingsmead,2,South Africa
+377,11.4,0,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,27,South Africa,Kingsmead,2,South Africa
+378,11.5,1,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,28,South Africa,Kingsmead,2,South Africa
+379,11.6,1,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,29,South Africa,Kingsmead,2,South Africa
+380,12.1,0,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,29,South Africa,Kingsmead,2,South Africa
+381,12.2,1,KD Mills,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,30,South Africa,Kingsmead,2,South Africa
+382,12.3,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,30,South Africa,Kingsmead,2,South Africa
+383,12.4,4,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,34,South Africa,Kingsmead,2,South Africa
+384,12.5,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,34,South Africa,Kingsmead,2,South Africa
+385,12.6,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,34,South Africa,Kingsmead,2,South Africa
+386,13.1,1,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,35,South Africa,Kingsmead,2,South Africa
+387,13.2,1,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,36,South Africa,Kingsmead,2,South Africa
+388,13.3,1,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,37,South Africa,Kingsmead,2,South Africa
+389,13.4,1,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,38,South Africa,Kingsmead,2,South Africa
+390,13.5,4,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,42,South Africa,Kingsmead,2,South Africa
+391,13.6,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,42,South Africa,Kingsmead,2,South Africa
+392,14.1,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,42,South Africa,Kingsmead,2,South Africa
+393,14.2,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,42,South Africa,Kingsmead,2,South Africa
+394,14.3,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,42,South Africa,Kingsmead,2,South Africa
+395,14.4,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,42,South Africa,Kingsmead,2,South Africa
+396,14.5,0,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,42,South Africa,Kingsmead,2,South Africa
+397,14.6,1,KD Mills,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,43,South Africa,Kingsmead,2,South Africa
+398,15.1,0,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,43,South Africa,Kingsmead,2,South Africa
+399,15.2,4,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,47,South Africa,Kingsmead,2,South Africa
+400,15.3,0,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,47,South Africa,Kingsmead,2,South Africa
+401,15.4,0,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,47,South Africa,Kingsmead,2,South Africa
+402,15.5,0,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,47,South Africa,Kingsmead,2,South Africa
+403,15.6,1,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,48,South Africa,Kingsmead,2,South Africa
+404,16.1,1,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,49,South Africa,Kingsmead,2,South Africa
+405,16.2,2,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,51,South Africa,Kingsmead,2,South Africa
+406,16.3,1,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,52,South Africa,Kingsmead,2,South Africa
+407,16.4,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,52,South Africa,Kingsmead,2,South Africa
+408,16.5,4,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,56,South Africa,Kingsmead,2,South Africa
+409,16.6,0,MR Gillespie,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,56,South Africa,Kingsmead,2,South Africa
+410,17.1,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,56,South Africa,Kingsmead,2,South Africa
+411,17.2,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,56,South Africa,Kingsmead,2,South Africa
+412,17.3,1,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,57,South Africa,Kingsmead,2,South Africa
+413,17.4,1,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,58,South Africa,Kingsmead,2,South Africa
+414,17.5,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,58,South Africa,Kingsmead,2,South Africa
+415,17.6,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,58,South Africa,Kingsmead,2,South Africa
+416,18.1,0,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,59,South Africa,Kingsmead,2,South Africa
+417,18.2,0,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,59,South Africa,Kingsmead,2,South Africa
+418,18.3,1,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,60,South Africa,Kingsmead,2,South Africa
+419,18.4,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,60,South Africa,Kingsmead,2,South Africa
+420,18.5,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,60,South Africa,Kingsmead,2,South Africa
+421,18.6,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,61,South Africa,Kingsmead,2,South Africa
+422,18.7,4,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,65,South Africa,Kingsmead,2,South Africa
+423,19.1,4,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,69,South Africa,Kingsmead,2,South Africa
+424,19.2,1,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,70,South Africa,Kingsmead,2,South Africa
+425,19.3,1,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,71,South Africa,Kingsmead,2,South Africa
+426,19.4,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,71,South Africa,Kingsmead,2,South Africa
+427,19.5,1,CS Martin,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,72,South Africa,Kingsmead,2,South Africa
+428,19.6,1,CS Martin,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,73,South Africa,Kingsmead,2,South Africa
+429,20.1,0,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,73,South Africa,Kingsmead,2,South Africa
+430,20.2,1,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,74,South Africa,Kingsmead,2,South Africa
+431,20.3,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,75,South Africa,Kingsmead,2,South Africa
+432,20.4,1,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,76,South Africa,Kingsmead,2,South Africa
+433,20.5,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,77,South Africa,Kingsmead,2,South Africa
+434,20.6,0,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,77,South Africa,Kingsmead,2,South Africa
+435,21.1,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,77,South Africa,Kingsmead,2,South Africa
+436,21.2,2,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,79,South Africa,Kingsmead,2,South Africa
+437,21.3,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,79,South Africa,Kingsmead,2,South Africa
+438,21.4,4,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,83,South Africa,Kingsmead,2,South Africa
+439,21.5,1,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,84,South Africa,Kingsmead,2,South Africa
+440,21.6,0,SB Styris,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,84,South Africa,Kingsmead,2,South Africa
+441,22.1,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,85,South Africa,Kingsmead,2,South Africa
+442,22.2,0,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,85,South Africa,Kingsmead,2,South Africa
+443,22.3,1,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,86,South Africa,Kingsmead,2,South Africa
+444,22.4,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,87,South Africa,Kingsmead,2,South Africa
+445,22.5,1,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,88,South Africa,Kingsmead,2,South Africa
+446,22.6,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,89,South Africa,Kingsmead,2,South Africa
+447,23.1,1,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,90,South Africa,Kingsmead,2,South Africa
+448,23.2,1,SB Styris,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,91,South Africa,Kingsmead,2,South Africa
+449,23.3,1,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,92,South Africa,Kingsmead,2,South Africa
+450,23.4,0,SB Styris,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,92,South Africa,Kingsmead,2,South Africa
+451,23.5,0,SB Styris,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,92,South Africa,Kingsmead,2,South Africa
+452,23.6,0,SB Styris,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,92,South Africa,Kingsmead,2,South Africa
+453,24.1,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,93,South Africa,Kingsmead,2,South Africa
+454,24.2,0,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,94,South Africa,Kingsmead,2,South Africa
+455,24.3,1,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,95,South Africa,Kingsmead,2,South Africa
+456,24.4,2,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,97,South Africa,Kingsmead,2,South Africa
+457,24.5,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,97,South Africa,Kingsmead,2,South Africa
+458,24.6,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,98,South Africa,Kingsmead,2,South Africa
+459,24.7,1,DL Vettori,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,99,South Africa,Kingsmead,2,South Africa
+460,25.1,1,SB Styris,2007-11-25,2nd,GC Smith,0,,AB de Villiers,0,South Africa,New Zealand,100,South Africa,Kingsmead,2,South Africa
+461,25.2,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,100,South Africa,Kingsmead,2,South Africa
+462,25.3,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,GC Smith,0,South Africa,New Zealand,100,South Africa,Kingsmead,3,South Africa
+463,25.4,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,101,South Africa,Kingsmead,3,South Africa
+464,25.5,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,101,South Africa,Kingsmead,3,South Africa
+465,25.6,1,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,102,South Africa,Kingsmead,3,South Africa
+466,26.1,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,102,South Africa,Kingsmead,3,South Africa
+467,26.2,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,102,South Africa,Kingsmead,3,South Africa
+468,26.3,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,103,South Africa,Kingsmead,3,South Africa
+469,26.4,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,104,South Africa,Kingsmead,3,South Africa
+470,26.5,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,104,South Africa,Kingsmead,3,South Africa
+471,26.6,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,104,South Africa,Kingsmead,3,South Africa
+472,27.1,4,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,108,South Africa,Kingsmead,3,South Africa
+473,27.2,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,108,South Africa,Kingsmead,3,South Africa
+474,27.3,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,109,South Africa,Kingsmead,3,South Africa
+475,27.4,1,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,110,South Africa,Kingsmead,3,South Africa
+476,27.5,2,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,112,South Africa,Kingsmead,3,South Africa
+477,27.6,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,112,South Africa,Kingsmead,3,South Africa
+478,28.1,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,112,South Africa,Kingsmead,3,South Africa
+479,28.2,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,112,South Africa,Kingsmead,3,South Africa
+480,28.3,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,113,South Africa,Kingsmead,3,South Africa
+481,28.4,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,114,South Africa,Kingsmead,3,South Africa
+482,28.5,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,115,South Africa,Kingsmead,3,South Africa
+483,28.6,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,116,South Africa,Kingsmead,3,South Africa
+484,29.1,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,117,South Africa,Kingsmead,3,South Africa
+485,29.2,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,117,South Africa,Kingsmead,3,South Africa
+486,29.3,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,118,South Africa,Kingsmead,3,South Africa
+487,29.4,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,119,South Africa,Kingsmead,3,South Africa
+488,29.5,2,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,121,South Africa,Kingsmead,3,South Africa
+489,29.6,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,121,South Africa,Kingsmead,3,South Africa
+490,30.1,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,121,South Africa,Kingsmead,3,South Africa
+491,30.2,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,121,South Africa,Kingsmead,3,South Africa
+492,30.3,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,122,South Africa,Kingsmead,3,South Africa
+493,30.4,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,122,South Africa,Kingsmead,3,South Africa
+494,30.5,4,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,126,South Africa,Kingsmead,3,South Africa
+495,30.6,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,126,South Africa,Kingsmead,3,South Africa
+496,30.7,1,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,127,South Africa,Kingsmead,3,South Africa
+497,31.1,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,128,South Africa,Kingsmead,3,South Africa
+498,31.2,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,128,South Africa,Kingsmead,3,South Africa
+499,31.3,4,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,132,South Africa,Kingsmead,3,South Africa
+500,31.4,1,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,133,South Africa,Kingsmead,3,South Africa
+501,31.5,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,134,South Africa,Kingsmead,3,South Africa
+502,31.6,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,134,South Africa,Kingsmead,3,South Africa
+503,32.1,1,CS Martin,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,135,South Africa,Kingsmead,3,South Africa
+504,32.2,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,135,South Africa,Kingsmead,3,South Africa
+505,32.3,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,135,South Africa,Kingsmead,3,South Africa
+506,32.4,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,135,South Africa,Kingsmead,3,South Africa
+507,32.5,2,CS Martin,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,137,South Africa,Kingsmead,3,South Africa
+508,32.6,0,CS Martin,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,137,South Africa,Kingsmead,3,South Africa
+509,33.1,3,SB Styris,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,140,South Africa,Kingsmead,3,South Africa
+510,33.2,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,140,South Africa,Kingsmead,3,South Africa
+511,33.3,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,140,South Africa,Kingsmead,3,South Africa
+512,33.4,2,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,142,South Africa,Kingsmead,3,South Africa
+513,33.5,0,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,142,South Africa,Kingsmead,3,South Africa
+514,33.6,1,SB Styris,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,143,South Africa,Kingsmead,3,South Africa
+515,34.1,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,143,South Africa,Kingsmead,3,South Africa
+516,34.2,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,143,South Africa,Kingsmead,3,South Africa
+517,34.3,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,144,South Africa,Kingsmead,3,South Africa
+518,34.4,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,144,South Africa,Kingsmead,3,South Africa
+519,34.5,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,144,South Africa,Kingsmead,3,South Africa
+520,34.6,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,145,South Africa,Kingsmead,3,South Africa
+521,34.7,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,146,South Africa,Kingsmead,3,South Africa
+522,35.1,0,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,146,South Africa,Kingsmead,3,South Africa
+523,35.2,4,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,150,South Africa,Kingsmead,3,South Africa
+524,35.3,1,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,151,South Africa,Kingsmead,3,South Africa
+525,35.4,4,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,155,South Africa,Kingsmead,3,South Africa
+526,35.5,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,155,South Africa,Kingsmead,3,South Africa
+527,35.6,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,156,South Africa,Kingsmead,3,South Africa
+528,35.7,1,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,157,South Africa,Kingsmead,3,South Africa
+529,36.1,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,158,South Africa,Kingsmead,3,South Africa
+530,36.2,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,159,South Africa,Kingsmead,3,South Africa
+531,36.3,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,160,South Africa,Kingsmead,3,South Africa
+532,36.4,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,161,South Africa,Kingsmead,3,South Africa
+533,36.5,4,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,165,South Africa,Kingsmead,3,South Africa
+534,36.6,0,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,165,South Africa,Kingsmead,3,South Africa
+535,37.1,1,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,166,South Africa,Kingsmead,3,South Africa
+536,37.2,0,MR Gillespie,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,167,South Africa,Kingsmead,3,South Africa
+537,37.3,2,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,169,South Africa,Kingsmead,3,South Africa
+538,37.4,0,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,169,South Africa,Kingsmead,3,South Africa
+539,37.5,0,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,169,South Africa,Kingsmead,3,South Africa
+540,37.6,2,MR Gillespie,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,171,South Africa,Kingsmead,3,South Africa
+541,38.1,1,DL Vettori,2007-11-25,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,172,South Africa,Kingsmead,3,South Africa
+542,38.2,0,DL Vettori,2007-11-25,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,172,South Africa,Kingsmead,4,South Africa
+543,38.3,0,DL Vettori,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,172,South Africa,Kingsmead,4,South Africa
+544,38.4,0,DL Vettori,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,172,South Africa,Kingsmead,4,South Africa
+545,38.5,0,DL Vettori,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,172,South Africa,Kingsmead,4,South Africa
+546,38.6,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,173,South Africa,Kingsmead,4,South Africa
+547,39.1,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,173,South Africa,Kingsmead,4,South Africa
+548,39.2,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,173,South Africa,Kingsmead,4,South Africa
+549,39.3,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,173,South Africa,Kingsmead,4,South Africa
+550,39.4,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,173,South Africa,Kingsmead,4,South Africa
+551,39.5,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,174,South Africa,Kingsmead,4,South Africa
+552,39.6,0,SB Styris,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,174,South Africa,Kingsmead,4,South Africa
+553,40.1,0,DL Vettori,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,174,South Africa,Kingsmead,4,South Africa
+554,40.2,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,175,South Africa,Kingsmead,4,South Africa
+555,40.3,3,DL Vettori,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,178,South Africa,Kingsmead,4,South Africa
+556,40.4,1,DL Vettori,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,179,South Africa,Kingsmead,4,South Africa
+557,40.5,0,DL Vettori,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,179,South Africa,Kingsmead,4,South Africa
+558,40.6,0,DL Vettori,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,179,South Africa,Kingsmead,4,South Africa
+559,41.1,1,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,180,South Africa,Kingsmead,4,South Africa
+560,41.2,0,CS Martin,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,181,South Africa,Kingsmead,4,South Africa
+561,41.3,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,181,South Africa,Kingsmead,4,South Africa
+562,41.4,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,181,South Africa,Kingsmead,4,South Africa
+563,41.5,1,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,182,South Africa,Kingsmead,4,South Africa
+564,41.6,1,CS Martin,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,183,South Africa,Kingsmead,4,South Africa
+565,42.1,1,SB Styris,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,184,South Africa,Kingsmead,4,South Africa
+566,42.2,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,184,South Africa,Kingsmead,4,South Africa
+567,42.3,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,185,South Africa,Kingsmead,4,South Africa
+568,42.4,0,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,185,South Africa,Kingsmead,4,South Africa
+569,42.5,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,186,South Africa,Kingsmead,4,South Africa
+570,42.6,6,SB Styris,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,192,South Africa,Kingsmead,4,South Africa
+571,42.7,1,SB Styris,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,193,South Africa,Kingsmead,4,South Africa
+572,43.1,1,CS Martin,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,194,South Africa,Kingsmead,4,South Africa
+573,43.2,0,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,194,South Africa,Kingsmead,4,South Africa
+574,43.3,1,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,195,South Africa,Kingsmead,4,South Africa
+575,43.4,1,CS Martin,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,196,South Africa,Kingsmead,4,South Africa
+576,43.5,4,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,200,South Africa,Kingsmead,4,South Africa
+577,43.6,2,CS Martin,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,202,South Africa,Kingsmead,4,South Africa
+578,44.1,0,SB Styris,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,202,South Africa,Kingsmead,4,South Africa
+579,44.2,1,SB Styris,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,203,South Africa,Kingsmead,4,South Africa
+580,44.3,2,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,205,South Africa,Kingsmead,4,South Africa
+581,44.4,1,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,206,South Africa,Kingsmead,4,South Africa
+582,44.5,1,SB Styris,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,207,South Africa,Kingsmead,4,South Africa
+583,44.6,4,SB Styris,2007-11-25,2nd,JP Duminy,0,,MV Boucher,0,South Africa,New Zealand,211,South Africa,Kingsmead,4,South Africa
+584,45.1,0,CS Martin,2007-11-25,2nd,MV Boucher,0,,JP Duminy,0,South Africa,New Zealand,211,South Africa,Kingsmead,5,South Africa
+585,45.2,0,CS Martin,2007-11-25,2nd,SM Pollock,0,,MV Boucher,0,South Africa,New Zealand,212,South Africa,Kingsmead,5,South Africa
+586,45.3,1,CS Martin,2007-11-25,2nd,SM Pollock,0,,MV Boucher,0,South Africa,New Zealand,213,South Africa,Kingsmead,5,South Africa
+587,45.4,4,CS Martin,2007-11-25,2nd,MV Boucher,0,,SM Pollock,0,South Africa,New Zealand,217,South Africa,Kingsmead,5,South Africa
+588,45.5,1,CS Martin,2007-11-25,2nd,MV Boucher,0,,SM Pollock,0,South Africa,New Zealand,218,South Africa,Kingsmead,5,South Africa
+589,45.6,1,CS Martin,2007-11-25,2nd,SM Pollock,0,,MV Boucher,0,South Africa,New Zealand,219,South Africa,Kingsmead,5,South Africa
+590,45.7,1,CS Martin,2007-11-25,2nd,MV Boucher,0,,SM Pollock,0,South Africa,New Zealand,220,South Africa,Kingsmead,5,South Africa
+591,46.1,0,KD Mills,2007-11-25,2nd,MV Boucher,0,,SM Pollock,0,South Africa,New Zealand,220,South Africa,Kingsmead,5,South Africa
+592,46.2,0,KD Mills,2007-11-25,2nd,MV Boucher,0,,SM Pollock,0,South Africa,New Zealand,220,South Africa,Kingsmead,6,South Africa
+593,46.3,1,KD Mills,2007-11-25,2nd,JA Morkel,0,,MV Boucher,0,South Africa,New Zealand,221,South Africa,Kingsmead,6,South Africa
+594,46.4,0,KD Mills,2007-11-25,2nd,MV Boucher,0,,JA Morkel,0,South Africa,New Zealand,222,South Africa,Kingsmead,6,South Africa
+595,46.5,0,KD Mills,2007-11-25,2nd,MV Boucher,0,,JA Morkel,0,South Africa,New Zealand,222,South Africa,Kingsmead,6,South Africa
+596,46.6,0,KD Mills,2007-11-25,2nd,MV Boucher,0,,JA Morkel,0,South Africa,New Zealand,222,South Africa,Kingsmead,7,South Africa
+597,46.7,0,KD Mills,2007-11-25,2nd,MV Boucher,0,,J Botha,0,South Africa,New Zealand,222,South Africa,Kingsmead,7,South Africa
+598,47.1,2,MR Gillespie,2007-11-25,2nd,J Botha,0,,MV Boucher,0,South Africa,New Zealand,224,South Africa,Kingsmead,7,South Africa
+599,47.2,1,MR Gillespie,2007-11-25,2nd,J Botha,0,,MV Boucher,0,South Africa,New Zealand,225,South Africa,Kingsmead,7,South Africa
+600,47.3,1,MR Gillespie,2007-11-25,2nd,MV Boucher,0,,J Botha,0,South Africa,New Zealand,226,South Africa,Kingsmead,7,South Africa
+601,47.4,4,MR Gillespie,2007-11-25,2nd,J Botha,0,,MV Boucher,0,South Africa,New Zealand,230,South Africa,Kingsmead,7,South Africa
+602,47.5,1,MR Gillespie,2007-11-25,2nd,J Botha,0,,MV Boucher,0,South Africa,New Zealand,231,South Africa,Kingsmead,7,South Africa
+603,47.6,2,MR Gillespie,2007-11-25,2nd,MV Boucher,0,,J Botha,0,South Africa,New Zealand,233,South Africa,Kingsmead,7,South Africa
+604,48.1,1,KD Mills,2007-11-25,2nd,J Botha,0,,MV Boucher,0,South Africa,New Zealand,234,South Africa,Kingsmead,7,South Africa
+605,48.2,2,KD Mills,2007-11-25,2nd,MV Boucher,0,,J Botha,0,South Africa,New Zealand,236,South Africa,Kingsmead,7,South Africa
+606,48.3,1,KD Mills,2007-11-25,2nd,MV Boucher,0,,J Botha,0,South Africa,New Zealand,237,South Africa,Kingsmead,7,South Africa
+607,48.4,1,KD Mills,2007-11-25,2nd,J Botha,0,,MV Boucher,0,South Africa,New Zealand,238,South Africa,Kingsmead,7,South Africa
+608,48.5,0,KD Mills,2007-11-25,2nd,MV Boucher,0,,J Botha,0,South Africa,New Zealand,238,South Africa,Kingsmead,8,South Africa
+609,48.6,0,KD Mills,2007-11-25,2nd,A Nel,0,,MV Boucher,0,South Africa,New Zealand,238,South Africa,Kingsmead,8,South Africa
+610,49.1,0,MR Gillespie,2007-11-25,2nd,MV Boucher,0,,A Nel,0,South Africa,New Zealand,238,South Africa,Kingsmead,8,South Africa
+611,49.2,1,MR Gillespie,2007-11-25,2nd,MV Boucher,0,,A Nel,0,South Africa,New Zealand,239,South Africa,Kingsmead,8,South Africa
+612,49.3,1,MR Gillespie,2007-11-25,2nd,A Nel,0,,MV Boucher,0,South Africa,New Zealand,240,South Africa,Kingsmead,8,South Africa
+613,49.4,4,MR Gillespie,2007-11-25,2nd,MV Boucher,0,,A Nel,0,South Africa,New Zealand,244,South Africa,Kingsmead,8,South Africa
+614,49.5,4,MR Gillespie,2007-11-25,2nd,MV Boucher,0,,A Nel,0,South Africa,New Zealand,248,South Africa,Kingsmead,8,South Africa
+615,49.6,1,MR Gillespie,2007-11-25,2nd,MV Boucher,0,,A Nel,0,South Africa,New Zealand,249,South Africa,Kingsmead,8,South Africa

@@ -1,0 +1,617 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,0,,DM Richards,0,West Indies,Bangladesh,0,West Indies,"Windsor Park, Roseau",0,Bangladesh
+1,0.2,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,0,,DM Richards,0,West Indies,Bangladesh,0,West Indies,"Windsor Park, Roseau",0,Bangladesh
+2,0.3,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,0,,DM Richards,0,West Indies,Bangladesh,0,West Indies,"Windsor Park, Roseau",0,Bangladesh
+3,0.4,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,0,,DM Richards,0,West Indies,Bangladesh,0,West Indies,"Windsor Park, Roseau",0,Bangladesh
+4,0.5,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,0,,DM Richards,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+5,0.6,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,0,,DM Richards,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+6,0.7,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,0,,DM Richards,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+7,1.1,1,Rubel Hossain,2009-07-28,1st,DM Richards,0,,ADS Fletcher,1,West Indies,Bangladesh,2,West Indies,"Windsor Park, Roseau",0,Bangladesh
+8,1.2,1,Rubel Hossain,2009-07-28,1st,ADS Fletcher,1,,DM Richards,1,West Indies,Bangladesh,3,West Indies,"Windsor Park, Roseau",0,Bangladesh
+9,1.3,0,Rubel Hossain,2009-07-28,1st,DM Richards,1,,ADS Fletcher,1,West Indies,Bangladesh,3,West Indies,"Windsor Park, Roseau",0,Bangladesh
+10,1.4,0,Rubel Hossain,2009-07-28,1st,DM Richards,1,,ADS Fletcher,1,West Indies,Bangladesh,3,West Indies,"Windsor Park, Roseau",0,Bangladesh
+11,1.5,1,Rubel Hossain,2009-07-28,1st,DM Richards,1,,ADS Fletcher,2,West Indies,Bangladesh,4,West Indies,"Windsor Park, Roseau",0,Bangladesh
+12,1.6,0,Rubel Hossain,2009-07-28,1st,ADS Fletcher,2,,DM Richards,1,West Indies,Bangladesh,4,West Indies,"Windsor Park, Roseau",0,Bangladesh
+13,2.1,0,Syed Rasel,2009-07-28,1st,DM Richards,1,,ADS Fletcher,2,West Indies,Bangladesh,4,West Indies,"Windsor Park, Roseau",0,Bangladesh
+14,2.2,0,Syed Rasel,2009-07-28,1st,DM Richards,1,,ADS Fletcher,2,West Indies,Bangladesh,4,West Indies,"Windsor Park, Roseau",0,Bangladesh
+15,2.3,0,Syed Rasel,2009-07-28,1st,DM Richards,1,,ADS Fletcher,2,West Indies,Bangladesh,4,West Indies,"Windsor Park, Roseau",0,Bangladesh
+16,2.4,3,Syed Rasel,2009-07-28,1st,DM Richards,1,,ADS Fletcher,5,West Indies,Bangladesh,7,West Indies,"Windsor Park, Roseau",0,Bangladesh
+17,2.5,4,Syed Rasel,2009-07-28,1st,ADS Fletcher,5,,DM Richards,5,West Indies,Bangladesh,11,West Indies,"Windsor Park, Roseau",0,Bangladesh
+18,2.6,0,Syed Rasel,2009-07-28,1st,ADS Fletcher,5,,DM Richards,5,West Indies,Bangladesh,11,West Indies,"Windsor Park, Roseau",0,Bangladesh
+19,3.1,4,Rubel Hossain,2009-07-28,1st,DM Richards,5,,ADS Fletcher,9,West Indies,Bangladesh,15,West Indies,"Windsor Park, Roseau",0,Bangladesh
+20,3.2,3,Rubel Hossain,2009-07-28,1st,DM Richards,5,,ADS Fletcher,12,West Indies,Bangladesh,18,West Indies,"Windsor Park, Roseau",0,Bangladesh
+21,3.3,1,Rubel Hossain,2009-07-28,1st,ADS Fletcher,12,,DM Richards,6,West Indies,Bangladesh,19,West Indies,"Windsor Park, Roseau",0,Bangladesh
+22,3.4,1,Rubel Hossain,2009-07-28,1st,DM Richards,6,,ADS Fletcher,13,West Indies,Bangladesh,20,West Indies,"Windsor Park, Roseau",0,Bangladesh
+23,3.5,1,Rubel Hossain,2009-07-28,1st,ADS Fletcher,13,,DM Richards,7,West Indies,Bangladesh,21,West Indies,"Windsor Park, Roseau",0,Bangladesh
+24,3.6,0,Rubel Hossain,2009-07-28,1st,DM Richards,7,,ADS Fletcher,13,West Indies,Bangladesh,21,West Indies,"Windsor Park, Roseau",0,Bangladesh
+25,4.1,2,Syed Rasel,2009-07-28,1st,ADS Fletcher,13,,DM Richards,9,West Indies,Bangladesh,23,West Indies,"Windsor Park, Roseau",0,Bangladesh
+26,4.2,1,Syed Rasel,2009-07-28,1st,ADS Fletcher,13,,DM Richards,10,West Indies,Bangladesh,24,West Indies,"Windsor Park, Roseau",0,Bangladesh
+27,4.3,0,Syed Rasel,2009-07-28,1st,DM Richards,10,,ADS Fletcher,13,West Indies,Bangladesh,24,West Indies,"Windsor Park, Roseau",0,Bangladesh
+28,4.4,4,Syed Rasel,2009-07-28,1st,DM Richards,10,,ADS Fletcher,17,West Indies,Bangladesh,28,West Indies,"Windsor Park, Roseau",0,Bangladesh
+29,4.5,4,Syed Rasel,2009-07-28,1st,DM Richards,10,,ADS Fletcher,21,West Indies,Bangladesh,32,West Indies,"Windsor Park, Roseau",0,Bangladesh
+30,4.6,1,Syed Rasel,2009-07-28,1st,DM Richards,10,,ADS Fletcher,22,West Indies,Bangladesh,33,West Indies,"Windsor Park, Roseau",0,Bangladesh
+31,5.1,0,Shakib Al Hasan,2009-07-28,1st,DM Richards,10,ADS Fletcher,ADS Fletcher,22,West Indies,Bangladesh,33,West Indies,"Windsor Park, Roseau",1,Bangladesh
+32,5.2,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,0,,DM Richards,10,West Indies,Bangladesh,33,West Indies,"Windsor Park, Roseau",1,Bangladesh
+33,5.3,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,0,,DM Richards,10,West Indies,Bangladesh,33,West Indies,"Windsor Park, Roseau",1,Bangladesh
+34,5.4,4,Shakib Al Hasan,2009-07-28,1st,DS Smith,0,,DM Richards,14,West Indies,Bangladesh,37,West Indies,"Windsor Park, Roseau",1,Bangladesh
+35,5.5,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,0,,DM Richards,14,West Indies,Bangladesh,37,West Indies,"Windsor Park, Roseau",1,Bangladesh
+36,5.6,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,0,,DM Richards,14,West Indies,Bangladesh,37,West Indies,"Windsor Park, Roseau",1,Bangladesh
+37,6.1,1,Syed Rasel,2009-07-28,1st,DM Richards,14,,DS Smith,1,West Indies,Bangladesh,38,West Indies,"Windsor Park, Roseau",1,Bangladesh
+38,6.2,0,Syed Rasel,2009-07-28,1st,DS Smith,1,,DM Richards,14,West Indies,Bangladesh,38,West Indies,"Windsor Park, Roseau",1,Bangladesh
+39,6.3,0,Syed Rasel,2009-07-28,1st,DS Smith,1,,DM Richards,14,West Indies,Bangladesh,38,West Indies,"Windsor Park, Roseau",1,Bangladesh
+40,6.4,4,Syed Rasel,2009-07-28,1st,DS Smith,1,,DM Richards,18,West Indies,Bangladesh,42,West Indies,"Windsor Park, Roseau",1,Bangladesh
+41,6.5,1,Syed Rasel,2009-07-28,1st,DS Smith,1,,DM Richards,19,West Indies,Bangladesh,43,West Indies,"Windsor Park, Roseau",1,Bangladesh
+42,6.6,4,Syed Rasel,2009-07-28,1st,DM Richards,19,,DS Smith,5,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+43,7.1,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,5,,DM Richards,19,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+44,7.2,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,5,,DM Richards,19,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+45,7.3,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,5,,DM Richards,19,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+46,7.4,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,5,,DM Richards,19,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+47,7.5,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,5,,DM Richards,19,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+48,7.6,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,5,,DM Richards,19,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+49,8.1,0,Abdur Razzak,2009-07-28,1st,DM Richards,19,,DS Smith,5,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+50,8.2,0,Abdur Razzak,2009-07-28,1st,DM Richards,19,,DS Smith,5,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+51,8.3,1,Abdur Razzak,2009-07-28,1st,DM Richards,19,,DS Smith,6,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+52,8.4,0,Abdur Razzak,2009-07-28,1st,DS Smith,6,,DM Richards,19,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+53,8.5,0,Abdur Razzak,2009-07-28,1st,DS Smith,6,,DM Richards,19,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+54,8.6,0,Abdur Razzak,2009-07-28,1st,DS Smith,6,,DM Richards,19,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+55,9.1,0,Shakib Al Hasan,2009-07-28,1st,DM Richards,19,,DS Smith,6,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+56,9.2,0,Shakib Al Hasan,2009-07-28,1st,DM Richards,19,,DS Smith,6,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+57,9.3,2,Shakib Al Hasan,2009-07-28,1st,DM Richards,19,,DS Smith,8,West Indies,Bangladesh,50,West Indies,"Windsor Park, Roseau",1,Bangladesh
+58,9.4,0,Shakib Al Hasan,2009-07-28,1st,DM Richards,19,,DS Smith,8,West Indies,Bangladesh,50,West Indies,"Windsor Park, Roseau",1,Bangladesh
+59,9.5,0,Shakib Al Hasan,2009-07-28,1st,DM Richards,19,,DS Smith,8,West Indies,Bangladesh,50,West Indies,"Windsor Park, Roseau",1,Bangladesh
+60,9.6,0,Shakib Al Hasan,2009-07-28,1st,DM Richards,19,,DS Smith,8,West Indies,Bangladesh,50,West Indies,"Windsor Park, Roseau",1,Bangladesh
+61,10.1,0,Abdur Razzak,2009-07-28,1st,DS Smith,8,,DM Richards,19,West Indies,Bangladesh,50,West Indies,"Windsor Park, Roseau",1,Bangladesh
+62,10.2,0,Abdur Razzak,2009-07-28,1st,DS Smith,8,,DM Richards,19,West Indies,Bangladesh,51,West Indies,"Windsor Park, Roseau",1,Bangladesh
+63,10.3,1,Abdur Razzak,2009-07-28,1st,DS Smith,8,,DM Richards,20,West Indies,Bangladesh,52,West Indies,"Windsor Park, Roseau",1,Bangladesh
+64,10.4,0,Abdur Razzak,2009-07-28,1st,DM Richards,20,DM Richards,DS Smith,8,West Indies,Bangladesh,52,West Indies,"Windsor Park, Roseau",2,Bangladesh
+65,10.5,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,0,,DS Smith,8,West Indies,Bangladesh,52,West Indies,"Windsor Park, Roseau",2,Bangladesh
+66,10.6,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,0,,DS Smith,8,West Indies,Bangladesh,52,West Indies,"Windsor Park, Roseau",2,Bangladesh
+67,10.7,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,0,,DS Smith,8,West Indies,Bangladesh,52,West Indies,"Windsor Park, Roseau",2,Bangladesh
+68,11.1,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,8,,TM Dowlin,0,West Indies,Bangladesh,52,West Indies,"Windsor Park, Roseau",2,Bangladesh
+69,11.2,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,8,,TM Dowlin,0,West Indies,Bangladesh,52,West Indies,"Windsor Park, Roseau",2,Bangladesh
+70,11.3,1,Shakib Al Hasan,2009-07-28,1st,DS Smith,8,,TM Dowlin,1,West Indies,Bangladesh,53,West Indies,"Windsor Park, Roseau",2,Bangladesh
+71,11.4,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,1,,DS Smith,9,West Indies,Bangladesh,54,West Indies,"Windsor Park, Roseau",2,Bangladesh
+72,11.5,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,9,,TM Dowlin,1,West Indies,Bangladesh,54,West Indies,"Windsor Park, Roseau",2,Bangladesh
+73,11.6,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,9,,TM Dowlin,1,West Indies,Bangladesh,54,West Indies,"Windsor Park, Roseau",2,Bangladesh
+74,12.1,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,1,,DS Smith,9,West Indies,Bangladesh,54,West Indies,"Windsor Park, Roseau",2,Bangladesh
+75,12.2,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,1,,DS Smith,9,West Indies,Bangladesh,54,West Indies,"Windsor Park, Roseau",2,Bangladesh
+76,12.3,2,Abdur Razzak,2009-07-28,1st,TM Dowlin,1,,DS Smith,11,West Indies,Bangladesh,56,West Indies,"Windsor Park, Roseau",2,Bangladesh
+77,12.4,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,1,,DS Smith,12,West Indies,Bangladesh,57,West Indies,"Windsor Park, Roseau",2,Bangladesh
+78,12.5,0,Abdur Razzak,2009-07-28,1st,DS Smith,12,,TM Dowlin,1,West Indies,Bangladesh,57,West Indies,"Windsor Park, Roseau",2,Bangladesh
+79,12.6,0,Abdur Razzak,2009-07-28,1st,DS Smith,12,,TM Dowlin,1,West Indies,Bangladesh,57,West Indies,"Windsor Park, Roseau",2,Bangladesh
+80,13.1,0,Naeem Islam,2009-07-28,1st,TM Dowlin,1,,DS Smith,12,West Indies,Bangladesh,57,West Indies,"Windsor Park, Roseau",2,Bangladesh
+81,13.2,1,Naeem Islam,2009-07-28,1st,TM Dowlin,1,,DS Smith,13,West Indies,Bangladesh,58,West Indies,"Windsor Park, Roseau",2,Bangladesh
+82,13.3,0,Naeem Islam,2009-07-28,1st,DS Smith,13,,TM Dowlin,1,West Indies,Bangladesh,58,West Indies,"Windsor Park, Roseau",2,Bangladesh
+83,13.4,0,Naeem Islam,2009-07-28,1st,DS Smith,13,,TM Dowlin,1,West Indies,Bangladesh,58,West Indies,"Windsor Park, Roseau",2,Bangladesh
+84,13.5,1,Naeem Islam,2009-07-28,1st,DS Smith,13,,TM Dowlin,2,West Indies,Bangladesh,59,West Indies,"Windsor Park, Roseau",2,Bangladesh
+85,13.6,2,Naeem Islam,2009-07-28,1st,TM Dowlin,2,,DS Smith,15,West Indies,Bangladesh,61,West Indies,"Windsor Park, Roseau",2,Bangladesh
+86,14.1,0,Abdur Razzak,2009-07-28,1st,DS Smith,15,,TM Dowlin,2,West Indies,Bangladesh,61,West Indies,"Windsor Park, Roseau",2,Bangladesh
+87,14.2,1,Abdur Razzak,2009-07-28,1st,DS Smith,15,,TM Dowlin,3,West Indies,Bangladesh,62,West Indies,"Windsor Park, Roseau",2,Bangladesh
+88,14.3,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,3,,DS Smith,15,West Indies,Bangladesh,62,West Indies,"Windsor Park, Roseau",2,Bangladesh
+89,14.4,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,3,,DS Smith,15,West Indies,Bangladesh,62,West Indies,"Windsor Park, Roseau",2,Bangladesh
+90,14.5,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,3,,DS Smith,15,West Indies,Bangladesh,62,West Indies,"Windsor Park, Roseau",2,Bangladesh
+91,14.6,2,Abdur Razzak,2009-07-28,1st,TM Dowlin,3,,DS Smith,17,West Indies,Bangladesh,64,West Indies,"Windsor Park, Roseau",2,Bangladesh
+92,15.1,0,Naeem Islam,2009-07-28,1st,DS Smith,17,,TM Dowlin,3,West Indies,Bangladesh,64,West Indies,"Windsor Park, Roseau",2,Bangladesh
+93,15.2,1,Naeem Islam,2009-07-28,1st,DS Smith,17,,TM Dowlin,4,West Indies,Bangladesh,65,West Indies,"Windsor Park, Roseau",2,Bangladesh
+94,15.3,0,Naeem Islam,2009-07-28,1st,TM Dowlin,4,,DS Smith,17,West Indies,Bangladesh,65,West Indies,"Windsor Park, Roseau",2,Bangladesh
+95,15.4,0,Naeem Islam,2009-07-28,1st,TM Dowlin,4,,DS Smith,17,West Indies,Bangladesh,65,West Indies,"Windsor Park, Roseau",2,Bangladesh
+96,15.5,0,Naeem Islam,2009-07-28,1st,TM Dowlin,4,,DS Smith,17,West Indies,Bangladesh,65,West Indies,"Windsor Park, Roseau",2,Bangladesh
+97,15.6,1,Naeem Islam,2009-07-28,1st,TM Dowlin,4,,DS Smith,18,West Indies,Bangladesh,66,West Indies,"Windsor Park, Roseau",2,Bangladesh
+98,16.1,0,Mahmudullah,2009-07-28,1st,TM Dowlin,4,,DS Smith,18,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+99,16.2,0,Mahmudullah,2009-07-28,1st,DS Smith,18,,TM Dowlin,4,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+100,16.3,0,Mahmudullah,2009-07-28,1st,DS Smith,18,,TM Dowlin,4,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+101,16.4,0,Mahmudullah,2009-07-28,1st,DS Smith,18,,TM Dowlin,4,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+102,16.5,0,Mahmudullah,2009-07-28,1st,DS Smith,18,,TM Dowlin,4,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+103,16.6,0,Mahmudullah,2009-07-28,1st,DS Smith,18,,TM Dowlin,4,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+104,17.1,0,Naeem Islam,2009-07-28,1st,TM Dowlin,4,,DS Smith,18,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+105,17.2,1,Naeem Islam,2009-07-28,1st,TM Dowlin,4,,DS Smith,19,West Indies,Bangladesh,68,West Indies,"Windsor Park, Roseau",2,Bangladesh
+106,17.3,0,Naeem Islam,2009-07-28,1st,DS Smith,19,,TM Dowlin,4,West Indies,Bangladesh,68,West Indies,"Windsor Park, Roseau",2,Bangladesh
+107,17.4,4,Naeem Islam,2009-07-28,1st,DS Smith,19,,TM Dowlin,8,West Indies,Bangladesh,72,West Indies,"Windsor Park, Roseau",2,Bangladesh
+108,17.5,1,Naeem Islam,2009-07-28,1st,DS Smith,19,,TM Dowlin,9,West Indies,Bangladesh,73,West Indies,"Windsor Park, Roseau",2,Bangladesh
+109,17.6,0,Naeem Islam,2009-07-28,1st,TM Dowlin,9,,DS Smith,19,West Indies,Bangladesh,73,West Indies,"Windsor Park, Roseau",2,Bangladesh
+110,18.1,1,Mahmudullah,2009-07-28,1st,DS Smith,19,,TM Dowlin,10,West Indies,Bangladesh,74,West Indies,"Windsor Park, Roseau",2,Bangladesh
+111,18.2,1,Mahmudullah,2009-07-28,1st,TM Dowlin,10,,DS Smith,20,West Indies,Bangladesh,75,West Indies,"Windsor Park, Roseau",2,Bangladesh
+112,18.3,1,Mahmudullah,2009-07-28,1st,DS Smith,20,,TM Dowlin,11,West Indies,Bangladesh,76,West Indies,"Windsor Park, Roseau",2,Bangladesh
+113,18.4,1,Mahmudullah,2009-07-28,1st,TM Dowlin,11,,DS Smith,21,West Indies,Bangladesh,77,West Indies,"Windsor Park, Roseau",2,Bangladesh
+114,18.5,0,Mahmudullah,2009-07-28,1st,DS Smith,21,,TM Dowlin,11,West Indies,Bangladesh,77,West Indies,"Windsor Park, Roseau",2,Bangladesh
+115,18.6,0,Mahmudullah,2009-07-28,1st,DS Smith,21,,TM Dowlin,11,West Indies,Bangladesh,78,West Indies,"Windsor Park, Roseau",2,Bangladesh
+116,18.7,1,Mahmudullah,2009-07-28,1st,DS Smith,21,,TM Dowlin,12,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+117,19.1,0,Naeem Islam,2009-07-28,1st,DS Smith,21,,TM Dowlin,12,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+118,19.2,0,Naeem Islam,2009-07-28,1st,DS Smith,21,,TM Dowlin,12,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+119,19.3,0,Naeem Islam,2009-07-28,1st,DS Smith,21,,TM Dowlin,12,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+120,19.4,1,Naeem Islam,2009-07-28,1st,DS Smith,21,,TM Dowlin,13,West Indies,Bangladesh,80,West Indies,"Windsor Park, Roseau",2,Bangladesh
+121,19.5,0,Naeem Islam,2009-07-28,1st,TM Dowlin,13,,DS Smith,21,West Indies,Bangladesh,80,West Indies,"Windsor Park, Roseau",2,Bangladesh
+122,19.6,0,Naeem Islam,2009-07-28,1st,TM Dowlin,13,,DS Smith,21,West Indies,Bangladesh,80,West Indies,"Windsor Park, Roseau",2,Bangladesh
+123,20.1,1,Mahmudullah,2009-07-28,1st,DS Smith,21,,TM Dowlin,14,West Indies,Bangladesh,81,West Indies,"Windsor Park, Roseau",2,Bangladesh
+124,20.2,1,Mahmudullah,2009-07-28,1st,TM Dowlin,14,,DS Smith,22,West Indies,Bangladesh,82,West Indies,"Windsor Park, Roseau",2,Bangladesh
+125,20.3,0,Mahmudullah,2009-07-28,1st,DS Smith,22,,TM Dowlin,14,West Indies,Bangladesh,82,West Indies,"Windsor Park, Roseau",2,Bangladesh
+126,20.4,0,Mahmudullah,2009-07-28,1st,DS Smith,22,,TM Dowlin,14,West Indies,Bangladesh,82,West Indies,"Windsor Park, Roseau",2,Bangladesh
+127,20.5,1,Mahmudullah,2009-07-28,1st,DS Smith,22,,TM Dowlin,15,West Indies,Bangladesh,83,West Indies,"Windsor Park, Roseau",2,Bangladesh
+128,20.6,0,Mahmudullah,2009-07-28,1st,TM Dowlin,15,,DS Smith,22,West Indies,Bangladesh,83,West Indies,"Windsor Park, Roseau",2,Bangladesh
+129,21.1,1,Naeem Islam,2009-07-28,1st,DS Smith,22,,TM Dowlin,16,West Indies,Bangladesh,84,West Indies,"Windsor Park, Roseau",2,Bangladesh
+130,21.2,0,Naeem Islam,2009-07-28,1st,TM Dowlin,16,,DS Smith,22,West Indies,Bangladesh,84,West Indies,"Windsor Park, Roseau",2,Bangladesh
+131,21.3,1,Naeem Islam,2009-07-28,1st,TM Dowlin,16,,DS Smith,23,West Indies,Bangladesh,85,West Indies,"Windsor Park, Roseau",2,Bangladesh
+132,21.4,0,Naeem Islam,2009-07-28,1st,DS Smith,23,,TM Dowlin,16,West Indies,Bangladesh,86,West Indies,"Windsor Park, Roseau",2,Bangladesh
+133,21.5,0,Naeem Islam,2009-07-28,1st,TM Dowlin,16,,DS Smith,23,West Indies,Bangladesh,86,West Indies,"Windsor Park, Roseau",2,Bangladesh
+134,21.6,0,Naeem Islam,2009-07-28,1st,TM Dowlin,16,,DS Smith,23,West Indies,Bangladesh,86,West Indies,"Windsor Park, Roseau",2,Bangladesh
+135,22.1,0,Mahmudullah,2009-07-28,1st,DS Smith,23,,TM Dowlin,16,West Indies,Bangladesh,86,West Indies,"Windsor Park, Roseau",2,Bangladesh
+136,22.2,1,Mahmudullah,2009-07-28,1st,DS Smith,23,,TM Dowlin,17,West Indies,Bangladesh,87,West Indies,"Windsor Park, Roseau",2,Bangladesh
+137,22.3,6,Mahmudullah,2009-07-28,1st,TM Dowlin,17,,DS Smith,29,West Indies,Bangladesh,93,West Indies,"Windsor Park, Roseau",2,Bangladesh
+138,22.4,1,Mahmudullah,2009-07-28,1st,TM Dowlin,17,,DS Smith,30,West Indies,Bangladesh,94,West Indies,"Windsor Park, Roseau",2,Bangladesh
+139,22.5,1,Mahmudullah,2009-07-28,1st,DS Smith,30,,TM Dowlin,18,West Indies,Bangladesh,95,West Indies,"Windsor Park, Roseau",2,Bangladesh
+140,22.6,2,Mahmudullah,2009-07-28,1st,TM Dowlin,18,,DS Smith,32,West Indies,Bangladesh,97,West Indies,"Windsor Park, Roseau",2,Bangladesh
+141,23.1,0,Naeem Islam,2009-07-28,1st,DS Smith,32,,TM Dowlin,18,West Indies,Bangladesh,97,West Indies,"Windsor Park, Roseau",2,Bangladesh
+142,23.2,0,Naeem Islam,2009-07-28,1st,DS Smith,32,,TM Dowlin,18,West Indies,Bangladesh,97,West Indies,"Windsor Park, Roseau",2,Bangladesh
+143,23.3,1,Naeem Islam,2009-07-28,1st,DS Smith,32,,TM Dowlin,19,West Indies,Bangladesh,98,West Indies,"Windsor Park, Roseau",2,Bangladesh
+144,23.4,0,Naeem Islam,2009-07-28,1st,TM Dowlin,19,,DS Smith,32,West Indies,Bangladesh,98,West Indies,"Windsor Park, Roseau",2,Bangladesh
+145,23.5,0,Naeem Islam,2009-07-28,1st,TM Dowlin,19,,DS Smith,32,West Indies,Bangladesh,98,West Indies,"Windsor Park, Roseau",2,Bangladesh
+146,23.6,0,Naeem Islam,2009-07-28,1st,TM Dowlin,19,,DS Smith,32,West Indies,Bangladesh,99,West Indies,"Windsor Park, Roseau",2,Bangladesh
+147,23.7,2,Naeem Islam,2009-07-28,1st,TM Dowlin,19,,DS Smith,34,West Indies,Bangladesh,101,West Indies,"Windsor Park, Roseau",2,Bangladesh
+148,24.1,3,Rubel Hossain,2009-07-28,1st,DS Smith,34,,TM Dowlin,22,West Indies,Bangladesh,104,West Indies,"Windsor Park, Roseau",2,Bangladesh
+149,24.2,0,Rubel Hossain,2009-07-28,1st,TM Dowlin,22,,DS Smith,34,West Indies,Bangladesh,104,West Indies,"Windsor Park, Roseau",2,Bangladesh
+150,24.3,0,Rubel Hossain,2009-07-28,1st,TM Dowlin,22,,DS Smith,34,West Indies,Bangladesh,104,West Indies,"Windsor Park, Roseau",2,Bangladesh
+151,24.4,1,Rubel Hossain,2009-07-28,1st,TM Dowlin,22,,DS Smith,35,West Indies,Bangladesh,105,West Indies,"Windsor Park, Roseau",2,Bangladesh
+152,24.5,1,Rubel Hossain,2009-07-28,1st,DS Smith,35,,TM Dowlin,23,West Indies,Bangladesh,106,West Indies,"Windsor Park, Roseau",2,Bangladesh
+153,24.6,2,Rubel Hossain,2009-07-28,1st,TM Dowlin,23,,DS Smith,37,West Indies,Bangladesh,108,West Indies,"Windsor Park, Roseau",2,Bangladesh
+154,25.1,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,37,,TM Dowlin,23,West Indies,Bangladesh,108,West Indies,"Windsor Park, Roseau",2,Bangladesh
+155,25.2,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,37,,TM Dowlin,23,West Indies,Bangladesh,108,West Indies,"Windsor Park, Roseau",2,Bangladesh
+156,25.3,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,37,,TM Dowlin,23,West Indies,Bangladesh,108,West Indies,"Windsor Park, Roseau",2,Bangladesh
+157,25.4,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,37,,TM Dowlin,23,West Indies,Bangladesh,108,West Indies,"Windsor Park, Roseau",2,Bangladesh
+158,25.5,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,37,,TM Dowlin,23,West Indies,Bangladesh,108,West Indies,"Windsor Park, Roseau",2,Bangladesh
+159,25.6,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,37,,TM Dowlin,23,West Indies,Bangladesh,108,West Indies,"Windsor Park, Roseau",2,Bangladesh
+160,26.1,0,Rubel Hossain,2009-07-28,1st,TM Dowlin,23,,DS Smith,37,West Indies,Bangladesh,109,West Indies,"Windsor Park, Roseau",2,Bangladesh
+161,26.2,1,Rubel Hossain,2009-07-28,1st,TM Dowlin,23,,DS Smith,38,West Indies,Bangladesh,110,West Indies,"Windsor Park, Roseau",2,Bangladesh
+162,26.3,0,Rubel Hossain,2009-07-28,1st,DS Smith,38,,TM Dowlin,23,West Indies,Bangladesh,110,West Indies,"Windsor Park, Roseau",2,Bangladesh
+163,26.4,0,Rubel Hossain,2009-07-28,1st,DS Smith,38,,TM Dowlin,23,West Indies,Bangladesh,110,West Indies,"Windsor Park, Roseau",2,Bangladesh
+164,26.5,1,Rubel Hossain,2009-07-28,1st,DS Smith,38,,TM Dowlin,24,West Indies,Bangladesh,111,West Indies,"Windsor Park, Roseau",2,Bangladesh
+165,26.6,2,Rubel Hossain,2009-07-28,1st,TM Dowlin,24,,DS Smith,40,West Indies,Bangladesh,113,West Indies,"Windsor Park, Roseau",2,Bangladesh
+166,26.7,1,Rubel Hossain,2009-07-28,1st,TM Dowlin,24,,DS Smith,41,West Indies,Bangladesh,114,West Indies,"Windsor Park, Roseau",2,Bangladesh
+167,27.1,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,24,,DS Smith,41,West Indies,Bangladesh,114,West Indies,"Windsor Park, Roseau",2,Bangladesh
+168,27.2,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,24,,DS Smith,42,West Indies,Bangladesh,115,West Indies,"Windsor Park, Roseau",2,Bangladesh
+169,27.3,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,42,,TM Dowlin,24,West Indies,Bangladesh,115,West Indies,"Windsor Park, Roseau",2,Bangladesh
+170,27.4,0,Shakib Al Hasan,2009-07-28,1st,DS Smith,42,,TM Dowlin,24,West Indies,Bangladesh,115,West Indies,"Windsor Park, Roseau",2,Bangladesh
+171,27.5,1,Shakib Al Hasan,2009-07-28,1st,DS Smith,42,,TM Dowlin,25,West Indies,Bangladesh,116,West Indies,"Windsor Park, Roseau",2,Bangladesh
+172,27.6,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,25,,DS Smith,43,West Indies,Bangladesh,117,West Indies,"Windsor Park, Roseau",2,Bangladesh
+173,28.1,1,Syed Rasel,2009-07-28,1st,TM Dowlin,25,DS Smith,DS Smith,44,West Indies,Bangladesh,118,West Indies,"Windsor Park, Roseau",3,Bangladesh
+174,28.2,1,Syed Rasel,2009-07-28,1st,TM Dowlin,25,,FL Reifer,1,West Indies,Bangladesh,119,West Indies,"Windsor Park, Roseau",3,Bangladesh
+175,28.3,1,Syed Rasel,2009-07-28,1st,FL Reifer,1,,TM Dowlin,26,West Indies,Bangladesh,120,West Indies,"Windsor Park, Roseau",3,Bangladesh
+176,28.4,2,Syed Rasel,2009-07-28,1st,TM Dowlin,26,,FL Reifer,3,West Indies,Bangladesh,122,West Indies,"Windsor Park, Roseau",3,Bangladesh
+177,28.5,0,Syed Rasel,2009-07-28,1st,TM Dowlin,26,,FL Reifer,3,West Indies,Bangladesh,122,West Indies,"Windsor Park, Roseau",3,Bangladesh
+178,28.6,0,Syed Rasel,2009-07-28,1st,TM Dowlin,26,,FL Reifer,3,West Indies,Bangladesh,122,West Indies,"Windsor Park, Roseau",3,Bangladesh
+179,29.1,0,Mahmudullah,2009-07-28,1st,FL Reifer,3,,TM Dowlin,26,West Indies,Bangladesh,122,West Indies,"Windsor Park, Roseau",3,Bangladesh
+180,29.2,0,Mahmudullah,2009-07-28,1st,FL Reifer,3,,TM Dowlin,26,West Indies,Bangladesh,122,West Indies,"Windsor Park, Roseau",3,Bangladesh
+181,29.3,1,Mahmudullah,2009-07-28,1st,FL Reifer,3,,TM Dowlin,27,West Indies,Bangladesh,123,West Indies,"Windsor Park, Roseau",3,Bangladesh
+182,29.4,0,Mahmudullah,2009-07-28,1st,TM Dowlin,27,,FL Reifer,3,West Indies,Bangladesh,123,West Indies,"Windsor Park, Roseau",3,Bangladesh
+183,29.5,0,Mahmudullah,2009-07-28,1st,TM Dowlin,27,,FL Reifer,3,West Indies,Bangladesh,123,West Indies,"Windsor Park, Roseau",3,Bangladesh
+184,29.6,0,Mahmudullah,2009-07-28,1st,TM Dowlin,27,,FL Reifer,3,West Indies,Bangladesh,123,West Indies,"Windsor Park, Roseau",3,Bangladesh
+185,30.1,0,Naeem Islam,2009-07-28,1st,FL Reifer,3,,TM Dowlin,27,West Indies,Bangladesh,123,West Indies,"Windsor Park, Roseau",3,Bangladesh
+186,30.2,1,Naeem Islam,2009-07-28,1st,FL Reifer,3,,TM Dowlin,28,West Indies,Bangladesh,124,West Indies,"Windsor Park, Roseau",3,Bangladesh
+187,30.3,1,Naeem Islam,2009-07-28,1st,TM Dowlin,28,,FL Reifer,4,West Indies,Bangladesh,125,West Indies,"Windsor Park, Roseau",3,Bangladesh
+188,30.4,0,Naeem Islam,2009-07-28,1st,FL Reifer,4,,TM Dowlin,28,West Indies,Bangladesh,125,West Indies,"Windsor Park, Roseau",3,Bangladesh
+189,30.5,1,Naeem Islam,2009-07-28,1st,FL Reifer,4,,TM Dowlin,29,West Indies,Bangladesh,126,West Indies,"Windsor Park, Roseau",3,Bangladesh
+190,30.6,1,Naeem Islam,2009-07-28,1st,TM Dowlin,29,,FL Reifer,5,West Indies,Bangladesh,127,West Indies,"Windsor Park, Roseau",3,Bangladesh
+191,31.1,1,Mahmudullah,2009-07-28,1st,TM Dowlin,29,,FL Reifer,6,West Indies,Bangladesh,128,West Indies,"Windsor Park, Roseau",3,Bangladesh
+192,31.2,0,Mahmudullah,2009-07-28,1st,FL Reifer,6,,TM Dowlin,29,West Indies,Bangladesh,128,West Indies,"Windsor Park, Roseau",3,Bangladesh
+193,31.3,3,Mahmudullah,2009-07-28,1st,FL Reifer,6,,TM Dowlin,32,West Indies,Bangladesh,131,West Indies,"Windsor Park, Roseau",3,Bangladesh
+194,31.4,1,Mahmudullah,2009-07-28,1st,TM Dowlin,32,,FL Reifer,7,West Indies,Bangladesh,132,West Indies,"Windsor Park, Roseau",3,Bangladesh
+195,31.5,1,Mahmudullah,2009-07-28,1st,FL Reifer,7,,TM Dowlin,33,West Indies,Bangladesh,133,West Indies,"Windsor Park, Roseau",3,Bangladesh
+196,31.6,0,Mahmudullah,2009-07-28,1st,TM Dowlin,33,,FL Reifer,7,West Indies,Bangladesh,133,West Indies,"Windsor Park, Roseau",3,Bangladesh
+197,32.1,1,Naeem Islam,2009-07-28,1st,FL Reifer,7,,TM Dowlin,34,West Indies,Bangladesh,134,West Indies,"Windsor Park, Roseau",3,Bangladesh
+198,32.2,0,Naeem Islam,2009-07-28,1st,TM Dowlin,34,FL Reifer,FL Reifer,7,West Indies,Bangladesh,134,West Indies,"Windsor Park, Roseau",4,Bangladesh
+199,32.3,0,Naeem Islam,2009-07-28,1st,TM Dowlin,34,,DE Bernard,0,West Indies,Bangladesh,134,West Indies,"Windsor Park, Roseau",4,Bangladesh
+200,32.4,1,Naeem Islam,2009-07-28,1st,TM Dowlin,34,,DE Bernard,1,West Indies,Bangladesh,135,West Indies,"Windsor Park, Roseau",4,Bangladesh
+201,32.5,1,Naeem Islam,2009-07-28,1st,DE Bernard,1,,TM Dowlin,35,West Indies,Bangladesh,136,West Indies,"Windsor Park, Roseau",4,Bangladesh
+202,32.6,0,Naeem Islam,2009-07-28,1st,TM Dowlin,35,,DE Bernard,1,West Indies,Bangladesh,136,West Indies,"Windsor Park, Roseau",4,Bangladesh
+203,33.1,2,Abdur Razzak,2009-07-28,1st,DE Bernard,1,,TM Dowlin,37,West Indies,Bangladesh,138,West Indies,"Windsor Park, Roseau",4,Bangladesh
+204,33.2,1,Abdur Razzak,2009-07-28,1st,DE Bernard,1,,TM Dowlin,38,West Indies,Bangladesh,139,West Indies,"Windsor Park, Roseau",4,Bangladesh
+205,33.3,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,38,,DE Bernard,1,West Indies,Bangladesh,140,West Indies,"Windsor Park, Roseau",4,Bangladesh
+206,33.4,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,38,,DE Bernard,2,West Indies,Bangladesh,141,West Indies,"Windsor Park, Roseau",4,Bangladesh
+207,33.5,1,Abdur Razzak,2009-07-28,1st,DE Bernard,2,,TM Dowlin,39,West Indies,Bangladesh,142,West Indies,"Windsor Park, Roseau",4,Bangladesh
+208,33.6,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,39,,DE Bernard,2,West Indies,Bangladesh,142,West Indies,"Windsor Park, Roseau",4,Bangladesh
+209,33.7,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,39,,DE Bernard,2,West Indies,Bangladesh,142,West Indies,"Windsor Park, Roseau",4,Bangladesh
+210,34.1,1,Mahmudullah,2009-07-28,1st,DE Bernard,2,,TM Dowlin,40,West Indies,Bangladesh,143,West Indies,"Windsor Park, Roseau",4,Bangladesh
+211,34.2,4,Mahmudullah,2009-07-28,1st,TM Dowlin,40,,DE Bernard,6,West Indies,Bangladesh,147,West Indies,"Windsor Park, Roseau",4,Bangladesh
+212,34.3,0,Mahmudullah,2009-07-28,1st,TM Dowlin,40,,DE Bernard,6,West Indies,Bangladesh,147,West Indies,"Windsor Park, Roseau",4,Bangladesh
+213,34.4,4,Mahmudullah,2009-07-28,1st,TM Dowlin,40,,DE Bernard,10,West Indies,Bangladesh,151,West Indies,"Windsor Park, Roseau",4,Bangladesh
+214,34.5,1,Mahmudullah,2009-07-28,1st,TM Dowlin,40,,DE Bernard,11,West Indies,Bangladesh,152,West Indies,"Windsor Park, Roseau",4,Bangladesh
+215,34.6,0,Mahmudullah,2009-07-28,1st,DE Bernard,11,,TM Dowlin,40,West Indies,Bangladesh,152,West Indies,"Windsor Park, Roseau",4,Bangladesh
+216,35.1,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,40,,DE Bernard,12,West Indies,Bangladesh,153,West Indies,"Windsor Park, Roseau",4,Bangladesh
+217,35.2,1,Abdur Razzak,2009-07-28,1st,DE Bernard,12,,TM Dowlin,41,West Indies,Bangladesh,154,West Indies,"Windsor Park, Roseau",4,Bangladesh
+218,35.3,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,41,,DE Bernard,12,West Indies,Bangladesh,156,West Indies,"Windsor Park, Roseau",4,Bangladesh
+219,35.4,1,Abdur Razzak,2009-07-28,1st,DE Bernard,12,,TM Dowlin,42,West Indies,Bangladesh,157,West Indies,"Windsor Park, Roseau",4,Bangladesh
+220,35.5,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,42,,DE Bernard,12,West Indies,Bangladesh,157,West Indies,"Windsor Park, Roseau",4,Bangladesh
+221,35.6,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,42,,DE Bernard,13,West Indies,Bangladesh,158,West Indies,"Windsor Park, Roseau",4,Bangladesh
+222,35.7,0,Abdur Razzak,2009-07-28,1st,DE Bernard,13,,TM Dowlin,42,West Indies,Bangladesh,158,West Indies,"Windsor Park, Roseau",4,Bangladesh
+223,36.1,1,Mahmudullah,2009-07-28,1st,TM Dowlin,42,,DE Bernard,14,West Indies,Bangladesh,159,West Indies,"Windsor Park, Roseau",4,Bangladesh
+224,36.2,1,Mahmudullah,2009-07-28,1st,DE Bernard,14,,TM Dowlin,43,West Indies,Bangladesh,160,West Indies,"Windsor Park, Roseau",4,Bangladesh
+225,36.3,1,Mahmudullah,2009-07-28,1st,TM Dowlin,43,,DE Bernard,15,West Indies,Bangladesh,161,West Indies,"Windsor Park, Roseau",4,Bangladesh
+226,36.4,0,Mahmudullah,2009-07-28,1st,DE Bernard,15,,TM Dowlin,43,West Indies,Bangladesh,162,West Indies,"Windsor Park, Roseau",4,Bangladesh
+227,36.5,1,Mahmudullah,2009-07-28,1st,DE Bernard,15,,TM Dowlin,44,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",4,Bangladesh
+228,36.6,0,Mahmudullah,2009-07-28,1st,TM Dowlin,44,,DE Bernard,15,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",4,Bangladesh
+229,36.7,0,Mahmudullah,2009-07-28,1st,TM Dowlin,44,,DE Bernard,15,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",4,Bangladesh
+230,37.1,0,Abdur Razzak,2009-07-28,1st,DE Bernard,15,,TM Dowlin,44,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",4,Bangladesh
+231,37.2,0,Abdur Razzak,2009-07-28,1st,DE Bernard,15,,TM Dowlin,44,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",4,Bangladesh
+232,37.3,1,Abdur Razzak,2009-07-28,1st,DE Bernard,15,,TM Dowlin,45,West Indies,Bangladesh,164,West Indies,"Windsor Park, Roseau",4,Bangladesh
+233,37.4,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,45,,DE Bernard,16,West Indies,Bangladesh,165,West Indies,"Windsor Park, Roseau",4,Bangladesh
+234,37.5,1,Abdur Razzak,2009-07-28,1st,DE Bernard,16,,TM Dowlin,46,West Indies,Bangladesh,166,West Indies,"Windsor Park, Roseau",4,Bangladesh
+235,37.6,2,Abdur Razzak,2009-07-28,1st,TM Dowlin,46,,DE Bernard,18,West Indies,Bangladesh,168,West Indies,"Windsor Park, Roseau",4,Bangladesh
+236,38.1,1,Mahmudullah,2009-07-28,1st,DE Bernard,18,,TM Dowlin,47,West Indies,Bangladesh,169,West Indies,"Windsor Park, Roseau",4,Bangladesh
+237,38.2,1,Mahmudullah,2009-07-28,1st,TM Dowlin,47,,DE Bernard,19,West Indies,Bangladesh,170,West Indies,"Windsor Park, Roseau",4,Bangladesh
+238,38.3,0,Mahmudullah,2009-07-28,1st,DE Bernard,19,,TM Dowlin,47,West Indies,Bangladesh,170,West Indies,"Windsor Park, Roseau",4,Bangladesh
+239,38.4,0,Mahmudullah,2009-07-28,1st,DE Bernard,19,,TM Dowlin,47,West Indies,Bangladesh,170,West Indies,"Windsor Park, Roseau",4,Bangladesh
+240,38.5,1,Mahmudullah,2009-07-28,1st,DE Bernard,19,,TM Dowlin,48,West Indies,Bangladesh,171,West Indies,"Windsor Park, Roseau",4,Bangladesh
+241,38.6,1,Mahmudullah,2009-07-28,1st,TM Dowlin,48,,DE Bernard,20,West Indies,Bangladesh,172,West Indies,"Windsor Park, Roseau",4,Bangladesh
+242,39.1,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,48,,DE Bernard,20,West Indies,Bangladesh,172,West Indies,"Windsor Park, Roseau",4,Bangladesh
+243,39.2,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,48,,DE Bernard,21,West Indies,Bangladesh,173,West Indies,"Windsor Park, Roseau",4,Bangladesh
+244,39.3,2,Shakib Al Hasan,2009-07-28,1st,DE Bernard,21,,TM Dowlin,50,West Indies,Bangladesh,175,West Indies,"Windsor Park, Roseau",4,Bangladesh
+245,39.4,1,Shakib Al Hasan,2009-07-28,1st,DE Bernard,21,,TM Dowlin,51,West Indies,Bangladesh,176,West Indies,"Windsor Park, Roseau",4,Bangladesh
+246,39.5,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,51,,DE Bernard,21,West Indies,Bangladesh,176,West Indies,"Windsor Park, Roseau",4,Bangladesh
+247,39.6,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,51,,DE Bernard,21,West Indies,Bangladesh,176,West Indies,"Windsor Park, Roseau",4,Bangladesh
+248,40.1,1,Abdur Razzak,2009-07-28,1st,DE Bernard,21,,TM Dowlin,52,West Indies,Bangladesh,177,West Indies,"Windsor Park, Roseau",4,Bangladesh
+249,40.2,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,52,,DE Bernard,22,West Indies,Bangladesh,178,West Indies,"Windsor Park, Roseau",4,Bangladesh
+250,40.3,2,Abdur Razzak,2009-07-28,1st,DE Bernard,22,,TM Dowlin,54,West Indies,Bangladesh,180,West Indies,"Windsor Park, Roseau",4,Bangladesh
+251,40.4,1,Abdur Razzak,2009-07-28,1st,DE Bernard,22,,TM Dowlin,55,West Indies,Bangladesh,181,West Indies,"Windsor Park, Roseau",4,Bangladesh
+252,40.5,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,55,DE Bernard,DE Bernard,22,West Indies,Bangladesh,181,West Indies,"Windsor Park, Roseau",5,Bangladesh
+253,40.6,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,55,,RN Lewis,0,West Indies,Bangladesh,181,West Indies,"Windsor Park, Roseau",5,Bangladesh
+254,41.1,1,Shakib Al Hasan,2009-07-28,1st,RN Lewis,0,,TM Dowlin,56,West Indies,Bangladesh,182,West Indies,"Windsor Park, Roseau",5,Bangladesh
+255,41.2,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,56,,RN Lewis,1,West Indies,Bangladesh,183,West Indies,"Windsor Park, Roseau",5,Bangladesh
+256,41.3,1,Shakib Al Hasan,2009-07-28,1st,RN Lewis,1,,TM Dowlin,57,West Indies,Bangladesh,184,West Indies,"Windsor Park, Roseau",5,Bangladesh
+257,41.4,6,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,57,,RN Lewis,7,West Indies,Bangladesh,190,West Indies,"Windsor Park, Roseau",5,Bangladesh
+258,41.5,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,57,,RN Lewis,7,West Indies,Bangladesh,190,West Indies,"Windsor Park, Roseau",5,Bangladesh
+259,41.6,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,57,,RN Lewis,7,West Indies,Bangladesh,190,West Indies,"Windsor Park, Roseau",5,Bangladesh
+260,42.1,1,Abdur Razzak,2009-07-28,1st,RN Lewis,7,,TM Dowlin,58,West Indies,Bangladesh,191,West Indies,"Windsor Park, Roseau",5,Bangladesh
+261,42.2,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,58,,RN Lewis,7,West Indies,Bangladesh,191,West Indies,"Windsor Park, Roseau",5,Bangladesh
+262,42.3,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,58,,RN Lewis,8,West Indies,Bangladesh,192,West Indies,"Windsor Park, Roseau",5,Bangladesh
+263,42.4,6,Abdur Razzak,2009-07-28,1st,RN Lewis,8,,TM Dowlin,64,West Indies,Bangladesh,198,West Indies,"Windsor Park, Roseau",5,Bangladesh
+264,42.5,4,Abdur Razzak,2009-07-28,1st,RN Lewis,8,,TM Dowlin,68,West Indies,Bangladesh,202,West Indies,"Windsor Park, Roseau",5,Bangladesh
+265,42.6,2,Abdur Razzak,2009-07-28,1st,RN Lewis,8,,TM Dowlin,70,West Indies,Bangladesh,204,West Indies,"Windsor Park, Roseau",5,Bangladesh
+266,43.1,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,70,,RN Lewis,8,West Indies,Bangladesh,204,West Indies,"Windsor Park, Roseau",5,Bangladesh
+267,43.2,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,70,,RN Lewis,9,West Indies,Bangladesh,205,West Indies,"Windsor Park, Roseau",5,Bangladesh
+268,43.3,4,Shakib Al Hasan,2009-07-28,1st,RN Lewis,9,,TM Dowlin,74,West Indies,Bangladesh,209,West Indies,"Windsor Park, Roseau",5,Bangladesh
+269,43.4,1,Shakib Al Hasan,2009-07-28,1st,RN Lewis,9,,TM Dowlin,75,West Indies,Bangladesh,210,West Indies,"Windsor Park, Roseau",5,Bangladesh
+270,43.5,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,75,,RN Lewis,10,West Indies,Bangladesh,211,West Indies,"Windsor Park, Roseau",5,Bangladesh
+271,43.6,2,Shakib Al Hasan,2009-07-28,1st,RN Lewis,10,,TM Dowlin,77,West Indies,Bangladesh,213,West Indies,"Windsor Park, Roseau",5,Bangladesh
+272,44.1,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,77,,RN Lewis,11,West Indies,Bangladesh,214,West Indies,"Windsor Park, Roseau",5,Bangladesh
+273,44.2,4,Abdur Razzak,2009-07-28,1st,RN Lewis,11,,TM Dowlin,81,West Indies,Bangladesh,218,West Indies,"Windsor Park, Roseau",5,Bangladesh
+274,44.3,4,Abdur Razzak,2009-07-28,1st,RN Lewis,11,,TM Dowlin,85,West Indies,Bangladesh,222,West Indies,"Windsor Park, Roseau",5,Bangladesh
+275,44.4,1,Abdur Razzak,2009-07-28,1st,RN Lewis,11,,TM Dowlin,86,West Indies,Bangladesh,223,West Indies,"Windsor Park, Roseau",5,Bangladesh
+276,44.5,0,Abdur Razzak,2009-07-28,1st,TM Dowlin,86,,RN Lewis,11,West Indies,Bangladesh,224,West Indies,"Windsor Park, Roseau",5,Bangladesh
+277,44.6,1,Abdur Razzak,2009-07-28,1st,TM Dowlin,86,,RN Lewis,12,West Indies,Bangladesh,225,West Indies,"Windsor Park, Roseau",5,Bangladesh
+278,44.7,1,Abdur Razzak,2009-07-28,1st,RN Lewis,12,,TM Dowlin,87,West Indies,Bangladesh,226,West Indies,"Windsor Park, Roseau",5,Bangladesh
+279,45.1,0,Syed Rasel,2009-07-28,1st,RN Lewis,12,,TM Dowlin,87,West Indies,Bangladesh,227,West Indies,"Windsor Park, Roseau",5,Bangladesh
+280,45.2,1,Syed Rasel,2009-07-28,1st,TM Dowlin,87,,RN Lewis,13,West Indies,Bangladesh,228,West Indies,"Windsor Park, Roseau",5,Bangladesh
+281,45.3,1,Syed Rasel,2009-07-28,1st,RN Lewis,13,,TM Dowlin,88,West Indies,Bangladesh,229,West Indies,"Windsor Park, Roseau",5,Bangladesh
+282,45.4,1,Syed Rasel,2009-07-28,1st,TM Dowlin,88,,RN Lewis,14,West Indies,Bangladesh,230,West Indies,"Windsor Park, Roseau",5,Bangladesh
+283,45.5,0,Syed Rasel,2009-07-28,1st,RN Lewis,14,,TM Dowlin,88,West Indies,Bangladesh,230,West Indies,"Windsor Park, Roseau",5,Bangladesh
+284,45.6,4,Syed Rasel,2009-07-28,1st,RN Lewis,14,,TM Dowlin,92,West Indies,Bangladesh,234,West Indies,"Windsor Park, Roseau",5,Bangladesh
+285,46.1,6,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,92,,RN Lewis,20,West Indies,Bangladesh,240,West Indies,"Windsor Park, Roseau",5,Bangladesh
+286,46.2,0,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,92,,RN Lewis,20,West Indies,Bangladesh,240,West Indies,"Windsor Park, Roseau",5,Bangladesh
+287,46.3,1,Shakib Al Hasan,2009-07-28,1st,TM Dowlin,92,,RN Lewis,21,West Indies,Bangladesh,241,West Indies,"Windsor Park, Roseau",5,Bangladesh
+288,46.4,2,Shakib Al Hasan,2009-07-28,1st,RN Lewis,21,,TM Dowlin,94,West Indies,Bangladesh,243,West Indies,"Windsor Park, Roseau",5,Bangladesh
+289,46.5,0,Shakib Al Hasan,2009-07-28,1st,RN Lewis,21,,TM Dowlin,94,West Indies,Bangladesh,243,West Indies,"Windsor Park, Roseau",5,Bangladesh
+290,46.6,0,Shakib Al Hasan,2009-07-28,1st,RN Lewis,21,,TM Dowlin,94,West Indies,Bangladesh,243,West Indies,"Windsor Park, Roseau",5,Bangladesh
+291,47.1,1,Syed Rasel,2009-07-28,1st,TM Dowlin,94,,RN Lewis,22,West Indies,Bangladesh,244,West Indies,"Windsor Park, Roseau",5,Bangladesh
+292,47.2,1,Syed Rasel,2009-07-28,1st,RN Lewis,22,,TM Dowlin,95,West Indies,Bangladesh,245,West Indies,"Windsor Park, Roseau",5,Bangladesh
+293,47.3,0,Syed Rasel,2009-07-28,1st,TM Dowlin,95,RN Lewis,RN Lewis,22,West Indies,Bangladesh,245,West Indies,"Windsor Park, Roseau",6,Bangladesh
+294,47.4,1,Syed Rasel,2009-07-28,1st,TM Dowlin,95,,DJG Sammy,1,West Indies,Bangladesh,246,West Indies,"Windsor Park, Roseau",6,Bangladesh
+295,47.5,2,Syed Rasel,2009-07-28,1st,DJG Sammy,1,,TM Dowlin,97,West Indies,Bangladesh,248,West Indies,"Windsor Park, Roseau",6,Bangladesh
+296,47.6,2,Syed Rasel,2009-07-28,1st,DJG Sammy,1,,TM Dowlin,99,West Indies,Bangladesh,250,West Indies,"Windsor Park, Roseau",6,Bangladesh
+297,48.1,2,Rubel Hossain,2009-07-28,1st,TM Dowlin,99,,DJG Sammy,3,West Indies,Bangladesh,252,West Indies,"Windsor Park, Roseau",6,Bangladesh
+298,48.2,4,Rubel Hossain,2009-07-28,1st,TM Dowlin,99,,DJG Sammy,7,West Indies,Bangladesh,256,West Indies,"Windsor Park, Roseau",6,Bangladesh
+299,48.3,0,Rubel Hossain,2009-07-28,1st,TM Dowlin,99,,DJG Sammy,7,West Indies,Bangladesh,256,West Indies,"Windsor Park, Roseau",6,Bangladesh
+300,48.4,0,Rubel Hossain,2009-07-28,1st,TM Dowlin,99,,DJG Sammy,7,West Indies,Bangladesh,256,West Indies,"Windsor Park, Roseau",6,Bangladesh
+301,48.5,4,Rubel Hossain,2009-07-28,1st,TM Dowlin,99,,DJG Sammy,11,West Indies,Bangladesh,260,West Indies,"Windsor Park, Roseau",6,Bangladesh
+302,48.6,2,Rubel Hossain,2009-07-28,1st,TM Dowlin,99,,DJG Sammy,13,West Indies,Bangladesh,262,West Indies,"Windsor Park, Roseau",6,Bangladesh
+303,49.1,0,Syed Rasel,2009-07-28,1st,DJG Sammy,13,,TM Dowlin,99,West Indies,Bangladesh,262,West Indies,"Windsor Park, Roseau",6,Bangladesh
+304,49.2,1,Syed Rasel,2009-07-28,1st,DJG Sammy,13,,TM Dowlin,100,West Indies,Bangladesh,263,West Indies,"Windsor Park, Roseau",6,Bangladesh
+305,49.3,4,Syed Rasel,2009-07-28,1st,TM Dowlin,100,,DJG Sammy,17,West Indies,Bangladesh,267,West Indies,"Windsor Park, Roseau",6,Bangladesh
+306,49.4,2,Syed Rasel,2009-07-28,1st,TM Dowlin,100,,DJG Sammy,19,West Indies,Bangladesh,269,West Indies,"Windsor Park, Roseau",6,Bangladesh
+307,49.5,4,Syed Rasel,2009-07-28,1st,TM Dowlin,100,,DJG Sammy,23,West Indies,Bangladesh,273,West Indies,"Windsor Park, Roseau",6,Bangladesh
+308,49.6,1,Syed Rasel,2009-07-28,1st,TM Dowlin,100,,DJG Sammy,24,West Indies,Bangladesh,274,West Indies,"Windsor Park, Roseau",6,Bangladesh
+309,0.1,1,KAJ Roach,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+310,0.2,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+311,0.3,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+312,0.4,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+313,0.5,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+314,0.6,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+315,1.1,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+316,1.2,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+317,1.3,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+318,1.4,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,1,West Indies,"Windsor Park, Roseau",0,Bangladesh
+319,1.5,1,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,2,West Indies,"Windsor Park, Roseau",0,Bangladesh
+320,1.6,1,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,3,West Indies,"Windsor Park, Roseau",0,Bangladesh
+321,2.1,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,3,West Indies,"Windsor Park, Roseau",0,Bangladesh
+322,2.2,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,3,West Indies,"Windsor Park, Roseau",0,Bangladesh
+323,2.3,2,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,5,West Indies,"Windsor Park, Roseau",0,Bangladesh
+324,2.4,1,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,6,West Indies,"Windsor Park, Roseau",0,Bangladesh
+325,2.5,1,KAJ Roach,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,7,West Indies,"Windsor Park, Roseau",0,Bangladesh
+326,2.6,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,7,West Indies,"Windsor Park, Roseau",0,Bangladesh
+327,3.1,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,7,West Indies,"Windsor Park, Roseau",0,Bangladesh
+328,3.2,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,7,West Indies,"Windsor Park, Roseau",0,Bangladesh
+329,3.3,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,7,West Indies,"Windsor Park, Roseau",0,Bangladesh
+330,3.4,1,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,8,West Indies,"Windsor Park, Roseau",0,Bangladesh
+331,3.5,1,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,9,West Indies,"Windsor Park, Roseau",0,Bangladesh
+332,3.6,2,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,11,West Indies,"Windsor Park, Roseau",0,Bangladesh
+333,4.1,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,11,West Indies,"Windsor Park, Roseau",0,Bangladesh
+334,4.2,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,11,West Indies,"Windsor Park, Roseau",0,Bangladesh
+335,4.3,4,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,15,West Indies,"Windsor Park, Roseau",0,Bangladesh
+336,4.4,4,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,19,West Indies,"Windsor Park, Roseau",0,Bangladesh
+337,4.5,1,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,20,West Indies,"Windsor Park, Roseau",0,Bangladesh
+338,4.6,0,KAJ Roach,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,20,West Indies,"Windsor Park, Roseau",0,Bangladesh
+339,5.1,1,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,21,West Indies,"Windsor Park, Roseau",0,Bangladesh
+340,5.2,1,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,22,West Indies,"Windsor Park, Roseau",0,Bangladesh
+341,5.3,0,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,22,West Indies,"Windsor Park, Roseau",0,Bangladesh
+342,5.4,0,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,22,West Indies,"Windsor Park, Roseau",0,Bangladesh
+343,5.5,0,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,22,West Indies,"Windsor Park, Roseau",0,Bangladesh
+344,5.6,1,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,23,West Indies,"Windsor Park, Roseau",0,Bangladesh
+345,6.1,2,DJG Sammy,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,25,West Indies,"Windsor Park, Roseau",0,Bangladesh
+346,6.2,0,DJG Sammy,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,25,West Indies,"Windsor Park, Roseau",0,Bangladesh
+347,6.3,1,DJG Sammy,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,26,West Indies,"Windsor Park, Roseau",0,Bangladesh
+348,6.4,0,DJG Sammy,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,26,West Indies,"Windsor Park, Roseau",0,Bangladesh
+349,6.5,2,DJG Sammy,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,28,West Indies,"Windsor Park, Roseau",0,Bangladesh
+350,6.6,1,DJG Sammy,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,29,West Indies,"Windsor Park, Roseau",0,Bangladesh
+351,7.1,1,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,30,West Indies,"Windsor Park, Roseau",0,Bangladesh
+352,7.2,1,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,31,West Indies,"Windsor Park, Roseau",0,Bangladesh
+353,7.3,4,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,35,West Indies,"Windsor Park, Roseau",0,Bangladesh
+354,7.4,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,35,West Indies,"Windsor Park, Roseau",0,Bangladesh
+355,7.5,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,35,West Indies,"Windsor Park, Roseau",0,Bangladesh
+356,7.6,1,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,36,West Indies,"Windsor Park, Roseau",0,Bangladesh
+357,8.1,0,DJG Sammy,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,36,West Indies,"Windsor Park, Roseau",0,Bangladesh
+358,8.2,0,DJG Sammy,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,36,West Indies,"Windsor Park, Roseau",0,Bangladesh
+359,8.3,0,DJG Sammy,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,37,West Indies,"Windsor Park, Roseau",0,Bangladesh
+360,8.4,0,DJG Sammy,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,37,West Indies,"Windsor Park, Roseau",0,Bangladesh
+361,8.5,0,DJG Sammy,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,37,West Indies,"Windsor Park, Roseau",0,Bangladesh
+362,8.6,1,DJG Sammy,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,38,West Indies,"Windsor Park, Roseau",0,Bangladesh
+363,9.1,1,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,39,West Indies,"Windsor Park, Roseau",0,Bangladesh
+364,9.2,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,39,West Indies,"Windsor Park, Roseau",0,Bangladesh
+365,9.3,1,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,40,West Indies,"Windsor Park, Roseau",0,Bangladesh
+366,9.4,1,GC Tonge,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,41,West Indies,"Windsor Park, Roseau",0,Bangladesh
+367,9.5,0,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,41,West Indies,"Windsor Park, Roseau",0,Bangladesh
+368,9.6,4,GC Tonge,2009-07-28,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,45,West Indies,"Windsor Park, Roseau",0,Bangladesh
+369,10.1,0,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,46,West Indies,"Windsor Park, Roseau",0,Bangladesh
+370,10.2,0,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,46,West Indies,"Windsor Park, Roseau",0,Bangladesh
+371,10.3,0,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,46,West Indies,"Windsor Park, Roseau",1,Bangladesh
+372,10.4,0,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,46,West Indies,"Windsor Park, Roseau",1,Bangladesh
+373,10.5,0,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,46,West Indies,"Windsor Park, Roseau",1,Bangladesh
+374,10.6,1,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,47,West Indies,"Windsor Park, Roseau",1,Bangladesh
+375,10.7,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+376,11.1,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+377,11.2,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,48,West Indies,"Windsor Park, Roseau",1,Bangladesh
+378,11.3,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,49,West Indies,"Windsor Park, Roseau",1,Bangladesh
+379,11.4,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,49,West Indies,"Windsor Park, Roseau",1,Bangladesh
+380,11.5,4,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,53,West Indies,"Windsor Park, Roseau",1,Bangladesh
+381,11.6,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,53,West Indies,"Windsor Park, Roseau",1,Bangladesh
+382,11.7,1,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,54,West Indies,"Windsor Park, Roseau",1,Bangladesh
+383,12.1,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,54,West Indies,"Windsor Park, Roseau",1,Bangladesh
+384,12.2,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,59,West Indies,"Windsor Park, Roseau",1,Bangladesh
+385,12.3,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,60,West Indies,"Windsor Park, Roseau",1,Bangladesh
+386,12.4,0,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,60,West Indies,"Windsor Park, Roseau",1,Bangladesh
+387,12.5,0,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,60,West Indies,"Windsor Park, Roseau",1,Bangladesh
+388,12.6,1,DE Bernard,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,61,West Indies,"Windsor Park, Roseau",1,Bangladesh
+389,12.7,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,62,West Indies,"Windsor Park, Roseau",1,Bangladesh
+390,13.1,1,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,63,West Indies,"Windsor Park, Roseau",1,Bangladesh
+391,13.2,0,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,63,West Indies,"Windsor Park, Roseau",1,Bangladesh
+392,13.3,1,KAJ Roach,2009-07-28,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,West Indies,Bangladesh,64,West Indies,"Windsor Park, Roseau",1,Bangladesh
+393,13.4,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,West Indies,Bangladesh,64,West Indies,"Windsor Park, Roseau",2,Bangladesh
+394,13.5,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,64,West Indies,"Windsor Park, Roseau",2,Bangladesh
+395,13.6,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,64,West Indies,"Windsor Park, Roseau",2,Bangladesh
+396,14.1,1,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,65,West Indies,"Windsor Park, Roseau",2,Bangladesh
+397,14.2,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,66,West Indies,"Windsor Park, Roseau",2,Bangladesh
+398,14.3,0,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,66,West Indies,"Windsor Park, Roseau",2,Bangladesh
+399,14.4,1,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,67,West Indies,"Windsor Park, Roseau",2,Bangladesh
+400,14.5,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,68,West Indies,"Windsor Park, Roseau",2,Bangladesh
+401,14.6,0,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,68,West Indies,"Windsor Park, Roseau",2,Bangladesh
+402,15.1,0,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,68,West Indies,"Windsor Park, Roseau",2,Bangladesh
+403,15.2,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,69,West Indies,"Windsor Park, Roseau",2,Bangladesh
+404,15.3,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,69,West Indies,"Windsor Park, Roseau",2,Bangladesh
+405,15.4,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,69,West Indies,"Windsor Park, Roseau",2,Bangladesh
+406,15.5,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,69,West Indies,"Windsor Park, Roseau",2,Bangladesh
+407,15.6,1,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,70,West Indies,"Windsor Park, Roseau",2,Bangladesh
+408,16.1,4,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,74,West Indies,"Windsor Park, Roseau",2,Bangladesh
+409,16.2,1,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,75,West Indies,"Windsor Park, Roseau",2,Bangladesh
+410,16.3,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,75,West Indies,"Windsor Park, Roseau",2,Bangladesh
+411,16.4,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,76,West Indies,"Windsor Park, Roseau",2,Bangladesh
+412,16.5,1,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,77,West Indies,"Windsor Park, Roseau",2,Bangladesh
+413,16.6,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,78,West Indies,"Windsor Park, Roseau",2,Bangladesh
+414,17.1,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+415,17.2,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+416,17.3,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+417,17.4,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+418,17.5,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,79,West Indies,"Windsor Park, Roseau",2,Bangladesh
+419,17.6,1,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,80,West Indies,"Windsor Park, Roseau",2,Bangladesh
+420,18.1,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,80,West Indies,"Windsor Park, Roseau",2,Bangladesh
+421,18.2,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,80,West Indies,"Windsor Park, Roseau",2,Bangladesh
+422,18.3,1,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,81,West Indies,"Windsor Park, Roseau",2,Bangladesh
+423,18.4,2,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,83,West Indies,"Windsor Park, Roseau",2,Bangladesh
+424,18.5,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,84,West Indies,"Windsor Park, Roseau",2,Bangladesh
+425,18.6,1,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,85,West Indies,"Windsor Park, Roseau",2,Bangladesh
+426,19.1,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,85,West Indies,"Windsor Park, Roseau",2,Bangladesh
+427,19.2,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,85,West Indies,"Windsor Park, Roseau",2,Bangladesh
+428,19.3,1,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,86,West Indies,"Windsor Park, Roseau",2,Bangladesh
+429,19.4,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,87,West Indies,"Windsor Park, Roseau",2,Bangladesh
+430,19.5,1,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,88,West Indies,"Windsor Park, Roseau",2,Bangladesh
+431,19.6,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,89,West Indies,"Windsor Park, Roseau",2,Bangladesh
+432,20.1,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,90,West Indies,"Windsor Park, Roseau",2,Bangladesh
+433,20.2,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,90,West Indies,"Windsor Park, Roseau",2,Bangladesh
+434,20.3,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,90,West Indies,"Windsor Park, Roseau",2,Bangladesh
+435,20.4,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,90,West Indies,"Windsor Park, Roseau",2,Bangladesh
+436,20.5,0,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,90,West Indies,"Windsor Park, Roseau",2,Bangladesh
+437,20.6,2,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,92,West Indies,"Windsor Park, Roseau",2,Bangladesh
+438,21.1,2,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,94,West Indies,"Windsor Park, Roseau",2,Bangladesh
+439,21.2,2,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,96,West Indies,"Windsor Park, Roseau",2,Bangladesh
+440,21.3,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,97,West Indies,"Windsor Park, Roseau",2,Bangladesh
+441,21.4,2,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,99,West Indies,"Windsor Park, Roseau",2,Bangladesh
+442,21.5,1,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,100,West Indies,"Windsor Park, Roseau",2,Bangladesh
+443,21.6,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,101,West Indies,"Windsor Park, Roseau",2,Bangladesh
+444,22.1,0,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,101,West Indies,"Windsor Park, Roseau",2,Bangladesh
+445,22.2,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,102,West Indies,"Windsor Park, Roseau",2,Bangladesh
+446,22.3,2,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,104,West Indies,"Windsor Park, Roseau",2,Bangladesh
+447,22.4,1,DJG Sammy,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,105,West Indies,"Windsor Park, Roseau",2,Bangladesh
+448,22.5,0,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,105,West Indies,"Windsor Park, Roseau",2,Bangladesh
+449,22.6,0,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,105,West Indies,"Windsor Park, Roseau",2,Bangladesh
+450,23.1,2,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,107,West Indies,"Windsor Park, Roseau",2,Bangladesh
+451,23.2,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,107,West Indies,"Windsor Park, Roseau",2,Bangladesh
+452,23.3,0,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,107,West Indies,"Windsor Park, Roseau",2,Bangladesh
+453,23.4,2,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,109,West Indies,"Windsor Park, Roseau",2,Bangladesh
+454,23.5,1,RN Lewis,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,110,West Indies,"Windsor Park, Roseau",2,Bangladesh
+455,23.6,0,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,110,West Indies,"Windsor Park, Roseau",2,Bangladesh
+456,24.1,1,GC Tonge,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,111,West Indies,"Windsor Park, Roseau",2,Bangladesh
+457,24.2,0,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,111,West Indies,"Windsor Park, Roseau",2,Bangladesh
+458,24.3,1,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,112,West Indies,"Windsor Park, Roseau",2,Bangladesh
+459,24.4,0,GC Tonge,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,113,West Indies,"Windsor Park, Roseau",2,Bangladesh
+460,24.5,0,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,113,West Indies,"Windsor Park, Roseau",2,Bangladesh
+461,24.6,0,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,113,West Indies,"Windsor Park, Roseau",2,Bangladesh
+462,25.1,2,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,115,West Indies,"Windsor Park, Roseau",2,Bangladesh
+463,25.2,1,DE Bernard,2009-07-28,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,116,West Indies,"Windsor Park, Roseau",2,Bangladesh
+464,25.3,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,116,West Indies,"Windsor Park, Roseau",2,Bangladesh
+465,25.4,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,116,West Indies,"Windsor Park, Roseau",2,Bangladesh
+466,25.5,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,West Indies,Bangladesh,116,West Indies,"Windsor Park, Roseau",3,Bangladesh
+467,25.6,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,116,West Indies,"Windsor Park, Roseau",3,Bangladesh
+468,26.1,1,GC Tonge,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,117,West Indies,"Windsor Park, Roseau",3,Bangladesh
+469,26.2,0,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,117,West Indies,"Windsor Park, Roseau",3,Bangladesh
+470,26.3,1,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,118,West Indies,"Windsor Park, Roseau",3,Bangladesh
+471,26.4,1,GC Tonge,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,119,West Indies,"Windsor Park, Roseau",3,Bangladesh
+472,26.5,2,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,121,West Indies,"Windsor Park, Roseau",3,Bangladesh
+473,26.6,1,GC Tonge,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,122,West Indies,"Windsor Park, Roseau",3,Bangladesh
+474,27.1,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,123,West Indies,"Windsor Park, Roseau",3,Bangladesh
+475,27.2,0,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,123,West Indies,"Windsor Park, Roseau",3,Bangladesh
+476,27.3,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,124,West Indies,"Windsor Park, Roseau",3,Bangladesh
+477,27.4,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,125,West Indies,"Windsor Park, Roseau",3,Bangladesh
+478,27.5,4,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,129,West Indies,"Windsor Park, Roseau",3,Bangladesh
+479,27.6,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,130,West Indies,"Windsor Park, Roseau",3,Bangladesh
+480,28.1,4,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,134,West Indies,"Windsor Park, Roseau",3,Bangladesh
+481,28.2,0,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,135,West Indies,"Windsor Park, Roseau",3,Bangladesh
+482,28.3,1,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,136,West Indies,"Windsor Park, Roseau",3,Bangladesh
+483,28.4,0,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,137,West Indies,"Windsor Park, Roseau",3,Bangladesh
+484,28.5,1,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,138,West Indies,"Windsor Park, Roseau",3,Bangladesh
+485,28.6,1,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,139,West Indies,"Windsor Park, Roseau",3,Bangladesh
+486,28.7,1,KAJ Roach,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,140,West Indies,"Windsor Park, Roseau",3,Bangladesh
+487,28.8,0,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,140,West Indies,"Windsor Park, Roseau",3,Bangladesh
+488,29.1,2,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,142,West Indies,"Windsor Park, Roseau",3,Bangladesh
+489,29.2,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,143,West Indies,"Windsor Park, Roseau",3,Bangladesh
+490,29.3,6,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,149,West Indies,"Windsor Park, Roseau",3,Bangladesh
+491,29.4,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,149,West Indies,"Windsor Park, Roseau",3,Bangladesh
+492,29.5,1,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,150,West Indies,"Windsor Park, Roseau",3,Bangladesh
+493,29.6,4,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,154,West Indies,"Windsor Park, Roseau",3,Bangladesh
+494,30.1,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,155,West Indies,"Windsor Park, Roseau",3,Bangladesh
+495,30.2,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,155,West Indies,"Windsor Park, Roseau",3,Bangladesh
+496,30.3,4,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,159,West Indies,"Windsor Park, Roseau",3,Bangladesh
+497,30.4,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,160,West Indies,"Windsor Park, Roseau",3,Bangladesh
+498,30.5,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,161,West Indies,"Windsor Park, Roseau",3,Bangladesh
+499,30.6,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,162,West Indies,"Windsor Park, Roseau",3,Bangladesh
+500,31.1,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",3,Bangladesh
+501,31.2,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",3,Bangladesh
+502,31.3,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,163,West Indies,"Windsor Park, Roseau",3,Bangladesh
+503,31.4,1,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,164,West Indies,"Windsor Park, Roseau",3,Bangladesh
+504,31.5,0,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,164,West Indies,"Windsor Park, Roseau",3,Bangladesh
+505,31.6,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,165,West Indies,"Windsor Park, Roseau",3,Bangladesh
+506,32.1,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,166,West Indies,"Windsor Park, Roseau",3,Bangladesh
+507,32.2,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,167,West Indies,"Windsor Park, Roseau",3,Bangladesh
+508,32.3,2,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,169,West Indies,"Windsor Park, Roseau",3,Bangladesh
+509,32.4,0,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,173,West Indies,"Windsor Park, Roseau",3,Bangladesh
+510,32.5,1,DE Bernard,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,174,West Indies,"Windsor Park, Roseau",3,Bangladesh
+511,32.6,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,175,West Indies,"Windsor Park, Roseau",3,Bangladesh
+512,33.1,1,DJG Sammy,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,176,West Indies,"Windsor Park, Roseau",3,Bangladesh
+513,33.2,2,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,178,West Indies,"Windsor Park, Roseau",3,Bangladesh
+514,33.3,0,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,178,West Indies,"Windsor Park, Roseau",3,Bangladesh
+515,33.4,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,179,West Indies,"Windsor Park, Roseau",3,Bangladesh
+516,33.5,0,DJG Sammy,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,180,West Indies,"Windsor Park, Roseau",3,Bangladesh
+517,33.6,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,181,West Indies,"Windsor Park, Roseau",3,Bangladesh
+518,34.1,0,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,181,West Indies,"Windsor Park, Roseau",3,Bangladesh
+519,34.2,0,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,181,West Indies,"Windsor Park, Roseau",3,Bangladesh
+520,34.3,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,182,West Indies,"Windsor Park, Roseau",3,Bangladesh
+521,34.4,1,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,183,West Indies,"Windsor Park, Roseau",3,Bangladesh
+522,34.5,0,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,183,West Indies,"Windsor Park, Roseau",3,Bangladesh
+523,34.6,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,184,West Indies,"Windsor Park, Roseau",3,Bangladesh
+524,35.1,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,185,West Indies,"Windsor Park, Roseau",3,Bangladesh
+525,35.2,0,DJG Sammy,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,185,West Indies,"Windsor Park, Roseau",3,Bangladesh
+526,35.3,1,DJG Sammy,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,186,West Indies,"Windsor Park, Roseau",3,Bangladesh
+527,35.4,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,187,West Indies,"Windsor Park, Roseau",3,Bangladesh
+528,35.5,1,DJG Sammy,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,188,West Indies,"Windsor Park, Roseau",3,Bangladesh
+529,35.6,1,DJG Sammy,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,189,West Indies,"Windsor Park, Roseau",3,Bangladesh
+530,36.1,1,RN Lewis,2009-07-28,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,West Indies,Bangladesh,190,West Indies,"Windsor Park, Roseau",3,Bangladesh
+531,36.2,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,West Indies,Bangladesh,190,West Indies,"Windsor Park, Roseau",4,Bangladesh
+532,36.3,0,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,190,West Indies,"Windsor Park, Roseau",4,Bangladesh
+533,36.4,1,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,191,West Indies,"Windsor Park, Roseau",4,Bangladesh
+534,36.5,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,191,West Indies,"Windsor Park, Roseau",4,Bangladesh
+535,36.6,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,191,West Indies,"Windsor Park, Roseau",4,Bangladesh
+536,37.1,2,KAJ Roach,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,193,West Indies,"Windsor Park, Roseau",4,Bangladesh
+537,37.2,1,KAJ Roach,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,194,West Indies,"Windsor Park, Roseau",4,Bangladesh
+538,37.3,1,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,195,West Indies,"Windsor Park, Roseau",4,Bangladesh
+539,37.4,0,KAJ Roach,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,195,West Indies,"Windsor Park, Roseau",4,Bangladesh
+540,37.5,1,KAJ Roach,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,196,West Indies,"Windsor Park, Roseau",4,Bangladesh
+541,37.6,0,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,196,West Indies,"Windsor Park, Roseau",4,Bangladesh
+542,38.1,1,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,197,West Indies,"Windsor Park, Roseau",4,Bangladesh
+543,38.2,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,197,West Indies,"Windsor Park, Roseau",4,Bangladesh
+544,38.3,1,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,198,West Indies,"Windsor Park, Roseau",4,Bangladesh
+545,38.4,1,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,199,West Indies,"Windsor Park, Roseau",4,Bangladesh
+546,38.5,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,199,West Indies,"Windsor Park, Roseau",4,Bangladesh
+547,38.6,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,199,West Indies,"Windsor Park, Roseau",4,Bangladesh
+548,39.1,1,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,200,West Indies,"Windsor Park, Roseau",4,Bangladesh
+549,39.2,1,GC Tonge,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,201,West Indies,"Windsor Park, Roseau",4,Bangladesh
+550,39.3,0,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,201,West Indies,"Windsor Park, Roseau",4,Bangladesh
+551,39.4,1,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,202,West Indies,"Windsor Park, Roseau",4,Bangladesh
+552,39.5,1,GC Tonge,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,203,West Indies,"Windsor Park, Roseau",4,Bangladesh
+553,39.6,1,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,204,West Indies,"Windsor Park, Roseau",4,Bangladesh
+554,40.1,3,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,207,West Indies,"Windsor Park, Roseau",4,Bangladesh
+555,40.2,1,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,208,West Indies,"Windsor Park, Roseau",4,Bangladesh
+556,40.3,0,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,209,West Indies,"Windsor Park, Roseau",4,Bangladesh
+557,40.4,1,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,210,West Indies,"Windsor Park, Roseau",4,Bangladesh
+558,40.5,0,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,210,West Indies,"Windsor Park, Roseau",4,Bangladesh
+559,40.6,1,RN Lewis,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,211,West Indies,"Windsor Park, Roseau",4,Bangladesh
+560,40.7,1,RN Lewis,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,212,West Indies,"Windsor Park, Roseau",4,Bangladesh
+561,41.1,0,DE Bernard,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,213,West Indies,"Windsor Park, Roseau",4,Bangladesh
+562,41.2,2,DE Bernard,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,215,West Indies,"Windsor Park, Roseau",4,Bangladesh
+563,41.3,1,DE Bernard,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,216,West Indies,"Windsor Park, Roseau",4,Bangladesh
+564,41.4,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,217,West Indies,"Windsor Park, Roseau",4,Bangladesh
+565,41.5,1,DE Bernard,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,218,West Indies,"Windsor Park, Roseau",4,Bangladesh
+566,41.6,1,DE Bernard,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,219,West Indies,"Windsor Park, Roseau",4,Bangladesh
+567,41.7,0,DE Bernard,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,219,West Indies,"Windsor Park, Roseau",4,Bangladesh
+568,42.1,4,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,223,West Indies,"Windsor Park, Roseau",4,Bangladesh
+569,42.2,4,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,227,West Indies,"Windsor Park, Roseau",4,Bangladesh
+570,42.3,1,KAJ Roach,2009-07-28,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,228,West Indies,"Windsor Park, Roseau",4,Bangladesh
+571,42.4,2,KAJ Roach,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,230,West Indies,"Windsor Park, Roseau",4,Bangladesh
+572,42.5,0,KAJ Roach,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,230,West Indies,"Windsor Park, Roseau",4,Bangladesh
+573,42.6,6,KAJ Roach,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,237,West Indies,"Windsor Park, Roseau",4,Bangladesh
+574,42.7,1,DC Thomas,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,238,West Indies,"Windsor Park, Roseau",4,Bangladesh
+575,43.1,0,DJG Sammy,2009-07-28,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,West Indies,Bangladesh,238,West Indies,"Windsor Park, Roseau",5,Bangladesh
+576,43.2,0,DJG Sammy,2009-07-28,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,239,West Indies,"Windsor Park, Roseau",5,Bangladesh
+577,43.3,0,DJG Sammy,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,240,West Indies,"Windsor Park, Roseau",5,Bangladesh
+578,43.4,0,DJG Sammy,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,240,West Indies,"Windsor Park, Roseau",5,Bangladesh
+579,43.5,2,DJG Sammy,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,242,West Indies,"Windsor Park, Roseau",5,Bangladesh
+580,43.6,0,DJG Sammy,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,242,West Indies,"Windsor Park, Roseau",5,Bangladesh
+581,43.7,1,DJG Sammy,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,243,West Indies,"Windsor Park, Roseau",5,Bangladesh
+582,44.1,0,GC Tonge,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,244,West Indies,"Windsor Park, Roseau",5,Bangladesh
+583,44.2,1,GC Tonge,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,245,West Indies,"Windsor Park, Roseau",5,Bangladesh
+584,44.3,1,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,246,West Indies,"Windsor Park, Roseau",5,Bangladesh
+585,44.4,1,GC Tonge,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,247,West Indies,"Windsor Park, Roseau",5,Bangladesh
+586,44.5,0,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,248,West Indies,"Windsor Park, Roseau",5,Bangladesh
+587,44.6,1,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,249,West Indies,"Windsor Park, Roseau",5,Bangladesh
+588,44.7,1,GC Tonge,2009-07-28,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,250,West Indies,"Windsor Park, Roseau",5,Bangladesh
+589,44.8,1,GC Tonge,2009-07-28,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,251,West Indies,"Windsor Park, Roseau",5,Bangladesh
+590,45.1,0,DC Thomas,2009-07-28,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,251,West Indies,"Windsor Park, Roseau",6,Bangladesh
+591,45.2,0,DC Thomas,2009-07-28,2nd,Naeem Islam,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,251,West Indies,"Windsor Park, Roseau",6,Bangladesh
+592,45.3,4,DC Thomas,2009-07-28,2nd,Naeem Islam,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,255,West Indies,"Windsor Park, Roseau",6,Bangladesh
+593,45.4,4,DC Thomas,2009-07-28,2nd,Naeem Islam,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,259,West Indies,"Windsor Park, Roseau",6,Bangladesh
+594,45.5,0,DC Thomas,2009-07-28,2nd,Naeem Islam,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,260,West Indies,"Windsor Park, Roseau",6,Bangladesh
+595,45.6,0,DC Thomas,2009-07-28,2nd,Naeem Islam,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,261,West Indies,"Windsor Park, Roseau",6,Bangladesh
+596,45.7,0,DC Thomas,2009-07-28,2nd,Naeem Islam,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,261,West Indies,"Windsor Park, Roseau",6,Bangladesh
+597,45.8,0,DC Thomas,2009-07-28,2nd,Naeem Islam,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,261,West Indies,"Windsor Park, Roseau",7,Bangladesh
+598,46.1,0,GC Tonge,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,262,West Indies,"Windsor Park, Roseau",7,Bangladesh
+599,46.2,2,GC Tonge,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,264,West Indies,"Windsor Park, Roseau",7,Bangladesh
+600,46.3,1,GC Tonge,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,265,West Indies,"Windsor Park, Roseau",7,Bangladesh
+601,46.4,0,GC Tonge,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,265,West Indies,"Windsor Park, Roseau",7,Bangladesh
+602,46.5,1,GC Tonge,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,266,West Indies,"Windsor Park, Roseau",7,Bangladesh
+603,46.6,1,GC Tonge,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,267,West Indies,"Windsor Park, Roseau",7,Bangladesh
+604,47.1,0,DJG Sammy,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,267,West Indies,"Windsor Park, Roseau",7,Bangladesh
+605,47.2,0,DJG Sammy,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,267,West Indies,"Windsor Park, Roseau",7,Bangladesh
+606,47.3,0,DJG Sammy,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,267,West Indies,"Windsor Park, Roseau",7,Bangladesh
+607,47.4,3,DJG Sammy,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,270,West Indies,"Windsor Park, Roseau",7,Bangladesh
+608,47.5,0,DJG Sammy,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,270,West Indies,"Windsor Park, Roseau",7,Bangladesh
+609,47.6,1,DJG Sammy,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,271,West Indies,"Windsor Park, Roseau",7,Bangladesh
+610,48.1,0,DE Bernard,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,271,West Indies,"Windsor Park, Roseau",7,Bangladesh
+611,48.2,0,DE Bernard,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,271,West Indies,"Windsor Park, Roseau",7,Bangladesh
+612,48.3,1,DE Bernard,2009-07-28,2nd,Abdur Razzak,0,,Naeem Islam,0,West Indies,Bangladesh,272,West Indies,"Windsor Park, Roseau",7,Bangladesh
+613,48.4,0,DE Bernard,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,272,West Indies,"Windsor Park, Roseau",7,Bangladesh
+614,48.5,0,DE Bernard,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,272,West Indies,"Windsor Park, Roseau",7,Bangladesh
+615,48.6,4,DE Bernard,2009-07-28,2nd,Naeem Islam,0,,Abdur Razzak,0,West Indies,Bangladesh,276,West Indies,"Windsor Park, Roseau",7,Bangladesh

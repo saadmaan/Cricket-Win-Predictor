@@ -1,0 +1,585 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,RP Singh,2007-11-15,1st,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,0,India
+1,0.2,0,RP Singh,2007-11-15,1st,Shoaib Malik,0,Salman Butt,Salman Butt,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,1,India
+2,0.3,0,RP Singh,2007-11-15,1st,Shoaib Malik,0,,Younis Khan,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,1,India
+3,0.4,0,RP Singh,2007-11-15,1st,Shoaib Malik,0,,Younis Khan,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,1,India
+4,0.5,0,RP Singh,2007-11-15,1st,Shoaib Malik,0,,Younis Khan,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,1,India
+5,0.6,0,RP Singh,2007-11-15,1st,Shoaib Malik,0,,Younis Khan,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,1,India
+6,1.1,0,IK Pathan,2007-11-15,1st,Younis Khan,0,,Shoaib Malik,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,1,India
+7,1.2,0,IK Pathan,2007-11-15,1st,Younis Khan,0,,Shoaib Malik,0,India,Pakistan,0,Pakistan,Captain Roop Singh Stadium,1,India
+8,1.3,1,IK Pathan,2007-11-15,1st,Younis Khan,0,,Shoaib Malik,1,India,Pakistan,1,Pakistan,Captain Roop Singh Stadium,1,India
+9,1.4,0,IK Pathan,2007-11-15,1st,Shoaib Malik,1,,Younis Khan,0,India,Pakistan,1,Pakistan,Captain Roop Singh Stadium,1,India
+10,1.5,0,IK Pathan,2007-11-15,1st,Shoaib Malik,1,,Younis Khan,0,India,Pakistan,1,Pakistan,Captain Roop Singh Stadium,1,India
+11,1.6,1,IK Pathan,2007-11-15,1st,Shoaib Malik,1,,Younis Khan,1,India,Pakistan,2,Pakistan,Captain Roop Singh Stadium,1,India
+12,2.1,0,RP Singh,2007-11-15,1st,Shoaib Malik,1,,Younis Khan,1,India,Pakistan,2,Pakistan,Captain Roop Singh Stadium,1,India
+13,2.2,0,RP Singh,2007-11-15,1st,Shoaib Malik,1,,Younis Khan,1,India,Pakistan,2,Pakistan,Captain Roop Singh Stadium,1,India
+14,2.3,0,RP Singh,2007-11-15,1st,Shoaib Malik,1,,Younis Khan,1,India,Pakistan,2,Pakistan,Captain Roop Singh Stadium,1,India
+15,2.4,1,RP Singh,2007-11-15,1st,Shoaib Malik,1,,Younis Khan,2,India,Pakistan,3,Pakistan,Captain Roop Singh Stadium,1,India
+16,2.5,1,RP Singh,2007-11-15,1st,Younis Khan,2,,Shoaib Malik,2,India,Pakistan,4,Pakistan,Captain Roop Singh Stadium,1,India
+17,2.6,1,RP Singh,2007-11-15,1st,Shoaib Malik,2,,Younis Khan,3,India,Pakistan,5,Pakistan,Captain Roop Singh Stadium,1,India
+18,3.1,3,IK Pathan,2007-11-15,1st,Shoaib Malik,2,,Younis Khan,6,India,Pakistan,8,Pakistan,Captain Roop Singh Stadium,1,India
+19,3.2,0,IK Pathan,2007-11-15,1st,Younis Khan,6,,Shoaib Malik,2,India,Pakistan,8,Pakistan,Captain Roop Singh Stadium,1,India
+20,3.3,0,IK Pathan,2007-11-15,1st,Younis Khan,6,,Shoaib Malik,2,India,Pakistan,8,Pakistan,Captain Roop Singh Stadium,1,India
+21,3.4,4,IK Pathan,2007-11-15,1st,Younis Khan,6,,Shoaib Malik,6,India,Pakistan,12,Pakistan,Captain Roop Singh Stadium,1,India
+22,3.5,1,IK Pathan,2007-11-15,1st,Younis Khan,6,,Shoaib Malik,7,India,Pakistan,13,Pakistan,Captain Roop Singh Stadium,1,India
+23,3.6,1,IK Pathan,2007-11-15,1st,Shoaib Malik,7,,Younis Khan,7,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+24,4.1,0,RP Singh,2007-11-15,1st,Shoaib Malik,7,,Younis Khan,7,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+25,4.2,0,RP Singh,2007-11-15,1st,Shoaib Malik,7,,Younis Khan,7,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+26,4.3,1,RP Singh,2007-11-15,1st,Shoaib Malik,7,,Younis Khan,8,India,Pakistan,15,Pakistan,Captain Roop Singh Stadium,1,India
+27,4.4,0,RP Singh,2007-11-15,1st,Younis Khan,8,,Shoaib Malik,7,India,Pakistan,15,Pakistan,Captain Roop Singh Stadium,1,India
+28,4.5,2,RP Singh,2007-11-15,1st,Younis Khan,8,,Shoaib Malik,9,India,Pakistan,17,Pakistan,Captain Roop Singh Stadium,1,India
+29,4.6,0,RP Singh,2007-11-15,1st,Younis Khan,8,,Shoaib Malik,9,India,Pakistan,17,Pakistan,Captain Roop Singh Stadium,1,India
+30,5.1,1,IK Pathan,2007-11-15,1st,Shoaib Malik,9,,Younis Khan,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+31,5.2,0,IK Pathan,2007-11-15,1st,Younis Khan,9,,Shoaib Malik,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+32,5.3,0,IK Pathan,2007-11-15,1st,Younis Khan,9,,Shoaib Malik,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+33,5.4,0,IK Pathan,2007-11-15,1st,Younis Khan,9,,Shoaib Malik,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+34,5.5,0,IK Pathan,2007-11-15,1st,Younis Khan,9,,Shoaib Malik,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+35,5.6,0,IK Pathan,2007-11-15,1st,Younis Khan,9,,Shoaib Malik,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+36,6.1,0,RP Singh,2007-11-15,1st,Shoaib Malik,9,,Younis Khan,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+37,6.2,0,RP Singh,2007-11-15,1st,Shoaib Malik,9,,Younis Khan,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+38,6.3,0,RP Singh,2007-11-15,1st,Shoaib Malik,9,,Younis Khan,9,India,Pakistan,18,Pakistan,Captain Roop Singh Stadium,1,India
+39,6.4,4,RP Singh,2007-11-15,1st,Shoaib Malik,9,,Younis Khan,13,India,Pakistan,22,Pakistan,Captain Roop Singh Stadium,1,India
+40,6.5,2,RP Singh,2007-11-15,1st,Shoaib Malik,9,,Younis Khan,15,India,Pakistan,24,Pakistan,Captain Roop Singh Stadium,1,India
+41,6.6,2,RP Singh,2007-11-15,1st,Shoaib Malik,9,,Younis Khan,17,India,Pakistan,26,Pakistan,Captain Roop Singh Stadium,1,India
+42,7.1,0,Z Khan,2007-11-15,1st,Younis Khan,17,,Shoaib Malik,9,India,Pakistan,26,Pakistan,Captain Roop Singh Stadium,1,India
+43,7.2,2,Z Khan,2007-11-15,1st,Younis Khan,17,,Shoaib Malik,11,India,Pakistan,28,Pakistan,Captain Roop Singh Stadium,1,India
+44,7.3,0,Z Khan,2007-11-15,1st,Younis Khan,17,,Shoaib Malik,11,India,Pakistan,28,Pakistan,Captain Roop Singh Stadium,1,India
+45,7.4,0,Z Khan,2007-11-15,1st,Younis Khan,17,,Shoaib Malik,11,India,Pakistan,28,Pakistan,Captain Roop Singh Stadium,1,India
+46,7.5,0,Z Khan,2007-11-15,1st,Younis Khan,17,,Shoaib Malik,11,India,Pakistan,28,Pakistan,Captain Roop Singh Stadium,1,India
+47,7.6,0,Z Khan,2007-11-15,1st,Younis Khan,17,,Shoaib Malik,11,India,Pakistan,28,Pakistan,Captain Roop Singh Stadium,1,India
+48,8.1,0,RP Singh,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,17,India,Pakistan,28,Pakistan,Captain Roop Singh Stadium,1,India
+49,8.2,1,RP Singh,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,18,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+50,8.3,0,RP Singh,2007-11-15,1st,Younis Khan,18,,Shoaib Malik,11,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+51,8.4,0,RP Singh,2007-11-15,1st,Younis Khan,18,,Shoaib Malik,11,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+52,8.5,0,RP Singh,2007-11-15,1st,Younis Khan,18,,Shoaib Malik,11,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+53,8.6,0,RP Singh,2007-11-15,1st,Younis Khan,18,,Shoaib Malik,11,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+54,9.1,0,Z Khan,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,18,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+55,9.2,0,Z Khan,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,18,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+56,9.3,0,Z Khan,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,18,India,Pakistan,29,Pakistan,Captain Roop Singh Stadium,1,India
+57,9.4,1,Z Khan,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,19,India,Pakistan,30,Pakistan,Captain Roop Singh Stadium,1,India
+58,9.5,0,Z Khan,2007-11-15,1st,Younis Khan,19,,Shoaib Malik,11,India,Pakistan,30,Pakistan,Captain Roop Singh Stadium,1,India
+59,9.6,0,Z Khan,2007-11-15,1st,Younis Khan,19,,Shoaib Malik,11,India,Pakistan,30,Pakistan,Captain Roop Singh Stadium,1,India
+60,10.1,0,RP Singh,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,19,India,Pakistan,30,Pakistan,Captain Roop Singh Stadium,1,India
+61,10.2,0,RP Singh,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,19,India,Pakistan,30,Pakistan,Captain Roop Singh Stadium,1,India
+62,10.3,0,RP Singh,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,19,India,Pakistan,30,Pakistan,Captain Roop Singh Stadium,1,India
+63,10.4,4,RP Singh,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,23,India,Pakistan,34,Pakistan,Captain Roop Singh Stadium,1,India
+64,10.5,1,RP Singh,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,24,India,Pakistan,35,Pakistan,Captain Roop Singh Stadium,1,India
+65,10.6,0,RP Singh,2007-11-15,1st,Younis Khan,24,,Shoaib Malik,11,India,Pakistan,35,Pakistan,Captain Roop Singh Stadium,1,India
+66,11.1,0,Z Khan,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,24,India,Pakistan,35,Pakistan,Captain Roop Singh Stadium,1,India
+67,11.2,0,Z Khan,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,24,India,Pakistan,35,Pakistan,Captain Roop Singh Stadium,1,India
+68,11.3,1,Z Khan,2007-11-15,1st,Shoaib Malik,11,,Younis Khan,25,India,Pakistan,36,Pakistan,Captain Roop Singh Stadium,1,India
+69,11.4,2,Z Khan,2007-11-15,1st,Younis Khan,25,,Shoaib Malik,13,India,Pakistan,38,Pakistan,Captain Roop Singh Stadium,1,India
+70,11.5,0,Z Khan,2007-11-15,1st,Younis Khan,25,,Shoaib Malik,13,India,Pakistan,38,Pakistan,Captain Roop Singh Stadium,1,India
+71,11.6,0,Z Khan,2007-11-15,1st,Younis Khan,25,,Shoaib Malik,13,India,Pakistan,38,Pakistan,Captain Roop Singh Stadium,1,India
+72,12.1,1,IK Pathan,2007-11-15,1st,Shoaib Malik,13,,Younis Khan,26,India,Pakistan,39,Pakistan,Captain Roop Singh Stadium,1,India
+73,12.2,0,IK Pathan,2007-11-15,1st,Younis Khan,26,,Shoaib Malik,13,India,Pakistan,39,Pakistan,Captain Roop Singh Stadium,1,India
+74,12.3,4,IK Pathan,2007-11-15,1st,Younis Khan,26,,Shoaib Malik,17,India,Pakistan,43,Pakistan,Captain Roop Singh Stadium,1,India
+75,12.4,0,IK Pathan,2007-11-15,1st,Younis Khan,26,,Shoaib Malik,17,India,Pakistan,43,Pakistan,Captain Roop Singh Stadium,1,India
+76,12.5,0,IK Pathan,2007-11-15,1st,Younis Khan,26,,Shoaib Malik,17,India,Pakistan,43,Pakistan,Captain Roop Singh Stadium,1,India
+77,12.6,0,IK Pathan,2007-11-15,1st,Younis Khan,26,,Shoaib Malik,17,India,Pakistan,43,Pakistan,Captain Roop Singh Stadium,1,India
+78,13.1,1,Z Khan,2007-11-15,1st,Shoaib Malik,17,,Younis Khan,27,India,Pakistan,44,Pakistan,Captain Roop Singh Stadium,1,India
+79,13.2,1,Z Khan,2007-11-15,1st,Younis Khan,27,,Shoaib Malik,18,India,Pakistan,45,Pakistan,Captain Roop Singh Stadium,1,India
+80,13.3,4,Z Khan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,31,India,Pakistan,49,Pakistan,Captain Roop Singh Stadium,1,India
+81,13.4,0,Z Khan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,31,India,Pakistan,49,Pakistan,Captain Roop Singh Stadium,1,India
+82,13.5,0,Z Khan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,31,India,Pakistan,49,Pakistan,Captain Roop Singh Stadium,1,India
+83,13.6,1,Z Khan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,32,India,Pakistan,50,Pakistan,Captain Roop Singh Stadium,1,India
+84,14.1,0,IK Pathan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,32,India,Pakistan,50,Pakistan,Captain Roop Singh Stadium,1,India
+85,14.2,0,IK Pathan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,32,India,Pakistan,50,Pakistan,Captain Roop Singh Stadium,1,India
+86,14.3,0,IK Pathan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,32,India,Pakistan,50,Pakistan,Captain Roop Singh Stadium,1,India
+87,14.4,0,IK Pathan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,32,India,Pakistan,50,Pakistan,Captain Roop Singh Stadium,1,India
+88,14.5,0,IK Pathan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,32,India,Pakistan,50,Pakistan,Captain Roop Singh Stadium,1,India
+89,14.6,0,IK Pathan,2007-11-15,1st,Shoaib Malik,18,,Younis Khan,32,India,Pakistan,50,Pakistan,Captain Roop Singh Stadium,1,India
+90,15.1,4,Z Khan,2007-11-15,1st,Younis Khan,32,,Shoaib Malik,22,India,Pakistan,54,Pakistan,Captain Roop Singh Stadium,1,India
+91,15.2,0,Z Khan,2007-11-15,1st,Younis Khan,32,,Shoaib Malik,22,India,Pakistan,54,Pakistan,Captain Roop Singh Stadium,1,India
+92,15.3,1,Z Khan,2007-11-15,1st,Younis Khan,32,,Shoaib Malik,23,India,Pakistan,55,Pakistan,Captain Roop Singh Stadium,1,India
+93,15.4,1,Z Khan,2007-11-15,1st,Shoaib Malik,23,,Younis Khan,33,India,Pakistan,56,Pakistan,Captain Roop Singh Stadium,1,India
+94,15.5,1,Z Khan,2007-11-15,1st,Younis Khan,33,,Shoaib Malik,24,India,Pakistan,57,Pakistan,Captain Roop Singh Stadium,1,India
+95,15.6,0,Z Khan,2007-11-15,1st,Shoaib Malik,24,,Younis Khan,33,India,Pakistan,57,Pakistan,Captain Roop Singh Stadium,1,India
+96,16.1,1,IK Pathan,2007-11-15,1st,Younis Khan,33,,Shoaib Malik,25,India,Pakistan,58,Pakistan,Captain Roop Singh Stadium,1,India
+97,16.2,4,IK Pathan,2007-11-15,1st,Shoaib Malik,25,,Younis Khan,37,India,Pakistan,62,Pakistan,Captain Roop Singh Stadium,1,India
+98,16.3,1,IK Pathan,2007-11-15,1st,Shoaib Malik,25,,Younis Khan,38,India,Pakistan,63,Pakistan,Captain Roop Singh Stadium,1,India
+99,16.4,0,IK Pathan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,25,India,Pakistan,63,Pakistan,Captain Roop Singh Stadium,1,India
+100,16.5,1,IK Pathan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,26,India,Pakistan,64,Pakistan,Captain Roop Singh Stadium,1,India
+101,16.6,0,IK Pathan,2007-11-15,1st,Shoaib Malik,26,,Younis Khan,38,India,Pakistan,64,Pakistan,Captain Roop Singh Stadium,1,India
+102,17.1,0,Z Khan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,26,India,Pakistan,64,Pakistan,Captain Roop Singh Stadium,1,India
+103,17.2,0,Z Khan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,26,India,Pakistan,64,Pakistan,Captain Roop Singh Stadium,1,India
+104,17.3,0,Z Khan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,26,India,Pakistan,64,Pakistan,Captain Roop Singh Stadium,1,India
+105,17.4,0,Z Khan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,26,India,Pakistan,64,Pakistan,Captain Roop Singh Stadium,1,India
+106,17.5,2,Z Khan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,28,India,Pakistan,66,Pakistan,Captain Roop Singh Stadium,1,India
+107,17.6,0,Z Khan,2007-11-15,1st,Younis Khan,38,,Shoaib Malik,28,India,Pakistan,66,Pakistan,Captain Roop Singh Stadium,1,India
+108,18.1,0,Harbhajan Singh,2007-11-15,1st,Shoaib Malik,28,,Younis Khan,38,India,Pakistan,66,Pakistan,Captain Roop Singh Stadium,1,India
+109,18.2,1,Harbhajan Singh,2007-11-15,1st,Shoaib Malik,28,,Younis Khan,39,India,Pakistan,67,Pakistan,Captain Roop Singh Stadium,1,India
+110,18.3,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,39,,Shoaib Malik,28,India,Pakistan,67,Pakistan,Captain Roop Singh Stadium,1,India
+111,18.4,2,Harbhajan Singh,2007-11-15,1st,Younis Khan,39,,Shoaib Malik,30,India,Pakistan,69,Pakistan,Captain Roop Singh Stadium,1,India
+112,18.5,1,Harbhajan Singh,2007-11-15,1st,Younis Khan,39,,Shoaib Malik,31,India,Pakistan,70,Pakistan,Captain Roop Singh Stadium,1,India
+113,18.6,3,Harbhajan Singh,2007-11-15,1st,Shoaib Malik,31,,Younis Khan,42,India,Pakistan,73,Pakistan,Captain Roop Singh Stadium,1,India
+114,19.1,4,Z Khan,2007-11-15,1st,Shoaib Malik,31,,Younis Khan,46,India,Pakistan,77,Pakistan,Captain Roop Singh Stadium,1,India
+115,19.2,0,Z Khan,2007-11-15,1st,Shoaib Malik,31,,Younis Khan,46,India,Pakistan,78,Pakistan,Captain Roop Singh Stadium,1,India
+116,19.3,0,Z Khan,2007-11-15,1st,Younis Khan,46,Shoaib Malik,Shoaib Malik,31,India,Pakistan,78,Pakistan,Captain Roop Singh Stadium,2,India
+117,19.4,1,Z Khan,2007-11-15,1st,Younis Khan,46,,Mohammad Yousuf,1,India,Pakistan,79,Pakistan,Captain Roop Singh Stadium,2,India
+118,19.5,0,Z Khan,2007-11-15,1st,Mohammad Yousuf,1,,Younis Khan,46,India,Pakistan,79,Pakistan,Captain Roop Singh Stadium,2,India
+119,19.6,0,Z Khan,2007-11-15,1st,Mohammad Yousuf,1,,Younis Khan,46,India,Pakistan,79,Pakistan,Captain Roop Singh Stadium,2,India
+120,20.1,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,46,,Mohammad Yousuf,1,India,Pakistan,79,Pakistan,Captain Roop Singh Stadium,2,India
+121,20.2,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,46,,Mohammad Yousuf,1,India,Pakistan,79,Pakistan,Captain Roop Singh Stadium,2,India
+122,20.3,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,46,,Mohammad Yousuf,1,India,Pakistan,79,Pakistan,Captain Roop Singh Stadium,2,India
+123,20.4,1,Harbhajan Singh,2007-11-15,1st,Younis Khan,46,,Mohammad Yousuf,2,India,Pakistan,80,Pakistan,Captain Roop Singh Stadium,2,India
+124,20.5,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,2,,Younis Khan,47,India,Pakistan,81,Pakistan,Captain Roop Singh Stadium,2,India
+125,20.6,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,47,,Mohammad Yousuf,2,India,Pakistan,81,Pakistan,Captain Roop Singh Stadium,2,India
+126,21.1,0,Yuvraj Singh,2007-11-15,1st,Mohammad Yousuf,2,,Younis Khan,47,India,Pakistan,82,Pakistan,Captain Roop Singh Stadium,2,India
+127,21.2,1,Yuvraj Singh,2007-11-15,1st,Younis Khan,47,,Mohammad Yousuf,3,India,Pakistan,83,Pakistan,Captain Roop Singh Stadium,2,India
+128,21.3,0,Yuvraj Singh,2007-11-15,1st,Mohammad Yousuf,3,,Younis Khan,47,India,Pakistan,83,Pakistan,Captain Roop Singh Stadium,2,India
+129,21.4,0,Yuvraj Singh,2007-11-15,1st,Mohammad Yousuf,3,,Younis Khan,47,India,Pakistan,83,Pakistan,Captain Roop Singh Stadium,2,India
+130,21.5,1,Yuvraj Singh,2007-11-15,1st,Mohammad Yousuf,3,,Younis Khan,48,India,Pakistan,84,Pakistan,Captain Roop Singh Stadium,2,India
+131,21.6,0,Yuvraj Singh,2007-11-15,1st,Younis Khan,48,,Mohammad Yousuf,3,India,Pakistan,84,Pakistan,Captain Roop Singh Stadium,2,India
+132,22.1,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,3,,Younis Khan,48,India,Pakistan,84,Pakistan,Captain Roop Singh Stadium,2,India
+133,22.2,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,3,,Younis Khan,48,India,Pakistan,84,Pakistan,Captain Roop Singh Stadium,2,India
+134,22.3,2,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,3,,Younis Khan,50,India,Pakistan,86,Pakistan,Captain Roop Singh Stadium,2,India
+135,22.4,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,3,,Younis Khan,51,India,Pakistan,87,Pakistan,Captain Roop Singh Stadium,2,India
+136,22.5,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,3,India,Pakistan,87,Pakistan,Captain Roop Singh Stadium,2,India
+137,22.6,1,Harbhajan Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,4,India,Pakistan,88,Pakistan,Captain Roop Singh Stadium,2,India
+138,23.1,4,Yuvraj Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,8,India,Pakistan,92,Pakistan,Captain Roop Singh Stadium,2,India
+139,23.2,2,Yuvraj Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,10,India,Pakistan,94,Pakistan,Captain Roop Singh Stadium,2,India
+140,23.3,2,Yuvraj Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,12,India,Pakistan,96,Pakistan,Captain Roop Singh Stadium,2,India
+141,23.4,0,Yuvraj Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,12,India,Pakistan,96,Pakistan,Captain Roop Singh Stadium,2,India
+142,23.5,1,Yuvraj Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,13,India,Pakistan,97,Pakistan,Captain Roop Singh Stadium,2,India
+143,23.6,0,Yuvraj Singh,2007-11-15,1st,Mohammad Yousuf,13,,Younis Khan,51,India,Pakistan,97,Pakistan,Captain Roop Singh Stadium,2,India
+144,24.1,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,13,India,Pakistan,97,Pakistan,Captain Roop Singh Stadium,2,India
+145,24.2,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,51,,Mohammad Yousuf,13,India,Pakistan,98,Pakistan,Captain Roop Singh Stadium,2,India
+146,24.3,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,13,,Younis Khan,52,India,Pakistan,99,Pakistan,Captain Roop Singh Stadium,2,India
+147,24.4,1,Harbhajan Singh,2007-11-15,1st,Younis Khan,52,,Mohammad Yousuf,14,India,Pakistan,100,Pakistan,Captain Roop Singh Stadium,2,India
+148,24.5,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,14,,Younis Khan,52,India,Pakistan,100,Pakistan,Captain Roop Singh Stadium,2,India
+149,24.6,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,14,,Younis Khan,53,India,Pakistan,101,Pakistan,Captain Roop Singh Stadium,2,India
+150,25.1,0,V Sehwag,2007-11-15,1st,Mohammad Yousuf,14,,Younis Khan,53,India,Pakistan,101,Pakistan,Captain Roop Singh Stadium,2,India
+151,25.2,1,V Sehwag,2007-11-15,1st,Mohammad Yousuf,14,,Younis Khan,54,India,Pakistan,102,Pakistan,Captain Roop Singh Stadium,2,India
+152,25.3,0,V Sehwag,2007-11-15,1st,Younis Khan,54,,Mohammad Yousuf,14,India,Pakistan,102,Pakistan,Captain Roop Singh Stadium,2,India
+153,25.4,1,V Sehwag,2007-11-15,1st,Younis Khan,54,,Mohammad Yousuf,15,India,Pakistan,103,Pakistan,Captain Roop Singh Stadium,2,India
+154,25.5,1,V Sehwag,2007-11-15,1st,Mohammad Yousuf,15,,Younis Khan,55,India,Pakistan,104,Pakistan,Captain Roop Singh Stadium,2,India
+155,25.6,1,V Sehwag,2007-11-15,1st,Younis Khan,55,,Mohammad Yousuf,16,India,Pakistan,105,Pakistan,Captain Roop Singh Stadium,2,India
+156,26.1,0,Harbhajan Singh,2007-11-15,1st,Younis Khan,55,,Mohammad Yousuf,16,India,Pakistan,105,Pakistan,Captain Roop Singh Stadium,2,India
+157,26.2,1,Harbhajan Singh,2007-11-15,1st,Younis Khan,55,,Mohammad Yousuf,17,India,Pakistan,106,Pakistan,Captain Roop Singh Stadium,2,India
+158,26.3,6,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,17,,Younis Khan,61,India,Pakistan,112,Pakistan,Captain Roop Singh Stadium,2,India
+159,26.4,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,17,,Younis Khan,62,India,Pakistan,113,Pakistan,Captain Roop Singh Stadium,2,India
+160,26.5,1,Harbhajan Singh,2007-11-15,1st,Younis Khan,62,,Mohammad Yousuf,18,India,Pakistan,114,Pakistan,Captain Roop Singh Stadium,2,India
+161,26.6,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,18,,Younis Khan,63,India,Pakistan,115,Pakistan,Captain Roop Singh Stadium,2,India
+162,27.1,1,V Sehwag,2007-11-15,1st,Mohammad Yousuf,18,,Younis Khan,64,India,Pakistan,116,Pakistan,Captain Roop Singh Stadium,2,India
+163,27.2,4,V Sehwag,2007-11-15,1st,Younis Khan,64,,Mohammad Yousuf,22,India,Pakistan,120,Pakistan,Captain Roop Singh Stadium,2,India
+164,27.3,1,V Sehwag,2007-11-15,1st,Younis Khan,64,,Mohammad Yousuf,23,India,Pakistan,121,Pakistan,Captain Roop Singh Stadium,2,India
+165,27.4,0,V Sehwag,2007-11-15,1st,Mohammad Yousuf,23,,Younis Khan,64,India,Pakistan,121,Pakistan,Captain Roop Singh Stadium,2,India
+166,27.5,0,V Sehwag,2007-11-15,1st,Mohammad Yousuf,23,,Younis Khan,64,India,Pakistan,121,Pakistan,Captain Roop Singh Stadium,2,India
+167,27.6,1,V Sehwag,2007-11-15,1st,Mohammad Yousuf,23,,Younis Khan,65,India,Pakistan,122,Pakistan,Captain Roop Singh Stadium,2,India
+168,28.1,1,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,23,,Younis Khan,66,India,Pakistan,123,Pakistan,Captain Roop Singh Stadium,2,India
+169,28.2,1,SC Ganguly,2007-11-15,1st,Younis Khan,66,,Mohammad Yousuf,24,India,Pakistan,124,Pakistan,Captain Roop Singh Stadium,2,India
+170,28.3,1,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,24,,Younis Khan,67,India,Pakistan,125,Pakistan,Captain Roop Singh Stadium,2,India
+171,28.4,1,SC Ganguly,2007-11-15,1st,Younis Khan,67,,Mohammad Yousuf,25,India,Pakistan,126,Pakistan,Captain Roop Singh Stadium,2,India
+172,28.5,1,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,25,,Younis Khan,68,India,Pakistan,127,Pakistan,Captain Roop Singh Stadium,2,India
+173,28.6,1,SC Ganguly,2007-11-15,1st,Younis Khan,68,,Mohammad Yousuf,26,India,Pakistan,128,Pakistan,Captain Roop Singh Stadium,2,India
+174,29.1,0,Yuvraj Singh,2007-11-15,1st,Younis Khan,68,,Mohammad Yousuf,26,India,Pakistan,128,Pakistan,Captain Roop Singh Stadium,2,India
+175,29.2,0,Yuvraj Singh,2007-11-15,1st,Younis Khan,68,,Mohammad Yousuf,26,India,Pakistan,128,Pakistan,Captain Roop Singh Stadium,2,India
+176,29.3,0,Yuvraj Singh,2007-11-15,1st,Younis Khan,68,,Mohammad Yousuf,26,India,Pakistan,128,Pakistan,Captain Roop Singh Stadium,2,India
+177,29.4,0,Yuvraj Singh,2007-11-15,1st,Younis Khan,68,,Mohammad Yousuf,26,India,Pakistan,128,Pakistan,Captain Roop Singh Stadium,2,India
+178,29.5,1,Yuvraj Singh,2007-11-15,1st,Younis Khan,68,,Mohammad Yousuf,27,India,Pakistan,129,Pakistan,Captain Roop Singh Stadium,2,India
+179,29.6,0,Yuvraj Singh,2007-11-15,1st,Mohammad Yousuf,27,Younis Khan,Younis Khan,68,India,Pakistan,129,Pakistan,Captain Roop Singh Stadium,3,India
+180,30.1,1,SC Ganguly,2007-11-15,1st,Shahid Afridi,0,,Mohammad Yousuf,28,India,Pakistan,130,Pakistan,Captain Roop Singh Stadium,3,India
+181,30.2,0,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,28,,Shahid Afridi,0,India,Pakistan,130,Pakistan,Captain Roop Singh Stadium,3,India
+182,30.3,0,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,28,,Shahid Afridi,0,India,Pakistan,130,Pakistan,Captain Roop Singh Stadium,3,India
+183,30.4,1,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,28,,Shahid Afridi,1,India,Pakistan,131,Pakistan,Captain Roop Singh Stadium,3,India
+184,30.5,0,SC Ganguly,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,28,India,Pakistan,131,Pakistan,Captain Roop Singh Stadium,3,India
+185,30.6,1,SC Ganguly,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,29,India,Pakistan,132,Pakistan,Captain Roop Singh Stadium,3,India
+186,31.1,0,RP Singh,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,29,India,Pakistan,132,Pakistan,Captain Roop Singh Stadium,3,India
+187,31.2,0,RP Singh,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,29,India,Pakistan,132,Pakistan,Captain Roop Singh Stadium,3,India
+188,31.3,0,RP Singh,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,29,India,Pakistan,132,Pakistan,Captain Roop Singh Stadium,3,India
+189,31.4,0,RP Singh,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,29,India,Pakistan,132,Pakistan,Captain Roop Singh Stadium,3,India
+190,31.5,2,RP Singh,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,31,India,Pakistan,134,Pakistan,Captain Roop Singh Stadium,3,India
+191,31.6,0,RP Singh,2007-11-15,1st,Shahid Afridi,1,,Mohammad Yousuf,31,India,Pakistan,134,Pakistan,Captain Roop Singh Stadium,3,India
+192,32.1,0,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,31,Shahid Afridi,Shahid Afridi,1,India,Pakistan,134,Pakistan,Captain Roop Singh Stadium,4,India
+193,32.2,0,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,31,,Misbah-ul-Haq,0,India,Pakistan,134,Pakistan,Captain Roop Singh Stadium,4,India
+194,32.3,4,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,31,,Misbah-ul-Haq,4,India,Pakistan,138,Pakistan,Captain Roop Singh Stadium,4,India
+195,32.4,2,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,31,,Misbah-ul-Haq,6,India,Pakistan,140,Pakistan,Captain Roop Singh Stadium,4,India
+196,32.5,0,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,31,,Misbah-ul-Haq,6,India,Pakistan,140,Pakistan,Captain Roop Singh Stadium,4,India
+197,32.6,0,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,31,,Misbah-ul-Haq,6,India,Pakistan,140,Pakistan,Captain Roop Singh Stadium,4,India
+198,33.1,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,6,,Mohammad Yousuf,32,India,Pakistan,141,Pakistan,Captain Roop Singh Stadium,4,India
+199,33.2,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,32,,Misbah-ul-Haq,6,India,Pakistan,141,Pakistan,Captain Roop Singh Stadium,4,India
+200,33.3,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,32,,Misbah-ul-Haq,7,India,Pakistan,142,Pakistan,Captain Roop Singh Stadium,4,India
+201,33.4,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,7,,Mohammad Yousuf,32,India,Pakistan,142,Pakistan,Captain Roop Singh Stadium,4,India
+202,33.5,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,7,,Mohammad Yousuf,32,India,Pakistan,142,Pakistan,Captain Roop Singh Stadium,4,India
+203,33.6,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,7,,Mohammad Yousuf,32,India,Pakistan,142,Pakistan,Captain Roop Singh Stadium,4,India
+204,34.1,0,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,32,,Misbah-ul-Haq,7,India,Pakistan,142,Pakistan,Captain Roop Singh Stadium,4,India
+205,34.2,1,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,32,,Misbah-ul-Haq,8,India,Pakistan,143,Pakistan,Captain Roop Singh Stadium,4,India
+206,34.3,0,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,32,India,Pakistan,143,Pakistan,Captain Roop Singh Stadium,4,India
+207,34.4,4,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,36,India,Pakistan,147,Pakistan,Captain Roop Singh Stadium,4,India
+208,34.5,0,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,36,India,Pakistan,147,Pakistan,Captain Roop Singh Stadium,4,India
+209,34.6,1,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,37,India,Pakistan,148,Pakistan,Captain Roop Singh Stadium,4,India
+210,35.1,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,38,India,Pakistan,149,Pakistan,Captain Roop Singh Stadium,4,India
+211,35.2,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,38,,Misbah-ul-Haq,8,India,Pakistan,149,Pakistan,Captain Roop Singh Stadium,4,India
+212,35.3,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,38,,Misbah-ul-Haq,9,India,Pakistan,150,Pakistan,Captain Roop Singh Stadium,4,India
+213,35.4,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,9,,Mohammad Yousuf,39,India,Pakistan,151,Pakistan,Captain Roop Singh Stadium,4,India
+214,35.5,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,39,,Misbah-ul-Haq,10,India,Pakistan,152,Pakistan,Captain Roop Singh Stadium,4,India
+215,35.6,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,40,India,Pakistan,153,Pakistan,Captain Roop Singh Stadium,4,India
+216,36.1,4,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,44,India,Pakistan,157,Pakistan,Captain Roop Singh Stadium,4,India
+217,36.2,2,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,46,India,Pakistan,159,Pakistan,Captain Roop Singh Stadium,4,India
+218,36.3,1,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,47,India,Pakistan,160,Pakistan,Captain Roop Singh Stadium,4,India
+219,36.4,1,SC Ganguly,2007-11-15,1st,Mohammad Yousuf,47,,Misbah-ul-Haq,11,India,Pakistan,161,Pakistan,Captain Roop Singh Stadium,4,India
+220,36.5,0,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,11,,Mohammad Yousuf,47,India,Pakistan,161,Pakistan,Captain Roop Singh Stadium,4,India
+221,36.6,0,SC Ganguly,2007-11-15,1st,Misbah-ul-Haq,11,,Mohammad Yousuf,47,India,Pakistan,161,Pakistan,Captain Roop Singh Stadium,4,India
+222,37.1,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,47,,Misbah-ul-Haq,11,India,Pakistan,161,Pakistan,Captain Roop Singh Stadium,4,India
+223,37.2,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,47,,Misbah-ul-Haq,11,India,Pakistan,163,Pakistan,Captain Roop Singh Stadium,4,India
+224,37.3,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,11,,Mohammad Yousuf,47,India,Pakistan,163,Pakistan,Captain Roop Singh Stadium,4,India
+225,37.4,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,11,,Mohammad Yousuf,48,India,Pakistan,164,Pakistan,Captain Roop Singh Stadium,4,India
+226,37.5,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,48,,Misbah-ul-Haq,12,India,Pakistan,165,Pakistan,Captain Roop Singh Stadium,4,India
+227,37.6,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,48,India,Pakistan,165,Pakistan,Captain Roop Singh Stadium,4,India
+228,37.7,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,49,India,Pakistan,166,Pakistan,Captain Roop Singh Stadium,4,India
+229,38.1,1,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,50,India,Pakistan,167,Pakistan,Captain Roop Singh Stadium,4,India
+230,38.2,4,IK Pathan,2007-11-15,1st,Mohammad Yousuf,50,,Misbah-ul-Haq,16,India,Pakistan,171,Pakistan,Captain Roop Singh Stadium,4,India
+231,38.3,1,IK Pathan,2007-11-15,1st,Mohammad Yousuf,50,,Misbah-ul-Haq,17,India,Pakistan,172,Pakistan,Captain Roop Singh Stadium,4,India
+232,38.4,1,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,17,,Mohammad Yousuf,51,India,Pakistan,173,Pakistan,Captain Roop Singh Stadium,4,India
+233,38.5,1,IK Pathan,2007-11-15,1st,Mohammad Yousuf,51,,Misbah-ul-Haq,18,India,Pakistan,174,Pakistan,Captain Roop Singh Stadium,4,India
+234,38.6,1,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,52,India,Pakistan,175,Pakistan,Captain Roop Singh Stadium,4,India
+235,39.1,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,52,India,Pakistan,175,Pakistan,Captain Roop Singh Stadium,4,India
+236,39.2,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,52,India,Pakistan,175,Pakistan,Captain Roop Singh Stadium,4,India
+237,39.3,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,52,India,Pakistan,175,Pakistan,Captain Roop Singh Stadium,4,India
+238,39.4,2,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,54,India,Pakistan,177,Pakistan,Captain Roop Singh Stadium,4,India
+239,39.5,0,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,54,India,Pakistan,177,Pakistan,Captain Roop Singh Stadium,4,India
+240,39.6,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,55,India,Pakistan,178,Pakistan,Captain Roop Singh Stadium,4,India
+241,40.1,0,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,55,India,Pakistan,178,Pakistan,Captain Roop Singh Stadium,4,India
+242,40.2,1,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,18,,Mohammad Yousuf,56,India,Pakistan,179,Pakistan,Captain Roop Singh Stadium,4,India
+243,40.3,1,IK Pathan,2007-11-15,1st,Mohammad Yousuf,56,,Misbah-ul-Haq,19,India,Pakistan,180,Pakistan,Captain Roop Singh Stadium,4,India
+244,40.4,0,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,19,,Mohammad Yousuf,56,India,Pakistan,180,Pakistan,Captain Roop Singh Stadium,4,India
+245,40.5,0,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,19,,Mohammad Yousuf,56,India,Pakistan,180,Pakistan,Captain Roop Singh Stadium,4,India
+246,40.6,4,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,19,,Mohammad Yousuf,60,India,Pakistan,184,Pakistan,Captain Roop Singh Stadium,4,India
+247,41.1,0,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,60,,Misbah-ul-Haq,19,India,Pakistan,184,Pakistan,Captain Roop Singh Stadium,4,India
+248,41.2,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,60,,Misbah-ul-Haq,20,India,Pakistan,185,Pakistan,Captain Roop Singh Stadium,4,India
+249,41.3,6,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,66,India,Pakistan,191,Pakistan,Captain Roop Singh Stadium,4,India
+250,41.4,1,Harbhajan Singh,2007-11-15,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,67,India,Pakistan,192,Pakistan,Captain Roop Singh Stadium,4,India
+251,41.5,2,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,67,,Misbah-ul-Haq,22,India,Pakistan,194,Pakistan,Captain Roop Singh Stadium,4,India
+252,41.6,1,Harbhajan Singh,2007-11-15,1st,Mohammad Yousuf,67,,Misbah-ul-Haq,23,India,Pakistan,195,Pakistan,Captain Roop Singh Stadium,4,India
+253,42.1,0,Z Khan,2007-11-15,1st,Mohammad Yousuf,67,,Misbah-ul-Haq,23,India,Pakistan,195,Pakistan,Captain Roop Singh Stadium,4,India
+254,42.2,0,Z Khan,2007-11-15,1st,Mohammad Yousuf,67,,Misbah-ul-Haq,23,India,Pakistan,195,Pakistan,Captain Roop Singh Stadium,4,India
+255,42.3,1,Z Khan,2007-11-15,1st,Mohammad Yousuf,67,,Misbah-ul-Haq,24,India,Pakistan,196,Pakistan,Captain Roop Singh Stadium,4,India
+256,42.4,2,Z Khan,2007-11-15,1st,Misbah-ul-Haq,24,,Mohammad Yousuf,69,India,Pakistan,198,Pakistan,Captain Roop Singh Stadium,4,India
+257,42.5,0,Z Khan,2007-11-15,1st,Misbah-ul-Haq,24,,Mohammad Yousuf,69,India,Pakistan,198,Pakistan,Captain Roop Singh Stadium,4,India
+258,42.6,0,Z Khan,2007-11-15,1st,Misbah-ul-Haq,24,,Mohammad Yousuf,69,India,Pakistan,198,Pakistan,Captain Roop Singh Stadium,4,India
+259,43.1,1,RP Singh,2007-11-15,1st,Mohammad Yousuf,69,,Misbah-ul-Haq,25,India,Pakistan,199,Pakistan,Captain Roop Singh Stadium,4,India
+260,43.2,1,RP Singh,2007-11-15,1st,Misbah-ul-Haq,25,,Mohammad Yousuf,70,India,Pakistan,200,Pakistan,Captain Roop Singh Stadium,4,India
+261,43.3,1,RP Singh,2007-11-15,1st,Mohammad Yousuf,70,,Misbah-ul-Haq,26,India,Pakistan,201,Pakistan,Captain Roop Singh Stadium,4,India
+262,43.4,4,RP Singh,2007-11-15,1st,Misbah-ul-Haq,26,,Mohammad Yousuf,74,India,Pakistan,205,Pakistan,Captain Roop Singh Stadium,4,India
+263,43.5,0,RP Singh,2007-11-15,1st,Misbah-ul-Haq,26,,Mohammad Yousuf,74,India,Pakistan,205,Pakistan,Captain Roop Singh Stadium,4,India
+264,43.6,2,RP Singh,2007-11-15,1st,Misbah-ul-Haq,26,,Mohammad Yousuf,76,India,Pakistan,207,Pakistan,Captain Roop Singh Stadium,4,India
+265,44.1,1,IK Pathan,2007-11-15,1st,Mohammad Yousuf,76,,Misbah-ul-Haq,27,India,Pakistan,208,Pakistan,Captain Roop Singh Stadium,4,India
+266,44.2,1,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,27,,Mohammad Yousuf,77,India,Pakistan,209,Pakistan,Captain Roop Singh Stadium,4,India
+267,44.3,1,IK Pathan,2007-11-15,1st,Mohammad Yousuf,77,,Misbah-ul-Haq,28,India,Pakistan,210,Pakistan,Captain Roop Singh Stadium,4,India
+268,44.4,1,IK Pathan,2007-11-15,1st,Misbah-ul-Haq,28,,Mohammad Yousuf,78,India,Pakistan,211,Pakistan,Captain Roop Singh Stadium,4,India
+269,44.5,0,IK Pathan,2007-11-15,1st,Mohammad Yousuf,78,,Misbah-ul-Haq,28,India,Pakistan,211,Pakistan,Captain Roop Singh Stadium,4,India
+270,44.6,1,IK Pathan,2007-11-15,1st,Mohammad Yousuf,78,,Misbah-ul-Haq,29,India,Pakistan,212,Pakistan,Captain Roop Singh Stadium,4,India
+271,45.1,1,Z Khan,2007-11-15,1st,Mohammad Yousuf,78,,Misbah-ul-Haq,30,India,Pakistan,213,Pakistan,Captain Roop Singh Stadium,4,India
+272,45.2,0,Z Khan,2007-11-15,1st,Misbah-ul-Haq,30,,Mohammad Yousuf,78,India,Pakistan,214,Pakistan,Captain Roop Singh Stadium,4,India
+273,45.3,2,Z Khan,2007-11-15,1st,Mohammad Yousuf,78,,Misbah-ul-Haq,32,India,Pakistan,216,Pakistan,Captain Roop Singh Stadium,4,India
+274,45.4,0,Z Khan,2007-11-15,1st,Mohammad Yousuf,78,,Misbah-ul-Haq,32,India,Pakistan,217,Pakistan,Captain Roop Singh Stadium,4,India
+275,45.5,0,Z Khan,2007-11-15,1st,Misbah-ul-Haq,32,,Mohammad Yousuf,78,India,Pakistan,217,Pakistan,Captain Roop Singh Stadium,4,India
+276,45.6,1,Z Khan,2007-11-15,1st,Misbah-ul-Haq,32,,Mohammad Yousuf,79,India,Pakistan,218,Pakistan,Captain Roop Singh Stadium,4,India
+277,46.1,0,RP Singh,2007-11-15,1st,Misbah-ul-Haq,32,,Mohammad Yousuf,79,India,Pakistan,218,Pakistan,Captain Roop Singh Stadium,4,India
+278,46.2,1,RP Singh,2007-11-15,1st,Misbah-ul-Haq,32,,Mohammad Yousuf,80,India,Pakistan,219,Pakistan,Captain Roop Singh Stadium,4,India
+279,46.3,6,RP Singh,2007-11-15,1st,Mohammad Yousuf,80,,Misbah-ul-Haq,38,India,Pakistan,225,Pakistan,Captain Roop Singh Stadium,4,India
+280,46.4,1,RP Singh,2007-11-15,1st,Mohammad Yousuf,80,,Misbah-ul-Haq,39,India,Pakistan,226,Pakistan,Captain Roop Singh Stadium,4,India
+281,46.5,1,RP Singh,2007-11-15,1st,Misbah-ul-Haq,39,,Mohammad Yousuf,81,India,Pakistan,227,Pakistan,Captain Roop Singh Stadium,4,India
+282,46.6,1,RP Singh,2007-11-15,1st,Mohammad Yousuf,81,,Misbah-ul-Haq,40,India,Pakistan,228,Pakistan,Captain Roop Singh Stadium,4,India
+283,47.1,0,IK Pathan,2007-11-15,1st,Mohammad Yousuf,81,Misbah-ul-Haq,Misbah-ul-Haq,40,India,Pakistan,228,Pakistan,Captain Roop Singh Stadium,5,India
+284,47.2,1,IK Pathan,2007-11-15,1st,Mohammad Yousuf,81,,Sohail Tanvir,1,India,Pakistan,229,Pakistan,Captain Roop Singh Stadium,5,India
+285,47.3,0,IK Pathan,2007-11-15,1st,Sohail Tanvir,1,,Mohammad Yousuf,81,India,Pakistan,229,Pakistan,Captain Roop Singh Stadium,5,India
+286,47.4,2,IK Pathan,2007-11-15,1st,Sohail Tanvir,1,,Mohammad Yousuf,83,India,Pakistan,231,Pakistan,Captain Roop Singh Stadium,5,India
+287,47.5,4,IK Pathan,2007-11-15,1st,Sohail Tanvir,1,,Mohammad Yousuf,87,India,Pakistan,235,Pakistan,Captain Roop Singh Stadium,5,India
+288,47.6,1,IK Pathan,2007-11-15,1st,Sohail Tanvir,1,,Mohammad Yousuf,88,India,Pakistan,236,Pakistan,Captain Roop Singh Stadium,5,India
+289,48.1,1,Z Khan,2007-11-15,1st,Sohail Tanvir,1,,Mohammad Yousuf,89,India,Pakistan,237,Pakistan,Captain Roop Singh Stadium,5,India
+290,48.2,1,Z Khan,2007-11-15,1st,Mohammad Yousuf,89,,Sohail Tanvir,2,India,Pakistan,238,Pakistan,Captain Roop Singh Stadium,5,India
+291,48.3,0,Z Khan,2007-11-15,1st,Sohail Tanvir,2,,Mohammad Yousuf,89,India,Pakistan,239,Pakistan,Captain Roop Singh Stadium,5,India
+292,48.4,4,Z Khan,2007-11-15,1st,Mohammad Yousuf,89,,Sohail Tanvir,6,India,Pakistan,243,Pakistan,Captain Roop Singh Stadium,5,India
+293,48.5,0,Z Khan,2007-11-15,1st,Mohammad Yousuf,89,Sohail Tanvir,Sohail Tanvir,6,India,Pakistan,243,Pakistan,Captain Roop Singh Stadium,6,India
+294,48.6,0,Z Khan,2007-11-15,1st,Mohammad Yousuf,89,,Kamran Akmal,0,India,Pakistan,243,Pakistan,Captain Roop Singh Stadium,6,India
+295,49.1,1,RP Singh,2007-11-15,1st,Kamran Akmal,0,,Mohammad Yousuf,90,India,Pakistan,244,Pakistan,Captain Roop Singh Stadium,6,India
+296,49.2,1,RP Singh,2007-11-15,1st,Mohammad Yousuf,90,,Kamran Akmal,1,India,Pakistan,245,Pakistan,Captain Roop Singh Stadium,6,India
+297,49.3,1,RP Singh,2007-11-15,1st,Kamran Akmal,1,,Mohammad Yousuf,91,India,Pakistan,246,Pakistan,Captain Roop Singh Stadium,6,India
+298,49.4,1,RP Singh,2007-11-15,1st,Mohammad Yousuf,91,,Kamran Akmal,2,India,Pakistan,247,Pakistan,Captain Roop Singh Stadium,6,India
+299,49.5,6,RP Singh,2007-11-15,1st,Kamran Akmal,2,,Mohammad Yousuf,97,India,Pakistan,253,Pakistan,Captain Roop Singh Stadium,6,India
+300,49.6,2,RP Singh,2007-11-15,1st,Kamran Akmal,2,,Mohammad Yousuf,99,India,Pakistan,255,Pakistan,Captain Roop Singh Stadium,6,India
+301,0.1,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,1,Pakistan,Captain Roop Singh Stadium,0,India
+302,0.2,1,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,2,Pakistan,Captain Roop Singh Stadium,0,India
+303,0.3,0,Shoaib Akhtar,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,2,Pakistan,Captain Roop Singh Stadium,0,India
+304,0.4,0,Shoaib Akhtar,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,2,Pakistan,Captain Roop Singh Stadium,0,India
+305,0.5,4,Shoaib Akhtar,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,6,Pakistan,Captain Roop Singh Stadium,0,India
+306,0.6,0,Shoaib Akhtar,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,6,Pakistan,Captain Roop Singh Stadium,0,India
+307,0.7,0,Shoaib Akhtar,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,6,Pakistan,Captain Roop Singh Stadium,0,India
+308,1.1,4,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,10,Pakistan,Captain Roop Singh Stadium,0,India
+309,1.2,0,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,0,India
+310,1.3,0,Sohail Tanvir,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,0,India
+311,1.4,0,Sohail Tanvir,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,0,India
+312,1.5,0,Sohail Tanvir,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,0,India
+313,1.6,0,Sohail Tanvir,2007-11-15,2nd,SC Ganguly,0,,SR Tendulkar,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,0,India
+314,2.1,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,0,India
+315,2.2,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,1,India
+316,2.3,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,11,Pakistan,Captain Roop Singh Stadium,1,India
+317,2.4,1,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,12,Pakistan,Captain Roop Singh Stadium,1,India
+318,2.5,1,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,13,Pakistan,Captain Roop Singh Stadium,1,India
+319,2.6,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,13,Pakistan,Captain Roop Singh Stadium,1,India
+320,3.1,0,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,13,Pakistan,Captain Roop Singh Stadium,1,India
+321,3.2,0,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,13,Pakistan,Captain Roop Singh Stadium,1,India
+322,3.3,0,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+323,3.4,0,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+324,3.5,0,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+325,3.6,0,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+326,4.1,0,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+327,4.2,0,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+328,4.3,0,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,14,Pakistan,Captain Roop Singh Stadium,1,India
+329,4.4,0,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,15,Pakistan,Captain Roop Singh Stadium,1,India
+330,4.5,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,15,Pakistan,Captain Roop Singh Stadium,1,India
+331,4.6,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,16,Pakistan,Captain Roop Singh Stadium,1,India
+332,4.7,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,16,Pakistan,Captain Roop Singh Stadium,1,India
+333,5.1,4,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,20,Pakistan,Captain Roop Singh Stadium,1,India
+334,5.2,2,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,22,Pakistan,Captain Roop Singh Stadium,1,India
+335,5.3,3,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,25,Pakistan,Captain Roop Singh Stadium,1,India
+336,5.4,1,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,26,Pakistan,Captain Roop Singh Stadium,1,India
+337,5.5,0,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,26,Pakistan,Captain Roop Singh Stadium,1,India
+338,5.6,4,Sohail Tanvir,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,30,Pakistan,Captain Roop Singh Stadium,1,India
+339,6.1,1,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,31,Pakistan,Captain Roop Singh Stadium,1,India
+340,6.2,0,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,31,Pakistan,Captain Roop Singh Stadium,1,India
+341,6.3,4,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,35,Pakistan,Captain Roop Singh Stadium,1,India
+342,6.4,0,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,35,Pakistan,Captain Roop Singh Stadium,1,India
+343,6.5,0,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,35,Pakistan,Captain Roop Singh Stadium,1,India
+344,6.6,1,Shoaib Akhtar,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,36,Pakistan,Captain Roop Singh Stadium,1,India
+345,7.1,1,Umar Gul,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,37,Pakistan,Captain Roop Singh Stadium,1,India
+346,7.2,0,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,38,Pakistan,Captain Roop Singh Stadium,1,India
+347,7.3,4,Umar Gul,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,42,Pakistan,Captain Roop Singh Stadium,1,India
+348,7.4,0,Umar Gul,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,42,Pakistan,Captain Roop Singh Stadium,1,India
+349,7.5,4,Umar Gul,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,46,Pakistan,Captain Roop Singh Stadium,1,India
+350,7.6,2,Umar Gul,2007-11-15,2nd,G Gambhir,0,,SR Tendulkar,0,India,Pakistan,48,Pakistan,Captain Roop Singh Stadium,1,India
+351,8.1,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,48,Pakistan,Captain Roop Singh Stadium,1,India
+352,8.2,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,G Gambhir,0,India,Pakistan,48,Pakistan,Captain Roop Singh Stadium,2,India
+353,8.3,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,49,Pakistan,Captain Roop Singh Stadium,2,India
+354,8.4,4,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,53,Pakistan,Captain Roop Singh Stadium,2,India
+355,8.5,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,53,Pakistan,Captain Roop Singh Stadium,2,India
+356,8.6,4,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,57,Pakistan,Captain Roop Singh Stadium,2,India
+357,9.1,0,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,57,Pakistan,Captain Roop Singh Stadium,2,India
+358,9.2,1,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,58,Pakistan,Captain Roop Singh Stadium,2,India
+359,9.3,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,58,Pakistan,Captain Roop Singh Stadium,2,India
+360,9.4,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,58,Pakistan,Captain Roop Singh Stadium,2,India
+361,9.5,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,58,Pakistan,Captain Roop Singh Stadium,2,India
+362,9.6,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,58,Pakistan,Captain Roop Singh Stadium,2,India
+363,10.1,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,58,Pakistan,Captain Roop Singh Stadium,2,India
+364,10.2,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,59,Pakistan,Captain Roop Singh Stadium,2,India
+365,10.3,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,59,Pakistan,Captain Roop Singh Stadium,2,India
+366,10.4,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,59,Pakistan,Captain Roop Singh Stadium,2,India
+367,10.5,1,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,60,Pakistan,Captain Roop Singh Stadium,2,India
+368,10.6,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,60,Pakistan,Captain Roop Singh Stadium,2,India
+369,11.1,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,60,Pakistan,Captain Roop Singh Stadium,2,India
+370,11.2,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,60,Pakistan,Captain Roop Singh Stadium,2,India
+371,11.3,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,60,Pakistan,Captain Roop Singh Stadium,2,India
+372,11.4,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,60,Pakistan,Captain Roop Singh Stadium,2,India
+373,11.5,4,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,64,Pakistan,Captain Roop Singh Stadium,2,India
+374,11.6,4,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,68,Pakistan,Captain Roop Singh Stadium,2,India
+375,12.1,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,68,Pakistan,Captain Roop Singh Stadium,2,India
+376,12.2,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,68,Pakistan,Captain Roop Singh Stadium,2,India
+377,12.3,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,68,Pakistan,Captain Roop Singh Stadium,2,India
+378,12.4,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,68,Pakistan,Captain Roop Singh Stadium,2,India
+379,12.5,3,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,71,Pakistan,Captain Roop Singh Stadium,2,India
+380,12.6,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,71,Pakistan,Captain Roop Singh Stadium,2,India
+381,13.1,0,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,71,Pakistan,Captain Roop Singh Stadium,2,India
+382,13.2,1,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,72,Pakistan,Captain Roop Singh Stadium,2,India
+383,13.3,0,Sohail Tanvir,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,72,Pakistan,Captain Roop Singh Stadium,2,India
+384,13.4,0,Sohail Tanvir,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,72,Pakistan,Captain Roop Singh Stadium,2,India
+385,13.5,1,Sohail Tanvir,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,73,Pakistan,Captain Roop Singh Stadium,2,India
+386,13.6,1,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,74,Pakistan,Captain Roop Singh Stadium,2,India
+387,14.1,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,74,Pakistan,Captain Roop Singh Stadium,2,India
+388,14.2,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,74,Pakistan,Captain Roop Singh Stadium,2,India
+389,14.3,1,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,75,Pakistan,Captain Roop Singh Stadium,2,India
+390,14.4,1,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,76,Pakistan,Captain Roop Singh Stadium,2,India
+391,14.5,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,76,Pakistan,Captain Roop Singh Stadium,2,India
+392,14.6,1,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,77,Pakistan,Captain Roop Singh Stadium,2,India
+393,15.1,1,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,78,Pakistan,Captain Roop Singh Stadium,2,India
+394,15.2,4,Sohail Tanvir,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,82,Pakistan,Captain Roop Singh Stadium,2,India
+395,15.3,0,Sohail Tanvir,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,82,Pakistan,Captain Roop Singh Stadium,2,India
+396,15.4,0,Sohail Tanvir,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,82,Pakistan,Captain Roop Singh Stadium,2,India
+397,15.5,1,Sohail Tanvir,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,83,Pakistan,Captain Roop Singh Stadium,2,India
+398,15.6,4,Sohail Tanvir,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,87,Pakistan,Captain Roop Singh Stadium,2,India
+399,16.1,1,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,88,Pakistan,Captain Roop Singh Stadium,2,India
+400,16.2,4,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,92,Pakistan,Captain Roop Singh Stadium,2,India
+401,16.3,2,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,94,Pakistan,Captain Roop Singh Stadium,2,India
+402,16.4,1,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,95,Pakistan,Captain Roop Singh Stadium,2,India
+403,16.5,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,95,Pakistan,Captain Roop Singh Stadium,2,India
+404,16.6,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,95,Pakistan,Captain Roop Singh Stadium,2,India
+405,17.1,0,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,95,Pakistan,Captain Roop Singh Stadium,2,India
+406,17.2,0,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,95,Pakistan,Captain Roop Singh Stadium,2,India
+407,17.3,0,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,95,Pakistan,Captain Roop Singh Stadium,2,India
+408,17.4,1,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,96,Pakistan,Captain Roop Singh Stadium,2,India
+409,17.5,0,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,96,Pakistan,Captain Roop Singh Stadium,2,India
+410,17.6,1,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,97,Pakistan,Captain Roop Singh Stadium,2,India
+411,18.1,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,97,Pakistan,Captain Roop Singh Stadium,2,India
+412,18.2,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,97,Pakistan,Captain Roop Singh Stadium,2,India
+413,18.3,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,97,Pakistan,Captain Roop Singh Stadium,2,India
+414,18.4,1,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,98,Pakistan,Captain Roop Singh Stadium,2,India
+415,18.5,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,98,Pakistan,Captain Roop Singh Stadium,2,India
+416,18.6,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,98,Pakistan,Captain Roop Singh Stadium,2,India
+417,19.1,0,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,98,Pakistan,Captain Roop Singh Stadium,2,India
+418,19.2,0,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,98,Pakistan,Captain Roop Singh Stadium,2,India
+419,19.3,1,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,99,Pakistan,Captain Roop Singh Stadium,2,India
+420,19.4,0,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,99,Pakistan,Captain Roop Singh Stadium,2,India
+421,19.5,0,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,99,Pakistan,Captain Roop Singh Stadium,2,India
+422,19.6,6,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,105,Pakistan,Captain Roop Singh Stadium,2,India
+423,20.1,2,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,107,Pakistan,Captain Roop Singh Stadium,2,India
+424,20.2,1,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,108,Pakistan,Captain Roop Singh Stadium,2,India
+425,20.3,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,108,Pakistan,Captain Roop Singh Stadium,2,India
+426,20.4,0,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,109,Pakistan,Captain Roop Singh Stadium,2,India
+427,20.5,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,109,Pakistan,Captain Roop Singh Stadium,2,India
+428,20.6,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,109,Pakistan,Captain Roop Singh Stadium,2,India
+429,21.1,1,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,110,Pakistan,Captain Roop Singh Stadium,2,India
+430,21.2,0,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,110,Pakistan,Captain Roop Singh Stadium,2,India
+431,21.3,4,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,114,Pakistan,Captain Roop Singh Stadium,2,India
+432,21.4,4,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,118,Pakistan,Captain Roop Singh Stadium,2,India
+433,21.5,4,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,122,Pakistan,Captain Roop Singh Stadium,2,India
+434,21.6,0,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,122,Pakistan,Captain Roop Singh Stadium,2,India
+435,22.1,1,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,123,Pakistan,Captain Roop Singh Stadium,2,India
+436,22.2,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,123,Pakistan,Captain Roop Singh Stadium,2,India
+437,22.3,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,123,Pakistan,Captain Roop Singh Stadium,2,India
+438,22.4,0,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,123,Pakistan,Captain Roop Singh Stadium,2,India
+439,22.5,1,Iftikhar Anjum,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,124,Pakistan,Captain Roop Singh Stadium,2,India
+440,22.6,1,Iftikhar Anjum,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,125,Pakistan,Captain Roop Singh Stadium,2,India
+441,23.1,0,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,125,Pakistan,Captain Roop Singh Stadium,2,India
+442,23.2,4,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,129,Pakistan,Captain Roop Singh Stadium,2,India
+443,23.3,2,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,131,Pakistan,Captain Roop Singh Stadium,2,India
+444,23.4,1,Shahid Afridi,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,132,Pakistan,Captain Roop Singh Stadium,2,India
+445,23.5,4,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,136,Pakistan,Captain Roop Singh Stadium,2,India
+446,23.6,1,Shahid Afridi,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,137,Pakistan,Captain Roop Singh Stadium,2,India
+447,24.1,0,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,137,Pakistan,Captain Roop Singh Stadium,2,India
+448,24.2,1,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,138,Pakistan,Captain Roop Singh Stadium,2,India
+449,24.3,1,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,139,Pakistan,Captain Roop Singh Stadium,2,India
+450,24.4,1,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,140,Pakistan,Captain Roop Singh Stadium,2,India
+451,24.5,1,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,141,Pakistan,Captain Roop Singh Stadium,2,India
+452,24.6,1,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,142,Pakistan,Captain Roop Singh Stadium,2,India
+453,25.1,0,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,142,Pakistan,Captain Roop Singh Stadium,2,India
+454,25.2,2,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,144,Pakistan,Captain Roop Singh Stadium,2,India
+455,25.3,1,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,145,Pakistan,Captain Roop Singh Stadium,2,India
+456,25.4,0,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,145,Pakistan,Captain Roop Singh Stadium,2,India
+457,25.5,0,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,145,Pakistan,Captain Roop Singh Stadium,2,India
+458,25.6,4,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,149,Pakistan,Captain Roop Singh Stadium,2,India
+459,26.1,0,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,149,Pakistan,Captain Roop Singh Stadium,2,India
+460,26.2,0,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,149,Pakistan,Captain Roop Singh Stadium,2,India
+461,26.3,0,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,149,Pakistan,Captain Roop Singh Stadium,2,India
+462,26.4,4,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,153,Pakistan,Captain Roop Singh Stadium,2,India
+463,26.5,0,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,153,Pakistan,Captain Roop Singh Stadium,2,India
+464,26.6,1,Shoaib Akhtar,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,154,Pakistan,Captain Roop Singh Stadium,2,India
+465,27.1,1,Umar Gul,2007-11-15,2nd,V Sehwag,0,,SR Tendulkar,0,India,Pakistan,155,Pakistan,Captain Roop Singh Stadium,2,India
+466,27.2,0,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,155,Pakistan,Captain Roop Singh Stadium,2,India
+467,27.3,0,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,155,Pakistan,Captain Roop Singh Stadium,3,India
+468,27.4,0,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,SR Tendulkar,0,India,Pakistan,155,Pakistan,Captain Roop Singh Stadium,3,India
+469,27.5,1,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,SR Tendulkar,0,India,Pakistan,156,Pakistan,Captain Roop Singh Stadium,3,India
+470,27.6,0,Umar Gul,2007-11-15,2nd,SR Tendulkar,0,,Yuvraj Singh,0,India,Pakistan,157,Pakistan,Captain Roop Singh Stadium,3,India
+471,28.1,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,Yuvraj Singh,0,India,Pakistan,157,Pakistan,Captain Roop Singh Stadium,3,India
+472,28.2,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,Yuvraj Singh,0,India,Pakistan,157,Pakistan,Captain Roop Singh Stadium,3,India
+473,28.3,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,Yuvraj Singh,0,India,Pakistan,157,Pakistan,Captain Roop Singh Stadium,3,India
+474,28.4,1,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,Yuvraj Singh,0,India,Pakistan,158,Pakistan,Captain Roop Singh Stadium,3,India
+475,28.5,1,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,SR Tendulkar,0,India,Pakistan,159,Pakistan,Captain Roop Singh Stadium,3,India
+476,28.6,0,Shoaib Akhtar,2007-11-15,2nd,SR Tendulkar,0,,Yuvraj Singh,0,India,Pakistan,159,Pakistan,Captain Roop Singh Stadium,3,India
+477,29.1,0,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,SR Tendulkar,0,India,Pakistan,159,Pakistan,Captain Roop Singh Stadium,4,India
+478,29.2,0,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,159,Pakistan,Captain Roop Singh Stadium,4,India
+479,29.3,1,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,160,Pakistan,Captain Roop Singh Stadium,4,India
+480,29.4,0,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,160,Pakistan,Captain Roop Singh Stadium,4,India
+481,29.5,0,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,160,Pakistan,Captain Roop Singh Stadium,4,India
+482,29.6,0,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,160,Pakistan,Captain Roop Singh Stadium,4,India
+483,30.1,0,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,160,Pakistan,Captain Roop Singh Stadium,4,India
+484,30.2,1,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,161,Pakistan,Captain Roop Singh Stadium,4,India
+485,30.3,4,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,165,Pakistan,Captain Roop Singh Stadium,4,India
+486,30.4,1,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,166,Pakistan,Captain Roop Singh Stadium,4,India
+487,30.5,0,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,168,Pakistan,Captain Roop Singh Stadium,4,India
+488,30.6,0,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,168,Pakistan,Captain Roop Singh Stadium,4,India
+489,30.7,1,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,169,Pakistan,Captain Roop Singh Stadium,4,India
+490,31.1,2,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,171,Pakistan,Captain Roop Singh Stadium,4,India
+491,31.2,0,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,171,Pakistan,Captain Roop Singh Stadium,4,India
+492,31.3,4,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,175,Pakistan,Captain Roop Singh Stadium,4,India
+493,31.4,0,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,175,Pakistan,Captain Roop Singh Stadium,4,India
+494,31.5,1,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,176,Pakistan,Captain Roop Singh Stadium,4,India
+495,31.6,0,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,176,Pakistan,Captain Roop Singh Stadium,4,India
+496,32.1,0,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,176,Pakistan,Captain Roop Singh Stadium,4,India
+497,32.2,0,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,176,Pakistan,Captain Roop Singh Stadium,4,India
+498,32.3,1,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,177,Pakistan,Captain Roop Singh Stadium,4,India
+499,32.4,1,Sohail Tanvir,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,178,Pakistan,Captain Roop Singh Stadium,4,India
+500,32.5,2,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,180,Pakistan,Captain Roop Singh Stadium,4,India
+501,32.6,1,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,181,Pakistan,Captain Roop Singh Stadium,4,India
+502,33.1,1,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,182,Pakistan,Captain Roop Singh Stadium,4,India
+503,33.2,0,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,182,Pakistan,Captain Roop Singh Stadium,4,India
+504,33.3,1,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,183,Pakistan,Captain Roop Singh Stadium,4,India
+505,33.4,1,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,184,Pakistan,Captain Roop Singh Stadium,4,India
+506,33.5,1,Umar Gul,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,185,Pakistan,Captain Roop Singh Stadium,4,India
+507,33.6,1,Umar Gul,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,186,Pakistan,Captain Roop Singh Stadium,4,India
+508,34.1,4,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,190,Pakistan,Captain Roop Singh Stadium,4,India
+509,34.2,0,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,190,Pakistan,Captain Roop Singh Stadium,4,India
+510,34.3,0,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,190,Pakistan,Captain Roop Singh Stadium,4,India
+511,34.4,1,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,191,Pakistan,Captain Roop Singh Stadium,4,India
+512,34.5,1,Sohail Tanvir,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,192,Pakistan,Captain Roop Singh Stadium,4,India
+513,34.6,1,Sohail Tanvir,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,193,Pakistan,Captain Roop Singh Stadium,4,India
+514,35.1,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,193,Pakistan,Captain Roop Singh Stadium,4,India
+515,35.2,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,194,Pakistan,Captain Roop Singh Stadium,4,India
+516,35.3,4,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,198,Pakistan,Captain Roop Singh Stadium,4,India
+517,35.4,0,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,198,Pakistan,Captain Roop Singh Stadium,4,India
+518,35.5,0,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,198,Pakistan,Captain Roop Singh Stadium,4,India
+519,35.6,0,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,198,Pakistan,Captain Roop Singh Stadium,4,India
+520,36.1,1,Iftikhar Anjum,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,199,Pakistan,Captain Roop Singh Stadium,4,India
+521,36.2,0,Iftikhar Anjum,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,199,Pakistan,Captain Roop Singh Stadium,4,India
+522,36.3,1,Iftikhar Anjum,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,200,Pakistan,Captain Roop Singh Stadium,4,India
+523,36.4,0,Iftikhar Anjum,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,200,Pakistan,Captain Roop Singh Stadium,4,India
+524,36.5,1,Iftikhar Anjum,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,201,Pakistan,Captain Roop Singh Stadium,4,India
+525,36.6,0,Iftikhar Anjum,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,201,Pakistan,Captain Roop Singh Stadium,4,India
+526,37.1,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,201,Pakistan,Captain Roop Singh Stadium,4,India
+527,37.2,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,203,Pakistan,Captain Roop Singh Stadium,4,India
+528,37.3,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,204,Pakistan,Captain Roop Singh Stadium,4,India
+529,37.4,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,205,Pakistan,Captain Roop Singh Stadium,4,India
+530,37.5,0,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,205,Pakistan,Captain Roop Singh Stadium,4,India
+531,37.6,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,206,Pakistan,Captain Roop Singh Stadium,4,India
+532,37.7,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,206,Pakistan,Captain Roop Singh Stadium,4,India
+533,38.1,0,Iftikhar Anjum,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,206,Pakistan,Captain Roop Singh Stadium,4,India
+534,38.2,1,Iftikhar Anjum,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,207,Pakistan,Captain Roop Singh Stadium,4,India
+535,38.3,0,Iftikhar Anjum,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,207,Pakistan,Captain Roop Singh Stadium,4,India
+536,38.4,1,Iftikhar Anjum,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,208,Pakistan,Captain Roop Singh Stadium,4,India
+537,38.5,0,Iftikhar Anjum,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,208,Pakistan,Captain Roop Singh Stadium,4,India
+538,38.6,0,Iftikhar Anjum,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,208,Pakistan,Captain Roop Singh Stadium,4,India
+539,39.1,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,208,Pakistan,Captain Roop Singh Stadium,4,India
+540,39.2,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,209,Pakistan,Captain Roop Singh Stadium,4,India
+541,39.3,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,210,Pakistan,Captain Roop Singh Stadium,4,India
+542,39.4,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,211,Pakistan,Captain Roop Singh Stadium,4,India
+543,39.5,2,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,213,Pakistan,Captain Roop Singh Stadium,4,India
+544,39.6,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,214,Pakistan,Captain Roop Singh Stadium,4,India
+545,40.1,0,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,214,Pakistan,Captain Roop Singh Stadium,4,India
+546,40.2,0,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,214,Pakistan,Captain Roop Singh Stadium,4,India
+547,40.3,1,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,215,Pakistan,Captain Roop Singh Stadium,4,India
+548,40.4,0,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,215,Pakistan,Captain Roop Singh Stadium,4,India
+549,40.5,0,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,215,Pakistan,Captain Roop Singh Stadium,4,India
+550,40.6,0,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,215,Pakistan,Captain Roop Singh Stadium,4,India
+551,41.1,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,216,Pakistan,Captain Roop Singh Stadium,4,India
+552,41.2,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,217,Pakistan,Captain Roop Singh Stadium,4,India
+553,41.3,0,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,217,Pakistan,Captain Roop Singh Stadium,4,India
+554,41.4,4,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,221,Pakistan,Captain Roop Singh Stadium,4,India
+555,41.5,2,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,223,Pakistan,Captain Roop Singh Stadium,4,India
+556,41.6,0,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,223,Pakistan,Captain Roop Singh Stadium,4,India
+557,42.1,4,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,227,Pakistan,Captain Roop Singh Stadium,4,India
+558,42.2,1,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,228,Pakistan,Captain Roop Singh Stadium,4,India
+559,42.3,4,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,232,Pakistan,Captain Roop Singh Stadium,4,India
+560,42.4,2,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,234,Pakistan,Captain Roop Singh Stadium,4,India
+561,42.5,1,Shoaib Akhtar,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,235,Pakistan,Captain Roop Singh Stadium,4,India
+562,42.6,0,Shoaib Akhtar,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,235,Pakistan,Captain Roop Singh Stadium,4,India
+563,43.1,2,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,237,Pakistan,Captain Roop Singh Stadium,4,India
+564,43.2,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,238,Pakistan,Captain Roop Singh Stadium,4,India
+565,43.3,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,238,Pakistan,Captain Roop Singh Stadium,4,India
+566,43.4,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,239,Pakistan,Captain Roop Singh Stadium,4,India
+567,43.5,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,240,Pakistan,Captain Roop Singh Stadium,4,India
+568,43.6,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,241,Pakistan,Captain Roop Singh Stadium,4,India
+569,44.1,6,Salman Butt,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,247,Pakistan,Captain Roop Singh Stadium,4,India
+570,44.2,0,Salman Butt,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,247,Pakistan,Captain Roop Singh Stadium,4,India
+571,44.3,1,Salman Butt,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,248,Pakistan,Captain Roop Singh Stadium,4,India
+572,44.4,1,Salman Butt,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,249,Pakistan,Captain Roop Singh Stadium,4,India
+573,44.5,1,Salman Butt,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,250,Pakistan,Captain Roop Singh Stadium,4,India
+574,44.6,0,Salman Butt,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,250,Pakistan,Captain Roop Singh Stadium,4,India
+575,45.1,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,251,Pakistan,Captain Roop Singh Stadium,4,India
+576,45.2,1,Shahid Afridi,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,252,Pakistan,Captain Roop Singh Stadium,4,India
+577,45.3,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,252,Pakistan,Captain Roop Singh Stadium,4,India
+578,45.4,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,252,Pakistan,Captain Roop Singh Stadium,4,India
+579,45.5,0,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,252,Pakistan,Captain Roop Singh Stadium,4,India
+580,45.6,1,Shahid Afridi,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,253,Pakistan,Captain Roop Singh Stadium,4,India
+581,46.1,0,Salman Butt,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,253,Pakistan,Captain Roop Singh Stadium,4,India
+582,46.2,1,Salman Butt,2007-11-15,2nd,MS Dhoni,0,,Yuvraj Singh,0,India,Pakistan,254,Pakistan,Captain Roop Singh Stadium,4,India
+583,46.3,6,Salman Butt,2007-11-15,2nd,Yuvraj Singh,0,,MS Dhoni,0,India,Pakistan,260,Pakistan,Captain Roop Singh Stadium,4,India

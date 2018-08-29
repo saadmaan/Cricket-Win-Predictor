@@ -1,0 +1,613 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Umar Gul,2011-03-30,1st,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,0,India,"Punjab Cricket Association Stadium, Mohali",0,India
+1,0.2,0,Umar Gul,2011-03-30,1st,SR Tendulkar,0,,V Sehwag,0,India,Pakistan,0,India,"Punjab Cricket Association Stadium, Mohali",0,India
+2,0.3,4,Umar Gul,2011-03-30,1st,SR Tendulkar,0,,V Sehwag,4,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+3,0.4,0,Umar Gul,2011-03-30,1st,SR Tendulkar,0,,V Sehwag,4,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+4,0.5,0,Umar Gul,2011-03-30,1st,SR Tendulkar,0,,V Sehwag,4,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+5,0.6,0,Umar Gul,2011-03-30,1st,SR Tendulkar,0,,V Sehwag,4,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+6,1.1,0,Abdul Razzaq,2011-03-30,1st,V Sehwag,4,,SR Tendulkar,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+7,1.2,0,Abdul Razzaq,2011-03-30,1st,V Sehwag,4,,SR Tendulkar,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+8,1.3,0,Abdul Razzaq,2011-03-30,1st,V Sehwag,4,,SR Tendulkar,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+9,1.4,1,Abdul Razzaq,2011-03-30,1st,V Sehwag,4,,SR Tendulkar,1,India,Pakistan,5,India,"Punjab Cricket Association Stadium, Mohali",0,India
+10,1.5,1,Abdul Razzaq,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,5,India,Pakistan,6,India,"Punjab Cricket Association Stadium, Mohali",0,India
+11,1.6,0,Abdul Razzaq,2011-03-30,1st,V Sehwag,5,,SR Tendulkar,1,India,Pakistan,6,India,"Punjab Cricket Association Stadium, Mohali",0,India
+12,2.1,4,Umar Gul,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,9,India,Pakistan,10,India,"Punjab Cricket Association Stadium, Mohali",0,India
+13,2.2,4,Umar Gul,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,13,India,Pakistan,14,India,"Punjab Cricket Association Stadium, Mohali",0,India
+14,2.3,0,Umar Gul,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,13,India,Pakistan,14,India,"Punjab Cricket Association Stadium, Mohali",0,India
+15,2.4,4,Umar Gul,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,17,India,Pakistan,18,India,"Punjab Cricket Association Stadium, Mohali",0,India
+16,2.5,4,Umar Gul,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,21,India,Pakistan,22,India,"Punjab Cricket Association Stadium, Mohali",0,India
+17,2.6,4,Umar Gul,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,25,India,Pakistan,27,India,"Punjab Cricket Association Stadium, Mohali",0,India
+18,2.7,0,Umar Gul,2011-03-30,1st,SR Tendulkar,1,,V Sehwag,25,India,Pakistan,27,India,"Punjab Cricket Association Stadium, Mohali",0,India
+19,3.1,3,Abdul Razzaq,2011-03-30,1st,V Sehwag,25,,SR Tendulkar,4,India,Pakistan,30,India,"Punjab Cricket Association Stadium, Mohali",0,India
+20,3.2,0,Abdul Razzaq,2011-03-30,1st,SR Tendulkar,4,,V Sehwag,25,India,Pakistan,30,India,"Punjab Cricket Association Stadium, Mohali",0,India
+21,3.3,4,Abdul Razzaq,2011-03-30,1st,SR Tendulkar,4,,V Sehwag,29,India,Pakistan,34,India,"Punjab Cricket Association Stadium, Mohali",0,India
+22,3.4,1,Abdul Razzaq,2011-03-30,1st,SR Tendulkar,4,,V Sehwag,30,India,Pakistan,35,India,"Punjab Cricket Association Stadium, Mohali",0,India
+23,3.5,0,Abdul Razzaq,2011-03-30,1st,V Sehwag,30,,SR Tendulkar,4,India,Pakistan,35,India,"Punjab Cricket Association Stadium, Mohali",0,India
+24,3.6,4,Abdul Razzaq,2011-03-30,1st,V Sehwag,30,,SR Tendulkar,8,India,Pakistan,39,India,"Punjab Cricket Association Stadium, Mohali",0,India
+25,4.1,0,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,V Sehwag,30,India,Pakistan,39,India,"Punjab Cricket Association Stadium, Mohali",0,India
+26,4.2,0,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,V Sehwag,30,India,Pakistan,39,India,"Punjab Cricket Association Stadium, Mohali",0,India
+27,4.3,0,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,V Sehwag,30,India,Pakistan,39,India,"Punjab Cricket Association Stadium, Mohali",0,India
+28,4.4,4,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,V Sehwag,34,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+29,4.5,0,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,V Sehwag,34,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+30,4.6,4,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,V Sehwag,38,India,Pakistan,47,India,"Punjab Cricket Association Stadium, Mohali",0,India
+31,5.1,0,Wahab Riaz,2011-03-30,1st,V Sehwag,38,,SR Tendulkar,8,India,Pakistan,47,India,"Punjab Cricket Association Stadium, Mohali",0,India
+32,5.2,0,Wahab Riaz,2011-03-30,1st,V Sehwag,38,,SR Tendulkar,8,India,Pakistan,47,India,"Punjab Cricket Association Stadium, Mohali",0,India
+33,5.3,0,Wahab Riaz,2011-03-30,1st,V Sehwag,38,,SR Tendulkar,8,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",0,India
+34,5.4,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,8,,V Sehwag,38,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",0,India
+35,5.5,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,8,V Sehwag,V Sehwag,38,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",1,India
+36,5.6,1,Wahab Riaz,2011-03-30,1st,SR Tendulkar,8,,G Gambhir,1,India,Pakistan,49,India,"Punjab Cricket Association Stadium, Mohali",1,India
+37,6.1,0,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,G Gambhir,1,India,Pakistan,49,India,"Punjab Cricket Association Stadium, Mohali",1,India
+38,6.2,1,Umar Gul,2011-03-30,1st,SR Tendulkar,8,,G Gambhir,2,India,Pakistan,50,India,"Punjab Cricket Association Stadium, Mohali",1,India
+39,6.3,4,Umar Gul,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,12,India,Pakistan,54,India,"Punjab Cricket Association Stadium, Mohali",1,India
+40,6.4,0,Umar Gul,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,12,India,Pakistan,54,India,"Punjab Cricket Association Stadium, Mohali",1,India
+41,6.5,0,Umar Gul,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,12,India,Pakistan,54,India,"Punjab Cricket Association Stadium, Mohali",1,India
+42,6.6,3,Umar Gul,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,15,India,Pakistan,57,India,"Punjab Cricket Association Stadium, Mohali",1,India
+43,7.1,4,Wahab Riaz,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,19,India,Pakistan,61,India,"Punjab Cricket Association Stadium, Mohali",1,India
+44,7.2,0,Wahab Riaz,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,19,India,Pakistan,61,India,"Punjab Cricket Association Stadium, Mohali",1,India
+45,7.3,0,Wahab Riaz,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,19,India,Pakistan,61,India,"Punjab Cricket Association Stadium, Mohali",1,India
+46,7.4,0,Wahab Riaz,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,19,India,Pakistan,61,India,"Punjab Cricket Association Stadium, Mohali",1,India
+47,7.5,4,Wahab Riaz,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,23,India,Pakistan,65,India,"Punjab Cricket Association Stadium, Mohali",1,India
+48,7.6,0,Wahab Riaz,2011-03-30,1st,G Gambhir,2,,SR Tendulkar,23,India,Pakistan,65,India,"Punjab Cricket Association Stadium, Mohali",1,India
+49,8.1,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,2,India,Pakistan,65,India,"Punjab Cricket Association Stadium, Mohali",1,India
+50,8.2,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,2,India,Pakistan,65,India,"Punjab Cricket Association Stadium, Mohali",1,India
+51,8.3,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,2,India,Pakistan,65,India,"Punjab Cricket Association Stadium, Mohali",1,India
+52,8.4,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,2,India,Pakistan,65,India,"Punjab Cricket Association Stadium, Mohali",1,India
+53,8.5,2,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,4,India,Pakistan,67,India,"Punjab Cricket Association Stadium, Mohali",1,India
+54,8.6,1,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,5,India,Pakistan,68,India,"Punjab Cricket Association Stadium, Mohali",1,India
+55,9.1,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,5,India,Pakistan,68,India,"Punjab Cricket Association Stadium, Mohali",1,India
+56,9.2,1,Wahab Riaz,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,6,India,Pakistan,69,India,"Punjab Cricket Association Stadium, Mohali",1,India
+57,9.3,0,Wahab Riaz,2011-03-30,1st,G Gambhir,6,,SR Tendulkar,23,India,Pakistan,73,India,"Punjab Cricket Association Stadium, Mohali",1,India
+58,9.4,0,Wahab Riaz,2011-03-30,1st,G Gambhir,6,,SR Tendulkar,23,India,Pakistan,73,India,"Punjab Cricket Association Stadium, Mohali",1,India
+59,9.5,0,Wahab Riaz,2011-03-30,1st,G Gambhir,6,,SR Tendulkar,23,India,Pakistan,73,India,"Punjab Cricket Association Stadium, Mohali",1,India
+60,9.6,0,Wahab Riaz,2011-03-30,1st,G Gambhir,6,,SR Tendulkar,23,India,Pakistan,73,India,"Punjab Cricket Association Stadium, Mohali",1,India
+61,10.1,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,6,India,Pakistan,73,India,"Punjab Cricket Association Stadium, Mohali",1,India
+62,10.2,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,6,India,Pakistan,74,India,"Punjab Cricket Association Stadium, Mohali",1,India
+63,10.3,1,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,23,,G Gambhir,7,India,Pakistan,75,India,"Punjab Cricket Association Stadium, Mohali",1,India
+64,10.4,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,23,India,Pakistan,75,India,"Punjab Cricket Association Stadium, Mohali",1,India
+65,10.5,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,23,India,Pakistan,75,India,"Punjab Cricket Association Stadium, Mohali",1,India
+66,10.6,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,23,India,Pakistan,75,India,"Punjab Cricket Association Stadium, Mohali",1,India
+67,10.7,1,Saeed Ajmal,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,24,India,Pakistan,76,India,"Punjab Cricket Association Stadium, Mohali",1,India
+68,11.1,0,Shahid Afridi,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,24,India,Pakistan,76,India,"Punjab Cricket Association Stadium, Mohali",1,India
+69,11.2,0,Shahid Afridi,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,24,India,Pakistan,76,India,"Punjab Cricket Association Stadium, Mohali",1,India
+70,11.3,0,Shahid Afridi,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,24,India,Pakistan,76,India,"Punjab Cricket Association Stadium, Mohali",1,India
+71,11.4,1,Shahid Afridi,2011-03-30,1st,G Gambhir,7,,SR Tendulkar,25,India,Pakistan,77,India,"Punjab Cricket Association Stadium, Mohali",1,India
+72,11.5,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,25,,G Gambhir,8,India,Pakistan,78,India,"Punjab Cricket Association Stadium, Mohali",1,India
+73,11.6,1,Shahid Afridi,2011-03-30,1st,G Gambhir,8,,SR Tendulkar,26,India,Pakistan,79,India,"Punjab Cricket Association Stadium, Mohali",1,India
+74,12.1,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,8,,SR Tendulkar,26,India,Pakistan,79,India,"Punjab Cricket Association Stadium, Mohali",1,India
+75,12.2,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,8,,SR Tendulkar,26,India,Pakistan,79,India,"Punjab Cricket Association Stadium, Mohali",1,India
+76,12.3,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,8,,SR Tendulkar,26,India,Pakistan,79,India,"Punjab Cricket Association Stadium, Mohali",1,India
+77,12.4,1,Saeed Ajmal,2011-03-30,1st,G Gambhir,8,,SR Tendulkar,27,India,Pakistan,80,India,"Punjab Cricket Association Stadium, Mohali",1,India
+78,12.5,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,27,,G Gambhir,8,India,Pakistan,80,India,"Punjab Cricket Association Stadium, Mohali",1,India
+79,12.6,4,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,27,,G Gambhir,12,India,Pakistan,84,India,"Punjab Cricket Association Stadium, Mohali",1,India
+80,13.1,1,Shahid Afridi,2011-03-30,1st,G Gambhir,12,,SR Tendulkar,28,India,Pakistan,85,India,"Punjab Cricket Association Stadium, Mohali",1,India
+81,13.2,2,Shahid Afridi,2011-03-30,1st,SR Tendulkar,28,,G Gambhir,14,India,Pakistan,87,India,"Punjab Cricket Association Stadium, Mohali",1,India
+82,13.3,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,28,,G Gambhir,15,India,Pakistan,88,India,"Punjab Cricket Association Stadium, Mohali",1,India
+83,13.4,1,Shahid Afridi,2011-03-30,1st,G Gambhir,15,,SR Tendulkar,29,India,Pakistan,89,India,"Punjab Cricket Association Stadium, Mohali",1,India
+84,13.5,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,29,,G Gambhir,16,India,Pakistan,90,India,"Punjab Cricket Association Stadium, Mohali",1,India
+85,13.6,0,Shahid Afridi,2011-03-30,1st,G Gambhir,16,,SR Tendulkar,29,India,Pakistan,90,India,"Punjab Cricket Association Stadium, Mohali",1,India
+86,14.1,1,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,29,,G Gambhir,17,India,Pakistan,91,India,"Punjab Cricket Association Stadium, Mohali",1,India
+87,14.2,4,Saeed Ajmal,2011-03-30,1st,G Gambhir,17,,SR Tendulkar,33,India,Pakistan,95,India,"Punjab Cricket Association Stadium, Mohali",1,India
+88,14.3,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,17,,SR Tendulkar,33,India,Pakistan,95,India,"Punjab Cricket Association Stadium, Mohali",1,India
+89,14.4,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,17,,SR Tendulkar,33,India,Pakistan,95,India,"Punjab Cricket Association Stadium, Mohali",1,India
+90,14.5,0,Saeed Ajmal,2011-03-30,1st,G Gambhir,17,,SR Tendulkar,33,India,Pakistan,95,India,"Punjab Cricket Association Stadium, Mohali",1,India
+91,14.6,4,Saeed Ajmal,2011-03-30,1st,G Gambhir,17,,SR Tendulkar,37,India,Pakistan,99,India,"Punjab Cricket Association Stadium, Mohali",1,India
+92,15.1,0,Shahid Afridi,2011-03-30,1st,SR Tendulkar,37,,G Gambhir,17,India,Pakistan,99,India,"Punjab Cricket Association Stadium, Mohali",1,India
+93,15.2,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,37,,G Gambhir,18,India,Pakistan,100,India,"Punjab Cricket Association Stadium, Mohali",1,India
+94,15.3,1,Shahid Afridi,2011-03-30,1st,G Gambhir,18,,SR Tendulkar,38,India,Pakistan,101,India,"Punjab Cricket Association Stadium, Mohali",1,India
+95,15.4,0,Shahid Afridi,2011-03-30,1st,SR Tendulkar,38,,G Gambhir,18,India,Pakistan,101,India,"Punjab Cricket Association Stadium, Mohali",1,India
+96,15.5,0,Shahid Afridi,2011-03-30,1st,SR Tendulkar,38,,G Gambhir,18,India,Pakistan,101,India,"Punjab Cricket Association Stadium, Mohali",1,India
+97,15.6,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,38,,G Gambhir,19,India,Pakistan,102,India,"Punjab Cricket Association Stadium, Mohali",1,India
+98,16.1,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,38,,G Gambhir,20,India,Pakistan,103,India,"Punjab Cricket Association Stadium, Mohali",1,India
+99,16.2,0,Mohammad Hafeez,2011-03-30,1st,G Gambhir,20,,SR Tendulkar,38,India,Pakistan,103,India,"Punjab Cricket Association Stadium, Mohali",1,India
+100,16.3,1,Mohammad Hafeez,2011-03-30,1st,G Gambhir,20,,SR Tendulkar,39,India,Pakistan,104,India,"Punjab Cricket Association Stadium, Mohali",1,India
+101,16.4,4,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,39,,G Gambhir,24,India,Pakistan,108,India,"Punjab Cricket Association Stadium, Mohali",1,India
+102,16.5,2,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,39,,G Gambhir,26,India,Pakistan,110,India,"Punjab Cricket Association Stadium, Mohali",1,India
+103,16.6,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,39,,G Gambhir,26,India,Pakistan,110,India,"Punjab Cricket Association Stadium, Mohali",1,India
+104,17.1,0,Shahid Afridi,2011-03-30,1st,G Gambhir,26,,SR Tendulkar,39,India,Pakistan,110,India,"Punjab Cricket Association Stadium, Mohali",1,India
+105,17.2,0,Shahid Afridi,2011-03-30,1st,G Gambhir,26,,SR Tendulkar,39,India,Pakistan,110,India,"Punjab Cricket Association Stadium, Mohali",1,India
+106,17.3,0,Shahid Afridi,2011-03-30,1st,G Gambhir,26,,SR Tendulkar,39,India,Pakistan,110,India,"Punjab Cricket Association Stadium, Mohali",1,India
+107,17.4,0,Shahid Afridi,2011-03-30,1st,G Gambhir,26,,SR Tendulkar,39,India,Pakistan,110,India,"Punjab Cricket Association Stadium, Mohali",1,India
+108,17.5,4,Shahid Afridi,2011-03-30,1st,G Gambhir,26,,SR Tendulkar,43,India,Pakistan,114,India,"Punjab Cricket Association Stadium, Mohali",1,India
+109,17.6,0,Shahid Afridi,2011-03-30,1st,G Gambhir,26,,SR Tendulkar,43,India,Pakistan,114,India,"Punjab Cricket Association Stadium, Mohali",1,India
+110,18.1,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,43,,G Gambhir,27,India,Pakistan,115,India,"Punjab Cricket Association Stadium, Mohali",1,India
+111,18.2,0,Mohammad Hafeez,2011-03-30,1st,G Gambhir,27,,SR Tendulkar,43,India,Pakistan,115,India,"Punjab Cricket Association Stadium, Mohali",1,India
+112,18.3,1,Mohammad Hafeez,2011-03-30,1st,G Gambhir,27,,SR Tendulkar,44,India,Pakistan,116,India,"Punjab Cricket Association Stadium, Mohali",1,India
+113,18.4,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,44,,G Gambhir,27,India,Pakistan,116,India,"Punjab Cricket Association Stadium, Mohali",1,India
+114,18.5,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,44,G Gambhir,G Gambhir,27,India,Pakistan,116,India,"Punjab Cricket Association Stadium, Mohali",2,India
+115,18.6,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,44,,V Kohli,0,India,Pakistan,116,India,"Punjab Cricket Association Stadium, Mohali",2,India
+116,19.1,1,Shahid Afridi,2011-03-30,1st,V Kohli,0,,SR Tendulkar,45,India,Pakistan,117,India,"Punjab Cricket Association Stadium, Mohali",2,India
+117,19.2,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,45,,V Kohli,1,India,Pakistan,118,India,"Punjab Cricket Association Stadium, Mohali",2,India
+118,19.3,0,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,45,India,Pakistan,118,India,"Punjab Cricket Association Stadium, Mohali",2,India
+119,19.4,0,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,45,India,Pakistan,118,India,"Punjab Cricket Association Stadium, Mohali",2,India
+120,19.5,0,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,45,India,Pakistan,118,India,"Punjab Cricket Association Stadium, Mohali",2,India
+121,19.6,1,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,46,India,Pakistan,119,India,"Punjab Cricket Association Stadium, Mohali",2,India
+122,20.1,0,Mohammad Hafeez,2011-03-30,1st,V Kohli,1,,SR Tendulkar,46,India,Pakistan,119,India,"Punjab Cricket Association Stadium, Mohali",2,India
+123,20.2,0,Mohammad Hafeez,2011-03-30,1st,V Kohli,1,,SR Tendulkar,46,India,Pakistan,119,India,"Punjab Cricket Association Stadium, Mohali",2,India
+124,20.3,1,Mohammad Hafeez,2011-03-30,1st,V Kohli,1,,SR Tendulkar,47,India,Pakistan,120,India,"Punjab Cricket Association Stadium, Mohali",2,India
+125,20.4,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,47,,V Kohli,1,India,Pakistan,120,India,"Punjab Cricket Association Stadium, Mohali",2,India
+126,20.5,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,47,,V Kohli,1,India,Pakistan,120,India,"Punjab Cricket Association Stadium, Mohali",2,India
+127,20.6,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,47,,V Kohli,1,India,Pakistan,120,India,"Punjab Cricket Association Stadium, Mohali",2,India
+128,21.1,0,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,47,India,Pakistan,120,India,"Punjab Cricket Association Stadium, Mohali",2,India
+129,21.2,4,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,51,India,Pakistan,124,India,"Punjab Cricket Association Stadium, Mohali",2,India
+130,21.3,0,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,51,India,Pakistan,124,India,"Punjab Cricket Association Stadium, Mohali",2,India
+131,21.4,1,Shahid Afridi,2011-03-30,1st,V Kohli,1,,SR Tendulkar,52,India,Pakistan,125,India,"Punjab Cricket Association Stadium, Mohali",2,India
+132,21.5,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,52,,V Kohli,2,India,Pakistan,126,India,"Punjab Cricket Association Stadium, Mohali",2,India
+133,21.6,4,Shahid Afridi,2011-03-30,1st,V Kohli,2,,SR Tendulkar,56,India,Pakistan,130,India,"Punjab Cricket Association Stadium, Mohali",2,India
+134,22.1,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,56,,V Kohli,2,India,Pakistan,130,India,"Punjab Cricket Association Stadium, Mohali",2,India
+135,22.2,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,56,,V Kohli,3,India,Pakistan,131,India,"Punjab Cricket Association Stadium, Mohali",2,India
+136,22.3,1,Mohammad Hafeez,2011-03-30,1st,V Kohli,3,,SR Tendulkar,57,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",2,India
+137,22.4,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,57,,V Kohli,3,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",2,India
+138,22.5,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,57,,V Kohli,3,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",2,India
+139,22.6,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,57,,V Kohli,4,India,Pakistan,133,India,"Punjab Cricket Association Stadium, Mohali",2,India
+140,23.1,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,57,,V Kohli,4,India,Pakistan,133,India,"Punjab Cricket Association Stadium, Mohali",2,India
+141,23.2,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,57,,V Kohli,4,India,Pakistan,133,India,"Punjab Cricket Association Stadium, Mohali",2,India
+142,23.3,1,Wahab Riaz,2011-03-30,1st,SR Tendulkar,57,,V Kohli,5,India,Pakistan,134,India,"Punjab Cricket Association Stadium, Mohali",2,India
+143,23.4,1,Wahab Riaz,2011-03-30,1st,V Kohli,5,,SR Tendulkar,58,India,Pakistan,135,India,"Punjab Cricket Association Stadium, Mohali",2,India
+144,23.5,1,Wahab Riaz,2011-03-30,1st,SR Tendulkar,58,,V Kohli,6,India,Pakistan,136,India,"Punjab Cricket Association Stadium, Mohali",2,India
+145,23.6,0,Wahab Riaz,2011-03-30,1st,V Kohli,6,,SR Tendulkar,58,India,Pakistan,136,India,"Punjab Cricket Association Stadium, Mohali",2,India
+146,24.1,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,58,,V Kohli,6,India,Pakistan,136,India,"Punjab Cricket Association Stadium, Mohali",2,India
+147,24.2,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,58,,V Kohli,7,India,Pakistan,137,India,"Punjab Cricket Association Stadium, Mohali",2,India
+148,24.3,1,Mohammad Hafeez,2011-03-30,1st,V Kohli,7,,SR Tendulkar,59,India,Pakistan,138,India,"Punjab Cricket Association Stadium, Mohali",2,India
+149,24.4,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,59,,V Kohli,8,India,Pakistan,139,India,"Punjab Cricket Association Stadium, Mohali",2,India
+150,24.5,1,Mohammad Hafeez,2011-03-30,1st,V Kohli,8,,SR Tendulkar,60,India,Pakistan,140,India,"Punjab Cricket Association Stadium, Mohali",2,India
+151,24.6,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,60,,V Kohli,9,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",2,India
+152,25.1,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,60,,V Kohli,9,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",2,India
+153,25.2,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,60,V Kohli,V Kohli,9,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",3,India
+154,25.3,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,60,Yuvraj Singh,Yuvraj Singh,0,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",4,India
+155,25.4,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,60,,MS Dhoni,0,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",4,India
+156,25.5,4,Wahab Riaz,2011-03-30,1st,SR Tendulkar,60,,MS Dhoni,4,India,Pakistan,145,India,"Punjab Cricket Association Stadium, Mohali",4,India
+157,25.6,0,Wahab Riaz,2011-03-30,1st,SR Tendulkar,60,,MS Dhoni,4,India,Pakistan,145,India,"Punjab Cricket Association Stadium, Mohali",4,India
+158,26.1,1,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,4,,SR Tendulkar,61,India,Pakistan,146,India,"Punjab Cricket Association Stadium, Mohali",4,India
+159,26.2,4,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,61,,MS Dhoni,8,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",4,India
+160,26.3,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,61,,MS Dhoni,8,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",4,India
+161,26.4,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,61,,MS Dhoni,8,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",4,India
+162,26.5,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,61,,MS Dhoni,8,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",4,India
+163,26.6,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,61,,MS Dhoni,8,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",4,India
+164,27.1,1,Wahab Riaz,2011-03-30,1st,MS Dhoni,8,,SR Tendulkar,62,India,Pakistan,151,India,"Punjab Cricket Association Stadium, Mohali",4,India
+165,27.2,3,Wahab Riaz,2011-03-30,1st,SR Tendulkar,62,,MS Dhoni,11,India,Pakistan,154,India,"Punjab Cricket Association Stadium, Mohali",4,India
+166,27.3,0,Wahab Riaz,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,62,India,Pakistan,154,India,"Punjab Cricket Association Stadium, Mohali",4,India
+167,27.4,0,Wahab Riaz,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,62,India,Pakistan,154,India,"Punjab Cricket Association Stadium, Mohali",4,India
+168,27.5,0,Wahab Riaz,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,62,India,Pakistan,155,India,"Punjab Cricket Association Stadium, Mohali",4,India
+169,27.6,4,Wahab Riaz,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,66,India,Pakistan,159,India,"Punjab Cricket Association Stadium, Mohali",4,India
+170,27.7,1,Wahab Riaz,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,67,India,Pakistan,160,India,"Punjab Cricket Association Stadium, Mohali",4,India
+171,28.1,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,67,India,Pakistan,160,India,"Punjab Cricket Association Stadium, Mohali",4,India
+172,28.2,1,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,68,India,Pakistan,161,India,"Punjab Cricket Association Stadium, Mohali",4,India
+173,28.3,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,68,,MS Dhoni,11,India,Pakistan,161,India,"Punjab Cricket Association Stadium, Mohali",4,India
+174,28.4,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,68,,MS Dhoni,11,India,Pakistan,161,India,"Punjab Cricket Association Stadium, Mohali",4,India
+175,28.5,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,68,,MS Dhoni,11,India,Pakistan,161,India,"Punjab Cricket Association Stadium, Mohali",4,India
+176,28.6,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,68,,MS Dhoni,11,India,Pakistan,161,India,"Punjab Cricket Association Stadium, Mohali",4,India
+177,29.1,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,68,India,Pakistan,161,India,"Punjab Cricket Association Stadium, Mohali",4,India
+178,29.2,2,Shahid Afridi,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,70,India,Pakistan,163,India,"Punjab Cricket Association Stadium, Mohali",4,India
+179,29.3,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,70,India,Pakistan,163,India,"Punjab Cricket Association Stadium, Mohali",4,India
+180,29.4,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,70,India,Pakistan,163,India,"Punjab Cricket Association Stadium, Mohali",4,India
+181,29.5,4,Shahid Afridi,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,74,India,Pakistan,167,India,"Punjab Cricket Association Stadium, Mohali",4,India
+182,29.6,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,74,India,Pakistan,168,India,"Punjab Cricket Association Stadium, Mohali",4,India
+183,30.1,1,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,11,,SR Tendulkar,75,India,Pakistan,169,India,"Punjab Cricket Association Stadium, Mohali",4,India
+184,30.2,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,75,,MS Dhoni,11,India,Pakistan,169,India,"Punjab Cricket Association Stadium, Mohali",4,India
+185,30.3,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,75,,MS Dhoni,12,India,Pakistan,170,India,"Punjab Cricket Association Stadium, Mohali",4,India
+186,30.4,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,12,,SR Tendulkar,75,India,Pakistan,170,India,"Punjab Cricket Association Stadium, Mohali",4,India
+187,30.5,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,12,,SR Tendulkar,75,India,Pakistan,170,India,"Punjab Cricket Association Stadium, Mohali",4,India
+188,30.6,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,12,,SR Tendulkar,75,India,Pakistan,170,India,"Punjab Cricket Association Stadium, Mohali",4,India
+189,31.1,0,Umar Gul,2011-03-30,1st,SR Tendulkar,75,,MS Dhoni,12,India,Pakistan,170,India,"Punjab Cricket Association Stadium, Mohali",4,India
+190,31.2,1,Umar Gul,2011-03-30,1st,SR Tendulkar,75,,MS Dhoni,13,India,Pakistan,171,India,"Punjab Cricket Association Stadium, Mohali",4,India
+191,31.3,0,Umar Gul,2011-03-30,1st,MS Dhoni,13,,SR Tendulkar,75,India,Pakistan,171,India,"Punjab Cricket Association Stadium, Mohali",4,India
+192,31.4,0,Umar Gul,2011-03-30,1st,MS Dhoni,13,,SR Tendulkar,75,India,Pakistan,171,India,"Punjab Cricket Association Stadium, Mohali",4,India
+193,31.5,0,Umar Gul,2011-03-30,1st,MS Dhoni,13,,SR Tendulkar,75,India,Pakistan,171,India,"Punjab Cricket Association Stadium, Mohali",4,India
+194,31.6,0,Umar Gul,2011-03-30,1st,MS Dhoni,13,,SR Tendulkar,75,India,Pakistan,171,India,"Punjab Cricket Association Stadium, Mohali",4,India
+195,32.1,1,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,75,,MS Dhoni,14,India,Pakistan,172,India,"Punjab Cricket Association Stadium, Mohali",4,India
+196,32.2,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,14,,SR Tendulkar,75,India,Pakistan,172,India,"Punjab Cricket Association Stadium, Mohali",4,India
+197,32.3,1,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,14,,SR Tendulkar,76,India,Pakistan,173,India,"Punjab Cricket Association Stadium, Mohali",4,India
+198,32.4,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,76,,MS Dhoni,14,India,Pakistan,173,India,"Punjab Cricket Association Stadium, Mohali",4,India
+199,32.5,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,76,,MS Dhoni,14,India,Pakistan,173,India,"Punjab Cricket Association Stadium, Mohali",4,India
+200,32.6,0,Mohammad Hafeez,2011-03-30,1st,SR Tendulkar,76,,MS Dhoni,14,India,Pakistan,173,India,"Punjab Cricket Association Stadium, Mohali",4,India
+201,33.1,0,Umar Gul,2011-03-30,1st,MS Dhoni,14,,SR Tendulkar,76,India,Pakistan,173,India,"Punjab Cricket Association Stadium, Mohali",4,India
+202,33.2,0,Umar Gul,2011-03-30,1st,MS Dhoni,14,,SR Tendulkar,76,India,Pakistan,173,India,"Punjab Cricket Association Stadium, Mohali",4,India
+203,33.3,1,Umar Gul,2011-03-30,1st,MS Dhoni,14,,SR Tendulkar,77,India,Pakistan,174,India,"Punjab Cricket Association Stadium, Mohali",4,India
+204,33.4,1,Umar Gul,2011-03-30,1st,SR Tendulkar,77,,MS Dhoni,15,India,Pakistan,176,India,"Punjab Cricket Association Stadium, Mohali",4,India
+205,33.5,0,Umar Gul,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,77,India,Pakistan,177,India,"Punjab Cricket Association Stadium, Mohali",4,India
+206,33.6,0,Umar Gul,2011-03-30,1st,SR Tendulkar,77,,MS Dhoni,15,India,Pakistan,177,India,"Punjab Cricket Association Stadium, Mohali",4,India
+207,33.7,0,Umar Gul,2011-03-30,1st,SR Tendulkar,77,,MS Dhoni,15,India,Pakistan,177,India,"Punjab Cricket Association Stadium, Mohali",4,India
+208,34.1,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,77,India,Pakistan,177,India,"Punjab Cricket Association Stadium, Mohali",4,India
+209,34.2,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,77,India,Pakistan,177,India,"Punjab Cricket Association Stadium, Mohali",4,India
+210,34.3,2,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,79,India,Pakistan,179,India,"Punjab Cricket Association Stadium, Mohali",4,India
+211,34.4,2,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,81,India,Pakistan,181,India,"Punjab Cricket Association Stadium, Mohali",4,India
+212,34.5,0,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,81,India,Pakistan,181,India,"Punjab Cricket Association Stadium, Mohali",4,India
+213,34.6,1,Mohammad Hafeez,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,82,India,Pakistan,182,India,"Punjab Cricket Association Stadium, Mohali",4,India
+214,35.1,1,Shahid Afridi,2011-03-30,1st,MS Dhoni,15,,SR Tendulkar,83,India,Pakistan,183,India,"Punjab Cricket Association Stadium, Mohali",4,India
+215,35.2,1,Shahid Afridi,2011-03-30,1st,SR Tendulkar,83,,MS Dhoni,16,India,Pakistan,184,India,"Punjab Cricket Association Stadium, Mohali",4,India
+216,35.3,1,Shahid Afridi,2011-03-30,1st,MS Dhoni,16,,SR Tendulkar,84,India,Pakistan,185,India,"Punjab Cricket Association Stadium, Mohali",4,India
+217,35.4,0,Shahid Afridi,2011-03-30,1st,SR Tendulkar,84,,MS Dhoni,16,India,Pakistan,185,India,"Punjab Cricket Association Stadium, Mohali",4,India
+218,35.5,0,Shahid Afridi,2011-03-30,1st,SR Tendulkar,84,,MS Dhoni,16,India,Pakistan,185,India,"Punjab Cricket Association Stadium, Mohali",4,India
+219,35.6,0,Shahid Afridi,2011-03-30,1st,SR Tendulkar,84,,MS Dhoni,16,India,Pakistan,185,India,"Punjab Cricket Association Stadium, Mohali",4,India
+220,36.1,0,Saeed Ajmal,2011-03-30,1st,MS Dhoni,16,,SR Tendulkar,84,India,Pakistan,185,India,"Punjab Cricket Association Stadium, Mohali",4,India
+221,36.2,0,Saeed Ajmal,2011-03-30,1st,MS Dhoni,16,,SR Tendulkar,84,India,Pakistan,185,India,"Punjab Cricket Association Stadium, Mohali",4,India
+222,36.3,1,Saeed Ajmal,2011-03-30,1st,MS Dhoni,16,,SR Tendulkar,85,India,Pakistan,186,India,"Punjab Cricket Association Stadium, Mohali",4,India
+223,36.4,0,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,85,,MS Dhoni,16,India,Pakistan,186,India,"Punjab Cricket Association Stadium, Mohali",4,India
+224,36.5,1,Saeed Ajmal,2011-03-30,1st,SR Tendulkar,85,,MS Dhoni,17,India,Pakistan,187,India,"Punjab Cricket Association Stadium, Mohali",4,India
+225,36.6,0,Saeed Ajmal,2011-03-30,1st,MS Dhoni,17,SR Tendulkar,SR Tendulkar,85,India,Pakistan,187,India,"Punjab Cricket Association Stadium, Mohali",5,India
+226,37.1,1,Shahid Afridi,2011-03-30,1st,SK Raina,0,,MS Dhoni,18,India,Pakistan,188,India,"Punjab Cricket Association Stadium, Mohali",5,India
+227,37.2,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,18,,SK Raina,0,India,Pakistan,188,India,"Punjab Cricket Association Stadium, Mohali",5,India
+228,37.3,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,18,,SK Raina,0,India,Pakistan,188,India,"Punjab Cricket Association Stadium, Mohali",5,India
+229,37.4,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,18,,SK Raina,0,India,Pakistan,188,India,"Punjab Cricket Association Stadium, Mohali",5,India
+230,37.5,1,Shahid Afridi,2011-03-30,1st,MS Dhoni,18,,SK Raina,1,India,Pakistan,189,India,"Punjab Cricket Association Stadium, Mohali",5,India
+231,37.6,0,Shahid Afridi,2011-03-30,1st,SK Raina,1,,MS Dhoni,18,India,Pakistan,189,India,"Punjab Cricket Association Stadium, Mohali",5,India
+232,38.1,2,Saeed Ajmal,2011-03-30,1st,MS Dhoni,18,,SK Raina,3,India,Pakistan,191,India,"Punjab Cricket Association Stadium, Mohali",5,India
+233,38.2,1,Saeed Ajmal,2011-03-30,1st,MS Dhoni,18,,SK Raina,4,India,Pakistan,192,India,"Punjab Cricket Association Stadium, Mohali",5,India
+234,38.3,1,Saeed Ajmal,2011-03-30,1st,SK Raina,4,,MS Dhoni,19,India,Pakistan,193,India,"Punjab Cricket Association Stadium, Mohali",5,India
+235,38.4,0,Saeed Ajmal,2011-03-30,1st,MS Dhoni,19,,SK Raina,4,India,Pakistan,193,India,"Punjab Cricket Association Stadium, Mohali",5,India
+236,38.5,1,Saeed Ajmal,2011-03-30,1st,MS Dhoni,19,,SK Raina,5,India,Pakistan,194,India,"Punjab Cricket Association Stadium, Mohali",5,India
+237,38.6,1,Saeed Ajmal,2011-03-30,1st,SK Raina,5,,MS Dhoni,20,India,Pakistan,195,India,"Punjab Cricket Association Stadium, Mohali",5,India
+238,39.1,1,Shahid Afridi,2011-03-30,1st,SK Raina,5,,MS Dhoni,21,India,Pakistan,196,India,"Punjab Cricket Association Stadium, Mohali",5,India
+239,39.2,2,Shahid Afridi,2011-03-30,1st,MS Dhoni,21,,SK Raina,7,India,Pakistan,198,India,"Punjab Cricket Association Stadium, Mohali",5,India
+240,39.3,0,Shahid Afridi,2011-03-30,1st,MS Dhoni,21,,SK Raina,7,India,Pakistan,198,India,"Punjab Cricket Association Stadium, Mohali",5,India
+241,39.4,1,Shahid Afridi,2011-03-30,1st,MS Dhoni,21,,SK Raina,8,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",5,India
+242,39.5,0,Shahid Afridi,2011-03-30,1st,SK Raina,8,,MS Dhoni,21,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",5,India
+243,39.6,1,Shahid Afridi,2011-03-30,1st,SK Raina,8,,MS Dhoni,22,India,Pakistan,200,India,"Punjab Cricket Association Stadium, Mohali",5,India
+244,40.1,1,Saeed Ajmal,2011-03-30,1st,SK Raina,8,,MS Dhoni,23,India,Pakistan,201,India,"Punjab Cricket Association Stadium, Mohali",5,India
+245,40.2,1,Saeed Ajmal,2011-03-30,1st,MS Dhoni,23,,SK Raina,9,India,Pakistan,202,India,"Punjab Cricket Association Stadium, Mohali",5,India
+246,40.3,1,Saeed Ajmal,2011-03-30,1st,SK Raina,9,,MS Dhoni,24,India,Pakistan,203,India,"Punjab Cricket Association Stadium, Mohali",5,India
+247,40.4,0,Saeed Ajmal,2011-03-30,1st,MS Dhoni,24,,SK Raina,9,India,Pakistan,203,India,"Punjab Cricket Association Stadium, Mohali",5,India
+248,40.5,0,Saeed Ajmal,2011-03-30,1st,MS Dhoni,24,,SK Raina,9,India,Pakistan,203,India,"Punjab Cricket Association Stadium, Mohali",5,India
+249,40.6,0,Saeed Ajmal,2011-03-30,1st,MS Dhoni,24,,SK Raina,9,India,Pakistan,203,India,"Punjab Cricket Association Stadium, Mohali",5,India
+250,41.1,0,Wahab Riaz,2011-03-30,1st,SK Raina,9,,MS Dhoni,24,India,Pakistan,203,India,"Punjab Cricket Association Stadium, Mohali",5,India
+251,41.2,1,Wahab Riaz,2011-03-30,1st,SK Raina,9,,MS Dhoni,25,India,Pakistan,204,India,"Punjab Cricket Association Stadium, Mohali",5,India
+252,41.3,1,Wahab Riaz,2011-03-30,1st,MS Dhoni,25,,SK Raina,10,India,Pakistan,205,India,"Punjab Cricket Association Stadium, Mohali",5,India
+253,41.4,0,Wahab Riaz,2011-03-30,1st,SK Raina,10,MS Dhoni,MS Dhoni,25,India,Pakistan,205,India,"Punjab Cricket Association Stadium, Mohali",6,India
+254,41.5,0,Wahab Riaz,2011-03-30,1st,SK Raina,10,,Harbhajan Singh,0,India,Pakistan,205,India,"Punjab Cricket Association Stadium, Mohali",6,India
+255,41.6,0,Wahab Riaz,2011-03-30,1st,SK Raina,10,,Harbhajan Singh,0,India,Pakistan,205,India,"Punjab Cricket Association Stadium, Mohali",6,India
+256,42.1,0,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,0,,SK Raina,10,India,Pakistan,205,India,"Punjab Cricket Association Stadium, Mohali",6,India
+257,42.2,1,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,0,,SK Raina,11,India,Pakistan,206,India,"Punjab Cricket Association Stadium, Mohali",6,India
+258,42.3,0,Saeed Ajmal,2011-03-30,1st,SK Raina,11,,Harbhajan Singh,0,India,Pakistan,206,India,"Punjab Cricket Association Stadium, Mohali",6,India
+259,42.4,1,Saeed Ajmal,2011-03-30,1st,SK Raina,11,,Harbhajan Singh,1,India,Pakistan,207,India,"Punjab Cricket Association Stadium, Mohali",6,India
+260,42.5,0,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,1,,SK Raina,11,India,Pakistan,207,India,"Punjab Cricket Association Stadium, Mohali",6,India
+261,42.6,0,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,1,,SK Raina,11,India,Pakistan,207,India,"Punjab Cricket Association Stadium, Mohali",6,India
+262,43.1,2,Wahab Riaz,2011-03-30,1st,SK Raina,11,,Harbhajan Singh,3,India,Pakistan,209,India,"Punjab Cricket Association Stadium, Mohali",6,India
+263,43.2,0,Wahab Riaz,2011-03-30,1st,SK Raina,11,,Harbhajan Singh,3,India,Pakistan,210,India,"Punjab Cricket Association Stadium, Mohali",6,India
+264,43.3,0,Wahab Riaz,2011-03-30,1st,SK Raina,11,,Harbhajan Singh,3,India,Pakistan,210,India,"Punjab Cricket Association Stadium, Mohali",6,India
+265,43.4,0,Wahab Riaz,2011-03-30,1st,SK Raina,11,,Harbhajan Singh,3,India,Pakistan,211,India,"Punjab Cricket Association Stadium, Mohali",6,India
+266,43.5,1,Wahab Riaz,2011-03-30,1st,SK Raina,11,,Harbhajan Singh,4,India,Pakistan,212,India,"Punjab Cricket Association Stadium, Mohali",6,India
+267,43.6,0,Wahab Riaz,2011-03-30,1st,Harbhajan Singh,4,,SK Raina,11,India,Pakistan,212,India,"Punjab Cricket Association Stadium, Mohali",6,India
+268,43.7,1,Wahab Riaz,2011-03-30,1st,Harbhajan Singh,4,,SK Raina,12,India,Pakistan,213,India,"Punjab Cricket Association Stadium, Mohali",6,India
+269,43.8,0,Wahab Riaz,2011-03-30,1st,SK Raina,12,,Harbhajan Singh,4,India,Pakistan,213,India,"Punjab Cricket Association Stadium, Mohali",6,India
+270,44.1,1,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,4,,SK Raina,13,India,Pakistan,214,India,"Punjab Cricket Association Stadium, Mohali",6,India
+271,44.2,0,Saeed Ajmal,2011-03-30,1st,SK Raina,13,,Harbhajan Singh,4,India,Pakistan,214,India,"Punjab Cricket Association Stadium, Mohali",6,India
+272,44.3,0,Saeed Ajmal,2011-03-30,1st,SK Raina,13,,Harbhajan Singh,4,India,Pakistan,214,India,"Punjab Cricket Association Stadium, Mohali",6,India
+273,44.4,4,Saeed Ajmal,2011-03-30,1st,SK Raina,13,,Harbhajan Singh,8,India,Pakistan,218,India,"Punjab Cricket Association Stadium, Mohali",6,India
+274,44.5,0,Saeed Ajmal,2011-03-30,1st,SK Raina,13,,Harbhajan Singh,8,India,Pakistan,220,India,"Punjab Cricket Association Stadium, Mohali",6,India
+275,44.6,0,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,8,,SK Raina,13,India,Pakistan,220,India,"Punjab Cricket Association Stadium, Mohali",6,India
+276,44.7,1,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,8,,SK Raina,14,India,Pakistan,221,India,"Punjab Cricket Association Stadium, Mohali",6,India
+277,45.1,4,Umar Gul,2011-03-30,1st,Harbhajan Singh,8,,SK Raina,18,India,Pakistan,225,India,"Punjab Cricket Association Stadium, Mohali",6,India
+278,45.2,0,Umar Gul,2011-03-30,1st,Harbhajan Singh,8,,SK Raina,18,India,Pakistan,226,India,"Punjab Cricket Association Stadium, Mohali",6,India
+279,45.3,0,Umar Gul,2011-03-30,1st,Harbhajan Singh,8,,SK Raina,18,India,Pakistan,226,India,"Punjab Cricket Association Stadium, Mohali",6,India
+280,45.4,4,Umar Gul,2011-03-30,1st,Harbhajan Singh,8,,SK Raina,22,India,Pakistan,230,India,"Punjab Cricket Association Stadium, Mohali",6,India
+281,45.5,1,Umar Gul,2011-03-30,1st,Harbhajan Singh,8,,SK Raina,23,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",6,India
+282,45.6,4,Umar Gul,2011-03-30,1st,SK Raina,23,,Harbhajan Singh,12,India,Pakistan,235,India,"Punjab Cricket Association Stadium, Mohali",6,India
+283,45.7,0,Umar Gul,2011-03-30,1st,SK Raina,23,,Harbhajan Singh,12,India,Pakistan,235,India,"Punjab Cricket Association Stadium, Mohali",6,India
+284,46.1,0,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,12,,SK Raina,23,India,Pakistan,235,India,"Punjab Cricket Association Stadium, Mohali",6,India
+285,46.2,1,Saeed Ajmal,2011-03-30,1st,Harbhajan Singh,12,,SK Raina,24,India,Pakistan,236,India,"Punjab Cricket Association Stadium, Mohali",6,India
+286,46.3,0,Saeed Ajmal,2011-03-30,1st,SK Raina,24,,Harbhajan Singh,12,India,Pakistan,236,India,"Punjab Cricket Association Stadium, Mohali",6,India
+287,46.4,0,Saeed Ajmal,2011-03-30,1st,SK Raina,24,Harbhajan Singh,Harbhajan Singh,12,India,Pakistan,236,India,"Punjab Cricket Association Stadium, Mohali",7,India
+288,46.5,1,Saeed Ajmal,2011-03-30,1st,SK Raina,24,,Z Khan,1,India,Pakistan,237,India,"Punjab Cricket Association Stadium, Mohali",7,India
+289,46.6,1,Saeed Ajmal,2011-03-30,1st,Z Khan,1,,SK Raina,25,India,Pakistan,238,India,"Punjab Cricket Association Stadium, Mohali",7,India
+290,47.1,0,Wahab Riaz,2011-03-30,1st,Z Khan,1,,SK Raina,25,India,Pakistan,239,India,"Punjab Cricket Association Stadium, Mohali",7,India
+291,47.2,0,Wahab Riaz,2011-03-30,1st,SK Raina,25,,Z Khan,1,India,Pakistan,239,India,"Punjab Cricket Association Stadium, Mohali",7,India
+292,47.3,2,Wahab Riaz,2011-03-30,1st,SK Raina,25,,Z Khan,3,India,Pakistan,241,India,"Punjab Cricket Association Stadium, Mohali",7,India
+293,47.4,0,Wahab Riaz,2011-03-30,1st,SK Raina,25,,Z Khan,3,India,Pakistan,242,India,"Punjab Cricket Association Stadium, Mohali",7,India
+294,47.5,0,Wahab Riaz,2011-03-30,1st,SK Raina,25,,Z Khan,3,India,Pakistan,242,India,"Punjab Cricket Association Stadium, Mohali",7,India
+295,47.6,4,Wahab Riaz,2011-03-30,1st,SK Raina,25,,Z Khan,7,India,Pakistan,246,India,"Punjab Cricket Association Stadium, Mohali",7,India
+296,47.7,0,Wahab Riaz,2011-03-30,1st,SK Raina,25,,Z Khan,7,India,Pakistan,246,India,"Punjab Cricket Association Stadium, Mohali",7,India
+297,48.1,1,Umar Gul,2011-03-30,1st,Z Khan,7,,SK Raina,26,India,Pakistan,247,India,"Punjab Cricket Association Stadium, Mohali",7,India
+298,48.2,1,Umar Gul,2011-03-30,1st,SK Raina,26,,Z Khan,8,India,Pakistan,248,India,"Punjab Cricket Association Stadium, Mohali",7,India
+299,48.3,1,Umar Gul,2011-03-30,1st,Z Khan,8,,SK Raina,27,India,Pakistan,249,India,"Punjab Cricket Association Stadium, Mohali",7,India
+300,48.4,1,Umar Gul,2011-03-30,1st,SK Raina,27,,Z Khan,9,India,Pakistan,250,India,"Punjab Cricket Association Stadium, Mohali",7,India
+301,48.5,2,Umar Gul,2011-03-30,1st,Z Khan,9,,SK Raina,29,India,Pakistan,252,India,"Punjab Cricket Association Stadium, Mohali",7,India
+302,48.6,4,Umar Gul,2011-03-30,1st,Z Khan,9,,SK Raina,33,India,Pakistan,256,India,"Punjab Cricket Association Stadium, Mohali",7,India
+303,49.1,0,Wahab Riaz,2011-03-30,1st,SK Raina,33,,Z Khan,9,India,Pakistan,256,India,"Punjab Cricket Association Stadium, Mohali",7,India
+304,49.2,0,Wahab Riaz,2011-03-30,1st,SK Raina,33,Z Khan,Z Khan,9,India,Pakistan,256,India,"Punjab Cricket Association Stadium, Mohali",8,India
+305,49.3,1,Wahab Riaz,2011-03-30,1st,SK Raina,33,,A Nehra,1,India,Pakistan,257,India,"Punjab Cricket Association Stadium, Mohali",8,India
+306,49.4,1,Wahab Riaz,2011-03-30,1st,A Nehra,1,,SK Raina,34,India,Pakistan,258,India,"Punjab Cricket Association Stadium, Mohali",8,India
+307,49.5,0,Wahab Riaz,2011-03-30,1st,SK Raina,34,A Nehra,A Nehra,1,India,Pakistan,258,India,"Punjab Cricket Association Stadium, Mohali",9,India
+308,49.6,2,Wahab Riaz,2011-03-30,1st,MM Patel,0,,SK Raina,36,India,Pakistan,260,India,"Punjab Cricket Association Stadium, Mohali",9,India
+309,0.1,4,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+310,0.2,0,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+311,0.3,0,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+312,0.4,0,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+313,0.5,0,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,4,India,"Punjab Cricket Association Stadium, Mohali",0,India
+314,0.6,4,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,8,India,"Punjab Cricket Association Stadium, Mohali",0,India
+315,1.1,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,8,India,"Punjab Cricket Association Stadium, Mohali",0,India
+316,1.2,1,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,9,India,"Punjab Cricket Association Stadium, Mohali",0,India
+317,1.3,0,A Nehra,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,9,India,"Punjab Cricket Association Stadium, Mohali",0,India
+318,1.4,1,A Nehra,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,10,India,"Punjab Cricket Association Stadium, Mohali",0,India
+319,1.5,2,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,12,India,"Punjab Cricket Association Stadium, Mohali",0,India
+320,1.6,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,12,India,"Punjab Cricket Association Stadium, Mohali",0,India
+321,2.1,3,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,15,India,"Punjab Cricket Association Stadium, Mohali",0,India
+322,2.2,0,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,15,India,"Punjab Cricket Association Stadium, Mohali",0,India
+323,2.3,4,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,19,India,"Punjab Cricket Association Stadium, Mohali",0,India
+324,2.4,1,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,20,India,"Punjab Cricket Association Stadium, Mohali",0,India
+325,2.5,0,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,20,India,"Punjab Cricket Association Stadium, Mohali",0,India
+326,2.6,0,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,20,India,"Punjab Cricket Association Stadium, Mohali",0,India
+327,3.1,4,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,24,India,"Punjab Cricket Association Stadium, Mohali",0,India
+328,3.2,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,24,India,"Punjab Cricket Association Stadium, Mohali",0,India
+329,3.3,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,24,India,"Punjab Cricket Association Stadium, Mohali",0,India
+330,3.4,1,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,25,India,"Punjab Cricket Association Stadium, Mohali",0,India
+331,3.5,1,A Nehra,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,26,India,"Punjab Cricket Association Stadium, Mohali",0,India
+332,3.6,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,26,India,"Punjab Cricket Association Stadium, Mohali",0,India
+333,4.1,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,26,India,"Punjab Cricket Association Stadium, Mohali",0,India
+334,4.2,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,26,India,"Punjab Cricket Association Stadium, Mohali",0,India
+335,4.3,2,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+336,4.4,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+337,4.5,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+338,4.6,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+339,5.1,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+340,5.2,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+341,5.3,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+342,5.4,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+343,5.5,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,28,India,"Punjab Cricket Association Stadium, Mohali",0,India
+344,5.6,1,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,29,India,"Punjab Cricket Association Stadium, Mohali",0,India
+345,6.1,0,MM Patel,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,29,India,"Punjab Cricket Association Stadium, Mohali",0,India
+346,6.2,0,MM Patel,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,29,India,"Punjab Cricket Association Stadium, Mohali",0,India
+347,6.3,4,MM Patel,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,33,India,"Punjab Cricket Association Stadium, Mohali",0,India
+348,6.4,0,MM Patel,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,33,India,"Punjab Cricket Association Stadium, Mohali",0,India
+349,6.5,1,MM Patel,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,34,India,"Punjab Cricket Association Stadium, Mohali",0,India
+350,6.6,4,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,38,India,"Punjab Cricket Association Stadium, Mohali",0,India
+351,7.1,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,38,India,"Punjab Cricket Association Stadium, Mohali",0,India
+352,7.2,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,38,India,"Punjab Cricket Association Stadium, Mohali",0,India
+353,7.3,4,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,42,India,"Punjab Cricket Association Stadium, Mohali",0,India
+354,7.4,0,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,42,India,"Punjab Cricket Association Stadium, Mohali",0,India
+355,7.5,1,A Nehra,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+356,7.6,0,A Nehra,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+357,8.1,0,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+358,8.2,0,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+359,8.3,0,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+360,8.4,0,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,43,India,"Punjab Cricket Association Stadium, Mohali",0,India
+361,8.5,1,Z Khan,2011-03-30,2nd,Kamran Akmal,0,,Mohammad Hafeez,0,India,Pakistan,44,India,"Punjab Cricket Association Stadium, Mohali",0,India
+362,8.6,0,Z Khan,2011-03-30,2nd,Mohammad Hafeez,0,,Kamran Akmal,0,India,Pakistan,44,India,"Punjab Cricket Association Stadium, Mohali",1,India
+363,9.1,4,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",1,India
+364,9.2,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",1,India
+365,9.3,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",1,India
+366,9.4,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",1,India
+367,9.5,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,48,India,"Punjab Cricket Association Stadium, Mohali",1,India
+368,9.6,4,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,52,India,"Punjab Cricket Association Stadium, Mohali",1,India
+369,10.1,0,Harbhajan Singh,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,52,India,"Punjab Cricket Association Stadium, Mohali",1,India
+370,10.2,1,Harbhajan Singh,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,53,India,"Punjab Cricket Association Stadium, Mohali",1,India
+371,10.3,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,53,India,"Punjab Cricket Association Stadium, Mohali",1,India
+372,10.4,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,53,India,"Punjab Cricket Association Stadium, Mohali",1,India
+373,10.5,1,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,54,India,"Punjab Cricket Association Stadium, Mohali",1,India
+374,10.6,0,Harbhajan Singh,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,54,India,"Punjab Cricket Association Stadium, Mohali",1,India
+375,11.1,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,54,India,"Punjab Cricket Association Stadium, Mohali",1,India
+376,11.2,4,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,58,India,"Punjab Cricket Association Stadium, Mohali",1,India
+377,11.3,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,58,India,"Punjab Cricket Association Stadium, Mohali",1,India
+378,11.4,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,58,India,"Punjab Cricket Association Stadium, Mohali",1,India
+379,11.5,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,58,India,"Punjab Cricket Association Stadium, Mohali",1,India
+380,11.6,1,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,59,India,"Punjab Cricket Association Stadium, Mohali",1,India
+381,12.1,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,59,India,"Punjab Cricket Association Stadium, Mohali",1,India
+382,12.2,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,59,India,"Punjab Cricket Association Stadium, Mohali",1,India
+383,12.3,1,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,60,India,"Punjab Cricket Association Stadium, Mohali",1,India
+384,12.4,1,Harbhajan Singh,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,61,India,"Punjab Cricket Association Stadium, Mohali",1,India
+385,12.5,1,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,62,India,"Punjab Cricket Association Stadium, Mohali",1,India
+386,12.6,1,Harbhajan Singh,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,63,India,"Punjab Cricket Association Stadium, Mohali",1,India
+387,13.1,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,63,India,"Punjab Cricket Association Stadium, Mohali",1,India
+388,13.2,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,63,India,"Punjab Cricket Association Stadium, Mohali",1,India
+389,13.3,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,63,India,"Punjab Cricket Association Stadium, Mohali",1,India
+390,13.4,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,63,India,"Punjab Cricket Association Stadium, Mohali",1,India
+391,13.5,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,63,India,"Punjab Cricket Association Stadium, Mohali",1,India
+392,13.6,0,MM Patel,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,63,India,"Punjab Cricket Association Stadium, Mohali",1,India
+393,14.1,1,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,64,India,"Punjab Cricket Association Stadium, Mohali",1,India
+394,14.2,4,Harbhajan Singh,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,68,India,"Punjab Cricket Association Stadium, Mohali",1,India
+395,14.3,1,Harbhajan Singh,2011-03-30,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,India,Pakistan,69,India,"Punjab Cricket Association Stadium, Mohali",1,India
+396,14.4,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,69,India,"Punjab Cricket Association Stadium, Mohali",1,India
+397,14.5,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,69,India,"Punjab Cricket Association Stadium, Mohali",1,India
+398,14.6,1,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,70,India,"Punjab Cricket Association Stadium, Mohali",1,India
+399,15.1,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,70,India,"Punjab Cricket Association Stadium, Mohali",1,India
+400,15.2,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,70,India,"Punjab Cricket Association Stadium, Mohali",1,India
+401,15.3,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,India,Pakistan,70,India,"Punjab Cricket Association Stadium, Mohali",2,India
+402,15.4,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,70,India,"Punjab Cricket Association Stadium, Mohali",2,India
+403,15.5,0,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,70,India,"Punjab Cricket Association Stadium, Mohali",2,India
+404,15.6,2,MM Patel,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,72,India,"Punjab Cricket Association Stadium, Mohali",2,India
+405,16.1,4,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,76,India,"Punjab Cricket Association Stadium, Mohali",2,India
+406,16.2,0,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,76,India,"Punjab Cricket Association Stadium, Mohali",2,India
+407,16.3,0,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,76,India,"Punjab Cricket Association Stadium, Mohali",2,India
+408,16.4,1,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,77,India,"Punjab Cricket Association Stadium, Mohali",2,India
+409,16.5,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,77,India,"Punjab Cricket Association Stadium, Mohali",2,India
+410,16.6,0,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,77,India,"Punjab Cricket Association Stadium, Mohali",2,India
+411,17.1,0,A Nehra,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,77,India,"Punjab Cricket Association Stadium, Mohali",2,India
+412,17.2,0,A Nehra,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,77,India,"Punjab Cricket Association Stadium, Mohali",2,India
+413,17.3,2,A Nehra,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,79,India,"Punjab Cricket Association Stadium, Mohali",2,India
+414,17.4,1,A Nehra,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,80,India,"Punjab Cricket Association Stadium, Mohali",2,India
+415,17.5,0,A Nehra,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,80,India,"Punjab Cricket Association Stadium, Mohali",2,India
+416,17.6,0,A Nehra,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,80,India,"Punjab Cricket Association Stadium, Mohali",2,India
+417,18.1,1,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,81,India,"Punjab Cricket Association Stadium, Mohali",2,India
+418,18.2,1,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,82,India,"Punjab Cricket Association Stadium, Mohali",2,India
+419,18.3,0,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,82,India,"Punjab Cricket Association Stadium, Mohali",2,India
+420,18.4,1,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,83,India,"Punjab Cricket Association Stadium, Mohali",2,India
+421,18.5,1,Harbhajan Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,84,India,"Punjab Cricket Association Stadium, Mohali",2,India
+422,18.6,0,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,84,India,"Punjab Cricket Association Stadium, Mohali",2,India
+423,19.1,1,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,85,India,"Punjab Cricket Association Stadium, Mohali",2,India
+424,19.2,1,Yuvraj Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,86,India,"Punjab Cricket Association Stadium, Mohali",2,India
+425,19.3,1,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,87,India,"Punjab Cricket Association Stadium, Mohali",2,India
+426,19.4,1,Yuvraj Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,88,India,"Punjab Cricket Association Stadium, Mohali",2,India
+427,19.5,0,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,88,India,"Punjab Cricket Association Stadium, Mohali",2,India
+428,19.6,1,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,89,India,"Punjab Cricket Association Stadium, Mohali",2,India
+429,20.1,0,Z Khan,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,89,India,"Punjab Cricket Association Stadium, Mohali",2,India
+430,20.2,1,Z Khan,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,90,India,"Punjab Cricket Association Stadium, Mohali",2,India
+431,20.3,2,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,92,India,"Punjab Cricket Association Stadium, Mohali",2,India
+432,20.4,0,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,92,India,"Punjab Cricket Association Stadium, Mohali",2,India
+433,20.5,0,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,92,India,"Punjab Cricket Association Stadium, Mohali",2,India
+434,20.6,1,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,93,India,"Punjab Cricket Association Stadium, Mohali",2,India
+435,21.1,1,Yuvraj Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,94,India,"Punjab Cricket Association Stadium, Mohali",2,India
+436,21.2,0,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,94,India,"Punjab Cricket Association Stadium, Mohali",2,India
+437,21.3,0,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,94,India,"Punjab Cricket Association Stadium, Mohali",2,India
+438,21.4,0,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,94,India,"Punjab Cricket Association Stadium, Mohali",2,India
+439,21.5,0,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,94,India,"Punjab Cricket Association Stadium, Mohali",2,India
+440,21.6,0,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,94,India,"Punjab Cricket Association Stadium, Mohali",2,India
+441,22.1,1,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,95,India,"Punjab Cricket Association Stadium, Mohali",2,India
+442,22.2,0,Z Khan,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,95,India,"Punjab Cricket Association Stadium, Mohali",2,India
+443,22.3,1,Z Khan,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,96,India,"Punjab Cricket Association Stadium, Mohali",2,India
+444,22.4,2,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,98,India,"Punjab Cricket Association Stadium, Mohali",2,India
+445,22.5,2,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,100,India,"Punjab Cricket Association Stadium, Mohali",2,India
+446,22.6,0,Z Khan,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,100,India,"Punjab Cricket Association Stadium, Mohali",2,India
+447,23.1,1,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,101,India,"Punjab Cricket Association Stadium, Mohali",2,India
+448,23.2,0,Yuvraj Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,101,India,"Punjab Cricket Association Stadium, Mohali",2,India
+449,23.3,1,Yuvraj Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,102,India,"Punjab Cricket Association Stadium, Mohali",2,India
+450,23.4,1,Yuvraj Singh,2011-03-30,2nd,Asad Shafiq,0,,Younis Khan,0,India,Pakistan,103,India,"Punjab Cricket Association Stadium, Mohali",2,India
+451,23.5,0,Yuvraj Singh,2011-03-30,2nd,Younis Khan,0,,Asad Shafiq,0,India,Pakistan,103,India,"Punjab Cricket Association Stadium, Mohali",3,India
+452,23.6,0,Yuvraj Singh,2011-03-30,2nd,Younis Khan,0,,Misbah-ul-Haq,0,India,Pakistan,103,India,"Punjab Cricket Association Stadium, Mohali",3,India
+453,24.1,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,103,India,"Punjab Cricket Association Stadium, Mohali",3,India
+454,24.2,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,103,India,"Punjab Cricket Association Stadium, Mohali",3,India
+455,24.3,1,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,104,India,"Punjab Cricket Association Stadium, Mohali",3,India
+456,24.4,0,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Misbah-ul-Haq,0,India,Pakistan,104,India,"Punjab Cricket Association Stadium, Mohali",3,India
+457,24.5,1,Harbhajan Singh,2011-03-30,2nd,Younis Khan,0,,Misbah-ul-Haq,0,India,Pakistan,105,India,"Punjab Cricket Association Stadium, Mohali",3,India
+458,24.6,1,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,106,India,"Punjab Cricket Association Stadium, Mohali",3,India
+459,25.1,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,106,India,"Punjab Cricket Association Stadium, Mohali",3,India
+460,25.2,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,106,India,"Punjab Cricket Association Stadium, Mohali",3,India
+461,25.3,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,106,India,"Punjab Cricket Association Stadium, Mohali",3,India
+462,25.4,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Younis Khan,0,India,Pakistan,106,India,"Punjab Cricket Association Stadium, Mohali",4,India
+463,25.5,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,106,India,"Punjab Cricket Association Stadium, Mohali",4,India
+464,25.6,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,106,India,"Punjab Cricket Association Stadium, Mohali",4,India
+465,26.1,1,Harbhajan Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,107,India,"Punjab Cricket Association Stadium, Mohali",4,India
+466,26.2,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,107,India,"Punjab Cricket Association Stadium, Mohali",4,India
+467,26.3,2,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,109,India,"Punjab Cricket Association Stadium, Mohali",4,India
+468,26.4,1,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,110,India,"Punjab Cricket Association Stadium, Mohali",4,India
+469,26.5,1,Harbhajan Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,111,India,"Punjab Cricket Association Stadium, Mohali",4,India
+470,26.6,1,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,112,India,"Punjab Cricket Association Stadium, Mohali",4,India
+471,27.1,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,113,India,"Punjab Cricket Association Stadium, Mohali",4,India
+472,27.2,2,Yuvraj Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,115,India,"Punjab Cricket Association Stadium, Mohali",4,India
+473,27.3,0,Yuvraj Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,115,India,"Punjab Cricket Association Stadium, Mohali",4,India
+474,27.4,1,Yuvraj Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,116,India,"Punjab Cricket Association Stadium, Mohali",4,India
+475,27.5,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,116,India,"Punjab Cricket Association Stadium, Mohali",4,India
+476,27.6,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,117,India,"Punjab Cricket Association Stadium, Mohali",4,India
+477,28.1,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,117,India,"Punjab Cricket Association Stadium, Mohali",4,India
+478,28.2,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,117,India,"Punjab Cricket Association Stadium, Mohali",4,India
+479,28.3,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,117,India,"Punjab Cricket Association Stadium, Mohali",4,India
+480,28.4,1,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,118,India,"Punjab Cricket Association Stadium, Mohali",4,India
+481,28.5,0,A Nehra,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,118,India,"Punjab Cricket Association Stadium, Mohali",4,India
+482,28.6,0,A Nehra,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,118,India,"Punjab Cricket Association Stadium, Mohali",4,India
+483,29.1,4,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,122,India,"Punjab Cricket Association Stadium, Mohali",4,India
+484,29.2,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,122,India,"Punjab Cricket Association Stadium, Mohali",4,India
+485,29.3,6,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,128,India,"Punjab Cricket Association Stadium, Mohali",4,India
+486,29.4,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,129,India,"Punjab Cricket Association Stadium, Mohali",4,India
+487,29.5,0,Yuvraj Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,129,India,"Punjab Cricket Association Stadium, Mohali",4,India
+488,29.6,1,Yuvraj Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,130,India,"Punjab Cricket Association Stadium, Mohali",4,India
+489,30.1,0,A Nehra,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,130,India,"Punjab Cricket Association Stadium, Mohali",4,India
+490,30.2,1,A Nehra,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,131,India,"Punjab Cricket Association Stadium, Mohali",4,India
+491,30.3,1,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",4,India
+492,30.4,0,A Nehra,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",4,India
+493,30.5,0,A Nehra,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",4,India
+494,30.6,0,A Nehra,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",4,India
+495,31.1,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,132,India,"Punjab Cricket Association Stadium, Mohali",4,India
+496,31.2,2,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,134,India,"Punjab Cricket Association Stadium, Mohali",4,India
+497,31.3,6,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,140,India,"Punjab Cricket Association Stadium, Mohali",4,India
+498,31.4,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",4,India
+499,31.5,0,Yuvraj Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",4,India
+500,31.6,0,Yuvraj Singh,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,141,India,"Punjab Cricket Association Stadium, Mohali",4,India
+501,32.1,1,MM Patel,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",4,India
+502,32.2,0,MM Patel,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",4,India
+503,32.3,0,MM Patel,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",4,India
+504,32.4,0,MM Patel,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",4,India
+505,32.5,0,MM Patel,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",4,India
+506,32.6,0,MM Patel,2011-03-30,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",4,India
+507,33.1,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",5,India
+508,33.2,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",5,India
+509,33.3,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,142,India,"Punjab Cricket Association Stadium, Mohali",5,India
+510,33.4,1,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,143,India,"Punjab Cricket Association Stadium, Mohali",5,India
+511,33.5,1,Harbhajan Singh,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,144,India,"Punjab Cricket Association Stadium, Mohali",5,India
+512,33.6,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,144,India,"Punjab Cricket Association Stadium, Mohali",5,India
+513,34.1,0,MM Patel,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,144,India,"Punjab Cricket Association Stadium, Mohali",5,India
+514,34.2,0,MM Patel,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,144,India,"Punjab Cricket Association Stadium, Mohali",5,India
+515,34.3,0,MM Patel,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,144,India,"Punjab Cricket Association Stadium, Mohali",5,India
+516,34.4,0,MM Patel,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,144,India,"Punjab Cricket Association Stadium, Mohali",5,India
+517,34.5,1,MM Patel,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,145,India,"Punjab Cricket Association Stadium, Mohali",5,India
+518,34.6,1,MM Patel,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,146,India,"Punjab Cricket Association Stadium, Mohali",5,India
+519,35.1,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,146,India,"Punjab Cricket Association Stadium, Mohali",5,India
+520,35.2,0,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,146,India,"Punjab Cricket Association Stadium, Mohali",5,India
+521,35.3,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,147,India,"Punjab Cricket Association Stadium, Mohali",5,India
+522,35.4,0,Yuvraj Singh,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,147,India,"Punjab Cricket Association Stadium, Mohali",5,India
+523,35.5,0,Yuvraj Singh,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,147,India,"Punjab Cricket Association Stadium, Mohali",5,India
+524,35.6,1,Yuvraj Singh,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,148,India,"Punjab Cricket Association Stadium, Mohali",5,India
+525,36.1,1,MM Patel,2011-03-30,2nd,Abdul Razzaq,0,,Misbah-ul-Haq,0,India,Pakistan,149,India,"Punjab Cricket Association Stadium, Mohali",5,India
+526,36.2,0,MM Patel,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",5,India
+527,36.3,0,MM Patel,2011-03-30,2nd,Misbah-ul-Haq,0,,Abdul Razzaq,0,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",6,India
+528,36.4,0,MM Patel,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,150,India,"Punjab Cricket Association Stadium, Mohali",6,India
+529,36.5,1,MM Patel,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,151,India,"Punjab Cricket Association Stadium, Mohali",6,India
+530,36.6,0,MM Patel,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,151,India,"Punjab Cricket Association Stadium, Mohali",6,India
+531,36.7,1,MM Patel,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,152,India,"Punjab Cricket Association Stadium, Mohali",6,India
+532,37.1,2,Yuvraj Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,154,India,"Punjab Cricket Association Stadium, Mohali",6,India
+533,37.2,0,Yuvraj Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,154,India,"Punjab Cricket Association Stadium, Mohali",6,India
+534,37.3,1,Yuvraj Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,155,India,"Punjab Cricket Association Stadium, Mohali",6,India
+535,37.4,4,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,159,India,"Punjab Cricket Association Stadium, Mohali",6,India
+536,37.5,2,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,161,India,"Punjab Cricket Association Stadium, Mohali",6,India
+537,37.6,2,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,163,India,"Punjab Cricket Association Stadium, Mohali",6,India
+538,38.1,0,Z Khan,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,163,India,"Punjab Cricket Association Stadium, Mohali",6,India
+539,38.2,0,Z Khan,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,163,India,"Punjab Cricket Association Stadium, Mohali",6,India
+540,38.3,1,Z Khan,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,164,India,"Punjab Cricket Association Stadium, Mohali",6,India
+541,38.4,0,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,165,India,"Punjab Cricket Association Stadium, Mohali",6,India
+542,38.5,2,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,167,India,"Punjab Cricket Association Stadium, Mohali",6,India
+543,38.6,0,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,167,India,"Punjab Cricket Association Stadium, Mohali",6,India
+544,38.7,1,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,168,India,"Punjab Cricket Association Stadium, Mohali",6,India
+545,39.1,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,169,India,"Punjab Cricket Association Stadium, Mohali",6,India
+546,39.2,4,Yuvraj Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,173,India,"Punjab Cricket Association Stadium, Mohali",6,India
+547,39.3,1,Yuvraj Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,174,India,"Punjab Cricket Association Stadium, Mohali",6,India
+548,39.4,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,175,India,"Punjab Cricket Association Stadium, Mohali",6,India
+549,39.5,1,Yuvraj Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,176,India,"Punjab Cricket Association Stadium, Mohali",6,India
+550,39.6,1,Yuvraj Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,177,India,"Punjab Cricket Association Stadium, Mohali",6,India
+551,40.1,1,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,178,India,"Punjab Cricket Association Stadium, Mohali",6,India
+552,40.2,1,Z Khan,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,179,India,"Punjab Cricket Association Stadium, Mohali",6,India
+553,40.3,0,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,179,India,"Punjab Cricket Association Stadium, Mohali",6,India
+554,40.4,1,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,180,India,"Punjab Cricket Association Stadium, Mohali",6,India
+555,40.5,0,Z Khan,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,180,India,"Punjab Cricket Association Stadium, Mohali",6,India
+556,40.6,1,Z Khan,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,181,India,"Punjab Cricket Association Stadium, Mohali",6,India
+557,41.1,0,Harbhajan Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,181,India,"Punjab Cricket Association Stadium, Mohali",6,India
+558,41.2,1,Harbhajan Singh,2011-03-30,2nd,Shahid Afridi,0,,Misbah-ul-Haq,0,India,Pakistan,182,India,"Punjab Cricket Association Stadium, Mohali",6,India
+559,41.3,2,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,184,India,"Punjab Cricket Association Stadium, Mohali",6,India
+560,41.4,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,184,India,"Punjab Cricket Association Stadium, Mohali",6,India
+561,41.5,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Shahid Afridi,0,India,Pakistan,184,India,"Punjab Cricket Association Stadium, Mohali",7,India
+562,41.6,0,Harbhajan Singh,2011-03-30,2nd,Wahab Riaz,0,,Misbah-ul-Haq,0,India,Pakistan,184,India,"Punjab Cricket Association Stadium, Mohali",7,India
+563,42.1,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,184,India,"Punjab Cricket Association Stadium, Mohali",7,India
+564,42.2,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,184,India,"Punjab Cricket Association Stadium, Mohali",7,India
+565,42.3,1,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,185,India,"Punjab Cricket Association Stadium, Mohali",7,India
+566,42.4,1,A Nehra,2011-03-30,2nd,Wahab Riaz,0,,Misbah-ul-Haq,0,India,Pakistan,186,India,"Punjab Cricket Association Stadium, Mohali",7,India
+567,42.5,4,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,190,India,"Punjab Cricket Association Stadium, Mohali",7,India
+568,42.6,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,191,India,"Punjab Cricket Association Stadium, Mohali",7,India
+569,42.7,1,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,192,India,"Punjab Cricket Association Stadium, Mohali",7,India
+570,43.1,1,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,193,India,"Punjab Cricket Association Stadium, Mohali",7,India
+571,43.2,4,Harbhajan Singh,2011-03-30,2nd,Wahab Riaz,0,,Misbah-ul-Haq,0,India,Pakistan,197,India,"Punjab Cricket Association Stadium, Mohali",7,India
+572,43.3,1,Harbhajan Singh,2011-03-30,2nd,Wahab Riaz,0,,Misbah-ul-Haq,0,India,Pakistan,198,India,"Punjab Cricket Association Stadium, Mohali",7,India
+573,43.4,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,198,India,"Punjab Cricket Association Stadium, Mohali",7,India
+574,43.5,0,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,198,India,"Punjab Cricket Association Stadium, Mohali",7,India
+575,43.6,1,Harbhajan Singh,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",7,India
+576,44.1,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",7,India
+577,44.2,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",7,India
+578,44.3,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",7,India
+579,44.4,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",7,India
+580,44.5,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Wahab Riaz,0,India,Pakistan,199,India,"Punjab Cricket Association Stadium, Mohali",8,India
+581,44.6,1,A Nehra,2011-03-30,2nd,Umar Gul,0,,Misbah-ul-Haq,0,India,Pakistan,200,India,"Punjab Cricket Association Stadium, Mohali",8,India
+582,45.1,4,Z Khan,2011-03-30,2nd,Umar Gul,0,,Misbah-ul-Haq,0,India,Pakistan,204,India,"Punjab Cricket Association Stadium, Mohali",8,India
+583,45.2,1,Z Khan,2011-03-30,2nd,Umar Gul,0,,Misbah-ul-Haq,0,India,Pakistan,205,India,"Punjab Cricket Association Stadium, Mohali",8,India
+584,45.3,1,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Gul,0,India,Pakistan,206,India,"Punjab Cricket Association Stadium, Mohali",8,India
+585,45.4,1,Z Khan,2011-03-30,2nd,Umar Gul,0,,Misbah-ul-Haq,0,India,Pakistan,207,India,"Punjab Cricket Association Stadium, Mohali",8,India
+586,45.5,1,Z Khan,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Gul,0,India,Pakistan,208,India,"Punjab Cricket Association Stadium, Mohali",8,India
+587,45.6,0,Z Khan,2011-03-30,2nd,Umar Gul,0,,Misbah-ul-Haq,0,India,Pakistan,208,India,"Punjab Cricket Association Stadium, Mohali",8,India
+588,46.1,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Umar Gul,0,India,Pakistan,208,India,"Punjab Cricket Association Stadium, Mohali",9,India
+589,46.2,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Saeed Ajmal,0,India,Pakistan,208,India,"Punjab Cricket Association Stadium, Mohali",9,India
+590,46.3,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Saeed Ajmal,0,India,Pakistan,208,India,"Punjab Cricket Association Stadium, Mohali",9,India
+591,46.4,1,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Saeed Ajmal,0,India,Pakistan,209,India,"Punjab Cricket Association Stadium, Mohali",9,India
+592,46.5,1,A Nehra,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,210,India,"Punjab Cricket Association Stadium, Mohali",9,India
+593,46.6,0,A Nehra,2011-03-30,2nd,Misbah-ul-Haq,0,,Saeed Ajmal,0,India,Pakistan,210,India,"Punjab Cricket Association Stadium, Mohali",9,India
+594,47.1,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,215,India,"Punjab Cricket Association Stadium, Mohali",9,India
+595,47.2,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,215,India,"Punjab Cricket Association Stadium, Mohali",9,India
+596,47.3,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,215,India,"Punjab Cricket Association Stadium, Mohali",9,India
+597,47.4,4,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,219,India,"Punjab Cricket Association Stadium, Mohali",9,India
+598,47.5,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,219,India,"Punjab Cricket Association Stadium, Mohali",9,India
+599,47.6,4,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,223,India,"Punjab Cricket Association Stadium, Mohali",9,India
+600,47.7,1,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,224,India,"Punjab Cricket Association Stadium, Mohali",9,India
+601,48.1,0,MM Patel,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,224,India,"Punjab Cricket Association Stadium, Mohali",9,India
+602,48.2,6,MM Patel,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,230,India,"Punjab Cricket Association Stadium, Mohali",9,India
+603,48.3,0,MM Patel,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,230,India,"Punjab Cricket Association Stadium, Mohali",9,India
+604,48.4,0,MM Patel,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,230,India,"Punjab Cricket Association Stadium, Mohali",9,India
+605,48.5,1,MM Patel,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",9,India
+606,48.6,0,MM Patel,2011-03-30,2nd,Misbah-ul-Haq,0,,Saeed Ajmal,0,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",9,India
+607,49.1,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",9,India
+608,49.2,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",9,India
+609,49.3,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",9,India
+610,49.4,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",9,India
+611,49.5,0,Z Khan,2011-03-30,2nd,Saeed Ajmal,0,,Misbah-ul-Haq,0,India,Pakistan,231,India,"Punjab Cricket Association Stadium, Mohali",10,India

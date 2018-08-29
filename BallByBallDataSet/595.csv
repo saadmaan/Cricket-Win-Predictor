@@ -1,0 +1,528 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Z Khan,2011-01-12,1st,HM Amla,0,,GC Smith,0,South Africa,India,2,South Africa,Kingsmead,0,South Africa
+1,0.2,0,Z Khan,2011-01-12,1st,GC Smith,0,,HM Amla,0,South Africa,India,2,South Africa,Kingsmead,0,South Africa
+2,0.3,0,Z Khan,2011-01-12,1st,GC Smith,0,,HM Amla,0,South Africa,India,2,South Africa,Kingsmead,0,South Africa
+3,0.4,1,Z Khan,2011-01-12,1st,GC Smith,0,,HM Amla,1,South Africa,India,3,South Africa,Kingsmead,0,South Africa
+4,0.5,0,Z Khan,2011-01-12,1st,HM Amla,1,,GC Smith,0,South Africa,India,3,South Africa,Kingsmead,0,South Africa
+5,0.6,0,Z Khan,2011-01-12,1st,HM Amla,1,,GC Smith,0,South Africa,India,3,South Africa,Kingsmead,0,South Africa
+6,0.7,0,Z Khan,2011-01-12,1st,HM Amla,1,,GC Smith,0,South Africa,India,3,South Africa,Kingsmead,0,South Africa
+7,1.1,4,A Nehra,2011-01-12,1st,GC Smith,0,,HM Amla,5,South Africa,India,7,South Africa,Kingsmead,0,South Africa
+8,1.2,0,A Nehra,2011-01-12,1st,GC Smith,0,,HM Amla,5,South Africa,India,8,South Africa,Kingsmead,0,South Africa
+9,1.3,1,A Nehra,2011-01-12,1st,GC Smith,0,,HM Amla,6,South Africa,India,9,South Africa,Kingsmead,0,South Africa
+10,1.4,4,A Nehra,2011-01-12,1st,HM Amla,6,,GC Smith,4,South Africa,India,13,South Africa,Kingsmead,0,South Africa
+11,1.5,0,A Nehra,2011-01-12,1st,HM Amla,6,,GC Smith,4,South Africa,India,13,South Africa,Kingsmead,0,South Africa
+12,1.6,4,A Nehra,2011-01-12,1st,HM Amla,6,,GC Smith,8,South Africa,India,17,South Africa,Kingsmead,0,South Africa
+13,1.7,0,A Nehra,2011-01-12,1st,HM Amla,6,,GC Smith,8,South Africa,India,17,South Africa,Kingsmead,0,South Africa
+14,2.1,1,Z Khan,2011-01-12,1st,GC Smith,8,,HM Amla,7,South Africa,India,18,South Africa,Kingsmead,0,South Africa
+15,2.2,0,Z Khan,2011-01-12,1st,HM Amla,7,,GC Smith,8,South Africa,India,18,South Africa,Kingsmead,0,South Africa
+16,2.3,0,Z Khan,2011-01-12,1st,HM Amla,7,,GC Smith,8,South Africa,India,18,South Africa,Kingsmead,0,South Africa
+17,2.4,1,Z Khan,2011-01-12,1st,HM Amla,7,,GC Smith,9,South Africa,India,19,South Africa,Kingsmead,0,South Africa
+18,2.5,0,Z Khan,2011-01-12,1st,GC Smith,9,,HM Amla,7,South Africa,India,19,South Africa,Kingsmead,0,South Africa
+19,2.6,0,Z Khan,2011-01-12,1st,GC Smith,9,,HM Amla,7,South Africa,India,19,South Africa,Kingsmead,0,South Africa
+20,3.1,2,A Nehra,2011-01-12,1st,HM Amla,7,,GC Smith,11,South Africa,India,21,South Africa,Kingsmead,0,South Africa
+21,3.2,0,A Nehra,2011-01-12,1st,HM Amla,7,,GC Smith,11,South Africa,India,21,South Africa,Kingsmead,0,South Africa
+22,3.3,0,A Nehra,2011-01-12,1st,HM Amla,7,,GC Smith,11,South Africa,India,21,South Africa,Kingsmead,0,South Africa
+23,3.4,0,A Nehra,2011-01-12,1st,HM Amla,7,,GC Smith,11,South Africa,India,21,South Africa,Kingsmead,0,South Africa
+24,3.5,0,A Nehra,2011-01-12,1st,HM Amla,7,GC Smith,GC Smith,11,South Africa,India,21,South Africa,Kingsmead,1,South Africa
+25,3.6,1,A Nehra,2011-01-12,1st,CA Ingram,0,,HM Amla,8,South Africa,India,22,South Africa,Kingsmead,1,South Africa
+26,4.1,0,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,8,South Africa,India,22,South Africa,Kingsmead,1,South Africa
+27,4.2,0,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,8,South Africa,India,22,South Africa,Kingsmead,1,South Africa
+28,4.3,4,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,12,South Africa,India,26,South Africa,Kingsmead,1,South Africa
+29,4.4,3,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,15,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+30,4.5,0,Z Khan,2011-01-12,1st,HM Amla,15,,CA Ingram,0,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+31,4.6,0,Z Khan,2011-01-12,1st,HM Amla,15,,CA Ingram,0,South Africa,India,29,South Africa,Kingsmead,1,South Africa
+32,5.1,4,A Nehra,2011-01-12,1st,CA Ingram,0,,HM Amla,19,South Africa,India,33,South Africa,Kingsmead,1,South Africa
+33,5.2,4,A Nehra,2011-01-12,1st,CA Ingram,0,,HM Amla,23,South Africa,India,37,South Africa,Kingsmead,1,South Africa
+34,5.3,4,A Nehra,2011-01-12,1st,CA Ingram,0,,HM Amla,27,South Africa,India,41,South Africa,Kingsmead,1,South Africa
+35,5.4,0,A Nehra,2011-01-12,1st,CA Ingram,0,,HM Amla,27,South Africa,India,41,South Africa,Kingsmead,1,South Africa
+36,5.5,3,A Nehra,2011-01-12,1st,CA Ingram,0,,HM Amla,30,South Africa,India,44,South Africa,Kingsmead,1,South Africa
+37,5.6,0,A Nehra,2011-01-12,1st,HM Amla,30,,CA Ingram,0,South Africa,India,44,South Africa,Kingsmead,1,South Africa
+38,6.1,0,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,30,South Africa,India,48,South Africa,Kingsmead,1,South Africa
+39,6.2,0,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,30,South Africa,India,48,South Africa,Kingsmead,1,South Africa
+40,6.3,0,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,30,South Africa,India,48,South Africa,Kingsmead,1,South Africa
+41,6.4,4,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,34,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+42,6.5,0,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,34,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+43,6.6,0,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,34,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+44,7.1,0,MM Patel,2011-01-12,1st,HM Amla,34,,CA Ingram,0,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+45,7.2,0,MM Patel,2011-01-12,1st,HM Amla,34,,CA Ingram,0,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+46,7.3,0,MM Patel,2011-01-12,1st,HM Amla,34,,CA Ingram,0,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+47,7.4,0,MM Patel,2011-01-12,1st,HM Amla,34,,CA Ingram,0,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+48,7.5,0,MM Patel,2011-01-12,1st,HM Amla,34,,CA Ingram,0,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+49,7.6,0,MM Patel,2011-01-12,1st,HM Amla,34,,CA Ingram,0,South Africa,India,52,South Africa,Kingsmead,1,South Africa
+50,8.1,1,Z Khan,2011-01-12,1st,CA Ingram,0,,HM Amla,35,South Africa,India,53,South Africa,Kingsmead,1,South Africa
+51,8.2,0,Z Khan,2011-01-12,1st,HM Amla,35,,CA Ingram,0,South Africa,India,53,South Africa,Kingsmead,1,South Africa
+52,8.3,0,Z Khan,2011-01-12,1st,HM Amla,35,,CA Ingram,0,South Africa,India,53,South Africa,Kingsmead,1,South Africa
+53,8.4,0,Z Khan,2011-01-12,1st,HM Amla,35,,CA Ingram,0,South Africa,India,53,South Africa,Kingsmead,1,South Africa
+54,8.5,1,Z Khan,2011-01-12,1st,HM Amla,35,,CA Ingram,1,South Africa,India,54,South Africa,Kingsmead,1,South Africa
+55,8.6,0,Z Khan,2011-01-12,1st,CA Ingram,1,,HM Amla,35,South Africa,India,54,South Africa,Kingsmead,1,South Africa
+56,9.1,1,MM Patel,2011-01-12,1st,HM Amla,35,,CA Ingram,2,South Africa,India,55,South Africa,Kingsmead,1,South Africa
+57,9.2,3,MM Patel,2011-01-12,1st,CA Ingram,2,,HM Amla,38,South Africa,India,58,South Africa,Kingsmead,1,South Africa
+58,9.3,0,MM Patel,2011-01-12,1st,HM Amla,38,,CA Ingram,2,South Africa,India,58,South Africa,Kingsmead,1,South Africa
+59,9.4,1,MM Patel,2011-01-12,1st,HM Amla,38,,CA Ingram,3,South Africa,India,59,South Africa,Kingsmead,1,South Africa
+60,9.5,0,MM Patel,2011-01-12,1st,CA Ingram,3,,HM Amla,38,South Africa,India,59,South Africa,Kingsmead,1,South Africa
+61,9.6,4,MM Patel,2011-01-12,1st,CA Ingram,3,,HM Amla,42,South Africa,India,63,South Africa,Kingsmead,1,South Africa
+62,10.1,0,Z Khan,2011-01-12,1st,HM Amla,42,,CA Ingram,3,South Africa,India,63,South Africa,Kingsmead,1,South Africa
+63,10.2,1,Z Khan,2011-01-12,1st,HM Amla,42,,CA Ingram,4,South Africa,India,64,South Africa,Kingsmead,1,South Africa
+64,10.3,0,Z Khan,2011-01-12,1st,CA Ingram,4,,HM Amla,42,South Africa,India,64,South Africa,Kingsmead,1,South Africa
+65,10.4,1,Z Khan,2011-01-12,1st,CA Ingram,4,,HM Amla,43,South Africa,India,65,South Africa,Kingsmead,1,South Africa
+66,10.5,0,Z Khan,2011-01-12,1st,HM Amla,43,,CA Ingram,4,South Africa,India,65,South Africa,Kingsmead,1,South Africa
+67,10.6,0,Z Khan,2011-01-12,1st,HM Amla,43,,CA Ingram,4,South Africa,India,65,South Africa,Kingsmead,1,South Africa
+68,11.1,1,MM Patel,2011-01-12,1st,CA Ingram,4,,HM Amla,44,South Africa,India,66,South Africa,Kingsmead,1,South Africa
+69,11.2,0,MM Patel,2011-01-12,1st,HM Amla,44,,CA Ingram,4,South Africa,India,66,South Africa,Kingsmead,1,South Africa
+70,11.3,1,MM Patel,2011-01-12,1st,HM Amla,44,,CA Ingram,5,South Africa,India,67,South Africa,Kingsmead,1,South Africa
+71,11.4,4,MM Patel,2011-01-12,1st,CA Ingram,5,,HM Amla,48,South Africa,India,71,South Africa,Kingsmead,1,South Africa
+72,11.5,1,MM Patel,2011-01-12,1st,CA Ingram,5,,HM Amla,49,South Africa,India,72,South Africa,Kingsmead,1,South Africa
+73,11.6,0,MM Patel,2011-01-12,1st,HM Amla,49,CA Ingram,CA Ingram,5,South Africa,India,72,South Africa,Kingsmead,2,South Africa
+74,12.1,4,A Nehra,2011-01-12,1st,HM Amla,49,,AB de Villiers,4,South Africa,India,76,South Africa,Kingsmead,2,South Africa
+75,12.2,0,A Nehra,2011-01-12,1st,HM Amla,49,,AB de Villiers,4,South Africa,India,76,South Africa,Kingsmead,2,South Africa
+76,12.3,0,A Nehra,2011-01-12,1st,HM Amla,49,,AB de Villiers,4,South Africa,India,76,South Africa,Kingsmead,2,South Africa
+77,12.4,0,A Nehra,2011-01-12,1st,HM Amla,49,,AB de Villiers,4,South Africa,India,76,South Africa,Kingsmead,2,South Africa
+78,12.5,4,A Nehra,2011-01-12,1st,HM Amla,49,,AB de Villiers,8,South Africa,India,80,South Africa,Kingsmead,2,South Africa
+79,12.6,0,A Nehra,2011-01-12,1st,HM Amla,49,,AB de Villiers,8,South Africa,India,80,South Africa,Kingsmead,2,South Africa
+80,13.1,1,MM Patel,2011-01-12,1st,AB de Villiers,8,,HM Amla,50,South Africa,India,81,South Africa,Kingsmead,2,South Africa
+81,13.2,1,MM Patel,2011-01-12,1st,HM Amla,50,,AB de Villiers,9,South Africa,India,82,South Africa,Kingsmead,2,South Africa
+82,13.3,0,MM Patel,2011-01-12,1st,AB de Villiers,9,HM Amla,HM Amla,50,South Africa,India,82,South Africa,Kingsmead,3,South Africa
+83,13.4,0,MM Patel,2011-01-12,1st,JP Duminy,0,,AB de Villiers,9,South Africa,India,82,South Africa,Kingsmead,3,South Africa
+84,13.5,0,MM Patel,2011-01-12,1st,JP Duminy,0,,AB de Villiers,9,South Africa,India,82,South Africa,Kingsmead,3,South Africa
+85,13.6,0,MM Patel,2011-01-12,1st,JP Duminy,0,,AB de Villiers,9,South Africa,India,82,South Africa,Kingsmead,3,South Africa
+86,14.1,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,9,,JP Duminy,1,South Africa,India,83,South Africa,Kingsmead,3,South Africa
+87,14.2,0,Harbhajan Singh,2011-01-12,1st,JP Duminy,1,,AB de Villiers,9,South Africa,India,83,South Africa,Kingsmead,3,South Africa
+88,14.3,0,Harbhajan Singh,2011-01-12,1st,JP Duminy,1,,AB de Villiers,9,South Africa,India,83,South Africa,Kingsmead,3,South Africa
+89,14.4,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,1,,AB de Villiers,10,South Africa,India,84,South Africa,Kingsmead,3,South Africa
+90,14.5,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,10,,JP Duminy,1,South Africa,India,84,South Africa,Kingsmead,3,South Africa
+91,14.6,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,10,,JP Duminy,1,South Africa,India,84,South Africa,Kingsmead,3,South Africa
+92,15.1,0,MM Patel,2011-01-12,1st,JP Duminy,1,,AB de Villiers,10,South Africa,India,84,South Africa,Kingsmead,3,South Africa
+93,15.2,1,MM Patel,2011-01-12,1st,JP Duminy,1,,AB de Villiers,11,South Africa,India,85,South Africa,Kingsmead,3,South Africa
+94,15.3,0,MM Patel,2011-01-12,1st,AB de Villiers,11,,JP Duminy,1,South Africa,India,85,South Africa,Kingsmead,3,South Africa
+95,15.4,0,MM Patel,2011-01-12,1st,AB de Villiers,11,,JP Duminy,1,South Africa,India,85,South Africa,Kingsmead,3,South Africa
+96,15.5,2,MM Patel,2011-01-12,1st,AB de Villiers,11,,JP Duminy,3,South Africa,India,87,South Africa,Kingsmead,3,South Africa
+97,15.6,1,MM Patel,2011-01-12,1st,AB de Villiers,11,,JP Duminy,4,South Africa,India,88,South Africa,Kingsmead,3,South Africa
+98,16.1,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,11,,JP Duminy,4,South Africa,India,88,South Africa,Kingsmead,3,South Africa
+99,16.2,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,11,,JP Duminy,4,South Africa,India,88,South Africa,Kingsmead,3,South Africa
+100,16.3,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,11,,JP Duminy,4,South Africa,India,88,South Africa,Kingsmead,3,South Africa
+101,16.4,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,11,,JP Duminy,5,South Africa,India,89,South Africa,Kingsmead,3,South Africa
+102,16.5,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,5,,AB de Villiers,12,South Africa,India,90,South Africa,Kingsmead,3,South Africa
+103,16.6,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,12,,JP Duminy,6,South Africa,India,91,South Africa,Kingsmead,3,South Africa
+104,17.1,1,MM Patel,2011-01-12,1st,AB de Villiers,12,,JP Duminy,7,South Africa,India,92,South Africa,Kingsmead,3,South Africa
+105,17.2,0,MM Patel,2011-01-12,1st,JP Duminy,7,,AB de Villiers,12,South Africa,India,92,South Africa,Kingsmead,3,South Africa
+106,17.3,2,MM Patel,2011-01-12,1st,JP Duminy,7,,AB de Villiers,14,South Africa,India,94,South Africa,Kingsmead,3,South Africa
+107,17.4,1,MM Patel,2011-01-12,1st,JP Duminy,7,,AB de Villiers,15,South Africa,India,95,South Africa,Kingsmead,3,South Africa
+108,17.5,2,MM Patel,2011-01-12,1st,AB de Villiers,15,,JP Duminy,9,South Africa,India,97,South Africa,Kingsmead,3,South Africa
+109,17.6,0,MM Patel,2011-01-12,1st,AB de Villiers,15,,JP Duminy,9,South Africa,India,97,South Africa,Kingsmead,3,South Africa
+110,18.1,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,9,,AB de Villiers,16,South Africa,India,98,South Africa,Kingsmead,3,South Africa
+111,18.2,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,9,South Africa,India,98,South Africa,Kingsmead,3,South Africa
+112,18.3,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,9,South Africa,India,98,South Africa,Kingsmead,3,South Africa
+113,18.4,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,9,South Africa,India,98,South Africa,Kingsmead,3,South Africa
+114,18.5,2,Harbhajan Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,11,South Africa,India,100,South Africa,Kingsmead,3,South Africa
+115,18.6,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,12,South Africa,India,101,South Africa,Kingsmead,3,South Africa
+116,19.1,2,Yuvraj Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,14,South Africa,India,103,South Africa,Kingsmead,3,South Africa
+117,19.2,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,14,South Africa,India,103,South Africa,Kingsmead,3,South Africa
+118,19.3,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,14,South Africa,India,103,South Africa,Kingsmead,3,South Africa
+119,19.4,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,16,,JP Duminy,15,South Africa,India,104,South Africa,Kingsmead,3,South Africa
+120,19.5,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,15,,AB de Villiers,17,South Africa,India,105,South Africa,Kingsmead,3,South Africa
+121,19.6,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,17,,JP Duminy,15,South Africa,India,105,South Africa,Kingsmead,3,South Africa
+122,20.1,1,RG Sharma,2011-01-12,1st,JP Duminy,15,,AB de Villiers,18,South Africa,India,106,South Africa,Kingsmead,3,South Africa
+123,20.2,1,RG Sharma,2011-01-12,1st,AB de Villiers,18,,JP Duminy,16,South Africa,India,107,South Africa,Kingsmead,3,South Africa
+124,20.3,1,RG Sharma,2011-01-12,1st,JP Duminy,16,,AB de Villiers,19,South Africa,India,108,South Africa,Kingsmead,3,South Africa
+125,20.4,0,RG Sharma,2011-01-12,1st,AB de Villiers,19,,JP Duminy,16,South Africa,India,108,South Africa,Kingsmead,3,South Africa
+126,20.5,1,RG Sharma,2011-01-12,1st,AB de Villiers,19,,JP Duminy,17,South Africa,India,109,South Africa,Kingsmead,3,South Africa
+127,20.6,0,RG Sharma,2011-01-12,1st,JP Duminy,17,,AB de Villiers,19,South Africa,India,109,South Africa,Kingsmead,3,South Africa
+128,21.1,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,19,,JP Duminy,18,South Africa,India,110,South Africa,Kingsmead,3,South Africa
+129,21.2,0,Harbhajan Singh,2011-01-12,1st,JP Duminy,18,,AB de Villiers,19,South Africa,India,110,South Africa,Kingsmead,3,South Africa
+130,21.3,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,18,,AB de Villiers,20,South Africa,India,111,South Africa,Kingsmead,3,South Africa
+131,21.4,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,20,,JP Duminy,19,South Africa,India,112,South Africa,Kingsmead,3,South Africa
+132,21.5,0,Harbhajan Singh,2011-01-12,1st,JP Duminy,19,,AB de Villiers,20,South Africa,India,112,South Africa,Kingsmead,3,South Africa
+133,21.6,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,19,,AB de Villiers,21,South Africa,India,113,South Africa,Kingsmead,3,South Africa
+134,22.1,0,Yuvraj Singh,2011-01-12,1st,JP Duminy,19,,AB de Villiers,21,South Africa,India,113,South Africa,Kingsmead,3,South Africa
+135,22.2,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,19,,AB de Villiers,22,South Africa,India,114,South Africa,Kingsmead,3,South Africa
+136,22.3,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,22,,JP Duminy,19,South Africa,India,114,South Africa,Kingsmead,3,South Africa
+137,22.4,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,22,,JP Duminy,20,South Africa,India,115,South Africa,Kingsmead,3,South Africa
+138,22.5,0,Yuvraj Singh,2011-01-12,1st,JP Duminy,20,,AB de Villiers,22,South Africa,India,115,South Africa,Kingsmead,3,South Africa
+139,22.6,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,20,,AB de Villiers,23,South Africa,India,116,South Africa,Kingsmead,3,South Africa
+140,23.1,3,Harbhajan Singh,2011-01-12,1st,JP Duminy,20,,AB de Villiers,26,South Africa,India,119,South Africa,Kingsmead,3,South Africa
+141,23.2,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,26,,JP Duminy,20,South Africa,India,119,South Africa,Kingsmead,3,South Africa
+142,23.3,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,26,,JP Duminy,21,South Africa,India,120,South Africa,Kingsmead,3,South Africa
+143,23.4,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,21,,AB de Villiers,27,South Africa,India,121,South Africa,Kingsmead,3,South Africa
+144,23.5,2,Harbhajan Singh,2011-01-12,1st,AB de Villiers,27,,JP Duminy,23,South Africa,India,123,South Africa,Kingsmead,3,South Africa
+145,23.6,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,27,,JP Duminy,24,South Africa,India,124,South Africa,Kingsmead,3,South Africa
+146,24.1,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,27,,JP Duminy,25,South Africa,India,125,South Africa,Kingsmead,3,South Africa
+147,24.2,0,Yuvraj Singh,2011-01-12,1st,JP Duminy,25,,AB de Villiers,27,South Africa,India,125,South Africa,Kingsmead,3,South Africa
+148,24.3,2,Yuvraj Singh,2011-01-12,1st,JP Duminy,25,,AB de Villiers,29,South Africa,India,127,South Africa,Kingsmead,3,South Africa
+149,24.4,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,25,,AB de Villiers,30,South Africa,India,128,South Africa,Kingsmead,3,South Africa
+150,24.5,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,30,,JP Duminy,25,South Africa,India,128,South Africa,Kingsmead,3,South Africa
+151,24.6,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,30,,JP Duminy,26,South Africa,India,129,South Africa,Kingsmead,3,South Africa
+152,25.1,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,30,,JP Duminy,27,South Africa,India,130,South Africa,Kingsmead,3,South Africa
+153,25.2,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,27,,AB de Villiers,31,South Africa,India,131,South Africa,Kingsmead,3,South Africa
+154,25.3,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,31,,JP Duminy,28,South Africa,India,132,South Africa,Kingsmead,3,South Africa
+155,25.4,0,Harbhajan Singh,2011-01-12,1st,JP Duminy,28,,AB de Villiers,31,South Africa,India,132,South Africa,Kingsmead,3,South Africa
+156,25.5,6,Harbhajan Singh,2011-01-12,1st,JP Duminy,28,,AB de Villiers,37,South Africa,India,138,South Africa,Kingsmead,3,South Africa
+157,25.6,0,Harbhajan Singh,2011-01-12,1st,JP Duminy,28,,AB de Villiers,37,South Africa,India,138,South Africa,Kingsmead,3,South Africa
+158,26.1,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,37,,JP Duminy,28,South Africa,India,138,South Africa,Kingsmead,3,South Africa
+159,26.2,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,37,,JP Duminy,28,South Africa,India,139,South Africa,Kingsmead,3,South Africa
+160,26.3,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,28,,AB de Villiers,38,South Africa,India,140,South Africa,Kingsmead,3,South Africa
+161,26.4,6,Yuvraj Singh,2011-01-12,1st,AB de Villiers,38,,JP Duminy,34,South Africa,India,146,South Africa,Kingsmead,3,South Africa
+162,26.5,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,38,,JP Duminy,35,South Africa,India,147,South Africa,Kingsmead,3,South Africa
+163,26.6,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,35,,AB de Villiers,39,South Africa,India,148,South Africa,Kingsmead,3,South Africa
+164,27.1,1,MM Patel,2011-01-12,1st,JP Duminy,35,,AB de Villiers,40,South Africa,India,149,South Africa,Kingsmead,3,South Africa
+165,27.2,1,MM Patel,2011-01-12,1st,AB de Villiers,40,,JP Duminy,36,South Africa,India,150,South Africa,Kingsmead,3,South Africa
+166,27.3,4,MM Patel,2011-01-12,1st,JP Duminy,36,,AB de Villiers,44,South Africa,India,154,South Africa,Kingsmead,3,South Africa
+167,27.4,1,MM Patel,2011-01-12,1st,JP Duminy,36,,AB de Villiers,45,South Africa,India,155,South Africa,Kingsmead,3,South Africa
+168,27.5,0,MM Patel,2011-01-12,1st,AB de Villiers,45,,JP Duminy,36,South Africa,India,155,South Africa,Kingsmead,3,South Africa
+169,27.6,1,MM Patel,2011-01-12,1st,AB de Villiers,45,,JP Duminy,37,South Africa,India,156,South Africa,Kingsmead,3,South Africa
+170,28.1,2,Z Khan,2011-01-12,1st,AB de Villiers,45,,JP Duminy,39,South Africa,India,158,South Africa,Kingsmead,3,South Africa
+171,28.2,0,Z Khan,2011-01-12,1st,AB de Villiers,45,,JP Duminy,39,South Africa,India,159,South Africa,Kingsmead,3,South Africa
+172,28.3,1,Z Khan,2011-01-12,1st,JP Duminy,39,,AB de Villiers,46,South Africa,India,160,South Africa,Kingsmead,3,South Africa
+173,28.4,4,Z Khan,2011-01-12,1st,AB de Villiers,46,,JP Duminy,43,South Africa,India,164,South Africa,Kingsmead,3,South Africa
+174,28.5,2,Z Khan,2011-01-12,1st,AB de Villiers,46,,JP Duminy,45,South Africa,India,166,South Africa,Kingsmead,3,South Africa
+175,28.6,1,Z Khan,2011-01-12,1st,AB de Villiers,46,,JP Duminy,46,South Africa,India,167,South Africa,Kingsmead,3,South Africa
+176,29.1,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,46,,JP Duminy,46,South Africa,India,167,South Africa,Kingsmead,3,South Africa
+177,29.2,1,Harbhajan Singh,2011-01-12,1st,AB de Villiers,46,,JP Duminy,47,South Africa,India,168,South Africa,Kingsmead,3,South Africa
+178,29.3,4,Harbhajan Singh,2011-01-12,1st,JP Duminy,47,,AB de Villiers,50,South Africa,India,172,South Africa,Kingsmead,3,South Africa
+179,29.4,0,Harbhajan Singh,2011-01-12,1st,JP Duminy,47,,AB de Villiers,50,South Africa,India,172,South Africa,Kingsmead,3,South Africa
+180,29.5,1,Harbhajan Singh,2011-01-12,1st,JP Duminy,47,,AB de Villiers,51,South Africa,India,173,South Africa,Kingsmead,3,South Africa
+181,29.6,0,Harbhajan Singh,2011-01-12,1st,AB de Villiers,51,,JP Duminy,47,South Africa,India,173,South Africa,Kingsmead,3,South Africa
+182,30.1,0,Z Khan,2011-01-12,1st,JP Duminy,47,,AB de Villiers,51,South Africa,India,174,South Africa,Kingsmead,3,South Africa
+183,30.2,1,Z Khan,2011-01-12,1st,AB de Villiers,51,,JP Duminy,48,South Africa,India,175,South Africa,Kingsmead,3,South Africa
+184,30.3,1,Z Khan,2011-01-12,1st,JP Duminy,48,,AB de Villiers,52,South Africa,India,176,South Africa,Kingsmead,3,South Africa
+185,30.4,0,Z Khan,2011-01-12,1st,AB de Villiers,52,,JP Duminy,48,South Africa,India,177,South Africa,Kingsmead,3,South Africa
+186,30.5,0,Z Khan,2011-01-12,1st,JP Duminy,48,,AB de Villiers,52,South Africa,India,177,South Africa,Kingsmead,3,South Africa
+187,30.6,2,Z Khan,2011-01-12,1st,JP Duminy,48,,AB de Villiers,54,South Africa,India,179,South Africa,Kingsmead,3,South Africa
+188,31.1,0,A Nehra,2011-01-12,1st,AB de Villiers,54,,JP Duminy,48,South Africa,India,180,South Africa,Kingsmead,3,South Africa
+189,31.2,4,A Nehra,2011-01-12,1st,JP Duminy,48,,AB de Villiers,58,South Africa,India,184,South Africa,Kingsmead,3,South Africa
+190,31.3,4,A Nehra,2011-01-12,1st,JP Duminy,48,,AB de Villiers,62,South Africa,India,188,South Africa,Kingsmead,3,South Africa
+191,31.4,4,A Nehra,2011-01-12,1st,JP Duminy,48,,AB de Villiers,66,South Africa,India,192,South Africa,Kingsmead,3,South Africa
+192,31.5,0,A Nehra,2011-01-12,1st,JP Duminy,48,,AB de Villiers,66,South Africa,India,192,South Africa,Kingsmead,3,South Africa
+193,31.6,1,A Nehra,2011-01-12,1st,JP Duminy,48,,AB de Villiers,67,South Africa,India,193,South Africa,Kingsmead,3,South Africa
+194,32.1,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,48,,AB de Villiers,68,South Africa,India,194,South Africa,Kingsmead,3,South Africa
+195,32.2,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,68,,JP Duminy,48,South Africa,India,195,South Africa,Kingsmead,3,South Africa
+196,32.3,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,68,,JP Duminy,49,South Africa,India,196,South Africa,Kingsmead,3,South Africa
+197,32.4,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,49,,AB de Villiers,69,South Africa,India,197,South Africa,Kingsmead,3,South Africa
+198,32.5,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,69,,JP Duminy,50,South Africa,India,198,South Africa,Kingsmead,3,South Africa
+199,32.6,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,50,,AB de Villiers,70,South Africa,India,199,South Africa,Kingsmead,3,South Africa
+200,32.7,0,Yuvraj Singh,2011-01-12,1st,AB de Villiers,70,,JP Duminy,50,South Africa,India,199,South Africa,Kingsmead,3,South Africa
+201,33.1,1,A Nehra,2011-01-12,1st,JP Duminy,50,,AB de Villiers,71,South Africa,India,200,South Africa,Kingsmead,3,South Africa
+202,33.2,1,A Nehra,2011-01-12,1st,AB de Villiers,71,,JP Duminy,51,South Africa,India,201,South Africa,Kingsmead,3,South Africa
+203,33.3,1,A Nehra,2011-01-12,1st,JP Duminy,51,,AB de Villiers,72,South Africa,India,202,South Africa,Kingsmead,3,South Africa
+204,33.4,2,A Nehra,2011-01-12,1st,AB de Villiers,72,,JP Duminy,53,South Africa,India,204,South Africa,Kingsmead,3,South Africa
+205,33.5,1,A Nehra,2011-01-12,1st,AB de Villiers,72,,JP Duminy,54,South Africa,India,205,South Africa,Kingsmead,3,South Africa
+206,33.6,2,A Nehra,2011-01-12,1st,JP Duminy,54,,AB de Villiers,74,South Africa,India,207,South Africa,Kingsmead,3,South Africa
+207,34.1,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,74,,JP Duminy,55,South Africa,India,208,South Africa,Kingsmead,3,South Africa
+208,34.2,0,Yuvraj Singh,2011-01-12,1st,JP Duminy,55,,AB de Villiers,74,South Africa,India,208,South Africa,Kingsmead,3,South Africa
+209,34.3,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,55,,AB de Villiers,75,South Africa,India,209,South Africa,Kingsmead,3,South Africa
+210,34.4,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,75,,JP Duminy,56,South Africa,India,210,South Africa,Kingsmead,3,South Africa
+211,34.5,1,Yuvraj Singh,2011-01-12,1st,JP Duminy,56,,AB de Villiers,76,South Africa,India,211,South Africa,Kingsmead,3,South Africa
+212,34.6,1,Yuvraj Singh,2011-01-12,1st,AB de Villiers,76,,JP Duminy,57,South Africa,India,212,South Africa,Kingsmead,3,South Africa
+213,35.1,1,RG Sharma,2011-01-12,1st,AB de Villiers,76,,JP Duminy,58,South Africa,India,213,South Africa,Kingsmead,3,South Africa
+214,35.2,0,RG Sharma,2011-01-12,1st,JP Duminy,58,AB de Villiers,AB de Villiers,76,South Africa,India,213,South Africa,Kingsmead,4,South Africa
+215,35.3,0,RG Sharma,2011-01-12,1st,JP Duminy,58,,DA Miller,0,South Africa,India,213,South Africa,Kingsmead,4,South Africa
+216,35.4,2,RG Sharma,2011-01-12,1st,JP Duminy,58,,DA Miller,2,South Africa,India,215,South Africa,Kingsmead,4,South Africa
+217,35.5,0,RG Sharma,2011-01-12,1st,JP Duminy,58,,DA Miller,2,South Africa,India,215,South Africa,Kingsmead,4,South Africa
+218,35.6,0,RG Sharma,2011-01-12,1st,JP Duminy,58,,DA Miller,2,South Africa,India,215,South Africa,Kingsmead,4,South Africa
+219,36.1,1,SK Raina,2011-01-12,1st,DA Miller,2,,JP Duminy,59,South Africa,India,216,South Africa,Kingsmead,4,South Africa
+220,36.2,0,SK Raina,2011-01-12,1st,JP Duminy,59,,DA Miller,2,South Africa,India,216,South Africa,Kingsmead,4,South Africa
+221,36.3,1,SK Raina,2011-01-12,1st,JP Duminy,59,,DA Miller,3,South Africa,India,217,South Africa,Kingsmead,4,South Africa
+222,36.4,0,SK Raina,2011-01-12,1st,DA Miller,3,,JP Duminy,59,South Africa,India,217,South Africa,Kingsmead,4,South Africa
+223,36.5,1,SK Raina,2011-01-12,1st,DA Miller,3,,JP Duminy,60,South Africa,India,218,South Africa,Kingsmead,4,South Africa
+224,36.6,2,SK Raina,2011-01-12,1st,JP Duminy,60,,DA Miller,5,South Africa,India,220,South Africa,Kingsmead,4,South Africa
+225,37.1,0,RG Sharma,2011-01-12,1st,DA Miller,5,,JP Duminy,60,South Africa,India,220,South Africa,Kingsmead,4,South Africa
+226,37.2,1,RG Sharma,2011-01-12,1st,DA Miller,5,,JP Duminy,61,South Africa,India,221,South Africa,Kingsmead,4,South Africa
+227,37.3,1,RG Sharma,2011-01-12,1st,JP Duminy,61,,DA Miller,6,South Africa,India,222,South Africa,Kingsmead,4,South Africa
+228,37.4,1,RG Sharma,2011-01-12,1st,DA Miller,6,,JP Duminy,62,South Africa,India,223,South Africa,Kingsmead,4,South Africa
+229,37.5,2,RG Sharma,2011-01-12,1st,JP Duminy,62,,DA Miller,8,South Africa,India,225,South Africa,Kingsmead,4,South Africa
+230,37.6,1,RG Sharma,2011-01-12,1st,JP Duminy,62,,DA Miller,9,South Africa,India,226,South Africa,Kingsmead,4,South Africa
+231,38.1,0,SK Raina,2011-01-12,1st,JP Duminy,62,DA Miller,DA Miller,9,South Africa,India,226,South Africa,Kingsmead,5,South Africa
+232,38.2,1,SK Raina,2011-01-12,1st,JP Duminy,62,,J Botha,1,South Africa,India,227,South Africa,Kingsmead,5,South Africa
+233,38.3,0,SK Raina,2011-01-12,1st,J Botha,1,,JP Duminy,62,South Africa,India,227,South Africa,Kingsmead,5,South Africa
+234,38.4,2,SK Raina,2011-01-12,1st,J Botha,1,,JP Duminy,64,South Africa,India,229,South Africa,Kingsmead,5,South Africa
+235,38.5,0,SK Raina,2011-01-12,1st,J Botha,1,,JP Duminy,64,South Africa,India,229,South Africa,Kingsmead,5,South Africa
+236,38.6,0,SK Raina,2011-01-12,1st,J Botha,1,,JP Duminy,64,South Africa,India,229,South Africa,Kingsmead,5,South Africa
+237,39.1,0,RG Sharma,2011-01-12,1st,JP Duminy,64,,J Botha,1,South Africa,India,229,South Africa,Kingsmead,5,South Africa
+238,39.2,0,RG Sharma,2011-01-12,1st,JP Duminy,64,,J Botha,1,South Africa,India,229,South Africa,Kingsmead,5,South Africa
+239,39.3,1,RG Sharma,2011-01-12,1st,JP Duminy,64,,J Botha,2,South Africa,India,230,South Africa,Kingsmead,5,South Africa
+240,39.4,1,RG Sharma,2011-01-12,1st,J Botha,2,,JP Duminy,65,South Africa,India,231,South Africa,Kingsmead,5,South Africa
+241,39.5,1,RG Sharma,2011-01-12,1st,JP Duminy,65,,J Botha,3,South Africa,India,232,South Africa,Kingsmead,5,South Africa
+242,39.6,1,RG Sharma,2011-01-12,1st,J Botha,3,,JP Duminy,66,South Africa,India,233,South Africa,Kingsmead,5,South Africa
+243,40.1,1,SK Raina,2011-01-12,1st,J Botha,3,,JP Duminy,67,South Africa,India,234,South Africa,Kingsmead,5,South Africa
+244,40.2,1,SK Raina,2011-01-12,1st,JP Duminy,67,,J Botha,4,South Africa,India,235,South Africa,Kingsmead,5,South Africa
+245,40.3,1,SK Raina,2011-01-12,1st,J Botha,4,,JP Duminy,68,South Africa,India,236,South Africa,Kingsmead,5,South Africa
+246,40.4,1,SK Raina,2011-01-12,1st,JP Duminy,68,,J Botha,5,South Africa,India,237,South Africa,Kingsmead,5,South Africa
+247,40.5,2,SK Raina,2011-01-12,1st,J Botha,5,,JP Duminy,70,South Africa,India,239,South Africa,Kingsmead,5,South Africa
+248,40.6,1,SK Raina,2011-01-12,1st,J Botha,5,,JP Duminy,71,South Africa,India,240,South Africa,Kingsmead,5,South Africa
+249,41.1,0,RG Sharma,2011-01-12,1st,J Botha,5,,JP Duminy,71,South Africa,India,240,South Africa,Kingsmead,5,South Africa
+250,41.2,1,RG Sharma,2011-01-12,1st,J Botha,5,,JP Duminy,72,South Africa,India,241,South Africa,Kingsmead,5,South Africa
+251,41.3,1,RG Sharma,2011-01-12,1st,JP Duminy,72,,J Botha,6,South Africa,India,242,South Africa,Kingsmead,5,South Africa
+252,41.4,1,RG Sharma,2011-01-12,1st,J Botha,6,,JP Duminy,73,South Africa,India,243,South Africa,Kingsmead,5,South Africa
+253,41.5,1,RG Sharma,2011-01-12,1st,JP Duminy,73,,J Botha,7,South Africa,India,244,South Africa,Kingsmead,5,South Africa
+254,41.6,0,RG Sharma,2011-01-12,1st,J Botha,7,JP Duminy,JP Duminy,73,South Africa,India,244,South Africa,Kingsmead,6,South Africa
+255,42.1,1,SK Raina,2011-01-12,1st,WD Parnell,0,,J Botha,8,South Africa,India,245,South Africa,Kingsmead,6,South Africa
+256,42.2,1,SK Raina,2011-01-12,1st,J Botha,8,,WD Parnell,1,South Africa,India,246,South Africa,Kingsmead,6,South Africa
+257,42.3,1,SK Raina,2011-01-12,1st,WD Parnell,1,,J Botha,9,South Africa,India,247,South Africa,Kingsmead,6,South Africa
+258,42.4,1,SK Raina,2011-01-12,1st,J Botha,9,,WD Parnell,2,South Africa,India,248,South Africa,Kingsmead,6,South Africa
+259,42.5,2,SK Raina,2011-01-12,1st,WD Parnell,2,,J Botha,11,South Africa,India,250,South Africa,Kingsmead,6,South Africa
+260,42.6,0,SK Raina,2011-01-12,1st,WD Parnell,2,,J Botha,11,South Africa,India,250,South Africa,Kingsmead,6,South Africa
+261,43.1,1,RG Sharma,2011-01-12,1st,J Botha,11,,WD Parnell,3,South Africa,India,251,South Africa,Kingsmead,6,South Africa
+262,43.2,1,RG Sharma,2011-01-12,1st,WD Parnell,3,,J Botha,12,South Africa,India,252,South Africa,Kingsmead,6,South Africa
+263,43.3,0,RG Sharma,2011-01-12,1st,J Botha,12,,WD Parnell,3,South Africa,India,252,South Africa,Kingsmead,6,South Africa
+264,43.4,1,RG Sharma,2011-01-12,1st,J Botha,12,,WD Parnell,4,South Africa,India,253,South Africa,Kingsmead,6,South Africa
+265,43.5,0,RG Sharma,2011-01-12,1st,WD Parnell,4,,J Botha,12,South Africa,India,253,South Africa,Kingsmead,6,South Africa
+266,43.6,1,RG Sharma,2011-01-12,1st,WD Parnell,4,,J Botha,13,South Africa,India,254,South Africa,Kingsmead,6,South Africa
+267,44.1,0,Harbhajan Singh,2011-01-12,1st,WD Parnell,4,,J Botha,13,South Africa,India,254,South Africa,Kingsmead,6,South Africa
+268,44.2,0,Harbhajan Singh,2011-01-12,1st,WD Parnell,4,,J Botha,13,South Africa,India,254,South Africa,Kingsmead,6,South Africa
+269,44.3,2,Harbhajan Singh,2011-01-12,1st,WD Parnell,4,,J Botha,15,South Africa,India,256,South Africa,Kingsmead,6,South Africa
+270,44.4,0,Harbhajan Singh,2011-01-12,1st,WD Parnell,4,,J Botha,15,South Africa,India,256,South Africa,Kingsmead,6,South Africa
+271,44.5,1,Harbhajan Singh,2011-01-12,1st,WD Parnell,4,,J Botha,16,South Africa,India,257,South Africa,Kingsmead,6,South Africa
+272,44.6,0,Harbhajan Singh,2011-01-12,1st,J Botha,16,,WD Parnell,4,South Africa,India,257,South Africa,Kingsmead,6,South Africa
+273,45.1,1,RG Sharma,2011-01-12,1st,WD Parnell,4,,J Botha,17,South Africa,India,258,South Africa,Kingsmead,6,South Africa
+274,45.2,1,RG Sharma,2011-01-12,1st,J Botha,17,,WD Parnell,5,South Africa,India,259,South Africa,Kingsmead,6,South Africa
+275,45.3,1,RG Sharma,2011-01-12,1st,WD Parnell,5,,J Botha,18,South Africa,India,260,South Africa,Kingsmead,6,South Africa
+276,45.4,0,RG Sharma,2011-01-12,1st,J Botha,18,,WD Parnell,5,South Africa,India,260,South Africa,Kingsmead,6,South Africa
+277,45.5,1,RG Sharma,2011-01-12,1st,J Botha,18,,WD Parnell,6,South Africa,India,261,South Africa,Kingsmead,6,South Africa
+278,45.6,1,RG Sharma,2011-01-12,1st,WD Parnell,6,,J Botha,19,South Africa,India,262,South Africa,Kingsmead,6,South Africa
+279,46.1,0,Harbhajan Singh,2011-01-12,1st,WD Parnell,6,,J Botha,19,South Africa,India,262,South Africa,Kingsmead,6,South Africa
+280,46.2,4,Harbhajan Singh,2011-01-12,1st,WD Parnell,6,,J Botha,23,South Africa,India,266,South Africa,Kingsmead,6,South Africa
+281,46.3,0,Harbhajan Singh,2011-01-12,1st,WD Parnell,6,J Botha,J Botha,23,South Africa,India,266,South Africa,Kingsmead,7,South Africa
+282,46.4,1,Harbhajan Singh,2011-01-12,1st,WD Parnell,6,,DW Steyn,1,South Africa,India,267,South Africa,Kingsmead,7,South Africa
+283,46.5,0,Harbhajan Singh,2011-01-12,1st,DW Steyn,1,,WD Parnell,6,South Africa,India,267,South Africa,Kingsmead,7,South Africa
+284,46.6,0,Harbhajan Singh,2011-01-12,1st,DW Steyn,1,,WD Parnell,6,South Africa,India,267,South Africa,Kingsmead,7,South Africa
+285,47.1,1,Z Khan,2011-01-12,1st,WD Parnell,6,,DW Steyn,2,South Africa,India,268,South Africa,Kingsmead,7,South Africa
+286,47.2,1,Z Khan,2011-01-12,1st,DW Steyn,2,,WD Parnell,7,South Africa,India,269,South Africa,Kingsmead,7,South Africa
+287,47.3,0,Z Khan,2011-01-12,1st,WD Parnell,7,,DW Steyn,2,South Africa,India,269,South Africa,Kingsmead,7,South Africa
+288,47.4,1,Z Khan,2011-01-12,1st,WD Parnell,7,,DW Steyn,3,South Africa,India,270,South Africa,Kingsmead,7,South Africa
+289,47.5,1,Z Khan,2011-01-12,1st,DW Steyn,3,,WD Parnell,8,South Africa,India,271,South Africa,Kingsmead,7,South Africa
+290,47.6,1,Z Khan,2011-01-12,1st,WD Parnell,8,,DW Steyn,4,South Africa,India,272,South Africa,Kingsmead,7,South Africa
+291,48.1,0,Harbhajan Singh,2011-01-12,1st,WD Parnell,8,,DW Steyn,4,South Africa,India,272,South Africa,Kingsmead,7,South Africa
+292,48.2,1,Harbhajan Singh,2011-01-12,1st,WD Parnell,8,,DW Steyn,5,South Africa,India,273,South Africa,Kingsmead,7,South Africa
+293,48.3,2,Harbhajan Singh,2011-01-12,1st,DW Steyn,5,,WD Parnell,10,South Africa,India,275,South Africa,Kingsmead,7,South Africa
+294,48.4,6,Harbhajan Singh,2011-01-12,1st,DW Steyn,5,,WD Parnell,16,South Africa,India,281,South Africa,Kingsmead,7,South Africa
+295,48.5,1,Harbhajan Singh,2011-01-12,1st,DW Steyn,5,,WD Parnell,17,South Africa,India,282,South Africa,Kingsmead,7,South Africa
+296,48.6,2,Harbhajan Singh,2011-01-12,1st,WD Parnell,17,,DW Steyn,7,South Africa,India,284,South Africa,Kingsmead,7,South Africa
+297,49.1,1,Z Khan,2011-01-12,1st,DW Steyn,7,,WD Parnell,18,South Africa,India,285,South Africa,Kingsmead,7,South Africa
+298,49.2,0,Z Khan,2011-01-12,1st,WD Parnell,18,DW Steyn,DW Steyn,7,South Africa,India,285,South Africa,Kingsmead,8,South Africa
+299,49.3,1,Z Khan,2011-01-12,1st,M Morkel,0,,WD Parnell,19,South Africa,India,286,South Africa,Kingsmead,8,South Africa
+300,49.4,0,Z Khan,2011-01-12,1st,WD Parnell,19,M Morkel,M Morkel,0,South Africa,India,286,South Africa,Kingsmead,9,South Africa
+301,49.5,1,Z Khan,2011-01-12,1st,WD Parnell,19,,LL Tsotsobe,1,South Africa,India,287,South Africa,Kingsmead,9,South Africa
+302,49.6,2,Z Khan,2011-01-12,1st,LL Tsotsobe,1,,WD Parnell,21,South Africa,India,289,South Africa,Kingsmead,9,South Africa
+303,0.1,0,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,M Vijay,0,South Africa,India,1,South Africa,Kingsmead,0,South Africa
+304,0.2,0,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,M Vijay,0,South Africa,India,1,South Africa,Kingsmead,0,South Africa
+305,0.3,1,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,M Vijay,0,South Africa,India,2,South Africa,Kingsmead,0,South Africa
+306,0.4,1,DW Steyn,2011-01-12,2nd,M Vijay,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Kingsmead,0,South Africa
+307,0.5,0,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,M Vijay,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+308,0.6,0,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,V Kohli,0,South Africa,India,3,South Africa,Kingsmead,1,South Africa
+309,0.7,1,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,V Kohli,0,South Africa,India,4,South Africa,Kingsmead,1,South Africa
+310,1.1,1,LL Tsotsobe,2011-01-12,2nd,SR Tendulkar,0,,V Kohli,0,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+311,1.2,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+312,1.3,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+313,1.4,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+314,1.5,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,5,South Africa,Kingsmead,1,South Africa
+315,1.6,1,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,6,South Africa,Kingsmead,1,South Africa
+316,2.1,2,DW Steyn,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,8,South Africa,Kingsmead,1,South Africa
+317,2.2,1,DW Steyn,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,9,South Africa,Kingsmead,1,South Africa
+318,2.3,0,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,V Kohli,0,South Africa,India,9,South Africa,Kingsmead,1,South Africa
+319,2.4,0,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,V Kohli,0,South Africa,India,9,South Africa,Kingsmead,1,South Africa
+320,2.5,2,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,V Kohli,0,South Africa,India,11,South Africa,Kingsmead,1,South Africa
+321,2.6,0,DW Steyn,2011-01-12,2nd,SR Tendulkar,0,,V Kohli,0,South Africa,India,11,South Africa,Kingsmead,1,South Africa
+322,3.1,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,11,South Africa,Kingsmead,1,South Africa
+323,3.2,2,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,13,South Africa,Kingsmead,1,South Africa
+324,3.3,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,SR Tendulkar,0,South Africa,India,13,South Africa,Kingsmead,2,South Africa
+325,3.4,0,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,13,South Africa,Kingsmead,2,South Africa
+326,3.5,1,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,14,South Africa,Kingsmead,2,South Africa
+327,3.6,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,14,South Africa,Kingsmead,2,South Africa
+328,4.1,0,DW Steyn,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,14,South Africa,Kingsmead,2,South Africa
+329,4.2,1,DW Steyn,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,15,South Africa,Kingsmead,2,South Africa
+330,4.3,0,DW Steyn,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,19,South Africa,Kingsmead,2,South Africa
+331,4.4,1,DW Steyn,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,20,South Africa,Kingsmead,2,South Africa
+332,4.5,0,DW Steyn,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,20,South Africa,Kingsmead,2,South Africa
+333,4.6,0,DW Steyn,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,21,South Africa,Kingsmead,2,South Africa
+334,4.7,4,DW Steyn,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,25,South Africa,Kingsmead,2,South Africa
+335,5.1,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,25,South Africa,Kingsmead,2,South Africa
+336,5.2,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,25,South Africa,Kingsmead,2,South Africa
+337,5.3,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,25,South Africa,Kingsmead,2,South Africa
+338,5.4,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,26,South Africa,Kingsmead,2,South Africa
+339,5.5,1,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+340,5.6,0,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+341,5.7,0,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+342,6.1,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+343,6.2,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+344,6.3,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+345,6.4,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+346,6.5,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,27,South Africa,Kingsmead,2,South Africa
+347,6.6,2,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,29,South Africa,Kingsmead,2,South Africa
+348,7.1,1,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,30,South Africa,Kingsmead,2,South Africa
+349,7.2,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,30,South Africa,Kingsmead,2,South Africa
+350,7.3,4,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,34,South Africa,Kingsmead,2,South Africa
+351,7.4,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,34,South Africa,Kingsmead,2,South Africa
+352,7.5,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,34,South Africa,Kingsmead,2,South Africa
+353,7.6,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,34,South Africa,Kingsmead,2,South Africa
+354,8.1,1,M Morkel,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,35,South Africa,Kingsmead,2,South Africa
+355,8.2,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,35,South Africa,Kingsmead,2,South Africa
+356,8.3,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,35,South Africa,Kingsmead,2,South Africa
+357,8.4,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,35,South Africa,Kingsmead,2,South Africa
+358,8.5,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,35,South Africa,Kingsmead,2,South Africa
+359,8.6,2,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,37,South Africa,Kingsmead,2,South Africa
+360,9.1,0,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,37,South Africa,Kingsmead,2,South Africa
+361,9.2,2,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,39,South Africa,Kingsmead,2,South Africa
+362,9.3,1,LL Tsotsobe,2011-01-12,2nd,RG Sharma,0,,V Kohli,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+363,9.4,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+364,9.5,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,40,South Africa,Kingsmead,2,South Africa
+365,9.6,1,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,41,South Africa,Kingsmead,2,South Africa
+366,10.1,0,M Morkel,2011-01-12,2nd,V Kohli,0,,RG Sharma,0,South Africa,India,41,South Africa,Kingsmead,3,South Africa
+367,10.2,2,M Morkel,2011-01-12,2nd,V Kohli,0,,Yuvraj Singh,0,South Africa,India,43,South Africa,Kingsmead,3,South Africa
+368,10.3,0,M Morkel,2011-01-12,2nd,V Kohli,0,,Yuvraj Singh,0,South Africa,India,43,South Africa,Kingsmead,3,South Africa
+369,10.4,0,M Morkel,2011-01-12,2nd,V Kohli,0,,Yuvraj Singh,0,South Africa,India,43,South Africa,Kingsmead,3,South Africa
+370,10.5,0,M Morkel,2011-01-12,2nd,V Kohli,0,,Yuvraj Singh,0,South Africa,India,43,South Africa,Kingsmead,4,South Africa
+371,10.6,0,M Morkel,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,43,South Africa,Kingsmead,4,South Africa
+372,11.1,0,LL Tsotsobe,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,43,South Africa,Kingsmead,4,South Africa
+373,11.2,1,LL Tsotsobe,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,44,South Africa,Kingsmead,4,South Africa
+374,11.3,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,44,South Africa,Kingsmead,4,South Africa
+375,11.4,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,44,South Africa,Kingsmead,4,South Africa
+376,11.5,1,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,45,South Africa,Kingsmead,4,South Africa
+377,11.6,1,LL Tsotsobe,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,46,South Africa,Kingsmead,4,South Africa
+378,12.1,0,M Morkel,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,46,South Africa,Kingsmead,4,South Africa
+379,12.2,2,M Morkel,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,48,South Africa,Kingsmead,4,South Africa
+380,12.3,0,M Morkel,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,48,South Africa,Kingsmead,4,South Africa
+381,12.4,0,M Morkel,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,48,South Africa,Kingsmead,4,South Africa
+382,12.5,0,M Morkel,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,48,South Africa,Kingsmead,4,South Africa
+383,12.6,0,M Morkel,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,48,South Africa,Kingsmead,4,South Africa
+384,13.1,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,48,South Africa,Kingsmead,4,South Africa
+385,13.2,1,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,49,South Africa,Kingsmead,4,South Africa
+386,13.3,0,LL Tsotsobe,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,49,South Africa,Kingsmead,4,South Africa
+387,13.4,1,LL Tsotsobe,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,50,South Africa,Kingsmead,4,South Africa
+388,13.5,0,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,50,South Africa,Kingsmead,4,South Africa
+389,13.6,3,LL Tsotsobe,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,53,South Africa,Kingsmead,4,South Africa
+390,14.1,0,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,53,South Africa,Kingsmead,4,South Africa
+391,14.2,0,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,53,South Africa,Kingsmead,4,South Africa
+392,14.3,2,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,55,South Africa,Kingsmead,4,South Africa
+393,14.4,1,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,56,South Africa,Kingsmead,4,South Africa
+394,14.5,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,56,South Africa,Kingsmead,4,South Africa
+395,14.6,1,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,57,South Africa,Kingsmead,4,South Africa
+396,15.1,1,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,58,South Africa,Kingsmead,4,South Africa
+397,15.2,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,58,South Africa,Kingsmead,4,South Africa
+398,15.3,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,58,South Africa,Kingsmead,4,South Africa
+399,15.4,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,58,South Africa,Kingsmead,4,South Africa
+400,15.5,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,58,South Africa,Kingsmead,4,South Africa
+401,15.6,1,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,59,South Africa,Kingsmead,4,South Africa
+402,16.1,1,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,60,South Africa,Kingsmead,4,South Africa
+403,16.2,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,60,South Africa,Kingsmead,4,South Africa
+404,16.3,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,60,South Africa,Kingsmead,4,South Africa
+405,16.4,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,60,South Africa,Kingsmead,4,South Africa
+406,16.5,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,60,South Africa,Kingsmead,4,South Africa
+407,16.6,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,60,South Africa,Kingsmead,4,South Africa
+408,17.1,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,60,South Africa,Kingsmead,4,South Africa
+409,17.2,1,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,61,South Africa,Kingsmead,4,South Africa
+410,17.3,1,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,62,South Africa,Kingsmead,4,South Africa
+411,17.4,2,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,64,South Africa,Kingsmead,4,South Africa
+412,17.5,1,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,65,South Africa,Kingsmead,4,South Africa
+413,17.6,0,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,65,South Africa,Kingsmead,4,South Africa
+414,18.1,1,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,66,South Africa,Kingsmead,4,South Africa
+415,18.2,1,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,67,South Africa,Kingsmead,4,South Africa
+416,18.3,1,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,68,South Africa,Kingsmead,4,South Africa
+417,18.4,1,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,69,South Africa,Kingsmead,4,South Africa
+418,18.5,0,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,69,South Africa,Kingsmead,4,South Africa
+419,18.6,0,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,69,South Africa,Kingsmead,4,South Africa
+420,19.1,1,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,70,South Africa,Kingsmead,4,South Africa
+421,19.2,2,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,72,South Africa,Kingsmead,4,South Africa
+422,19.3,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,72,South Africa,Kingsmead,4,South Africa
+423,19.4,1,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,73,South Africa,Kingsmead,4,South Africa
+424,19.5,0,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,73,South Africa,Kingsmead,4,South Africa
+425,19.6,1,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,74,South Africa,Kingsmead,4,South Africa
+426,20.1,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,75,South Africa,Kingsmead,4,South Africa
+427,20.2,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,75,South Africa,Kingsmead,4,South Africa
+428,20.3,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,75,South Africa,Kingsmead,4,South Africa
+429,20.4,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,75,South Africa,Kingsmead,4,South Africa
+430,20.5,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,75,South Africa,Kingsmead,4,South Africa
+431,20.6,1,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,76,South Africa,Kingsmead,4,South Africa
+432,20.7,0,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,76,South Africa,Kingsmead,4,South Africa
+433,21.1,6,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,82,South Africa,Kingsmead,4,South Africa
+434,21.2,4,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,86,South Africa,Kingsmead,4,South Africa
+435,21.3,1,J Botha,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,87,South Africa,Kingsmead,4,South Africa
+436,21.4,4,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,91,South Africa,Kingsmead,4,South Africa
+437,21.5,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,91,South Africa,Kingsmead,4,South Africa
+438,21.6,0,J Botha,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,91,South Africa,Kingsmead,4,South Africa
+439,22.1,1,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,92,South Africa,Kingsmead,4,South Africa
+440,22.2,1,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,93,South Africa,Kingsmead,4,South Africa
+441,22.3,1,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,94,South Africa,Kingsmead,4,South Africa
+442,22.4,1,WD Parnell,2011-01-12,2nd,V Kohli,0,,MS Dhoni,0,South Africa,India,95,South Africa,Kingsmead,4,South Africa
+443,22.5,0,WD Parnell,2011-01-12,2nd,MS Dhoni,0,,V Kohli,0,South Africa,India,95,South Africa,Kingsmead,5,South Africa
+444,22.6,1,WD Parnell,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,96,South Africa,Kingsmead,5,South Africa
+445,23.1,1,J Botha,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,97,South Africa,Kingsmead,5,South Africa
+446,23.2,2,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,99,South Africa,Kingsmead,5,South Africa
+447,23.3,0,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,99,South Africa,Kingsmead,5,South Africa
+448,23.4,1,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,100,South Africa,Kingsmead,5,South Africa
+449,23.5,1,J Botha,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,101,South Africa,Kingsmead,5,South Africa
+450,23.6,1,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,102,South Africa,Kingsmead,5,South Africa
+451,24.1,0,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,102,South Africa,Kingsmead,5,South Africa
+452,24.2,0,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,103,South Africa,Kingsmead,5,South Africa
+453,24.3,0,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,104,South Africa,Kingsmead,5,South Africa
+454,24.4,0,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,104,South Africa,Kingsmead,5,South Africa
+455,24.5,1,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,105,South Africa,Kingsmead,5,South Africa
+456,24.6,1,DW Steyn,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,106,South Africa,Kingsmead,5,South Africa
+457,24.7,0,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,106,South Africa,Kingsmead,5,South Africa
+458,24.8,0,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,106,South Africa,Kingsmead,5,South Africa
+459,25.1,1,J Botha,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,107,South Africa,Kingsmead,5,South Africa
+460,25.2,0,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,107,South Africa,Kingsmead,5,South Africa
+461,25.3,0,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,107,South Africa,Kingsmead,5,South Africa
+462,25.4,1,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,108,South Africa,Kingsmead,5,South Africa
+463,25.5,1,J Botha,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,109,South Africa,Kingsmead,5,South Africa
+464,25.6,0,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,109,South Africa,Kingsmead,5,South Africa
+465,26.1,1,JP Duminy,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,110,South Africa,Kingsmead,5,South Africa
+466,26.2,1,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,111,South Africa,Kingsmead,5,South Africa
+467,26.3,1,JP Duminy,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,112,South Africa,Kingsmead,5,South Africa
+468,26.4,0,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,112,South Africa,Kingsmead,5,South Africa
+469,26.5,0,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,112,South Africa,Kingsmead,5,South Africa
+470,26.6,0,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,112,South Africa,Kingsmead,5,South Africa
+471,27.1,1,J Botha,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,113,South Africa,Kingsmead,5,South Africa
+472,27.2,2,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,115,South Africa,Kingsmead,5,South Africa
+473,27.3,0,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,115,South Africa,Kingsmead,5,South Africa
+474,27.4,6,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,121,South Africa,Kingsmead,5,South Africa
+475,27.5,0,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,121,South Africa,Kingsmead,5,South Africa
+476,27.6,1,J Botha,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,122,South Africa,Kingsmead,5,South Africa
+477,28.1,0,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,122,South Africa,Kingsmead,5,South Africa
+478,28.2,1,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,123,South Africa,Kingsmead,5,South Africa
+479,28.3,2,JP Duminy,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,125,South Africa,Kingsmead,5,South Africa
+480,28.4,1,JP Duminy,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,126,South Africa,Kingsmead,5,South Africa
+481,28.5,0,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,126,South Africa,Kingsmead,5,South Africa
+482,28.6,0,JP Duminy,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,126,South Africa,Kingsmead,5,South Africa
+483,29.1,1,DW Steyn,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,127,South Africa,Kingsmead,5,South Africa
+484,29.2,1,DW Steyn,2011-01-12,2nd,V Kohli,0,,SK Raina,0,South Africa,India,128,South Africa,Kingsmead,5,South Africa
+485,29.3,0,DW Steyn,2011-01-12,2nd,SK Raina,0,,V Kohli,0,South Africa,India,128,South Africa,Kingsmead,6,South Africa
+486,29.4,0,DW Steyn,2011-01-12,2nd,SK Raina,0,,Harbhajan Singh,0,South Africa,India,128,South Africa,Kingsmead,6,South Africa
+487,29.5,0,DW Steyn,2011-01-12,2nd,SK Raina,0,,Harbhajan Singh,0,South Africa,India,128,South Africa,Kingsmead,6,South Africa
+488,29.6,0,DW Steyn,2011-01-12,2nd,SK Raina,0,,Harbhajan Singh,0,South Africa,India,128,South Africa,Kingsmead,6,South Africa
+489,30.1,1,WD Parnell,2011-01-12,2nd,Harbhajan Singh,0,,SK Raina,0,South Africa,India,129,South Africa,Kingsmead,6,South Africa
+490,30.2,0,WD Parnell,2011-01-12,2nd,SK Raina,0,,Harbhajan Singh,0,South Africa,India,129,South Africa,Kingsmead,7,South Africa
+491,30.3,1,WD Parnell,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,130,South Africa,Kingsmead,7,South Africa
+492,30.4,0,WD Parnell,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,131,South Africa,Kingsmead,7,South Africa
+493,30.5,0,WD Parnell,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,132,South Africa,Kingsmead,7,South Africa
+494,30.6,1,WD Parnell,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,133,South Africa,Kingsmead,7,South Africa
+495,30.7,0,WD Parnell,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,133,South Africa,Kingsmead,7,South Africa
+496,30.8,0,WD Parnell,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,133,South Africa,Kingsmead,7,South Africa
+497,31.1,4,DW Steyn,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,137,South Africa,Kingsmead,7,South Africa
+498,31.2,1,DW Steyn,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,138,South Africa,Kingsmead,7,South Africa
+499,31.3,0,DW Steyn,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,138,South Africa,Kingsmead,7,South Africa
+500,31.4,1,DW Steyn,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,139,South Africa,Kingsmead,7,South Africa
+501,31.5,1,DW Steyn,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,140,South Africa,Kingsmead,7,South Africa
+502,31.6,0,DW Steyn,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,140,South Africa,Kingsmead,7,South Africa
+503,32.1,0,WD Parnell,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,141,South Africa,Kingsmead,7,South Africa
+504,32.2,1,WD Parnell,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,142,South Africa,Kingsmead,7,South Africa
+505,32.3,0,WD Parnell,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,142,South Africa,Kingsmead,7,South Africa
+506,32.4,0,WD Parnell,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,142,South Africa,Kingsmead,7,South Africa
+507,32.5,0,WD Parnell,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,142,South Africa,Kingsmead,7,South Africa
+508,32.6,1,WD Parnell,2011-01-12,2nd,SK Raina,0,,Z Khan,0,South Africa,India,143,South Africa,Kingsmead,7,South Africa
+509,32.7,1,WD Parnell,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,144,South Africa,Kingsmead,7,South Africa
+510,33.1,4,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,148,South Africa,Kingsmead,7,South Africa
+511,33.2,0,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,SK Raina,0,South Africa,India,148,South Africa,Kingsmead,8,South Africa
+512,33.3,0,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,148,South Africa,Kingsmead,8,South Africa
+513,33.4,0,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,148,South Africa,Kingsmead,8,South Africa
+514,33.5,0,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,149,South Africa,Kingsmead,8,South Africa
+515,33.6,0,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,149,South Africa,Kingsmead,8,South Africa
+516,33.7,0,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,149,South Africa,Kingsmead,8,South Africa
+517,34.1,1,M Morkel,2011-01-12,2nd,A Nehra,0,,Z Khan,0,South Africa,India,150,South Africa,Kingsmead,8,South Africa
+518,34.2,0,M Morkel,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,150,South Africa,Kingsmead,8,South Africa
+519,34.3,1,M Morkel,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,151,South Africa,Kingsmead,8,South Africa
+520,34.4,0,M Morkel,2011-01-12,2nd,A Nehra,0,,Z Khan,0,South Africa,India,151,South Africa,Kingsmead,8,South Africa
+521,34.5,0,M Morkel,2011-01-12,2nd,A Nehra,0,,Z Khan,0,South Africa,India,151,South Africa,Kingsmead,8,South Africa
+522,34.6,1,M Morkel,2011-01-12,2nd,A Nehra,0,,Z Khan,0,South Africa,India,152,South Africa,Kingsmead,8,South Africa
+523,35.1,1,LL Tsotsobe,2011-01-12,2nd,A Nehra,0,,Z Khan,0,South Africa,India,153,South Africa,Kingsmead,8,South Africa
+524,35.2,0,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,A Nehra,0,South Africa,India,153,South Africa,Kingsmead,9,South Africa
+525,35.3,1,LL Tsotsobe,2011-01-12,2nd,Z Khan,0,,MM Patel,0,South Africa,India,154,South Africa,Kingsmead,9,South Africa
+526,35.4,0,LL Tsotsobe,2011-01-12,2nd,MM Patel,0,,Z Khan,0,South Africa,India,154,South Africa,Kingsmead,10,South Africa

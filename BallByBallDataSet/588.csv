@@ -1,0 +1,612 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,0,,HM Amla,0,Pakistan,South Africa,0,South Africa,Sheikh Zayed Stadium,0,Pakistan
+1,0.2,2,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,0,,HM Amla,2,Pakistan,South Africa,2,South Africa,Sheikh Zayed Stadium,0,Pakistan
+2,0.3,4,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,0,,HM Amla,6,Pakistan,South Africa,6,South Africa,Sheikh Zayed Stadium,0,Pakistan
+3,0.4,0,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,0,,HM Amla,6,Pakistan,South Africa,6,South Africa,Sheikh Zayed Stadium,0,Pakistan
+4,0.5,4,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,0,,HM Amla,10,Pakistan,South Africa,10,South Africa,Sheikh Zayed Stadium,0,Pakistan
+5,0.6,4,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,0,,HM Amla,14,Pakistan,South Africa,14,South Africa,Sheikh Zayed Stadium,0,Pakistan
+6,1.1,4,Abdul Razzaq,2010-10-31,1st,HM Amla,14,,RJ Peterson,4,Pakistan,South Africa,18,South Africa,Sheikh Zayed Stadium,0,Pakistan
+7,1.2,1,Abdul Razzaq,2010-10-31,1st,HM Amla,14,,RJ Peterson,5,Pakistan,South Africa,19,South Africa,Sheikh Zayed Stadium,0,Pakistan
+8,1.3,4,Abdul Razzaq,2010-10-31,1st,RJ Peterson,5,,HM Amla,18,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,0,Pakistan
+9,1.4,0,Abdul Razzaq,2010-10-31,1st,RJ Peterson,5,,HM Amla,18,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,0,Pakistan
+10,1.5,0,Abdul Razzaq,2010-10-31,1st,RJ Peterson,5,,HM Amla,18,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,0,Pakistan
+11,1.6,0,Abdul Razzaq,2010-10-31,1st,RJ Peterson,5,,HM Amla,18,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,0,Pakistan
+12,2.1,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,18,,RJ Peterson,5,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,0,Pakistan
+13,2.2,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,18,,RJ Peterson,5,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,0,Pakistan
+14,2.3,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,18,,RJ Peterson,5,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,0,Pakistan
+15,2.4,1,Shoaib Akhtar,2010-10-31,1st,HM Amla,18,,RJ Peterson,6,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,0,Pakistan
+16,2.5,0,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,6,,HM Amla,18,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,0,Pakistan
+17,2.6,0,Shoaib Akhtar,2010-10-31,1st,RJ Peterson,6,,HM Amla,18,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,0,Pakistan
+18,3.1,0,Abdul Razzaq,2010-10-31,1st,HM Amla,18,RJ Peterson,RJ Peterson,6,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+19,3.2,0,Abdul Razzaq,2010-10-31,1st,HM Amla,18,,CA Ingram,0,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+20,3.3,0,Abdul Razzaq,2010-10-31,1st,HM Amla,18,,CA Ingram,0,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+21,3.4,0,Abdul Razzaq,2010-10-31,1st,HM Amla,18,,CA Ingram,0,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+22,3.5,0,Abdul Razzaq,2010-10-31,1st,HM Amla,18,,CA Ingram,0,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+23,3.6,0,Abdul Razzaq,2010-10-31,1st,HM Amla,18,,CA Ingram,0,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+24,4.1,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,0,,HM Amla,18,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+25,4.2,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,0,,HM Amla,18,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+26,4.3,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,0,,HM Amla,18,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+27,4.4,1,Shoaib Akhtar,2010-10-31,1st,CA Ingram,0,,HM Amla,19,Pakistan,South Africa,25,South Africa,Sheikh Zayed Stadium,1,Pakistan
+28,4.5,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,19,,CA Ingram,0,Pakistan,South Africa,25,South Africa,Sheikh Zayed Stadium,1,Pakistan
+29,4.6,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,19,,CA Ingram,0,Pakistan,South Africa,25,South Africa,Sheikh Zayed Stadium,1,Pakistan
+30,5.1,0,Abdul Razzaq,2010-10-31,1st,CA Ingram,0,,HM Amla,19,Pakistan,South Africa,25,South Africa,Sheikh Zayed Stadium,1,Pakistan
+31,5.2,0,Abdul Razzaq,2010-10-31,1st,CA Ingram,0,,HM Amla,19,Pakistan,South Africa,25,South Africa,Sheikh Zayed Stadium,1,Pakistan
+32,5.3,4,Abdul Razzaq,2010-10-31,1st,CA Ingram,0,,HM Amla,23,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+33,5.4,0,Abdul Razzaq,2010-10-31,1st,CA Ingram,0,,HM Amla,23,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+34,5.5,0,Abdul Razzaq,2010-10-31,1st,CA Ingram,0,,HM Amla,23,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+35,5.6,0,Abdul Razzaq,2010-10-31,1st,CA Ingram,0,,HM Amla,23,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+36,6.1,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,23,,CA Ingram,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+37,6.2,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,23,,CA Ingram,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+38,6.3,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,23,,CA Ingram,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+39,6.4,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,23,,CA Ingram,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+40,6.5,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,23,,CA Ingram,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+41,6.6,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,23,,CA Ingram,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+42,7.1,1,Abdul Razzaq,2010-10-31,1st,CA Ingram,0,,HM Amla,24,Pakistan,South Africa,30,South Africa,Sheikh Zayed Stadium,1,Pakistan
+43,7.2,4,Abdul Razzaq,2010-10-31,1st,HM Amla,24,,CA Ingram,4,Pakistan,South Africa,34,South Africa,Sheikh Zayed Stadium,1,Pakistan
+44,7.3,0,Abdul Razzaq,2010-10-31,1st,HM Amla,24,,CA Ingram,4,Pakistan,South Africa,34,South Africa,Sheikh Zayed Stadium,1,Pakistan
+45,7.4,4,Abdul Razzaq,2010-10-31,1st,HM Amla,24,,CA Ingram,8,Pakistan,South Africa,38,South Africa,Sheikh Zayed Stadium,1,Pakistan
+46,7.5,0,Abdul Razzaq,2010-10-31,1st,HM Amla,24,,CA Ingram,8,Pakistan,South Africa,38,South Africa,Sheikh Zayed Stadium,1,Pakistan
+47,7.6,0,Abdul Razzaq,2010-10-31,1st,HM Amla,24,,CA Ingram,8,Pakistan,South Africa,38,South Africa,Sheikh Zayed Stadium,1,Pakistan
+48,8.1,4,Shoaib Akhtar,2010-10-31,1st,CA Ingram,8,,HM Amla,28,Pakistan,South Africa,42,South Africa,Sheikh Zayed Stadium,1,Pakistan
+49,8.2,4,Shoaib Akhtar,2010-10-31,1st,CA Ingram,8,,HM Amla,32,Pakistan,South Africa,46,South Africa,Sheikh Zayed Stadium,1,Pakistan
+50,8.3,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,8,,HM Amla,32,Pakistan,South Africa,46,South Africa,Sheikh Zayed Stadium,1,Pakistan
+51,8.4,1,Shoaib Akhtar,2010-10-31,1st,CA Ingram,8,,HM Amla,33,Pakistan,South Africa,47,South Africa,Sheikh Zayed Stadium,1,Pakistan
+52,8.5,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,33,,CA Ingram,8,Pakistan,South Africa,47,South Africa,Sheikh Zayed Stadium,1,Pakistan
+53,8.6,0,Shoaib Akhtar,2010-10-31,1st,HM Amla,33,,CA Ingram,8,Pakistan,South Africa,47,South Africa,Sheikh Zayed Stadium,1,Pakistan
+54,9.1,2,Abdul Razzaq,2010-10-31,1st,CA Ingram,8,,HM Amla,35,Pakistan,South Africa,49,South Africa,Sheikh Zayed Stadium,1,Pakistan
+55,9.2,1,Abdul Razzaq,2010-10-31,1st,CA Ingram,8,,HM Amla,36,Pakistan,South Africa,50,South Africa,Sheikh Zayed Stadium,1,Pakistan
+56,9.3,4,Abdul Razzaq,2010-10-31,1st,HM Amla,36,,CA Ingram,12,Pakistan,South Africa,54,South Africa,Sheikh Zayed Stadium,1,Pakistan
+57,9.4,1,Abdul Razzaq,2010-10-31,1st,HM Amla,36,,CA Ingram,13,Pakistan,South Africa,55,South Africa,Sheikh Zayed Stadium,1,Pakistan
+58,9.5,1,Abdul Razzaq,2010-10-31,1st,CA Ingram,13,,HM Amla,37,Pakistan,South Africa,56,South Africa,Sheikh Zayed Stadium,1,Pakistan
+59,9.6,6,Abdul Razzaq,2010-10-31,1st,HM Amla,37,,CA Ingram,19,Pakistan,South Africa,62,South Africa,Sheikh Zayed Stadium,1,Pakistan
+60,10.1,0,Mohammad Hafeez,2010-10-31,1st,CA Ingram,19,,HM Amla,37,Pakistan,South Africa,62,South Africa,Sheikh Zayed Stadium,1,Pakistan
+61,10.2,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,19,,HM Amla,38,Pakistan,South Africa,63,South Africa,Sheikh Zayed Stadium,1,Pakistan
+62,10.3,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,38,,CA Ingram,19,Pakistan,South Africa,63,South Africa,Sheikh Zayed Stadium,1,Pakistan
+63,10.4,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,38,,CA Ingram,19,Pakistan,South Africa,63,South Africa,Sheikh Zayed Stadium,1,Pakistan
+64,10.5,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,38,,CA Ingram,19,Pakistan,South Africa,63,South Africa,Sheikh Zayed Stadium,1,Pakistan
+65,10.6,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,38,,CA Ingram,19,Pakistan,South Africa,63,South Africa,Sheikh Zayed Stadium,1,Pakistan
+66,11.1,4,Wahab Riaz,2010-10-31,1st,CA Ingram,19,,HM Amla,42,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,1,Pakistan
+67,11.2,0,Wahab Riaz,2010-10-31,1st,CA Ingram,19,,HM Amla,42,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,1,Pakistan
+68,11.3,0,Wahab Riaz,2010-10-31,1st,CA Ingram,19,,HM Amla,42,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,1,Pakistan
+69,11.4,0,Wahab Riaz,2010-10-31,1st,CA Ingram,19,,HM Amla,42,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,1,Pakistan
+70,11.5,1,Wahab Riaz,2010-10-31,1st,CA Ingram,19,,HM Amla,43,Pakistan,South Africa,68,South Africa,Sheikh Zayed Stadium,1,Pakistan
+71,11.6,0,Wahab Riaz,2010-10-31,1st,HM Amla,43,,CA Ingram,19,Pakistan,South Africa,68,South Africa,Sheikh Zayed Stadium,1,Pakistan
+72,12.1,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,19,,HM Amla,44,Pakistan,South Africa,69,South Africa,Sheikh Zayed Stadium,1,Pakistan
+73,12.2,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,44,,CA Ingram,19,Pakistan,South Africa,69,South Africa,Sheikh Zayed Stadium,1,Pakistan
+74,12.3,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,44,,CA Ingram,19,Pakistan,South Africa,69,South Africa,Sheikh Zayed Stadium,1,Pakistan
+75,12.4,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,44,,CA Ingram,19,Pakistan,South Africa,69,South Africa,Sheikh Zayed Stadium,1,Pakistan
+76,12.5,1,Mohammad Hafeez,2010-10-31,1st,HM Amla,44,,CA Ingram,20,Pakistan,South Africa,70,South Africa,Sheikh Zayed Stadium,1,Pakistan
+77,12.6,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,20,,HM Amla,45,Pakistan,South Africa,71,South Africa,Sheikh Zayed Stadium,1,Pakistan
+78,13.1,0,Wahab Riaz,2010-10-31,1st,CA Ingram,20,,HM Amla,45,Pakistan,South Africa,71,South Africa,Sheikh Zayed Stadium,1,Pakistan
+79,13.2,0,Wahab Riaz,2010-10-31,1st,CA Ingram,20,,HM Amla,45,Pakistan,South Africa,71,South Africa,Sheikh Zayed Stadium,1,Pakistan
+80,13.3,0,Wahab Riaz,2010-10-31,1st,CA Ingram,20,,HM Amla,45,Pakistan,South Africa,71,South Africa,Sheikh Zayed Stadium,1,Pakistan
+81,13.4,2,Wahab Riaz,2010-10-31,1st,CA Ingram,20,,HM Amla,47,Pakistan,South Africa,73,South Africa,Sheikh Zayed Stadium,1,Pakistan
+82,13.5,1,Wahab Riaz,2010-10-31,1st,CA Ingram,20,,HM Amla,48,Pakistan,South Africa,74,South Africa,Sheikh Zayed Stadium,1,Pakistan
+83,13.6,0,Wahab Riaz,2010-10-31,1st,HM Amla,48,,CA Ingram,20,Pakistan,South Africa,74,South Africa,Sheikh Zayed Stadium,1,Pakistan
+84,14.1,0,Mohammad Hafeez,2010-10-31,1st,CA Ingram,20,,HM Amla,48,Pakistan,South Africa,74,South Africa,Sheikh Zayed Stadium,1,Pakistan
+85,14.2,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,20,,HM Amla,49,Pakistan,South Africa,75,South Africa,Sheikh Zayed Stadium,1,Pakistan
+86,14.3,2,Mohammad Hafeez,2010-10-31,1st,HM Amla,49,,CA Ingram,22,Pakistan,South Africa,77,South Africa,Sheikh Zayed Stadium,1,Pakistan
+87,14.4,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,49,,CA Ingram,22,Pakistan,South Africa,77,South Africa,Sheikh Zayed Stadium,1,Pakistan
+88,14.5,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,49,,CA Ingram,22,Pakistan,South Africa,77,South Africa,Sheikh Zayed Stadium,1,Pakistan
+89,14.6,1,Mohammad Hafeez,2010-10-31,1st,HM Amla,49,,CA Ingram,23,Pakistan,South Africa,78,South Africa,Sheikh Zayed Stadium,1,Pakistan
+90,15.1,1,Wahab Riaz,2010-10-31,1st,HM Amla,49,,CA Ingram,24,Pakistan,South Africa,79,South Africa,Sheikh Zayed Stadium,1,Pakistan
+91,15.2,1,Wahab Riaz,2010-10-31,1st,CA Ingram,24,,HM Amla,50,Pakistan,South Africa,80,South Africa,Sheikh Zayed Stadium,1,Pakistan
+92,15.3,0,Wahab Riaz,2010-10-31,1st,HM Amla,50,,CA Ingram,24,Pakistan,South Africa,80,South Africa,Sheikh Zayed Stadium,1,Pakistan
+93,15.4,0,Wahab Riaz,2010-10-31,1st,HM Amla,50,,CA Ingram,24,Pakistan,South Africa,80,South Africa,Sheikh Zayed Stadium,1,Pakistan
+94,15.5,0,Wahab Riaz,2010-10-31,1st,HM Amla,50,,CA Ingram,24,Pakistan,South Africa,80,South Africa,Sheikh Zayed Stadium,1,Pakistan
+95,15.6,1,Wahab Riaz,2010-10-31,1st,HM Amla,50,,CA Ingram,25,Pakistan,South Africa,81,South Africa,Sheikh Zayed Stadium,1,Pakistan
+96,16.1,1,Mohammad Hafeez,2010-10-31,1st,HM Amla,50,,CA Ingram,26,Pakistan,South Africa,82,South Africa,Sheikh Zayed Stadium,1,Pakistan
+97,16.2,0,Mohammad Hafeez,2010-10-31,1st,CA Ingram,26,,HM Amla,50,Pakistan,South Africa,82,South Africa,Sheikh Zayed Stadium,1,Pakistan
+98,16.3,0,Mohammad Hafeez,2010-10-31,1st,CA Ingram,26,,HM Amla,50,Pakistan,South Africa,82,South Africa,Sheikh Zayed Stadium,1,Pakistan
+99,16.4,2,Mohammad Hafeez,2010-10-31,1st,CA Ingram,26,,HM Amla,52,Pakistan,South Africa,84,South Africa,Sheikh Zayed Stadium,1,Pakistan
+100,16.5,3,Mohammad Hafeez,2010-10-31,1st,CA Ingram,26,,HM Amla,55,Pakistan,South Africa,87,South Africa,Sheikh Zayed Stadium,1,Pakistan
+101,16.6,0,Mohammad Hafeez,2010-10-31,1st,HM Amla,55,,CA Ingram,26,Pakistan,South Africa,87,South Africa,Sheikh Zayed Stadium,1,Pakistan
+102,17.1,0,Wahab Riaz,2010-10-31,1st,CA Ingram,26,,HM Amla,55,Pakistan,South Africa,87,South Africa,Sheikh Zayed Stadium,1,Pakistan
+103,17.2,1,Wahab Riaz,2010-10-31,1st,CA Ingram,26,,HM Amla,56,Pakistan,South Africa,88,South Africa,Sheikh Zayed Stadium,1,Pakistan
+104,17.3,0,Wahab Riaz,2010-10-31,1st,HM Amla,56,,CA Ingram,26,Pakistan,South Africa,88,South Africa,Sheikh Zayed Stadium,1,Pakistan
+105,17.4,0,Wahab Riaz,2010-10-31,1st,HM Amla,56,,CA Ingram,26,Pakistan,South Africa,88,South Africa,Sheikh Zayed Stadium,1,Pakistan
+106,17.5,1,Wahab Riaz,2010-10-31,1st,HM Amla,56,,CA Ingram,27,Pakistan,South Africa,89,South Africa,Sheikh Zayed Stadium,1,Pakistan
+107,17.6,1,Wahab Riaz,2010-10-31,1st,CA Ingram,27,,HM Amla,57,Pakistan,South Africa,90,South Africa,Sheikh Zayed Stadium,1,Pakistan
+108,18.1,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,27,,HM Amla,58,Pakistan,South Africa,91,South Africa,Sheikh Zayed Stadium,1,Pakistan
+109,18.2,1,Mohammad Hafeez,2010-10-31,1st,HM Amla,58,,CA Ingram,28,Pakistan,South Africa,92,South Africa,Sheikh Zayed Stadium,1,Pakistan
+110,18.3,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,28,,HM Amla,59,Pakistan,South Africa,93,South Africa,Sheikh Zayed Stadium,1,Pakistan
+111,18.4,1,Mohammad Hafeez,2010-10-31,1st,HM Amla,59,,CA Ingram,29,Pakistan,South Africa,94,South Africa,Sheikh Zayed Stadium,1,Pakistan
+112,18.5,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,29,,HM Amla,60,Pakistan,South Africa,95,South Africa,Sheikh Zayed Stadium,1,Pakistan
+113,18.6,1,Mohammad Hafeez,2010-10-31,1st,HM Amla,60,,CA Ingram,30,Pakistan,South Africa,96,South Africa,Sheikh Zayed Stadium,1,Pakistan
+114,19.1,0,Wahab Riaz,2010-10-31,1st,HM Amla,60,,CA Ingram,30,Pakistan,South Africa,96,South Africa,Sheikh Zayed Stadium,1,Pakistan
+115,19.2,1,Wahab Riaz,2010-10-31,1st,HM Amla,60,,CA Ingram,31,Pakistan,South Africa,97,South Africa,Sheikh Zayed Stadium,1,Pakistan
+116,19.3,1,Wahab Riaz,2010-10-31,1st,CA Ingram,31,,HM Amla,61,Pakistan,South Africa,98,South Africa,Sheikh Zayed Stadium,1,Pakistan
+117,19.4,1,Wahab Riaz,2010-10-31,1st,HM Amla,61,,CA Ingram,32,Pakistan,South Africa,99,South Africa,Sheikh Zayed Stadium,1,Pakistan
+118,19.5,1,Wahab Riaz,2010-10-31,1st,CA Ingram,32,,HM Amla,62,Pakistan,South Africa,100,South Africa,Sheikh Zayed Stadium,1,Pakistan
+119,19.6,0,Wahab Riaz,2010-10-31,1st,HM Amla,62,,CA Ingram,32,Pakistan,South Africa,100,South Africa,Sheikh Zayed Stadium,1,Pakistan
+120,20.1,2,Shahid Afridi,2010-10-31,1st,CA Ingram,32,,HM Amla,64,Pakistan,South Africa,102,South Africa,Sheikh Zayed Stadium,1,Pakistan
+121,20.2,1,Shahid Afridi,2010-10-31,1st,CA Ingram,32,,HM Amla,65,Pakistan,South Africa,103,South Africa,Sheikh Zayed Stadium,1,Pakistan
+122,20.3,0,Shahid Afridi,2010-10-31,1st,HM Amla,65,,CA Ingram,32,Pakistan,South Africa,103,South Africa,Sheikh Zayed Stadium,1,Pakistan
+123,20.4,4,Shahid Afridi,2010-10-31,1st,HM Amla,65,,CA Ingram,36,Pakistan,South Africa,107,South Africa,Sheikh Zayed Stadium,1,Pakistan
+124,20.5,1,Shahid Afridi,2010-10-31,1st,HM Amla,65,,CA Ingram,37,Pakistan,South Africa,108,South Africa,Sheikh Zayed Stadium,1,Pakistan
+125,20.6,0,Shahid Afridi,2010-10-31,1st,CA Ingram,37,HM Amla,HM Amla,65,Pakistan,South Africa,108,South Africa,Sheikh Zayed Stadium,2,Pakistan
+126,21.1,0,Wahab Riaz,2010-10-31,1st,AB de Villiers,0,,CA Ingram,37,Pakistan,South Africa,108,South Africa,Sheikh Zayed Stadium,2,Pakistan
+127,21.2,1,Wahab Riaz,2010-10-31,1st,AB de Villiers,0,,CA Ingram,38,Pakistan,South Africa,109,South Africa,Sheikh Zayed Stadium,2,Pakistan
+128,21.3,0,Wahab Riaz,2010-10-31,1st,CA Ingram,38,,AB de Villiers,0,Pakistan,South Africa,109,South Africa,Sheikh Zayed Stadium,2,Pakistan
+129,21.4,0,Wahab Riaz,2010-10-31,1st,CA Ingram,38,,AB de Villiers,0,Pakistan,South Africa,109,South Africa,Sheikh Zayed Stadium,2,Pakistan
+130,21.5,0,Wahab Riaz,2010-10-31,1st,CA Ingram,38,,AB de Villiers,0,Pakistan,South Africa,109,South Africa,Sheikh Zayed Stadium,2,Pakistan
+131,21.6,0,Wahab Riaz,2010-10-31,1st,CA Ingram,38,,AB de Villiers,0,Pakistan,South Africa,109,South Africa,Sheikh Zayed Stadium,2,Pakistan
+132,22.1,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,0,,CA Ingram,38,Pakistan,South Africa,109,South Africa,Sheikh Zayed Stadium,2,Pakistan
+133,22.2,2,Shahid Afridi,2010-10-31,1st,AB de Villiers,0,,CA Ingram,40,Pakistan,South Africa,111,South Africa,Sheikh Zayed Stadium,2,Pakistan
+134,22.3,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,0,,CA Ingram,40,Pakistan,South Africa,111,South Africa,Sheikh Zayed Stadium,2,Pakistan
+135,22.4,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,0,,CA Ingram,40,Pakistan,South Africa,111,South Africa,Sheikh Zayed Stadium,2,Pakistan
+136,22.5,2,Shahid Afridi,2010-10-31,1st,AB de Villiers,0,,CA Ingram,42,Pakistan,South Africa,113,South Africa,Sheikh Zayed Stadium,2,Pakistan
+137,22.6,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,0,,CA Ingram,43,Pakistan,South Africa,114,South Africa,Sheikh Zayed Stadium,2,Pakistan
+138,23.1,0,Saeed Ajmal,2010-10-31,1st,AB de Villiers,0,,CA Ingram,43,Pakistan,South Africa,114,South Africa,Sheikh Zayed Stadium,2,Pakistan
+139,23.2,0,Saeed Ajmal,2010-10-31,1st,AB de Villiers,0,,CA Ingram,43,Pakistan,South Africa,114,South Africa,Sheikh Zayed Stadium,2,Pakistan
+140,23.3,1,Saeed Ajmal,2010-10-31,1st,AB de Villiers,0,,CA Ingram,44,Pakistan,South Africa,115,South Africa,Sheikh Zayed Stadium,2,Pakistan
+141,23.4,1,Saeed Ajmal,2010-10-31,1st,CA Ingram,44,,AB de Villiers,1,Pakistan,South Africa,116,South Africa,Sheikh Zayed Stadium,2,Pakistan
+142,23.5,2,Saeed Ajmal,2010-10-31,1st,AB de Villiers,1,,CA Ingram,46,Pakistan,South Africa,118,South Africa,Sheikh Zayed Stadium,2,Pakistan
+143,23.6,1,Saeed Ajmal,2010-10-31,1st,AB de Villiers,1,,CA Ingram,47,Pakistan,South Africa,119,South Africa,Sheikh Zayed Stadium,2,Pakistan
+144,24.1,2,Shahid Afridi,2010-10-31,1st,AB de Villiers,1,,CA Ingram,49,Pakistan,South Africa,121,South Africa,Sheikh Zayed Stadium,2,Pakistan
+145,24.2,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,1,,CA Ingram,50,Pakistan,South Africa,122,South Africa,Sheikh Zayed Stadium,2,Pakistan
+146,24.3,0,Shahid Afridi,2010-10-31,1st,CA Ingram,50,,AB de Villiers,1,Pakistan,South Africa,122,South Africa,Sheikh Zayed Stadium,2,Pakistan
+147,24.4,0,Shahid Afridi,2010-10-31,1st,CA Ingram,50,,AB de Villiers,1,Pakistan,South Africa,122,South Africa,Sheikh Zayed Stadium,2,Pakistan
+148,24.5,0,Shahid Afridi,2010-10-31,1st,CA Ingram,50,,AB de Villiers,1,Pakistan,South Africa,123,South Africa,Sheikh Zayed Stadium,2,Pakistan
+149,24.6,4,Shahid Afridi,2010-10-31,1st,AB de Villiers,1,,CA Ingram,54,Pakistan,South Africa,127,South Africa,Sheikh Zayed Stadium,2,Pakistan
+150,25.1,1,Saeed Ajmal,2010-10-31,1st,CA Ingram,54,,AB de Villiers,2,Pakistan,South Africa,128,South Africa,Sheikh Zayed Stadium,2,Pakistan
+151,25.2,0,Saeed Ajmal,2010-10-31,1st,AB de Villiers,2,,CA Ingram,54,Pakistan,South Africa,129,South Africa,Sheikh Zayed Stadium,2,Pakistan
+152,25.3,4,Saeed Ajmal,2010-10-31,1st,AB de Villiers,2,,CA Ingram,58,Pakistan,South Africa,133,South Africa,Sheikh Zayed Stadium,2,Pakistan
+153,25.4,0,Saeed Ajmal,2010-10-31,1st,AB de Villiers,2,,CA Ingram,58,Pakistan,South Africa,133,South Africa,Sheikh Zayed Stadium,2,Pakistan
+154,25.5,1,Saeed Ajmal,2010-10-31,1st,AB de Villiers,2,,CA Ingram,59,Pakistan,South Africa,134,South Africa,Sheikh Zayed Stadium,2,Pakistan
+155,25.6,0,Saeed Ajmal,2010-10-31,1st,CA Ingram,59,,AB de Villiers,2,Pakistan,South Africa,134,South Africa,Sheikh Zayed Stadium,2,Pakistan
+156,25.7,0,Saeed Ajmal,2010-10-31,1st,CA Ingram,59,,AB de Villiers,2,Pakistan,South Africa,134,South Africa,Sheikh Zayed Stadium,2,Pakistan
+157,26.1,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,2,,CA Ingram,59,Pakistan,South Africa,134,South Africa,Sheikh Zayed Stadium,2,Pakistan
+158,26.2,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,2,,CA Ingram,59,Pakistan,South Africa,134,South Africa,Sheikh Zayed Stadium,2,Pakistan
+159,26.3,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,2,,CA Ingram,60,Pakistan,South Africa,135,South Africa,Sheikh Zayed Stadium,2,Pakistan
+160,26.4,1,Shahid Afridi,2010-10-31,1st,CA Ingram,60,,AB de Villiers,3,Pakistan,South Africa,136,South Africa,Sheikh Zayed Stadium,2,Pakistan
+161,26.5,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,3,,CA Ingram,61,Pakistan,South Africa,137,South Africa,Sheikh Zayed Stadium,2,Pakistan
+162,26.6,0,Shahid Afridi,2010-10-31,1st,CA Ingram,61,,AB de Villiers,3,Pakistan,South Africa,137,South Africa,Sheikh Zayed Stadium,2,Pakistan
+163,27.1,0,Saeed Ajmal,2010-10-31,1st,AB de Villiers,3,,CA Ingram,61,Pakistan,South Africa,137,South Africa,Sheikh Zayed Stadium,2,Pakistan
+164,27.2,1,Saeed Ajmal,2010-10-31,1st,AB de Villiers,3,,CA Ingram,62,Pakistan,South Africa,138,South Africa,Sheikh Zayed Stadium,2,Pakistan
+165,27.3,2,Saeed Ajmal,2010-10-31,1st,CA Ingram,62,,AB de Villiers,5,Pakistan,South Africa,140,South Africa,Sheikh Zayed Stadium,2,Pakistan
+166,27.4,1,Saeed Ajmal,2010-10-31,1st,CA Ingram,62,,AB de Villiers,6,Pakistan,South Africa,141,South Africa,Sheikh Zayed Stadium,2,Pakistan
+167,27.5,1,Saeed Ajmal,2010-10-31,1st,AB de Villiers,6,,CA Ingram,63,Pakistan,South Africa,142,South Africa,Sheikh Zayed Stadium,2,Pakistan
+168,27.6,0,Saeed Ajmal,2010-10-31,1st,CA Ingram,63,,AB de Villiers,6,Pakistan,South Africa,142,South Africa,Sheikh Zayed Stadium,2,Pakistan
+169,28.1,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,6,,CA Ingram,63,Pakistan,South Africa,142,South Africa,Sheikh Zayed Stadium,2,Pakistan
+170,28.2,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,6,,CA Ingram,64,Pakistan,South Africa,143,South Africa,Sheikh Zayed Stadium,2,Pakistan
+171,28.3,2,Shahid Afridi,2010-10-31,1st,CA Ingram,64,,AB de Villiers,8,Pakistan,South Africa,145,South Africa,Sheikh Zayed Stadium,2,Pakistan
+172,28.4,1,Shahid Afridi,2010-10-31,1st,CA Ingram,64,,AB de Villiers,9,Pakistan,South Africa,146,South Africa,Sheikh Zayed Stadium,2,Pakistan
+173,28.5,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,9,,CA Ingram,65,Pakistan,South Africa,147,South Africa,Sheikh Zayed Stadium,2,Pakistan
+174,28.6,0,Shahid Afridi,2010-10-31,1st,CA Ingram,65,,AB de Villiers,9,Pakistan,South Africa,147,South Africa,Sheikh Zayed Stadium,2,Pakistan
+175,29.1,4,Saeed Ajmal,2010-10-31,1st,AB de Villiers,9,,CA Ingram,69,Pakistan,South Africa,151,South Africa,Sheikh Zayed Stadium,2,Pakistan
+176,29.2,4,Saeed Ajmal,2010-10-31,1st,AB de Villiers,9,,CA Ingram,73,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,2,Pakistan
+177,29.3,0,Saeed Ajmal,2010-10-31,1st,AB de Villiers,9,,CA Ingram,73,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,2,Pakistan
+178,29.4,0,Saeed Ajmal,2010-10-31,1st,AB de Villiers,9,,CA Ingram,73,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,2,Pakistan
+179,29.5,1,Saeed Ajmal,2010-10-31,1st,AB de Villiers,9,,CA Ingram,74,Pakistan,South Africa,156,South Africa,Sheikh Zayed Stadium,2,Pakistan
+180,29.6,1,Saeed Ajmal,2010-10-31,1st,CA Ingram,74,,AB de Villiers,10,Pakistan,South Africa,157,South Africa,Sheikh Zayed Stadium,2,Pakistan
+181,30.1,1,Shahid Afridi,2010-10-31,1st,CA Ingram,74,,AB de Villiers,11,Pakistan,South Africa,158,South Africa,Sheikh Zayed Stadium,2,Pakistan
+182,30.2,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,11,,CA Ingram,75,Pakistan,South Africa,159,South Africa,Sheikh Zayed Stadium,2,Pakistan
+183,30.3,0,Shahid Afridi,2010-10-31,1st,CA Ingram,75,,AB de Villiers,11,Pakistan,South Africa,159,South Africa,Sheikh Zayed Stadium,2,Pakistan
+184,30.4,1,Shahid Afridi,2010-10-31,1st,CA Ingram,75,,AB de Villiers,12,Pakistan,South Africa,160,South Africa,Sheikh Zayed Stadium,2,Pakistan
+185,30.5,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,12,,CA Ingram,75,Pakistan,South Africa,160,South Africa,Sheikh Zayed Stadium,2,Pakistan
+186,30.6,4,Shahid Afridi,2010-10-31,1st,AB de Villiers,12,,CA Ingram,79,Pakistan,South Africa,164,South Africa,Sheikh Zayed Stadium,2,Pakistan
+187,31.1,0,Mohammad Hafeez,2010-10-31,1st,CA Ingram,79,,AB de Villiers,12,Pakistan,South Africa,164,South Africa,Sheikh Zayed Stadium,2,Pakistan
+188,31.2,4,Mohammad Hafeez,2010-10-31,1st,CA Ingram,79,,AB de Villiers,16,Pakistan,South Africa,168,South Africa,Sheikh Zayed Stadium,2,Pakistan
+189,31.3,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,79,,AB de Villiers,17,Pakistan,South Africa,169,South Africa,Sheikh Zayed Stadium,2,Pakistan
+190,31.4,1,Mohammad Hafeez,2010-10-31,1st,AB de Villiers,17,,CA Ingram,80,Pakistan,South Africa,170,South Africa,Sheikh Zayed Stadium,2,Pakistan
+191,31.5,0,Mohammad Hafeez,2010-10-31,1st,CA Ingram,80,,AB de Villiers,17,Pakistan,South Africa,170,South Africa,Sheikh Zayed Stadium,2,Pakistan
+192,31.6,1,Mohammad Hafeez,2010-10-31,1st,CA Ingram,80,,AB de Villiers,18,Pakistan,South Africa,171,South Africa,Sheikh Zayed Stadium,2,Pakistan
+193,32.1,1,Shahid Afridi,2010-10-31,1st,CA Ingram,80,,AB de Villiers,19,Pakistan,South Africa,172,South Africa,Sheikh Zayed Stadium,2,Pakistan
+194,32.2,2,Shahid Afridi,2010-10-31,1st,AB de Villiers,19,,CA Ingram,82,Pakistan,South Africa,174,South Africa,Sheikh Zayed Stadium,2,Pakistan
+195,32.3,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,19,,CA Ingram,83,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,2,Pakistan
+196,32.4,0,Shahid Afridi,2010-10-31,1st,CA Ingram,83,,AB de Villiers,19,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,2,Pakistan
+197,32.5,0,Shahid Afridi,2010-10-31,1st,CA Ingram,83,,AB de Villiers,19,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,2,Pakistan
+198,32.6,1,Shahid Afridi,2010-10-31,1st,CA Ingram,83,,AB de Villiers,20,Pakistan,South Africa,176,South Africa,Sheikh Zayed Stadium,2,Pakistan
+199,33.1,1,Shoaib Akhtar,2010-10-31,1st,CA Ingram,83,,AB de Villiers,21,Pakistan,South Africa,177,South Africa,Sheikh Zayed Stadium,2,Pakistan
+200,33.2,0,Shoaib Akhtar,2010-10-31,1st,AB de Villiers,21,,CA Ingram,83,Pakistan,South Africa,178,South Africa,Sheikh Zayed Stadium,2,Pakistan
+201,33.3,1,Shoaib Akhtar,2010-10-31,1st,AB de Villiers,21,,CA Ingram,84,Pakistan,South Africa,179,South Africa,Sheikh Zayed Stadium,2,Pakistan
+202,33.4,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,84,,AB de Villiers,21,Pakistan,South Africa,179,South Africa,Sheikh Zayed Stadium,2,Pakistan
+203,33.5,1,Shoaib Akhtar,2010-10-31,1st,CA Ingram,84,,AB de Villiers,22,Pakistan,South Africa,180,South Africa,Sheikh Zayed Stadium,2,Pakistan
+204,33.6,1,Shoaib Akhtar,2010-10-31,1st,AB de Villiers,22,,CA Ingram,85,Pakistan,South Africa,181,South Africa,Sheikh Zayed Stadium,2,Pakistan
+205,33.7,2,Shoaib Akhtar,2010-10-31,1st,CA Ingram,85,,AB de Villiers,24,Pakistan,South Africa,183,South Africa,Sheikh Zayed Stadium,2,Pakistan
+206,34.1,0,Shahid Afridi,2010-10-31,1st,AB de Villiers,24,,CA Ingram,85,Pakistan,South Africa,183,South Africa,Sheikh Zayed Stadium,2,Pakistan
+207,34.2,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,24,,CA Ingram,86,Pakistan,South Africa,184,South Africa,Sheikh Zayed Stadium,2,Pakistan
+208,34.3,1,Shahid Afridi,2010-10-31,1st,CA Ingram,86,,AB de Villiers,25,Pakistan,South Africa,185,South Africa,Sheikh Zayed Stadium,2,Pakistan
+209,34.4,2,Shahid Afridi,2010-10-31,1st,AB de Villiers,25,,CA Ingram,88,Pakistan,South Africa,187,South Africa,Sheikh Zayed Stadium,2,Pakistan
+210,34.5,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,25,,CA Ingram,89,Pakistan,South Africa,188,South Africa,Sheikh Zayed Stadium,2,Pakistan
+211,34.6,1,Shahid Afridi,2010-10-31,1st,CA Ingram,89,,AB de Villiers,26,Pakistan,South Africa,189,South Africa,Sheikh Zayed Stadium,2,Pakistan
+212,35.1,1,Shoaib Akhtar,2010-10-31,1st,CA Ingram,89,,AB de Villiers,27,Pakistan,South Africa,190,South Africa,Sheikh Zayed Stadium,2,Pakistan
+213,35.2,1,Shoaib Akhtar,2010-10-31,1st,AB de Villiers,27,,CA Ingram,90,Pakistan,South Africa,191,South Africa,Sheikh Zayed Stadium,2,Pakistan
+214,35.3,1,Shoaib Akhtar,2010-10-31,1st,CA Ingram,90,,AB de Villiers,28,Pakistan,South Africa,192,South Africa,Sheikh Zayed Stadium,2,Pakistan
+215,35.4,0,Shoaib Akhtar,2010-10-31,1st,AB de Villiers,28,,CA Ingram,90,Pakistan,South Africa,192,South Africa,Sheikh Zayed Stadium,2,Pakistan
+216,35.5,0,Shoaib Akhtar,2010-10-31,1st,AB de Villiers,28,,CA Ingram,90,Pakistan,South Africa,192,South Africa,Sheikh Zayed Stadium,2,Pakistan
+217,35.6,0,Shoaib Akhtar,2010-10-31,1st,AB de Villiers,28,,CA Ingram,90,Pakistan,South Africa,192,South Africa,Sheikh Zayed Stadium,2,Pakistan
+218,36.1,0,Shahid Afridi,2010-10-31,1st,CA Ingram,90,,AB de Villiers,28,Pakistan,South Africa,192,South Africa,Sheikh Zayed Stadium,2,Pakistan
+219,36.2,1,Shahid Afridi,2010-10-31,1st,CA Ingram,90,,AB de Villiers,29,Pakistan,South Africa,193,South Africa,Sheikh Zayed Stadium,2,Pakistan
+220,36.3,1,Shahid Afridi,2010-10-31,1st,AB de Villiers,29,,CA Ingram,91,Pakistan,South Africa,194,South Africa,Sheikh Zayed Stadium,2,Pakistan
+221,36.4,0,Shahid Afridi,2010-10-31,1st,CA Ingram,91,AB de Villiers,AB de Villiers,29,Pakistan,South Africa,194,South Africa,Sheikh Zayed Stadium,3,Pakistan
+222,36.5,1,Shahid Afridi,2010-10-31,1st,CA Ingram,91,,JP Duminy,1,Pakistan,South Africa,195,South Africa,Sheikh Zayed Stadium,3,Pakistan
+223,36.6,0,Shahid Afridi,2010-10-31,1st,JP Duminy,1,,CA Ingram,91,Pakistan,South Africa,196,South Africa,Sheikh Zayed Stadium,3,Pakistan
+224,36.7,1,Shahid Afridi,2010-10-31,1st,JP Duminy,1,,CA Ingram,92,Pakistan,South Africa,197,South Africa,Sheikh Zayed Stadium,3,Pakistan
+225,37.1,0,Shoaib Akhtar,2010-10-31,1st,JP Duminy,1,,CA Ingram,92,Pakistan,South Africa,197,South Africa,Sheikh Zayed Stadium,3,Pakistan
+226,37.2,1,Shoaib Akhtar,2010-10-31,1st,JP Duminy,1,,CA Ingram,93,Pakistan,South Africa,198,South Africa,Sheikh Zayed Stadium,3,Pakistan
+227,37.3,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,93,,JP Duminy,1,Pakistan,South Africa,198,South Africa,Sheikh Zayed Stadium,3,Pakistan
+228,37.4,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,93,,JP Duminy,1,Pakistan,South Africa,198,South Africa,Sheikh Zayed Stadium,3,Pakistan
+229,37.5,0,Shoaib Akhtar,2010-10-31,1st,CA Ingram,93,,JP Duminy,1,Pakistan,South Africa,198,South Africa,Sheikh Zayed Stadium,3,Pakistan
+230,37.6,2,Shoaib Akhtar,2010-10-31,1st,CA Ingram,93,,JP Duminy,3,Pakistan,South Africa,200,South Africa,Sheikh Zayed Stadium,3,Pakistan
+231,38.1,0,Shahid Afridi,2010-10-31,1st,JP Duminy,3,,CA Ingram,93,Pakistan,South Africa,200,South Africa,Sheikh Zayed Stadium,3,Pakistan
+232,38.2,0,Shahid Afridi,2010-10-31,1st,JP Duminy,3,,CA Ingram,93,Pakistan,South Africa,200,South Africa,Sheikh Zayed Stadium,3,Pakistan
+233,38.3,0,Shahid Afridi,2010-10-31,1st,JP Duminy,3,,CA Ingram,93,Pakistan,South Africa,200,South Africa,Sheikh Zayed Stadium,3,Pakistan
+234,38.4,4,Shahid Afridi,2010-10-31,1st,JP Duminy,3,,CA Ingram,97,Pakistan,South Africa,204,South Africa,Sheikh Zayed Stadium,3,Pakistan
+235,38.5,1,Shahid Afridi,2010-10-31,1st,JP Duminy,3,,CA Ingram,98,Pakistan,South Africa,205,South Africa,Sheikh Zayed Stadium,3,Pakistan
+236,38.6,3,Shahid Afridi,2010-10-31,1st,CA Ingram,98,,JP Duminy,6,Pakistan,South Africa,208,South Africa,Sheikh Zayed Stadium,3,Pakistan
+237,39.1,4,Saeed Ajmal,2010-10-31,1st,CA Ingram,98,,JP Duminy,10,Pakistan,South Africa,212,South Africa,Sheikh Zayed Stadium,3,Pakistan
+238,39.2,1,Saeed Ajmal,2010-10-31,1st,CA Ingram,98,,JP Duminy,11,Pakistan,South Africa,213,South Africa,Sheikh Zayed Stadium,3,Pakistan
+239,39.3,1,Saeed Ajmal,2010-10-31,1st,JP Duminy,11,,CA Ingram,99,Pakistan,South Africa,214,South Africa,Sheikh Zayed Stadium,3,Pakistan
+240,39.4,1,Saeed Ajmal,2010-10-31,1st,CA Ingram,99,,JP Duminy,12,Pakistan,South Africa,215,South Africa,Sheikh Zayed Stadium,3,Pakistan
+241,39.5,1,Saeed Ajmal,2010-10-31,1st,JP Duminy,12,,CA Ingram,100,Pakistan,South Africa,216,South Africa,Sheikh Zayed Stadium,3,Pakistan
+242,39.6,0,Saeed Ajmal,2010-10-31,1st,CA Ingram,100,,JP Duminy,12,Pakistan,South Africa,216,South Africa,Sheikh Zayed Stadium,3,Pakistan
+243,40.1,0,Wahab Riaz,2010-10-31,1st,JP Duminy,12,CA Ingram,CA Ingram,100,Pakistan,South Africa,216,South Africa,Sheikh Zayed Stadium,4,Pakistan
+244,40.2,0,Wahab Riaz,2010-10-31,1st,JP Duminy,12,,DA Miller,0,Pakistan,South Africa,216,South Africa,Sheikh Zayed Stadium,4,Pakistan
+245,40.3,1,Wahab Riaz,2010-10-31,1st,JP Duminy,12,,DA Miller,1,Pakistan,South Africa,217,South Africa,Sheikh Zayed Stadium,4,Pakistan
+246,40.4,0,Wahab Riaz,2010-10-31,1st,DA Miller,1,,JP Duminy,12,Pakistan,South Africa,218,South Africa,Sheikh Zayed Stadium,4,Pakistan
+247,40.5,2,Wahab Riaz,2010-10-31,1st,JP Duminy,12,,DA Miller,3,Pakistan,South Africa,220,South Africa,Sheikh Zayed Stadium,4,Pakistan
+248,40.6,2,Wahab Riaz,2010-10-31,1st,JP Duminy,12,,DA Miller,5,Pakistan,South Africa,222,South Africa,Sheikh Zayed Stadium,4,Pakistan
+249,41.1,0,Mohammad Hafeez,2010-10-31,1st,DA Miller,5,,JP Duminy,12,Pakistan,South Africa,222,South Africa,Sheikh Zayed Stadium,4,Pakistan
+250,41.2,1,Mohammad Hafeez,2010-10-31,1st,DA Miller,5,,JP Duminy,13,Pakistan,South Africa,223,South Africa,Sheikh Zayed Stadium,4,Pakistan
+251,41.3,0,Mohammad Hafeez,2010-10-31,1st,JP Duminy,13,,DA Miller,5,Pakistan,South Africa,223,South Africa,Sheikh Zayed Stadium,4,Pakistan
+252,41.4,0,Mohammad Hafeez,2010-10-31,1st,JP Duminy,13,,DA Miller,5,Pakistan,South Africa,223,South Africa,Sheikh Zayed Stadium,4,Pakistan
+253,41.5,1,Mohammad Hafeez,2010-10-31,1st,JP Duminy,13,,DA Miller,6,Pakistan,South Africa,224,South Africa,Sheikh Zayed Stadium,4,Pakistan
+254,41.6,1,Mohammad Hafeez,2010-10-31,1st,DA Miller,6,,JP Duminy,14,Pakistan,South Africa,225,South Africa,Sheikh Zayed Stadium,4,Pakistan
+255,42.1,4,Wahab Riaz,2010-10-31,1st,DA Miller,6,,JP Duminy,18,Pakistan,South Africa,229,South Africa,Sheikh Zayed Stadium,4,Pakistan
+256,42.2,0,Wahab Riaz,2010-10-31,1st,DA Miller,6,,JP Duminy,18,Pakistan,South Africa,230,South Africa,Sheikh Zayed Stadium,4,Pakistan
+257,42.3,0,Wahab Riaz,2010-10-31,1st,JP Duminy,18,,DA Miller,6,Pakistan,South Africa,230,South Africa,Sheikh Zayed Stadium,4,Pakistan
+258,42.4,0,Wahab Riaz,2010-10-31,1st,JP Duminy,18,,DA Miller,6,Pakistan,South Africa,231,South Africa,Sheikh Zayed Stadium,4,Pakistan
+259,42.5,1,Wahab Riaz,2010-10-31,1st,DA Miller,6,,JP Duminy,19,Pakistan,South Africa,232,South Africa,Sheikh Zayed Stadium,4,Pakistan
+260,42.6,0,Wahab Riaz,2010-10-31,1st,JP Duminy,19,DA Miller,DA Miller,6,Pakistan,South Africa,232,South Africa,Sheikh Zayed Stadium,5,Pakistan
+261,43.1,1,Mohammad Hafeez,2010-10-31,1st,JP Duminy,19,,JA Morkel,1,Pakistan,South Africa,233,South Africa,Sheikh Zayed Stadium,5,Pakistan
+262,43.2,0,Mohammad Hafeez,2010-10-31,1st,JA Morkel,1,,JP Duminy,19,Pakistan,South Africa,233,South Africa,Sheikh Zayed Stadium,5,Pakistan
+263,43.3,2,Mohammad Hafeez,2010-10-31,1st,JA Morkel,1,,JP Duminy,21,Pakistan,South Africa,235,South Africa,Sheikh Zayed Stadium,5,Pakistan
+264,43.4,1,Mohammad Hafeez,2010-10-31,1st,JA Morkel,1,,JP Duminy,22,Pakistan,South Africa,236,South Africa,Sheikh Zayed Stadium,5,Pakistan
+265,43.5,0,Mohammad Hafeez,2010-10-31,1st,JP Duminy,22,JA Morkel,JA Morkel,1,Pakistan,South Africa,236,South Africa,Sheikh Zayed Stadium,6,Pakistan
+266,43.6,0,Mohammad Hafeez,2010-10-31,1st,JP Duminy,22,,J Botha,0,Pakistan,South Africa,236,South Africa,Sheikh Zayed Stadium,6,Pakistan
+267,44.1,1,Wahab Riaz,2010-10-31,1st,J Botha,0,,JP Duminy,23,Pakistan,South Africa,237,South Africa,Sheikh Zayed Stadium,6,Pakistan
+268,44.2,1,Wahab Riaz,2010-10-31,1st,JP Duminy,23,,J Botha,1,Pakistan,South Africa,238,South Africa,Sheikh Zayed Stadium,6,Pakistan
+269,44.3,1,Wahab Riaz,2010-10-31,1st,J Botha,1,,JP Duminy,24,Pakistan,South Africa,239,South Africa,Sheikh Zayed Stadium,6,Pakistan
+270,44.4,0,Wahab Riaz,2010-10-31,1st,JP Duminy,24,,J Botha,1,Pakistan,South Africa,239,South Africa,Sheikh Zayed Stadium,6,Pakistan
+271,44.5,0,Wahab Riaz,2010-10-31,1st,JP Duminy,24,,J Botha,1,Pakistan,South Africa,240,South Africa,Sheikh Zayed Stadium,6,Pakistan
+272,44.6,1,Wahab Riaz,2010-10-31,1st,J Botha,1,,JP Duminy,25,Pakistan,South Africa,241,South Africa,Sheikh Zayed Stadium,6,Pakistan
+273,45.1,1,Mohammad Hafeez,2010-10-31,1st,J Botha,1,,JP Duminy,26,Pakistan,South Africa,242,South Africa,Sheikh Zayed Stadium,6,Pakistan
+274,45.2,1,Mohammad Hafeez,2010-10-31,1st,JP Duminy,26,,J Botha,2,Pakistan,South Africa,243,South Africa,Sheikh Zayed Stadium,6,Pakistan
+275,45.3,1,Mohammad Hafeez,2010-10-31,1st,J Botha,2,,JP Duminy,27,Pakistan,South Africa,244,South Africa,Sheikh Zayed Stadium,6,Pakistan
+276,45.4,1,Mohammad Hafeez,2010-10-31,1st,JP Duminy,27,,J Botha,3,Pakistan,South Africa,245,South Africa,Sheikh Zayed Stadium,6,Pakistan
+277,45.5,0,Mohammad Hafeez,2010-10-31,1st,J Botha,3,,JP Duminy,27,Pakistan,South Africa,245,South Africa,Sheikh Zayed Stadium,6,Pakistan
+278,45.6,1,Mohammad Hafeez,2010-10-31,1st,J Botha,3,,JP Duminy,28,Pakistan,South Africa,246,South Africa,Sheikh Zayed Stadium,6,Pakistan
+279,46.1,0,Wahab Riaz,2010-10-31,1st,J Botha,3,,JP Duminy,28,Pakistan,South Africa,246,South Africa,Sheikh Zayed Stadium,6,Pakistan
+280,46.2,2,Wahab Riaz,2010-10-31,1st,J Botha,3,,JP Duminy,30,Pakistan,South Africa,248,South Africa,Sheikh Zayed Stadium,6,Pakistan
+281,46.3,1,Wahab Riaz,2010-10-31,1st,J Botha,3,,JP Duminy,31,Pakistan,South Africa,249,South Africa,Sheikh Zayed Stadium,6,Pakistan
+282,46.4,0,Wahab Riaz,2010-10-31,1st,JP Duminy,31,,J Botha,3,Pakistan,South Africa,250,South Africa,Sheikh Zayed Stadium,6,Pakistan
+283,46.5,4,Wahab Riaz,2010-10-31,1st,JP Duminy,31,,J Botha,7,Pakistan,South Africa,254,South Africa,Sheikh Zayed Stadium,6,Pakistan
+284,46.6,1,Wahab Riaz,2010-10-31,1st,JP Duminy,31,,J Botha,8,Pakistan,South Africa,255,South Africa,Sheikh Zayed Stadium,6,Pakistan
+285,46.7,1,Wahab Riaz,2010-10-31,1st,J Botha,8,,JP Duminy,32,Pakistan,South Africa,256,South Africa,Sheikh Zayed Stadium,6,Pakistan
+286,47.1,1,Shoaib Akhtar,2010-10-31,1st,J Botha,8,,JP Duminy,33,Pakistan,South Africa,257,South Africa,Sheikh Zayed Stadium,6,Pakistan
+287,47.2,1,Shoaib Akhtar,2010-10-31,1st,JP Duminy,33,,J Botha,9,Pakistan,South Africa,258,South Africa,Sheikh Zayed Stadium,6,Pakistan
+288,47.3,2,Shoaib Akhtar,2010-10-31,1st,J Botha,9,,JP Duminy,35,Pakistan,South Africa,260,South Africa,Sheikh Zayed Stadium,6,Pakistan
+289,47.4,2,Shoaib Akhtar,2010-10-31,1st,J Botha,9,,JP Duminy,37,Pakistan,South Africa,262,South Africa,Sheikh Zayed Stadium,6,Pakistan
+290,47.5,1,Shoaib Akhtar,2010-10-31,1st,J Botha,9,,JP Duminy,38,Pakistan,South Africa,263,South Africa,Sheikh Zayed Stadium,6,Pakistan
+291,47.6,0,Shoaib Akhtar,2010-10-31,1st,JP Duminy,38,,J Botha,9,Pakistan,South Africa,263,South Africa,Sheikh Zayed Stadium,6,Pakistan
+292,48.1,0,Mohammad Hafeez,2010-10-31,1st,J Botha,9,J Botha,JP Duminy,38,Pakistan,South Africa,263,South Africa,Sheikh Zayed Stadium,7,Pakistan
+293,48.2,6,Mohammad Hafeez,2010-10-31,1st,M Morkel,0,,JP Duminy,44,Pakistan,South Africa,269,South Africa,Sheikh Zayed Stadium,7,Pakistan
+294,48.3,1,Mohammad Hafeez,2010-10-31,1st,M Morkel,0,,JP Duminy,45,Pakistan,South Africa,270,South Africa,Sheikh Zayed Stadium,7,Pakistan
+295,48.4,0,Mohammad Hafeez,2010-10-31,1st,JP Duminy,45,,M Morkel,0,Pakistan,South Africa,270,South Africa,Sheikh Zayed Stadium,7,Pakistan
+296,48.5,1,Mohammad Hafeez,2010-10-31,1st,JP Duminy,45,,M Morkel,1,Pakistan,South Africa,271,South Africa,Sheikh Zayed Stadium,7,Pakistan
+297,48.6,0,Mohammad Hafeez,2010-10-31,1st,M Morkel,1,,JP Duminy,45,Pakistan,South Africa,272,South Africa,Sheikh Zayed Stadium,7,Pakistan
+298,48.7,1,Mohammad Hafeez,2010-10-31,1st,M Morkel,1,,JP Duminy,46,Pakistan,South Africa,273,South Africa,Sheikh Zayed Stadium,7,Pakistan
+299,49.1,2,Shoaib Akhtar,2010-10-31,1st,M Morkel,1,,JP Duminy,48,Pakistan,South Africa,275,South Africa,Sheikh Zayed Stadium,7,Pakistan
+300,49.2,2,Shoaib Akhtar,2010-10-31,1st,M Morkel,1,,JP Duminy,50,Pakistan,South Africa,277,South Africa,Sheikh Zayed Stadium,7,Pakistan
+301,49.3,4,Shoaib Akhtar,2010-10-31,1st,M Morkel,1,,JP Duminy,54,Pakistan,South Africa,281,South Africa,Sheikh Zayed Stadium,7,Pakistan
+302,49.4,0,Shoaib Akhtar,2010-10-31,1st,M Morkel,1,JP Duminy,JP Duminy,54,Pakistan,South Africa,281,South Africa,Sheikh Zayed Stadium,8,Pakistan
+303,49.5,4,Shoaib Akhtar,2010-10-31,1st,M Morkel,1,,CK Langeveldt,4,Pakistan,South Africa,285,South Africa,Sheikh Zayed Stadium,8,Pakistan
+304,49.6,0,Shoaib Akhtar,2010-10-31,1st,M Morkel,1,,CK Langeveldt,4,Pakistan,South Africa,286,South Africa,Sheikh Zayed Stadium,8,Pakistan
+305,0.1,1,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,1,South Africa,Sheikh Zayed Stadium,0,Pakistan
+306,0.2,4,CK Langeveldt,2010-10-31,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,Pakistan,South Africa,5,South Africa,Sheikh Zayed Stadium,0,Pakistan
+307,0.3,0,CK Langeveldt,2010-10-31,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,Pakistan,South Africa,5,South Africa,Sheikh Zayed Stadium,0,Pakistan
+308,0.4,1,CK Langeveldt,2010-10-31,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,Pakistan,South Africa,6,South Africa,Sheikh Zayed Stadium,0,Pakistan
+309,0.5,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,6,South Africa,Sheikh Zayed Stadium,0,Pakistan
+310,0.6,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+311,1.1,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+312,1.2,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+313,1.3,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+314,1.4,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+315,1.5,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+316,1.6,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+317,2.1,0,CK Langeveldt,2010-10-31,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,Pakistan,South Africa,7,South Africa,Sheikh Zayed Stadium,0,Pakistan
+318,2.2,0,CK Langeveldt,2010-10-31,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,Pakistan,South Africa,8,South Africa,Sheikh Zayed Stadium,0,Pakistan
+319,2.3,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,Pakistan,South Africa,8,South Africa,Sheikh Zayed Stadium,1,Pakistan
+320,2.4,0,CK Langeveldt,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,8,South Africa,Sheikh Zayed Stadium,1,Pakistan
+321,2.5,1,CK Langeveldt,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,9,South Africa,Sheikh Zayed Stadium,1,Pakistan
+322,2.6,1,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,10,South Africa,Sheikh Zayed Stadium,1,Pakistan
+323,3.1,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,10,South Africa,Sheikh Zayed Stadium,1,Pakistan
+324,3.2,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,10,South Africa,Sheikh Zayed Stadium,1,Pakistan
+325,3.3,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,10,South Africa,Sheikh Zayed Stadium,1,Pakistan
+326,3.4,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,10,South Africa,Sheikh Zayed Stadium,1,Pakistan
+327,3.5,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,10,South Africa,Sheikh Zayed Stadium,1,Pakistan
+328,3.6,4,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,14,South Africa,Sheikh Zayed Stadium,1,Pakistan
+329,4.1,1,CK Langeveldt,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,15,South Africa,Sheikh Zayed Stadium,1,Pakistan
+330,4.2,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,15,South Africa,Sheikh Zayed Stadium,1,Pakistan
+331,4.3,4,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,19,South Africa,Sheikh Zayed Stadium,1,Pakistan
+332,4.4,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,19,South Africa,Sheikh Zayed Stadium,1,Pakistan
+333,4.5,4,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,1,Pakistan
+334,4.6,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,1,Pakistan
+335,5.1,0,LL Tsotsobe,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,23,South Africa,Sheikh Zayed Stadium,1,Pakistan
+336,5.2,1,LL Tsotsobe,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,24,South Africa,Sheikh Zayed Stadium,1,Pakistan
+337,5.3,4,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,28,South Africa,Sheikh Zayed Stadium,1,Pakistan
+338,5.4,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,28,South Africa,Sheikh Zayed Stadium,1,Pakistan
+339,5.5,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,28,South Africa,Sheikh Zayed Stadium,1,Pakistan
+340,5.6,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,28,South Africa,Sheikh Zayed Stadium,1,Pakistan
+341,6.1,0,CK Langeveldt,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,28,South Africa,Sheikh Zayed Stadium,1,Pakistan
+342,6.2,1,CK Langeveldt,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+343,6.3,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+344,6.4,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+345,6.5,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+346,6.6,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+347,7.1,0,LL Tsotsobe,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,29,South Africa,Sheikh Zayed Stadium,1,Pakistan
+348,7.2,1,LL Tsotsobe,2010-10-31,2nd,Younis Khan,0,,Mohammad Hafeez,0,Pakistan,South Africa,30,South Africa,Sheikh Zayed Stadium,1,Pakistan
+349,7.3,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,30,South Africa,Sheikh Zayed Stadium,1,Pakistan
+350,7.4,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,30,South Africa,Sheikh Zayed Stadium,1,Pakistan
+351,7.5,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,30,South Africa,Sheikh Zayed Stadium,1,Pakistan
+352,7.6,1,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,31,South Africa,Sheikh Zayed Stadium,1,Pakistan
+353,8.1,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Younis Khan,0,Pakistan,South Africa,31,South Africa,Sheikh Zayed Stadium,2,Pakistan
+354,8.2,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,31,South Africa,Sheikh Zayed Stadium,2,Pakistan
+355,8.3,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,31,South Africa,Sheikh Zayed Stadium,2,Pakistan
+356,8.4,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,31,South Africa,Sheikh Zayed Stadium,2,Pakistan
+357,8.5,0,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,31,South Africa,Sheikh Zayed Stadium,2,Pakistan
+358,8.6,1,CK Langeveldt,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,32,South Africa,Sheikh Zayed Stadium,2,Pakistan
+359,9.1,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,32,South Africa,Sheikh Zayed Stadium,2,Pakistan
+360,9.2,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,32,South Africa,Sheikh Zayed Stadium,2,Pakistan
+361,9.3,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,32,South Africa,Sheikh Zayed Stadium,2,Pakistan
+362,9.4,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,32,South Africa,Sheikh Zayed Stadium,2,Pakistan
+363,9.5,4,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,36,South Africa,Sheikh Zayed Stadium,2,Pakistan
+364,9.6,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,36,South Africa,Sheikh Zayed Stadium,2,Pakistan
+365,10.1,0,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,36,South Africa,Sheikh Zayed Stadium,2,Pakistan
+366,10.2,1,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,37,South Africa,Sheikh Zayed Stadium,2,Pakistan
+367,10.3,2,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,39,South Africa,Sheikh Zayed Stadium,2,Pakistan
+368,10.4,1,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,40,South Africa,Sheikh Zayed Stadium,2,Pakistan
+369,10.5,0,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,40,South Africa,Sheikh Zayed Stadium,2,Pakistan
+370,10.6,0,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,40,South Africa,Sheikh Zayed Stadium,2,Pakistan
+371,11.1,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,40,South Africa,Sheikh Zayed Stadium,2,Pakistan
+372,11.2,0,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,40,South Africa,Sheikh Zayed Stadium,2,Pakistan
+373,11.3,1,LL Tsotsobe,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,41,South Africa,Sheikh Zayed Stadium,2,Pakistan
+374,11.4,0,LL Tsotsobe,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,41,South Africa,Sheikh Zayed Stadium,2,Pakistan
+375,11.5,0,LL Tsotsobe,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,41,South Africa,Sheikh Zayed Stadium,2,Pakistan
+376,11.6,0,LL Tsotsobe,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,41,South Africa,Sheikh Zayed Stadium,2,Pakistan
+377,12.1,0,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,41,South Africa,Sheikh Zayed Stadium,2,Pakistan
+378,12.2,2,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,43,South Africa,Sheikh Zayed Stadium,2,Pakistan
+379,12.3,0,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,43,South Africa,Sheikh Zayed Stadium,2,Pakistan
+380,12.4,0,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,43,South Africa,Sheikh Zayed Stadium,2,Pakistan
+381,12.5,0,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,43,South Africa,Sheikh Zayed Stadium,2,Pakistan
+382,12.6,0,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,43,South Africa,Sheikh Zayed Stadium,2,Pakistan
+383,13.1,0,JA Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,43,South Africa,Sheikh Zayed Stadium,2,Pakistan
+384,13.2,4,JA Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,47,South Africa,Sheikh Zayed Stadium,2,Pakistan
+385,13.3,1,JA Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,48,South Africa,Sheikh Zayed Stadium,2,Pakistan
+386,13.4,4,JA Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,52,South Africa,Sheikh Zayed Stadium,2,Pakistan
+387,13.5,1,JA Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,53,South Africa,Sheikh Zayed Stadium,2,Pakistan
+388,13.6,1,JA Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,54,South Africa,Sheikh Zayed Stadium,2,Pakistan
+389,14.1,1,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,55,South Africa,Sheikh Zayed Stadium,2,Pakistan
+390,14.2,1,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,56,South Africa,Sheikh Zayed Stadium,2,Pakistan
+391,14.3,0,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,56,South Africa,Sheikh Zayed Stadium,2,Pakistan
+392,14.4,0,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,56,South Africa,Sheikh Zayed Stadium,2,Pakistan
+393,14.5,2,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,58,South Africa,Sheikh Zayed Stadium,2,Pakistan
+394,14.6,0,M Morkel,2010-10-31,2nd,Misbah-ul-Haq,0,,Mohammad Hafeez,0,Pakistan,South Africa,58,South Africa,Sheikh Zayed Stadium,2,Pakistan
+395,15.1,0,RJ Peterson,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,58,South Africa,Sheikh Zayed Stadium,2,Pakistan
+396,15.2,0,RJ Peterson,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,58,South Africa,Sheikh Zayed Stadium,2,Pakistan
+397,15.3,0,RJ Peterson,2010-10-31,2nd,Mohammad Hafeez,0,,Misbah-ul-Haq,0,Pakistan,South Africa,58,South Africa,Sheikh Zayed Stadium,3,Pakistan
+398,15.4,0,RJ Peterson,2010-10-31,2nd,Mohammad Hafeez,0,,Fawad Alam,0,Pakistan,South Africa,58,South Africa,Sheikh Zayed Stadium,3,Pakistan
+399,15.5,1,RJ Peterson,2010-10-31,2nd,Mohammad Hafeez,0,,Fawad Alam,0,Pakistan,South Africa,59,South Africa,Sheikh Zayed Stadium,3,Pakistan
+400,15.6,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,60,South Africa,Sheikh Zayed Stadium,3,Pakistan
+401,16.1,2,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,62,South Africa,Sheikh Zayed Stadium,3,Pakistan
+402,16.2,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,62,South Africa,Sheikh Zayed Stadium,3,Pakistan
+403,16.3,4,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,66,South Africa,Sheikh Zayed Stadium,3,Pakistan
+404,16.4,1,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,3,Pakistan
+405,16.5,0,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Fawad Alam,0,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,3,Pakistan
+406,16.6,0,M Morkel,2010-10-31,2nd,Mohammad Hafeez,0,,Fawad Alam,0,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,3,Pakistan
+407,17.1,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,3,Pakistan
+408,17.2,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,67,South Africa,Sheikh Zayed Stadium,3,Pakistan
+409,17.3,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,68,South Africa,Sheikh Zayed Stadium,3,Pakistan
+410,17.4,1,RJ Peterson,2010-10-31,2nd,Mohammad Hafeez,0,,Fawad Alam,0,Pakistan,South Africa,69,South Africa,Sheikh Zayed Stadium,3,Pakistan
+411,17.5,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,70,South Africa,Sheikh Zayed Stadium,3,Pakistan
+412,17.6,0,RJ Peterson,2010-10-31,2nd,Mohammad Hafeez,0,,Fawad Alam,0,Pakistan,South Africa,70,South Africa,Sheikh Zayed Stadium,3,Pakistan
+413,18.1,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,70,South Africa,Sheikh Zayed Stadium,3,Pakistan
+414,18.2,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,70,South Africa,Sheikh Zayed Stadium,3,Pakistan
+415,18.3,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Mohammad Hafeez,0,Pakistan,South Africa,70,South Africa,Sheikh Zayed Stadium,4,Pakistan
+416,18.4,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,71,South Africa,Sheikh Zayed Stadium,4,Pakistan
+417,18.5,1,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,72,South Africa,Sheikh Zayed Stadium,4,Pakistan
+418,18.6,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,72,South Africa,Sheikh Zayed Stadium,4,Pakistan
+419,19.1,1,RJ Peterson,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,73,South Africa,Sheikh Zayed Stadium,4,Pakistan
+420,19.2,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,74,South Africa,Sheikh Zayed Stadium,4,Pakistan
+421,19.3,1,RJ Peterson,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,75,South Africa,Sheikh Zayed Stadium,4,Pakistan
+422,19.4,4,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,79,South Africa,Sheikh Zayed Stadium,4,Pakistan
+423,19.5,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,79,South Africa,Sheikh Zayed Stadium,4,Pakistan
+424,19.6,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,79,South Africa,Sheikh Zayed Stadium,4,Pakistan
+425,20.1,1,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,80,South Africa,Sheikh Zayed Stadium,4,Pakistan
+426,20.2,2,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,82,South Africa,Sheikh Zayed Stadium,4,Pakistan
+427,20.3,2,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,84,South Africa,Sheikh Zayed Stadium,4,Pakistan
+428,20.4,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,85,South Africa,Sheikh Zayed Stadium,4,Pakistan
+429,20.5,0,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,85,South Africa,Sheikh Zayed Stadium,4,Pakistan
+430,20.6,0,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,85,South Africa,Sheikh Zayed Stadium,4,Pakistan
+431,21.1,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,86,South Africa,Sheikh Zayed Stadium,4,Pakistan
+432,21.2,1,RJ Peterson,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,87,South Africa,Sheikh Zayed Stadium,4,Pakistan
+433,21.3,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,87,South Africa,Sheikh Zayed Stadium,4,Pakistan
+434,21.4,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,87,South Africa,Sheikh Zayed Stadium,4,Pakistan
+435,21.5,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,88,South Africa,Sheikh Zayed Stadium,4,Pakistan
+436,21.6,0,RJ Peterson,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,88,South Africa,Sheikh Zayed Stadium,4,Pakistan
+437,22.1,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,89,South Africa,Sheikh Zayed Stadium,4,Pakistan
+438,22.2,0,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,89,South Africa,Sheikh Zayed Stadium,4,Pakistan
+439,22.3,0,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,89,South Africa,Sheikh Zayed Stadium,4,Pakistan
+440,22.4,1,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,90,South Africa,Sheikh Zayed Stadium,4,Pakistan
+441,22.5,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,91,South Africa,Sheikh Zayed Stadium,4,Pakistan
+442,22.6,0,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,91,South Africa,Sheikh Zayed Stadium,4,Pakistan
+443,23.1,4,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,95,South Africa,Sheikh Zayed Stadium,4,Pakistan
+444,23.2,6,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,101,South Africa,Sheikh Zayed Stadium,4,Pakistan
+445,23.3,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,101,South Africa,Sheikh Zayed Stadium,4,Pakistan
+446,23.4,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,102,South Africa,Sheikh Zayed Stadium,4,Pakistan
+447,23.5,0,RJ Peterson,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,102,South Africa,Sheikh Zayed Stadium,4,Pakistan
+448,23.6,1,RJ Peterson,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,103,South Africa,Sheikh Zayed Stadium,4,Pakistan
+449,24.1,1,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,104,South Africa,Sheikh Zayed Stadium,4,Pakistan
+450,24.2,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,105,South Africa,Sheikh Zayed Stadium,4,Pakistan
+451,24.3,0,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,105,South Africa,Sheikh Zayed Stadium,4,Pakistan
+452,24.4,1,J Botha,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,106,South Africa,Sheikh Zayed Stadium,4,Pakistan
+453,24.5,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,107,South Africa,Sheikh Zayed Stadium,4,Pakistan
+454,24.6,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,107,South Africa,Sheikh Zayed Stadium,4,Pakistan
+455,24.7,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,108,South Africa,Sheikh Zayed Stadium,4,Pakistan
+456,25.1,2,CK Langeveldt,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,110,South Africa,Sheikh Zayed Stadium,4,Pakistan
+457,25.2,1,CK Langeveldt,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,111,South Africa,Sheikh Zayed Stadium,4,Pakistan
+458,25.3,0,CK Langeveldt,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,111,South Africa,Sheikh Zayed Stadium,4,Pakistan
+459,25.4,0,CK Langeveldt,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,111,South Africa,Sheikh Zayed Stadium,4,Pakistan
+460,25.5,1,CK Langeveldt,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,112,South Africa,Sheikh Zayed Stadium,4,Pakistan
+461,25.6,6,CK Langeveldt,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,118,South Africa,Sheikh Zayed Stadium,4,Pakistan
+462,26.1,1,M Morkel,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,119,South Africa,Sheikh Zayed Stadium,4,Pakistan
+463,26.2,1,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,120,South Africa,Sheikh Zayed Stadium,4,Pakistan
+464,26.3,1,M Morkel,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,121,South Africa,Sheikh Zayed Stadium,4,Pakistan
+465,26.4,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,121,South Africa,Sheikh Zayed Stadium,4,Pakistan
+466,26.5,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,121,South Africa,Sheikh Zayed Stadium,4,Pakistan
+467,26.6,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,121,South Africa,Sheikh Zayed Stadium,4,Pakistan
+468,27.1,2,LL Tsotsobe,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,123,South Africa,Sheikh Zayed Stadium,4,Pakistan
+469,27.2,1,LL Tsotsobe,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,124,South Africa,Sheikh Zayed Stadium,4,Pakistan
+470,27.3,0,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,124,South Africa,Sheikh Zayed Stadium,4,Pakistan
+471,27.4,2,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,126,South Africa,Sheikh Zayed Stadium,4,Pakistan
+472,27.5,2,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,128,South Africa,Sheikh Zayed Stadium,4,Pakistan
+473,27.6,1,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,129,South Africa,Sheikh Zayed Stadium,4,Pakistan
+474,28.1,2,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,131,South Africa,Sheikh Zayed Stadium,4,Pakistan
+475,28.2,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,131,South Africa,Sheikh Zayed Stadium,4,Pakistan
+476,28.3,4,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,135,South Africa,Sheikh Zayed Stadium,4,Pakistan
+477,28.4,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,135,South Africa,Sheikh Zayed Stadium,4,Pakistan
+478,28.5,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,135,South Africa,Sheikh Zayed Stadium,4,Pakistan
+479,28.6,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,135,South Africa,Sheikh Zayed Stadium,4,Pakistan
+480,29.1,1,LL Tsotsobe,2010-10-31,2nd,Shahid Afridi,0,,Fawad Alam,0,Pakistan,South Africa,136,South Africa,Sheikh Zayed Stadium,4,Pakistan
+481,29.2,0,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Shahid Afridi,0,Pakistan,South Africa,136,South Africa,Sheikh Zayed Stadium,5,Pakistan
+482,29.3,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,136,South Africa,Sheikh Zayed Stadium,5,Pakistan
+483,29.4,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,136,South Africa,Sheikh Zayed Stadium,5,Pakistan
+484,29.5,1,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,137,South Africa,Sheikh Zayed Stadium,5,Pakistan
+485,29.6,0,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,137,South Africa,Sheikh Zayed Stadium,5,Pakistan
+486,30.1,1,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,138,South Africa,Sheikh Zayed Stadium,5,Pakistan
+487,30.2,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,139,South Africa,Sheikh Zayed Stadium,5,Pakistan
+488,30.3,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,139,South Africa,Sheikh Zayed Stadium,5,Pakistan
+489,30.4,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,139,South Africa,Sheikh Zayed Stadium,5,Pakistan
+490,30.5,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,139,South Africa,Sheikh Zayed Stadium,5,Pakistan
+491,30.6,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,139,South Africa,Sheikh Zayed Stadium,5,Pakistan
+492,31.1,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,139,South Africa,Sheikh Zayed Stadium,5,Pakistan
+493,31.2,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,140,South Africa,Sheikh Zayed Stadium,5,Pakistan
+494,31.3,0,RJ Peterson,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,140,South Africa,Sheikh Zayed Stadium,5,Pakistan
+495,31.4,0,RJ Peterson,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,140,South Africa,Sheikh Zayed Stadium,5,Pakistan
+496,31.5,1,RJ Peterson,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,141,South Africa,Sheikh Zayed Stadium,5,Pakistan
+497,31.6,1,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,142,South Africa,Sheikh Zayed Stadium,5,Pakistan
+498,32.1,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,142,South Africa,Sheikh Zayed Stadium,5,Pakistan
+499,32.2,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,142,South Africa,Sheikh Zayed Stadium,5,Pakistan
+500,32.3,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,143,South Africa,Sheikh Zayed Stadium,5,Pakistan
+501,32.4,1,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,144,South Africa,Sheikh Zayed Stadium,5,Pakistan
+502,32.5,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,145,South Africa,Sheikh Zayed Stadium,5,Pakistan
+503,32.6,4,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,149,South Africa,Sheikh Zayed Stadium,5,Pakistan
+504,33.1,6,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,5,Pakistan
+505,33.2,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,5,Pakistan
+506,33.3,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,5,Pakistan
+507,33.4,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,5,Pakistan
+508,33.5,0,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,155,South Africa,Sheikh Zayed Stadium,5,Pakistan
+509,33.6,4,RJ Peterson,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,159,South Africa,Sheikh Zayed Stadium,5,Pakistan
+510,34.1,1,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,160,South Africa,Sheikh Zayed Stadium,5,Pakistan
+511,34.2,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,160,South Africa,Sheikh Zayed Stadium,5,Pakistan
+512,34.3,0,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,161,South Africa,Sheikh Zayed Stadium,5,Pakistan
+513,34.4,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,162,South Africa,Sheikh Zayed Stadium,5,Pakistan
+514,34.5,1,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,163,South Africa,Sheikh Zayed Stadium,5,Pakistan
+515,34.6,1,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,164,South Africa,Sheikh Zayed Stadium,5,Pakistan
+516,34.7,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,164,South Africa,Sheikh Zayed Stadium,5,Pakistan
+517,35.1,1,JA Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,165,South Africa,Sheikh Zayed Stadium,5,Pakistan
+518,35.2,1,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,166,South Africa,Sheikh Zayed Stadium,5,Pakistan
+519,35.3,1,JA Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,167,South Africa,Sheikh Zayed Stadium,5,Pakistan
+520,35.4,0,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,167,South Africa,Sheikh Zayed Stadium,5,Pakistan
+521,35.5,4,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,171,South Africa,Sheikh Zayed Stadium,5,Pakistan
+522,35.6,1,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,172,South Africa,Sheikh Zayed Stadium,5,Pakistan
+523,36.1,0,M Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,173,South Africa,Sheikh Zayed Stadium,5,Pakistan
+524,36.2,0,M Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,173,South Africa,Sheikh Zayed Stadium,5,Pakistan
+525,36.3,1,M Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,174,South Africa,Sheikh Zayed Stadium,5,Pakistan
+526,36.4,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,5,Pakistan
+527,36.5,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,5,Pakistan
+528,36.6,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,5,Pakistan
+529,36.7,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,5,Pakistan
+530,36.8,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,175,South Africa,Sheikh Zayed Stadium,5,Pakistan
+531,37.1,1,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,176,South Africa,Sheikh Zayed Stadium,5,Pakistan
+532,37.2,0,JA Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,176,South Africa,Sheikh Zayed Stadium,5,Pakistan
+533,37.3,1,JA Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,177,South Africa,Sheikh Zayed Stadium,5,Pakistan
+534,37.4,1,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,178,South Africa,Sheikh Zayed Stadium,5,Pakistan
+535,37.5,0,JA Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,178,South Africa,Sheikh Zayed Stadium,5,Pakistan
+536,37.6,6,JA Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,184,South Africa,Sheikh Zayed Stadium,5,Pakistan
+537,38.1,1,M Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,185,South Africa,Sheikh Zayed Stadium,5,Pakistan
+538,38.2,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,185,South Africa,Sheikh Zayed Stadium,5,Pakistan
+539,38.3,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,185,South Africa,Sheikh Zayed Stadium,5,Pakistan
+540,38.4,0,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,186,South Africa,Sheikh Zayed Stadium,5,Pakistan
+541,38.5,1,M Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,187,South Africa,Sheikh Zayed Stadium,5,Pakistan
+542,38.6,1,M Morkel,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,188,South Africa,Sheikh Zayed Stadium,5,Pakistan
+543,39.1,0,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,189,South Africa,Sheikh Zayed Stadium,5,Pakistan
+544,39.2,6,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,195,South Africa,Sheikh Zayed Stadium,5,Pakistan
+545,39.3,1,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,196,South Africa,Sheikh Zayed Stadium,5,Pakistan
+546,39.4,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,197,South Africa,Sheikh Zayed Stadium,5,Pakistan
+547,39.5,2,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,199,South Africa,Sheikh Zayed Stadium,5,Pakistan
+548,39.6,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,199,South Africa,Sheikh Zayed Stadium,5,Pakistan
+549,39.7,1,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,200,South Africa,Sheikh Zayed Stadium,5,Pakistan
+550,39.8,0,LL Tsotsobe,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,200,South Africa,Sheikh Zayed Stadium,5,Pakistan
+551,40.1,4,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,204,South Africa,Sheikh Zayed Stadium,5,Pakistan
+552,40.2,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,204,South Africa,Sheikh Zayed Stadium,5,Pakistan
+553,40.3,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,204,South Africa,Sheikh Zayed Stadium,5,Pakistan
+554,40.4,0,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,204,South Africa,Sheikh Zayed Stadium,5,Pakistan
+555,40.5,1,J Botha,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,205,South Africa,Sheikh Zayed Stadium,5,Pakistan
+556,40.6,6,J Botha,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,211,South Africa,Sheikh Zayed Stadium,5,Pakistan
+557,41.1,0,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,211,South Africa,Sheikh Zayed Stadium,5,Pakistan
+558,41.2,1,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,212,South Africa,Sheikh Zayed Stadium,5,Pakistan
+559,41.3,4,CK Langeveldt,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,216,South Africa,Sheikh Zayed Stadium,5,Pakistan
+560,41.4,1,CK Langeveldt,2010-10-31,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,217,South Africa,Sheikh Zayed Stadium,5,Pakistan
+561,41.5,0,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,217,South Africa,Sheikh Zayed Stadium,6,Pakistan
+562,41.6,2,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,219,South Africa,Sheikh Zayed Stadium,6,Pakistan
+563,42.1,0,M Morkel,2010-10-31,2nd,Zulqarnain Haider,0,,Abdul Razzaq,0,Pakistan,South Africa,219,South Africa,Sheikh Zayed Stadium,6,Pakistan
+564,42.2,0,M Morkel,2010-10-31,2nd,Zulqarnain Haider,0,,Abdul Razzaq,0,Pakistan,South Africa,219,South Africa,Sheikh Zayed Stadium,6,Pakistan
+565,42.3,1,M Morkel,2010-10-31,2nd,Zulqarnain Haider,0,,Abdul Razzaq,0,Pakistan,South Africa,220,South Africa,Sheikh Zayed Stadium,6,Pakistan
+566,42.4,1,M Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,221,South Africa,Sheikh Zayed Stadium,6,Pakistan
+567,42.5,0,M Morkel,2010-10-31,2nd,Zulqarnain Haider,0,,Abdul Razzaq,0,Pakistan,South Africa,221,South Africa,Sheikh Zayed Stadium,6,Pakistan
+568,42.6,0,M Morkel,2010-10-31,2nd,Zulqarnain Haider,0,,Abdul Razzaq,0,Pakistan,South Africa,221,South Africa,Sheikh Zayed Stadium,6,Pakistan
+569,43.1,2,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,223,South Africa,Sheikh Zayed Stadium,6,Pakistan
+570,43.2,0,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,223,South Africa,Sheikh Zayed Stadium,6,Pakistan
+571,43.3,0,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,223,South Africa,Sheikh Zayed Stadium,6,Pakistan
+572,43.4,0,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,223,South Africa,Sheikh Zayed Stadium,6,Pakistan
+573,43.5,1,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,224,South Africa,Sheikh Zayed Stadium,6,Pakistan
+574,43.6,4,CK Langeveldt,2010-10-31,2nd,Zulqarnain Haider,0,,Abdul Razzaq,0,Pakistan,South Africa,228,South Africa,Sheikh Zayed Stadium,6,Pakistan
+575,44.1,0,M Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Zulqarnain Haider,0,Pakistan,South Africa,228,South Africa,Sheikh Zayed Stadium,7,Pakistan
+576,44.2,0,M Morkel,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,228,South Africa,Sheikh Zayed Stadium,7,Pakistan
+577,44.3,0,M Morkel,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,228,South Africa,Sheikh Zayed Stadium,7,Pakistan
+578,44.4,0,M Morkel,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,228,South Africa,Sheikh Zayed Stadium,7,Pakistan
+579,44.5,4,M Morkel,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,232,South Africa,Sheikh Zayed Stadium,7,Pakistan
+580,44.6,1,M Morkel,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,233,South Africa,Sheikh Zayed Stadium,7,Pakistan
+581,45.1,1,LL Tsotsobe,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,234,South Africa,Sheikh Zayed Stadium,7,Pakistan
+582,45.2,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Wahab Riaz,0,Pakistan,South Africa,234,South Africa,Sheikh Zayed Stadium,7,Pakistan
+583,45.3,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Wahab Riaz,0,Pakistan,South Africa,234,South Africa,Sheikh Zayed Stadium,7,Pakistan
+584,45.4,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Wahab Riaz,0,Pakistan,South Africa,234,South Africa,Sheikh Zayed Stadium,7,Pakistan
+585,45.5,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Wahab Riaz,0,Pakistan,South Africa,234,South Africa,Sheikh Zayed Stadium,7,Pakistan
+586,45.6,0,LL Tsotsobe,2010-10-31,2nd,Abdul Razzaq,0,,Wahab Riaz,0,Pakistan,South Africa,234,South Africa,Sheikh Zayed Stadium,7,Pakistan
+587,46.1,6,CK Langeveldt,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,240,South Africa,Sheikh Zayed Stadium,7,Pakistan
+588,46.2,0,CK Langeveldt,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,240,South Africa,Sheikh Zayed Stadium,7,Pakistan
+589,46.3,6,CK Langeveldt,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,246,South Africa,Sheikh Zayed Stadium,7,Pakistan
+590,46.4,2,CK Langeveldt,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,248,South Africa,Sheikh Zayed Stadium,7,Pakistan
+591,46.5,6,CK Langeveldt,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,254,South Africa,Sheikh Zayed Stadium,7,Pakistan
+592,46.6,0,CK Langeveldt,2010-10-31,2nd,Wahab Riaz,0,,Abdul Razzaq,0,Pakistan,South Africa,254,South Africa,Sheikh Zayed Stadium,8,Pakistan
+593,47.1,0,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Saeed Ajmal,0,Pakistan,South Africa,254,South Africa,Sheikh Zayed Stadium,8,Pakistan
+594,47.2,1,JA Morkel,2010-10-31,2nd,Abdul Razzaq,0,,Saeed Ajmal,0,Pakistan,South Africa,255,South Africa,Sheikh Zayed Stadium,8,Pakistan
+595,47.3,0,JA Morkel,2010-10-31,2nd,Saeed Ajmal,0,,Abdul Razzaq,0,Pakistan,South Africa,255,South Africa,Sheikh Zayed Stadium,8,Pakistan
+596,47.4,1,JA Morkel,2010-10-31,2nd,Saeed Ajmal,0,,Abdul Razzaq,0,Pakistan,South Africa,257,South Africa,Sheikh Zayed Stadium,9,Pakistan
+597,47.5,4,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,261,South Africa,Sheikh Zayed Stadium,9,Pakistan
+598,47.6,0,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,261,South Africa,Sheikh Zayed Stadium,9,Pakistan
+599,47.7,1,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,262,South Africa,Sheikh Zayed Stadium,9,Pakistan
+600,48.1,6,CK Langeveldt,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,268,South Africa,Sheikh Zayed Stadium,9,Pakistan
+601,48.2,0,CK Langeveldt,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,268,South Africa,Sheikh Zayed Stadium,9,Pakistan
+602,48.3,0,CK Langeveldt,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,268,South Africa,Sheikh Zayed Stadium,9,Pakistan
+603,48.4,4,CK Langeveldt,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,272,South Africa,Sheikh Zayed Stadium,9,Pakistan
+604,48.5,1,CK Langeveldt,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,273,South Africa,Sheikh Zayed Stadium,9,Pakistan
+605,48.6,0,CK Langeveldt,2010-10-31,2nd,Abdul Razzaq,0,,Shoaib Akhtar,0,Pakistan,South Africa,273,South Africa,Sheikh Zayed Stadium,9,Pakistan
+606,49.1,0,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,273,South Africa,Sheikh Zayed Stadium,9,Pakistan
+607,49.2,6,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,279,South Africa,Sheikh Zayed Stadium,9,Pakistan
+608,49.3,6,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,285,South Africa,Sheikh Zayed Stadium,9,Pakistan
+609,49.4,0,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,285,South Africa,Sheikh Zayed Stadium,9,Pakistan
+610,49.5,4,JA Morkel,2010-10-31,2nd,Shoaib Akhtar,0,,Abdul Razzaq,0,Pakistan,South Africa,289,South Africa,Sheikh Zayed Stadium,9,Pakistan

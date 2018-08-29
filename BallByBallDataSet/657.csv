@@ -1,0 +1,605 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,SL Malinga,2012-01-20,1st,GC Smith,0,,AN Petersen,0,South Africa,Sri Lanka,0,South Africa,De Beers Diamond Oval,0,Sri Lanka
+1,0.2,2,SL Malinga,2012-01-20,1st,GC Smith,0,,AN Petersen,2,South Africa,Sri Lanka,2,South Africa,De Beers Diamond Oval,0,Sri Lanka
+2,0.3,0,SL Malinga,2012-01-20,1st,GC Smith,0,,AN Petersen,2,South Africa,Sri Lanka,3,South Africa,De Beers Diamond Oval,0,Sri Lanka
+3,0.4,0,SL Malinga,2012-01-20,1st,GC Smith,0,,AN Petersen,2,South Africa,Sri Lanka,3,South Africa,De Beers Diamond Oval,0,Sri Lanka
+4,0.5,0,SL Malinga,2012-01-20,1st,GC Smith,0,,AN Petersen,2,South Africa,Sri Lanka,3,South Africa,De Beers Diamond Oval,0,Sri Lanka
+5,0.6,0,SL Malinga,2012-01-20,1st,GC Smith,0,,AN Petersen,2,South Africa,Sri Lanka,3,South Africa,De Beers Diamond Oval,0,Sri Lanka
+6,0.7,0,SL Malinga,2012-01-20,1st,GC Smith,0,,AN Petersen,2,South Africa,Sri Lanka,3,South Africa,De Beers Diamond Oval,0,Sri Lanka
+7,1.1,2,KMDN Kulasekara,2012-01-20,1st,AN Petersen,2,,GC Smith,2,South Africa,Sri Lanka,5,South Africa,De Beers Diamond Oval,0,Sri Lanka
+8,1.2,0,KMDN Kulasekara,2012-01-20,1st,AN Petersen,2,,GC Smith,2,South Africa,Sri Lanka,5,South Africa,De Beers Diamond Oval,0,Sri Lanka
+9,1.3,0,KMDN Kulasekara,2012-01-20,1st,AN Petersen,2,,GC Smith,2,South Africa,Sri Lanka,5,South Africa,De Beers Diamond Oval,0,Sri Lanka
+10,1.4,0,KMDN Kulasekara,2012-01-20,1st,AN Petersen,2,,GC Smith,2,South Africa,Sri Lanka,5,South Africa,De Beers Diamond Oval,0,Sri Lanka
+11,1.5,0,KMDN Kulasekara,2012-01-20,1st,AN Petersen,2,,GC Smith,2,South Africa,Sri Lanka,5,South Africa,De Beers Diamond Oval,0,Sri Lanka
+12,1.6,1,KMDN Kulasekara,2012-01-20,1st,AN Petersen,2,,GC Smith,3,South Africa,Sri Lanka,6,South Africa,De Beers Diamond Oval,0,Sri Lanka
+13,2.1,0,SL Malinga,2012-01-20,1st,AN Petersen,2,,GC Smith,3,South Africa,Sri Lanka,6,South Africa,De Beers Diamond Oval,0,Sri Lanka
+14,2.2,1,SL Malinga,2012-01-20,1st,AN Petersen,2,,GC Smith,4,South Africa,Sri Lanka,7,South Africa,De Beers Diamond Oval,0,Sri Lanka
+15,2.3,0,SL Malinga,2012-01-20,1st,GC Smith,4,,AN Petersen,2,South Africa,Sri Lanka,7,South Africa,De Beers Diamond Oval,0,Sri Lanka
+16,2.4,1,SL Malinga,2012-01-20,1st,GC Smith,4,,AN Petersen,3,South Africa,Sri Lanka,8,South Africa,De Beers Diamond Oval,0,Sri Lanka
+17,2.5,4,SL Malinga,2012-01-20,1st,AN Petersen,3,,GC Smith,8,South Africa,Sri Lanka,12,South Africa,De Beers Diamond Oval,0,Sri Lanka
+18,2.6,4,SL Malinga,2012-01-20,1st,AN Petersen,3,,GC Smith,12,South Africa,Sri Lanka,16,South Africa,De Beers Diamond Oval,0,Sri Lanka
+19,3.1,0,KMDN Kulasekara,2012-01-20,1st,GC Smith,12,,AN Petersen,3,South Africa,Sri Lanka,16,South Africa,De Beers Diamond Oval,0,Sri Lanka
+20,3.2,1,KMDN Kulasekara,2012-01-20,1st,GC Smith,12,,AN Petersen,4,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,0,Sri Lanka
+21,3.3,2,KMDN Kulasekara,2012-01-20,1st,AN Petersen,4,,GC Smith,14,South Africa,Sri Lanka,19,South Africa,De Beers Diamond Oval,0,Sri Lanka
+22,3.4,1,KMDN Kulasekara,2012-01-20,1st,AN Petersen,4,,GC Smith,15,South Africa,Sri Lanka,20,South Africa,De Beers Diamond Oval,0,Sri Lanka
+23,3.5,4,KMDN Kulasekara,2012-01-20,1st,GC Smith,15,,AN Petersen,8,South Africa,Sri Lanka,24,South Africa,De Beers Diamond Oval,0,Sri Lanka
+24,3.6,0,KMDN Kulasekara,2012-01-20,1st,GC Smith,15,,AN Petersen,8,South Africa,Sri Lanka,24,South Africa,De Beers Diamond Oval,0,Sri Lanka
+25,4.1,0,SMSM Senanayake,2012-01-20,1st,AN Petersen,8,,GC Smith,15,South Africa,Sri Lanka,24,South Africa,De Beers Diamond Oval,0,Sri Lanka
+26,4.2,1,SMSM Senanayake,2012-01-20,1st,AN Petersen,8,,GC Smith,16,South Africa,Sri Lanka,25,South Africa,De Beers Diamond Oval,0,Sri Lanka
+27,4.3,0,SMSM Senanayake,2012-01-20,1st,GC Smith,16,,AN Petersen,8,South Africa,Sri Lanka,25,South Africa,De Beers Diamond Oval,0,Sri Lanka
+28,4.4,1,SMSM Senanayake,2012-01-20,1st,GC Smith,16,,AN Petersen,9,South Africa,Sri Lanka,26,South Africa,De Beers Diamond Oval,0,Sri Lanka
+29,4.5,0,SMSM Senanayake,2012-01-20,1st,AN Petersen,9,,GC Smith,16,South Africa,Sri Lanka,26,South Africa,De Beers Diamond Oval,0,Sri Lanka
+30,4.6,0,SMSM Senanayake,2012-01-20,1st,AN Petersen,9,,GC Smith,16,South Africa,Sri Lanka,26,South Africa,De Beers Diamond Oval,0,Sri Lanka
+31,5.1,0,KMDN Kulasekara,2012-01-20,1st,GC Smith,16,,AN Petersen,9,South Africa,Sri Lanka,26,South Africa,De Beers Diamond Oval,0,Sri Lanka
+32,5.2,0,KMDN Kulasekara,2012-01-20,1st,GC Smith,16,,AN Petersen,9,South Africa,Sri Lanka,26,South Africa,De Beers Diamond Oval,0,Sri Lanka
+33,5.3,2,KMDN Kulasekara,2012-01-20,1st,GC Smith,16,,AN Petersen,11,South Africa,Sri Lanka,28,South Africa,De Beers Diamond Oval,0,Sri Lanka
+34,5.4,0,KMDN Kulasekara,2012-01-20,1st,GC Smith,16,,AN Petersen,11,South Africa,Sri Lanka,28,South Africa,De Beers Diamond Oval,0,Sri Lanka
+35,5.5,1,KMDN Kulasekara,2012-01-20,1st,GC Smith,16,,AN Petersen,12,South Africa,Sri Lanka,29,South Africa,De Beers Diamond Oval,0,Sri Lanka
+36,5.6,0,KMDN Kulasekara,2012-01-20,1st,AN Petersen,12,,GC Smith,16,South Africa,Sri Lanka,29,South Africa,De Beers Diamond Oval,0,Sri Lanka
+37,6.1,4,SMSM Senanayake,2012-01-20,1st,GC Smith,16,,AN Petersen,16,South Africa,Sri Lanka,33,South Africa,De Beers Diamond Oval,0,Sri Lanka
+38,6.2,0,SMSM Senanayake,2012-01-20,1st,GC Smith,16,,AN Petersen,16,South Africa,Sri Lanka,33,South Africa,De Beers Diamond Oval,0,Sri Lanka
+39,6.3,6,SMSM Senanayake,2012-01-20,1st,GC Smith,16,,AN Petersen,22,South Africa,Sri Lanka,39,South Africa,De Beers Diamond Oval,0,Sri Lanka
+40,6.4,0,SMSM Senanayake,2012-01-20,1st,GC Smith,16,,AN Petersen,22,South Africa,Sri Lanka,39,South Africa,De Beers Diamond Oval,0,Sri Lanka
+41,6.5,1,SMSM Senanayake,2012-01-20,1st,GC Smith,16,,AN Petersen,23,South Africa,Sri Lanka,40,South Africa,De Beers Diamond Oval,0,Sri Lanka
+42,6.6,1,SMSM Senanayake,2012-01-20,1st,AN Petersen,23,,GC Smith,17,South Africa,Sri Lanka,41,South Africa,De Beers Diamond Oval,0,Sri Lanka
+43,7.1,2,NLTC Perera,2012-01-20,1st,AN Petersen,23,,GC Smith,19,South Africa,Sri Lanka,43,South Africa,De Beers Diamond Oval,0,Sri Lanka
+44,7.2,0,NLTC Perera,2012-01-20,1st,AN Petersen,23,,GC Smith,19,South Africa,Sri Lanka,43,South Africa,De Beers Diamond Oval,0,Sri Lanka
+45,7.3,0,NLTC Perera,2012-01-20,1st,AN Petersen,23,,GC Smith,19,South Africa,Sri Lanka,43,South Africa,De Beers Diamond Oval,0,Sri Lanka
+46,7.4,4,NLTC Perera,2012-01-20,1st,AN Petersen,23,,GC Smith,23,South Africa,Sri Lanka,47,South Africa,De Beers Diamond Oval,0,Sri Lanka
+47,7.5,1,NLTC Perera,2012-01-20,1st,AN Petersen,23,,GC Smith,24,South Africa,Sri Lanka,48,South Africa,De Beers Diamond Oval,0,Sri Lanka
+48,7.6,4,NLTC Perera,2012-01-20,1st,GC Smith,24,,AN Petersen,27,South Africa,Sri Lanka,52,South Africa,De Beers Diamond Oval,0,Sri Lanka
+49,8.1,1,AD Mathews,2012-01-20,1st,AN Petersen,27,,GC Smith,25,South Africa,Sri Lanka,53,South Africa,De Beers Diamond Oval,0,Sri Lanka
+50,8.2,0,AD Mathews,2012-01-20,1st,GC Smith,25,,AN Petersen,27,South Africa,Sri Lanka,53,South Africa,De Beers Diamond Oval,0,Sri Lanka
+51,8.3,0,AD Mathews,2012-01-20,1st,GC Smith,25,,AN Petersen,27,South Africa,Sri Lanka,53,South Africa,De Beers Diamond Oval,0,Sri Lanka
+52,8.4,4,AD Mathews,2012-01-20,1st,GC Smith,25,,AN Petersen,31,South Africa,Sri Lanka,57,South Africa,De Beers Diamond Oval,0,Sri Lanka
+53,8.5,0,AD Mathews,2012-01-20,1st,GC Smith,25,,AN Petersen,31,South Africa,Sri Lanka,57,South Africa,De Beers Diamond Oval,0,Sri Lanka
+54,8.6,1,AD Mathews,2012-01-20,1st,GC Smith,25,,AN Petersen,32,South Africa,Sri Lanka,58,South Africa,De Beers Diamond Oval,0,Sri Lanka
+55,9.1,0,KMDN Kulasekara,2012-01-20,1st,GC Smith,25,,AN Petersen,32,South Africa,Sri Lanka,58,South Africa,De Beers Diamond Oval,0,Sri Lanka
+56,9.2,0,KMDN Kulasekara,2012-01-20,1st,GC Smith,25,,AN Petersen,32,South Africa,Sri Lanka,58,South Africa,De Beers Diamond Oval,0,Sri Lanka
+57,9.3,1,KMDN Kulasekara,2012-01-20,1st,GC Smith,25,,AN Petersen,33,South Africa,Sri Lanka,59,South Africa,De Beers Diamond Oval,0,Sri Lanka
+58,9.4,0,KMDN Kulasekara,2012-01-20,1st,AN Petersen,33,,GC Smith,25,South Africa,Sri Lanka,59,South Africa,De Beers Diamond Oval,0,Sri Lanka
+59,9.5,0,KMDN Kulasekara,2012-01-20,1st,AN Petersen,33,,GC Smith,25,South Africa,Sri Lanka,59,South Africa,De Beers Diamond Oval,0,Sri Lanka
+60,9.6,4,KMDN Kulasekara,2012-01-20,1st,AN Petersen,33,,GC Smith,29,South Africa,Sri Lanka,63,South Africa,De Beers Diamond Oval,0,Sri Lanka
+61,10.1,1,TM Dilshan,2012-01-20,1st,GC Smith,29,,AN Petersen,34,South Africa,Sri Lanka,64,South Africa,De Beers Diamond Oval,0,Sri Lanka
+62,10.2,0,TM Dilshan,2012-01-20,1st,AN Petersen,34,,GC Smith,29,South Africa,Sri Lanka,64,South Africa,De Beers Diamond Oval,0,Sri Lanka
+63,10.3,0,TM Dilshan,2012-01-20,1st,AN Petersen,34,,GC Smith,29,South Africa,Sri Lanka,64,South Africa,De Beers Diamond Oval,0,Sri Lanka
+64,10.4,0,TM Dilshan,2012-01-20,1st,AN Petersen,34,,GC Smith,29,South Africa,Sri Lanka,64,South Africa,De Beers Diamond Oval,0,Sri Lanka
+65,10.5,0,TM Dilshan,2012-01-20,1st,AN Petersen,34,,GC Smith,29,South Africa,Sri Lanka,64,South Africa,De Beers Diamond Oval,0,Sri Lanka
+66,10.6,1,TM Dilshan,2012-01-20,1st,AN Petersen,34,,GC Smith,30,South Africa,Sri Lanka,65,South Africa,De Beers Diamond Oval,0,Sri Lanka
+67,11.1,2,NLTC Perera,2012-01-20,1st,AN Petersen,34,,GC Smith,32,South Africa,Sri Lanka,67,South Africa,De Beers Diamond Oval,0,Sri Lanka
+68,11.2,4,NLTC Perera,2012-01-20,1st,AN Petersen,34,,GC Smith,36,South Africa,Sri Lanka,71,South Africa,De Beers Diamond Oval,0,Sri Lanka
+69,11.3,3,NLTC Perera,2012-01-20,1st,AN Petersen,34,,GC Smith,39,South Africa,Sri Lanka,74,South Africa,De Beers Diamond Oval,0,Sri Lanka
+70,11.4,1,NLTC Perera,2012-01-20,1st,GC Smith,39,,AN Petersen,35,South Africa,Sri Lanka,75,South Africa,De Beers Diamond Oval,0,Sri Lanka
+71,11.5,4,NLTC Perera,2012-01-20,1st,AN Petersen,35,,GC Smith,43,South Africa,Sri Lanka,79,South Africa,De Beers Diamond Oval,0,Sri Lanka
+72,11.6,1,NLTC Perera,2012-01-20,1st,AN Petersen,35,,GC Smith,44,South Africa,Sri Lanka,80,South Africa,De Beers Diamond Oval,0,Sri Lanka
+73,12.1,0,TM Dilshan,2012-01-20,1st,AN Petersen,35,,GC Smith,44,South Africa,Sri Lanka,80,South Africa,De Beers Diamond Oval,0,Sri Lanka
+74,12.2,1,TM Dilshan,2012-01-20,1st,AN Petersen,35,,GC Smith,45,South Africa,Sri Lanka,81,South Africa,De Beers Diamond Oval,0,Sri Lanka
+75,12.3,1,TM Dilshan,2012-01-20,1st,GC Smith,45,,AN Petersen,36,South Africa,Sri Lanka,82,South Africa,De Beers Diamond Oval,0,Sri Lanka
+76,12.4,1,TM Dilshan,2012-01-20,1st,AN Petersen,36,,GC Smith,46,South Africa,Sri Lanka,83,South Africa,De Beers Diamond Oval,0,Sri Lanka
+77,12.5,0,TM Dilshan,2012-01-20,1st,GC Smith,46,,AN Petersen,36,South Africa,Sri Lanka,83,South Africa,De Beers Diamond Oval,0,Sri Lanka
+78,12.6,1,TM Dilshan,2012-01-20,1st,GC Smith,46,,AN Petersen,37,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,0,Sri Lanka
+79,13.1,0,HMRKB Herath,2012-01-20,1st,GC Smith,46,AN Petersen,AN Petersen,37,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,1,Sri Lanka
+80,13.2,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,0,,GC Smith,47,South Africa,Sri Lanka,85,South Africa,De Beers Diamond Oval,1,Sri Lanka
+81,13.3,1,HMRKB Herath,2012-01-20,1st,GC Smith,47,,AB de Villiers,1,South Africa,Sri Lanka,86,South Africa,De Beers Diamond Oval,1,Sri Lanka
+82,13.4,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,1,,GC Smith,47,South Africa,Sri Lanka,86,South Africa,De Beers Diamond Oval,1,Sri Lanka
+83,13.5,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,1,,GC Smith,48,South Africa,Sri Lanka,87,South Africa,De Beers Diamond Oval,1,Sri Lanka
+84,13.6,1,HMRKB Herath,2012-01-20,1st,GC Smith,48,,AB de Villiers,2,South Africa,Sri Lanka,88,South Africa,De Beers Diamond Oval,1,Sri Lanka
+85,14.1,1,TM Dilshan,2012-01-20,1st,GC Smith,48,,AB de Villiers,3,South Africa,Sri Lanka,89,South Africa,De Beers Diamond Oval,1,Sri Lanka
+86,14.2,1,TM Dilshan,2012-01-20,1st,AB de Villiers,3,,GC Smith,49,South Africa,Sri Lanka,90,South Africa,De Beers Diamond Oval,1,Sri Lanka
+87,14.3,1,TM Dilshan,2012-01-20,1st,GC Smith,49,,AB de Villiers,4,South Africa,Sri Lanka,91,South Africa,De Beers Diamond Oval,1,Sri Lanka
+88,14.4,1,TM Dilshan,2012-01-20,1st,AB de Villiers,4,,GC Smith,50,South Africa,Sri Lanka,92,South Africa,De Beers Diamond Oval,1,Sri Lanka
+89,14.5,0,TM Dilshan,2012-01-20,1st,GC Smith,50,,AB de Villiers,4,South Africa,Sri Lanka,92,South Africa,De Beers Diamond Oval,1,Sri Lanka
+90,14.6,0,TM Dilshan,2012-01-20,1st,GC Smith,50,,AB de Villiers,4,South Africa,Sri Lanka,92,South Africa,De Beers Diamond Oval,1,Sri Lanka
+91,15.1,2,SL Malinga,2012-01-20,1st,AB de Villiers,4,,GC Smith,52,South Africa,Sri Lanka,94,South Africa,De Beers Diamond Oval,1,Sri Lanka
+92,15.2,1,SL Malinga,2012-01-20,1st,AB de Villiers,4,,GC Smith,53,South Africa,Sri Lanka,95,South Africa,De Beers Diamond Oval,1,Sri Lanka
+93,15.3,0,SL Malinga,2012-01-20,1st,GC Smith,53,,AB de Villiers,4,South Africa,Sri Lanka,95,South Africa,De Beers Diamond Oval,1,Sri Lanka
+94,15.4,0,SL Malinga,2012-01-20,1st,GC Smith,53,,AB de Villiers,4,South Africa,Sri Lanka,95,South Africa,De Beers Diamond Oval,1,Sri Lanka
+95,15.5,1,SL Malinga,2012-01-20,1st,GC Smith,53,,AB de Villiers,5,South Africa,Sri Lanka,96,South Africa,De Beers Diamond Oval,1,Sri Lanka
+96,15.6,1,SL Malinga,2012-01-20,1st,AB de Villiers,5,,GC Smith,54,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+97,16.1,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,5,,GC Smith,54,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+98,16.2,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,5,,GC Smith,54,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+99,16.3,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,5,,GC Smith,54,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+100,16.4,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,5,,GC Smith,54,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+101,16.5,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,5,,GC Smith,54,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+102,16.6,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,5,,GC Smith,54,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+103,17.1,2,SL Malinga,2012-01-20,1st,GC Smith,54,,AB de Villiers,7,South Africa,Sri Lanka,99,South Africa,De Beers Diamond Oval,1,Sri Lanka
+104,17.2,1,SL Malinga,2012-01-20,1st,GC Smith,54,,AB de Villiers,8,South Africa,Sri Lanka,100,South Africa,De Beers Diamond Oval,1,Sri Lanka
+105,17.3,0,SL Malinga,2012-01-20,1st,AB de Villiers,8,,GC Smith,54,South Africa,Sri Lanka,100,South Africa,De Beers Diamond Oval,1,Sri Lanka
+106,17.4,0,SL Malinga,2012-01-20,1st,AB de Villiers,8,,GC Smith,54,South Africa,Sri Lanka,101,South Africa,De Beers Diamond Oval,1,Sri Lanka
+107,17.5,1,SL Malinga,2012-01-20,1st,AB de Villiers,8,,GC Smith,55,South Africa,Sri Lanka,102,South Africa,De Beers Diamond Oval,1,Sri Lanka
+108,17.6,0,SL Malinga,2012-01-20,1st,GC Smith,55,,AB de Villiers,8,South Africa,Sri Lanka,102,South Africa,De Beers Diamond Oval,1,Sri Lanka
+109,17.7,3,SL Malinga,2012-01-20,1st,GC Smith,55,,AB de Villiers,11,South Africa,Sri Lanka,105,South Africa,De Beers Diamond Oval,1,Sri Lanka
+110,18.1,4,SMSM Senanayake,2012-01-20,1st,GC Smith,55,,AB de Villiers,15,South Africa,Sri Lanka,109,South Africa,De Beers Diamond Oval,1,Sri Lanka
+111,18.2,0,SMSM Senanayake,2012-01-20,1st,GC Smith,55,,AB de Villiers,15,South Africa,Sri Lanka,109,South Africa,De Beers Diamond Oval,1,Sri Lanka
+112,18.3,0,SMSM Senanayake,2012-01-20,1st,GC Smith,55,,AB de Villiers,15,South Africa,Sri Lanka,109,South Africa,De Beers Diamond Oval,1,Sri Lanka
+113,18.4,4,SMSM Senanayake,2012-01-20,1st,GC Smith,55,,AB de Villiers,19,South Africa,Sri Lanka,113,South Africa,De Beers Diamond Oval,1,Sri Lanka
+114,18.5,0,SMSM Senanayake,2012-01-20,1st,GC Smith,55,,AB de Villiers,19,South Africa,Sri Lanka,113,South Africa,De Beers Diamond Oval,1,Sri Lanka
+115,18.6,4,SMSM Senanayake,2012-01-20,1st,GC Smith,55,,AB de Villiers,23,South Africa,Sri Lanka,117,South Africa,De Beers Diamond Oval,1,Sri Lanka
+116,19.1,0,SL Malinga,2012-01-20,1st,AB de Villiers,23,,GC Smith,55,South Africa,Sri Lanka,121,South Africa,De Beers Diamond Oval,1,Sri Lanka
+117,19.2,0,SL Malinga,2012-01-20,1st,AB de Villiers,23,,GC Smith,55,South Africa,Sri Lanka,121,South Africa,De Beers Diamond Oval,1,Sri Lanka
+118,19.3,1,SL Malinga,2012-01-20,1st,AB de Villiers,23,,GC Smith,56,South Africa,Sri Lanka,122,South Africa,De Beers Diamond Oval,1,Sri Lanka
+119,19.4,1,SL Malinga,2012-01-20,1st,GC Smith,56,,AB de Villiers,24,South Africa,Sri Lanka,123,South Africa,De Beers Diamond Oval,1,Sri Lanka
+120,19.5,4,SL Malinga,2012-01-20,1st,AB de Villiers,24,,GC Smith,60,South Africa,Sri Lanka,127,South Africa,De Beers Diamond Oval,1,Sri Lanka
+121,19.6,1,SL Malinga,2012-01-20,1st,AB de Villiers,24,,GC Smith,61,South Africa,Sri Lanka,128,South Africa,De Beers Diamond Oval,1,Sri Lanka
+122,20.1,1,SMSM Senanayake,2012-01-20,1st,AB de Villiers,24,,GC Smith,62,South Africa,Sri Lanka,129,South Africa,De Beers Diamond Oval,1,Sri Lanka
+123,20.2,1,SMSM Senanayake,2012-01-20,1st,GC Smith,62,,AB de Villiers,25,South Africa,Sri Lanka,130,South Africa,De Beers Diamond Oval,1,Sri Lanka
+124,20.3,6,SMSM Senanayake,2012-01-20,1st,AB de Villiers,25,,GC Smith,68,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,1,Sri Lanka
+125,20.4,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,25,,GC Smith,68,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,1,Sri Lanka
+126,20.5,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,25,,GC Smith,68,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,1,Sri Lanka
+127,20.6,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,25,,GC Smith,68,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,1,Sri Lanka
+128,21.1,0,HMRKB Herath,2012-01-20,1st,GC Smith,68,,AB de Villiers,25,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,1,Sri Lanka
+129,21.2,0,HMRKB Herath,2012-01-20,1st,GC Smith,68,,AB de Villiers,25,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,1,Sri Lanka
+130,21.3,6,HMRKB Herath,2012-01-20,1st,GC Smith,68,,AB de Villiers,31,South Africa,Sri Lanka,142,South Africa,De Beers Diamond Oval,1,Sri Lanka
+131,21.4,0,HMRKB Herath,2012-01-20,1st,GC Smith,68,,AB de Villiers,31,South Africa,Sri Lanka,142,South Africa,De Beers Diamond Oval,1,Sri Lanka
+132,21.5,4,HMRKB Herath,2012-01-20,1st,GC Smith,68,,AB de Villiers,35,South Africa,Sri Lanka,146,South Africa,De Beers Diamond Oval,1,Sri Lanka
+133,21.6,1,HMRKB Herath,2012-01-20,1st,GC Smith,68,,AB de Villiers,36,South Africa,Sri Lanka,147,South Africa,De Beers Diamond Oval,1,Sri Lanka
+134,22.1,0,TM Dilshan,2012-01-20,1st,GC Smith,68,,AB de Villiers,36,South Africa,Sri Lanka,147,South Africa,De Beers Diamond Oval,1,Sri Lanka
+135,22.2,6,TM Dilshan,2012-01-20,1st,GC Smith,68,,AB de Villiers,42,South Africa,Sri Lanka,153,South Africa,De Beers Diamond Oval,1,Sri Lanka
+136,22.3,2,TM Dilshan,2012-01-20,1st,GC Smith,68,,AB de Villiers,44,South Africa,Sri Lanka,155,South Africa,De Beers Diamond Oval,1,Sri Lanka
+137,22.4,6,TM Dilshan,2012-01-20,1st,GC Smith,68,,AB de Villiers,50,South Africa,Sri Lanka,161,South Africa,De Beers Diamond Oval,1,Sri Lanka
+138,22.5,4,TM Dilshan,2012-01-20,1st,GC Smith,68,,AB de Villiers,54,South Africa,Sri Lanka,165,South Africa,De Beers Diamond Oval,1,Sri Lanka
+139,22.6,1,TM Dilshan,2012-01-20,1st,GC Smith,68,,AB de Villiers,55,South Africa,Sri Lanka,166,South Africa,De Beers Diamond Oval,1,Sri Lanka
+140,23.1,4,SL Malinga,2012-01-20,1st,GC Smith,68,,AB de Villiers,59,South Africa,Sri Lanka,170,South Africa,De Beers Diamond Oval,1,Sri Lanka
+141,23.2,1,SL Malinga,2012-01-20,1st,GC Smith,68,,AB de Villiers,60,South Africa,Sri Lanka,171,South Africa,De Beers Diamond Oval,1,Sri Lanka
+142,23.3,0,SL Malinga,2012-01-20,1st,AB de Villiers,60,,GC Smith,68,South Africa,Sri Lanka,171,South Africa,De Beers Diamond Oval,1,Sri Lanka
+143,23.4,0,SL Malinga,2012-01-20,1st,AB de Villiers,60,,GC Smith,68,South Africa,Sri Lanka,171,South Africa,De Beers Diamond Oval,1,Sri Lanka
+144,23.5,0,SL Malinga,2012-01-20,1st,AB de Villiers,60,GC Smith,GC Smith,68,South Africa,Sri Lanka,171,South Africa,De Beers Diamond Oval,2,Sri Lanka
+145,23.6,1,SL Malinga,2012-01-20,1st,AB de Villiers,60,,CA Ingram,1,South Africa,Sri Lanka,172,South Africa,De Beers Diamond Oval,2,Sri Lanka
+146,24.1,0,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,60,,CA Ingram,1,South Africa,Sri Lanka,172,South Africa,De Beers Diamond Oval,2,Sri Lanka
+147,24.2,0,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,60,,CA Ingram,1,South Africa,Sri Lanka,172,South Africa,De Beers Diamond Oval,2,Sri Lanka
+148,24.3,0,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,60,CA Ingram,CA Ingram,1,South Africa,Sri Lanka,172,South Africa,De Beers Diamond Oval,3,Sri Lanka
+149,24.4,0,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,60,,JP Duminy,0,South Africa,Sri Lanka,172,South Africa,De Beers Diamond Oval,3,Sri Lanka
+150,24.5,1,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,60,,JP Duminy,1,South Africa,Sri Lanka,173,South Africa,De Beers Diamond Oval,3,Sri Lanka
+151,24.6,0,KMDN Kulasekara,2012-01-20,1st,JP Duminy,1,,AB de Villiers,60,South Africa,Sri Lanka,173,South Africa,De Beers Diamond Oval,3,Sri Lanka
+152,25.1,2,SL Malinga,2012-01-20,1st,AB de Villiers,60,,JP Duminy,3,South Africa,Sri Lanka,175,South Africa,De Beers Diamond Oval,3,Sri Lanka
+153,25.2,0,SL Malinga,2012-01-20,1st,AB de Villiers,60,,JP Duminy,3,South Africa,Sri Lanka,175,South Africa,De Beers Diamond Oval,3,Sri Lanka
+154,25.3,1,SL Malinga,2012-01-20,1st,AB de Villiers,60,,JP Duminy,4,South Africa,Sri Lanka,176,South Africa,De Beers Diamond Oval,3,Sri Lanka
+155,25.4,0,SL Malinga,2012-01-20,1st,JP Duminy,4,,AB de Villiers,60,South Africa,Sri Lanka,176,South Africa,De Beers Diamond Oval,3,Sri Lanka
+156,25.5,1,SL Malinga,2012-01-20,1st,JP Duminy,4,,AB de Villiers,61,South Africa,Sri Lanka,177,South Africa,De Beers Diamond Oval,3,Sri Lanka
+157,25.6,0,SL Malinga,2012-01-20,1st,AB de Villiers,61,,JP Duminy,4,South Africa,Sri Lanka,177,South Africa,De Beers Diamond Oval,3,Sri Lanka
+158,26.1,1,KMDN Kulasekara,2012-01-20,1st,JP Duminy,4,,AB de Villiers,62,South Africa,Sri Lanka,178,South Africa,De Beers Diamond Oval,3,Sri Lanka
+159,26.2,0,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,62,,JP Duminy,4,South Africa,Sri Lanka,178,South Africa,De Beers Diamond Oval,3,Sri Lanka
+160,26.3,4,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,62,,JP Duminy,8,South Africa,Sri Lanka,182,South Africa,De Beers Diamond Oval,3,Sri Lanka
+161,26.4,4,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,62,,JP Duminy,12,South Africa,Sri Lanka,186,South Africa,De Beers Diamond Oval,3,Sri Lanka
+162,26.5,0,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,62,,JP Duminy,12,South Africa,Sri Lanka,186,South Africa,De Beers Diamond Oval,3,Sri Lanka
+163,26.6,0,KMDN Kulasekara,2012-01-20,1st,AB de Villiers,62,,JP Duminy,12,South Africa,Sri Lanka,186,South Africa,De Beers Diamond Oval,3,Sri Lanka
+164,27.1,0,HMRKB Herath,2012-01-20,1st,JP Duminy,12,,AB de Villiers,62,South Africa,Sri Lanka,186,South Africa,De Beers Diamond Oval,3,Sri Lanka
+165,27.2,0,HMRKB Herath,2012-01-20,1st,JP Duminy,12,,AB de Villiers,62,South Africa,Sri Lanka,186,South Africa,De Beers Diamond Oval,3,Sri Lanka
+166,27.3,1,HMRKB Herath,2012-01-20,1st,JP Duminy,12,,AB de Villiers,63,South Africa,Sri Lanka,187,South Africa,De Beers Diamond Oval,3,Sri Lanka
+167,27.4,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,63,,JP Duminy,12,South Africa,Sri Lanka,187,South Africa,De Beers Diamond Oval,3,Sri Lanka
+168,27.5,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,63,,JP Duminy,12,South Africa,Sri Lanka,187,South Africa,De Beers Diamond Oval,3,Sri Lanka
+169,27.6,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,63,,JP Duminy,13,South Africa,Sri Lanka,188,South Africa,De Beers Diamond Oval,3,Sri Lanka
+170,28.1,1,SMSM Senanayake,2012-01-20,1st,AB de Villiers,63,,JP Duminy,14,South Africa,Sri Lanka,189,South Africa,De Beers Diamond Oval,3,Sri Lanka
+171,28.2,1,SMSM Senanayake,2012-01-20,1st,JP Duminy,14,,AB de Villiers,64,South Africa,Sri Lanka,190,South Africa,De Beers Diamond Oval,3,Sri Lanka
+172,28.3,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,64,,JP Duminy,14,South Africa,Sri Lanka,190,South Africa,De Beers Diamond Oval,3,Sri Lanka
+173,28.4,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,64,,JP Duminy,14,South Africa,Sri Lanka,190,South Africa,De Beers Diamond Oval,3,Sri Lanka
+174,28.5,1,SMSM Senanayake,2012-01-20,1st,AB de Villiers,64,,JP Duminy,15,South Africa,Sri Lanka,191,South Africa,De Beers Diamond Oval,3,Sri Lanka
+175,28.6,1,SMSM Senanayake,2012-01-20,1st,JP Duminy,15,,AB de Villiers,65,South Africa,Sri Lanka,192,South Africa,De Beers Diamond Oval,3,Sri Lanka
+176,29.1,1,HMRKB Herath,2012-01-20,1st,JP Duminy,15,,AB de Villiers,66,South Africa,Sri Lanka,193,South Africa,De Beers Diamond Oval,3,Sri Lanka
+177,29.2,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,66,,JP Duminy,15,South Africa,Sri Lanka,193,South Africa,De Beers Diamond Oval,3,Sri Lanka
+178,29.3,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,66,,JP Duminy,16,South Africa,Sri Lanka,194,South Africa,De Beers Diamond Oval,3,Sri Lanka
+179,29.4,0,HMRKB Herath,2012-01-20,1st,JP Duminy,16,,AB de Villiers,66,South Africa,Sri Lanka,194,South Africa,De Beers Diamond Oval,3,Sri Lanka
+180,29.5,4,HMRKB Herath,2012-01-20,1st,JP Duminy,16,,AB de Villiers,70,South Africa,Sri Lanka,198,South Africa,De Beers Diamond Oval,3,Sri Lanka
+181,29.6,1,HMRKB Herath,2012-01-20,1st,JP Duminy,16,,AB de Villiers,71,South Africa,Sri Lanka,199,South Africa,De Beers Diamond Oval,3,Sri Lanka
+182,30.1,0,SMSM Senanayake,2012-01-20,1st,JP Duminy,16,,AB de Villiers,71,South Africa,Sri Lanka,199,South Africa,De Beers Diamond Oval,3,Sri Lanka
+183,30.2,1,SMSM Senanayake,2012-01-20,1st,JP Duminy,16,,AB de Villiers,72,South Africa,Sri Lanka,200,South Africa,De Beers Diamond Oval,3,Sri Lanka
+184,30.3,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,72,,JP Duminy,16,South Africa,Sri Lanka,200,South Africa,De Beers Diamond Oval,3,Sri Lanka
+185,30.4,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,72,,JP Duminy,16,South Africa,Sri Lanka,200,South Africa,De Beers Diamond Oval,3,Sri Lanka
+186,30.5,1,SMSM Senanayake,2012-01-20,1st,AB de Villiers,72,,JP Duminy,17,South Africa,Sri Lanka,201,South Africa,De Beers Diamond Oval,3,Sri Lanka
+187,30.6,0,SMSM Senanayake,2012-01-20,1st,JP Duminy,17,,AB de Villiers,72,South Africa,Sri Lanka,201,South Africa,De Beers Diamond Oval,3,Sri Lanka
+188,31.1,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,72,,JP Duminy,17,South Africa,Sri Lanka,201,South Africa,De Beers Diamond Oval,3,Sri Lanka
+189,31.2,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,72,,JP Duminy,18,South Africa,Sri Lanka,202,South Africa,De Beers Diamond Oval,3,Sri Lanka
+190,31.3,1,HMRKB Herath,2012-01-20,1st,JP Duminy,18,,AB de Villiers,73,South Africa,Sri Lanka,203,South Africa,De Beers Diamond Oval,3,Sri Lanka
+191,31.4,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,73,,JP Duminy,19,South Africa,Sri Lanka,204,South Africa,De Beers Diamond Oval,3,Sri Lanka
+192,31.5,1,HMRKB Herath,2012-01-20,1st,JP Duminy,19,,AB de Villiers,74,South Africa,Sri Lanka,205,South Africa,De Beers Diamond Oval,3,Sri Lanka
+193,31.6,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,74,,JP Duminy,20,South Africa,Sri Lanka,206,South Africa,De Beers Diamond Oval,3,Sri Lanka
+194,32.1,1,SMSM Senanayake,2012-01-20,1st,AB de Villiers,74,,JP Duminy,21,South Africa,Sri Lanka,207,South Africa,De Beers Diamond Oval,3,Sri Lanka
+195,32.2,0,SMSM Senanayake,2012-01-20,1st,JP Duminy,21,,AB de Villiers,74,South Africa,Sri Lanka,207,South Africa,De Beers Diamond Oval,3,Sri Lanka
+196,32.3,0,SMSM Senanayake,2012-01-20,1st,JP Duminy,21,,AB de Villiers,74,South Africa,Sri Lanka,207,South Africa,De Beers Diamond Oval,3,Sri Lanka
+197,32.4,1,SMSM Senanayake,2012-01-20,1st,JP Duminy,21,,AB de Villiers,75,South Africa,Sri Lanka,208,South Africa,De Beers Diamond Oval,3,Sri Lanka
+198,32.5,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,75,,JP Duminy,21,South Africa,Sri Lanka,208,South Africa,De Beers Diamond Oval,3,Sri Lanka
+199,32.6,0,SMSM Senanayake,2012-01-20,1st,AB de Villiers,75,,JP Duminy,21,South Africa,Sri Lanka,208,South Africa,De Beers Diamond Oval,3,Sri Lanka
+200,33.1,1,TM Dilshan,2012-01-20,1st,JP Duminy,21,,AB de Villiers,76,South Africa,Sri Lanka,209,South Africa,De Beers Diamond Oval,3,Sri Lanka
+201,33.2,1,TM Dilshan,2012-01-20,1st,AB de Villiers,76,,JP Duminy,22,South Africa,Sri Lanka,210,South Africa,De Beers Diamond Oval,3,Sri Lanka
+202,33.3,3,TM Dilshan,2012-01-20,1st,JP Duminy,22,,AB de Villiers,79,South Africa,Sri Lanka,213,South Africa,De Beers Diamond Oval,3,Sri Lanka
+203,33.4,1,TM Dilshan,2012-01-20,1st,AB de Villiers,79,,JP Duminy,23,South Africa,Sri Lanka,214,South Africa,De Beers Diamond Oval,3,Sri Lanka
+204,33.5,0,TM Dilshan,2012-01-20,1st,JP Duminy,23,,AB de Villiers,79,South Africa,Sri Lanka,214,South Africa,De Beers Diamond Oval,3,Sri Lanka
+205,33.6,0,TM Dilshan,2012-01-20,1st,JP Duminy,23,,AB de Villiers,79,South Africa,Sri Lanka,214,South Africa,De Beers Diamond Oval,3,Sri Lanka
+206,34.1,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,79,,JP Duminy,24,South Africa,Sri Lanka,215,South Africa,De Beers Diamond Oval,3,Sri Lanka
+207,34.2,1,HMRKB Herath,2012-01-20,1st,JP Duminy,24,,AB de Villiers,80,South Africa,Sri Lanka,216,South Africa,De Beers Diamond Oval,3,Sri Lanka
+208,34.3,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,80,,JP Duminy,25,South Africa,Sri Lanka,217,South Africa,De Beers Diamond Oval,3,Sri Lanka
+209,34.4,1,HMRKB Herath,2012-01-20,1st,JP Duminy,25,,AB de Villiers,81,South Africa,Sri Lanka,218,South Africa,De Beers Diamond Oval,3,Sri Lanka
+210,34.5,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,81,,JP Duminy,25,South Africa,Sri Lanka,218,South Africa,De Beers Diamond Oval,3,Sri Lanka
+211,34.6,3,HMRKB Herath,2012-01-20,1st,AB de Villiers,81,,JP Duminy,28,South Africa,Sri Lanka,221,South Africa,De Beers Diamond Oval,3,Sri Lanka
+212,35.1,2,TM Dilshan,2012-01-20,1st,AB de Villiers,81,,JP Duminy,30,South Africa,Sri Lanka,223,South Africa,De Beers Diamond Oval,3,Sri Lanka
+213,35.2,0,TM Dilshan,2012-01-20,1st,AB de Villiers,81,,JP Duminy,30,South Africa,Sri Lanka,223,South Africa,De Beers Diamond Oval,3,Sri Lanka
+214,35.3,0,TM Dilshan,2012-01-20,1st,AB de Villiers,81,,JP Duminy,30,South Africa,Sri Lanka,223,South Africa,De Beers Diamond Oval,3,Sri Lanka
+215,35.4,1,TM Dilshan,2012-01-20,1st,AB de Villiers,81,,JP Duminy,31,South Africa,Sri Lanka,224,South Africa,De Beers Diamond Oval,3,Sri Lanka
+216,35.5,2,TM Dilshan,2012-01-20,1st,JP Duminy,31,,AB de Villiers,83,South Africa,Sri Lanka,226,South Africa,De Beers Diamond Oval,3,Sri Lanka
+217,35.6,1,TM Dilshan,2012-01-20,1st,JP Duminy,31,,AB de Villiers,84,South Africa,Sri Lanka,227,South Africa,De Beers Diamond Oval,3,Sri Lanka
+218,36.1,1,HMRKB Herath,2012-01-20,1st,JP Duminy,31,,AB de Villiers,85,South Africa,Sri Lanka,228,South Africa,De Beers Diamond Oval,3,Sri Lanka
+219,36.2,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,85,,JP Duminy,31,South Africa,Sri Lanka,228,South Africa,De Beers Diamond Oval,3,Sri Lanka
+220,36.3,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,85,,JP Duminy,32,South Africa,Sri Lanka,229,South Africa,De Beers Diamond Oval,3,Sri Lanka
+221,36.4,1,HMRKB Herath,2012-01-20,1st,JP Duminy,32,,AB de Villiers,86,South Africa,Sri Lanka,230,South Africa,De Beers Diamond Oval,3,Sri Lanka
+222,36.5,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,86,,JP Duminy,33,South Africa,Sri Lanka,231,South Africa,De Beers Diamond Oval,3,Sri Lanka
+223,36.6,1,HMRKB Herath,2012-01-20,1st,JP Duminy,33,,AB de Villiers,87,South Africa,Sri Lanka,232,South Africa,De Beers Diamond Oval,3,Sri Lanka
+224,37.1,4,SMSM Senanayake,2012-01-20,1st,JP Duminy,33,,AB de Villiers,91,South Africa,Sri Lanka,236,South Africa,De Beers Diamond Oval,3,Sri Lanka
+225,37.2,1,SMSM Senanayake,2012-01-20,1st,JP Duminy,33,,AB de Villiers,92,South Africa,Sri Lanka,237,South Africa,De Beers Diamond Oval,3,Sri Lanka
+226,37.3,1,SMSM Senanayake,2012-01-20,1st,AB de Villiers,92,,JP Duminy,34,South Africa,Sri Lanka,238,South Africa,De Beers Diamond Oval,3,Sri Lanka
+227,37.4,0,SMSM Senanayake,2012-01-20,1st,JP Duminy,34,,AB de Villiers,92,South Africa,Sri Lanka,238,South Africa,De Beers Diamond Oval,3,Sri Lanka
+228,37.5,1,SMSM Senanayake,2012-01-20,1st,JP Duminy,34,,AB de Villiers,93,South Africa,Sri Lanka,239,South Africa,De Beers Diamond Oval,3,Sri Lanka
+229,37.6,1,SMSM Senanayake,2012-01-20,1st,AB de Villiers,93,,JP Duminy,35,South Africa,Sri Lanka,240,South Africa,De Beers Diamond Oval,3,Sri Lanka
+230,38.1,1,NLTC Perera,2012-01-20,1st,AB de Villiers,93,,JP Duminy,36,South Africa,Sri Lanka,241,South Africa,De Beers Diamond Oval,3,Sri Lanka
+231,38.2,0,NLTC Perera,2012-01-20,1st,JP Duminy,36,,AB de Villiers,93,South Africa,Sri Lanka,241,South Africa,De Beers Diamond Oval,3,Sri Lanka
+232,38.3,1,NLTC Perera,2012-01-20,1st,JP Duminy,36,,AB de Villiers,94,South Africa,Sri Lanka,242,South Africa,De Beers Diamond Oval,3,Sri Lanka
+233,38.4,0,NLTC Perera,2012-01-20,1st,AB de Villiers,94,JP Duminy,JP Duminy,36,South Africa,Sri Lanka,242,South Africa,De Beers Diamond Oval,4,Sri Lanka
+234,38.5,0,NLTC Perera,2012-01-20,1st,AB de Villiers,94,,F du Plessis,0,South Africa,Sri Lanka,243,South Africa,De Beers Diamond Oval,4,Sri Lanka
+235,38.6,0,NLTC Perera,2012-01-20,1st,AB de Villiers,94,,F du Plessis,0,South Africa,Sri Lanka,243,South Africa,De Beers Diamond Oval,4,Sri Lanka
+236,38.7,1,NLTC Perera,2012-01-20,1st,AB de Villiers,94,,F du Plessis,1,South Africa,Sri Lanka,244,South Africa,De Beers Diamond Oval,4,Sri Lanka
+237,39.1,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,94,,F du Plessis,1,South Africa,Sri Lanka,244,South Africa,De Beers Diamond Oval,4,Sri Lanka
+238,39.2,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,94,,F du Plessis,1,South Africa,Sri Lanka,244,South Africa,De Beers Diamond Oval,4,Sri Lanka
+239,39.3,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,94,,F du Plessis,2,South Africa,Sri Lanka,245,South Africa,De Beers Diamond Oval,4,Sri Lanka
+240,39.4,1,HMRKB Herath,2012-01-20,1st,F du Plessis,2,,AB de Villiers,95,South Africa,Sri Lanka,246,South Africa,De Beers Diamond Oval,4,Sri Lanka
+241,39.5,0,HMRKB Herath,2012-01-20,1st,AB de Villiers,95,,F du Plessis,2,South Africa,Sri Lanka,246,South Africa,De Beers Diamond Oval,4,Sri Lanka
+242,39.6,1,HMRKB Herath,2012-01-20,1st,AB de Villiers,95,,F du Plessis,3,South Africa,Sri Lanka,247,South Africa,De Beers Diamond Oval,4,Sri Lanka
+243,40.1,1,NLTC Perera,2012-01-20,1st,AB de Villiers,95,,F du Plessis,4,South Africa,Sri Lanka,248,South Africa,De Beers Diamond Oval,4,Sri Lanka
+244,40.2,1,NLTC Perera,2012-01-20,1st,F du Plessis,4,,AB de Villiers,96,South Africa,Sri Lanka,249,South Africa,De Beers Diamond Oval,4,Sri Lanka
+245,40.3,0,NLTC Perera,2012-01-20,1st,AB de Villiers,96,,F du Plessis,4,South Africa,Sri Lanka,249,South Africa,De Beers Diamond Oval,4,Sri Lanka
+246,40.4,1,NLTC Perera,2012-01-20,1st,AB de Villiers,96,,F du Plessis,5,South Africa,Sri Lanka,250,South Africa,De Beers Diamond Oval,4,Sri Lanka
+247,40.5,0,NLTC Perera,2012-01-20,1st,F du Plessis,5,AB de Villiers,AB de Villiers,96,South Africa,Sri Lanka,250,South Africa,De Beers Diamond Oval,5,Sri Lanka
+248,40.6,1,NLTC Perera,2012-01-20,1st,F du Plessis,5,,WD Parnell,1,South Africa,Sri Lanka,251,South Africa,De Beers Diamond Oval,5,Sri Lanka
+249,41.1,1,HMRKB Herath,2012-01-20,1st,F du Plessis,5,,WD Parnell,2,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,5,Sri Lanka
+250,41.2,0,HMRKB Herath,2012-01-20,1st,WD Parnell,2,,F du Plessis,5,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,5,Sri Lanka
+251,41.3,0,HMRKB Herath,2012-01-20,1st,WD Parnell,2,F du Plessis,F du Plessis,5,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,6,Sri Lanka
+252,41.4,0,HMRKB Herath,2012-01-20,1st,WD Parnell,2,,RJ Peterson,0,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,6,Sri Lanka
+253,41.5,0,HMRKB Herath,2012-01-20,1st,WD Parnell,2,,RJ Peterson,0,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,6,Sri Lanka
+254,41.6,0,HMRKB Herath,2012-01-20,1st,WD Parnell,2,,RJ Peterson,0,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,6,Sri Lanka
+255,42.1,0,SMSM Senanayake,2012-01-20,1st,RJ Peterson,0,,WD Parnell,2,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,6,Sri Lanka
+256,42.2,1,SMSM Senanayake,2012-01-20,1st,RJ Peterson,0,,WD Parnell,3,South Africa,Sri Lanka,253,South Africa,De Beers Diamond Oval,6,Sri Lanka
+257,42.3,0,SMSM Senanayake,2012-01-20,1st,WD Parnell,3,,RJ Peterson,0,South Africa,Sri Lanka,253,South Africa,De Beers Diamond Oval,6,Sri Lanka
+258,42.4,0,SMSM Senanayake,2012-01-20,1st,WD Parnell,3,,RJ Peterson,0,South Africa,Sri Lanka,253,South Africa,De Beers Diamond Oval,6,Sri Lanka
+259,42.5,1,SMSM Senanayake,2012-01-20,1st,WD Parnell,3,,RJ Peterson,1,South Africa,Sri Lanka,254,South Africa,De Beers Diamond Oval,6,Sri Lanka
+260,42.6,1,SMSM Senanayake,2012-01-20,1st,RJ Peterson,1,,WD Parnell,4,South Africa,Sri Lanka,255,South Africa,De Beers Diamond Oval,6,Sri Lanka
+261,43.1,1,SL Malinga,2012-01-20,1st,RJ Peterson,1,,WD Parnell,5,South Africa,Sri Lanka,256,South Africa,De Beers Diamond Oval,6,Sri Lanka
+262,43.2,0,SL Malinga,2012-01-20,1st,WD Parnell,5,,RJ Peterson,1,South Africa,Sri Lanka,256,South Africa,De Beers Diamond Oval,6,Sri Lanka
+263,43.3,1,SL Malinga,2012-01-20,1st,WD Parnell,5,,RJ Peterson,2,South Africa,Sri Lanka,257,South Africa,De Beers Diamond Oval,6,Sri Lanka
+264,43.4,1,SL Malinga,2012-01-20,1st,RJ Peterson,2,,WD Parnell,6,South Africa,Sri Lanka,258,South Africa,De Beers Diamond Oval,6,Sri Lanka
+265,43.5,0,SL Malinga,2012-01-20,1st,WD Parnell,6,,RJ Peterson,2,South Africa,Sri Lanka,258,South Africa,De Beers Diamond Oval,6,Sri Lanka
+266,43.6,0,SL Malinga,2012-01-20,1st,WD Parnell,6,,RJ Peterson,2,South Africa,Sri Lanka,259,South Africa,De Beers Diamond Oval,6,Sri Lanka
+267,43.7,0,SL Malinga,2012-01-20,1st,WD Parnell,6,,RJ Peterson,2,South Africa,Sri Lanka,259,South Africa,De Beers Diamond Oval,6,Sri Lanka
+268,44.1,2,TM Dilshan,2012-01-20,1st,RJ Peterson,2,,WD Parnell,8,South Africa,Sri Lanka,261,South Africa,De Beers Diamond Oval,6,Sri Lanka
+269,44.2,1,TM Dilshan,2012-01-20,1st,RJ Peterson,2,,WD Parnell,9,South Africa,Sri Lanka,262,South Africa,De Beers Diamond Oval,6,Sri Lanka
+270,44.3,0,TM Dilshan,2012-01-20,1st,WD Parnell,9,,RJ Peterson,2,South Africa,Sri Lanka,262,South Africa,De Beers Diamond Oval,6,Sri Lanka
+271,44.4,1,TM Dilshan,2012-01-20,1st,WD Parnell,9,,RJ Peterson,3,South Africa,Sri Lanka,263,South Africa,De Beers Diamond Oval,6,Sri Lanka
+272,44.5,1,TM Dilshan,2012-01-20,1st,RJ Peterson,3,,WD Parnell,10,South Africa,Sri Lanka,264,South Africa,De Beers Diamond Oval,6,Sri Lanka
+273,44.6,1,TM Dilshan,2012-01-20,1st,WD Parnell,10,,RJ Peterson,4,South Africa,Sri Lanka,265,South Africa,De Beers Diamond Oval,6,Sri Lanka
+274,45.1,1,SL Malinga,2012-01-20,1st,WD Parnell,10,,RJ Peterson,5,South Africa,Sri Lanka,266,South Africa,De Beers Diamond Oval,6,Sri Lanka
+275,45.2,1,SL Malinga,2012-01-20,1st,RJ Peterson,5,,WD Parnell,11,South Africa,Sri Lanka,267,South Africa,De Beers Diamond Oval,6,Sri Lanka
+276,45.3,0,SL Malinga,2012-01-20,1st,WD Parnell,11,,RJ Peterson,5,South Africa,Sri Lanka,267,South Africa,De Beers Diamond Oval,6,Sri Lanka
+277,45.4,2,SL Malinga,2012-01-20,1st,WD Parnell,11,,RJ Peterson,7,South Africa,Sri Lanka,269,South Africa,De Beers Diamond Oval,6,Sri Lanka
+278,45.5,0,SL Malinga,2012-01-20,1st,WD Parnell,11,,RJ Peterson,7,South Africa,Sri Lanka,269,South Africa,De Beers Diamond Oval,6,Sri Lanka
+279,45.6,0,SL Malinga,2012-01-20,1st,WD Parnell,11,,RJ Peterson,7,South Africa,Sri Lanka,269,South Africa,De Beers Diamond Oval,6,Sri Lanka
+280,46.1,0,TM Dilshan,2012-01-20,1st,RJ Peterson,7,,WD Parnell,11,South Africa,Sri Lanka,269,South Africa,De Beers Diamond Oval,6,Sri Lanka
+281,46.2,6,TM Dilshan,2012-01-20,1st,RJ Peterson,7,,WD Parnell,17,South Africa,Sri Lanka,275,South Africa,De Beers Diamond Oval,6,Sri Lanka
+282,46.3,2,TM Dilshan,2012-01-20,1st,RJ Peterson,7,,WD Parnell,19,South Africa,Sri Lanka,277,South Africa,De Beers Diamond Oval,6,Sri Lanka
+283,46.4,1,TM Dilshan,2012-01-20,1st,RJ Peterson,7,,WD Parnell,20,South Africa,Sri Lanka,278,South Africa,De Beers Diamond Oval,6,Sri Lanka
+284,46.5,4,TM Dilshan,2012-01-20,1st,WD Parnell,20,,RJ Peterson,11,South Africa,Sri Lanka,282,South Africa,De Beers Diamond Oval,6,Sri Lanka
+285,46.6,0,TM Dilshan,2012-01-20,1st,WD Parnell,20,,RJ Peterson,11,South Africa,Sri Lanka,282,South Africa,De Beers Diamond Oval,6,Sri Lanka
+286,47.1,0,KMDN Kulasekara,2012-01-20,1st,RJ Peterson,11,,WD Parnell,20,South Africa,Sri Lanka,282,South Africa,De Beers Diamond Oval,6,Sri Lanka
+287,47.2,1,KMDN Kulasekara,2012-01-20,1st,RJ Peterson,11,,WD Parnell,21,South Africa,Sri Lanka,283,South Africa,De Beers Diamond Oval,6,Sri Lanka
+288,47.3,4,KMDN Kulasekara,2012-01-20,1st,WD Parnell,21,,RJ Peterson,15,South Africa,Sri Lanka,287,South Africa,De Beers Diamond Oval,6,Sri Lanka
+289,47.4,2,KMDN Kulasekara,2012-01-20,1st,WD Parnell,21,,RJ Peterson,17,South Africa,Sri Lanka,289,South Africa,De Beers Diamond Oval,6,Sri Lanka
+290,47.5,0,KMDN Kulasekara,2012-01-20,1st,WD Parnell,21,WD Parnell,RJ Peterson,17,South Africa,Sri Lanka,289,South Africa,De Beers Diamond Oval,7,Sri Lanka
+291,47.6,0,KMDN Kulasekara,2012-01-20,1st,RJ Peterson,17,,VD Philander,0,South Africa,Sri Lanka,289,South Africa,De Beers Diamond Oval,7,Sri Lanka
+292,48.1,0,SL Malinga,2012-01-20,1st,VD Philander,0,,RJ Peterson,17,South Africa,Sri Lanka,289,South Africa,De Beers Diamond Oval,7,Sri Lanka
+293,48.2,0,SL Malinga,2012-01-20,1st,VD Philander,0,,RJ Peterson,17,South Africa,Sri Lanka,289,South Africa,De Beers Diamond Oval,7,Sri Lanka
+294,48.3,1,SL Malinga,2012-01-20,1st,VD Philander,0,,RJ Peterson,18,South Africa,Sri Lanka,290,South Africa,De Beers Diamond Oval,7,Sri Lanka
+295,48.4,1,SL Malinga,2012-01-20,1st,RJ Peterson,18,,VD Philander,1,South Africa,Sri Lanka,291,South Africa,De Beers Diamond Oval,7,Sri Lanka
+296,48.5,1,SL Malinga,2012-01-20,1st,VD Philander,1,,RJ Peterson,19,South Africa,Sri Lanka,292,South Africa,De Beers Diamond Oval,7,Sri Lanka
+297,48.6,0,SL Malinga,2012-01-20,1st,RJ Peterson,19,,VD Philander,1,South Africa,Sri Lanka,294,South Africa,De Beers Diamond Oval,7,Sri Lanka
+298,48.7,1,SL Malinga,2012-01-20,1st,VD Philander,1,,RJ Peterson,20,South Africa,Sri Lanka,295,South Africa,De Beers Diamond Oval,7,Sri Lanka
+299,49.1,1,KMDN Kulasekara,2012-01-20,1st,VD Philander,1,,RJ Peterson,21,South Africa,Sri Lanka,296,South Africa,De Beers Diamond Oval,7,Sri Lanka
+300,49.2,0,KMDN Kulasekara,2012-01-20,1st,RJ Peterson,21,,VD Philander,1,South Africa,Sri Lanka,296,South Africa,De Beers Diamond Oval,7,Sri Lanka
+301,49.3,0,KMDN Kulasekara,2012-01-20,1st,RJ Peterson,21,,VD Philander,1,South Africa,Sri Lanka,296,South Africa,De Beers Diamond Oval,7,Sri Lanka
+302,49.4,1,KMDN Kulasekara,2012-01-20,1st,RJ Peterson,21,,VD Philander,2,South Africa,Sri Lanka,297,South Africa,De Beers Diamond Oval,7,Sri Lanka
+303,49.5,2,KMDN Kulasekara,2012-01-20,1st,VD Philander,2,,RJ Peterson,23,South Africa,Sri Lanka,299,South Africa,De Beers Diamond Oval,7,Sri Lanka
+304,49.6,0,KMDN Kulasekara,2012-01-20,1st,VD Philander,2,,RJ Peterson,23,South Africa,Sri Lanka,299,South Africa,De Beers Diamond Oval,7,Sri Lanka
+305,0.1,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,De Beers Diamond Oval,0,Sri Lanka
+306,0.2,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,De Beers Diamond Oval,0,Sri Lanka
+307,0.3,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,De Beers Diamond Oval,0,Sri Lanka
+308,0.4,1,M Morkel,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,1,South Africa,De Beers Diamond Oval,0,Sri Lanka
+309,0.5,0,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,1,South Africa,De Beers Diamond Oval,0,Sri Lanka
+310,0.6,4,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,5,South Africa,De Beers Diamond Oval,0,Sri Lanka
+311,1.1,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,5,South Africa,De Beers Diamond Oval,0,Sri Lanka
+312,1.2,4,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,9,South Africa,De Beers Diamond Oval,0,Sri Lanka
+313,1.3,1,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,10,South Africa,De Beers Diamond Oval,0,Sri Lanka
+314,1.4,1,LL Tsotsobe,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,11,South Africa,De Beers Diamond Oval,0,Sri Lanka
+315,1.5,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,11,South Africa,De Beers Diamond Oval,0,Sri Lanka
+316,1.6,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,11,South Africa,De Beers Diamond Oval,0,Sri Lanka
+317,2.1,6,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,0,Sri Lanka
+318,2.2,0,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,0,Sri Lanka
+319,2.3,0,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,0,Sri Lanka
+320,2.4,0,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,0,Sri Lanka
+321,2.5,0,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,0,Sri Lanka
+322,2.6,0,M Morkel,2012-01-20,2nd,WU Tharanga,0,,TM Dilshan,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,0,Sri Lanka
+323,3.1,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,1,Sri Lanka
+324,3.2,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,1,Sri Lanka
+325,3.3,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,17,South Africa,De Beers Diamond Oval,1,Sri Lanka
+326,3.4,1,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,18,South Africa,De Beers Diamond Oval,1,Sri Lanka
+327,3.5,0,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,18,South Africa,De Beers Diamond Oval,1,Sri Lanka
+328,3.6,0,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,19,South Africa,De Beers Diamond Oval,1,Sri Lanka
+329,3.7,0,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,19,South Africa,De Beers Diamond Oval,1,Sri Lanka
+330,4.1,3,M Morkel,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,22,South Africa,De Beers Diamond Oval,1,Sri Lanka
+331,4.2,0,M Morkel,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,22,South Africa,De Beers Diamond Oval,1,Sri Lanka
+332,4.3,4,M Morkel,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,26,South Africa,De Beers Diamond Oval,1,Sri Lanka
+333,4.4,4,M Morkel,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,30,South Africa,De Beers Diamond Oval,1,Sri Lanka
+334,4.5,0,M Morkel,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,30,South Africa,De Beers Diamond Oval,1,Sri Lanka
+335,4.6,1,M Morkel,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,31,South Africa,De Beers Diamond Oval,1,Sri Lanka
+336,5.1,1,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,32,South Africa,De Beers Diamond Oval,1,Sri Lanka
+337,5.2,1,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,33,South Africa,De Beers Diamond Oval,1,Sri Lanka
+338,5.3,0,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,33,South Africa,De Beers Diamond Oval,1,Sri Lanka
+339,5.4,0,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,33,South Africa,De Beers Diamond Oval,1,Sri Lanka
+340,5.5,0,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,33,South Africa,De Beers Diamond Oval,1,Sri Lanka
+341,5.6,4,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,37,South Africa,De Beers Diamond Oval,1,Sri Lanka
+342,6.1,1,VD Philander,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,38,South Africa,De Beers Diamond Oval,1,Sri Lanka
+343,6.2,6,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,44,South Africa,De Beers Diamond Oval,1,Sri Lanka
+344,6.3,0,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,44,South Africa,De Beers Diamond Oval,1,Sri Lanka
+345,6.4,0,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,44,South Africa,De Beers Diamond Oval,1,Sri Lanka
+346,6.5,0,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,44,South Africa,De Beers Diamond Oval,1,Sri Lanka
+347,6.6,0,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,44,South Africa,De Beers Diamond Oval,1,Sri Lanka
+348,7.1,6,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,50,South Africa,De Beers Diamond Oval,1,Sri Lanka
+349,7.2,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,50,South Africa,De Beers Diamond Oval,1,Sri Lanka
+350,7.3,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,50,South Africa,De Beers Diamond Oval,1,Sri Lanka
+351,7.4,4,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,54,South Africa,De Beers Diamond Oval,1,Sri Lanka
+352,7.5,1,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,55,South Africa,De Beers Diamond Oval,1,Sri Lanka
+353,7.6,0,LL Tsotsobe,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,55,South Africa,De Beers Diamond Oval,1,Sri Lanka
+354,8.1,0,VD Philander,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,56,South Africa,De Beers Diamond Oval,1,Sri Lanka
+355,8.2,1,VD Philander,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,57,South Africa,De Beers Diamond Oval,1,Sri Lanka
+356,8.3,0,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,57,South Africa,De Beers Diamond Oval,1,Sri Lanka
+357,8.4,0,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,57,South Africa,De Beers Diamond Oval,1,Sri Lanka
+358,8.5,4,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,61,South Africa,De Beers Diamond Oval,1,Sri Lanka
+359,8.6,4,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,65,South Africa,De Beers Diamond Oval,1,Sri Lanka
+360,8.7,0,VD Philander,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,65,South Africa,De Beers Diamond Oval,1,Sri Lanka
+361,9.1,0,WD Parnell,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,65,South Africa,De Beers Diamond Oval,1,Sri Lanka
+362,9.2,1,WD Parnell,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,66,South Africa,De Beers Diamond Oval,1,Sri Lanka
+363,9.3,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,66,South Africa,De Beers Diamond Oval,1,Sri Lanka
+364,9.4,1,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,67,South Africa,De Beers Diamond Oval,1,Sri Lanka
+365,9.5,0,WD Parnell,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,67,South Africa,De Beers Diamond Oval,1,Sri Lanka
+366,9.6,1,WD Parnell,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,68,South Africa,De Beers Diamond Oval,1,Sri Lanka
+367,10.1,4,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,72,South Africa,De Beers Diamond Oval,1,Sri Lanka
+368,10.2,1,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,73,South Africa,De Beers Diamond Oval,1,Sri Lanka
+369,10.3,2,JP Duminy,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,75,South Africa,De Beers Diamond Oval,1,Sri Lanka
+370,10.4,1,JP Duminy,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,76,South Africa,De Beers Diamond Oval,1,Sri Lanka
+371,10.5,1,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,77,South Africa,De Beers Diamond Oval,1,Sri Lanka
+372,10.6,1,JP Duminy,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,78,South Africa,De Beers Diamond Oval,1,Sri Lanka
+373,11.1,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,78,South Africa,De Beers Diamond Oval,1,Sri Lanka
+374,11.2,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,78,South Africa,De Beers Diamond Oval,1,Sri Lanka
+375,11.3,4,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,82,South Africa,De Beers Diamond Oval,1,Sri Lanka
+376,11.4,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,82,South Africa,De Beers Diamond Oval,1,Sri Lanka
+377,11.5,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,82,South Africa,De Beers Diamond Oval,1,Sri Lanka
+378,11.6,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,82,South Africa,De Beers Diamond Oval,1,Sri Lanka
+379,12.1,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,82,South Africa,De Beers Diamond Oval,1,Sri Lanka
+380,12.2,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,82,South Africa,De Beers Diamond Oval,1,Sri Lanka
+381,12.3,1,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,83,South Africa,De Beers Diamond Oval,1,Sri Lanka
+382,12.4,0,RJ Peterson,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,83,South Africa,De Beers Diamond Oval,1,Sri Lanka
+383,12.5,1,RJ Peterson,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,1,Sri Lanka
+384,12.6,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,1,Sri Lanka
+385,13.1,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,1,Sri Lanka
+386,13.2,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,1,Sri Lanka
+387,13.3,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,1,Sri Lanka
+388,13.4,0,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,84,South Africa,De Beers Diamond Oval,1,Sri Lanka
+389,13.5,1,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,85,South Africa,De Beers Diamond Oval,1,Sri Lanka
+390,13.6,1,WD Parnell,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,86,South Africa,De Beers Diamond Oval,1,Sri Lanka
+391,14.1,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,86,South Africa,De Beers Diamond Oval,1,Sri Lanka
+392,14.2,1,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,87,South Africa,De Beers Diamond Oval,1,Sri Lanka
+393,14.3,0,RJ Peterson,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,87,South Africa,De Beers Diamond Oval,1,Sri Lanka
+394,14.4,0,RJ Peterson,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,87,South Africa,De Beers Diamond Oval,1,Sri Lanka
+395,14.5,1,RJ Peterson,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,88,South Africa,De Beers Diamond Oval,1,Sri Lanka
+396,14.6,1,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,89,South Africa,De Beers Diamond Oval,1,Sri Lanka
+397,15.1,1,WD Parnell,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,90,South Africa,De Beers Diamond Oval,1,Sri Lanka
+398,15.2,2,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,92,South Africa,De Beers Diamond Oval,1,Sri Lanka
+399,15.3,4,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,96,South Africa,De Beers Diamond Oval,1,Sri Lanka
+400,15.4,1,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,97,South Africa,De Beers Diamond Oval,1,Sri Lanka
+401,15.5,1,WD Parnell,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,98,South Africa,De Beers Diamond Oval,1,Sri Lanka
+402,15.6,2,WD Parnell,2012-01-20,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,100,South Africa,De Beers Diamond Oval,1,Sri Lanka
+403,16.1,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,100,South Africa,De Beers Diamond Oval,1,Sri Lanka
+404,16.2,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,100,South Africa,De Beers Diamond Oval,2,Sri Lanka
+405,16.3,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,100,South Africa,De Beers Diamond Oval,2,Sri Lanka
+406,16.4,6,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,106,South Africa,De Beers Diamond Oval,2,Sri Lanka
+407,16.5,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,106,South Africa,De Beers Diamond Oval,2,Sri Lanka
+408,16.6,0,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,106,South Africa,De Beers Diamond Oval,2,Sri Lanka
+409,17.1,0,M Morkel,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,106,South Africa,De Beers Diamond Oval,2,Sri Lanka
+410,17.2,1,M Morkel,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,107,South Africa,De Beers Diamond Oval,2,Sri Lanka
+411,17.3,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,107,South Africa,De Beers Diamond Oval,2,Sri Lanka
+412,17.4,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,107,South Africa,De Beers Diamond Oval,2,Sri Lanka
+413,17.5,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,107,South Africa,De Beers Diamond Oval,2,Sri Lanka
+414,17.6,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,107,South Africa,De Beers Diamond Oval,2,Sri Lanka
+415,18.1,1,RJ Peterson,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,108,South Africa,De Beers Diamond Oval,2,Sri Lanka
+416,18.2,4,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,112,South Africa,De Beers Diamond Oval,2,Sri Lanka
+417,18.3,1,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,113,South Africa,De Beers Diamond Oval,2,Sri Lanka
+418,18.4,1,RJ Peterson,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,114,South Africa,De Beers Diamond Oval,2,Sri Lanka
+419,18.5,1,RJ Peterson,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,115,South Africa,De Beers Diamond Oval,2,Sri Lanka
+420,18.6,0,RJ Peterson,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,115,South Africa,De Beers Diamond Oval,2,Sri Lanka
+421,19.1,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,115,South Africa,De Beers Diamond Oval,2,Sri Lanka
+422,19.2,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,115,South Africa,De Beers Diamond Oval,2,Sri Lanka
+423,19.3,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,119,South Africa,De Beers Diamond Oval,2,Sri Lanka
+424,19.4,2,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,121,South Africa,De Beers Diamond Oval,2,Sri Lanka
+425,19.5,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,121,South Africa,De Beers Diamond Oval,2,Sri Lanka
+426,19.6,0,M Morkel,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,121,South Africa,De Beers Diamond Oval,2,Sri Lanka
+427,20.1,1,VD Philander,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,122,South Africa,De Beers Diamond Oval,2,Sri Lanka
+428,20.2,3,VD Philander,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,125,South Africa,De Beers Diamond Oval,2,Sri Lanka
+429,20.3,1,VD Philander,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,126,South Africa,De Beers Diamond Oval,2,Sri Lanka
+430,20.4,1,VD Philander,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,127,South Africa,De Beers Diamond Oval,2,Sri Lanka
+431,20.5,1,VD Philander,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,128,South Africa,De Beers Diamond Oval,2,Sri Lanka
+432,20.6,1,VD Philander,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,129,South Africa,De Beers Diamond Oval,2,Sri Lanka
+433,21.1,0,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,129,South Africa,De Beers Diamond Oval,2,Sri Lanka
+434,21.2,0,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,129,South Africa,De Beers Diamond Oval,2,Sri Lanka
+435,21.3,0,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,129,South Africa,De Beers Diamond Oval,2,Sri Lanka
+436,21.4,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,130,South Africa,De Beers Diamond Oval,2,Sri Lanka
+437,21.5,2,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,132,South Africa,De Beers Diamond Oval,2,Sri Lanka
+438,21.6,0,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,132,South Africa,De Beers Diamond Oval,2,Sri Lanka
+439,22.1,1,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,133,South Africa,De Beers Diamond Oval,2,Sri Lanka
+440,22.2,1,JP Duminy,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,134,South Africa,De Beers Diamond Oval,2,Sri Lanka
+441,22.3,2,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,2,Sri Lanka
+442,22.4,0,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,136,South Africa,De Beers Diamond Oval,2,Sri Lanka
+443,22.5,1,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,137,South Africa,De Beers Diamond Oval,2,Sri Lanka
+444,22.6,2,JP Duminy,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,139,South Africa,De Beers Diamond Oval,2,Sri Lanka
+445,23.1,0,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,139,South Africa,De Beers Diamond Oval,2,Sri Lanka
+446,23.2,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,140,South Africa,De Beers Diamond Oval,2,Sri Lanka
+447,23.3,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,141,South Africa,De Beers Diamond Oval,2,Sri Lanka
+448,23.4,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,142,South Africa,De Beers Diamond Oval,2,Sri Lanka
+449,23.5,0,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,142,South Africa,De Beers Diamond Oval,2,Sri Lanka
+450,23.6,4,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,146,South Africa,De Beers Diamond Oval,2,Sri Lanka
+451,24.1,1,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,147,South Africa,De Beers Diamond Oval,2,Sri Lanka
+452,24.2,1,JP Duminy,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,148,South Africa,De Beers Diamond Oval,2,Sri Lanka
+453,24.3,1,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,149,South Africa,De Beers Diamond Oval,2,Sri Lanka
+454,24.4,1,JP Duminy,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,150,South Africa,De Beers Diamond Oval,2,Sri Lanka
+455,24.5,1,JP Duminy,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,151,South Africa,De Beers Diamond Oval,2,Sri Lanka
+456,24.6,0,JP Duminy,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,151,South Africa,De Beers Diamond Oval,2,Sri Lanka
+457,25.1,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,152,South Africa,De Beers Diamond Oval,2,Sri Lanka
+458,25.2,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,153,South Africa,De Beers Diamond Oval,2,Sri Lanka
+459,25.3,0,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,153,South Africa,De Beers Diamond Oval,2,Sri Lanka
+460,25.4,0,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,153,South Africa,De Beers Diamond Oval,2,Sri Lanka
+461,25.5,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,154,South Africa,De Beers Diamond Oval,2,Sri Lanka
+462,25.6,0,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,155,South Africa,De Beers Diamond Oval,2,Sri Lanka
+463,25.7,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,156,South Africa,De Beers Diamond Oval,2,Sri Lanka
+464,26.1,1,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,157,South Africa,De Beers Diamond Oval,2,Sri Lanka
+465,26.2,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,157,South Africa,De Beers Diamond Oval,2,Sri Lanka
+466,26.3,1,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,158,South Africa,De Beers Diamond Oval,2,Sri Lanka
+467,26.4,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,158,South Africa,De Beers Diamond Oval,2,Sri Lanka
+468,26.5,2,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,160,South Africa,De Beers Diamond Oval,2,Sri Lanka
+469,26.6,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,160,South Africa,De Beers Diamond Oval,2,Sri Lanka
+470,27.1,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,161,South Africa,De Beers Diamond Oval,2,Sri Lanka
+471,27.2,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,162,South Africa,De Beers Diamond Oval,2,Sri Lanka
+472,27.3,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,163,South Africa,De Beers Diamond Oval,2,Sri Lanka
+473,27.4,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,164,South Africa,De Beers Diamond Oval,2,Sri Lanka
+474,27.5,1,F du Plessis,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,165,South Africa,De Beers Diamond Oval,2,Sri Lanka
+475,27.6,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,166,South Africa,De Beers Diamond Oval,2,Sri Lanka
+476,28.1,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,166,South Africa,De Beers Diamond Oval,2,Sri Lanka
+477,28.2,1,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,167,South Africa,De Beers Diamond Oval,2,Sri Lanka
+478,28.3,0,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,167,South Africa,De Beers Diamond Oval,2,Sri Lanka
+479,28.4,1,LL Tsotsobe,2012-01-20,2nd,TM Dilshan,0,,LD Chandimal,0,South Africa,Sri Lanka,168,South Africa,De Beers Diamond Oval,2,Sri Lanka
+480,28.5,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,TM Dilshan,0,South Africa,Sri Lanka,168,South Africa,De Beers Diamond Oval,3,Sri Lanka
+481,28.6,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,168,South Africa,De Beers Diamond Oval,3,Sri Lanka
+482,29.1,1,F du Plessis,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,169,South Africa,De Beers Diamond Oval,3,Sri Lanka
+483,29.2,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,170,South Africa,De Beers Diamond Oval,3,Sri Lanka
+484,29.3,0,F du Plessis,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,170,South Africa,De Beers Diamond Oval,3,Sri Lanka
+485,29.4,1,F du Plessis,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,171,South Africa,De Beers Diamond Oval,3,Sri Lanka
+486,29.5,1,F du Plessis,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,172,South Africa,De Beers Diamond Oval,3,Sri Lanka
+487,29.6,1,F du Plessis,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,173,South Africa,De Beers Diamond Oval,3,Sri Lanka
+488,30.1,1,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,174,South Africa,De Beers Diamond Oval,3,Sri Lanka
+489,30.2,1,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,175,South Africa,De Beers Diamond Oval,3,Sri Lanka
+490,30.3,1,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,176,South Africa,De Beers Diamond Oval,3,Sri Lanka
+491,30.4,3,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,179,South Africa,De Beers Diamond Oval,3,Sri Lanka
+492,30.5,0,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,179,South Africa,De Beers Diamond Oval,3,Sri Lanka
+493,30.6,0,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,179,South Africa,De Beers Diamond Oval,3,Sri Lanka
+494,31.1,1,M Morkel,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,180,South Africa,De Beers Diamond Oval,3,Sri Lanka
+495,31.2,0,M Morkel,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,180,South Africa,De Beers Diamond Oval,3,Sri Lanka
+496,31.3,0,M Morkel,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,180,South Africa,De Beers Diamond Oval,3,Sri Lanka
+497,31.4,0,M Morkel,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,181,South Africa,De Beers Diamond Oval,3,Sri Lanka
+498,31.5,1,M Morkel,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,182,South Africa,De Beers Diamond Oval,3,Sri Lanka
+499,31.6,1,M Morkel,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,183,South Africa,De Beers Diamond Oval,3,Sri Lanka
+500,32.1,0,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,183,South Africa,De Beers Diamond Oval,3,Sri Lanka
+501,32.2,1,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,184,South Africa,De Beers Diamond Oval,3,Sri Lanka
+502,32.3,2,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,186,South Africa,De Beers Diamond Oval,3,Sri Lanka
+503,32.4,0,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,186,South Africa,De Beers Diamond Oval,3,Sri Lanka
+504,32.5,1,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,187,South Africa,De Beers Diamond Oval,3,Sri Lanka
+505,32.6,1,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,188,South Africa,De Beers Diamond Oval,3,Sri Lanka
+506,33.1,0,WD Parnell,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,188,South Africa,De Beers Diamond Oval,3,Sri Lanka
+507,33.2,1,WD Parnell,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,189,South Africa,De Beers Diamond Oval,3,Sri Lanka
+508,33.3,1,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,190,South Africa,De Beers Diamond Oval,3,Sri Lanka
+509,33.4,1,WD Parnell,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,191,South Africa,De Beers Diamond Oval,3,Sri Lanka
+510,33.5,1,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,192,South Africa,De Beers Diamond Oval,3,Sri Lanka
+511,33.6,1,WD Parnell,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,193,South Africa,De Beers Diamond Oval,3,Sri Lanka
+512,34.1,1,VD Philander,2012-01-20,2nd,HDRL Thirimanne,0,,LD Chandimal,0,South Africa,Sri Lanka,194,South Africa,De Beers Diamond Oval,3,Sri Lanka
+513,34.2,0,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,194,South Africa,De Beers Diamond Oval,3,Sri Lanka
+514,34.3,0,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,194,South Africa,De Beers Diamond Oval,3,Sri Lanka
+515,34.4,0,VD Philander,2012-01-20,2nd,LD Chandimal,0,,HDRL Thirimanne,0,South Africa,Sri Lanka,194,South Africa,De Beers Diamond Oval,4,Sri Lanka
+516,34.5,0,VD Philander,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,195,South Africa,De Beers Diamond Oval,4,Sri Lanka
+517,34.6,0,VD Philander,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,195,South Africa,De Beers Diamond Oval,4,Sri Lanka
+518,34.7,1,VD Philander,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,196,South Africa,De Beers Diamond Oval,4,Sri Lanka
+519,35.1,0,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,198,South Africa,De Beers Diamond Oval,4,Sri Lanka
+520,35.2,0,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,199,South Africa,De Beers Diamond Oval,4,Sri Lanka
+521,35.3,1,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,200,South Africa,De Beers Diamond Oval,4,Sri Lanka
+522,35.4,1,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,201,South Africa,De Beers Diamond Oval,4,Sri Lanka
+523,35.5,1,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,202,South Africa,De Beers Diamond Oval,4,Sri Lanka
+524,35.6,0,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,204,South Africa,De Beers Diamond Oval,4,Sri Lanka
+525,35.7,1,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,205,South Africa,De Beers Diamond Oval,4,Sri Lanka
+526,36.1,0,RJ Peterson,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,205,South Africa,De Beers Diamond Oval,4,Sri Lanka
+527,36.2,1,RJ Peterson,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,206,South Africa,De Beers Diamond Oval,4,Sri Lanka
+528,36.3,0,RJ Peterson,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,206,South Africa,De Beers Diamond Oval,4,Sri Lanka
+529,36.4,6,RJ Peterson,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,212,South Africa,De Beers Diamond Oval,4,Sri Lanka
+530,36.5,4,RJ Peterson,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,216,South Africa,De Beers Diamond Oval,4,Sri Lanka
+531,36.6,1,RJ Peterson,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,217,South Africa,De Beers Diamond Oval,4,Sri Lanka
+532,37.1,1,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,218,South Africa,De Beers Diamond Oval,4,Sri Lanka
+533,37.2,1,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,219,South Africa,De Beers Diamond Oval,4,Sri Lanka
+534,37.3,0,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,219,South Africa,De Beers Diamond Oval,4,Sri Lanka
+535,37.4,5,WD Parnell,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,224,South Africa,De Beers Diamond Oval,4,Sri Lanka
+536,37.5,0,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,224,South Africa,De Beers Diamond Oval,4,Sri Lanka
+537,37.6,1,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,225,South Africa,De Beers Diamond Oval,4,Sri Lanka
+538,38.1,1,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,226,South Africa,De Beers Diamond Oval,4,Sri Lanka
+539,38.2,2,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,228,South Africa,De Beers Diamond Oval,4,Sri Lanka
+540,38.3,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,228,South Africa,De Beers Diamond Oval,4,Sri Lanka
+541,38.4,6,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,234,South Africa,De Beers Diamond Oval,4,Sri Lanka
+542,38.5,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,234,South Africa,De Beers Diamond Oval,4,Sri Lanka
+543,38.6,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,234,South Africa,De Beers Diamond Oval,4,Sri Lanka
+544,39.1,0,M Morkel,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,235,South Africa,De Beers Diamond Oval,4,Sri Lanka
+545,39.2,0,M Morkel,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,235,South Africa,De Beers Diamond Oval,4,Sri Lanka
+546,39.3,2,M Morkel,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,237,South Africa,De Beers Diamond Oval,4,Sri Lanka
+547,39.4,1,M Morkel,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,238,South Africa,De Beers Diamond Oval,4,Sri Lanka
+548,39.5,2,M Morkel,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,240,South Africa,De Beers Diamond Oval,4,Sri Lanka
+549,39.6,0,M Morkel,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,240,South Africa,De Beers Diamond Oval,4,Sri Lanka
+550,39.7,4,M Morkel,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,244,South Africa,De Beers Diamond Oval,4,Sri Lanka
+551,40.1,1,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,245,South Africa,De Beers Diamond Oval,4,Sri Lanka
+552,40.2,0,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,245,South Africa,De Beers Diamond Oval,4,Sri Lanka
+553,40.3,1,LL Tsotsobe,2012-01-20,2nd,LD Chandimal,0,,NLTC Perera,0,South Africa,Sri Lanka,246,South Africa,De Beers Diamond Oval,4,Sri Lanka
+554,40.4,0,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,246,South Africa,De Beers Diamond Oval,4,Sri Lanka
+555,40.5,0,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,246,South Africa,De Beers Diamond Oval,4,Sri Lanka
+556,40.6,0,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,LD Chandimal,0,South Africa,Sri Lanka,246,South Africa,De Beers Diamond Oval,5,Sri Lanka
+557,41.1,0,M Morkel,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,246,South Africa,De Beers Diamond Oval,5,Sri Lanka
+558,41.2,0,M Morkel,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,247,South Africa,De Beers Diamond Oval,5,Sri Lanka
+559,41.3,1,M Morkel,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,248,South Africa,De Beers Diamond Oval,5,Sri Lanka
+560,41.4,0,M Morkel,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,248,South Africa,De Beers Diamond Oval,5,Sri Lanka
+561,41.5,0,M Morkel,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,248,South Africa,De Beers Diamond Oval,5,Sri Lanka
+562,41.6,1,M Morkel,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,249,South Africa,De Beers Diamond Oval,5,Sri Lanka
+563,41.7,1,M Morkel,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,250,South Africa,De Beers Diamond Oval,5,Sri Lanka
+564,42.1,1,RJ Peterson,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,251,South Africa,De Beers Diamond Oval,5,Sri Lanka
+565,42.2,1,RJ Peterson,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,252,South Africa,De Beers Diamond Oval,5,Sri Lanka
+566,42.3,1,RJ Peterson,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,253,South Africa,De Beers Diamond Oval,5,Sri Lanka
+567,42.4,1,RJ Peterson,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,254,South Africa,De Beers Diamond Oval,5,Sri Lanka
+568,42.5,6,RJ Peterson,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,260,South Africa,De Beers Diamond Oval,5,Sri Lanka
+569,42.6,6,RJ Peterson,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,266,South Africa,De Beers Diamond Oval,5,Sri Lanka
+570,43.1,0,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,266,South Africa,De Beers Diamond Oval,5,Sri Lanka
+571,43.2,1,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,267,South Africa,De Beers Diamond Oval,5,Sri Lanka
+572,43.3,1,LL Tsotsobe,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,268,South Africa,De Beers Diamond Oval,5,Sri Lanka
+573,43.4,0,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,268,South Africa,De Beers Diamond Oval,5,Sri Lanka
+574,43.5,0,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,268,South Africa,De Beers Diamond Oval,5,Sri Lanka
+575,43.6,1,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,269,South Africa,De Beers Diamond Oval,5,Sri Lanka
+576,44.1,0,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,269,South Africa,De Beers Diamond Oval,5,Sri Lanka
+577,44.2,0,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,269,South Africa,De Beers Diamond Oval,5,Sri Lanka
+578,44.3,1,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,270,South Africa,De Beers Diamond Oval,5,Sri Lanka
+579,44.4,0,WD Parnell,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,271,South Africa,De Beers Diamond Oval,5,Sri Lanka
+580,44.5,1,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,272,South Africa,De Beers Diamond Oval,5,Sri Lanka
+581,44.6,1,WD Parnell,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,273,South Africa,De Beers Diamond Oval,5,Sri Lanka
+582,45.1,0,LL Tsotsobe,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,273,South Africa,De Beers Diamond Oval,5,Sri Lanka
+583,45.2,1,LL Tsotsobe,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,274,South Africa,De Beers Diamond Oval,5,Sri Lanka
+584,45.3,2,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,276,South Africa,De Beers Diamond Oval,5,Sri Lanka
+585,45.4,2,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,278,South Africa,De Beers Diamond Oval,5,Sri Lanka
+586,45.5,0,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,278,South Africa,De Beers Diamond Oval,5,Sri Lanka
+587,45.6,1,LL Tsotsobe,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,279,South Africa,De Beers Diamond Oval,5,Sri Lanka
+588,46.1,2,JP Duminy,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,281,South Africa,De Beers Diamond Oval,5,Sri Lanka
+589,46.2,1,JP Duminy,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,282,South Africa,De Beers Diamond Oval,5,Sri Lanka
+590,46.3,0,JP Duminy,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,282,South Africa,De Beers Diamond Oval,5,Sri Lanka
+591,46.4,2,JP Duminy,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,284,South Africa,De Beers Diamond Oval,5,Sri Lanka
+592,46.5,0,JP Duminy,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,284,South Africa,De Beers Diamond Oval,5,Sri Lanka
+593,46.6,2,JP Duminy,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,286,South Africa,De Beers Diamond Oval,5,Sri Lanka
+594,47.1,2,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,288,South Africa,De Beers Diamond Oval,5,Sri Lanka
+595,47.2,3,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,291,South Africa,De Beers Diamond Oval,5,Sri Lanka
+596,47.3,4,WD Parnell,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,295,South Africa,De Beers Diamond Oval,5,Sri Lanka
+597,47.4,0,WD Parnell,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,295,South Africa,De Beers Diamond Oval,5,Sri Lanka
+598,47.5,1,WD Parnell,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,296,South Africa,De Beers Diamond Oval,5,Sri Lanka
+599,47.6,0,WD Parnell,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,296,South Africa,De Beers Diamond Oval,5,Sri Lanka
+600,48.1,1,JP Duminy,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,297,South Africa,De Beers Diamond Oval,5,Sri Lanka
+601,48.2,0,JP Duminy,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,297,South Africa,De Beers Diamond Oval,5,Sri Lanka
+602,48.3,1,JP Duminy,2012-01-20,2nd,NLTC Perera,0,,AD Mathews,0,South Africa,Sri Lanka,298,South Africa,De Beers Diamond Oval,5,Sri Lanka
+603,48.4,6,JP Duminy,2012-01-20,2nd,AD Mathews,0,,NLTC Perera,0,South Africa,Sri Lanka,304,South Africa,De Beers Diamond Oval,5,Sri Lanka

@@ -1,0 +1,543 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,DW Steyn,2009-09-24,1st,JD Ryder,0,,BB McCullum,0,South Africa,New Zealand,0,South Africa,SuperSport Park,0,South Africa
+1,0.2,0,DW Steyn,2009-09-24,1st,JD Ryder,0,,BB McCullum,0,South Africa,New Zealand,0,South Africa,SuperSport Park,0,South Africa
+2,0.3,0,DW Steyn,2009-09-24,1st,JD Ryder,0,,BB McCullum,0,South Africa,New Zealand,0,South Africa,SuperSport Park,0,South Africa
+3,0.4,1,DW Steyn,2009-09-24,1st,JD Ryder,0,,BB McCullum,1,South Africa,New Zealand,1,South Africa,SuperSport Park,0,South Africa
+4,0.5,0,DW Steyn,2009-09-24,1st,BB McCullum,1,,JD Ryder,0,South Africa,New Zealand,1,South Africa,SuperSport Park,0,South Africa
+5,0.6,1,DW Steyn,2009-09-24,1st,BB McCullum,1,,JD Ryder,1,South Africa,New Zealand,2,South Africa,SuperSport Park,0,South Africa
+6,1.1,1,WD Parnell,2009-09-24,1st,BB McCullum,1,,JD Ryder,2,South Africa,New Zealand,3,South Africa,SuperSport Park,0,South Africa
+7,1.2,0,WD Parnell,2009-09-24,1st,JD Ryder,2,,BB McCullum,1,South Africa,New Zealand,3,South Africa,SuperSport Park,0,South Africa
+8,1.3,0,WD Parnell,2009-09-24,1st,JD Ryder,2,,BB McCullum,1,South Africa,New Zealand,3,South Africa,SuperSport Park,0,South Africa
+9,1.4,0,WD Parnell,2009-09-24,1st,JD Ryder,2,,BB McCullum,1,South Africa,New Zealand,3,South Africa,SuperSport Park,0,South Africa
+10,1.5,0,WD Parnell,2009-09-24,1st,JD Ryder,2,,BB McCullum,1,South Africa,New Zealand,3,South Africa,SuperSport Park,0,South Africa
+11,1.6,1,WD Parnell,2009-09-24,1st,JD Ryder,2,,BB McCullum,2,South Africa,New Zealand,4,South Africa,SuperSport Park,0,South Africa
+12,2.1,0,DW Steyn,2009-09-24,1st,JD Ryder,2,,BB McCullum,2,South Africa,New Zealand,4,South Africa,SuperSport Park,0,South Africa
+13,2.2,1,DW Steyn,2009-09-24,1st,JD Ryder,2,,BB McCullum,3,South Africa,New Zealand,5,South Africa,SuperSport Park,0,South Africa
+14,2.3,0,DW Steyn,2009-09-24,1st,BB McCullum,3,,JD Ryder,2,South Africa,New Zealand,5,South Africa,SuperSport Park,0,South Africa
+15,2.4,0,DW Steyn,2009-09-24,1st,BB McCullum,3,,JD Ryder,2,South Africa,New Zealand,5,South Africa,SuperSport Park,0,South Africa
+16,2.5,4,DW Steyn,2009-09-24,1st,BB McCullum,3,,JD Ryder,6,South Africa,New Zealand,9,South Africa,SuperSport Park,0,South Africa
+17,2.6,0,DW Steyn,2009-09-24,1st,BB McCullum,3,,JD Ryder,6,South Africa,New Zealand,9,South Africa,SuperSport Park,0,South Africa
+18,3.1,1,WD Parnell,2009-09-24,1st,JD Ryder,6,,BB McCullum,4,South Africa,New Zealand,10,South Africa,SuperSport Park,0,South Africa
+19,3.2,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,JD Ryder,6,South Africa,New Zealand,10,South Africa,SuperSport Park,0,South Africa
+20,3.3,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,JD Ryder,6,South Africa,New Zealand,10,South Africa,SuperSport Park,0,South Africa
+21,3.4,2,WD Parnell,2009-09-24,1st,BB McCullum,4,,JD Ryder,8,South Africa,New Zealand,12,South Africa,SuperSport Park,0,South Africa
+22,3.5,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,JD Ryder,8,South Africa,New Zealand,12,South Africa,SuperSport Park,0,South Africa
+23,3.6,0,WD Parnell,2009-09-24,1st,BB McCullum,4,JD Ryder,JD Ryder,8,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+24,4.1,0,DW Steyn,2009-09-24,1st,MJ Guptill,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+25,4.2,0,DW Steyn,2009-09-24,1st,MJ Guptill,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+26,4.3,0,DW Steyn,2009-09-24,1st,MJ Guptill,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+27,4.4,0,DW Steyn,2009-09-24,1st,MJ Guptill,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+28,4.5,0,DW Steyn,2009-09-24,1st,MJ Guptill,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+29,4.6,0,DW Steyn,2009-09-24,1st,MJ Guptill,0,,BB McCullum,4,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+30,5.1,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,MJ Guptill,0,South Africa,New Zealand,12,South Africa,SuperSport Park,1,South Africa
+31,5.2,4,WD Parnell,2009-09-24,1st,BB McCullum,4,,MJ Guptill,4,South Africa,New Zealand,16,South Africa,SuperSport Park,1,South Africa
+32,5.3,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,MJ Guptill,4,South Africa,New Zealand,16,South Africa,SuperSport Park,1,South Africa
+33,5.4,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,MJ Guptill,4,South Africa,New Zealand,16,South Africa,SuperSport Park,1,South Africa
+34,5.5,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,MJ Guptill,4,South Africa,New Zealand,16,South Africa,SuperSport Park,1,South Africa
+35,5.6,0,WD Parnell,2009-09-24,1st,BB McCullum,4,,MJ Guptill,4,South Africa,New Zealand,16,South Africa,SuperSport Park,1,South Africa
+36,6.1,0,DW Steyn,2009-09-24,1st,MJ Guptill,4,,BB McCullum,4,South Africa,New Zealand,16,South Africa,SuperSport Park,1,South Africa
+37,6.2,1,DW Steyn,2009-09-24,1st,MJ Guptill,4,,BB McCullum,5,South Africa,New Zealand,17,South Africa,SuperSport Park,1,South Africa
+38,6.3,4,DW Steyn,2009-09-24,1st,BB McCullum,5,,MJ Guptill,8,South Africa,New Zealand,21,South Africa,SuperSport Park,1,South Africa
+39,6.4,0,DW Steyn,2009-09-24,1st,BB McCullum,5,,MJ Guptill,8,South Africa,New Zealand,21,South Africa,SuperSport Park,1,South Africa
+40,6.5,0,DW Steyn,2009-09-24,1st,BB McCullum,5,,MJ Guptill,8,South Africa,New Zealand,21,South Africa,SuperSport Park,1,South Africa
+41,6.6,0,DW Steyn,2009-09-24,1st,BB McCullum,5,,MJ Guptill,8,South Africa,New Zealand,21,South Africa,SuperSport Park,1,South Africa
+42,7.1,6,WD Parnell,2009-09-24,1st,MJ Guptill,8,,BB McCullum,11,South Africa,New Zealand,27,South Africa,SuperSport Park,1,South Africa
+43,7.2,0,WD Parnell,2009-09-24,1st,MJ Guptill,8,,BB McCullum,11,South Africa,New Zealand,27,South Africa,SuperSport Park,1,South Africa
+44,7.3,1,WD Parnell,2009-09-24,1st,MJ Guptill,8,,BB McCullum,12,South Africa,New Zealand,28,South Africa,SuperSport Park,1,South Africa
+45,7.4,1,WD Parnell,2009-09-24,1st,BB McCullum,12,,MJ Guptill,9,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+46,7.5,0,WD Parnell,2009-09-24,1st,MJ Guptill,9,,BB McCullum,12,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+47,7.6,0,WD Parnell,2009-09-24,1st,MJ Guptill,9,,BB McCullum,12,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+48,8.1,1,DW Steyn,2009-09-24,1st,BB McCullum,12,,MJ Guptill,10,South Africa,New Zealand,30,South Africa,SuperSport Park,1,South Africa
+49,8.2,0,DW Steyn,2009-09-24,1st,MJ Guptill,10,,BB McCullum,12,South Africa,New Zealand,30,South Africa,SuperSport Park,1,South Africa
+50,8.3,0,DW Steyn,2009-09-24,1st,MJ Guptill,10,,BB McCullum,12,South Africa,New Zealand,30,South Africa,SuperSport Park,1,South Africa
+51,8.4,0,DW Steyn,2009-09-24,1st,MJ Guptill,10,,BB McCullum,12,South Africa,New Zealand,30,South Africa,SuperSport Park,1,South Africa
+52,8.5,4,DW Steyn,2009-09-24,1st,MJ Guptill,10,,BB McCullum,16,South Africa,New Zealand,34,South Africa,SuperSport Park,1,South Africa
+53,8.6,0,DW Steyn,2009-09-24,1st,MJ Guptill,10,,BB McCullum,16,South Africa,New Zealand,34,South Africa,SuperSport Park,1,South Africa
+54,9.1,0,JH Kallis,2009-09-24,1st,BB McCullum,16,,MJ Guptill,10,South Africa,New Zealand,34,South Africa,SuperSport Park,1,South Africa
+55,9.2,0,JH Kallis,2009-09-24,1st,BB McCullum,16,,MJ Guptill,10,South Africa,New Zealand,34,South Africa,SuperSport Park,1,South Africa
+56,9.3,0,JH Kallis,2009-09-24,1st,BB McCullum,16,,MJ Guptill,10,South Africa,New Zealand,35,South Africa,SuperSport Park,1,South Africa
+57,9.4,0,JH Kallis,2009-09-24,1st,MJ Guptill,10,,BB McCullum,16,South Africa,New Zealand,35,South Africa,SuperSport Park,1,South Africa
+58,9.5,0,JH Kallis,2009-09-24,1st,MJ Guptill,10,,BB McCullum,16,South Africa,New Zealand,35,South Africa,SuperSport Park,1,South Africa
+59,9.6,1,JH Kallis,2009-09-24,1st,MJ Guptill,10,,BB McCullum,17,South Africa,New Zealand,36,South Africa,SuperSport Park,1,South Africa
+60,10.1,4,WD Parnell,2009-09-24,1st,MJ Guptill,10,,BB McCullum,21,South Africa,New Zealand,40,South Africa,SuperSport Park,1,South Africa
+61,10.2,1,WD Parnell,2009-09-24,1st,MJ Guptill,10,,BB McCullum,22,South Africa,New Zealand,41,South Africa,SuperSport Park,1,South Africa
+62,10.3,0,WD Parnell,2009-09-24,1st,BB McCullum,22,,MJ Guptill,10,South Africa,New Zealand,41,South Africa,SuperSport Park,1,South Africa
+63,10.4,1,WD Parnell,2009-09-24,1st,BB McCullum,22,,MJ Guptill,11,South Africa,New Zealand,42,South Africa,SuperSport Park,1,South Africa
+64,10.5,0,WD Parnell,2009-09-24,1st,MJ Guptill,11,,BB McCullum,22,South Africa,New Zealand,42,South Africa,SuperSport Park,1,South Africa
+65,10.6,4,WD Parnell,2009-09-24,1st,MJ Guptill,11,,BB McCullum,26,South Africa,New Zealand,46,South Africa,SuperSport Park,1,South Africa
+66,11.1,0,JH Kallis,2009-09-24,1st,BB McCullum,26,,MJ Guptill,11,South Africa,New Zealand,46,South Africa,SuperSport Park,1,South Africa
+67,11.2,0,JH Kallis,2009-09-24,1st,BB McCullum,26,,MJ Guptill,11,South Africa,New Zealand,46,South Africa,SuperSport Park,1,South Africa
+68,11.3,0,JH Kallis,2009-09-24,1st,BB McCullum,26,,MJ Guptill,11,South Africa,New Zealand,46,South Africa,SuperSport Park,1,South Africa
+69,11.4,0,JH Kallis,2009-09-24,1st,BB McCullum,26,,MJ Guptill,11,South Africa,New Zealand,46,South Africa,SuperSport Park,1,South Africa
+70,11.5,1,JH Kallis,2009-09-24,1st,BB McCullum,26,,MJ Guptill,12,South Africa,New Zealand,47,South Africa,SuperSport Park,1,South Africa
+71,11.6,0,JH Kallis,2009-09-24,1st,MJ Guptill,12,,BB McCullum,26,South Africa,New Zealand,47,South Africa,SuperSport Park,1,South Africa
+72,12.1,0,WD Parnell,2009-09-24,1st,BB McCullum,26,,MJ Guptill,12,South Africa,New Zealand,48,South Africa,SuperSport Park,1,South Africa
+73,12.2,4,WD Parnell,2009-09-24,1st,BB McCullum,26,,MJ Guptill,16,South Africa,New Zealand,52,South Africa,SuperSport Park,1,South Africa
+74,12.3,4,WD Parnell,2009-09-24,1st,BB McCullum,26,,MJ Guptill,20,South Africa,New Zealand,56,South Africa,SuperSport Park,1,South Africa
+75,12.4,1,WD Parnell,2009-09-24,1st,BB McCullum,26,,MJ Guptill,21,South Africa,New Zealand,57,South Africa,SuperSport Park,1,South Africa
+76,12.5,0,WD Parnell,2009-09-24,1st,MJ Guptill,21,,BB McCullum,26,South Africa,New Zealand,57,South Africa,SuperSport Park,1,South Africa
+77,12.6,1,WD Parnell,2009-09-24,1st,MJ Guptill,21,,BB McCullum,27,South Africa,New Zealand,58,South Africa,SuperSport Park,1,South Africa
+78,12.7,0,WD Parnell,2009-09-24,1st,BB McCullum,27,MJ Guptill,MJ Guptill,21,South Africa,New Zealand,58,South Africa,SuperSport Park,2,South Africa
+79,13.1,0,JH Kallis,2009-09-24,1st,BB McCullum,27,,LRPL Taylor,0,South Africa,New Zealand,58,South Africa,SuperSport Park,2,South Africa
+80,13.2,0,JH Kallis,2009-09-24,1st,BB McCullum,27,,LRPL Taylor,0,South Africa,New Zealand,58,South Africa,SuperSport Park,2,South Africa
+81,13.3,0,JH Kallis,2009-09-24,1st,BB McCullum,27,,LRPL Taylor,0,South Africa,New Zealand,58,South Africa,SuperSport Park,2,South Africa
+82,13.4,4,JH Kallis,2009-09-24,1st,BB McCullum,27,,LRPL Taylor,4,South Africa,New Zealand,62,South Africa,SuperSport Park,2,South Africa
+83,13.5,0,JH Kallis,2009-09-24,1st,BB McCullum,27,,LRPL Taylor,4,South Africa,New Zealand,62,South Africa,SuperSport Park,2,South Africa
+84,13.6,2,JH Kallis,2009-09-24,1st,BB McCullum,27,,LRPL Taylor,6,South Africa,New Zealand,64,South Africa,SuperSport Park,2,South Africa
+85,14.1,0,JA Morkel,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,27,South Africa,New Zealand,64,South Africa,SuperSport Park,2,South Africa
+86,14.2,0,JA Morkel,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,27,South Africa,New Zealand,64,South Africa,SuperSport Park,2,South Africa
+87,14.3,0,JA Morkel,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,27,South Africa,New Zealand,64,South Africa,SuperSport Park,2,South Africa
+88,14.4,0,JA Morkel,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,27,South Africa,New Zealand,64,South Africa,SuperSport Park,2,South Africa
+89,14.5,1,JA Morkel,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,28,South Africa,New Zealand,65,South Africa,SuperSport Park,2,South Africa
+90,14.6,0,JA Morkel,2009-09-24,1st,BB McCullum,28,,LRPL Taylor,6,South Africa,New Zealand,65,South Africa,SuperSport Park,2,South Africa
+91,15.1,0,JH Kallis,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,28,South Africa,New Zealand,65,South Africa,SuperSport Park,2,South Africa
+92,15.2,1,JH Kallis,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,29,South Africa,New Zealand,66,South Africa,SuperSport Park,2,South Africa
+93,15.3,0,JH Kallis,2009-09-24,1st,BB McCullum,29,,LRPL Taylor,6,South Africa,New Zealand,66,South Africa,SuperSport Park,2,South Africa
+94,15.4,0,JH Kallis,2009-09-24,1st,BB McCullum,29,,LRPL Taylor,6,South Africa,New Zealand,66,South Africa,SuperSport Park,2,South Africa
+95,15.5,0,JH Kallis,2009-09-24,1st,BB McCullum,29,,LRPL Taylor,6,South Africa,New Zealand,66,South Africa,SuperSport Park,2,South Africa
+96,15.6,0,JH Kallis,2009-09-24,1st,BB McCullum,29,,LRPL Taylor,6,South Africa,New Zealand,66,South Africa,SuperSport Park,2,South Africa
+97,16.1,1,JA Morkel,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,30,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+98,16.2,0,JA Morkel,2009-09-24,1st,BB McCullum,30,,LRPL Taylor,6,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+99,16.3,0,JA Morkel,2009-09-24,1st,BB McCullum,30,,LRPL Taylor,6,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+100,16.4,0,JA Morkel,2009-09-24,1st,BB McCullum,30,,LRPL Taylor,6,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+101,16.5,0,JA Morkel,2009-09-24,1st,BB McCullum,30,,LRPL Taylor,6,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+102,16.6,0,JA Morkel,2009-09-24,1st,BB McCullum,30,,LRPL Taylor,6,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+103,17.1,0,JH Kallis,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,30,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+104,17.2,0,JH Kallis,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,30,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+105,17.3,0,JH Kallis,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,30,South Africa,New Zealand,67,South Africa,SuperSport Park,2,South Africa
+106,17.4,1,JH Kallis,2009-09-24,1st,LRPL Taylor,6,,BB McCullum,31,South Africa,New Zealand,68,South Africa,SuperSport Park,2,South Africa
+107,17.5,1,JH Kallis,2009-09-24,1st,BB McCullum,31,,LRPL Taylor,7,South Africa,New Zealand,69,South Africa,SuperSport Park,2,South Africa
+108,17.6,0,JH Kallis,2009-09-24,1st,LRPL Taylor,7,,BB McCullum,31,South Africa,New Zealand,69,South Africa,SuperSport Park,2,South Africa
+109,18.1,1,JA Morkel,2009-09-24,1st,BB McCullum,31,,LRPL Taylor,8,South Africa,New Zealand,70,South Africa,SuperSport Park,2,South Africa
+110,18.2,0,JA Morkel,2009-09-24,1st,LRPL Taylor,8,,BB McCullum,31,South Africa,New Zealand,71,South Africa,SuperSport Park,2,South Africa
+111,18.3,6,JA Morkel,2009-09-24,1st,LRPL Taylor,8,,BB McCullum,37,South Africa,New Zealand,77,South Africa,SuperSport Park,2,South Africa
+112,18.4,1,JA Morkel,2009-09-24,1st,LRPL Taylor,8,,BB McCullum,38,South Africa,New Zealand,78,South Africa,SuperSport Park,2,South Africa
+113,18.5,0,JA Morkel,2009-09-24,1st,BB McCullum,38,,LRPL Taylor,8,South Africa,New Zealand,78,South Africa,SuperSport Park,2,South Africa
+114,18.6,1,JA Morkel,2009-09-24,1st,BB McCullum,38,,LRPL Taylor,9,South Africa,New Zealand,79,South Africa,SuperSport Park,2,South Africa
+115,18.7,1,JA Morkel,2009-09-24,1st,LRPL Taylor,9,,BB McCullum,39,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+116,19.1,0,J Botha,2009-09-24,1st,LRPL Taylor,9,,BB McCullum,39,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+117,19.2,0,J Botha,2009-09-24,1st,LRPL Taylor,9,,BB McCullum,39,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+118,19.3,0,J Botha,2009-09-24,1st,LRPL Taylor,9,,BB McCullum,39,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+119,19.4,1,J Botha,2009-09-24,1st,LRPL Taylor,9,,BB McCullum,40,South Africa,New Zealand,81,South Africa,SuperSport Park,2,South Africa
+120,19.5,1,J Botha,2009-09-24,1st,BB McCullum,40,,LRPL Taylor,10,South Africa,New Zealand,82,South Africa,SuperSport Park,2,South Africa
+121,19.6,1,J Botha,2009-09-24,1st,LRPL Taylor,10,,BB McCullum,41,South Africa,New Zealand,83,South Africa,SuperSport Park,2,South Africa
+122,20.1,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,10,,BB McCullum,41,South Africa,New Zealand,83,South Africa,SuperSport Park,2,South Africa
+123,20.2,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,10,,BB McCullum,42,South Africa,New Zealand,84,South Africa,SuperSport Park,2,South Africa
+124,20.3,0,RE van der Merwe,2009-09-24,1st,BB McCullum,42,,LRPL Taylor,10,South Africa,New Zealand,84,South Africa,SuperSport Park,2,South Africa
+125,20.4,0,RE van der Merwe,2009-09-24,1st,BB McCullum,42,,LRPL Taylor,10,South Africa,New Zealand,84,South Africa,SuperSport Park,2,South Africa
+126,20.5,0,RE van der Merwe,2009-09-24,1st,BB McCullum,42,,LRPL Taylor,10,South Africa,New Zealand,84,South Africa,SuperSport Park,2,South Africa
+127,20.6,0,RE van der Merwe,2009-09-24,1st,BB McCullum,42,,LRPL Taylor,10,South Africa,New Zealand,84,South Africa,SuperSport Park,2,South Africa
+128,21.1,0,J Botha,2009-09-24,1st,LRPL Taylor,10,,BB McCullum,42,South Africa,New Zealand,84,South Africa,SuperSport Park,2,South Africa
+129,21.2,1,J Botha,2009-09-24,1st,LRPL Taylor,10,,BB McCullum,43,South Africa,New Zealand,85,South Africa,SuperSport Park,2,South Africa
+130,21.3,0,J Botha,2009-09-24,1st,BB McCullum,43,,LRPL Taylor,10,South Africa,New Zealand,85,South Africa,SuperSport Park,2,South Africa
+131,21.4,1,J Botha,2009-09-24,1st,BB McCullum,43,,LRPL Taylor,11,South Africa,New Zealand,86,South Africa,SuperSport Park,2,South Africa
+132,21.5,1,J Botha,2009-09-24,1st,LRPL Taylor,11,,BB McCullum,44,South Africa,New Zealand,87,South Africa,SuperSport Park,2,South Africa
+133,21.6,1,J Botha,2009-09-24,1st,BB McCullum,44,,LRPL Taylor,12,South Africa,New Zealand,88,South Africa,SuperSport Park,2,South Africa
+134,22.1,0,RE van der Merwe,2009-09-24,1st,BB McCullum,44,,LRPL Taylor,12,South Africa,New Zealand,88,South Africa,SuperSport Park,2,South Africa
+135,22.2,0,RE van der Merwe,2009-09-24,1st,BB McCullum,44,,LRPL Taylor,12,South Africa,New Zealand,88,South Africa,SuperSport Park,2,South Africa
+136,22.3,0,RE van der Merwe,2009-09-24,1st,BB McCullum,44,,LRPL Taylor,12,South Africa,New Zealand,88,South Africa,SuperSport Park,2,South Africa
+137,22.4,0,RE van der Merwe,2009-09-24,1st,BB McCullum,44,,LRPL Taylor,12,South Africa,New Zealand,88,South Africa,SuperSport Park,2,South Africa
+138,22.5,4,RE van der Merwe,2009-09-24,1st,BB McCullum,44,,LRPL Taylor,16,South Africa,New Zealand,92,South Africa,SuperSport Park,2,South Africa
+139,22.6,0,RE van der Merwe,2009-09-24,1st,BB McCullum,44,,LRPL Taylor,16,South Africa,New Zealand,92,South Africa,SuperSport Park,2,South Africa
+140,23.1,0,J Botha,2009-09-24,1st,LRPL Taylor,16,BB McCullum,BB McCullum,44,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+141,23.2,0,J Botha,2009-09-24,1st,LRPL Taylor,16,,GD Elliott,0,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+142,23.3,0,J Botha,2009-09-24,1st,LRPL Taylor,16,,GD Elliott,0,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+143,23.4,0,J Botha,2009-09-24,1st,LRPL Taylor,16,,GD Elliott,0,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+144,23.5,0,J Botha,2009-09-24,1st,LRPL Taylor,16,,GD Elliott,0,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+145,23.6,0,J Botha,2009-09-24,1st,LRPL Taylor,16,,GD Elliott,0,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+146,24.1,0,RE van der Merwe,2009-09-24,1st,GD Elliott,0,,LRPL Taylor,16,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+147,24.2,0,RE van der Merwe,2009-09-24,1st,GD Elliott,0,,LRPL Taylor,16,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+148,24.3,0,RE van der Merwe,2009-09-24,1st,GD Elliott,0,,LRPL Taylor,16,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+149,24.4,0,RE van der Merwe,2009-09-24,1st,GD Elliott,0,,LRPL Taylor,16,South Africa,New Zealand,92,South Africa,SuperSport Park,3,South Africa
+150,24.5,0,RE van der Merwe,2009-09-24,1st,GD Elliott,0,,LRPL Taylor,16,South Africa,New Zealand,94,South Africa,SuperSport Park,3,South Africa
+151,24.6,0,RE van der Merwe,2009-09-24,1st,GD Elliott,0,,LRPL Taylor,16,South Africa,New Zealand,94,South Africa,SuperSport Park,3,South Africa
+152,25.1,2,J Botha,2009-09-24,1st,LRPL Taylor,16,,GD Elliott,2,South Africa,New Zealand,96,South Africa,SuperSport Park,3,South Africa
+153,25.2,1,J Botha,2009-09-24,1st,LRPL Taylor,16,,GD Elliott,3,South Africa,New Zealand,97,South Africa,SuperSport Park,3,South Africa
+154,25.3,0,J Botha,2009-09-24,1st,GD Elliott,3,,LRPL Taylor,16,South Africa,New Zealand,97,South Africa,SuperSport Park,3,South Africa
+155,25.4,0,J Botha,2009-09-24,1st,GD Elliott,3,,LRPL Taylor,16,South Africa,New Zealand,97,South Africa,SuperSport Park,3,South Africa
+156,25.5,1,J Botha,2009-09-24,1st,GD Elliott,3,,LRPL Taylor,17,South Africa,New Zealand,98,South Africa,SuperSport Park,3,South Africa
+157,25.6,1,J Botha,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,4,South Africa,New Zealand,99,South Africa,SuperSport Park,3,South Africa
+158,26.1,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,4,South Africa,New Zealand,99,South Africa,SuperSport Park,3,South Africa
+159,26.2,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,4,South Africa,New Zealand,99,South Africa,SuperSport Park,3,South Africa
+160,26.3,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,4,South Africa,New Zealand,99,South Africa,SuperSport Park,3,South Africa
+161,26.4,2,RE van der Merwe,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,6,South Africa,New Zealand,101,South Africa,SuperSport Park,3,South Africa
+162,26.5,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,7,South Africa,New Zealand,102,South Africa,SuperSport Park,3,South Africa
+163,26.6,0,RE van der Merwe,2009-09-24,1st,GD Elliott,7,,LRPL Taylor,17,South Africa,New Zealand,102,South Africa,SuperSport Park,3,South Africa
+164,27.1,0,J Botha,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,7,South Africa,New Zealand,102,South Africa,SuperSport Park,3,South Africa
+165,27.2,0,J Botha,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,7,South Africa,New Zealand,102,South Africa,SuperSport Park,3,South Africa
+166,27.3,0,J Botha,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,7,South Africa,New Zealand,106,South Africa,SuperSport Park,3,South Africa
+167,27.4,1,J Botha,2009-09-24,1st,LRPL Taylor,17,,GD Elliott,8,South Africa,New Zealand,107,South Africa,SuperSport Park,3,South Africa
+168,27.5,1,J Botha,2009-09-24,1st,GD Elliott,8,,LRPL Taylor,18,South Africa,New Zealand,108,South Africa,SuperSport Park,3,South Africa
+169,27.6,0,J Botha,2009-09-24,1st,LRPL Taylor,18,,GD Elliott,8,South Africa,New Zealand,108,South Africa,SuperSport Park,3,South Africa
+170,28.1,1,RE van der Merwe,2009-09-24,1st,GD Elliott,8,,LRPL Taylor,19,South Africa,New Zealand,109,South Africa,SuperSport Park,3,South Africa
+171,28.2,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,19,,GD Elliott,8,South Africa,New Zealand,109,South Africa,SuperSport Park,3,South Africa
+172,28.3,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,19,,GD Elliott,8,South Africa,New Zealand,109,South Africa,SuperSport Park,3,South Africa
+173,28.4,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,19,,GD Elliott,9,South Africa,New Zealand,110,South Africa,SuperSport Park,3,South Africa
+174,28.5,0,RE van der Merwe,2009-09-24,1st,GD Elliott,9,,LRPL Taylor,19,South Africa,New Zealand,110,South Africa,SuperSport Park,3,South Africa
+175,28.6,1,RE van der Merwe,2009-09-24,1st,GD Elliott,9,,LRPL Taylor,20,South Africa,New Zealand,111,South Africa,SuperSport Park,3,South Africa
+176,29.1,0,J Botha,2009-09-24,1st,GD Elliott,9,,LRPL Taylor,20,South Africa,New Zealand,111,South Africa,SuperSport Park,3,South Africa
+177,29.2,0,J Botha,2009-09-24,1st,GD Elliott,9,,LRPL Taylor,20,South Africa,New Zealand,111,South Africa,SuperSport Park,3,South Africa
+178,29.3,1,J Botha,2009-09-24,1st,GD Elliott,9,,LRPL Taylor,21,South Africa,New Zealand,112,South Africa,SuperSport Park,3,South Africa
+179,29.4,1,J Botha,2009-09-24,1st,LRPL Taylor,21,,GD Elliott,10,South Africa,New Zealand,113,South Africa,SuperSport Park,3,South Africa
+180,29.5,0,J Botha,2009-09-24,1st,GD Elliott,10,,LRPL Taylor,21,South Africa,New Zealand,113,South Africa,SuperSport Park,3,South Africa
+181,29.6,1,J Botha,2009-09-24,1st,GD Elliott,10,,LRPL Taylor,22,South Africa,New Zealand,114,South Africa,SuperSport Park,3,South Africa
+182,30.1,1,RE van der Merwe,2009-09-24,1st,GD Elliott,10,,LRPL Taylor,23,South Africa,New Zealand,115,South Africa,SuperSport Park,3,South Africa
+183,30.2,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,23,,GD Elliott,11,South Africa,New Zealand,116,South Africa,SuperSport Park,3,South Africa
+184,30.3,0,RE van der Merwe,2009-09-24,1st,GD Elliott,11,,LRPL Taylor,23,South Africa,New Zealand,116,South Africa,SuperSport Park,3,South Africa
+185,30.4,0,RE van der Merwe,2009-09-24,1st,GD Elliott,11,,LRPL Taylor,23,South Africa,New Zealand,116,South Africa,SuperSport Park,3,South Africa
+186,30.5,0,RE van der Merwe,2009-09-24,1st,GD Elliott,11,,LRPL Taylor,23,South Africa,New Zealand,116,South Africa,SuperSport Park,3,South Africa
+187,30.6,1,RE van der Merwe,2009-09-24,1st,GD Elliott,11,,LRPL Taylor,24,South Africa,New Zealand,117,South Africa,SuperSport Park,3,South Africa
+188,31.1,1,J Botha,2009-09-24,1st,GD Elliott,11,,LRPL Taylor,25,South Africa,New Zealand,118,South Africa,SuperSport Park,3,South Africa
+189,31.2,0,J Botha,2009-09-24,1st,LRPL Taylor,25,,GD Elliott,11,South Africa,New Zealand,118,South Africa,SuperSport Park,3,South Africa
+190,31.3,0,J Botha,2009-09-24,1st,LRPL Taylor,25,,GD Elliott,11,South Africa,New Zealand,118,South Africa,SuperSport Park,3,South Africa
+191,31.4,1,J Botha,2009-09-24,1st,LRPL Taylor,25,,GD Elliott,12,South Africa,New Zealand,119,South Africa,SuperSport Park,3,South Africa
+192,31.5,1,J Botha,2009-09-24,1st,GD Elliott,12,,LRPL Taylor,26,South Africa,New Zealand,120,South Africa,SuperSport Park,3,South Africa
+193,31.6,2,J Botha,2009-09-24,1st,LRPL Taylor,26,,GD Elliott,14,South Africa,New Zealand,122,South Africa,SuperSport Park,3,South Africa
+194,32.1,0,DW Steyn,2009-09-24,1st,GD Elliott,14,,LRPL Taylor,26,South Africa,New Zealand,122,South Africa,SuperSport Park,3,South Africa
+195,32.2,0,DW Steyn,2009-09-24,1st,GD Elliott,14,,LRPL Taylor,26,South Africa,New Zealand,122,South Africa,SuperSport Park,3,South Africa
+196,32.3,0,DW Steyn,2009-09-24,1st,GD Elliott,14,,LRPL Taylor,26,South Africa,New Zealand,122,South Africa,SuperSport Park,3,South Africa
+197,32.4,1,DW Steyn,2009-09-24,1st,GD Elliott,14,,LRPL Taylor,27,South Africa,New Zealand,123,South Africa,SuperSport Park,3,South Africa
+198,32.5,0,DW Steyn,2009-09-24,1st,LRPL Taylor,27,,GD Elliott,14,South Africa,New Zealand,123,South Africa,SuperSport Park,3,South Africa
+199,32.6,0,DW Steyn,2009-09-24,1st,LRPL Taylor,27,,GD Elliott,14,South Africa,New Zealand,123,South Africa,SuperSport Park,3,South Africa
+200,33.1,1,J Botha,2009-09-24,1st,GD Elliott,14,,LRPL Taylor,28,South Africa,New Zealand,124,South Africa,SuperSport Park,3,South Africa
+201,33.2,1,J Botha,2009-09-24,1st,LRPL Taylor,28,,GD Elliott,15,South Africa,New Zealand,125,South Africa,SuperSport Park,3,South Africa
+202,33.3,1,J Botha,2009-09-24,1st,GD Elliott,15,,LRPL Taylor,29,South Africa,New Zealand,126,South Africa,SuperSport Park,3,South Africa
+203,33.4,4,J Botha,2009-09-24,1st,LRPL Taylor,29,,GD Elliott,19,South Africa,New Zealand,130,South Africa,SuperSport Park,3,South Africa
+204,33.5,4,J Botha,2009-09-24,1st,LRPL Taylor,29,,GD Elliott,23,South Africa,New Zealand,134,South Africa,SuperSport Park,3,South Africa
+205,33.6,1,J Botha,2009-09-24,1st,LRPL Taylor,29,,GD Elliott,24,South Africa,New Zealand,135,South Africa,SuperSport Park,3,South Africa
+206,34.1,0,DW Steyn,2009-09-24,1st,LRPL Taylor,29,,GD Elliott,24,South Africa,New Zealand,135,South Africa,SuperSport Park,3,South Africa
+207,34.2,1,DW Steyn,2009-09-24,1st,LRPL Taylor,29,,GD Elliott,25,South Africa,New Zealand,136,South Africa,SuperSport Park,3,South Africa
+208,34.3,0,DW Steyn,2009-09-24,1st,GD Elliott,25,,LRPL Taylor,29,South Africa,New Zealand,136,South Africa,SuperSport Park,3,South Africa
+209,34.4,0,DW Steyn,2009-09-24,1st,GD Elliott,25,,LRPL Taylor,29,South Africa,New Zealand,136,South Africa,SuperSport Park,3,South Africa
+210,34.5,0,DW Steyn,2009-09-24,1st,GD Elliott,25,,LRPL Taylor,29,South Africa,New Zealand,136,South Africa,SuperSport Park,3,South Africa
+211,34.6,0,DW Steyn,2009-09-24,1st,GD Elliott,25,,LRPL Taylor,29,South Africa,New Zealand,136,South Africa,SuperSport Park,3,South Africa
+212,35.1,1,J Botha,2009-09-24,1st,LRPL Taylor,29,,GD Elliott,26,South Africa,New Zealand,137,South Africa,SuperSport Park,3,South Africa
+213,35.2,0,J Botha,2009-09-24,1st,GD Elliott,26,,LRPL Taylor,29,South Africa,New Zealand,137,South Africa,SuperSport Park,3,South Africa
+214,35.3,1,J Botha,2009-09-24,1st,GD Elliott,26,,LRPL Taylor,30,South Africa,New Zealand,138,South Africa,SuperSport Park,3,South Africa
+215,35.4,4,J Botha,2009-09-24,1st,LRPL Taylor,30,,GD Elliott,30,South Africa,New Zealand,142,South Africa,SuperSport Park,3,South Africa
+216,35.5,4,J Botha,2009-09-24,1st,LRPL Taylor,30,,GD Elliott,34,South Africa,New Zealand,146,South Africa,SuperSport Park,3,South Africa
+217,35.6,0,J Botha,2009-09-24,1st,LRPL Taylor,30,,GD Elliott,34,South Africa,New Zealand,146,South Africa,SuperSport Park,3,South Africa
+218,36.1,1,RE van der Merwe,2009-09-24,1st,GD Elliott,34,,LRPL Taylor,31,South Africa,New Zealand,147,South Africa,SuperSport Park,3,South Africa
+219,36.2,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,31,,GD Elliott,35,South Africa,New Zealand,148,South Africa,SuperSport Park,3,South Africa
+220,36.3,1,RE van der Merwe,2009-09-24,1st,GD Elliott,35,,LRPL Taylor,32,South Africa,New Zealand,149,South Africa,SuperSport Park,3,South Africa
+221,36.4,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,32,,GD Elliott,36,South Africa,New Zealand,150,South Africa,SuperSport Park,3,South Africa
+222,36.5,1,RE van der Merwe,2009-09-24,1st,GD Elliott,36,,LRPL Taylor,33,South Africa,New Zealand,151,South Africa,SuperSport Park,3,South Africa
+223,36.6,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,33,,GD Elliott,37,South Africa,New Zealand,152,South Africa,SuperSport Park,3,South Africa
+224,37.1,1,JH Kallis,2009-09-24,1st,LRPL Taylor,33,,GD Elliott,38,South Africa,New Zealand,153,South Africa,SuperSport Park,3,South Africa
+225,37.2,0,JH Kallis,2009-09-24,1st,GD Elliott,38,,LRPL Taylor,33,South Africa,New Zealand,153,South Africa,SuperSport Park,3,South Africa
+226,37.3,0,JH Kallis,2009-09-24,1st,GD Elliott,38,,LRPL Taylor,33,South Africa,New Zealand,153,South Africa,SuperSport Park,3,South Africa
+227,37.4,6,JH Kallis,2009-09-24,1st,GD Elliott,38,,LRPL Taylor,39,South Africa,New Zealand,159,South Africa,SuperSport Park,3,South Africa
+228,37.5,1,JH Kallis,2009-09-24,1st,GD Elliott,38,,LRPL Taylor,40,South Africa,New Zealand,160,South Africa,SuperSport Park,3,South Africa
+229,37.6,1,JH Kallis,2009-09-24,1st,LRPL Taylor,40,,GD Elliott,39,South Africa,New Zealand,161,South Africa,SuperSport Park,3,South Africa
+230,38.1,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,40,,GD Elliott,39,South Africa,New Zealand,161,South Africa,SuperSport Park,3,South Africa
+231,38.2,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,40,,GD Elliott,39,South Africa,New Zealand,162,South Africa,SuperSport Park,3,South Africa
+232,38.3,0,RE van der Merwe,2009-09-24,1st,GD Elliott,39,,LRPL Taylor,40,South Africa,New Zealand,162,South Africa,SuperSport Park,3,South Africa
+233,38.4,1,RE van der Merwe,2009-09-24,1st,GD Elliott,39,,LRPL Taylor,41,South Africa,New Zealand,163,South Africa,SuperSport Park,3,South Africa
+234,38.5,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,41,,GD Elliott,39,South Africa,New Zealand,163,South Africa,SuperSport Park,3,South Africa
+235,38.6,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,41,GD Elliott,GD Elliott,39,South Africa,New Zealand,163,South Africa,SuperSport Park,4,South Africa
+236,39.1,0,JH Kallis,2009-09-24,1st,NT Broom,0,,LRPL Taylor,41,South Africa,New Zealand,163,South Africa,SuperSport Park,4,South Africa
+237,39.2,1,JH Kallis,2009-09-24,1st,NT Broom,0,,LRPL Taylor,42,South Africa,New Zealand,164,South Africa,SuperSport Park,4,South Africa
+238,39.3,0,JH Kallis,2009-09-24,1st,LRPL Taylor,42,,NT Broom,0,South Africa,New Zealand,164,South Africa,SuperSport Park,4,South Africa
+239,39.4,1,JH Kallis,2009-09-24,1st,LRPL Taylor,42,,NT Broom,1,South Africa,New Zealand,165,South Africa,SuperSport Park,4,South Africa
+240,39.5,1,JH Kallis,2009-09-24,1st,NT Broom,1,,LRPL Taylor,43,South Africa,New Zealand,166,South Africa,SuperSport Park,4,South Africa
+241,39.6,0,JH Kallis,2009-09-24,1st,LRPL Taylor,43,,NT Broom,1,South Africa,New Zealand,166,South Africa,SuperSport Park,4,South Africa
+242,40.1,0,RE van der Merwe,2009-09-24,1st,NT Broom,1,,LRPL Taylor,43,South Africa,New Zealand,166,South Africa,SuperSport Park,4,South Africa
+243,40.2,4,RE van der Merwe,2009-09-24,1st,NT Broom,1,,LRPL Taylor,47,South Africa,New Zealand,170,South Africa,SuperSport Park,4,South Africa
+244,40.3,0,RE van der Merwe,2009-09-24,1st,NT Broom,1,,LRPL Taylor,47,South Africa,New Zealand,170,South Africa,SuperSport Park,4,South Africa
+245,40.4,1,RE van der Merwe,2009-09-24,1st,NT Broom,1,,LRPL Taylor,48,South Africa,New Zealand,171,South Africa,SuperSport Park,4,South Africa
+246,40.5,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,48,NT Broom,NT Broom,1,South Africa,New Zealand,171,South Africa,SuperSport Park,5,South Africa
+247,40.6,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,48,,GJ Hopkins,1,South Africa,New Zealand,172,South Africa,SuperSport Park,5,South Africa
+248,41.1,0,JH Kallis,2009-09-24,1st,LRPL Taylor,48,,GJ Hopkins,1,South Africa,New Zealand,172,South Africa,SuperSport Park,5,South Africa
+249,41.2,0,JH Kallis,2009-09-24,1st,LRPL Taylor,48,,GJ Hopkins,1,South Africa,New Zealand,172,South Africa,SuperSport Park,5,South Africa
+250,41.3,0,JH Kallis,2009-09-24,1st,LRPL Taylor,48,,GJ Hopkins,1,South Africa,New Zealand,173,South Africa,SuperSport Park,5,South Africa
+251,41.4,1,JH Kallis,2009-09-24,1st,GJ Hopkins,1,,LRPL Taylor,49,South Africa,New Zealand,174,South Africa,SuperSport Park,5,South Africa
+252,41.5,0,JH Kallis,2009-09-24,1st,LRPL Taylor,49,,GJ Hopkins,1,South Africa,New Zealand,174,South Africa,SuperSport Park,5,South Africa
+253,41.6,0,JH Kallis,2009-09-24,1st,LRPL Taylor,49,,GJ Hopkins,1,South Africa,New Zealand,174,South Africa,SuperSport Park,5,South Africa
+254,42.1,1,RE van der Merwe,2009-09-24,1st,GJ Hopkins,1,,LRPL Taylor,50,South Africa,New Zealand,175,South Africa,SuperSport Park,5,South Africa
+255,42.2,0,RE van der Merwe,2009-09-24,1st,LRPL Taylor,50,,GJ Hopkins,1,South Africa,New Zealand,175,South Africa,SuperSport Park,5,South Africa
+256,42.3,1,RE van der Merwe,2009-09-24,1st,LRPL Taylor,50,,GJ Hopkins,2,South Africa,New Zealand,176,South Africa,SuperSport Park,5,South Africa
+257,42.4,0,RE van der Merwe,2009-09-24,1st,GJ Hopkins,2,,LRPL Taylor,50,South Africa,New Zealand,176,South Africa,SuperSport Park,5,South Africa
+258,42.5,6,RE van der Merwe,2009-09-24,1st,GJ Hopkins,2,,LRPL Taylor,56,South Africa,New Zealand,182,South Africa,SuperSport Park,5,South Africa
+259,42.6,0,RE van der Merwe,2009-09-24,1st,GJ Hopkins,2,,LRPL Taylor,56,South Africa,New Zealand,182,South Africa,SuperSport Park,5,South Africa
+260,43.1,1,DW Steyn,2009-09-24,1st,LRPL Taylor,56,,GJ Hopkins,3,South Africa,New Zealand,183,South Africa,SuperSport Park,5,South Africa
+261,43.2,0,DW Steyn,2009-09-24,1st,GJ Hopkins,3,,LRPL Taylor,56,South Africa,New Zealand,183,South Africa,SuperSport Park,5,South Africa
+262,43.3,0,DW Steyn,2009-09-24,1st,GJ Hopkins,3,,LRPL Taylor,56,South Africa,New Zealand,183,South Africa,SuperSport Park,5,South Africa
+263,43.4,1,DW Steyn,2009-09-24,1st,GJ Hopkins,3,,LRPL Taylor,57,South Africa,New Zealand,184,South Africa,SuperSport Park,5,South Africa
+264,43.5,4,DW Steyn,2009-09-24,1st,LRPL Taylor,57,,GJ Hopkins,7,South Africa,New Zealand,188,South Africa,SuperSport Park,5,South Africa
+265,43.6,4,DW Steyn,2009-09-24,1st,LRPL Taylor,57,,GJ Hopkins,11,South Africa,New Zealand,192,South Africa,SuperSport Park,5,South Africa
+266,44.1,4,WD Parnell,2009-09-24,1st,GJ Hopkins,11,,LRPL Taylor,61,South Africa,New Zealand,196,South Africa,SuperSport Park,5,South Africa
+267,44.2,4,WD Parnell,2009-09-24,1st,GJ Hopkins,11,,LRPL Taylor,65,South Africa,New Zealand,200,South Africa,SuperSport Park,5,South Africa
+268,44.3,0,WD Parnell,2009-09-24,1st,GJ Hopkins,11,,LRPL Taylor,65,South Africa,New Zealand,200,South Africa,SuperSport Park,5,South Africa
+269,44.4,1,WD Parnell,2009-09-24,1st,GJ Hopkins,11,,LRPL Taylor,66,South Africa,New Zealand,201,South Africa,SuperSport Park,5,South Africa
+270,44.5,2,WD Parnell,2009-09-24,1st,LRPL Taylor,66,,GJ Hopkins,13,South Africa,New Zealand,203,South Africa,SuperSport Park,5,South Africa
+271,44.6,0,WD Parnell,2009-09-24,1st,LRPL Taylor,66,GJ Hopkins,GJ Hopkins,13,South Africa,New Zealand,203,South Africa,SuperSport Park,6,South Africa
+272,45.1,0,DW Steyn,2009-09-24,1st,KD Mills,0,,LRPL Taylor,66,South Africa,New Zealand,203,South Africa,SuperSport Park,6,South Africa
+273,45.2,1,DW Steyn,2009-09-24,1st,KD Mills,0,,LRPL Taylor,67,South Africa,New Zealand,204,South Africa,SuperSport Park,6,South Africa
+274,45.3,0,DW Steyn,2009-09-24,1st,LRPL Taylor,67,,KD Mills,0,South Africa,New Zealand,204,South Africa,SuperSport Park,6,South Africa
+275,45.4,0,DW Steyn,2009-09-24,1st,LRPL Taylor,67,,KD Mills,0,South Africa,New Zealand,204,South Africa,SuperSport Park,6,South Africa
+276,45.5,0,DW Steyn,2009-09-24,1st,LRPL Taylor,67,KD Mills,KD Mills,0,South Africa,New Zealand,204,South Africa,SuperSport Park,7,South Africa
+277,45.6,1,DW Steyn,2009-09-24,1st,DL Vettori,0,,LRPL Taylor,68,South Africa,New Zealand,205,South Africa,SuperSport Park,7,South Africa
+278,46.1,4,WD Parnell,2009-09-24,1st,DL Vettori,0,,LRPL Taylor,72,South Africa,New Zealand,209,South Africa,SuperSport Park,7,South Africa
+279,46.2,0,WD Parnell,2009-09-24,1st,DL Vettori,0,,LRPL Taylor,72,South Africa,New Zealand,209,South Africa,SuperSport Park,7,South Africa
+280,46.3,0,WD Parnell,2009-09-24,1st,DL Vettori,0,LRPL Taylor,LRPL Taylor,72,South Africa,New Zealand,209,South Africa,SuperSport Park,8,South Africa
+281,46.4,4,WD Parnell,2009-09-24,1st,DL Vettori,0,,DR Tuffey,4,South Africa,New Zealand,213,South Africa,SuperSport Park,8,South Africa
+282,46.5,0,WD Parnell,2009-09-24,1st,DL Vettori,0,DR Tuffey,DR Tuffey,4,South Africa,New Zealand,213,South Africa,SuperSport Park,9,South Africa
+283,46.6,0,WD Parnell,2009-09-24,1st,DL Vettori,0,,SE Bond,0,South Africa,New Zealand,213,South Africa,SuperSport Park,9,South Africa
+284,47.1,0,DW Steyn,2009-09-24,1st,SE Bond,0,,DL Vettori,0,South Africa,New Zealand,213,South Africa,SuperSport Park,9,South Africa
+285,47.2,1,DW Steyn,2009-09-24,1st,SE Bond,0,,DL Vettori,1,South Africa,New Zealand,214,South Africa,SuperSport Park,9,South Africa
+286,47.3,0,DW Steyn,2009-09-24,1st,DL Vettori,1,,SE Bond,0,South Africa,New Zealand,214,South Africa,SuperSport Park,9,South Africa
+287,47.4,0,DW Steyn,2009-09-24,1st,DL Vettori,1,,SE Bond,0,South Africa,New Zealand,214,South Africa,SuperSport Park,9,South Africa
+288,47.5,0,DW Steyn,2009-09-24,1st,DL Vettori,1,SE Bond,SE Bond,0,South Africa,New Zealand,214,South Africa,SuperSport Park,10,South Africa
+289,0.1,1,KD Mills,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,1,South Africa,SuperSport Park,0,South Africa
+290,0.2,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,1,South Africa,SuperSport Park,0,South Africa
+291,0.3,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,1,South Africa,SuperSport Park,0,South Africa
+292,0.4,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,2,South Africa,SuperSport Park,0,South Africa
+293,0.5,1,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,3,South Africa,SuperSport Park,0,South Africa
+294,0.6,0,KD Mills,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,3,South Africa,SuperSport Park,0,South Africa
+295,0.7,1,KD Mills,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,4,South Africa,SuperSport Park,0,South Africa
+296,1.1,0,SE Bond,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,5,South Africa,SuperSport Park,0,South Africa
+297,1.2,0,SE Bond,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,5,South Africa,SuperSport Park,0,South Africa
+298,1.3,0,SE Bond,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,5,South Africa,SuperSport Park,0,South Africa
+299,1.4,0,SE Bond,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,5,South Africa,SuperSport Park,0,South Africa
+300,1.5,2,SE Bond,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,7,South Africa,SuperSport Park,0,South Africa
+301,1.6,1,SE Bond,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,8,South Africa,SuperSport Park,0,South Africa
+302,2.1,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,8,South Africa,SuperSport Park,0,South Africa
+303,2.2,2,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,10,South Africa,SuperSport Park,0,South Africa
+304,2.3,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,10,South Africa,SuperSport Park,0,South Africa
+305,2.4,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,10,South Africa,SuperSport Park,0,South Africa
+306,2.5,4,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,14,South Africa,SuperSport Park,0,South Africa
+307,2.6,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,14,South Africa,SuperSport Park,0,South Africa
+308,3.1,1,SE Bond,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,15,South Africa,SuperSport Park,0,South Africa
+309,3.2,0,SE Bond,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,15,South Africa,SuperSport Park,0,South Africa
+310,3.3,1,SE Bond,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,16,South Africa,SuperSport Park,0,South Africa
+311,3.4,0,SE Bond,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,16,South Africa,SuperSport Park,0,South Africa
+312,3.5,0,SE Bond,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,16,South Africa,SuperSport Park,0,South Africa
+313,3.6,0,SE Bond,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,16,South Africa,SuperSport Park,0,South Africa
+314,4.1,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,16,South Africa,SuperSport Park,0,South Africa
+315,4.2,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,16,South Africa,SuperSport Park,0,South Africa
+316,4.3,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,16,South Africa,SuperSport Park,0,South Africa
+317,4.4,2,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,18,South Africa,SuperSport Park,0,South Africa
+318,4.5,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,18,South Africa,SuperSport Park,0,South Africa
+319,4.6,0,KD Mills,2009-09-24,2nd,GC Smith,0,,HM Amla,0,South Africa,New Zealand,18,South Africa,SuperSport Park,0,South Africa
+320,5.1,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,18,South Africa,SuperSport Park,0,South Africa
+321,5.2,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,18,South Africa,SuperSport Park,0,South Africa
+322,5.3,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,18,South Africa,SuperSport Park,0,South Africa
+323,5.4,4,DR Tuffey,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,22,South Africa,SuperSport Park,0,South Africa
+324,5.5,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,22,South Africa,SuperSport Park,0,South Africa
+325,5.6,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,GC Smith,0,South Africa,New Zealand,22,South Africa,SuperSport Park,1,South Africa
+326,6.1,1,KD Mills,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,23,South Africa,SuperSport Park,1,South Africa
+327,6.2,1,KD Mills,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,24,South Africa,SuperSport Park,1,South Africa
+328,6.3,1,KD Mills,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,25,South Africa,SuperSport Park,1,South Africa
+329,6.4,4,KD Mills,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+330,6.5,0,KD Mills,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+331,6.6,0,KD Mills,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+332,7.1,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+333,7.2,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+334,7.3,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+335,7.4,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+336,7.5,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+337,7.6,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,29,South Africa,SuperSport Park,1,South Africa
+338,8.1,4,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,33,South Africa,SuperSport Park,1,South Africa
+339,8.2,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,33,South Africa,SuperSport Park,1,South Africa
+340,8.3,1,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,34,South Africa,SuperSport Park,1,South Africa
+341,8.4,0,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,34,South Africa,SuperSport Park,1,South Africa
+342,8.5,1,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,35,South Africa,SuperSport Park,1,South Africa
+343,8.6,1,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,36,South Africa,SuperSport Park,1,South Africa
+344,9.1,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,36,South Africa,SuperSport Park,1,South Africa
+345,9.2,4,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,40,South Africa,SuperSport Park,1,South Africa
+346,9.3,4,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,44,South Africa,SuperSport Park,1,South Africa
+347,9.4,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,44,South Africa,SuperSport Park,1,South Africa
+348,9.5,1,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,45,South Africa,SuperSport Park,1,South Africa
+349,9.6,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,45,South Africa,SuperSport Park,1,South Africa
+350,10.1,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,45,South Africa,SuperSport Park,1,South Africa
+351,10.2,1,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,46,South Africa,SuperSport Park,1,South Africa
+352,10.3,1,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,47,South Africa,SuperSport Park,1,South Africa
+353,10.4,4,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,51,South Africa,SuperSport Park,1,South Africa
+354,10.5,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,51,South Africa,SuperSport Park,1,South Africa
+355,10.6,1,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,52,South Africa,SuperSport Park,1,South Africa
+356,11.1,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,52,South Africa,SuperSport Park,1,South Africa
+357,11.2,1,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,53,South Africa,SuperSport Park,1,South Africa
+358,11.3,1,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,54,South Africa,SuperSport Park,1,South Africa
+359,11.4,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,54,South Africa,SuperSport Park,1,South Africa
+360,11.5,1,DR Tuffey,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,55,South Africa,SuperSport Park,1,South Africa
+361,11.6,0,DR Tuffey,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,55,South Africa,SuperSport Park,1,South Africa
+362,12.1,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,55,South Africa,SuperSport Park,1,South Africa
+363,12.2,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,55,South Africa,SuperSport Park,1,South Africa
+364,12.3,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,56,South Africa,SuperSport Park,1,South Africa
+365,12.4,1,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,57,South Africa,SuperSport Park,1,South Africa
+366,12.5,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,57,South Africa,SuperSport Park,1,South Africa
+367,12.6,1,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,58,South Africa,SuperSport Park,1,South Africa
+368,13.1,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,58,South Africa,SuperSport Park,1,South Africa
+369,13.2,1,DL Vettori,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,59,South Africa,SuperSport Park,1,South Africa
+370,13.3,0,DL Vettori,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,59,South Africa,SuperSport Park,1,South Africa
+371,13.4,0,DL Vettori,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,60,South Africa,SuperSport Park,1,South Africa
+372,13.5,1,DL Vettori,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,61,South Africa,SuperSport Park,1,South Africa
+373,13.6,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,61,South Africa,SuperSport Park,1,South Africa
+374,13.7,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,61,South Africa,SuperSport Park,1,South Africa
+375,14.1,0,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,61,South Africa,SuperSport Park,1,South Africa
+376,14.2,1,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,62,South Africa,SuperSport Park,1,South Africa
+377,14.3,4,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,66,South Africa,SuperSport Park,1,South Africa
+378,14.4,2,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,68,South Africa,SuperSport Park,1,South Africa
+379,14.5,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,68,South Africa,SuperSport Park,1,South Africa
+380,14.6,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,68,South Africa,SuperSport Park,1,South Africa
+381,15.1,0,DL Vettori,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,68,South Africa,SuperSport Park,1,South Africa
+382,15.2,4,DL Vettori,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,72,South Africa,SuperSport Park,1,South Africa
+383,15.3,1,DL Vettori,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,73,South Africa,SuperSport Park,1,South Africa
+384,15.4,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,73,South Africa,SuperSport Park,1,South Africa
+385,15.5,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,73,South Africa,SuperSport Park,1,South Africa
+386,15.6,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,73,South Africa,SuperSport Park,1,South Africa
+387,16.1,0,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,73,South Africa,SuperSport Park,1,South Africa
+388,16.2,1,SE Bond,2009-09-24,2nd,JH Kallis,0,,HM Amla,0,South Africa,New Zealand,74,South Africa,SuperSport Park,1,South Africa
+389,16.3,0,SE Bond,2009-09-24,2nd,HM Amla,0,,JH Kallis,0,South Africa,New Zealand,74,South Africa,SuperSport Park,2,South Africa
+390,16.4,1,SE Bond,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,75,South Africa,SuperSport Park,2,South Africa
+391,16.5,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,76,South Africa,SuperSport Park,2,South Africa
+392,16.6,4,SE Bond,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+393,16.7,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+394,17.1,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+395,17.2,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+396,17.3,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,80,South Africa,SuperSport Park,2,South Africa
+397,17.4,1,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,81,South Africa,SuperSport Park,2,South Africa
+398,17.5,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,81,South Africa,SuperSport Park,2,South Africa
+399,17.6,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,82,South Africa,SuperSport Park,2,South Africa
+400,18.1,1,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,83,South Africa,SuperSport Park,2,South Africa
+401,18.2,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,83,South Africa,SuperSport Park,2,South Africa
+402,18.3,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,83,South Africa,SuperSport Park,2,South Africa
+403,18.4,1,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,84,South Africa,SuperSport Park,2,South Africa
+404,18.5,0,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,85,South Africa,SuperSport Park,2,South Africa
+405,18.6,0,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,85,South Africa,SuperSport Park,2,South Africa
+406,18.7,0,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,85,South Africa,SuperSport Park,2,South Africa
+407,19.1,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,85,South Africa,SuperSport Park,2,South Africa
+408,19.2,1,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,86,South Africa,SuperSport Park,2,South Africa
+409,19.3,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,87,South Africa,SuperSport Park,2,South Africa
+410,19.4,1,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,88,South Africa,SuperSport Park,2,South Africa
+411,19.5,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,89,South Africa,SuperSport Park,2,South Africa
+412,19.6,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,89,South Africa,SuperSport Park,2,South Africa
+413,20.1,1,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,90,South Africa,SuperSport Park,2,South Africa
+414,20.2,2,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,92,South Africa,SuperSport Park,2,South Africa
+415,20.3,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,92,South Africa,SuperSport Park,2,South Africa
+416,20.4,0,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,92,South Africa,SuperSport Park,2,South Africa
+417,20.5,4,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,96,South Africa,SuperSport Park,2,South Africa
+418,20.6,4,DR Tuffey,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,100,South Africa,SuperSport Park,2,South Africa
+419,21.1,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,100,South Africa,SuperSport Park,2,South Africa
+420,21.2,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,100,South Africa,SuperSport Park,2,South Africa
+421,21.3,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,101,South Africa,SuperSport Park,2,South Africa
+422,21.4,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,101,South Africa,SuperSport Park,2,South Africa
+423,21.5,2,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,103,South Africa,SuperSport Park,2,South Africa
+424,21.6,0,DL Vettori,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,103,South Africa,SuperSport Park,2,South Africa
+425,22.1,0,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,103,South Africa,SuperSport Park,2,South Africa
+426,22.2,0,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,103,South Africa,SuperSport Park,2,South Africa
+427,22.3,1,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,104,South Africa,SuperSport Park,2,South Africa
+428,22.4,0,JD Ryder,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,104,South Africa,SuperSport Park,2,South Africa
+429,22.5,0,JD Ryder,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,104,South Africa,SuperSport Park,2,South Africa
+430,22.6,4,JD Ryder,2009-09-24,2nd,HM Amla,0,,AB de Villiers,0,South Africa,New Zealand,108,South Africa,SuperSport Park,2,South Africa
+431,23.1,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,108,South Africa,SuperSport Park,2,South Africa
+432,23.2,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,HM Amla,0,South Africa,New Zealand,108,South Africa,SuperSport Park,3,South Africa
+433,23.3,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,108,South Africa,SuperSport Park,3,South Africa
+434,23.4,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,108,South Africa,SuperSport Park,3,South Africa
+435,23.5,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,108,South Africa,SuperSport Park,3,South Africa
+436,23.6,4,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,112,South Africa,SuperSport Park,3,South Africa
+437,24.1,1,KD Mills,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,113,South Africa,SuperSport Park,3,South Africa
+438,24.2,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,113,South Africa,SuperSport Park,3,South Africa
+439,24.3,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,113,South Africa,SuperSport Park,3,South Africa
+440,24.4,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,113,South Africa,SuperSport Park,3,South Africa
+441,24.5,1,KD Mills,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,114,South Africa,SuperSport Park,3,South Africa
+442,24.6,2,KD Mills,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,116,South Africa,SuperSport Park,3,South Africa
+443,25.1,1,MJ Guptill,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,118,South Africa,SuperSport Park,3,South Africa
+444,25.2,1,MJ Guptill,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,119,South Africa,SuperSport Park,3,South Africa
+445,25.3,0,MJ Guptill,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,119,South Africa,SuperSport Park,3,South Africa
+446,25.4,1,MJ Guptill,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,120,South Africa,SuperSport Park,3,South Africa
+447,25.5,4,MJ Guptill,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,124,South Africa,SuperSport Park,3,South Africa
+448,25.6,4,MJ Guptill,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,128,South Africa,SuperSport Park,3,South Africa
+449,25.7,1,MJ Guptill,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,129,South Africa,SuperSport Park,3,South Africa
+450,26.1,0,KD Mills,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,129,South Africa,SuperSport Park,3,South Africa
+451,26.2,4,KD Mills,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,133,South Africa,SuperSport Park,3,South Africa
+452,26.3,1,KD Mills,2009-09-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,New Zealand,134,South Africa,SuperSport Park,3,South Africa
+453,26.4,4,KD Mills,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,138,South Africa,SuperSport Park,3,South Africa
+454,26.5,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,New Zealand,138,South Africa,SuperSport Park,4,South Africa
+455,26.6,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,138,South Africa,SuperSport Park,4,South Africa
+456,27.1,0,DL Vettori,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,138,South Africa,SuperSport Park,4,South Africa
+457,27.2,1,DL Vettori,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,139,South Africa,SuperSport Park,4,South Africa
+458,27.3,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,139,South Africa,SuperSport Park,4,South Africa
+459,27.4,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,139,South Africa,SuperSport Park,4,South Africa
+460,27.5,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,140,South Africa,SuperSport Park,4,South Africa
+461,27.6,0,DL Vettori,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,140,South Africa,SuperSport Park,4,South Africa
+462,28.1,1,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,141,South Africa,SuperSport Park,4,South Africa
+463,28.2,0,KD Mills,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,141,South Africa,SuperSport Park,4,South Africa
+464,28.3,0,KD Mills,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,141,South Africa,SuperSport Park,4,South Africa
+465,28.4,1,KD Mills,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,142,South Africa,SuperSport Park,4,South Africa
+466,28.5,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,142,South Africa,SuperSport Park,4,South Africa
+467,28.6,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,142,South Africa,SuperSport Park,4,South Africa
+468,29.1,0,DL Vettori,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,142,South Africa,SuperSport Park,4,South Africa
+469,29.2,0,DL Vettori,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,142,South Africa,SuperSport Park,4,South Africa
+470,29.3,0,DL Vettori,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,142,South Africa,SuperSport Park,4,South Africa
+471,29.4,1,DL Vettori,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,143,South Africa,SuperSport Park,4,South Africa
+472,29.5,0,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,143,South Africa,SuperSport Park,4,South Africa
+473,29.6,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,144,South Africa,SuperSport Park,4,South Africa
+474,30.1,4,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,148,South Africa,SuperSport Park,4,South Africa
+475,30.2,0,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,148,South Africa,SuperSport Park,4,South Africa
+476,30.3,1,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,149,South Africa,SuperSport Park,4,South Africa
+477,30.4,1,KD Mills,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,150,South Africa,SuperSport Park,4,South Africa
+478,30.5,1,KD Mills,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,151,South Africa,SuperSport Park,4,South Africa
+479,30.6,0,KD Mills,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,151,South Africa,SuperSport Park,4,South Africa
+480,31.1,1,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,152,South Africa,SuperSport Park,4,South Africa
+481,31.2,1,JD Ryder,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,153,South Africa,SuperSport Park,4,South Africa
+482,31.3,4,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,157,South Africa,SuperSport Park,4,South Africa
+483,31.4,0,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,157,South Africa,SuperSport Park,4,South Africa
+484,31.5,4,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,161,South Africa,SuperSport Park,4,South Africa
+485,31.6,0,JD Ryder,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,161,South Africa,SuperSport Park,4,South Africa
+486,32.1,0,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,161,South Africa,SuperSport Park,4,South Africa
+487,32.2,0,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,162,South Africa,SuperSport Park,4,South Africa
+488,32.3,0,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,162,South Africa,SuperSport Park,4,South Africa
+489,32.4,0,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,162,South Africa,SuperSport Park,4,South Africa
+490,32.5,1,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,163,South Africa,SuperSport Park,4,South Africa
+491,32.6,3,SE Bond,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,166,South Africa,SuperSport Park,4,South Africa
+492,32.7,1,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,167,South Africa,SuperSport Park,4,South Africa
+493,33.1,1,GD Elliott,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,168,South Africa,SuperSport Park,4,South Africa
+494,33.2,1,GD Elliott,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,169,South Africa,SuperSport Park,4,South Africa
+495,33.3,0,GD Elliott,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,169,South Africa,SuperSport Park,4,South Africa
+496,33.4,2,GD Elliott,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,171,South Africa,SuperSport Park,4,South Africa
+497,33.5,1,GD Elliott,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,172,South Africa,SuperSport Park,4,South Africa
+498,33.6,0,GD Elliott,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,172,South Africa,SuperSport Park,4,South Africa
+499,34.1,0,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,172,South Africa,SuperSport Park,4,South Africa
+500,34.2,1,SE Bond,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,173,South Africa,SuperSport Park,4,South Africa
+501,34.3,4,SE Bond,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,177,South Africa,SuperSport Park,4,South Africa
+502,34.4,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,177,South Africa,SuperSport Park,4,South Africa
+503,34.5,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,177,South Africa,SuperSport Park,4,South Africa
+504,34.6,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,177,South Africa,SuperSport Park,4,South Africa
+505,35.1,0,DR Tuffey,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,177,South Africa,SuperSport Park,4,South Africa
+506,35.2,1,DR Tuffey,2009-09-24,2nd,MV Boucher,0,,AB de Villiers,0,South Africa,New Zealand,178,South Africa,SuperSport Park,4,South Africa
+507,35.3,0,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,178,South Africa,SuperSport Park,4,South Africa
+508,35.4,2,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,180,South Africa,SuperSport Park,4,South Africa
+509,35.5,0,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,MV Boucher,0,South Africa,New Zealand,180,South Africa,SuperSport Park,5,South Africa
+510,35.6,4,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,184,South Africa,SuperSport Park,5,South Africa
+511,36.1,0,SE Bond,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,184,South Africa,SuperSport Park,5,South Africa
+512,36.2,1,SE Bond,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,185,South Africa,SuperSport Park,5,South Africa
+513,36.3,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,185,South Africa,SuperSport Park,5,South Africa
+514,36.4,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,185,South Africa,SuperSport Park,5,South Africa
+515,36.5,4,SE Bond,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+516,36.6,0,SE Bond,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+517,37.1,0,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+518,37.2,0,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+519,37.3,0,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+520,37.4,0,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+521,37.5,0,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+522,37.6,0,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+523,38.1,0,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,189,South Africa,SuperSport Park,5,South Africa
+524,38.2,2,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,191,South Africa,SuperSport Park,5,South Africa
+525,38.3,1,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,192,South Africa,SuperSport Park,5,South Africa
+526,38.4,4,DR Tuffey,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,196,South Africa,SuperSport Park,5,South Africa
+527,38.5,0,DR Tuffey,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,196,South Africa,SuperSport Park,5,South Africa
+528,38.6,0,DR Tuffey,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,196,South Africa,SuperSport Park,5,South Africa
+529,39.1,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,197,South Africa,SuperSport Park,5,South Africa
+530,39.2,0,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,197,South Africa,SuperSport Park,5,South Africa
+531,39.3,2,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,199,South Africa,SuperSport Park,5,South Africa
+532,39.4,1,DL Vettori,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,200,South Africa,SuperSport Park,5,South Africa
+533,39.5,4,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,204,South Africa,SuperSport Park,5,South Africa
+534,39.6,1,DL Vettori,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,205,South Africa,SuperSport Park,5,South Africa
+535,40.1,0,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,205,South Africa,SuperSport Park,5,South Africa
+536,40.2,1,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,206,South Africa,SuperSport Park,5,South Africa
+537,40.3,4,DR Tuffey,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,210,South Africa,SuperSport Park,5,South Africa
+538,40.4,1,DR Tuffey,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,211,South Africa,SuperSport Park,5,South Africa
+539,40.5,1,DR Tuffey,2009-09-24,2nd,AB de Villiers,0,,JA Morkel,0,South Africa,New Zealand,212,South Africa,SuperSport Park,5,South Africa
+540,40.6,1,DR Tuffey,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,213,South Africa,SuperSport Park,5,South Africa
+541,41.1,4,KD Mills,2009-09-24,2nd,JA Morkel,0,,AB de Villiers,0,South Africa,New Zealand,217,South Africa,SuperSport Park,5,South Africa

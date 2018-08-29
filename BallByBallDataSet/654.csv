@@ -1,0 +1,433 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,SL Malinga,2012-01-11,1st,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,0,South Africa,Boland Park,0,South Africa
+1,0.2,0,SL Malinga,2012-01-11,1st,GC Smith,0,,HM Amla,0,South Africa,Sri Lanka,0,South Africa,Boland Park,0,South Africa
+2,0.3,1,SL Malinga,2012-01-11,1st,GC Smith,0,,HM Amla,1,South Africa,Sri Lanka,1,South Africa,Boland Park,0,South Africa
+3,0.4,2,SL Malinga,2012-01-11,1st,HM Amla,1,,GC Smith,2,South Africa,Sri Lanka,3,South Africa,Boland Park,0,South Africa
+4,0.5,2,SL Malinga,2012-01-11,1st,HM Amla,1,,GC Smith,4,South Africa,Sri Lanka,5,South Africa,Boland Park,0,South Africa
+5,0.6,0,SL Malinga,2012-01-11,1st,HM Amla,1,,GC Smith,4,South Africa,Sri Lanka,5,South Africa,Boland Park,0,South Africa
+6,1.1,0,KMDN Kulasekara,2012-01-11,1st,GC Smith,4,,HM Amla,1,South Africa,Sri Lanka,5,South Africa,Boland Park,0,South Africa
+7,1.2,0,KMDN Kulasekara,2012-01-11,1st,GC Smith,4,,HM Amla,1,South Africa,Sri Lanka,5,South Africa,Boland Park,0,South Africa
+8,1.3,0,KMDN Kulasekara,2012-01-11,1st,GC Smith,4,,HM Amla,1,South Africa,Sri Lanka,5,South Africa,Boland Park,0,South Africa
+9,1.4,1,KMDN Kulasekara,2012-01-11,1st,GC Smith,4,,HM Amla,2,South Africa,Sri Lanka,6,South Africa,Boland Park,0,South Africa
+10,1.5,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,2,,GC Smith,4,South Africa,Sri Lanka,7,South Africa,Boland Park,0,South Africa
+11,1.6,0,KMDN Kulasekara,2012-01-11,1st,GC Smith,4,,HM Amla,2,South Africa,Sri Lanka,7,South Africa,Boland Park,0,South Africa
+12,2.1,0,SL Malinga,2012-01-11,1st,HM Amla,2,,GC Smith,4,South Africa,Sri Lanka,7,South Africa,Boland Park,0,South Africa
+13,2.2,0,SL Malinga,2012-01-11,1st,HM Amla,2,,GC Smith,4,South Africa,Sri Lanka,7,South Africa,Boland Park,0,South Africa
+14,2.3,2,SL Malinga,2012-01-11,1st,HM Amla,2,,GC Smith,6,South Africa,Sri Lanka,9,South Africa,Boland Park,0,South Africa
+15,2.4,0,SL Malinga,2012-01-11,1st,HM Amla,2,GC Smith,GC Smith,6,South Africa,Sri Lanka,9,South Africa,Boland Park,1,South Africa
+16,2.5,1,SL Malinga,2012-01-11,1st,HM Amla,2,,JH Kallis,1,South Africa,Sri Lanka,10,South Africa,Boland Park,1,South Africa
+17,2.6,2,SL Malinga,2012-01-11,1st,JH Kallis,1,,HM Amla,4,South Africa,Sri Lanka,12,South Africa,Boland Park,1,South Africa
+18,3.1,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,4,,JH Kallis,1,South Africa,Sri Lanka,12,South Africa,Boland Park,1,South Africa
+19,3.2,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,4,,JH Kallis,1,South Africa,Sri Lanka,13,South Africa,Boland Park,1,South Africa
+20,3.3,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,4,,JH Kallis,1,South Africa,Sri Lanka,13,South Africa,Boland Park,1,South Africa
+21,3.4,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,4,,JH Kallis,1,South Africa,Sri Lanka,13,South Africa,Boland Park,1,South Africa
+22,3.5,3,KMDN Kulasekara,2012-01-11,1st,HM Amla,4,,JH Kallis,4,South Africa,Sri Lanka,16,South Africa,Boland Park,1,South Africa
+23,3.6,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,4,,HM Amla,4,South Africa,Sri Lanka,16,South Africa,Boland Park,1,South Africa
+24,3.7,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,4,,HM Amla,4,South Africa,Sri Lanka,16,South Africa,Boland Park,1,South Africa
+25,4.1,0,SL Malinga,2012-01-11,1st,HM Amla,4,,JH Kallis,4,South Africa,Sri Lanka,16,South Africa,Boland Park,1,South Africa
+26,4.2,0,SL Malinga,2012-01-11,1st,HM Amla,4,,JH Kallis,4,South Africa,Sri Lanka,16,South Africa,Boland Park,1,South Africa
+27,4.3,0,SL Malinga,2012-01-11,1st,HM Amla,4,,JH Kallis,4,South Africa,Sri Lanka,16,South Africa,Boland Park,1,South Africa
+28,4.4,0,SL Malinga,2012-01-11,1st,HM Amla,4,,JH Kallis,4,South Africa,Sri Lanka,16,South Africa,Boland Park,1,South Africa
+29,4.5,2,SL Malinga,2012-01-11,1st,HM Amla,4,,JH Kallis,6,South Africa,Sri Lanka,18,South Africa,Boland Park,1,South Africa
+30,4.6,0,SL Malinga,2012-01-11,1st,HM Amla,4,,JH Kallis,6,South Africa,Sri Lanka,18,South Africa,Boland Park,1,South Africa
+31,5.1,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,6,,HM Amla,4,South Africa,Sri Lanka,18,South Africa,Boland Park,1,South Africa
+32,5.2,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,6,,HM Amla,4,South Africa,Sri Lanka,18,South Africa,Boland Park,1,South Africa
+33,5.3,1,KMDN Kulasekara,2012-01-11,1st,JH Kallis,6,,HM Amla,5,South Africa,Sri Lanka,19,South Africa,Boland Park,1,South Africa
+34,5.4,4,KMDN Kulasekara,2012-01-11,1st,HM Amla,5,,JH Kallis,10,South Africa,Sri Lanka,23,South Africa,Boland Park,1,South Africa
+35,5.5,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,5,,JH Kallis,10,South Africa,Sri Lanka,23,South Africa,Boland Park,1,South Africa
+36,5.6,2,KMDN Kulasekara,2012-01-11,1st,HM Amla,5,,JH Kallis,12,South Africa,Sri Lanka,25,South Africa,Boland Park,1,South Africa
+37,6.1,0,CRD Fernando,2012-01-11,1st,JH Kallis,12,,HM Amla,5,South Africa,Sri Lanka,30,South Africa,Boland Park,1,South Africa
+38,6.2,4,CRD Fernando,2012-01-11,1st,JH Kallis,12,,HM Amla,9,South Africa,Sri Lanka,34,South Africa,Boland Park,1,South Africa
+39,6.3,0,CRD Fernando,2012-01-11,1st,JH Kallis,12,,HM Amla,9,South Africa,Sri Lanka,34,South Africa,Boland Park,1,South Africa
+40,6.4,0,CRD Fernando,2012-01-11,1st,JH Kallis,12,,HM Amla,9,South Africa,Sri Lanka,34,South Africa,Boland Park,1,South Africa
+41,6.5,1,CRD Fernando,2012-01-11,1st,JH Kallis,12,,HM Amla,10,South Africa,Sri Lanka,35,South Africa,Boland Park,1,South Africa
+42,6.6,4,CRD Fernando,2012-01-11,1st,HM Amla,10,,JH Kallis,16,South Africa,Sri Lanka,39,South Africa,Boland Park,1,South Africa
+43,6.7,1,CRD Fernando,2012-01-11,1st,HM Amla,10,,JH Kallis,17,South Africa,Sri Lanka,40,South Africa,Boland Park,1,South Africa
+44,7.1,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,17,South Africa,Sri Lanka,40,South Africa,Boland Park,1,South Africa
+45,7.2,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,17,South Africa,Sri Lanka,40,South Africa,Boland Park,1,South Africa
+46,7.3,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,18,South Africa,Sri Lanka,41,South Africa,Boland Park,1,South Africa
+47,7.4,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,18,,HM Amla,10,South Africa,Sri Lanka,41,South Africa,Boland Park,1,South Africa
+48,7.5,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,18,,HM Amla,10,South Africa,Sri Lanka,41,South Africa,Boland Park,1,South Africa
+49,7.6,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,18,,HM Amla,10,South Africa,Sri Lanka,41,South Africa,Boland Park,1,South Africa
+50,8.1,0,AD Mathews,2012-01-11,1st,HM Amla,10,,JH Kallis,18,South Africa,Sri Lanka,41,South Africa,Boland Park,1,South Africa
+51,8.2,0,AD Mathews,2012-01-11,1st,HM Amla,10,,JH Kallis,18,South Africa,Sri Lanka,41,South Africa,Boland Park,1,South Africa
+52,8.3,0,AD Mathews,2012-01-11,1st,HM Amla,10,,JH Kallis,18,South Africa,Sri Lanka,41,South Africa,Boland Park,1,South Africa
+53,8.4,1,AD Mathews,2012-01-11,1st,HM Amla,10,,JH Kallis,19,South Africa,Sri Lanka,42,South Africa,Boland Park,1,South Africa
+54,8.5,0,AD Mathews,2012-01-11,1st,JH Kallis,19,,HM Amla,10,South Africa,Sri Lanka,42,South Africa,Boland Park,1,South Africa
+55,8.6,0,AD Mathews,2012-01-11,1st,JH Kallis,19,,HM Amla,10,South Africa,Sri Lanka,42,South Africa,Boland Park,1,South Africa
+56,9.1,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,19,South Africa,Sri Lanka,42,South Africa,Boland Park,1,South Africa
+57,9.2,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,19,South Africa,Sri Lanka,42,South Africa,Boland Park,1,South Africa
+58,9.3,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,19,South Africa,Sri Lanka,42,South Africa,Boland Park,1,South Africa
+59,9.4,6,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,25,South Africa,Sri Lanka,48,South Africa,Boland Park,1,South Africa
+60,9.5,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,25,South Africa,Sri Lanka,48,South Africa,Boland Park,1,South Africa
+61,9.6,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,10,,JH Kallis,26,South Africa,Sri Lanka,49,South Africa,Boland Park,1,South Africa
+62,10.1,0,AD Mathews,2012-01-11,1st,HM Amla,10,,JH Kallis,26,South Africa,Sri Lanka,49,South Africa,Boland Park,1,South Africa
+63,10.2,0,AD Mathews,2012-01-11,1st,HM Amla,10,,JH Kallis,26,South Africa,Sri Lanka,49,South Africa,Boland Park,1,South Africa
+64,10.3,1,AD Mathews,2012-01-11,1st,HM Amla,10,,JH Kallis,27,South Africa,Sri Lanka,50,South Africa,Boland Park,1,South Africa
+65,10.4,1,AD Mathews,2012-01-11,1st,JH Kallis,27,,HM Amla,11,South Africa,Sri Lanka,51,South Africa,Boland Park,1,South Africa
+66,10.5,0,AD Mathews,2012-01-11,1st,HM Amla,11,,JH Kallis,27,South Africa,Sri Lanka,51,South Africa,Boland Park,1,South Africa
+67,10.6,1,AD Mathews,2012-01-11,1st,HM Amla,11,,JH Kallis,28,South Africa,Sri Lanka,52,South Africa,Boland Park,1,South Africa
+68,11.1,0,CKB Kulasekara,2012-01-11,1st,HM Amla,11,,JH Kallis,28,South Africa,Sri Lanka,52,South Africa,Boland Park,1,South Africa
+69,11.2,0,CKB Kulasekara,2012-01-11,1st,HM Amla,11,,JH Kallis,28,South Africa,Sri Lanka,52,South Africa,Boland Park,1,South Africa
+70,11.3,1,CKB Kulasekara,2012-01-11,1st,HM Amla,11,,JH Kallis,29,South Africa,Sri Lanka,53,South Africa,Boland Park,1,South Africa
+71,11.4,1,CKB Kulasekara,2012-01-11,1st,JH Kallis,29,,HM Amla,12,South Africa,Sri Lanka,54,South Africa,Boland Park,1,South Africa
+72,11.5,2,CKB Kulasekara,2012-01-11,1st,HM Amla,12,,JH Kallis,31,South Africa,Sri Lanka,56,South Africa,Boland Park,1,South Africa
+73,11.6,1,CKB Kulasekara,2012-01-11,1st,HM Amla,12,,JH Kallis,32,South Africa,Sri Lanka,57,South Africa,Boland Park,1,South Africa
+74,12.1,1,AD Mathews,2012-01-11,1st,HM Amla,12,,JH Kallis,33,South Africa,Sri Lanka,58,South Africa,Boland Park,1,South Africa
+75,12.2,0,AD Mathews,2012-01-11,1st,JH Kallis,33,,HM Amla,12,South Africa,Sri Lanka,58,South Africa,Boland Park,1,South Africa
+76,12.3,0,AD Mathews,2012-01-11,1st,JH Kallis,33,,HM Amla,12,South Africa,Sri Lanka,58,South Africa,Boland Park,1,South Africa
+77,12.4,1,AD Mathews,2012-01-11,1st,JH Kallis,33,,HM Amla,13,South Africa,Sri Lanka,59,South Africa,Boland Park,1,South Africa
+78,12.5,1,AD Mathews,2012-01-11,1st,HM Amla,13,,JH Kallis,34,South Africa,Sri Lanka,60,South Africa,Boland Park,1,South Africa
+79,12.6,1,AD Mathews,2012-01-11,1st,JH Kallis,34,,HM Amla,14,South Africa,Sri Lanka,61,South Africa,Boland Park,1,South Africa
+80,13.1,1,CKB Kulasekara,2012-01-11,1st,JH Kallis,34,,HM Amla,15,South Africa,Sri Lanka,62,South Africa,Boland Park,1,South Africa
+81,13.2,1,CKB Kulasekara,2012-01-11,1st,HM Amla,15,,JH Kallis,35,South Africa,Sri Lanka,63,South Africa,Boland Park,1,South Africa
+82,13.3,1,CKB Kulasekara,2012-01-11,1st,JH Kallis,35,,HM Amla,16,South Africa,Sri Lanka,64,South Africa,Boland Park,1,South Africa
+83,13.4,0,CKB Kulasekara,2012-01-11,1st,HM Amla,16,,JH Kallis,35,South Africa,Sri Lanka,64,South Africa,Boland Park,1,South Africa
+84,13.5,0,CKB Kulasekara,2012-01-11,1st,HM Amla,16,,JH Kallis,35,South Africa,Sri Lanka,64,South Africa,Boland Park,1,South Africa
+85,13.6,1,CKB Kulasekara,2012-01-11,1st,HM Amla,16,,JH Kallis,36,South Africa,Sri Lanka,65,South Africa,Boland Park,1,South Africa
+86,14.1,0,TM Dilshan,2012-01-11,1st,HM Amla,16,,JH Kallis,36,South Africa,Sri Lanka,65,South Africa,Boland Park,1,South Africa
+87,14.2,1,TM Dilshan,2012-01-11,1st,HM Amla,16,,JH Kallis,37,South Africa,Sri Lanka,66,South Africa,Boland Park,1,South Africa
+88,14.3,1,TM Dilshan,2012-01-11,1st,JH Kallis,37,,HM Amla,17,South Africa,Sri Lanka,67,South Africa,Boland Park,1,South Africa
+89,14.4,1,TM Dilshan,2012-01-11,1st,HM Amla,17,,JH Kallis,38,South Africa,Sri Lanka,68,South Africa,Boland Park,1,South Africa
+90,14.5,0,TM Dilshan,2012-01-11,1st,JH Kallis,38,,HM Amla,17,South Africa,Sri Lanka,68,South Africa,Boland Park,1,South Africa
+91,14.6,1,TM Dilshan,2012-01-11,1st,JH Kallis,38,,HM Amla,18,South Africa,Sri Lanka,69,South Africa,Boland Park,1,South Africa
+92,15.1,1,CRD Fernando,2012-01-11,1st,JH Kallis,38,,HM Amla,19,South Africa,Sri Lanka,70,South Africa,Boland Park,1,South Africa
+93,15.2,4,CRD Fernando,2012-01-11,1st,HM Amla,19,,JH Kallis,42,South Africa,Sri Lanka,74,South Africa,Boland Park,1,South Africa
+94,15.3,2,CRD Fernando,2012-01-11,1st,HM Amla,19,,JH Kallis,44,South Africa,Sri Lanka,76,South Africa,Boland Park,1,South Africa
+95,15.4,0,CRD Fernando,2012-01-11,1st,HM Amla,19,,JH Kallis,44,South Africa,Sri Lanka,76,South Africa,Boland Park,1,South Africa
+96,15.5,0,CRD Fernando,2012-01-11,1st,HM Amla,19,,JH Kallis,44,South Africa,Sri Lanka,76,South Africa,Boland Park,1,South Africa
+97,15.6,0,CRD Fernando,2012-01-11,1st,HM Amla,19,,JH Kallis,44,South Africa,Sri Lanka,76,South Africa,Boland Park,1,South Africa
+98,16.1,4,BAW Mendis,2012-01-11,1st,JH Kallis,44,,HM Amla,23,South Africa,Sri Lanka,80,South Africa,Boland Park,1,South Africa
+99,16.2,0,BAW Mendis,2012-01-11,1st,JH Kallis,44,,HM Amla,23,South Africa,Sri Lanka,80,South Africa,Boland Park,1,South Africa
+100,16.3,2,BAW Mendis,2012-01-11,1st,JH Kallis,44,,HM Amla,25,South Africa,Sri Lanka,82,South Africa,Boland Park,1,South Africa
+101,16.4,1,BAW Mendis,2012-01-11,1st,JH Kallis,44,,HM Amla,26,South Africa,Sri Lanka,83,South Africa,Boland Park,1,South Africa
+102,16.5,1,BAW Mendis,2012-01-11,1st,HM Amla,26,,JH Kallis,45,South Africa,Sri Lanka,84,South Africa,Boland Park,1,South Africa
+103,16.6,1,BAW Mendis,2012-01-11,1st,JH Kallis,45,,HM Amla,27,South Africa,Sri Lanka,85,South Africa,Boland Park,1,South Africa
+104,17.1,2,CRD Fernando,2012-01-11,1st,JH Kallis,45,,HM Amla,29,South Africa,Sri Lanka,87,South Africa,Boland Park,1,South Africa
+105,17.2,1,CRD Fernando,2012-01-11,1st,JH Kallis,45,,HM Amla,30,South Africa,Sri Lanka,88,South Africa,Boland Park,1,South Africa
+106,17.3,0,CRD Fernando,2012-01-11,1st,HM Amla,30,,JH Kallis,45,South Africa,Sri Lanka,88,South Africa,Boland Park,1,South Africa
+107,17.4,1,CRD Fernando,2012-01-11,1st,HM Amla,30,,JH Kallis,46,South Africa,Sri Lanka,89,South Africa,Boland Park,1,South Africa
+108,17.5,1,CRD Fernando,2012-01-11,1st,JH Kallis,46,,HM Amla,31,South Africa,Sri Lanka,90,South Africa,Boland Park,1,South Africa
+109,17.6,1,CRD Fernando,2012-01-11,1st,HM Amla,31,,JH Kallis,47,South Africa,Sri Lanka,91,South Africa,Boland Park,1,South Africa
+110,18.1,1,BAW Mendis,2012-01-11,1st,HM Amla,31,,JH Kallis,48,South Africa,Sri Lanka,92,South Africa,Boland Park,1,South Africa
+111,18.2,4,BAW Mendis,2012-01-11,1st,JH Kallis,48,,HM Amla,35,South Africa,Sri Lanka,96,South Africa,Boland Park,1,South Africa
+112,18.3,0,BAW Mendis,2012-01-11,1st,JH Kallis,48,,HM Amla,35,South Africa,Sri Lanka,96,South Africa,Boland Park,1,South Africa
+113,18.4,0,BAW Mendis,2012-01-11,1st,JH Kallis,48,,HM Amla,35,South Africa,Sri Lanka,96,South Africa,Boland Park,1,South Africa
+114,18.5,0,BAW Mendis,2012-01-11,1st,JH Kallis,48,,HM Amla,35,South Africa,Sri Lanka,97,South Africa,Boland Park,1,South Africa
+115,18.6,4,BAW Mendis,2012-01-11,1st,JH Kallis,48,,HM Amla,39,South Africa,Sri Lanka,101,South Africa,Boland Park,1,South Africa
+116,18.7,1,BAW Mendis,2012-01-11,1st,JH Kallis,48,,HM Amla,40,South Africa,Sri Lanka,102,South Africa,Boland Park,1,South Africa
+117,19.1,1,CRD Fernando,2012-01-11,1st,JH Kallis,48,,HM Amla,41,South Africa,Sri Lanka,103,South Africa,Boland Park,1,South Africa
+118,19.2,1,CRD Fernando,2012-01-11,1st,HM Amla,41,,JH Kallis,49,South Africa,Sri Lanka,104,South Africa,Boland Park,1,South Africa
+119,19.3,1,CRD Fernando,2012-01-11,1st,JH Kallis,49,,HM Amla,42,South Africa,Sri Lanka,105,South Africa,Boland Park,1,South Africa
+120,19.4,0,CRD Fernando,2012-01-11,1st,HM Amla,42,,JH Kallis,49,South Africa,Sri Lanka,105,South Africa,Boland Park,1,South Africa
+121,19.5,1,CRD Fernando,2012-01-11,1st,HM Amla,42,,JH Kallis,50,South Africa,Sri Lanka,106,South Africa,Boland Park,1,South Africa
+122,19.6,0,CRD Fernando,2012-01-11,1st,JH Kallis,50,,HM Amla,42,South Africa,Sri Lanka,106,South Africa,Boland Park,1,South Africa
+123,20.1,1,BAW Mendis,2012-01-11,1st,HM Amla,42,,JH Kallis,51,South Africa,Sri Lanka,107,South Africa,Boland Park,1,South Africa
+124,20.2,1,BAW Mendis,2012-01-11,1st,JH Kallis,51,,HM Amla,43,South Africa,Sri Lanka,108,South Africa,Boland Park,1,South Africa
+125,20.3,0,BAW Mendis,2012-01-11,1st,HM Amla,43,,JH Kallis,51,South Africa,Sri Lanka,108,South Africa,Boland Park,1,South Africa
+126,20.4,1,BAW Mendis,2012-01-11,1st,HM Amla,43,,JH Kallis,52,South Africa,Sri Lanka,109,South Africa,Boland Park,1,South Africa
+127,20.5,0,BAW Mendis,2012-01-11,1st,JH Kallis,52,,HM Amla,43,South Africa,Sri Lanka,109,South Africa,Boland Park,1,South Africa
+128,20.6,1,BAW Mendis,2012-01-11,1st,JH Kallis,52,,HM Amla,44,South Africa,Sri Lanka,110,South Africa,Boland Park,1,South Africa
+129,21.1,0,CRD Fernando,2012-01-11,1st,JH Kallis,52,,HM Amla,44,South Africa,Sri Lanka,110,South Africa,Boland Park,1,South Africa
+130,21.2,0,CRD Fernando,2012-01-11,1st,JH Kallis,52,,HM Amla,44,South Africa,Sri Lanka,110,South Africa,Boland Park,1,South Africa
+131,21.3,0,CRD Fernando,2012-01-11,1st,JH Kallis,52,,HM Amla,44,South Africa,Sri Lanka,110,South Africa,Boland Park,1,South Africa
+132,21.4,0,CRD Fernando,2012-01-11,1st,JH Kallis,52,,HM Amla,44,South Africa,Sri Lanka,110,South Africa,Boland Park,1,South Africa
+133,21.5,4,CRD Fernando,2012-01-11,1st,JH Kallis,52,,HM Amla,48,South Africa,Sri Lanka,114,South Africa,Boland Park,1,South Africa
+134,21.6,0,CRD Fernando,2012-01-11,1st,JH Kallis,52,,HM Amla,48,South Africa,Sri Lanka,114,South Africa,Boland Park,1,South Africa
+135,22.1,0,SL Malinga,2012-01-11,1st,HM Amla,48,,JH Kallis,52,South Africa,Sri Lanka,114,South Africa,Boland Park,1,South Africa
+136,22.2,1,SL Malinga,2012-01-11,1st,HM Amla,48,,JH Kallis,53,South Africa,Sri Lanka,115,South Africa,Boland Park,1,South Africa
+137,22.3,0,SL Malinga,2012-01-11,1st,JH Kallis,53,,HM Amla,48,South Africa,Sri Lanka,115,South Africa,Boland Park,1,South Africa
+138,22.4,2,SL Malinga,2012-01-11,1st,JH Kallis,53,,HM Amla,50,South Africa,Sri Lanka,117,South Africa,Boland Park,1,South Africa
+139,22.5,0,SL Malinga,2012-01-11,1st,JH Kallis,53,,HM Amla,50,South Africa,Sri Lanka,117,South Africa,Boland Park,1,South Africa
+140,22.6,0,SL Malinga,2012-01-11,1st,JH Kallis,53,,HM Amla,50,South Africa,Sri Lanka,117,South Africa,Boland Park,1,South Africa
+141,23.1,0,CRD Fernando,2012-01-11,1st,HM Amla,50,,JH Kallis,53,South Africa,Sri Lanka,117,South Africa,Boland Park,1,South Africa
+142,23.2,1,CRD Fernando,2012-01-11,1st,HM Amla,50,,JH Kallis,54,South Africa,Sri Lanka,118,South Africa,Boland Park,1,South Africa
+143,23.3,0,CRD Fernando,2012-01-11,1st,JH Kallis,54,,HM Amla,50,South Africa,Sri Lanka,118,South Africa,Boland Park,1,South Africa
+144,23.4,4,CRD Fernando,2012-01-11,1st,JH Kallis,54,,HM Amla,54,South Africa,Sri Lanka,122,South Africa,Boland Park,1,South Africa
+145,23.5,0,CRD Fernando,2012-01-11,1st,JH Kallis,54,,HM Amla,54,South Africa,Sri Lanka,122,South Africa,Boland Park,1,South Africa
+146,23.6,0,CRD Fernando,2012-01-11,1st,JH Kallis,54,,HM Amla,54,South Africa,Sri Lanka,122,South Africa,Boland Park,1,South Africa
+147,24.1,1,SL Malinga,2012-01-11,1st,HM Amla,54,,JH Kallis,55,South Africa,Sri Lanka,123,South Africa,Boland Park,1,South Africa
+148,24.2,0,SL Malinga,2012-01-11,1st,JH Kallis,55,,HM Amla,54,South Africa,Sri Lanka,123,South Africa,Boland Park,1,South Africa
+149,24.3,0,SL Malinga,2012-01-11,1st,JH Kallis,55,,HM Amla,54,South Africa,Sri Lanka,123,South Africa,Boland Park,1,South Africa
+150,24.4,1,SL Malinga,2012-01-11,1st,JH Kallis,55,,HM Amla,55,South Africa,Sri Lanka,124,South Africa,Boland Park,1,South Africa
+151,24.5,4,SL Malinga,2012-01-11,1st,HM Amla,55,,JH Kallis,59,South Africa,Sri Lanka,128,South Africa,Boland Park,1,South Africa
+152,24.6,1,SL Malinga,2012-01-11,1st,HM Amla,55,,JH Kallis,60,South Africa,Sri Lanka,129,South Africa,Boland Park,1,South Africa
+153,25.1,1,CKB Kulasekara,2012-01-11,1st,HM Amla,55,,JH Kallis,61,South Africa,Sri Lanka,130,South Africa,Boland Park,1,South Africa
+154,25.2,1,CKB Kulasekara,2012-01-11,1st,JH Kallis,61,,HM Amla,56,South Africa,Sri Lanka,131,South Africa,Boland Park,1,South Africa
+155,25.3,1,CKB Kulasekara,2012-01-11,1st,HM Amla,56,,JH Kallis,62,South Africa,Sri Lanka,132,South Africa,Boland Park,1,South Africa
+156,25.4,1,CKB Kulasekara,2012-01-11,1st,JH Kallis,62,,HM Amla,57,South Africa,Sri Lanka,133,South Africa,Boland Park,1,South Africa
+157,25.5,1,CKB Kulasekara,2012-01-11,1st,HM Amla,57,,JH Kallis,63,South Africa,Sri Lanka,134,South Africa,Boland Park,1,South Africa
+158,25.6,1,CKB Kulasekara,2012-01-11,1st,JH Kallis,63,,HM Amla,58,South Africa,Sri Lanka,135,South Africa,Boland Park,1,South Africa
+159,26.1,1,SL Malinga,2012-01-11,1st,JH Kallis,63,,HM Amla,59,South Africa,Sri Lanka,136,South Africa,Boland Park,1,South Africa
+160,26.2,0,SL Malinga,2012-01-11,1st,HM Amla,59,,JH Kallis,63,South Africa,Sri Lanka,136,South Africa,Boland Park,1,South Africa
+161,26.3,0,SL Malinga,2012-01-11,1st,HM Amla,59,,JH Kallis,63,South Africa,Sri Lanka,136,South Africa,Boland Park,1,South Africa
+162,26.4,0,SL Malinga,2012-01-11,1st,HM Amla,59,,JH Kallis,63,South Africa,Sri Lanka,136,South Africa,Boland Park,1,South Africa
+163,26.5,4,SL Malinga,2012-01-11,1st,HM Amla,59,,JH Kallis,67,South Africa,Sri Lanka,140,South Africa,Boland Park,1,South Africa
+164,26.6,4,SL Malinga,2012-01-11,1st,HM Amla,59,,JH Kallis,71,South Africa,Sri Lanka,144,South Africa,Boland Park,1,South Africa
+165,27.1,4,KMDN Kulasekara,2012-01-11,1st,JH Kallis,71,,HM Amla,63,South Africa,Sri Lanka,148,South Africa,Boland Park,1,South Africa
+166,27.2,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,71,,HM Amla,63,South Africa,Sri Lanka,148,South Africa,Boland Park,1,South Africa
+167,27.3,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,71,,HM Amla,63,South Africa,Sri Lanka,148,South Africa,Boland Park,1,South Africa
+168,27.4,2,KMDN Kulasekara,2012-01-11,1st,JH Kallis,71,,HM Amla,65,South Africa,Sri Lanka,150,South Africa,Boland Park,1,South Africa
+169,27.5,0,KMDN Kulasekara,2012-01-11,1st,JH Kallis,71,,HM Amla,65,South Africa,Sri Lanka,150,South Africa,Boland Park,1,South Africa
+170,27.6,1,KMDN Kulasekara,2012-01-11,1st,JH Kallis,71,,HM Amla,66,South Africa,Sri Lanka,151,South Africa,Boland Park,1,South Africa
+171,28.1,1,AD Mathews,2012-01-11,1st,JH Kallis,71,,HM Amla,67,South Africa,Sri Lanka,152,South Africa,Boland Park,1,South Africa
+172,28.2,1,AD Mathews,2012-01-11,1st,HM Amla,67,,JH Kallis,72,South Africa,Sri Lanka,153,South Africa,Boland Park,1,South Africa
+173,28.3,0,AD Mathews,2012-01-11,1st,JH Kallis,72,JH Kallis,HM Amla,67,South Africa,Sri Lanka,153,South Africa,Boland Park,2,South Africa
+174,28.4,0,AD Mathews,2012-01-11,1st,HM Amla,67,,AB de Villiers,0,South Africa,Sri Lanka,153,South Africa,Boland Park,2,South Africa
+175,28.5,0,AD Mathews,2012-01-11,1st,HM Amla,67,,AB de Villiers,0,South Africa,Sri Lanka,153,South Africa,Boland Park,2,South Africa
+176,28.6,1,AD Mathews,2012-01-11,1st,HM Amla,67,,AB de Villiers,1,South Africa,Sri Lanka,154,South Africa,Boland Park,2,South Africa
+177,29.1,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,67,,AB de Villiers,2,South Africa,Sri Lanka,155,South Africa,Boland Park,2,South Africa
+178,29.2,1,KMDN Kulasekara,2012-01-11,1st,AB de Villiers,2,,HM Amla,68,South Africa,Sri Lanka,156,South Africa,Boland Park,2,South Africa
+179,29.3,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,68,,AB de Villiers,3,South Africa,Sri Lanka,157,South Africa,Boland Park,2,South Africa
+180,29.4,0,KMDN Kulasekara,2012-01-11,1st,AB de Villiers,3,,HM Amla,68,South Africa,Sri Lanka,157,South Africa,Boland Park,2,South Africa
+181,29.5,1,KMDN Kulasekara,2012-01-11,1st,AB de Villiers,3,,HM Amla,69,South Africa,Sri Lanka,158,South Africa,Boland Park,2,South Africa
+182,29.6,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,69,,AB de Villiers,3,South Africa,Sri Lanka,158,South Africa,Boland Park,2,South Africa
+183,30.1,0,AD Mathews,2012-01-11,1st,AB de Villiers,3,,HM Amla,69,South Africa,Sri Lanka,159,South Africa,Boland Park,2,South Africa
+184,30.2,1,AD Mathews,2012-01-11,1st,AB de Villiers,3,,HM Amla,70,South Africa,Sri Lanka,160,South Africa,Boland Park,2,South Africa
+185,30.3,4,AD Mathews,2012-01-11,1st,HM Amla,70,,AB de Villiers,7,South Africa,Sri Lanka,164,South Africa,Boland Park,2,South Africa
+186,30.4,4,AD Mathews,2012-01-11,1st,HM Amla,70,,AB de Villiers,11,South Africa,Sri Lanka,168,South Africa,Boland Park,2,South Africa
+187,30.5,0,AD Mathews,2012-01-11,1st,HM Amla,70,,AB de Villiers,11,South Africa,Sri Lanka,168,South Africa,Boland Park,2,South Africa
+188,30.6,1,AD Mathews,2012-01-11,1st,HM Amla,70,,AB de Villiers,12,South Africa,Sri Lanka,169,South Africa,Boland Park,2,South Africa
+189,30.7,1,AD Mathews,2012-01-11,1st,AB de Villiers,12,,HM Amla,71,South Africa,Sri Lanka,170,South Africa,Boland Park,2,South Africa
+190,31.1,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,12,,HM Amla,72,South Africa,Sri Lanka,171,South Africa,Boland Park,2,South Africa
+191,31.2,1,CKB Kulasekara,2012-01-11,1st,HM Amla,72,,AB de Villiers,13,South Africa,Sri Lanka,172,South Africa,Boland Park,2,South Africa
+192,31.3,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,13,,HM Amla,73,South Africa,Sri Lanka,173,South Africa,Boland Park,2,South Africa
+193,31.4,1,CKB Kulasekara,2012-01-11,1st,HM Amla,73,,AB de Villiers,14,South Africa,Sri Lanka,174,South Africa,Boland Park,2,South Africa
+194,31.5,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,14,,HM Amla,74,South Africa,Sri Lanka,175,South Africa,Boland Park,2,South Africa
+195,31.6,1,CKB Kulasekara,2012-01-11,1st,HM Amla,74,,AB de Villiers,15,South Africa,Sri Lanka,176,South Africa,Boland Park,2,South Africa
+196,32.1,1,BAW Mendis,2012-01-11,1st,HM Amla,74,,AB de Villiers,16,South Africa,Sri Lanka,177,South Africa,Boland Park,2,South Africa
+197,32.2,1,BAW Mendis,2012-01-11,1st,AB de Villiers,16,,HM Amla,75,South Africa,Sri Lanka,178,South Africa,Boland Park,2,South Africa
+198,32.3,1,BAW Mendis,2012-01-11,1st,HM Amla,75,,AB de Villiers,17,South Africa,Sri Lanka,179,South Africa,Boland Park,2,South Africa
+199,32.4,1,BAW Mendis,2012-01-11,1st,AB de Villiers,17,,HM Amla,76,South Africa,Sri Lanka,180,South Africa,Boland Park,2,South Africa
+200,32.5,1,BAW Mendis,2012-01-11,1st,HM Amla,76,,AB de Villiers,18,South Africa,Sri Lanka,181,South Africa,Boland Park,2,South Africa
+201,32.6,1,BAW Mendis,2012-01-11,1st,AB de Villiers,18,,HM Amla,77,South Africa,Sri Lanka,182,South Africa,Boland Park,2,South Africa
+202,33.1,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,18,,HM Amla,78,South Africa,Sri Lanka,183,South Africa,Boland Park,2,South Africa
+203,33.2,1,CKB Kulasekara,2012-01-11,1st,HM Amla,78,,AB de Villiers,19,South Africa,Sri Lanka,184,South Africa,Boland Park,2,South Africa
+204,33.3,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,19,,HM Amla,79,South Africa,Sri Lanka,185,South Africa,Boland Park,2,South Africa
+205,33.4,1,CKB Kulasekara,2012-01-11,1st,HM Amla,79,,AB de Villiers,20,South Africa,Sri Lanka,186,South Africa,Boland Park,2,South Africa
+206,33.5,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,20,,HM Amla,80,South Africa,Sri Lanka,187,South Africa,Boland Park,2,South Africa
+207,33.6,0,CKB Kulasekara,2012-01-11,1st,HM Amla,80,,AB de Villiers,20,South Africa,Sri Lanka,187,South Africa,Boland Park,2,South Africa
+208,34.1,1,BAW Mendis,2012-01-11,1st,AB de Villiers,20,,HM Amla,81,South Africa,Sri Lanka,188,South Africa,Boland Park,2,South Africa
+209,34.2,0,BAW Mendis,2012-01-11,1st,HM Amla,81,,AB de Villiers,20,South Africa,Sri Lanka,189,South Africa,Boland Park,2,South Africa
+210,34.3,0,BAW Mendis,2012-01-11,1st,AB de Villiers,20,,HM Amla,81,South Africa,Sri Lanka,189,South Africa,Boland Park,2,South Africa
+211,34.4,1,BAW Mendis,2012-01-11,1st,AB de Villiers,20,,HM Amla,82,South Africa,Sri Lanka,190,South Africa,Boland Park,2,South Africa
+212,34.5,0,BAW Mendis,2012-01-11,1st,HM Amla,82,,AB de Villiers,20,South Africa,Sri Lanka,190,South Africa,Boland Park,2,South Africa
+213,34.6,0,BAW Mendis,2012-01-11,1st,HM Amla,82,,AB de Villiers,20,South Africa,Sri Lanka,190,South Africa,Boland Park,2,South Africa
+214,35.1,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,20,,HM Amla,83,South Africa,Sri Lanka,191,South Africa,Boland Park,2,South Africa
+215,35.2,0,CKB Kulasekara,2012-01-11,1st,HM Amla,83,,AB de Villiers,20,South Africa,Sri Lanka,191,South Africa,Boland Park,2,South Africa
+216,35.3,1,CKB Kulasekara,2012-01-11,1st,HM Amla,83,,AB de Villiers,21,South Africa,Sri Lanka,192,South Africa,Boland Park,2,South Africa
+217,35.4,2,CKB Kulasekara,2012-01-11,1st,AB de Villiers,21,,HM Amla,85,South Africa,Sri Lanka,194,South Africa,Boland Park,2,South Africa
+218,35.5,0,CKB Kulasekara,2012-01-11,1st,AB de Villiers,21,,HM Amla,85,South Africa,Sri Lanka,195,South Africa,Boland Park,2,South Africa
+219,35.6,4,CKB Kulasekara,2012-01-11,1st,AB de Villiers,21,,HM Amla,89,South Africa,Sri Lanka,199,South Africa,Boland Park,2,South Africa
+220,35.7,1,CKB Kulasekara,2012-01-11,1st,AB de Villiers,21,,HM Amla,90,South Africa,Sri Lanka,200,South Africa,Boland Park,2,South Africa
+221,36.1,1,BAW Mendis,2012-01-11,1st,AB de Villiers,21,,HM Amla,91,South Africa,Sri Lanka,201,South Africa,Boland Park,2,South Africa
+222,36.2,1,BAW Mendis,2012-01-11,1st,HM Amla,91,,AB de Villiers,22,South Africa,Sri Lanka,202,South Africa,Boland Park,2,South Africa
+223,36.3,1,BAW Mendis,2012-01-11,1st,AB de Villiers,22,,HM Amla,92,South Africa,Sri Lanka,203,South Africa,Boland Park,2,South Africa
+224,36.4,4,BAW Mendis,2012-01-11,1st,HM Amla,92,,AB de Villiers,26,South Africa,Sri Lanka,207,South Africa,Boland Park,2,South Africa
+225,36.5,2,BAW Mendis,2012-01-11,1st,HM Amla,92,,AB de Villiers,28,South Africa,Sri Lanka,209,South Africa,Boland Park,2,South Africa
+226,36.6,4,BAW Mendis,2012-01-11,1st,HM Amla,92,,AB de Villiers,32,South Africa,Sri Lanka,213,South Africa,Boland Park,2,South Africa
+227,37.1,1,CRD Fernando,2012-01-11,1st,AB de Villiers,32,,HM Amla,93,South Africa,Sri Lanka,214,South Africa,Boland Park,2,South Africa
+228,37.2,1,CRD Fernando,2012-01-11,1st,HM Amla,93,,AB de Villiers,33,South Africa,Sri Lanka,215,South Africa,Boland Park,2,South Africa
+229,37.3,1,CRD Fernando,2012-01-11,1st,AB de Villiers,33,,HM Amla,94,South Africa,Sri Lanka,216,South Africa,Boland Park,2,South Africa
+230,37.4,4,CRD Fernando,2012-01-11,1st,HM Amla,94,,AB de Villiers,37,South Africa,Sri Lanka,220,South Africa,Boland Park,2,South Africa
+231,37.5,0,CRD Fernando,2012-01-11,1st,HM Amla,94,,AB de Villiers,37,South Africa,Sri Lanka,220,South Africa,Boland Park,2,South Africa
+232,37.6,2,CRD Fernando,2012-01-11,1st,HM Amla,94,,AB de Villiers,39,South Africa,Sri Lanka,222,South Africa,Boland Park,2,South Africa
+233,38.1,1,TM Dilshan,2012-01-11,1st,AB de Villiers,39,,HM Amla,95,South Africa,Sri Lanka,223,South Africa,Boland Park,2,South Africa
+234,38.2,2,TM Dilshan,2012-01-11,1st,HM Amla,95,,AB de Villiers,41,South Africa,Sri Lanka,225,South Africa,Boland Park,2,South Africa
+235,38.3,1,TM Dilshan,2012-01-11,1st,HM Amla,95,,AB de Villiers,42,South Africa,Sri Lanka,226,South Africa,Boland Park,2,South Africa
+236,38.4,1,TM Dilshan,2012-01-11,1st,AB de Villiers,42,,HM Amla,96,South Africa,Sri Lanka,227,South Africa,Boland Park,2,South Africa
+237,38.5,4,TM Dilshan,2012-01-11,1st,HM Amla,96,,AB de Villiers,46,South Africa,Sri Lanka,231,South Africa,Boland Park,2,South Africa
+238,38.6,4,TM Dilshan,2012-01-11,1st,HM Amla,96,,AB de Villiers,50,South Africa,Sri Lanka,235,South Africa,Boland Park,2,South Africa
+239,39.1,1,CRD Fernando,2012-01-11,1st,AB de Villiers,50,,HM Amla,97,South Africa,Sri Lanka,236,South Africa,Boland Park,2,South Africa
+240,39.2,0,CRD Fernando,2012-01-11,1st,HM Amla,97,,AB de Villiers,50,South Africa,Sri Lanka,236,South Africa,Boland Park,2,South Africa
+241,39.3,0,CRD Fernando,2012-01-11,1st,HM Amla,97,,AB de Villiers,50,South Africa,Sri Lanka,237,South Africa,Boland Park,2,South Africa
+242,39.4,1,CRD Fernando,2012-01-11,1st,HM Amla,97,,AB de Villiers,51,South Africa,Sri Lanka,238,South Africa,Boland Park,2,South Africa
+243,39.5,1,CRD Fernando,2012-01-11,1st,AB de Villiers,51,,HM Amla,98,South Africa,Sri Lanka,239,South Africa,Boland Park,2,South Africa
+244,39.6,1,CRD Fernando,2012-01-11,1st,HM Amla,98,,AB de Villiers,52,South Africa,Sri Lanka,240,South Africa,Boland Park,2,South Africa
+245,39.7,1,CRD Fernando,2012-01-11,1st,AB de Villiers,52,,HM Amla,99,South Africa,Sri Lanka,241,South Africa,Boland Park,2,South Africa
+246,40.1,2,KMDN Kulasekara,2012-01-11,1st,AB de Villiers,52,,HM Amla,101,South Africa,Sri Lanka,243,South Africa,Boland Park,2,South Africa
+247,40.2,1,KMDN Kulasekara,2012-01-11,1st,AB de Villiers,52,,HM Amla,102,South Africa,Sri Lanka,244,South Africa,Boland Park,2,South Africa
+248,40.3,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,102,AB de Villiers,AB de Villiers,52,South Africa,Sri Lanka,244,South Africa,Boland Park,3,South Africa
+249,40.4,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,102,,JA Morkel,1,South Africa,Sri Lanka,245,South Africa,Boland Park,3,South Africa
+250,40.5,0,KMDN Kulasekara,2012-01-11,1st,JA Morkel,1,,HM Amla,102,South Africa,Sri Lanka,245,South Africa,Boland Park,3,South Africa
+251,40.6,0,KMDN Kulasekara,2012-01-11,1st,JA Morkel,1,,HM Amla,102,South Africa,Sri Lanka,245,South Africa,Boland Park,3,South Africa
+252,41.1,0,SL Malinga,2012-01-11,1st,HM Amla,102,,JA Morkel,1,South Africa,Sri Lanka,245,South Africa,Boland Park,3,South Africa
+253,41.2,1,SL Malinga,2012-01-11,1st,HM Amla,102,,JA Morkel,2,South Africa,Sri Lanka,246,South Africa,Boland Park,3,South Africa
+254,41.3,2,SL Malinga,2012-01-11,1st,JA Morkel,2,,HM Amla,104,South Africa,Sri Lanka,248,South Africa,Boland Park,3,South Africa
+255,41.4,0,SL Malinga,2012-01-11,1st,JA Morkel,2,,HM Amla,104,South Africa,Sri Lanka,248,South Africa,Boland Park,3,South Africa
+256,41.5,1,SL Malinga,2012-01-11,1st,JA Morkel,2,,HM Amla,105,South Africa,Sri Lanka,249,South Africa,Boland Park,3,South Africa
+257,41.6,0,SL Malinga,2012-01-11,1st,HM Amla,105,,JA Morkel,2,South Africa,Sri Lanka,249,South Africa,Boland Park,3,South Africa
+258,42.1,1,KMDN Kulasekara,2012-01-11,1st,JA Morkel,2,,HM Amla,106,South Africa,Sri Lanka,250,South Africa,Boland Park,3,South Africa
+259,42.2,4,KMDN Kulasekara,2012-01-11,1st,HM Amla,106,,JA Morkel,6,South Africa,Sri Lanka,254,South Africa,Boland Park,3,South Africa
+260,42.3,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,106,,JA Morkel,7,South Africa,Sri Lanka,255,South Africa,Boland Park,3,South Africa
+261,42.4,1,KMDN Kulasekara,2012-01-11,1st,JA Morkel,7,,HM Amla,107,South Africa,Sri Lanka,256,South Africa,Boland Park,3,South Africa
+262,42.5,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,107,,JA Morkel,8,South Africa,Sri Lanka,257,South Africa,Boland Park,3,South Africa
+263,42.6,1,KMDN Kulasekara,2012-01-11,1st,JA Morkel,8,,HM Amla,108,South Africa,Sri Lanka,258,South Africa,Boland Park,3,South Africa
+264,43.1,1,CRD Fernando,2012-01-11,1st,JA Morkel,8,,HM Amla,109,South Africa,Sri Lanka,259,South Africa,Boland Park,3,South Africa
+265,43.2,1,CRD Fernando,2012-01-11,1st,HM Amla,109,,JA Morkel,9,South Africa,Sri Lanka,260,South Africa,Boland Park,3,South Africa
+266,43.3,1,CRD Fernando,2012-01-11,1st,JA Morkel,9,,HM Amla,110,South Africa,Sri Lanka,261,South Africa,Boland Park,3,South Africa
+267,43.4,0,CRD Fernando,2012-01-11,1st,HM Amla,110,,JA Morkel,9,South Africa,Sri Lanka,261,South Africa,Boland Park,3,South Africa
+268,43.5,0,CRD Fernando,2012-01-11,1st,HM Amla,110,,JA Morkel,9,South Africa,Sri Lanka,261,South Africa,Boland Park,3,South Africa
+269,43.6,6,CRD Fernando,2012-01-11,1st,HM Amla,110,,JA Morkel,15,South Africa,Sri Lanka,267,South Africa,Boland Park,3,South Africa
+270,44.1,1,KMDN Kulasekara,2012-01-11,1st,JA Morkel,15,,HM Amla,111,South Africa,Sri Lanka,268,South Africa,Boland Park,3,South Africa
+271,44.2,0,KMDN Kulasekara,2012-01-11,1st,HM Amla,111,,JA Morkel,15,South Africa,Sri Lanka,268,South Africa,Boland Park,3,South Africa
+272,44.3,2,KMDN Kulasekara,2012-01-11,1st,HM Amla,111,,JA Morkel,17,South Africa,Sri Lanka,270,South Africa,Boland Park,3,South Africa
+273,44.4,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,111,,JA Morkel,18,South Africa,Sri Lanka,271,South Africa,Boland Park,3,South Africa
+274,44.5,1,KMDN Kulasekara,2012-01-11,1st,JA Morkel,18,,HM Amla,112,South Africa,Sri Lanka,272,South Africa,Boland Park,3,South Africa
+275,44.6,1,KMDN Kulasekara,2012-01-11,1st,HM Amla,112,,JA Morkel,19,South Africa,Sri Lanka,273,South Africa,Boland Park,3,South Africa
+276,45.1,6,SL Malinga,2012-01-11,1st,HM Amla,112,,JA Morkel,25,South Africa,Sri Lanka,279,South Africa,Boland Park,3,South Africa
+277,45.2,0,SL Malinga,2012-01-11,1st,HM Amla,112,JA Morkel,JA Morkel,25,South Africa,Sri Lanka,279,South Africa,Boland Park,4,South Africa
+278,45.3,0,SL Malinga,2012-01-11,1st,JP Duminy,0,HM Amla,HM Amla,112,South Africa,Sri Lanka,279,South Africa,Boland Park,5,South Africa
+279,45.4,0,SL Malinga,2012-01-11,1st,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,279,South Africa,Boland Park,5,South Africa
+280,45.5,0,SL Malinga,2012-01-11,1st,JP Duminy,0,,F du Plessis,0,South Africa,Sri Lanka,279,South Africa,Boland Park,5,South Africa
+281,45.6,1,SL Malinga,2012-01-11,1st,JP Duminy,0,,F du Plessis,1,South Africa,Sri Lanka,280,South Africa,Boland Park,5,South Africa
+282,46.1,1,BAW Mendis,2012-01-11,1st,JP Duminy,0,,F du Plessis,2,South Africa,Sri Lanka,281,South Africa,Boland Park,5,South Africa
+283,46.2,1,BAW Mendis,2012-01-11,1st,F du Plessis,2,,JP Duminy,1,South Africa,Sri Lanka,282,South Africa,Boland Park,5,South Africa
+284,46.3,1,BAW Mendis,2012-01-11,1st,JP Duminy,1,,F du Plessis,3,South Africa,Sri Lanka,283,South Africa,Boland Park,5,South Africa
+285,46.4,0,BAW Mendis,2012-01-11,1st,F du Plessis,3,JP Duminy,JP Duminy,1,South Africa,Sri Lanka,283,South Africa,Boland Park,6,South Africa
+286,46.5,0,BAW Mendis,2012-01-11,1st,F du Plessis,3,,RJ Peterson,0,South Africa,Sri Lanka,283,South Africa,Boland Park,6,South Africa
+287,46.6,0,BAW Mendis,2012-01-11,1st,F du Plessis,3,,RJ Peterson,0,South Africa,Sri Lanka,283,South Africa,Boland Park,6,South Africa
+288,47.1,0,SL Malinga,2012-01-11,1st,RJ Peterson,0,,F du Plessis,3,South Africa,Sri Lanka,283,South Africa,Boland Park,6,South Africa
+289,47.2,0,SL Malinga,2012-01-11,1st,RJ Peterson,0,,F du Plessis,3,South Africa,Sri Lanka,288,South Africa,Boland Park,6,South Africa
+290,47.3,1,SL Malinga,2012-01-11,1st,RJ Peterson,0,,F du Plessis,4,South Africa,Sri Lanka,289,South Africa,Boland Park,6,South Africa
+291,47.4,0,SL Malinga,2012-01-11,1st,F du Plessis,4,,RJ Peterson,0,South Africa,Sri Lanka,289,South Africa,Boland Park,6,South Africa
+292,47.5,0,SL Malinga,2012-01-11,1st,F du Plessis,4,,RJ Peterson,0,South Africa,Sri Lanka,289,South Africa,Boland Park,6,South Africa
+293,47.6,0,SL Malinga,2012-01-11,1st,F du Plessis,4,,RJ Peterson,0,South Africa,Sri Lanka,289,South Africa,Boland Park,6,South Africa
+294,47.7,1,SL Malinga,2012-01-11,1st,F du Plessis,4,,RJ Peterson,1,South Africa,Sri Lanka,290,South Africa,Boland Park,6,South Africa
+295,48.1,1,BAW Mendis,2012-01-11,1st,F du Plessis,4,,RJ Peterson,2,South Africa,Sri Lanka,291,South Africa,Boland Park,6,South Africa
+296,48.2,1,BAW Mendis,2012-01-11,1st,RJ Peterson,2,,F du Plessis,5,South Africa,Sri Lanka,292,South Africa,Boland Park,6,South Africa
+297,48.3,1,BAW Mendis,2012-01-11,1st,F du Plessis,5,,RJ Peterson,3,South Africa,Sri Lanka,293,South Africa,Boland Park,6,South Africa
+298,48.4,2,BAW Mendis,2012-01-11,1st,RJ Peterson,3,,F du Plessis,7,South Africa,Sri Lanka,295,South Africa,Boland Park,6,South Africa
+299,48.5,0,BAW Mendis,2012-01-11,1st,RJ Peterson,3,,F du Plessis,7,South Africa,Sri Lanka,295,South Africa,Boland Park,6,South Africa
+300,48.6,1,BAW Mendis,2012-01-11,1st,RJ Peterson,3,,F du Plessis,8,South Africa,Sri Lanka,296,South Africa,Boland Park,6,South Africa
+301,49.1,2,SL Malinga,2012-01-11,1st,RJ Peterson,3,,F du Plessis,10,South Africa,Sri Lanka,298,South Africa,Boland Park,6,South Africa
+302,49.2,0,SL Malinga,2012-01-11,1st,RJ Peterson,3,F du Plessis,F du Plessis,10,South Africa,Sri Lanka,298,South Africa,Boland Park,7,South Africa
+303,49.3,1,SL Malinga,2012-01-11,1st,RJ Peterson,3,,DW Steyn,1,South Africa,Sri Lanka,299,South Africa,Boland Park,7,South Africa
+304,49.4,1,SL Malinga,2012-01-11,1st,DW Steyn,1,,RJ Peterson,4,South Africa,Sri Lanka,300,South Africa,Boland Park,7,South Africa
+305,49.5,0,SL Malinga,2012-01-11,1st,RJ Peterson,4,DW Steyn,DW Steyn,1,South Africa,Sri Lanka,300,South Africa,Boland Park,8,South Africa
+306,49.6,1,SL Malinga,2012-01-11,1st,RJ Peterson,4,,M Morkel,1,South Africa,Sri Lanka,301,South Africa,Boland Park,8,South Africa
+307,0.1,0,M Morkel,2012-01-11,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Boland Park,0,South Africa
+308,0.2,0,M Morkel,2012-01-11,2nd,TM Dilshan,0,,WU Tharanga,0,South Africa,Sri Lanka,0,South Africa,Boland Park,1,South Africa
+309,0.3,0,M Morkel,2012-01-11,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,0,South Africa,Boland Park,1,South Africa
+310,0.4,4,M Morkel,2012-01-11,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,1,South Africa
+311,0.5,0,M Morkel,2012-01-11,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,1,South Africa
+312,0.6,0,M Morkel,2012-01-11,2nd,TM Dilshan,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,1,South Africa
+313,1.1,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,4,South Africa,Boland Park,1,South Africa
+314,1.2,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,TM Dilshan,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+315,1.3,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,LD Chandimal,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+316,1.4,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,LD Chandimal,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+317,1.5,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,LD Chandimal,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+318,1.6,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,LD Chandimal,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+319,2.1,0,M Morkel,2012-01-11,2nd,LD Chandimal,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+320,2.2,0,M Morkel,2012-01-11,2nd,LD Chandimal,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+321,2.3,0,M Morkel,2012-01-11,2nd,LD Chandimal,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+322,2.4,0,M Morkel,2012-01-11,2nd,LD Chandimal,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+323,2.5,0,M Morkel,2012-01-11,2nd,LD Chandimal,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+324,2.6,0,M Morkel,2012-01-11,2nd,LD Chandimal,0,,KC Sangakkara,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+325,3.1,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,LD Chandimal,0,South Africa,Sri Lanka,4,South Africa,Boland Park,2,South Africa
+326,3.2,4,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,LD Chandimal,0,South Africa,Sri Lanka,8,South Africa,Boland Park,2,South Africa
+327,3.3,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,LD Chandimal,0,South Africa,Sri Lanka,8,South Africa,Boland Park,3,South Africa
+328,3.4,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,8,South Africa,Boland Park,3,South Africa
+329,3.5,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,9,South Africa,Boland Park,3,South Africa
+330,3.6,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,9,South Africa,Boland Park,3,South Africa
+331,3.7,0,LL Tsotsobe,2012-01-11,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,9,South Africa,Boland Park,3,South Africa
+332,4.1,0,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,9,South Africa,Boland Park,3,South Africa
+333,4.2,0,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,9,South Africa,Boland Park,3,South Africa
+334,4.3,0,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,9,South Africa,Boland Park,3,South Africa
+335,4.4,0,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,9,South Africa,Boland Park,4,South Africa
+336,4.5,0,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,AD Mathews,0,South Africa,Sri Lanka,9,South Africa,Boland Park,4,South Africa
+337,4.6,0,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,AD Mathews,0,South Africa,Sri Lanka,9,South Africa,Boland Park,5,South Africa
+338,5.1,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,9,South Africa,Boland Park,5,South Africa
+339,5.2,2,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,11,South Africa,Boland Park,5,South Africa
+340,5.3,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,11,South Africa,Boland Park,5,South Africa
+341,5.4,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,11,South Africa,Boland Park,5,South Africa
+342,5.5,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,11,South Africa,Boland Park,5,South Africa
+343,5.6,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,11,South Africa,Boland Park,5,South Africa
+344,6.1,0,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,CKB Kulasekara,0,South Africa,Sri Lanka,11,South Africa,Boland Park,5,South Africa
+345,6.2,1,M Morkel,2012-01-11,2nd,DPMD Jayawardene,0,,CKB Kulasekara,0,South Africa,Sri Lanka,12,South Africa,Boland Park,5,South Africa
+346,6.3,0,M Morkel,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,12,South Africa,Boland Park,5,South Africa
+347,6.4,0,M Morkel,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,12,South Africa,Boland Park,5,South Africa
+348,6.5,0,M Morkel,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,12,South Africa,Boland Park,5,South Africa
+349,6.6,0,M Morkel,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,12,South Africa,Boland Park,5,South Africa
+350,7.1,0,LL Tsotsobe,2012-01-11,2nd,DPMD Jayawardene,0,,CKB Kulasekara,0,South Africa,Sri Lanka,12,South Africa,Boland Park,5,South Africa
+351,7.2,1,LL Tsotsobe,2012-01-11,2nd,DPMD Jayawardene,0,,CKB Kulasekara,0,South Africa,Sri Lanka,13,South Africa,Boland Park,5,South Africa
+352,7.3,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,13,South Africa,Boland Park,5,South Africa
+353,7.4,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,13,South Africa,Boland Park,5,South Africa
+354,7.5,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,13,South Africa,Boland Park,6,South Africa
+355,7.6,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,13,South Africa,Boland Park,6,South Africa
+356,8.1,0,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,14,South Africa,Boland Park,6,South Africa
+357,8.2,0,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,14,South Africa,Boland Park,6,South Africa
+358,8.3,0,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,14,South Africa,Boland Park,6,South Africa
+359,8.4,2,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,16,South Africa,Boland Park,6,South Africa
+360,8.5,0,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,16,South Africa,Boland Park,6,South Africa
+361,8.6,0,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,16,South Africa,Boland Park,6,South Africa
+362,8.7,0,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,16,South Africa,Boland Park,6,South Africa
+363,9.1,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,16,South Africa,Boland Park,6,South Africa
+364,9.2,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,16,South Africa,Boland Park,6,South Africa
+365,9.3,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,16,South Africa,Boland Park,6,South Africa
+366,9.4,2,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,18,South Africa,Boland Park,6,South Africa
+367,9.5,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,19,South Africa,Boland Park,6,South Africa
+368,9.6,4,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,23,South Africa,Boland Park,6,South Africa
+369,9.7,0,LL Tsotsobe,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,23,South Africa,Boland Park,6,South Africa
+370,10.1,1,DW Steyn,2012-01-11,2nd,KMDN Kulasekara,0,,CKB Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,6,South Africa
+371,10.2,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,6,South Africa
+372,10.3,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,6,South Africa
+373,10.4,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,KMDN Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,7,South Africa
+374,10.5,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,24,South Africa,Boland Park,7,South Africa
+375,10.6,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,24,South Africa,Boland Park,7,South Africa
+376,11.1,0,LL Tsotsobe,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,7,South Africa
+377,11.2,0,LL Tsotsobe,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,7,South Africa
+378,11.3,0,LL Tsotsobe,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,7,South Africa
+379,11.4,0,LL Tsotsobe,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,24,South Africa,Boland Park,7,South Africa
+380,11.5,2,LL Tsotsobe,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,26,South Africa,Boland Park,7,South Africa
+381,11.6,2,LL Tsotsobe,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,28,South Africa,Boland Park,7,South Africa
+382,12.1,1,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,29,South Africa,Boland Park,7,South Africa
+383,12.2,0,DW Steyn,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,29,South Africa,Boland Park,7,South Africa
+384,12.3,0,DW Steyn,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,29,South Africa,Boland Park,7,South Africa
+385,12.4,1,DW Steyn,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,30,South Africa,Boland Park,7,South Africa
+386,12.5,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,30,South Africa,Boland Park,7,South Africa
+387,12.6,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,31,South Africa,Boland Park,7,South Africa
+388,12.7,0,DW Steyn,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,31,South Africa,Boland Park,7,South Africa
+389,13.1,0,JA Morkel,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,31,South Africa,Boland Park,7,South Africa
+390,13.2,0,JA Morkel,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,31,South Africa,Boland Park,7,South Africa
+391,13.3,0,JA Morkel,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,31,South Africa,Boland Park,7,South Africa
+392,13.4,1,JA Morkel,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,32,South Africa,Boland Park,7,South Africa
+393,13.5,0,JA Morkel,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,32,South Africa,Boland Park,7,South Africa
+394,13.6,0,JA Morkel,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,32,South Africa,Boland Park,7,South Africa
+395,14.1,0,RJ Peterson,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,32,South Africa,Boland Park,7,South Africa
+396,14.2,0,RJ Peterson,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,32,South Africa,Boland Park,7,South Africa
+397,14.3,1,RJ Peterson,2012-01-11,2nd,SL Malinga,0,,CKB Kulasekara,0,South Africa,Sri Lanka,33,South Africa,Boland Park,7,South Africa
+398,14.4,0,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,SL Malinga,0,South Africa,Sri Lanka,33,South Africa,Boland Park,8,South Africa
+399,14.5,0,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,33,South Africa,Boland Park,8,South Africa
+400,14.6,0,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,33,South Africa,Boland Park,8,South Africa
+401,15.1,0,JA Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,33,South Africa,Boland Park,8,South Africa
+402,15.2,0,JA Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,33,South Africa,Boland Park,8,South Africa
+403,15.3,1,JA Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+404,15.4,0,JA Morkel,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+405,15.5,0,JA Morkel,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+406,15.6,0,JA Morkel,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+407,16.1,0,RJ Peterson,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+408,16.2,0,RJ Peterson,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+409,16.3,0,RJ Peterson,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+410,16.4,0,RJ Peterson,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,34,South Africa,Boland Park,8,South Africa
+411,16.5,1,RJ Peterson,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,35,South Africa,Boland Park,8,South Africa
+412,16.6,0,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,35,South Africa,Boland Park,8,South Africa
+413,17.1,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,35,South Africa,Boland Park,8,South Africa
+414,17.2,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,35,South Africa,Boland Park,8,South Africa
+415,17.3,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,35,South Africa,Boland Park,8,South Africa
+416,17.4,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,35,South Africa,Boland Park,8,South Africa
+417,17.5,2,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,37,South Africa,Boland Park,8,South Africa
+418,17.6,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,37,South Africa,Boland Park,8,South Africa
+419,18.1,0,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,37,South Africa,Boland Park,8,South Africa
+420,18.2,1,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,38,South Africa,Boland Park,8,South Africa
+421,18.3,1,RJ Peterson,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,39,South Africa,Boland Park,8,South Africa
+422,18.4,0,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,39,South Africa,Boland Park,8,South Africa
+423,18.5,0,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,39,South Africa,Boland Park,8,South Africa
+424,18.6,1,RJ Peterson,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,40,South Africa,Boland Park,8,South Africa
+425,19.1,1,M Morkel,2012-01-11,2nd,CKB Kulasekara,0,,BAW Mendis,0,South Africa,Sri Lanka,41,South Africa,Boland Park,8,South Africa
+426,19.2,2,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,43,South Africa,Boland Park,8,South Africa
+427,19.3,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,43,South Africa,Boland Park,8,South Africa
+428,19.4,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,43,South Africa,Boland Park,8,South Africa
+429,19.5,0,M Morkel,2012-01-11,2nd,BAW Mendis,0,,CKB Kulasekara,0,South Africa,Sri Lanka,43,South Africa,Boland Park,9,South Africa
+430,19.6,0,M Morkel,2012-01-11,2nd,CRD Fernando,0,,BAW Mendis,0,South Africa,Sri Lanka,43,South Africa,Boland Park,9,South Africa
+431,20.1,0,RJ Peterson,2012-01-11,2nd,BAW Mendis,0,,CRD Fernando,0,South Africa,Sri Lanka,43,South Africa,Boland Park,10,South Africa

@@ -1,0 +1,618 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,IDR Bradshaw,2006-05-23,1st,R Dravid,0,,V Sehwag,0,West Indies,India,0,India,"Warner Park, Basseterre",0,West Indies
+1,0.2,0,IDR Bradshaw,2006-05-23,1st,R Dravid,0,,V Sehwag,0,West Indies,India,1,India,"Warner Park, Basseterre",0,West Indies
+2,0.3,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,0,,R Dravid,0,West Indies,India,1,India,"Warner Park, Basseterre",0,West Indies
+3,0.4,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,0,,R Dravid,0,West Indies,India,1,India,"Warner Park, Basseterre",0,West Indies
+4,0.5,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,0,,R Dravid,0,West Indies,India,1,India,"Warner Park, Basseterre",0,West Indies
+5,0.6,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,0,R Dravid,R Dravid,0,West Indies,India,1,India,"Warner Park, Basseterre",1,West Indies
+6,1.1,4,FH Edwards,2006-05-23,1st,SK Raina,0,,V Sehwag,4,West Indies,India,6,India,"Warner Park, Basseterre",1,West Indies
+7,1.2,1,FH Edwards,2006-05-23,1st,SK Raina,0,,V Sehwag,5,West Indies,India,7,India,"Warner Park, Basseterre",1,West Indies
+8,1.3,1,FH Edwards,2006-05-23,1st,V Sehwag,5,,SK Raina,1,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+9,1.4,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,5,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+10,1.5,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,5,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+11,1.6,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,5,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+12,1.7,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,5,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+13,2.1,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,5,,SK Raina,1,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+14,2.2,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,5,,SK Raina,1,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+15,2.3,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,5,,SK Raina,1,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+16,2.4,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,5,,SK Raina,1,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+17,2.5,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,5,,SK Raina,1,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+18,2.6,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,5,,SK Raina,1,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+19,3.1,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,5,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+20,3.2,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,5,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+21,3.3,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,5,West Indies,India,8,India,"Warner Park, Basseterre",1,West Indies
+22,3.4,2,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,7,West Indies,India,10,India,"Warner Park, Basseterre",1,West Indies
+23,3.5,2,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,9,West Indies,India,12,India,"Warner Park, Basseterre",1,West Indies
+24,3.6,0,FH Edwards,2006-05-23,1st,SK Raina,1,,V Sehwag,9,West Indies,India,12,India,"Warner Park, Basseterre",1,West Indies
+25,4.1,1,IDR Bradshaw,2006-05-23,1st,V Sehwag,9,,SK Raina,2,West Indies,India,13,India,"Warner Park, Basseterre",1,West Indies
+26,4.2,1,IDR Bradshaw,2006-05-23,1st,SK Raina,2,,V Sehwag,10,West Indies,India,14,India,"Warner Park, Basseterre",1,West Indies
+27,4.3,4,IDR Bradshaw,2006-05-23,1st,V Sehwag,10,,SK Raina,6,West Indies,India,18,India,"Warner Park, Basseterre",1,West Indies
+28,4.4,4,IDR Bradshaw,2006-05-23,1st,V Sehwag,10,,SK Raina,10,West Indies,India,22,India,"Warner Park, Basseterre",1,West Indies
+29,4.5,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,10,,SK Raina,10,West Indies,India,23,India,"Warner Park, Basseterre",1,West Indies
+30,4.6,1,IDR Bradshaw,2006-05-23,1st,SK Raina,10,,V Sehwag,11,West Indies,India,24,India,"Warner Park, Basseterre",1,West Indies
+31,5.1,0,FH Edwards,2006-05-23,1st,SK Raina,10,,V Sehwag,11,West Indies,India,24,India,"Warner Park, Basseterre",1,West Indies
+32,5.2,2,FH Edwards,2006-05-23,1st,SK Raina,10,,V Sehwag,13,West Indies,India,26,India,"Warner Park, Basseterre",1,West Indies
+33,5.3,1,FH Edwards,2006-05-23,1st,SK Raina,10,,V Sehwag,14,West Indies,India,27,India,"Warner Park, Basseterre",1,West Indies
+34,5.4,0,FH Edwards,2006-05-23,1st,V Sehwag,14,,SK Raina,10,West Indies,India,27,India,"Warner Park, Basseterre",1,West Indies
+35,5.5,0,FH Edwards,2006-05-23,1st,V Sehwag,14,,SK Raina,10,West Indies,India,27,India,"Warner Park, Basseterre",1,West Indies
+36,5.6,0,FH Edwards,2006-05-23,1st,V Sehwag,14,,SK Raina,10,West Indies,India,27,India,"Warner Park, Basseterre",1,West Indies
+37,6.1,0,IDR Bradshaw,2006-05-23,1st,SK Raina,10,,V Sehwag,14,West Indies,India,27,India,"Warner Park, Basseterre",1,West Indies
+38,6.2,0,IDR Bradshaw,2006-05-23,1st,SK Raina,10,,V Sehwag,14,West Indies,India,27,India,"Warner Park, Basseterre",1,West Indies
+39,6.3,6,IDR Bradshaw,2006-05-23,1st,SK Raina,10,,V Sehwag,20,West Indies,India,33,India,"Warner Park, Basseterre",1,West Indies
+40,6.4,1,IDR Bradshaw,2006-05-23,1st,SK Raina,10,,V Sehwag,21,West Indies,India,34,India,"Warner Park, Basseterre",1,West Indies
+41,6.5,2,IDR Bradshaw,2006-05-23,1st,V Sehwag,21,,SK Raina,12,West Indies,India,36,India,"Warner Park, Basseterre",1,West Indies
+42,6.6,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,21,,SK Raina,12,West Indies,India,36,India,"Warner Park, Basseterre",1,West Indies
+43,7.1,0,FH Edwards,2006-05-23,1st,SK Raina,12,,V Sehwag,21,West Indies,India,36,India,"Warner Park, Basseterre",1,West Indies
+44,7.2,1,FH Edwards,2006-05-23,1st,SK Raina,12,,V Sehwag,22,West Indies,India,37,India,"Warner Park, Basseterre",1,West Indies
+45,7.3,2,FH Edwards,2006-05-23,1st,V Sehwag,22,,SK Raina,14,West Indies,India,39,India,"Warner Park, Basseterre",1,West Indies
+46,7.4,0,FH Edwards,2006-05-23,1st,V Sehwag,22,,SK Raina,14,West Indies,India,39,India,"Warner Park, Basseterre",1,West Indies
+47,7.5,2,FH Edwards,2006-05-23,1st,V Sehwag,22,,SK Raina,16,West Indies,India,41,India,"Warner Park, Basseterre",1,West Indies
+48,7.6,4,FH Edwards,2006-05-23,1st,V Sehwag,22,,SK Raina,20,West Indies,India,45,India,"Warner Park, Basseterre",1,West Indies
+49,8.1,1,IDR Bradshaw,2006-05-23,1st,SK Raina,20,,V Sehwag,23,West Indies,India,46,India,"Warner Park, Basseterre",1,West Indies
+50,8.2,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,23,,SK Raina,20,West Indies,India,46,India,"Warner Park, Basseterre",1,West Indies
+51,8.3,1,IDR Bradshaw,2006-05-23,1st,V Sehwag,23,,SK Raina,21,West Indies,India,47,India,"Warner Park, Basseterre",1,West Indies
+52,8.4,4,IDR Bradshaw,2006-05-23,1st,SK Raina,21,,V Sehwag,27,West Indies,India,51,India,"Warner Park, Basseterre",1,West Indies
+53,8.5,0,IDR Bradshaw,2006-05-23,1st,SK Raina,21,,V Sehwag,27,West Indies,India,51,India,"Warner Park, Basseterre",1,West Indies
+54,8.6,4,IDR Bradshaw,2006-05-23,1st,SK Raina,21,,V Sehwag,31,West Indies,India,55,India,"Warner Park, Basseterre",1,West Indies
+55,9.1,1,JE Taylor,2006-05-23,1st,V Sehwag,31,,SK Raina,22,West Indies,India,56,India,"Warner Park, Basseterre",1,West Indies
+56,9.2,1,JE Taylor,2006-05-23,1st,SK Raina,22,,V Sehwag,32,West Indies,India,57,India,"Warner Park, Basseterre",1,West Indies
+57,9.3,0,JE Taylor,2006-05-23,1st,V Sehwag,32,,SK Raina,22,West Indies,India,57,India,"Warner Park, Basseterre",1,West Indies
+58,9.4,0,JE Taylor,2006-05-23,1st,V Sehwag,32,,SK Raina,22,West Indies,India,57,India,"Warner Park, Basseterre",1,West Indies
+59,9.5,4,JE Taylor,2006-05-23,1st,V Sehwag,32,,SK Raina,26,West Indies,India,61,India,"Warner Park, Basseterre",1,West Indies
+60,9.6,0,JE Taylor,2006-05-23,1st,V Sehwag,32,,SK Raina,26,West Indies,India,61,India,"Warner Park, Basseterre",1,West Indies
+61,10.1,1,IDR Bradshaw,2006-05-23,1st,SK Raina,26,,V Sehwag,33,West Indies,India,62,India,"Warner Park, Basseterre",1,West Indies
+62,10.2,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,33,SK Raina,SK Raina,26,West Indies,India,62,India,"Warner Park, Basseterre",2,West Indies
+63,10.3,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,33,,M Kaif,0,West Indies,India,62,India,"Warner Park, Basseterre",2,West Indies
+64,10.4,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,33,,M Kaif,0,West Indies,India,62,India,"Warner Park, Basseterre",2,West Indies
+65,10.5,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,33,,M Kaif,0,West Indies,India,62,India,"Warner Park, Basseterre",2,West Indies
+66,10.6,2,IDR Bradshaw,2006-05-23,1st,V Sehwag,33,,M Kaif,2,West Indies,India,64,India,"Warner Park, Basseterre",2,West Indies
+67,11.1,1,JE Taylor,2006-05-23,1st,M Kaif,2,,V Sehwag,34,West Indies,India,65,India,"Warner Park, Basseterre",2,West Indies
+68,11.2,0,JE Taylor,2006-05-23,1st,V Sehwag,34,,M Kaif,2,West Indies,India,65,India,"Warner Park, Basseterre",2,West Indies
+69,11.3,1,JE Taylor,2006-05-23,1st,V Sehwag,34,,M Kaif,3,West Indies,India,66,India,"Warner Park, Basseterre",2,West Indies
+70,11.4,0,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,34,West Indies,India,66,India,"Warner Park, Basseterre",2,West Indies
+71,11.5,4,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,38,West Indies,India,70,India,"Warner Park, Basseterre",2,West Indies
+72,11.6,1,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,39,West Indies,India,71,India,"Warner Park, Basseterre",2,West Indies
+73,12.1,0,IDR Bradshaw,2006-05-23,1st,M Kaif,3,,V Sehwag,39,West Indies,India,71,India,"Warner Park, Basseterre",2,West Indies
+74,12.2,1,IDR Bradshaw,2006-05-23,1st,M Kaif,3,,V Sehwag,40,West Indies,India,72,India,"Warner Park, Basseterre",2,West Indies
+75,12.3,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,40,,M Kaif,3,West Indies,India,72,India,"Warner Park, Basseterre",2,West Indies
+76,12.4,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,40,,M Kaif,3,West Indies,India,72,India,"Warner Park, Basseterre",2,West Indies
+77,12.5,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,40,,M Kaif,3,West Indies,India,72,India,"Warner Park, Basseterre",2,West Indies
+78,12.6,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,40,,M Kaif,3,West Indies,India,72,India,"Warner Park, Basseterre",2,West Indies
+79,13.1,0,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,40,West Indies,India,72,India,"Warner Park, Basseterre",2,West Indies
+80,13.2,4,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,44,West Indies,India,76,India,"Warner Park, Basseterre",2,West Indies
+81,13.3,4,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,48,West Indies,India,80,India,"Warner Park, Basseterre",2,West Indies
+82,13.4,0,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,48,West Indies,India,80,India,"Warner Park, Basseterre",2,West Indies
+83,13.5,0,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,48,West Indies,India,80,India,"Warner Park, Basseterre",2,West Indies
+84,13.6,4,JE Taylor,2006-05-23,1st,M Kaif,3,,V Sehwag,52,West Indies,India,84,India,"Warner Park, Basseterre",2,West Indies
+85,14.1,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,52,,M Kaif,3,West Indies,India,84,India,"Warner Park, Basseterre",2,West Indies
+86,14.2,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,52,,M Kaif,3,West Indies,India,84,India,"Warner Park, Basseterre",2,West Indies
+87,14.3,4,IDR Bradshaw,2006-05-23,1st,V Sehwag,52,,M Kaif,7,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+88,14.4,2,IDR Bradshaw,2006-05-23,1st,V Sehwag,52,,M Kaif,9,West Indies,India,90,India,"Warner Park, Basseterre",2,West Indies
+89,14.5,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,52,,M Kaif,9,West Indies,India,90,India,"Warner Park, Basseterre",2,West Indies
+90,14.6,0,IDR Bradshaw,2006-05-23,1st,V Sehwag,52,,M Kaif,9,West Indies,India,90,India,"Warner Park, Basseterre",2,West Indies
+91,15.1,0,MN Samuels,2006-05-23,1st,V Sehwag,52,,M Kaif,9,West Indies,India,90,India,"Warner Park, Basseterre",2,West Indies
+92,15.2,0,MN Samuels,2006-05-23,1st,V Sehwag,52,,M Kaif,9,West Indies,India,90,India,"Warner Park, Basseterre",2,West Indies
+93,15.3,1,MN Samuels,2006-05-23,1st,V Sehwag,52,,M Kaif,10,West Indies,India,91,India,"Warner Park, Basseterre",2,West Indies
+94,15.4,1,MN Samuels,2006-05-23,1st,M Kaif,10,,V Sehwag,53,West Indies,India,92,India,"Warner Park, Basseterre",2,West Indies
+95,15.5,1,MN Samuels,2006-05-23,1st,V Sehwag,53,,M Kaif,11,West Indies,India,93,India,"Warner Park, Basseterre",2,West Indies
+96,15.6,0,MN Samuels,2006-05-23,1st,M Kaif,11,,V Sehwag,53,West Indies,India,93,India,"Warner Park, Basseterre",2,West Indies
+97,16.1,0,FH Edwards,2006-05-23,1st,V Sehwag,53,,M Kaif,11,West Indies,India,93,India,"Warner Park, Basseterre",2,West Indies
+98,16.2,2,FH Edwards,2006-05-23,1st,V Sehwag,53,,M Kaif,13,West Indies,India,95,India,"Warner Park, Basseterre",2,West Indies
+99,16.3,0,FH Edwards,2006-05-23,1st,V Sehwag,53,,M Kaif,13,West Indies,India,95,India,"Warner Park, Basseterre",2,West Indies
+100,16.4,1,FH Edwards,2006-05-23,1st,V Sehwag,53,,M Kaif,14,West Indies,India,96,India,"Warner Park, Basseterre",2,West Indies
+101,16.5,0,FH Edwards,2006-05-23,1st,M Kaif,14,,V Sehwag,53,West Indies,India,96,India,"Warner Park, Basseterre",2,West Indies
+102,16.6,0,FH Edwards,2006-05-23,1st,M Kaif,14,,V Sehwag,53,West Indies,India,96,India,"Warner Park, Basseterre",2,West Indies
+103,17.1,1,MN Samuels,2006-05-23,1st,V Sehwag,53,,M Kaif,15,West Indies,India,97,India,"Warner Park, Basseterre",2,West Indies
+104,17.2,4,MN Samuels,2006-05-23,1st,M Kaif,15,,V Sehwag,57,West Indies,India,101,India,"Warner Park, Basseterre",2,West Indies
+105,17.3,0,MN Samuels,2006-05-23,1st,M Kaif,15,,V Sehwag,57,West Indies,India,101,India,"Warner Park, Basseterre",2,West Indies
+106,17.4,2,MN Samuels,2006-05-23,1st,M Kaif,15,,V Sehwag,59,West Indies,India,103,India,"Warner Park, Basseterre",2,West Indies
+107,17.5,2,MN Samuels,2006-05-23,1st,M Kaif,15,,V Sehwag,61,West Indies,India,105,India,"Warner Park, Basseterre",2,West Indies
+108,17.6,0,MN Samuels,2006-05-23,1st,V Sehwag,61,,M Kaif,15,West Indies,India,105,India,"Warner Park, Basseterre",2,West Indies
+109,18.1,1,FH Edwards,2006-05-23,1st,M Kaif,15,,V Sehwag,62,West Indies,India,106,India,"Warner Park, Basseterre",2,West Indies
+110,18.2,1,FH Edwards,2006-05-23,1st,V Sehwag,62,,M Kaif,16,West Indies,India,107,India,"Warner Park, Basseterre",2,West Indies
+111,18.3,0,FH Edwards,2006-05-23,1st,M Kaif,16,,V Sehwag,62,West Indies,India,108,India,"Warner Park, Basseterre",2,West Indies
+112,18.4,1,FH Edwards,2006-05-23,1st,M Kaif,16,,V Sehwag,63,West Indies,India,109,India,"Warner Park, Basseterre",2,West Indies
+113,18.5,0,FH Edwards,2006-05-23,1st,V Sehwag,63,,M Kaif,16,West Indies,India,109,India,"Warner Park, Basseterre",2,West Indies
+114,18.6,1,FH Edwards,2006-05-23,1st,V Sehwag,63,,M Kaif,17,West Indies,India,110,India,"Warner Park, Basseterre",2,West Indies
+115,18.7,0,FH Edwards,2006-05-23,1st,M Kaif,17,,V Sehwag,63,West Indies,India,111,India,"Warner Park, Basseterre",2,West Indies
+116,18.8,0,FH Edwards,2006-05-23,1st,M Kaif,17,,V Sehwag,63,West Indies,India,111,India,"Warner Park, Basseterre",2,West Indies
+117,19.1,1,MN Samuels,2006-05-23,1st,M Kaif,17,,V Sehwag,64,West Indies,India,112,India,"Warner Park, Basseterre",2,West Indies
+118,19.2,0,MN Samuels,2006-05-23,1st,V Sehwag,64,,M Kaif,17,West Indies,India,113,India,"Warner Park, Basseterre",2,West Indies
+119,19.3,0,MN Samuels,2006-05-23,1st,V Sehwag,64,,M Kaif,17,West Indies,India,114,India,"Warner Park, Basseterre",2,West Indies
+120,19.4,0,MN Samuels,2006-05-23,1st,V Sehwag,64,,M Kaif,17,West Indies,India,114,India,"Warner Park, Basseterre",2,West Indies
+121,19.5,0,MN Samuels,2006-05-23,1st,V Sehwag,64,,M Kaif,17,West Indies,India,114,India,"Warner Park, Basseterre",2,West Indies
+122,19.6,0,MN Samuels,2006-05-23,1st,V Sehwag,64,,M Kaif,17,West Indies,India,114,India,"Warner Park, Basseterre",2,West Indies
+123,19.7,1,MN Samuels,2006-05-23,1st,V Sehwag,64,,M Kaif,18,West Indies,India,115,India,"Warner Park, Basseterre",2,West Indies
+124,19.8,1,MN Samuels,2006-05-23,1st,M Kaif,18,,V Sehwag,65,West Indies,India,116,India,"Warner Park, Basseterre",2,West Indies
+125,20.1,0,FH Edwards,2006-05-23,1st,M Kaif,18,,V Sehwag,65,West Indies,India,116,India,"Warner Park, Basseterre",2,West Indies
+126,20.2,1,FH Edwards,2006-05-23,1st,M Kaif,18,,V Sehwag,66,West Indies,India,117,India,"Warner Park, Basseterre",2,West Indies
+127,20.3,0,FH Edwards,2006-05-23,1st,V Sehwag,66,,M Kaif,18,West Indies,India,117,India,"Warner Park, Basseterre",2,West Indies
+128,20.4,0,FH Edwards,2006-05-23,1st,V Sehwag,66,,M Kaif,18,West Indies,India,122,India,"Warner Park, Basseterre",2,West Indies
+129,20.5,0,FH Edwards,2006-05-23,1st,V Sehwag,66,,M Kaif,18,West Indies,India,122,India,"Warner Park, Basseterre",2,West Indies
+130,20.6,1,FH Edwards,2006-05-23,1st,V Sehwag,66,,M Kaif,19,West Indies,India,123,India,"Warner Park, Basseterre",2,West Indies
+131,20.7,0,FH Edwards,2006-05-23,1st,M Kaif,19,,V Sehwag,66,West Indies,India,124,India,"Warner Park, Basseterre",2,West Indies
+132,20.8,0,FH Edwards,2006-05-23,1st,M Kaif,19,,V Sehwag,66,West Indies,India,124,India,"Warner Park, Basseterre",2,West Indies
+133,21.1,1,MN Samuels,2006-05-23,1st,V Sehwag,66,,M Kaif,20,West Indies,India,125,India,"Warner Park, Basseterre",2,West Indies
+134,21.2,1,MN Samuels,2006-05-23,1st,M Kaif,20,,V Sehwag,67,West Indies,India,126,India,"Warner Park, Basseterre",2,West Indies
+135,21.3,0,MN Samuels,2006-05-23,1st,V Sehwag,67,,M Kaif,20,West Indies,India,126,India,"Warner Park, Basseterre",2,West Indies
+136,21.4,1,MN Samuels,2006-05-23,1st,V Sehwag,67,,M Kaif,21,West Indies,India,127,India,"Warner Park, Basseterre",2,West Indies
+137,21.5,0,MN Samuels,2006-05-23,1st,M Kaif,21,,V Sehwag,67,West Indies,India,127,India,"Warner Park, Basseterre",2,West Indies
+138,21.6,1,MN Samuels,2006-05-23,1st,M Kaif,21,,V Sehwag,68,West Indies,India,128,India,"Warner Park, Basseterre",2,West Indies
+139,22.1,1,DJ Bravo,2006-05-23,1st,M Kaif,21,,V Sehwag,69,West Indies,India,129,India,"Warner Park, Basseterre",2,West Indies
+140,22.2,1,DJ Bravo,2006-05-23,1st,V Sehwag,69,,M Kaif,22,West Indies,India,130,India,"Warner Park, Basseterre",2,West Indies
+141,22.3,0,DJ Bravo,2006-05-23,1st,M Kaif,22,,V Sehwag,69,West Indies,India,131,India,"Warner Park, Basseterre",2,West Indies
+142,22.4,0,DJ Bravo,2006-05-23,1st,V Sehwag,69,,M Kaif,22,West Indies,India,131,India,"Warner Park, Basseterre",2,West Indies
+143,22.5,2,DJ Bravo,2006-05-23,1st,V Sehwag,69,,M Kaif,24,West Indies,India,133,India,"Warner Park, Basseterre",2,West Indies
+144,22.6,1,DJ Bravo,2006-05-23,1st,V Sehwag,69,,M Kaif,25,West Indies,India,134,India,"Warner Park, Basseterre",2,West Indies
+145,23.1,0,MN Samuels,2006-05-23,1st,V Sehwag,69,,M Kaif,25,West Indies,India,134,India,"Warner Park, Basseterre",2,West Indies
+146,23.2,1,MN Samuels,2006-05-23,1st,V Sehwag,69,,M Kaif,26,West Indies,India,135,India,"Warner Park, Basseterre",2,West Indies
+147,23.3,0,MN Samuels,2006-05-23,1st,M Kaif,26,,V Sehwag,69,West Indies,India,135,India,"Warner Park, Basseterre",2,West Indies
+148,23.4,1,MN Samuels,2006-05-23,1st,M Kaif,26,,V Sehwag,70,West Indies,India,136,India,"Warner Park, Basseterre",2,West Indies
+149,23.5,1,MN Samuels,2006-05-23,1st,V Sehwag,70,,M Kaif,27,West Indies,India,137,India,"Warner Park, Basseterre",2,West Indies
+150,23.6,0,MN Samuels,2006-05-23,1st,M Kaif,27,,V Sehwag,70,West Indies,India,138,India,"Warner Park, Basseterre",2,West Indies
+151,23.7,1,MN Samuels,2006-05-23,1st,M Kaif,27,,V Sehwag,71,West Indies,India,139,India,"Warner Park, Basseterre",2,West Indies
+152,24.1,6,DJ Bravo,2006-05-23,1st,M Kaif,27,,V Sehwag,77,West Indies,India,145,India,"Warner Park, Basseterre",2,West Indies
+153,24.2,1,DJ Bravo,2006-05-23,1st,M Kaif,27,,V Sehwag,78,West Indies,India,146,India,"Warner Park, Basseterre",2,West Indies
+154,24.3,1,DJ Bravo,2006-05-23,1st,V Sehwag,78,,M Kaif,28,West Indies,India,147,India,"Warner Park, Basseterre",2,West Indies
+155,24.4,1,DJ Bravo,2006-05-23,1st,M Kaif,28,,V Sehwag,79,West Indies,India,148,India,"Warner Park, Basseterre",2,West Indies
+156,24.5,0,DJ Bravo,2006-05-23,1st,V Sehwag,79,,M Kaif,28,West Indies,India,148,India,"Warner Park, Basseterre",2,West Indies
+157,24.6,1,DJ Bravo,2006-05-23,1st,V Sehwag,79,,M Kaif,29,West Indies,India,149,India,"Warner Park, Basseterre",2,West Indies
+158,25.1,1,CH Gayle,2006-05-23,1st,V Sehwag,79,,M Kaif,30,West Indies,India,150,India,"Warner Park, Basseterre",2,West Indies
+159,25.2,1,CH Gayle,2006-05-23,1st,M Kaif,30,,V Sehwag,80,West Indies,India,151,India,"Warner Park, Basseterre",2,West Indies
+160,25.3,0,CH Gayle,2006-05-23,1st,V Sehwag,80,,M Kaif,30,West Indies,India,151,India,"Warner Park, Basseterre",2,West Indies
+161,25.4,1,CH Gayle,2006-05-23,1st,V Sehwag,80,,M Kaif,31,West Indies,India,152,India,"Warner Park, Basseterre",2,West Indies
+162,25.5,6,CH Gayle,2006-05-23,1st,M Kaif,31,,V Sehwag,86,West Indies,India,158,India,"Warner Park, Basseterre",2,West Indies
+163,25.6,1,CH Gayle,2006-05-23,1st,M Kaif,31,,V Sehwag,87,West Indies,India,159,India,"Warner Park, Basseterre",2,West Indies
+164,26.1,1,DJ Bravo,2006-05-23,1st,V Sehwag,87,,M Kaif,32,West Indies,India,160,India,"Warner Park, Basseterre",2,West Indies
+165,26.2,0,DJ Bravo,2006-05-23,1st,M Kaif,32,,V Sehwag,87,West Indies,India,160,India,"Warner Park, Basseterre",2,West Indies
+166,26.3,0,DJ Bravo,2006-05-23,1st,M Kaif,32,,V Sehwag,87,West Indies,India,160,India,"Warner Park, Basseterre",2,West Indies
+167,26.4,1,DJ Bravo,2006-05-23,1st,M Kaif,32,,V Sehwag,88,West Indies,India,161,India,"Warner Park, Basseterre",2,West Indies
+168,26.5,1,DJ Bravo,2006-05-23,1st,V Sehwag,88,,M Kaif,33,West Indies,India,162,India,"Warner Park, Basseterre",2,West Indies
+169,26.6,1,DJ Bravo,2006-05-23,1st,M Kaif,33,,V Sehwag,89,West Indies,India,163,India,"Warner Park, Basseterre",2,West Indies
+170,27.1,1,CH Gayle,2006-05-23,1st,M Kaif,33,,V Sehwag,90,West Indies,India,164,India,"Warner Park, Basseterre",2,West Indies
+171,27.2,1,CH Gayle,2006-05-23,1st,V Sehwag,90,,M Kaif,34,West Indies,India,165,India,"Warner Park, Basseterre",2,West Indies
+172,27.3,1,CH Gayle,2006-05-23,1st,M Kaif,34,,V Sehwag,91,West Indies,India,166,India,"Warner Park, Basseterre",2,West Indies
+173,27.4,1,CH Gayle,2006-05-23,1st,V Sehwag,91,,M Kaif,35,West Indies,India,167,India,"Warner Park, Basseterre",2,West Indies
+174,27.5,1,CH Gayle,2006-05-23,1st,M Kaif,35,,V Sehwag,92,West Indies,India,168,India,"Warner Park, Basseterre",2,West Indies
+175,27.6,0,CH Gayle,2006-05-23,1st,V Sehwag,92,,M Kaif,35,West Indies,India,168,India,"Warner Park, Basseterre",2,West Indies
+176,28.1,1,DJ Bravo,2006-05-23,1st,M Kaif,35,,V Sehwag,93,West Indies,India,169,India,"Warner Park, Basseterre",2,West Indies
+177,28.2,1,DJ Bravo,2006-05-23,1st,V Sehwag,93,,M Kaif,36,West Indies,India,170,India,"Warner Park, Basseterre",2,West Indies
+178,28.3,4,DJ Bravo,2006-05-23,1st,M Kaif,36,,V Sehwag,97,West Indies,India,174,India,"Warner Park, Basseterre",2,West Indies
+179,28.4,0,DJ Bravo,2006-05-23,1st,M Kaif,36,V Sehwag,V Sehwag,97,West Indies,India,174,India,"Warner Park, Basseterre",3,West Indies
+180,28.5,2,DJ Bravo,2006-05-23,1st,M Kaif,36,,MS Dhoni,2,West Indies,India,176,India,"Warner Park, Basseterre",3,West Indies
+181,28.6,0,DJ Bravo,2006-05-23,1st,M Kaif,36,,MS Dhoni,2,West Indies,India,176,India,"Warner Park, Basseterre",3,West Indies
+182,29.1,1,CH Gayle,2006-05-23,1st,MS Dhoni,2,,M Kaif,37,West Indies,India,177,India,"Warner Park, Basseterre",3,West Indies
+183,29.2,0,CH Gayle,2006-05-23,1st,M Kaif,37,,MS Dhoni,2,West Indies,India,177,India,"Warner Park, Basseterre",3,West Indies
+184,29.3,0,CH Gayle,2006-05-23,1st,M Kaif,37,,MS Dhoni,2,West Indies,India,177,India,"Warner Park, Basseterre",3,West Indies
+185,29.4,0,CH Gayle,2006-05-23,1st,M Kaif,37,,MS Dhoni,2,West Indies,India,177,India,"Warner Park, Basseterre",3,West Indies
+186,29.5,1,CH Gayle,2006-05-23,1st,M Kaif,37,,MS Dhoni,3,West Indies,India,178,India,"Warner Park, Basseterre",3,West Indies
+187,29.6,1,CH Gayle,2006-05-23,1st,MS Dhoni,3,,M Kaif,38,West Indies,India,179,India,"Warner Park, Basseterre",3,West Indies
+188,30.1,0,DJ Bravo,2006-05-23,1st,MS Dhoni,3,,M Kaif,38,West Indies,India,179,India,"Warner Park, Basseterre",3,West Indies
+189,30.2,0,DJ Bravo,2006-05-23,1st,MS Dhoni,3,,M Kaif,38,West Indies,India,179,India,"Warner Park, Basseterre",3,West Indies
+190,30.3,1,DJ Bravo,2006-05-23,1st,MS Dhoni,3,,M Kaif,39,West Indies,India,180,India,"Warner Park, Basseterre",3,West Indies
+191,30.4,1,DJ Bravo,2006-05-23,1st,M Kaif,39,,MS Dhoni,4,West Indies,India,181,India,"Warner Park, Basseterre",3,West Indies
+192,30.5,0,DJ Bravo,2006-05-23,1st,MS Dhoni,4,,M Kaif,39,West Indies,India,181,India,"Warner Park, Basseterre",3,West Indies
+193,30.6,1,DJ Bravo,2006-05-23,1st,MS Dhoni,4,,M Kaif,40,West Indies,India,182,India,"Warner Park, Basseterre",3,West Indies
+194,31.1,3,CH Gayle,2006-05-23,1st,MS Dhoni,4,,M Kaif,43,West Indies,India,185,India,"Warner Park, Basseterre",3,West Indies
+195,31.2,0,CH Gayle,2006-05-23,1st,M Kaif,43,,MS Dhoni,4,West Indies,India,185,India,"Warner Park, Basseterre",3,West Indies
+196,31.3,1,CH Gayle,2006-05-23,1st,M Kaif,43,,MS Dhoni,5,West Indies,India,186,India,"Warner Park, Basseterre",3,West Indies
+197,31.4,0,CH Gayle,2006-05-23,1st,MS Dhoni,5,,M Kaif,43,West Indies,India,186,India,"Warner Park, Basseterre",3,West Indies
+198,31.5,1,CH Gayle,2006-05-23,1st,MS Dhoni,5,,M Kaif,44,West Indies,India,187,India,"Warner Park, Basseterre",3,West Indies
+199,31.6,0,CH Gayle,2006-05-23,1st,M Kaif,44,,MS Dhoni,5,West Indies,India,187,India,"Warner Park, Basseterre",3,West Indies
+200,32.1,4,DJ Bravo,2006-05-23,1st,MS Dhoni,5,,M Kaif,48,West Indies,India,191,India,"Warner Park, Basseterre",3,West Indies
+201,32.2,0,DJ Bravo,2006-05-23,1st,MS Dhoni,5,,M Kaif,48,West Indies,India,191,India,"Warner Park, Basseterre",3,West Indies
+202,32.3,1,DJ Bravo,2006-05-23,1st,MS Dhoni,5,,M Kaif,49,West Indies,India,192,India,"Warner Park, Basseterre",3,West Indies
+203,32.4,0,DJ Bravo,2006-05-23,1st,M Kaif,49,,MS Dhoni,5,West Indies,India,192,India,"Warner Park, Basseterre",3,West Indies
+204,32.5,4,DJ Bravo,2006-05-23,1st,M Kaif,49,,MS Dhoni,9,West Indies,India,196,India,"Warner Park, Basseterre",3,West Indies
+205,32.6,0,DJ Bravo,2006-05-23,1st,M Kaif,49,,MS Dhoni,9,West Indies,India,196,India,"Warner Park, Basseterre",3,West Indies
+206,33.1,1,CH Gayle,2006-05-23,1st,MS Dhoni,9,,M Kaif,50,West Indies,India,197,India,"Warner Park, Basseterre",3,West Indies
+207,33.2,0,CH Gayle,2006-05-23,1st,M Kaif,50,,MS Dhoni,9,West Indies,India,197,India,"Warner Park, Basseterre",3,West Indies
+208,33.3,1,CH Gayle,2006-05-23,1st,M Kaif,50,,MS Dhoni,10,West Indies,India,198,India,"Warner Park, Basseterre",3,West Indies
+209,33.4,1,CH Gayle,2006-05-23,1st,MS Dhoni,10,,M Kaif,51,West Indies,India,199,India,"Warner Park, Basseterre",3,West Indies
+210,33.5,0,CH Gayle,2006-05-23,1st,M Kaif,51,,MS Dhoni,10,West Indies,India,199,India,"Warner Park, Basseterre",3,West Indies
+211,33.6,0,CH Gayle,2006-05-23,1st,M Kaif,51,,MS Dhoni,10,West Indies,India,199,India,"Warner Park, Basseterre",3,West Indies
+212,34.1,0,JE Taylor,2006-05-23,1st,MS Dhoni,10,,M Kaif,51,West Indies,India,199,India,"Warner Park, Basseterre",3,West Indies
+213,34.2,1,JE Taylor,2006-05-23,1st,MS Dhoni,10,,M Kaif,52,West Indies,India,200,India,"Warner Park, Basseterre",3,West Indies
+214,34.3,1,JE Taylor,2006-05-23,1st,M Kaif,52,,MS Dhoni,11,West Indies,India,201,India,"Warner Park, Basseterre",3,West Indies
+215,34.4,1,JE Taylor,2006-05-23,1st,MS Dhoni,11,,M Kaif,53,West Indies,India,202,India,"Warner Park, Basseterre",3,West Indies
+216,34.5,1,JE Taylor,2006-05-23,1st,M Kaif,53,,MS Dhoni,12,West Indies,India,203,India,"Warner Park, Basseterre",3,West Indies
+217,34.6,1,JE Taylor,2006-05-23,1st,MS Dhoni,12,,M Kaif,54,West Indies,India,204,India,"Warner Park, Basseterre",3,West Indies
+218,35.1,1,CH Gayle,2006-05-23,1st,MS Dhoni,12,,M Kaif,55,West Indies,India,205,India,"Warner Park, Basseterre",3,West Indies
+219,35.2,1,CH Gayle,2006-05-23,1st,M Kaif,55,,MS Dhoni,13,West Indies,India,206,India,"Warner Park, Basseterre",3,West Indies
+220,35.3,1,CH Gayle,2006-05-23,1st,MS Dhoni,13,,M Kaif,56,West Indies,India,207,India,"Warner Park, Basseterre",3,West Indies
+221,35.4,0,CH Gayle,2006-05-23,1st,MS Dhoni,13,,M Kaif,56,West Indies,India,207,India,"Warner Park, Basseterre",3,West Indies
+222,35.5,0,CH Gayle,2006-05-23,1st,MS Dhoni,13,,M Kaif,56,West Indies,India,207,India,"Warner Park, Basseterre",3,West Indies
+223,35.6,0,CH Gayle,2006-05-23,1st,MS Dhoni,13,,M Kaif,56,West Indies,India,207,India,"Warner Park, Basseterre",3,West Indies
+224,36.1,0,MN Samuels,2006-05-23,1st,M Kaif,56,,MS Dhoni,13,West Indies,India,207,India,"Warner Park, Basseterre",3,West Indies
+225,36.2,1,MN Samuels,2006-05-23,1st,M Kaif,56,,MS Dhoni,14,West Indies,India,208,India,"Warner Park, Basseterre",3,West Indies
+226,36.3,1,MN Samuels,2006-05-23,1st,MS Dhoni,14,,M Kaif,57,West Indies,India,209,India,"Warner Park, Basseterre",3,West Indies
+227,36.4,0,MN Samuels,2006-05-23,1st,M Kaif,57,,MS Dhoni,14,West Indies,India,209,India,"Warner Park, Basseterre",3,West Indies
+228,36.5,0,MN Samuels,2006-05-23,1st,M Kaif,57,,MS Dhoni,14,West Indies,India,209,India,"Warner Park, Basseterre",3,West Indies
+229,36.6,1,MN Samuels,2006-05-23,1st,M Kaif,57,,MS Dhoni,15,West Indies,India,210,India,"Warner Park, Basseterre",3,West Indies
+230,37.1,0,CH Gayle,2006-05-23,1st,M Kaif,57,MS Dhoni,MS Dhoni,15,West Indies,India,210,India,"Warner Park, Basseterre",4,West Indies
+231,37.2,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,0,,M Kaif,57,West Indies,India,210,India,"Warner Park, Basseterre",4,West Indies
+232,37.3,1,CH Gayle,2006-05-23,1st,Y Venugopal Rao,0,,M Kaif,58,West Indies,India,211,India,"Warner Park, Basseterre",4,West Indies
+233,37.4,0,CH Gayle,2006-05-23,1st,M Kaif,58,,Y Venugopal Rao,0,West Indies,India,211,India,"Warner Park, Basseterre",4,West Indies
+234,37.5,0,CH Gayle,2006-05-23,1st,M Kaif,58,,Y Venugopal Rao,0,West Indies,India,211,India,"Warner Park, Basseterre",4,West Indies
+235,37.6,0,CH Gayle,2006-05-23,1st,M Kaif,58,,Y Venugopal Rao,0,West Indies,India,211,India,"Warner Park, Basseterre",4,West Indies
+236,38.1,1,MN Samuels,2006-05-23,1st,Y Venugopal Rao,0,,M Kaif,59,West Indies,India,212,India,"Warner Park, Basseterre",4,West Indies
+237,38.2,1,MN Samuels,2006-05-23,1st,M Kaif,59,,Y Venugopal Rao,1,West Indies,India,213,India,"Warner Park, Basseterre",4,West Indies
+238,38.3,1,MN Samuels,2006-05-23,1st,Y Venugopal Rao,1,,M Kaif,60,West Indies,India,214,India,"Warner Park, Basseterre",4,West Indies
+239,38.4,0,MN Samuels,2006-05-23,1st,M Kaif,60,,Y Venugopal Rao,1,West Indies,India,214,India,"Warner Park, Basseterre",4,West Indies
+240,38.5,0,MN Samuels,2006-05-23,1st,M Kaif,60,,Y Venugopal Rao,1,West Indies,India,214,India,"Warner Park, Basseterre",4,West Indies
+241,38.6,0,MN Samuels,2006-05-23,1st,M Kaif,60,,Y Venugopal Rao,1,West Indies,India,214,India,"Warner Park, Basseterre",4,West Indies
+242,39.1,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,1,,M Kaif,60,West Indies,India,214,India,"Warner Park, Basseterre",4,West Indies
+243,39.2,1,CH Gayle,2006-05-23,1st,Y Venugopal Rao,1,,M Kaif,61,West Indies,India,215,India,"Warner Park, Basseterre",4,West Indies
+244,39.3,0,CH Gayle,2006-05-23,1st,M Kaif,61,,Y Venugopal Rao,1,West Indies,India,215,India,"Warner Park, Basseterre",4,West Indies
+245,39.4,0,CH Gayle,2006-05-23,1st,M Kaif,61,M Kaif,Y Venugopal Rao,1,West Indies,India,215,India,"Warner Park, Basseterre",5,West Indies
+246,39.5,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,1,,IK Pathan,0,West Indies,India,215,India,"Warner Park, Basseterre",5,West Indies
+247,39.6,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,1,,IK Pathan,0,West Indies,India,215,India,"Warner Park, Basseterre",5,West Indies
+248,40.1,1,MN Samuels,2006-05-23,1st,IK Pathan,0,,Y Venugopal Rao,2,West Indies,India,216,India,"Warner Park, Basseterre",5,West Indies
+249,40.2,1,MN Samuels,2006-05-23,1st,Y Venugopal Rao,2,,IK Pathan,1,West Indies,India,217,India,"Warner Park, Basseterre",5,West Indies
+250,40.3,1,MN Samuels,2006-05-23,1st,IK Pathan,1,,Y Venugopal Rao,3,West Indies,India,218,India,"Warner Park, Basseterre",5,West Indies
+251,40.4,0,MN Samuels,2006-05-23,1st,Y Venugopal Rao,3,IK Pathan,IK Pathan,1,West Indies,India,218,India,"Warner Park, Basseterre",6,West Indies
+252,40.5,0,MN Samuels,2006-05-23,1st,Y Venugopal Rao,3,,RR Powar,0,West Indies,India,218,India,"Warner Park, Basseterre",6,West Indies
+253,40.6,0,MN Samuels,2006-05-23,1st,Y Venugopal Rao,3,,RR Powar,0,West Indies,India,218,India,"Warner Park, Basseterre",6,West Indies
+254,41.1,0,CH Gayle,2006-05-23,1st,RR Powar,0,,Y Venugopal Rao,3,West Indies,India,218,India,"Warner Park, Basseterre",6,West Indies
+255,41.2,0,CH Gayle,2006-05-23,1st,RR Powar,0,,Y Venugopal Rao,3,West Indies,India,218,India,"Warner Park, Basseterre",6,West Indies
+256,41.3,1,CH Gayle,2006-05-23,1st,RR Powar,0,,Y Venugopal Rao,4,West Indies,India,219,India,"Warner Park, Basseterre",6,West Indies
+257,41.4,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,4,,RR Powar,0,West Indies,India,219,India,"Warner Park, Basseterre",6,West Indies
+258,41.5,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,4,,RR Powar,0,West Indies,India,219,India,"Warner Park, Basseterre",6,West Indies
+259,41.6,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,4,,RR Powar,0,West Indies,India,219,India,"Warner Park, Basseterre",6,West Indies
+260,42.1,1,MN Samuels,2006-05-23,1st,RR Powar,0,,Y Venugopal Rao,5,West Indies,India,220,India,"Warner Park, Basseterre",6,West Indies
+261,42.2,1,MN Samuels,2006-05-23,1st,Y Venugopal Rao,5,,RR Powar,1,West Indies,India,221,India,"Warner Park, Basseterre",6,West Indies
+262,42.3,0,MN Samuels,2006-05-23,1st,RR Powar,1,,Y Venugopal Rao,5,West Indies,India,221,India,"Warner Park, Basseterre",6,West Indies
+263,42.4,0,MN Samuels,2006-05-23,1st,RR Powar,1,,Y Venugopal Rao,5,West Indies,India,221,India,"Warner Park, Basseterre",6,West Indies
+264,42.5,1,MN Samuels,2006-05-23,1st,RR Powar,1,,Y Venugopal Rao,6,West Indies,India,222,India,"Warner Park, Basseterre",6,West Indies
+265,42.6,0,MN Samuels,2006-05-23,1st,Y Venugopal Rao,6,,RR Powar,1,West Indies,India,222,India,"Warner Park, Basseterre",6,West Indies
+266,43.1,0,RR Sarwan,2006-05-23,1st,RR Powar,1,,Y Venugopal Rao,6,West Indies,India,222,India,"Warner Park, Basseterre",6,West Indies
+267,43.2,0,RR Sarwan,2006-05-23,1st,RR Powar,1,,Y Venugopal Rao,6,West Indies,India,222,India,"Warner Park, Basseterre",6,West Indies
+268,43.3,0,RR Sarwan,2006-05-23,1st,Y Venugopal Rao,6,RR Powar,RR Powar,1,West Indies,India,222,India,"Warner Park, Basseterre",7,West Indies
+269,43.4,0,RR Sarwan,2006-05-23,1st,Y Venugopal Rao,6,,AB Agarkar,0,West Indies,India,222,India,"Warner Park, Basseterre",7,West Indies
+270,43.5,0,RR Sarwan,2006-05-23,1st,Y Venugopal Rao,6,,AB Agarkar,0,West Indies,India,222,India,"Warner Park, Basseterre",7,West Indies
+271,43.6,1,RR Sarwan,2006-05-23,1st,Y Venugopal Rao,6,,AB Agarkar,1,West Indies,India,223,India,"Warner Park, Basseterre",7,West Indies
+272,44.1,0,MN Samuels,2006-05-23,1st,AB Agarkar,1,,Y Venugopal Rao,6,West Indies,India,223,India,"Warner Park, Basseterre",7,West Indies
+273,44.2,0,MN Samuels,2006-05-23,1st,AB Agarkar,1,,Y Venugopal Rao,6,West Indies,India,223,India,"Warner Park, Basseterre",7,West Indies
+274,44.3,0,MN Samuels,2006-05-23,1st,AB Agarkar,1,,Y Venugopal Rao,6,West Indies,India,223,India,"Warner Park, Basseterre",7,West Indies
+275,44.4,1,MN Samuels,2006-05-23,1st,AB Agarkar,1,,Y Venugopal Rao,7,West Indies,India,224,India,"Warner Park, Basseterre",7,West Indies
+276,44.5,1,MN Samuels,2006-05-23,1st,Y Venugopal Rao,7,,AB Agarkar,2,West Indies,India,225,India,"Warner Park, Basseterre",7,West Indies
+277,44.6,1,MN Samuels,2006-05-23,1st,AB Agarkar,2,,Y Venugopal Rao,8,West Indies,India,226,India,"Warner Park, Basseterre",7,West Indies
+278,45.1,1,CH Gayle,2006-05-23,1st,AB Agarkar,2,,Y Venugopal Rao,9,West Indies,India,227,India,"Warner Park, Basseterre",7,West Indies
+279,45.2,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,9,,AB Agarkar,2,West Indies,India,227,India,"Warner Park, Basseterre",7,West Indies
+280,45.3,0,CH Gayle,2006-05-23,1st,Y Venugopal Rao,9,,AB Agarkar,2,West Indies,India,227,India,"Warner Park, Basseterre",7,West Indies
+281,45.4,1,CH Gayle,2006-05-23,1st,Y Venugopal Rao,9,,AB Agarkar,3,West Indies,India,228,India,"Warner Park, Basseterre",7,West Indies
+282,45.5,0,CH Gayle,2006-05-23,1st,AB Agarkar,3,,Y Venugopal Rao,9,West Indies,India,228,India,"Warner Park, Basseterre",7,West Indies
+283,45.6,1,CH Gayle,2006-05-23,1st,Y Venugopal Rao,9,,AB Agarkar,4,West Indies,India,229,India,"Warner Park, Basseterre",7,West Indies
+284,46.1,0,FH Edwards,2006-05-23,1st,Y Venugopal Rao,9,,AB Agarkar,4,West Indies,India,230,India,"Warner Park, Basseterre",7,West Indies
+285,46.2,2,FH Edwards,2006-05-23,1st,AB Agarkar,4,,Y Venugopal Rao,11,West Indies,India,232,India,"Warner Park, Basseterre",7,West Indies
+286,46.3,0,FH Edwards,2006-05-23,1st,Y Venugopal Rao,11,Y Venugopal Rao,AB Agarkar,4,West Indies,India,232,India,"Warner Park, Basseterre",8,West Indies
+287,46.4,1,FH Edwards,2006-05-23,1st,AB Agarkar,4,,Harbhajan Singh,1,West Indies,India,233,India,"Warner Park, Basseterre",8,West Indies
+288,46.5,0,FH Edwards,2006-05-23,1st,Harbhajan Singh,1,,AB Agarkar,4,West Indies,India,233,India,"Warner Park, Basseterre",8,West Indies
+289,46.6,2,FH Edwards,2006-05-23,1st,AB Agarkar,4,,Harbhajan Singh,3,West Indies,India,235,India,"Warner Park, Basseterre",8,West Indies
+290,47.1,0,DJ Bravo,2006-05-23,1st,AB Agarkar,4,,Harbhajan Singh,3,West Indies,India,235,India,"Warner Park, Basseterre",8,West Indies
+291,47.2,1,DJ Bravo,2006-05-23,1st,AB Agarkar,4,,Harbhajan Singh,4,West Indies,India,236,India,"Warner Park, Basseterre",8,West Indies
+292,47.3,0,DJ Bravo,2006-05-23,1st,Harbhajan Singh,4,,AB Agarkar,4,West Indies,India,236,India,"Warner Park, Basseterre",8,West Indies
+293,47.4,0,DJ Bravo,2006-05-23,1st,Harbhajan Singh,4,,AB Agarkar,4,West Indies,India,236,India,"Warner Park, Basseterre",8,West Indies
+294,47.5,2,DJ Bravo,2006-05-23,1st,Harbhajan Singh,4,,AB Agarkar,6,West Indies,India,238,India,"Warner Park, Basseterre",8,West Indies
+295,47.6,0,DJ Bravo,2006-05-23,1st,Harbhajan Singh,4,,AB Agarkar,6,West Indies,India,238,India,"Warner Park, Basseterre",8,West Indies
+296,48.1,1,FH Edwards,2006-05-23,1st,AB Agarkar,6,,Harbhajan Singh,5,West Indies,India,239,India,"Warner Park, Basseterre",8,West Indies
+297,48.2,0,FH Edwards,2006-05-23,1st,Harbhajan Singh,5,,AB Agarkar,6,West Indies,India,239,India,"Warner Park, Basseterre",8,West Indies
+298,48.3,1,FH Edwards,2006-05-23,1st,Harbhajan Singh,5,,AB Agarkar,7,West Indies,India,240,India,"Warner Park, Basseterre",8,West Indies
+299,48.4,1,FH Edwards,2006-05-23,1st,AB Agarkar,7,,Harbhajan Singh,6,West Indies,India,241,India,"Warner Park, Basseterre",8,West Indies
+300,48.5,1,FH Edwards,2006-05-23,1st,Harbhajan Singh,6,,AB Agarkar,8,West Indies,India,242,India,"Warner Park, Basseterre",8,West Indies
+301,48.6,0,FH Edwards,2006-05-23,1st,AB Agarkar,8,,Harbhajan Singh,6,West Indies,India,242,India,"Warner Park, Basseterre",8,West Indies
+302,49.1,0,DJ Bravo,2006-05-23,1st,Harbhajan Singh,6,,AB Agarkar,8,West Indies,India,242,India,"Warner Park, Basseterre",8,West Indies
+303,49.2,0,DJ Bravo,2006-05-23,1st,Harbhajan Singh,6,,AB Agarkar,8,West Indies,India,242,India,"Warner Park, Basseterre",8,West Indies
+304,49.3,0,DJ Bravo,2006-05-23,1st,Harbhajan Singh,6,AB Agarkar,AB Agarkar,8,West Indies,India,242,India,"Warner Park, Basseterre",9,West Indies
+305,49.4,1,DJ Bravo,2006-05-23,1st,S Sreesanth,0,,Harbhajan Singh,7,West Indies,India,243,India,"Warner Park, Basseterre",9,West Indies
+306,49.5,1,DJ Bravo,2006-05-23,1st,Harbhajan Singh,7,,S Sreesanth,1,West Indies,India,244,India,"Warner Park, Basseterre",9,West Indies
+307,49.6,1,DJ Bravo,2006-05-23,1st,S Sreesanth,1,,Harbhajan Singh,8,West Indies,India,245,India,"Warner Park, Basseterre",9,West Indies
+308,0.1,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,0,India,"Warner Park, Basseterre",0,West Indies
+309,0.2,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,0,India,"Warner Park, Basseterre",0,West Indies
+310,0.3,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,0,India,"Warner Park, Basseterre",0,West Indies
+311,0.4,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,1,India,"Warner Park, Basseterre",0,West Indies
+312,0.5,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,2,India,"Warner Park, Basseterre",0,West Indies
+313,0.6,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,2,India,"Warner Park, Basseterre",0,West Indies
+314,0.7,1,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,3,India,"Warner Park, Basseterre",0,West Indies
+315,1.1,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,3,India,"Warner Park, Basseterre",0,West Indies
+316,1.2,1,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+317,1.3,0,AB Agarkar,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+318,1.4,0,AB Agarkar,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+319,1.5,0,AB Agarkar,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+320,1.6,0,AB Agarkar,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+321,2.1,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+322,2.2,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+323,2.3,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,4,India,"Warner Park, Basseterre",0,West Indies
+324,2.4,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,5,India,"Warner Park, Basseterre",0,West Indies
+325,2.5,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,5,India,"Warner Park, Basseterre",0,West Indies
+326,2.6,1,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+327,2.7,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+328,3.1,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+329,3.2,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+330,3.3,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+331,3.4,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+332,3.5,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+333,3.6,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,6,India,"Warner Park, Basseterre",0,West Indies
+334,4.1,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,7,India,"Warner Park, Basseterre",0,West Indies
+335,4.2,4,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,11,India,"Warner Park, Basseterre",0,West Indies
+336,4.3,4,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,15,India,"Warner Park, Basseterre",0,West Indies
+337,4.4,1,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,16,India,"Warner Park, Basseterre",0,West Indies
+338,4.5,1,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,17,India,"Warner Park, Basseterre",0,West Indies
+339,4.6,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,17,India,"Warner Park, Basseterre",0,West Indies
+340,4.7,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,17,India,"Warner Park, Basseterre",0,West Indies
+341,5.1,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,17,India,"Warner Park, Basseterre",0,West Indies
+342,5.2,1,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,18,India,"Warner Park, Basseterre",0,West Indies
+343,5.3,0,AB Agarkar,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,18,India,"Warner Park, Basseterre",0,West Indies
+344,5.4,1,AB Agarkar,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,19,India,"Warner Park, Basseterre",0,West Indies
+345,5.5,1,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,20,India,"Warner Park, Basseterre",0,West Indies
+346,5.6,0,AB Agarkar,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,20,India,"Warner Park, Basseterre",0,West Indies
+347,6.1,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,20,India,"Warner Park, Basseterre",0,West Indies
+348,6.2,1,IK Pathan,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,21,India,"Warner Park, Basseterre",0,West Indies
+349,6.3,4,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,25,India,"Warner Park, Basseterre",0,West Indies
+350,6.4,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,25,India,"Warner Park, Basseterre",0,West Indies
+351,6.5,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,25,India,"Warner Park, Basseterre",0,West Indies
+352,6.6,0,IK Pathan,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,25,India,"Warner Park, Basseterre",0,West Indies
+353,7.1,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,25,India,"Warner Park, Basseterre",0,West Indies
+354,7.2,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,25,India,"Warner Park, Basseterre",0,West Indies
+355,7.3,4,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,29,India,"Warner Park, Basseterre",0,West Indies
+356,7.4,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,29,India,"Warner Park, Basseterre",0,West Indies
+357,7.5,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,29,India,"Warner Park, Basseterre",0,West Indies
+358,7.6,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,29,India,"Warner Park, Basseterre",0,West Indies
+359,8.1,1,S Sreesanth,2006-05-23,2nd,MN Samuels,0,,CH Gayle,0,West Indies,India,30,India,"Warner Park, Basseterre",0,West Indies
+360,8.2,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,30,India,"Warner Park, Basseterre",0,West Indies
+361,8.3,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,30,India,"Warner Park, Basseterre",0,West Indies
+362,8.4,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,30,India,"Warner Park, Basseterre",0,West Indies
+363,8.5,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,30,India,"Warner Park, Basseterre",0,West Indies
+364,8.6,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,MN Samuels,0,West Indies,India,30,India,"Warner Park, Basseterre",1,West Indies
+365,9.1,1,AB Agarkar,2006-05-23,2nd,RS Morton,0,,CH Gayle,0,West Indies,India,31,India,"Warner Park, Basseterre",1,West Indies
+366,9.2,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RS Morton,0,West Indies,India,31,India,"Warner Park, Basseterre",1,West Indies
+367,9.3,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RS Morton,0,West Indies,India,31,India,"Warner Park, Basseterre",2,West Indies
+368,9.4,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,31,India,"Warner Park, Basseterre",2,West Indies
+369,9.5,4,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,35,India,"Warner Park, Basseterre",2,West Indies
+370,9.6,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,35,India,"Warner Park, Basseterre",2,West Indies
+371,10.1,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,35,India,"Warner Park, Basseterre",2,West Indies
+372,10.2,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+373,10.3,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+374,10.4,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+375,10.5,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+376,10.6,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+377,10.7,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+378,11.1,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+379,11.2,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,36,India,"Warner Park, Basseterre",2,West Indies
+380,11.3,1,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,37,India,"Warner Park, Basseterre",2,West Indies
+381,11.4,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,37,India,"Warner Park, Basseterre",2,West Indies
+382,11.5,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,37,India,"Warner Park, Basseterre",2,West Indies
+383,11.6,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,37,India,"Warner Park, Basseterre",2,West Indies
+384,12.1,4,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,41,India,"Warner Park, Basseterre",2,West Indies
+385,12.2,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,41,India,"Warner Park, Basseterre",2,West Indies
+386,12.3,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,41,India,"Warner Park, Basseterre",2,West Indies
+387,12.4,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,41,India,"Warner Park, Basseterre",2,West Indies
+388,12.5,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,41,India,"Warner Park, Basseterre",2,West Indies
+389,12.6,1,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,42,India,"Warner Park, Basseterre",2,West Indies
+390,13.1,1,IK Pathan,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,43,India,"Warner Park, Basseterre",2,West Indies
+391,13.2,1,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,44,India,"Warner Park, Basseterre",2,West Indies
+392,13.3,4,IK Pathan,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,48,India,"Warner Park, Basseterre",2,West Indies
+393,13.4,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,48,India,"Warner Park, Basseterre",2,West Indies
+394,13.5,4,IK Pathan,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,52,India,"Warner Park, Basseterre",2,West Indies
+395,13.6,1,IK Pathan,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,53,India,"Warner Park, Basseterre",2,West Indies
+396,14.1,2,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,55,India,"Warner Park, Basseterre",2,West Indies
+397,14.2,1,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,56,India,"Warner Park, Basseterre",2,West Indies
+398,14.3,1,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,57,India,"Warner Park, Basseterre",2,West Indies
+399,14.4,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,58,India,"Warner Park, Basseterre",2,West Indies
+400,14.5,0,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,58,India,"Warner Park, Basseterre",2,West Indies
+401,14.6,1,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,59,India,"Warner Park, Basseterre",2,West Indies
+402,14.7,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,59,India,"Warner Park, Basseterre",2,West Indies
+403,15.1,0,IK Pathan,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,59,India,"Warner Park, Basseterre",2,West Indies
+404,15.2,1,IK Pathan,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,60,India,"Warner Park, Basseterre",2,West Indies
+405,15.3,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,60,India,"Warner Park, Basseterre",2,West Indies
+406,15.4,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,60,India,"Warner Park, Basseterre",2,West Indies
+407,15.5,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,60,India,"Warner Park, Basseterre",2,West Indies
+408,15.6,4,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,64,India,"Warner Park, Basseterre",2,West Indies
+409,16.1,4,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,68,India,"Warner Park, Basseterre",2,West Indies
+410,16.2,1,S Sreesanth,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,69,India,"Warner Park, Basseterre",2,West Indies
+411,16.3,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,69,India,"Warner Park, Basseterre",2,West Indies
+412,16.4,2,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,71,India,"Warner Park, Basseterre",2,West Indies
+413,16.5,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,71,India,"Warner Park, Basseterre",2,West Indies
+414,16.6,4,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,75,India,"Warner Park, Basseterre",2,West Indies
+415,17.1,0,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,75,India,"Warner Park, Basseterre",2,West Indies
+416,17.2,0,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,76,India,"Warner Park, Basseterre",2,West Indies
+417,17.3,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,76,India,"Warner Park, Basseterre",2,West Indies
+418,17.4,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,77,India,"Warner Park, Basseterre",2,West Indies
+419,17.5,1,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,78,India,"Warner Park, Basseterre",2,West Indies
+420,17.6,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,78,India,"Warner Park, Basseterre",2,West Indies
+421,18.1,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,79,India,"Warner Park, Basseterre",2,West Indies
+422,18.2,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,80,India,"Warner Park, Basseterre",2,West Indies
+423,18.3,2,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,82,India,"Warner Park, Basseterre",2,West Indies
+424,18.4,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,82,India,"Warner Park, Basseterre",2,West Indies
+425,18.5,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,82,India,"Warner Park, Basseterre",2,West Indies
+426,18.6,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,82,India,"Warner Park, Basseterre",2,West Indies
+427,18.7,6,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+428,18.8,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+429,19.1,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+430,19.2,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+431,19.3,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+432,19.4,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+433,19.5,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+434,19.6,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,88,India,"Warner Park, Basseterre",2,West Indies
+435,20.1,2,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,90,India,"Warner Park, Basseterre",2,West Indies
+436,20.2,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,90,India,"Warner Park, Basseterre",2,West Indies
+437,20.3,6,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,96,India,"Warner Park, Basseterre",2,West Indies
+438,20.4,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,96,India,"Warner Park, Basseterre",2,West Indies
+439,20.5,0,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,96,India,"Warner Park, Basseterre",2,West Indies
+440,20.6,4,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,100,India,"Warner Park, Basseterre",2,West Indies
+441,21.1,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,101,India,"Warner Park, Basseterre",2,West Indies
+442,21.2,1,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,102,India,"Warner Park, Basseterre",2,West Indies
+443,21.3,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,103,India,"Warner Park, Basseterre",2,West Indies
+444,21.4,0,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,103,India,"Warner Park, Basseterre",2,West Indies
+445,21.5,0,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,103,India,"Warner Park, Basseterre",2,West Indies
+446,21.6,0,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,103,India,"Warner Park, Basseterre",2,West Indies
+447,22.1,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,104,India,"Warner Park, Basseterre",2,West Indies
+448,22.2,1,RR Powar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,105,India,"Warner Park, Basseterre",2,West Indies
+449,22.3,0,RR Powar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,105,India,"Warner Park, Basseterre",2,West Indies
+450,22.4,6,RR Powar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,111,India,"Warner Park, Basseterre",2,West Indies
+451,22.5,0,RR Powar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,111,India,"Warner Park, Basseterre",2,West Indies
+452,22.6,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,112,India,"Warner Park, Basseterre",2,West Indies
+453,23.1,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,112,India,"Warner Park, Basseterre",2,West Indies
+454,23.2,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,113,India,"Warner Park, Basseterre",2,West Indies
+455,23.3,0,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,113,India,"Warner Park, Basseterre",2,West Indies
+456,23.4,0,Harbhajan Singh,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,115,India,"Warner Park, Basseterre",2,West Indies
+457,23.5,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,115,India,"Warner Park, Basseterre",2,West Indies
+458,23.6,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,115,India,"Warner Park, Basseterre",2,West Indies
+459,23.7,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,115,India,"Warner Park, Basseterre",2,West Indies
+460,24.1,0,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,115,India,"Warner Park, Basseterre",2,West Indies
+461,24.2,1,AB Agarkar,2006-05-23,2nd,CH Gayle,0,,RR Sarwan,0,West Indies,India,116,India,"Warner Park, Basseterre",2,West Indies
+462,24.3,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,CH Gayle,0,West Indies,India,116,India,"Warner Park, Basseterre",3,West Indies
+463,24.4,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,116,India,"Warner Park, Basseterre",3,West Indies
+464,24.5,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,116,India,"Warner Park, Basseterre",3,West Indies
+465,24.6,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,120,India,"Warner Park, Basseterre",3,West Indies
+466,25.1,0,Harbhajan Singh,2006-05-23,2nd,BC Lara,0,,RR Sarwan,0,West Indies,India,120,India,"Warner Park, Basseterre",3,West Indies
+467,25.2,2,Harbhajan Singh,2006-05-23,2nd,BC Lara,0,,RR Sarwan,0,West Indies,India,122,India,"Warner Park, Basseterre",3,West Indies
+468,25.3,0,Harbhajan Singh,2006-05-23,2nd,BC Lara,0,,RR Sarwan,0,West Indies,India,122,India,"Warner Park, Basseterre",3,West Indies
+469,25.4,3,Harbhajan Singh,2006-05-23,2nd,BC Lara,0,,RR Sarwan,0,West Indies,India,125,India,"Warner Park, Basseterre",3,West Indies
+470,25.5,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,125,India,"Warner Park, Basseterre",3,West Indies
+471,25.6,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,125,India,"Warner Park, Basseterre",3,West Indies
+472,26.1,0,AB Agarkar,2006-05-23,2nd,BC Lara,0,,RR Sarwan,0,West Indies,India,125,India,"Warner Park, Basseterre",3,West Indies
+473,26.2,0,AB Agarkar,2006-05-23,2nd,BC Lara,0,,RR Sarwan,0,West Indies,India,125,India,"Warner Park, Basseterre",3,West Indies
+474,26.3,1,AB Agarkar,2006-05-23,2nd,BC Lara,0,,RR Sarwan,0,West Indies,India,126,India,"Warner Park, Basseterre",3,West Indies
+475,26.4,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,126,India,"Warner Park, Basseterre",3,West Indies
+476,26.5,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,126,India,"Warner Park, Basseterre",3,West Indies
+477,26.6,1,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,127,India,"Warner Park, Basseterre",3,West Indies
+478,27.1,4,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,131,India,"Warner Park, Basseterre",3,West Indies
+479,27.2,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,131,India,"Warner Park, Basseterre",3,West Indies
+480,27.3,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,BC Lara,0,West Indies,India,131,India,"Warner Park, Basseterre",4,West Indies
+481,27.4,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,131,India,"Warner Park, Basseterre",4,West Indies
+482,27.5,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,131,India,"Warner Park, Basseterre",4,West Indies
+483,27.6,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,131,India,"Warner Park, Basseterre",4,West Indies
+484,28.1,0,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,131,India,"Warner Park, Basseterre",4,West Indies
+485,28.2,1,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,132,India,"Warner Park, Basseterre",4,West Indies
+486,28.3,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,132,India,"Warner Park, Basseterre",4,West Indies
+487,28.4,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,132,India,"Warner Park, Basseterre",4,West Indies
+488,28.5,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,132,India,"Warner Park, Basseterre",4,West Indies
+489,28.6,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,132,India,"Warner Park, Basseterre",4,West Indies
+490,29.1,0,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,132,India,"Warner Park, Basseterre",4,West Indies
+491,29.2,1,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,133,India,"Warner Park, Basseterre",4,West Indies
+492,29.3,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,133,India,"Warner Park, Basseterre",4,West Indies
+493,29.4,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,133,India,"Warner Park, Basseterre",4,West Indies
+494,29.5,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,134,India,"Warner Park, Basseterre",4,West Indies
+495,29.6,0,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,134,India,"Warner Park, Basseterre",4,West Indies
+496,30.1,1,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,135,India,"Warner Park, Basseterre",4,West Indies
+497,30.2,0,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,135,India,"Warner Park, Basseterre",4,West Indies
+498,30.3,0,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,135,India,"Warner Park, Basseterre",4,West Indies
+499,30.4,0,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,135,India,"Warner Park, Basseterre",4,West Indies
+500,30.5,1,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,136,India,"Warner Park, Basseterre",4,West Indies
+501,30.6,1,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,137,India,"Warner Park, Basseterre",4,West Indies
+502,31.1,0,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,137,India,"Warner Park, Basseterre",4,West Indies
+503,31.2,0,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,137,India,"Warner Park, Basseterre",4,West Indies
+504,31.3,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,138,India,"Warner Park, Basseterre",4,West Indies
+505,31.4,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,138,India,"Warner Park, Basseterre",4,West Indies
+506,31.5,4,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,142,India,"Warner Park, Basseterre",4,West Indies
+507,31.6,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,143,India,"Warner Park, Basseterre",4,West Indies
+508,32.1,1,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,144,India,"Warner Park, Basseterre",4,West Indies
+509,32.2,1,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,145,India,"Warner Park, Basseterre",4,West Indies
+510,32.3,1,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,146,India,"Warner Park, Basseterre",4,West Indies
+511,32.4,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,146,India,"Warner Park, Basseterre",4,West Indies
+512,32.5,4,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,150,India,"Warner Park, Basseterre",4,West Indies
+513,32.6,4,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,154,India,"Warner Park, Basseterre",4,West Indies
+514,33.1,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,154,India,"Warner Park, Basseterre",4,West Indies
+515,33.2,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,154,India,"Warner Park, Basseterre",4,West Indies
+516,33.3,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,155,India,"Warner Park, Basseterre",4,West Indies
+517,33.4,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,156,India,"Warner Park, Basseterre",4,West Indies
+518,33.5,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,156,India,"Warner Park, Basseterre",4,West Indies
+519,33.6,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,156,India,"Warner Park, Basseterre",4,West Indies
+520,34.1,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,156,India,"Warner Park, Basseterre",4,West Indies
+521,34.2,1,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,157,India,"Warner Park, Basseterre",4,West Indies
+522,34.3,1,IK Pathan,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,158,India,"Warner Park, Basseterre",4,West Indies
+523,34.4,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,158,India,"Warner Park, Basseterre",4,West Indies
+524,34.5,4,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+525,34.6,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+526,35.1,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+527,35.2,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+528,35.3,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+529,35.4,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+530,35.5,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+531,35.6,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,162,India,"Warner Park, Basseterre",4,West Indies
+532,36.1,1,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,163,India,"Warner Park, Basseterre",4,West Indies
+533,36.2,1,IK Pathan,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,164,India,"Warner Park, Basseterre",4,West Indies
+534,36.3,1,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,165,India,"Warner Park, Basseterre",4,West Indies
+535,36.4,0,IK Pathan,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,165,India,"Warner Park, Basseterre",4,West Indies
+536,36.5,1,IK Pathan,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,166,India,"Warner Park, Basseterre",4,West Indies
+537,36.6,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,166,India,"Warner Park, Basseterre",4,West Indies
+538,37.1,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,166,India,"Warner Park, Basseterre",4,West Indies
+539,37.2,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,167,India,"Warner Park, Basseterre",4,West Indies
+540,37.3,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,168,India,"Warner Park, Basseterre",4,West Indies
+541,37.4,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,169,India,"Warner Park, Basseterre",4,West Indies
+542,37.5,0,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,169,India,"Warner Park, Basseterre",4,West Indies
+543,37.6,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,170,India,"Warner Park, Basseterre",4,West Indies
+544,38.1,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,170,India,"Warner Park, Basseterre",4,West Indies
+545,38.2,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,170,India,"Warner Park, Basseterre",4,West Indies
+546,38.3,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,170,India,"Warner Park, Basseterre",4,West Indies
+547,38.4,0,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,170,India,"Warner Park, Basseterre",4,West Indies
+548,38.5,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,171,India,"Warner Park, Basseterre",4,West Indies
+549,38.6,4,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,175,India,"Warner Park, Basseterre",4,West Indies
+550,39.1,0,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,175,India,"Warner Park, Basseterre",4,West Indies
+551,39.2,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,176,India,"Warner Park, Basseterre",4,West Indies
+552,39.3,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,177,India,"Warner Park, Basseterre",4,West Indies
+553,39.4,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,178,India,"Warner Park, Basseterre",4,West Indies
+554,39.5,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,179,India,"Warner Park, Basseterre",4,West Indies
+555,39.6,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,180,India,"Warner Park, Basseterre",4,West Indies
+556,40.1,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,181,India,"Warner Park, Basseterre",4,West Indies
+557,40.2,0,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,181,India,"Warner Park, Basseterre",4,West Indies
+558,40.3,1,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,182,India,"Warner Park, Basseterre",4,West Indies
+559,40.4,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,183,India,"Warner Park, Basseterre",4,West Indies
+560,40.5,1,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,184,India,"Warner Park, Basseterre",4,West Indies
+561,40.6,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,185,India,"Warner Park, Basseterre",4,West Indies
+562,41.1,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,186,India,"Warner Park, Basseterre",4,West Indies
+563,41.2,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,187,India,"Warner Park, Basseterre",4,West Indies
+564,41.3,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,188,India,"Warner Park, Basseterre",4,West Indies
+565,41.4,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,189,India,"Warner Park, Basseterre",4,West Indies
+566,41.5,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,190,India,"Warner Park, Basseterre",4,West Indies
+567,41.6,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,191,India,"Warner Park, Basseterre",4,West Indies
+568,42.1,0,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,191,India,"Warner Park, Basseterre",4,West Indies
+569,42.2,1,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,192,India,"Warner Park, Basseterre",4,West Indies
+570,42.3,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,193,India,"Warner Park, Basseterre",4,West Indies
+571,42.4,1,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,194,India,"Warner Park, Basseterre",4,West Indies
+572,42.5,1,Harbhajan Singh,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,195,India,"Warner Park, Basseterre",4,West Indies
+573,42.6,0,Harbhajan Singh,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,195,India,"Warner Park, Basseterre",4,West Indies
+574,43.1,2,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,197,India,"Warner Park, Basseterre",4,West Indies
+575,43.2,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,198,India,"Warner Park, Basseterre",4,West Indies
+576,43.3,0,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,198,India,"Warner Park, Basseterre",4,West Indies
+577,43.4,1,RR Powar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,199,India,"Warner Park, Basseterre",4,West Indies
+578,43.5,0,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,199,India,"Warner Park, Basseterre",4,West Indies
+579,43.6,1,RR Powar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,200,India,"Warner Park, Basseterre",4,West Indies
+580,44.1,6,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,206,India,"Warner Park, Basseterre",4,West Indies
+581,44.2,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,207,India,"Warner Park, Basseterre",4,West Indies
+582,44.3,1,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,208,India,"Warner Park, Basseterre",4,West Indies
+583,44.4,1,AB Agarkar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,209,India,"Warner Park, Basseterre",4,West Indies
+584,44.5,1,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,210,India,"Warner Park, Basseterre",4,West Indies
+585,44.6,1,AB Agarkar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,211,India,"Warner Park, Basseterre",4,West Indies
+586,44.7,1,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,212,India,"Warner Park, Basseterre",4,West Indies
+587,45.1,2,V Sehwag,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,214,India,"Warner Park, Basseterre",4,West Indies
+588,45.2,0,V Sehwag,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,214,India,"Warner Park, Basseterre",4,West Indies
+589,45.3,1,V Sehwag,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,215,India,"Warner Park, Basseterre",4,West Indies
+590,45.4,2,V Sehwag,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,217,India,"Warner Park, Basseterre",4,West Indies
+591,45.5,4,V Sehwag,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,221,India,"Warner Park, Basseterre",4,West Indies
+592,45.6,2,V Sehwag,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,223,India,"Warner Park, Basseterre",4,West Indies
+593,46.1,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,223,India,"Warner Park, Basseterre",4,West Indies
+594,46.2,0,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,223,India,"Warner Park, Basseterre",4,West Indies
+595,46.3,1,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,224,India,"Warner Park, Basseterre",4,West Indies
+596,46.4,0,AB Agarkar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,224,India,"Warner Park, Basseterre",4,West Indies
+597,46.5,1,AB Agarkar,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,225,India,"Warner Park, Basseterre",4,West Indies
+598,46.6,1,AB Agarkar,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,226,India,"Warner Park, Basseterre",4,West Indies
+599,47.1,1,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,227,India,"Warner Park, Basseterre",4,West Indies
+600,47.2,2,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,229,India,"Warner Park, Basseterre",4,West Indies
+601,47.3,2,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,231,India,"Warner Park, Basseterre",4,West Indies
+602,47.4,1,S Sreesanth,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,232,India,"Warner Park, Basseterre",4,West Indies
+603,47.5,4,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,236,India,"Warner Park, Basseterre",4,West Indies
+604,47.6,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,236,India,"Warner Park, Basseterre",4,West Indies
+605,48.1,1,IK Pathan,2006-05-23,2nd,S Chanderpaul,0,,RR Sarwan,0,West Indies,India,237,India,"Warner Park, Basseterre",4,West Indies
+606,48.2,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,S Chanderpaul,0,West Indies,India,237,India,"Warner Park, Basseterre",5,West Indies
+607,48.3,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,DJ Bravo,0,West Indies,India,238,India,"Warner Park, Basseterre",5,West Indies
+608,48.4,0,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,DJ Bravo,0,West Indies,India,238,India,"Warner Park, Basseterre",5,West Indies
+609,48.5,1,IK Pathan,2006-05-23,2nd,RR Sarwan,0,,DJ Bravo,0,West Indies,India,239,India,"Warner Park, Basseterre",5,West Indies
+610,48.6,0,IK Pathan,2006-05-23,2nd,DJ Bravo,0,,RR Sarwan,0,West Indies,India,239,India,"Warner Park, Basseterre",5,West Indies
+611,48.7,1,IK Pathan,2006-05-23,2nd,DJ Bravo,0,,RR Sarwan,0,West Indies,India,240,India,"Warner Park, Basseterre",5,West Indies
+612,49.1,1,S Sreesanth,2006-05-23,2nd,DJ Bravo,0,,RR Sarwan,0,West Indies,India,241,India,"Warner Park, Basseterre",6,West Indies
+613,49.2,0,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CS Baugh,0,West Indies,India,241,India,"Warner Park, Basseterre",6,West Indies
+614,49.3,1,S Sreesanth,2006-05-23,2nd,RR Sarwan,0,,CS Baugh,0,West Indies,India,242,India,"Warner Park, Basseterre",6,West Indies
+615,49.4,2,S Sreesanth,2006-05-23,2nd,CS Baugh,0,,RR Sarwan,0,West Indies,India,244,India,"Warner Park, Basseterre",6,West Indies
+616,49.5,4,S Sreesanth,2006-05-23,2nd,CS Baugh,0,,RR Sarwan,0,West Indies,India,248,India,"Warner Park, Basseterre",6,West Indies

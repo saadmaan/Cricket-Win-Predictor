@@ -1,0 +1,596 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,WB Rankin,2011-03-18,1st,W Barresi,0,,ES Szwarczynski,1,Ireland,Netherlands,1,Ireland,Eden Gardens,0,Ireland
+1,0.2,2,WB Rankin,2011-03-18,1st,ES Szwarczynski,1,,W Barresi,2,Ireland,Netherlands,3,Ireland,Eden Gardens,0,Ireland
+2,0.3,0,WB Rankin,2011-03-18,1st,ES Szwarczynski,1,,W Barresi,2,Ireland,Netherlands,3,Ireland,Eden Gardens,0,Ireland
+3,0.4,0,WB Rankin,2011-03-18,1st,ES Szwarczynski,1,,W Barresi,2,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+4,0.5,0,WB Rankin,2011-03-18,1st,ES Szwarczynski,1,,W Barresi,2,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+5,0.6,0,WB Rankin,2011-03-18,1st,ES Szwarczynski,1,,W Barresi,2,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+6,1.1,0,DT Johnston,2011-03-18,1st,W Barresi,2,,ES Szwarczynski,1,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+7,1.2,0,DT Johnston,2011-03-18,1st,W Barresi,2,,ES Szwarczynski,1,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+8,1.3,0,DT Johnston,2011-03-18,1st,W Barresi,2,ES Szwarczynski,ES Szwarczynski,1,Ireland,Netherlands,7,Ireland,Eden Gardens,1,Ireland
+9,1.4,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,0,,TLW Cooper,0,Ireland,Netherlands,7,Ireland,Eden Gardens,1,Ireland
+10,1.5,1,DT Johnston,2011-03-18,1st,RN ten Doeschate,0,,TLW Cooper,1,Ireland,Netherlands,8,Ireland,Eden Gardens,1,Ireland
+11,1.6,0,DT Johnston,2011-03-18,1st,TLW Cooper,1,,RN ten Doeschate,0,Ireland,Netherlands,8,Ireland,Eden Gardens,1,Ireland
+12,2.1,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,0,,TLW Cooper,1,Ireland,Netherlands,8,Ireland,Eden Gardens,1,Ireland
+13,2.2,4,WB Rankin,2011-03-18,1st,RN ten Doeschate,0,,TLW Cooper,5,Ireland,Netherlands,12,Ireland,Eden Gardens,1,Ireland
+14,2.3,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,0,TLW Cooper,TLW Cooper,5,Ireland,Netherlands,12,Ireland,Eden Gardens,2,Ireland
+15,2.4,1,WB Rankin,2011-03-18,1st,RN ten Doeschate,0,,AN Kervezee,1,Ireland,Netherlands,13,Ireland,Eden Gardens,2,Ireland
+16,2.5,0,WB Rankin,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,0,Ireland,Netherlands,13,Ireland,Eden Gardens,2,Ireland
+17,2.6,1,WB Rankin,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+18,3.1,0,DT Johnston,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+19,3.2,0,DT Johnston,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+20,3.3,0,DT Johnston,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+21,3.4,0,DT Johnston,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+22,3.5,0,DT Johnston,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+23,3.6,0,DT Johnston,2011-03-18,1st,AN Kervezee,1,,RN ten Doeschate,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+24,4.1,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,1,,AN Kervezee,1,Ireland,Netherlands,14,Ireland,Eden Gardens,2,Ireland
+25,4.2,1,WB Rankin,2011-03-18,1st,RN ten Doeschate,1,,AN Kervezee,2,Ireland,Netherlands,15,Ireland,Eden Gardens,2,Ireland
+26,4.3,1,WB Rankin,2011-03-18,1st,AN Kervezee,2,,RN ten Doeschate,2,Ireland,Netherlands,16,Ireland,Eden Gardens,2,Ireland
+27,4.4,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,2,,AN Kervezee,2,Ireland,Netherlands,16,Ireland,Eden Gardens,2,Ireland
+28,4.5,4,WB Rankin,2011-03-18,1st,RN ten Doeschate,2,,AN Kervezee,6,Ireland,Netherlands,20,Ireland,Eden Gardens,2,Ireland
+29,4.6,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,2,,AN Kervezee,6,Ireland,Netherlands,20,Ireland,Eden Gardens,2,Ireland
+30,5.1,0,DT Johnston,2011-03-18,1st,AN Kervezee,6,,RN ten Doeschate,2,Ireland,Netherlands,20,Ireland,Eden Gardens,2,Ireland
+31,5.2,4,DT Johnston,2011-03-18,1st,AN Kervezee,6,,RN ten Doeschate,6,Ireland,Netherlands,24,Ireland,Eden Gardens,2,Ireland
+32,5.3,0,DT Johnston,2011-03-18,1st,AN Kervezee,6,,RN ten Doeschate,6,Ireland,Netherlands,24,Ireland,Eden Gardens,2,Ireland
+33,5.4,0,DT Johnston,2011-03-18,1st,AN Kervezee,6,,RN ten Doeschate,6,Ireland,Netherlands,24,Ireland,Eden Gardens,2,Ireland
+34,5.5,4,DT Johnston,2011-03-18,1st,AN Kervezee,6,,RN ten Doeschate,10,Ireland,Netherlands,28,Ireland,Eden Gardens,2,Ireland
+35,5.6,1,DT Johnston,2011-03-18,1st,AN Kervezee,6,,RN ten Doeschate,11,Ireland,Netherlands,29,Ireland,Eden Gardens,2,Ireland
+36,6.1,1,WB Rankin,2011-03-18,1st,AN Kervezee,6,,RN ten Doeschate,12,Ireland,Netherlands,30,Ireland,Eden Gardens,2,Ireland
+37,6.2,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,12,,AN Kervezee,6,Ireland,Netherlands,30,Ireland,Eden Gardens,2,Ireland
+38,6.3,1,WB Rankin,2011-03-18,1st,RN ten Doeschate,12,,AN Kervezee,7,Ireland,Netherlands,31,Ireland,Eden Gardens,2,Ireland
+39,6.4,4,WB Rankin,2011-03-18,1st,AN Kervezee,7,,RN ten Doeschate,16,Ireland,Netherlands,35,Ireland,Eden Gardens,2,Ireland
+40,6.5,0,WB Rankin,2011-03-18,1st,AN Kervezee,7,,RN ten Doeschate,16,Ireland,Netherlands,35,Ireland,Eden Gardens,2,Ireland
+41,6.6,0,WB Rankin,2011-03-18,1st,AN Kervezee,7,,RN ten Doeschate,16,Ireland,Netherlands,36,Ireland,Eden Gardens,2,Ireland
+42,6.7,0,WB Rankin,2011-03-18,1st,AN Kervezee,7,,RN ten Doeschate,16,Ireland,Netherlands,36,Ireland,Eden Gardens,2,Ireland
+43,7.1,4,DT Johnston,2011-03-18,1st,RN ten Doeschate,16,,AN Kervezee,11,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+44,7.2,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,16,,AN Kervezee,11,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+45,7.3,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,16,,AN Kervezee,11,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+46,7.4,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,16,,AN Kervezee,11,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+47,7.5,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,16,,AN Kervezee,11,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+48,7.6,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,16,,AN Kervezee,11,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+49,8.1,0,JF Mooney,2011-03-18,1st,AN Kervezee,11,,RN ten Doeschate,16,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+50,8.2,0,JF Mooney,2011-03-18,1st,AN Kervezee,11,,RN ten Doeschate,16,Ireland,Netherlands,40,Ireland,Eden Gardens,2,Ireland
+51,8.3,4,JF Mooney,2011-03-18,1st,AN Kervezee,11,,RN ten Doeschate,20,Ireland,Netherlands,44,Ireland,Eden Gardens,2,Ireland
+52,8.4,4,JF Mooney,2011-03-18,1st,AN Kervezee,11,,RN ten Doeschate,24,Ireland,Netherlands,48,Ireland,Eden Gardens,2,Ireland
+53,8.5,0,JF Mooney,2011-03-18,1st,AN Kervezee,11,,RN ten Doeschate,24,Ireland,Netherlands,48,Ireland,Eden Gardens,2,Ireland
+54,8.6,0,JF Mooney,2011-03-18,1st,AN Kervezee,11,,RN ten Doeschate,24,Ireland,Netherlands,48,Ireland,Eden Gardens,2,Ireland
+55,9.1,1,DT Johnston,2011-03-18,1st,RN ten Doeschate,24,,AN Kervezee,12,Ireland,Netherlands,49,Ireland,Eden Gardens,2,Ireland
+56,9.2,0,DT Johnston,2011-03-18,1st,AN Kervezee,12,,RN ten Doeschate,24,Ireland,Netherlands,49,Ireland,Eden Gardens,2,Ireland
+57,9.3,4,DT Johnston,2011-03-18,1st,AN Kervezee,12,,RN ten Doeschate,28,Ireland,Netherlands,53,Ireland,Eden Gardens,2,Ireland
+58,9.4,0,DT Johnston,2011-03-18,1st,AN Kervezee,12,,RN ten Doeschate,28,Ireland,Netherlands,53,Ireland,Eden Gardens,2,Ireland
+59,9.5,0,DT Johnston,2011-03-18,1st,AN Kervezee,12,,RN ten Doeschate,28,Ireland,Netherlands,53,Ireland,Eden Gardens,2,Ireland
+60,9.6,0,DT Johnston,2011-03-18,1st,AN Kervezee,12,,RN ten Doeschate,28,Ireland,Netherlands,53,Ireland,Eden Gardens,2,Ireland
+61,10.1,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,28,AN Kervezee,AN Kervezee,12,Ireland,Netherlands,53,Ireland,Eden Gardens,3,Ireland
+62,10.2,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,2,Ireland,Netherlands,53,Ireland,Eden Gardens,3,Ireland
+63,10.3,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,2,Ireland,Netherlands,53,Ireland,Eden Gardens,3,Ireland
+64,10.4,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,2,Ireland,Netherlands,53,Ireland,Eden Gardens,3,Ireland
+65,10.5,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,2,Ireland,Netherlands,53,Ireland,Eden Gardens,3,Ireland
+66,10.6,1,JF Mooney,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,3,Ireland,Netherlands,54,Ireland,Eden Gardens,3,Ireland
+67,11.1,2,WB Rankin,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,5,Ireland,Netherlands,56,Ireland,Eden Gardens,3,Ireland
+68,11.2,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,5,Ireland,Netherlands,57,Ireland,Eden Gardens,3,Ireland
+69,11.3,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,5,Ireland,Netherlands,57,Ireland,Eden Gardens,3,Ireland
+70,11.4,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,5,Ireland,Netherlands,57,Ireland,Eden Gardens,3,Ireland
+71,11.5,6,WB Rankin,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,11,Ireland,Netherlands,63,Ireland,Eden Gardens,3,Ireland
+72,11.6,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,11,Ireland,Netherlands,63,Ireland,Eden Gardens,3,Ireland
+73,11.7,2,WB Rankin,2011-03-18,1st,RN ten Doeschate,28,,W Barresi,13,Ireland,Netherlands,65,Ireland,Eden Gardens,3,Ireland
+74,12.1,0,JF Mooney,2011-03-18,1st,W Barresi,13,,RN ten Doeschate,28,Ireland,Netherlands,65,Ireland,Eden Gardens,3,Ireland
+75,12.2,0,JF Mooney,2011-03-18,1st,W Barresi,13,,RN ten Doeschate,28,Ireland,Netherlands,65,Ireland,Eden Gardens,3,Ireland
+76,12.3,1,JF Mooney,2011-03-18,1st,W Barresi,13,,RN ten Doeschate,29,Ireland,Netherlands,66,Ireland,Eden Gardens,3,Ireland
+77,12.4,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,13,Ireland,Netherlands,66,Ireland,Eden Gardens,3,Ireland
+78,12.5,4,JF Mooney,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,17,Ireland,Netherlands,70,Ireland,Eden Gardens,3,Ireland
+79,12.6,1,JF Mooney,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,18,Ireland,Netherlands,71,Ireland,Eden Gardens,3,Ireland
+80,13.1,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,18,Ireland,Netherlands,71,Ireland,Eden Gardens,3,Ireland
+81,13.2,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,18,Ireland,Netherlands,71,Ireland,Eden Gardens,3,Ireland
+82,13.3,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,18,Ireland,Netherlands,71,Ireland,Eden Gardens,3,Ireland
+83,13.4,4,GH Dockrell,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,22,Ireland,Netherlands,75,Ireland,Eden Gardens,3,Ireland
+84,13.5,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,22,Ireland,Netherlands,75,Ireland,Eden Gardens,3,Ireland
+85,13.6,1,GH Dockrell,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,23,Ireland,Netherlands,76,Ireland,Eden Gardens,3,Ireland
+86,14.1,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,23,Ireland,Netherlands,76,Ireland,Eden Gardens,3,Ireland
+87,14.2,4,JF Mooney,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,27,Ireland,Netherlands,80,Ireland,Eden Gardens,3,Ireland
+88,14.3,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,27,Ireland,Netherlands,80,Ireland,Eden Gardens,3,Ireland
+89,14.4,1,JF Mooney,2011-03-18,1st,RN ten Doeschate,29,,W Barresi,28,Ireland,Netherlands,81,Ireland,Eden Gardens,3,Ireland
+90,14.5,1,JF Mooney,2011-03-18,1st,W Barresi,28,,RN ten Doeschate,30,Ireland,Netherlands,82,Ireland,Eden Gardens,3,Ireland
+91,14.6,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,30,,W Barresi,28,Ireland,Netherlands,82,Ireland,Eden Gardens,3,Ireland
+92,15.1,0,GH Dockrell,2011-03-18,1st,W Barresi,28,,RN ten Doeschate,30,Ireland,Netherlands,82,Ireland,Eden Gardens,3,Ireland
+93,15.2,0,GH Dockrell,2011-03-18,1st,W Barresi,28,,RN ten Doeschate,30,Ireland,Netherlands,82,Ireland,Eden Gardens,3,Ireland
+94,15.3,1,GH Dockrell,2011-03-18,1st,W Barresi,28,,RN ten Doeschate,31,Ireland,Netherlands,83,Ireland,Eden Gardens,3,Ireland
+95,15.4,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,31,,W Barresi,28,Ireland,Netherlands,83,Ireland,Eden Gardens,3,Ireland
+96,15.5,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,31,,W Barresi,28,Ireland,Netherlands,83,Ireland,Eden Gardens,3,Ireland
+97,15.6,1,GH Dockrell,2011-03-18,1st,RN ten Doeschate,31,,W Barresi,29,Ireland,Netherlands,84,Ireland,Eden Gardens,3,Ireland
+98,16.1,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,31,,W Barresi,29,Ireland,Netherlands,84,Ireland,Eden Gardens,3,Ireland
+99,16.2,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,31,,W Barresi,30,Ireland,Netherlands,85,Ireland,Eden Gardens,3,Ireland
+100,16.3,0,PR Stirling,2011-03-18,1st,W Barresi,30,,RN ten Doeschate,31,Ireland,Netherlands,85,Ireland,Eden Gardens,3,Ireland
+101,16.4,1,PR Stirling,2011-03-18,1st,W Barresi,30,,RN ten Doeschate,32,Ireland,Netherlands,86,Ireland,Eden Gardens,3,Ireland
+102,16.5,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,32,,W Barresi,30,Ireland,Netherlands,86,Ireland,Eden Gardens,3,Ireland
+103,16.6,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,32,,W Barresi,31,Ireland,Netherlands,87,Ireland,Eden Gardens,3,Ireland
+104,17.1,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,32,,W Barresi,31,Ireland,Netherlands,87,Ireland,Eden Gardens,3,Ireland
+105,17.2,1,GH Dockrell,2011-03-18,1st,RN ten Doeschate,32,,W Barresi,32,Ireland,Netherlands,88,Ireland,Eden Gardens,3,Ireland
+106,17.3,1,GH Dockrell,2011-03-18,1st,W Barresi,32,,RN ten Doeschate,33,Ireland,Netherlands,89,Ireland,Eden Gardens,3,Ireland
+107,17.4,4,GH Dockrell,2011-03-18,1st,RN ten Doeschate,33,,W Barresi,36,Ireland,Netherlands,93,Ireland,Eden Gardens,3,Ireland
+108,17.5,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,33,,W Barresi,36,Ireland,Netherlands,93,Ireland,Eden Gardens,3,Ireland
+109,17.6,0,GH Dockrell,2011-03-18,1st,RN ten Doeschate,33,,W Barresi,36,Ireland,Netherlands,93,Ireland,Eden Gardens,3,Ireland
+110,18.1,1,PR Stirling,2011-03-18,1st,W Barresi,36,,RN ten Doeschate,34,Ireland,Netherlands,94,Ireland,Eden Gardens,3,Ireland
+111,18.2,6,PR Stirling,2011-03-18,1st,RN ten Doeschate,34,,W Barresi,42,Ireland,Netherlands,100,Ireland,Eden Gardens,3,Ireland
+112,18.3,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,34,,W Barresi,42,Ireland,Netherlands,100,Ireland,Eden Gardens,3,Ireland
+113,18.4,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,34,,W Barresi,43,Ireland,Netherlands,101,Ireland,Eden Gardens,3,Ireland
+114,18.5,1,PR Stirling,2011-03-18,1st,W Barresi,43,,RN ten Doeschate,35,Ireland,Netherlands,102,Ireland,Eden Gardens,3,Ireland
+115,18.6,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,35,,W Barresi,43,Ireland,Netherlands,102,Ireland,Eden Gardens,3,Ireland
+116,19.1,1,GH Dockrell,2011-03-18,1st,W Barresi,43,,RN ten Doeschate,36,Ireland,Netherlands,103,Ireland,Eden Gardens,3,Ireland
+117,19.2,1,GH Dockrell,2011-03-18,1st,RN ten Doeschate,36,,W Barresi,44,Ireland,Netherlands,104,Ireland,Eden Gardens,3,Ireland
+118,19.3,0,GH Dockrell,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,36,Ireland,Netherlands,104,Ireland,Eden Gardens,3,Ireland
+119,19.4,0,GH Dockrell,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,36,Ireland,Netherlands,104,Ireland,Eden Gardens,3,Ireland
+120,19.5,0,AR Cusack,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,36,Ireland,Netherlands,104,Ireland,Eden Gardens,3,Ireland
+121,19.6,1,AR Cusack,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,37,Ireland,Netherlands,105,Ireland,Eden Gardens,3,Ireland
+122,20.1,0,JF Mooney,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,37,Ireland,Netherlands,105,Ireland,Eden Gardens,3,Ireland
+123,20.2,0,JF Mooney,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,37,Ireland,Netherlands,105,Ireland,Eden Gardens,3,Ireland
+124,20.3,0,JF Mooney,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,37,Ireland,Netherlands,105,Ireland,Eden Gardens,3,Ireland
+125,20.4,4,JF Mooney,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,41,Ireland,Netherlands,109,Ireland,Eden Gardens,3,Ireland
+126,20.5,0,JF Mooney,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,41,Ireland,Netherlands,109,Ireland,Eden Gardens,3,Ireland
+127,20.6,1,JF Mooney,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,42,Ireland,Netherlands,110,Ireland,Eden Gardens,3,Ireland
+128,21.1,2,PR Stirling,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,44,Ireland,Netherlands,112,Ireland,Eden Gardens,3,Ireland
+129,21.2,0,PR Stirling,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,44,Ireland,Netherlands,112,Ireland,Eden Gardens,3,Ireland
+130,21.3,1,PR Stirling,2011-03-18,1st,W Barresi,44,,RN ten Doeschate,45,Ireland,Netherlands,113,Ireland,Eden Gardens,3,Ireland
+131,21.4,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,45,,W Barresi,44,Ireland,Netherlands,113,Ireland,Eden Gardens,3,Ireland
+132,21.5,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,45,W Barresi,W Barresi,44,Ireland,Netherlands,113,Ireland,Eden Gardens,4,Ireland
+133,21.6,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,45,,PW Borren,0,Ireland,Netherlands,114,Ireland,Eden Gardens,4,Ireland
+134,22.1,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,45,,PW Borren,0,Ireland,Netherlands,114,Ireland,Eden Gardens,4,Ireland
+135,22.2,1,JF Mooney,2011-03-18,1st,RN ten Doeschate,45,,PW Borren,1,Ireland,Netherlands,115,Ireland,Eden Gardens,4,Ireland
+136,22.3,2,JF Mooney,2011-03-18,1st,PW Borren,1,,RN ten Doeschate,47,Ireland,Netherlands,117,Ireland,Eden Gardens,4,Ireland
+137,22.4,0,JF Mooney,2011-03-18,1st,PW Borren,1,,RN ten Doeschate,47,Ireland,Netherlands,118,Ireland,Eden Gardens,4,Ireland
+138,22.5,0,JF Mooney,2011-03-18,1st,RN ten Doeschate,47,,PW Borren,1,Ireland,Netherlands,118,Ireland,Eden Gardens,4,Ireland
+139,22.6,1,JF Mooney,2011-03-18,1st,RN ten Doeschate,47,,PW Borren,2,Ireland,Netherlands,119,Ireland,Eden Gardens,4,Ireland
+140,23.1,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,47,,PW Borren,3,Ireland,Netherlands,120,Ireland,Eden Gardens,4,Ireland
+141,23.2,0,PR Stirling,2011-03-18,1st,PW Borren,3,,RN ten Doeschate,47,Ireland,Netherlands,120,Ireland,Eden Gardens,4,Ireland
+142,23.3,0,PR Stirling,2011-03-18,1st,PW Borren,3,,RN ten Doeschate,47,Ireland,Netherlands,120,Ireland,Eden Gardens,4,Ireland
+143,23.4,0,PR Stirling,2011-03-18,1st,PW Borren,3,,RN ten Doeschate,47,Ireland,Netherlands,120,Ireland,Eden Gardens,4,Ireland
+144,23.5,1,PR Stirling,2011-03-18,1st,PW Borren,3,,RN ten Doeschate,48,Ireland,Netherlands,121,Ireland,Eden Gardens,4,Ireland
+145,23.6,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,48,,PW Borren,3,Ireland,Netherlands,121,Ireland,Eden Gardens,4,Ireland
+146,24.1,1,WB Rankin,2011-03-18,1st,PW Borren,3,,RN ten Doeschate,49,Ireland,Netherlands,122,Ireland,Eden Gardens,4,Ireland
+147,24.2,4,WB Rankin,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,7,Ireland,Netherlands,126,Ireland,Eden Gardens,4,Ireland
+148,24.3,4,WB Rankin,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,11,Ireland,Netherlands,130,Ireland,Eden Gardens,4,Ireland
+149,24.4,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,11,Ireland,Netherlands,131,Ireland,Eden Gardens,4,Ireland
+150,24.5,4,WB Rankin,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,15,Ireland,Netherlands,135,Ireland,Eden Gardens,4,Ireland
+151,24.6,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,15,Ireland,Netherlands,135,Ireland,Eden Gardens,4,Ireland
+152,24.7,1,WB Rankin,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,16,Ireland,Netherlands,136,Ireland,Eden Gardens,4,Ireland
+153,25.1,2,PR Stirling,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,18,Ireland,Netherlands,138,Ireland,Eden Gardens,4,Ireland
+154,25.2,4,PR Stirling,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,22,Ireland,Netherlands,142,Ireland,Eden Gardens,4,Ireland
+155,25.3,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,22,Ireland,Netherlands,142,Ireland,Eden Gardens,4,Ireland
+156,25.4,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,22,Ireland,Netherlands,142,Ireland,Eden Gardens,4,Ireland
+157,25.5,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,22,Ireland,Netherlands,142,Ireland,Eden Gardens,4,Ireland
+158,25.6,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,49,,PW Borren,22,Ireland,Netherlands,142,Ireland,Eden Gardens,4,Ireland
+159,26.1,1,KJ O'Brien,2011-03-18,1st,PW Borren,22,,RN ten Doeschate,50,Ireland,Netherlands,143,Ireland,Eden Gardens,4,Ireland
+160,26.2,0,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,50,,PW Borren,22,Ireland,Netherlands,143,Ireland,Eden Gardens,4,Ireland
+161,26.3,1,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,50,,PW Borren,23,Ireland,Netherlands,144,Ireland,Eden Gardens,4,Ireland
+162,26.4,0,KJ O'Brien,2011-03-18,1st,PW Borren,23,,RN ten Doeschate,50,Ireland,Netherlands,144,Ireland,Eden Gardens,4,Ireland
+163,26.5,1,KJ O'Brien,2011-03-18,1st,PW Borren,23,,RN ten Doeschate,51,Ireland,Netherlands,145,Ireland,Eden Gardens,4,Ireland
+164,26.6,1,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,51,,PW Borren,24,Ireland,Netherlands,146,Ireland,Eden Gardens,4,Ireland
+165,27.1,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,51,,PW Borren,25,Ireland,Netherlands,147,Ireland,Eden Gardens,4,Ireland
+166,27.2,0,PR Stirling,2011-03-18,1st,PW Borren,25,,RN ten Doeschate,51,Ireland,Netherlands,147,Ireland,Eden Gardens,4,Ireland
+167,27.3,1,PR Stirling,2011-03-18,1st,PW Borren,25,,RN ten Doeschate,52,Ireland,Netherlands,148,Ireland,Eden Gardens,4,Ireland
+168,27.4,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,52,,PW Borren,25,Ireland,Netherlands,148,Ireland,Eden Gardens,4,Ireland
+169,27.5,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,52,,PW Borren,25,Ireland,Netherlands,148,Ireland,Eden Gardens,4,Ireland
+170,27.6,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,52,,PW Borren,25,Ireland,Netherlands,148,Ireland,Eden Gardens,4,Ireland
+171,28.1,4,KJ O'Brien,2011-03-18,1st,PW Borren,25,,RN ten Doeschate,56,Ireland,Netherlands,152,Ireland,Eden Gardens,4,Ireland
+172,28.2,1,KJ O'Brien,2011-03-18,1st,PW Borren,25,,RN ten Doeschate,57,Ireland,Netherlands,153,Ireland,Eden Gardens,4,Ireland
+173,28.3,1,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,57,,PW Borren,26,Ireland,Netherlands,154,Ireland,Eden Gardens,4,Ireland
+174,28.4,0,KJ O'Brien,2011-03-18,1st,PW Borren,26,,RN ten Doeschate,57,Ireland,Netherlands,154,Ireland,Eden Gardens,4,Ireland
+175,28.5,1,KJ O'Brien,2011-03-18,1st,PW Borren,26,,RN ten Doeschate,58,Ireland,Netherlands,155,Ireland,Eden Gardens,4,Ireland
+176,28.6,2,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,58,,PW Borren,28,Ireland,Netherlands,157,Ireland,Eden Gardens,4,Ireland
+177,29.1,1,PR Stirling,2011-03-18,1st,PW Borren,28,,RN ten Doeschate,59,Ireland,Netherlands,158,Ireland,Eden Gardens,4,Ireland
+178,29.2,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,59,,PW Borren,29,Ireland,Netherlands,159,Ireland,Eden Gardens,4,Ireland
+179,29.3,1,PR Stirling,2011-03-18,1st,PW Borren,29,,RN ten Doeschate,60,Ireland,Netherlands,160,Ireland,Eden Gardens,4,Ireland
+180,29.4,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,60,,PW Borren,30,Ireland,Netherlands,161,Ireland,Eden Gardens,4,Ireland
+181,29.5,1,PR Stirling,2011-03-18,1st,PW Borren,30,,RN ten Doeschate,61,Ireland,Netherlands,162,Ireland,Eden Gardens,4,Ireland
+182,29.6,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,61,,PW Borren,30,Ireland,Netherlands,162,Ireland,Eden Gardens,4,Ireland
+183,30.1,0,KJ O'Brien,2011-03-18,1st,PW Borren,30,,RN ten Doeschate,61,Ireland,Netherlands,162,Ireland,Eden Gardens,4,Ireland
+184,30.2,1,KJ O'Brien,2011-03-18,1st,PW Borren,30,,RN ten Doeschate,62,Ireland,Netherlands,163,Ireland,Eden Gardens,4,Ireland
+185,30.3,0,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,62,,PW Borren,30,Ireland,Netherlands,163,Ireland,Eden Gardens,4,Ireland
+186,30.4,1,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,62,,PW Borren,31,Ireland,Netherlands,164,Ireland,Eden Gardens,4,Ireland
+187,30.5,0,KJ O'Brien,2011-03-18,1st,PW Borren,31,,RN ten Doeschate,62,Ireland,Netherlands,164,Ireland,Eden Gardens,4,Ireland
+188,30.6,0,KJ O'Brien,2011-03-18,1st,PW Borren,31,,RN ten Doeschate,62,Ireland,Netherlands,165,Ireland,Eden Gardens,4,Ireland
+189,31.1,1,PR Stirling,2011-03-18,1st,PW Borren,31,,RN ten Doeschate,63,Ireland,Netherlands,166,Ireland,Eden Gardens,4,Ireland
+190,31.2,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,63,,PW Borren,32,Ireland,Netherlands,167,Ireland,Eden Gardens,4,Ireland
+191,31.3,1,PR Stirling,2011-03-18,1st,PW Borren,32,,RN ten Doeschate,64,Ireland,Netherlands,168,Ireland,Eden Gardens,4,Ireland
+192,31.4,0,PR Stirling,2011-03-18,1st,RN ten Doeschate,64,,PW Borren,32,Ireland,Netherlands,168,Ireland,Eden Gardens,4,Ireland
+193,31.5,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,64,,PW Borren,33,Ireland,Netherlands,169,Ireland,Eden Gardens,4,Ireland
+194,31.6,4,PR Stirling,2011-03-18,1st,PW Borren,33,,RN ten Doeschate,68,Ireland,Netherlands,173,Ireland,Eden Gardens,4,Ireland
+195,32.1,2,DT Johnston,2011-03-18,1st,RN ten Doeschate,68,,PW Borren,35,Ireland,Netherlands,175,Ireland,Eden Gardens,4,Ireland
+196,32.2,1,DT Johnston,2011-03-18,1st,RN ten Doeschate,68,,PW Borren,36,Ireland,Netherlands,176,Ireland,Eden Gardens,4,Ireland
+197,32.3,1,DT Johnston,2011-03-18,1st,PW Borren,36,,RN ten Doeschate,69,Ireland,Netherlands,177,Ireland,Eden Gardens,4,Ireland
+198,32.4,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,69,,PW Borren,36,Ireland,Netherlands,177,Ireland,Eden Gardens,4,Ireland
+199,32.5,1,DT Johnston,2011-03-18,1st,RN ten Doeschate,69,,PW Borren,37,Ireland,Netherlands,178,Ireland,Eden Gardens,4,Ireland
+200,32.6,0,DT Johnston,2011-03-18,1st,PW Borren,37,,RN ten Doeschate,69,Ireland,Netherlands,178,Ireland,Eden Gardens,4,Ireland
+201,33.1,1,AR Cusack,2011-03-18,1st,RN ten Doeschate,69,,PW Borren,38,Ireland,Netherlands,179,Ireland,Eden Gardens,4,Ireland
+202,33.2,1,AR Cusack,2011-03-18,1st,PW Borren,38,,RN ten Doeschate,70,Ireland,Netherlands,180,Ireland,Eden Gardens,4,Ireland
+203,33.3,0,AR Cusack,2011-03-18,1st,RN ten Doeschate,70,,PW Borren,38,Ireland,Netherlands,180,Ireland,Eden Gardens,4,Ireland
+204,33.4,1,AR Cusack,2011-03-18,1st,RN ten Doeschate,70,,PW Borren,39,Ireland,Netherlands,181,Ireland,Eden Gardens,4,Ireland
+205,33.5,1,AR Cusack,2011-03-18,1st,PW Borren,39,,RN ten Doeschate,71,Ireland,Netherlands,182,Ireland,Eden Gardens,4,Ireland
+206,33.6,0,AR Cusack,2011-03-18,1st,RN ten Doeschate,71,,PW Borren,39,Ireland,Netherlands,182,Ireland,Eden Gardens,4,Ireland
+207,34.1,0,DT Johnston,2011-03-18,1st,PW Borren,39,,RN ten Doeschate,71,Ireland,Netherlands,182,Ireland,Eden Gardens,4,Ireland
+208,34.2,1,DT Johnston,2011-03-18,1st,PW Borren,39,,RN ten Doeschate,72,Ireland,Netherlands,183,Ireland,Eden Gardens,4,Ireland
+209,34.3,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,72,,PW Borren,39,Ireland,Netherlands,183,Ireland,Eden Gardens,4,Ireland
+210,34.4,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,72,,PW Borren,39,Ireland,Netherlands,183,Ireland,Eden Gardens,4,Ireland
+211,34.5,0,DT Johnston,2011-03-18,1st,RN ten Doeschate,72,,PW Borren,39,Ireland,Netherlands,184,Ireland,Eden Gardens,4,Ireland
+212,34.6,3,DT Johnston,2011-03-18,1st,PW Borren,39,,RN ten Doeschate,75,Ireland,Netherlands,187,Ireland,Eden Gardens,4,Ireland
+213,35.1,0,AR Cusack,2011-03-18,1st,PW Borren,39,,RN ten Doeschate,75,Ireland,Netherlands,187,Ireland,Eden Gardens,4,Ireland
+214,35.2,2,AR Cusack,2011-03-18,1st,PW Borren,39,,RN ten Doeschate,77,Ireland,Netherlands,189,Ireland,Eden Gardens,4,Ireland
+215,35.3,1,AR Cusack,2011-03-18,1st,PW Borren,39,,RN ten Doeschate,78,Ireland,Netherlands,190,Ireland,Eden Gardens,4,Ireland
+216,35.4,2,AR Cusack,2011-03-18,1st,RN ten Doeschate,78,,PW Borren,41,Ireland,Netherlands,192,Ireland,Eden Gardens,4,Ireland
+217,35.5,4,AR Cusack,2011-03-18,1st,RN ten Doeschate,78,,PW Borren,45,Ireland,Netherlands,196,Ireland,Eden Gardens,4,Ireland
+218,35.6,1,AR Cusack,2011-03-18,1st,RN ten Doeschate,78,,PW Borren,46,Ireland,Netherlands,197,Ireland,Eden Gardens,4,Ireland
+219,36.1,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,78,,PW Borren,46,Ireland,Netherlands,198,Ireland,Eden Gardens,4,Ireland
+220,36.2,0,WB Rankin,2011-03-18,1st,PW Borren,46,,RN ten Doeschate,78,Ireland,Netherlands,199,Ireland,Eden Gardens,4,Ireland
+221,36.3,1,WB Rankin,2011-03-18,1st,PW Borren,46,,RN ten Doeschate,79,Ireland,Netherlands,200,Ireland,Eden Gardens,4,Ireland
+222,36.4,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,79,,PW Borren,46,Ireland,Netherlands,200,Ireland,Eden Gardens,4,Ireland
+223,36.5,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,79,,PW Borren,46,Ireland,Netherlands,200,Ireland,Eden Gardens,4,Ireland
+224,36.6,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,79,,PW Borren,46,Ireland,Netherlands,200,Ireland,Eden Gardens,4,Ireland
+225,36.7,0,WB Rankin,2011-03-18,1st,RN ten Doeschate,79,,PW Borren,46,Ireland,Netherlands,200,Ireland,Eden Gardens,4,Ireland
+226,37.1,1,KJ O'Brien,2011-03-18,1st,PW Borren,46,,RN ten Doeschate,80,Ireland,Netherlands,201,Ireland,Eden Gardens,4,Ireland
+227,37.2,1,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,80,,PW Borren,47,Ireland,Netherlands,202,Ireland,Eden Gardens,4,Ireland
+228,37.3,4,KJ O'Brien,2011-03-18,1st,PW Borren,47,,RN ten Doeschate,84,Ireland,Netherlands,206,Ireland,Eden Gardens,4,Ireland
+229,37.4,4,KJ O'Brien,2011-03-18,1st,PW Borren,47,,RN ten Doeschate,88,Ireland,Netherlands,210,Ireland,Eden Gardens,4,Ireland
+230,37.5,1,KJ O'Brien,2011-03-18,1st,PW Borren,47,,RN ten Doeschate,89,Ireland,Netherlands,211,Ireland,Eden Gardens,4,Ireland
+231,37.6,4,KJ O'Brien,2011-03-18,1st,RN ten Doeschate,89,,PW Borren,51,Ireland,Netherlands,215,Ireland,Eden Gardens,4,Ireland
+232,38.1,0,WB Rankin,2011-03-18,1st,PW Borren,51,,RN ten Doeschate,89,Ireland,Netherlands,215,Ireland,Eden Gardens,4,Ireland
+233,38.2,4,WB Rankin,2011-03-18,1st,PW Borren,51,,RN ten Doeschate,93,Ireland,Netherlands,219,Ireland,Eden Gardens,4,Ireland
+234,38.3,1,WB Rankin,2011-03-18,1st,PW Borren,51,,RN ten Doeschate,94,Ireland,Netherlands,220,Ireland,Eden Gardens,4,Ireland
+235,38.4,1,WB Rankin,2011-03-18,1st,RN ten Doeschate,94,,PW Borren,52,Ireland,Netherlands,221,Ireland,Eden Gardens,4,Ireland
+236,38.5,4,WB Rankin,2011-03-18,1st,PW Borren,52,,RN ten Doeschate,98,Ireland,Netherlands,225,Ireland,Eden Gardens,4,Ireland
+237,38.6,2,WB Rankin,2011-03-18,1st,PW Borren,52,,RN ten Doeschate,100,Ireland,Netherlands,227,Ireland,Eden Gardens,4,Ireland
+238,39.1,1,PR Stirling,2011-03-18,1st,RN ten Doeschate,100,,PW Borren,53,Ireland,Netherlands,228,Ireland,Eden Gardens,4,Ireland
+239,39.2,0,PR Stirling,2011-03-18,1st,PW Borren,53,,RN ten Doeschate,100,Ireland,Netherlands,228,Ireland,Eden Gardens,4,Ireland
+240,39.3,0,PR Stirling,2011-03-18,1st,PW Borren,53,,RN ten Doeschate,100,Ireland,Netherlands,228,Ireland,Eden Gardens,4,Ireland
+241,39.4,6,PR Stirling,2011-03-18,1st,PW Borren,53,,RN ten Doeschate,106,Ireland,Netherlands,234,Ireland,Eden Gardens,4,Ireland
+242,39.5,0,PR Stirling,2011-03-18,1st,PW Borren,53,RN ten Doeschate,RN ten Doeschate,106,Ireland,Netherlands,234,Ireland,Eden Gardens,5,Ireland
+243,39.6,1,PR Stirling,2011-03-18,1st,AF Buurman,0,,PW Borren,54,Ireland,Netherlands,235,Ireland,Eden Gardens,5,Ireland
+244,40.1,0,JF Mooney,2011-03-18,1st,AF Buurman,0,,PW Borren,54,Ireland,Netherlands,235,Ireland,Eden Gardens,5,Ireland
+245,40.2,0,JF Mooney,2011-03-18,1st,AF Buurman,0,,PW Borren,54,Ireland,Netherlands,235,Ireland,Eden Gardens,5,Ireland
+246,40.3,1,JF Mooney,2011-03-18,1st,AF Buurman,0,,PW Borren,55,Ireland,Netherlands,236,Ireland,Eden Gardens,5,Ireland
+247,40.4,0,JF Mooney,2011-03-18,1st,PW Borren,55,,AF Buurman,0,Ireland,Netherlands,236,Ireland,Eden Gardens,5,Ireland
+248,40.5,0,JF Mooney,2011-03-18,1st,PW Borren,55,,AF Buurman,0,Ireland,Netherlands,236,Ireland,Eden Gardens,5,Ireland
+249,40.6,1,JF Mooney,2011-03-18,1st,PW Borren,55,,AF Buurman,1,Ireland,Netherlands,237,Ireland,Eden Gardens,5,Ireland
+250,41.1,0,PR Stirling,2011-03-18,1st,PW Borren,55,,AF Buurman,1,Ireland,Netherlands,237,Ireland,Eden Gardens,5,Ireland
+251,41.2,1,PR Stirling,2011-03-18,1st,PW Borren,55,,AF Buurman,2,Ireland,Netherlands,238,Ireland,Eden Gardens,5,Ireland
+252,41.3,0,PR Stirling,2011-03-18,1st,AF Buurman,2,,PW Borren,55,Ireland,Netherlands,238,Ireland,Eden Gardens,5,Ireland
+253,41.4,4,PR Stirling,2011-03-18,1st,AF Buurman,2,,PW Borren,59,Ireland,Netherlands,242,Ireland,Eden Gardens,5,Ireland
+254,41.5,0,PR Stirling,2011-03-18,1st,AF Buurman,2,,PW Borren,59,Ireland,Netherlands,242,Ireland,Eden Gardens,5,Ireland
+255,41.6,0,PR Stirling,2011-03-18,1st,AF Buurman,2,,PW Borren,59,Ireland,Netherlands,242,Ireland,Eden Gardens,5,Ireland
+256,42.1,0,JF Mooney,2011-03-18,1st,PW Borren,59,,AF Buurman,2,Ireland,Netherlands,242,Ireland,Eden Gardens,5,Ireland
+257,42.2,4,JF Mooney,2011-03-18,1st,PW Borren,59,,AF Buurman,6,Ireland,Netherlands,246,Ireland,Eden Gardens,5,Ireland
+258,42.3,2,JF Mooney,2011-03-18,1st,PW Borren,59,,AF Buurman,8,Ireland,Netherlands,248,Ireland,Eden Gardens,5,Ireland
+259,42.4,0,JF Mooney,2011-03-18,1st,PW Borren,59,,AF Buurman,8,Ireland,Netherlands,248,Ireland,Eden Gardens,5,Ireland
+260,42.5,0,JF Mooney,2011-03-18,1st,PW Borren,59,,AF Buurman,8,Ireland,Netherlands,248,Ireland,Eden Gardens,5,Ireland
+261,42.6,4,JF Mooney,2011-03-18,1st,PW Borren,59,,AF Buurman,12,Ireland,Netherlands,252,Ireland,Eden Gardens,5,Ireland
+262,43.1,2,DT Johnston,2011-03-18,1st,AF Buurman,12,,PW Borren,61,Ireland,Netherlands,254,Ireland,Eden Gardens,5,Ireland
+263,43.2,0,DT Johnston,2011-03-18,1st,AF Buurman,12,,PW Borren,61,Ireland,Netherlands,254,Ireland,Eden Gardens,5,Ireland
+264,43.3,0,DT Johnston,2011-03-18,1st,AF Buurman,12,,PW Borren,61,Ireland,Netherlands,254,Ireland,Eden Gardens,5,Ireland
+265,43.4,4,DT Johnston,2011-03-18,1st,AF Buurman,12,,PW Borren,65,Ireland,Netherlands,258,Ireland,Eden Gardens,5,Ireland
+266,43.5,1,DT Johnston,2011-03-18,1st,AF Buurman,12,,PW Borren,66,Ireland,Netherlands,259,Ireland,Eden Gardens,5,Ireland
+267,43.6,0,DT Johnston,2011-03-18,1st,PW Borren,66,,AF Buurman,12,Ireland,Netherlands,259,Ireland,Eden Gardens,5,Ireland
+268,44.1,4,JF Mooney,2011-03-18,1st,AF Buurman,12,,PW Borren,70,Ireland,Netherlands,263,Ireland,Eden Gardens,5,Ireland
+269,44.2,0,JF Mooney,2011-03-18,1st,AF Buurman,12,,PW Borren,70,Ireland,Netherlands,263,Ireland,Eden Gardens,5,Ireland
+270,44.3,1,JF Mooney,2011-03-18,1st,AF Buurman,12,,PW Borren,71,Ireland,Netherlands,264,Ireland,Eden Gardens,5,Ireland
+271,44.4,2,JF Mooney,2011-03-18,1st,PW Borren,71,,AF Buurman,14,Ireland,Netherlands,266,Ireland,Eden Gardens,5,Ireland
+272,44.5,0,JF Mooney,2011-03-18,1st,PW Borren,71,,AF Buurman,14,Ireland,Netherlands,266,Ireland,Eden Gardens,5,Ireland
+273,44.6,4,JF Mooney,2011-03-18,1st,PW Borren,71,,AF Buurman,18,Ireland,Netherlands,270,Ireland,Eden Gardens,5,Ireland
+274,45.1,4,DT Johnston,2011-03-18,1st,AF Buurman,18,,PW Borren,75,Ireland,Netherlands,274,Ireland,Eden Gardens,5,Ireland
+275,45.2,2,DT Johnston,2011-03-18,1st,AF Buurman,18,,PW Borren,77,Ireland,Netherlands,276,Ireland,Eden Gardens,5,Ireland
+276,45.3,1,DT Johnston,2011-03-18,1st,AF Buurman,18,,PW Borren,78,Ireland,Netherlands,277,Ireland,Eden Gardens,5,Ireland
+277,45.4,4,DT Johnston,2011-03-18,1st,PW Borren,78,,AF Buurman,22,Ireland,Netherlands,281,Ireland,Eden Gardens,5,Ireland
+278,45.5,0,DT Johnston,2011-03-18,1st,PW Borren,78,,AF Buurman,22,Ireland,Netherlands,281,Ireland,Eden Gardens,5,Ireland
+279,45.6,0,DT Johnston,2011-03-18,1st,PW Borren,78,,AF Buurman,22,Ireland,Netherlands,281,Ireland,Eden Gardens,5,Ireland
+280,46.1,2,JF Mooney,2011-03-18,1st,AF Buurman,22,,PW Borren,80,Ireland,Netherlands,283,Ireland,Eden Gardens,5,Ireland
+281,46.2,0,JF Mooney,2011-03-18,1st,AF Buurman,22,,PW Borren,80,Ireland,Netherlands,283,Ireland,Eden Gardens,5,Ireland
+282,46.3,2,JF Mooney,2011-03-18,1st,AF Buurman,22,,PW Borren,82,Ireland,Netherlands,285,Ireland,Eden Gardens,5,Ireland
+283,46.4,2,JF Mooney,2011-03-18,1st,AF Buurman,22,,PW Borren,84,Ireland,Netherlands,287,Ireland,Eden Gardens,5,Ireland
+284,46.5,0,JF Mooney,2011-03-18,1st,AF Buurman,22,PW Borren,PW Borren,84,Ireland,Netherlands,287,Ireland,Eden Gardens,6,Ireland
+285,46.6,0,JF Mooney,2011-03-18,1st,AF Buurman,22,,Mudassar Bukhari,0,Ireland,Netherlands,287,Ireland,Eden Gardens,6,Ireland
+286,47.1,1,DT Johnston,2011-03-18,1st,Mudassar Bukhari,0,,AF Buurman,23,Ireland,Netherlands,288,Ireland,Eden Gardens,6,Ireland
+287,47.2,1,DT Johnston,2011-03-18,1st,AF Buurman,23,,Mudassar Bukhari,1,Ireland,Netherlands,289,Ireland,Eden Gardens,6,Ireland
+288,47.3,0,DT Johnston,2011-03-18,1st,Mudassar Bukhari,1,,AF Buurman,23,Ireland,Netherlands,289,Ireland,Eden Gardens,6,Ireland
+289,47.4,1,DT Johnston,2011-03-18,1st,Mudassar Bukhari,1,,AF Buurman,24,Ireland,Netherlands,290,Ireland,Eden Gardens,6,Ireland
+290,47.5,1,DT Johnston,2011-03-18,1st,AF Buurman,24,,Mudassar Bukhari,2,Ireland,Netherlands,291,Ireland,Eden Gardens,6,Ireland
+291,47.6,0,DT Johnston,2011-03-18,1st,Mudassar Bukhari,2,,AF Buurman,24,Ireland,Netherlands,291,Ireland,Eden Gardens,6,Ireland
+292,48.1,6,WB Rankin,2011-03-18,1st,AF Buurman,24,,Mudassar Bukhari,8,Ireland,Netherlands,297,Ireland,Eden Gardens,6,Ireland
+293,48.2,1,WB Rankin,2011-03-18,1st,AF Buurman,24,,Mudassar Bukhari,9,Ireland,Netherlands,298,Ireland,Eden Gardens,6,Ireland
+294,48.3,0,WB Rankin,2011-03-18,1st,Mudassar Bukhari,9,,AF Buurman,24,Ireland,Netherlands,299,Ireland,Eden Gardens,6,Ireland
+295,48.4,0,WB Rankin,2011-03-18,1st,Mudassar Bukhari,9,,AF Buurman,24,Ireland,Netherlands,300,Ireland,Eden Gardens,6,Ireland
+296,48.5,0,WB Rankin,2011-03-18,1st,Mudassar Bukhari,9,,AF Buurman,24,Ireland,Netherlands,300,Ireland,Eden Gardens,6,Ireland
+297,48.6,1,WB Rankin,2011-03-18,1st,Mudassar Bukhari,9,,AF Buurman,25,Ireland,Netherlands,301,Ireland,Eden Gardens,6,Ireland
+298,48.7,1,WB Rankin,2011-03-18,1st,AF Buurman,25,,Mudassar Bukhari,10,Ireland,Netherlands,302,Ireland,Eden Gardens,6,Ireland
+299,48.8,1,WB Rankin,2011-03-18,1st,Mudassar Bukhari,10,,AF Buurman,26,Ireland,Netherlands,303,Ireland,Eden Gardens,6,Ireland
+300,49.1,0,KJ O'Brien,2011-03-18,1st,Mudassar Bukhari,10,,AF Buurman,26,Ireland,Netherlands,303,Ireland,Eden Gardens,6,Ireland
+301,49.2,0,KJ O'Brien,2011-03-18,1st,Mudassar Bukhari,10,,AF Buurman,26,Ireland,Netherlands,303,Ireland,Eden Gardens,6,Ireland
+302,49.3,0,KJ O'Brien,2011-03-18,1st,Mudassar Bukhari,10,,AF Buurman,26,Ireland,Netherlands,303,Ireland,Eden Gardens,6,Ireland
+303,49.4,0,KJ O'Brien,2011-03-18,1st,Mudassar Bukhari,10,,AF Buurman,26,Ireland,Netherlands,304,Ireland,Eden Gardens,6,Ireland
+304,49.5,0,KJ O'Brien,2011-03-18,1st,Mudassar Bukhari,10,AF Buurman,AF Buurman,26,Ireland,Netherlands,305,Ireland,Eden Gardens,7,Ireland
+305,49.6,0,KJ O'Brien,2011-03-18,1st,Mudassar Bukhari,10,PM Seelaar,PM Seelaar,0,Ireland,Netherlands,305,Ireland,Eden Gardens,8,Ireland
+306,49.7,0,KJ O'Brien,2011-03-18,1st,Adeel Raja,0,Adeel Raja,Mudassar Bukhari,10,Ireland,Netherlands,305,Ireland,Eden Gardens,9,Ireland
+307,49.8,1,KJ O'Brien,2011-03-18,1st,BP Loots,0,Mudassar Bukhari,Mudassar Bukhari,11,Ireland,Netherlands,306,Ireland,Eden Gardens,10,Ireland
+308,0.1,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,0,Ireland,Eden Gardens,0,Ireland
+309,0.2,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,0,Ireland,Eden Gardens,0,Ireland
+310,0.3,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,0,Ireland,Eden Gardens,0,Ireland
+311,0.4,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,0,Ireland,Eden Gardens,0,Ireland
+312,0.5,1,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,1,Ireland,Eden Gardens,0,Ireland
+313,0.6,6,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+314,1.1,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+315,1.2,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+316,1.3,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+317,1.4,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+318,1.5,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+319,1.6,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,7,Ireland,Eden Gardens,0,Ireland
+320,2.1,4,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,11,Ireland,Eden Gardens,0,Ireland
+321,2.2,0,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,12,Ireland,Eden Gardens,0,Ireland
+322,2.3,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,12,Ireland,Eden Gardens,0,Ireland
+323,2.4,1,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,13,Ireland,Eden Gardens,0,Ireland
+324,2.5,4,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,17,Ireland,Eden Gardens,0,Ireland
+325,2.6,0,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,21,Ireland,Eden Gardens,0,Ireland
+326,3.1,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,21,Ireland,Eden Gardens,0,Ireland
+327,3.2,4,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,25,Ireland,Eden Gardens,0,Ireland
+328,3.3,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,25,Ireland,Eden Gardens,0,Ireland
+329,3.4,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,25,Ireland,Eden Gardens,0,Ireland
+330,3.5,1,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,26,Ireland,Eden Gardens,0,Ireland
+331,3.6,0,Adeel Raja,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,26,Ireland,Eden Gardens,0,Ireland
+332,4.1,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,26,Ireland,Eden Gardens,0,Ireland
+333,4.2,4,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,30,Ireland,Eden Gardens,0,Ireland
+334,4.3,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,30,Ireland,Eden Gardens,0,Ireland
+335,4.4,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,30,Ireland,Eden Gardens,0,Ireland
+336,4.5,4,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,34,Ireland,Eden Gardens,0,Ireland
+337,4.6,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,34,Ireland,Eden Gardens,0,Ireland
+338,5.1,4,Adeel Raja,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,38,Ireland,Eden Gardens,0,Ireland
+339,5.2,0,Adeel Raja,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,38,Ireland,Eden Gardens,0,Ireland
+340,5.3,4,Adeel Raja,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,42,Ireland,Eden Gardens,0,Ireland
+341,5.4,4,Adeel Raja,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,46,Ireland,Eden Gardens,0,Ireland
+342,5.5,1,Adeel Raja,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,47,Ireland,Eden Gardens,0,Ireland
+343,5.6,0,Adeel Raja,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,47,Ireland,Eden Gardens,0,Ireland
+344,6.1,0,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,47,Ireland,Eden Gardens,0,Ireland
+345,6.2,0,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,47,Ireland,Eden Gardens,0,Ireland
+346,6.3,1,Mudassar Bukhari,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,48,Ireland,Eden Gardens,0,Ireland
+347,6.4,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,48,Ireland,Eden Gardens,0,Ireland
+348,6.5,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,48,Ireland,Eden Gardens,0,Ireland
+349,6.6,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,48,Ireland,Eden Gardens,0,Ireland
+350,7.1,0,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,48,Ireland,Eden Gardens,0,Ireland
+351,7.2,4,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,52,Ireland,Eden Gardens,0,Ireland
+352,7.3,0,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,52,Ireland,Eden Gardens,0,Ireland
+353,7.4,1,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,53,Ireland,Eden Gardens,0,Ireland
+354,7.5,4,BP Loots,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,57,Ireland,Eden Gardens,0,Ireland
+355,7.6,1,BP Loots,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,58,Ireland,Eden Gardens,0,Ireland
+356,8.1,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,58,Ireland,Eden Gardens,0,Ireland
+357,8.2,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,58,Ireland,Eden Gardens,0,Ireland
+358,8.3,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,58,Ireland,Eden Gardens,0,Ireland
+359,8.4,4,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,62,Ireland,Eden Gardens,0,Ireland
+360,8.5,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,62,Ireland,Eden Gardens,0,Ireland
+361,8.6,0,Mudassar Bukhari,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,62,Ireland,Eden Gardens,0,Ireland
+362,9.1,4,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,66,Ireland,Eden Gardens,0,Ireland
+363,9.2,6,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,72,Ireland,Eden Gardens,0,Ireland
+364,9.3,4,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,76,Ireland,Eden Gardens,0,Ireland
+365,9.4,1,BP Loots,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,77,Ireland,Eden Gardens,0,Ireland
+366,9.5,0,BP Loots,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,77,Ireland,Eden Gardens,0,Ireland
+367,9.6,4,BP Loots,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,81,Ireland,Eden Gardens,0,Ireland
+368,10.1,1,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,82,Ireland,Eden Gardens,0,Ireland
+369,10.2,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,82,Ireland,Eden Gardens,0,Ireland
+370,10.3,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,82,Ireland,Eden Gardens,0,Ireland
+371,10.4,1,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,83,Ireland,Eden Gardens,0,Ireland
+372,10.5,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,83,Ireland,Eden Gardens,0,Ireland
+373,10.6,1,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,84,Ireland,Eden Gardens,0,Ireland
+374,11.1,0,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,84,Ireland,Eden Gardens,0,Ireland
+375,11.2,0,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,84,Ireland,Eden Gardens,0,Ireland
+376,11.3,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,85,Ireland,Eden Gardens,0,Ireland
+377,11.4,0,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,85,Ireland,Eden Gardens,0,Ireland
+378,11.5,0,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,85,Ireland,Eden Gardens,0,Ireland
+379,11.6,1,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,86,Ireland,Eden Gardens,0,Ireland
+380,12.1,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,86,Ireland,Eden Gardens,0,Ireland
+381,12.2,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,86,Ireland,Eden Gardens,0,Ireland
+382,12.3,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,86,Ireland,Eden Gardens,0,Ireland
+383,12.4,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,86,Ireland,Eden Gardens,0,Ireland
+384,12.5,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,86,Ireland,Eden Gardens,0,Ireland
+385,12.6,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,86,Ireland,Eden Gardens,0,Ireland
+386,13.1,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,87,Ireland,Eden Gardens,0,Ireland
+387,13.2,0,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,87,Ireland,Eden Gardens,0,Ireland
+388,13.3,1,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,88,Ireland,Eden Gardens,0,Ireland
+389,13.4,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,89,Ireland,Eden Gardens,0,Ireland
+390,13.5,0,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,89,Ireland,Eden Gardens,0,Ireland
+391,13.6,0,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,89,Ireland,Eden Gardens,0,Ireland
+392,14.1,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,89,Ireland,Eden Gardens,0,Ireland
+393,14.2,1,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,90,Ireland,Eden Gardens,0,Ireland
+394,14.3,2,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,92,Ireland,Eden Gardens,0,Ireland
+395,14.4,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,92,Ireland,Eden Gardens,0,Ireland
+396,14.5,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,92,Ireland,Eden Gardens,0,Ireland
+397,14.6,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,92,Ireland,Eden Gardens,0,Ireland
+398,15.1,4,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,96,Ireland,Eden Gardens,0,Ireland
+399,15.2,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,97,Ireland,Eden Gardens,0,Ireland
+400,15.3,1,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,98,Ireland,Eden Gardens,0,Ireland
+401,15.4,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,99,Ireland,Eden Gardens,0,Ireland
+402,15.5,1,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,100,Ireland,Eden Gardens,0,Ireland
+403,15.6,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,101,Ireland,Eden Gardens,0,Ireland
+404,16.1,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,101,Ireland,Eden Gardens,0,Ireland
+405,16.2,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,101,Ireland,Eden Gardens,0,Ireland
+406,16.3,1,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,102,Ireland,Eden Gardens,0,Ireland
+407,16.4,1,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,103,Ireland,Eden Gardens,0,Ireland
+408,16.5,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,103,Ireland,Eden Gardens,0,Ireland
+409,16.6,4,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,107,Ireland,Eden Gardens,0,Ireland
+410,17.1,1,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,108,Ireland,Eden Gardens,0,Ireland
+411,17.2,1,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,109,Ireland,Eden Gardens,0,Ireland
+412,17.3,1,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,110,Ireland,Eden Gardens,0,Ireland
+413,17.4,0,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,111,Ireland,Eden Gardens,0,Ireland
+414,17.5,1,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,112,Ireland,Eden Gardens,0,Ireland
+415,17.6,1,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,113,Ireland,Eden Gardens,0,Ireland
+416,18.1,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,113,Ireland,Eden Gardens,0,Ireland
+417,18.2,1,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,114,Ireland,Eden Gardens,0,Ireland
+418,18.3,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,114,Ireland,Eden Gardens,0,Ireland
+419,18.4,1,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,115,Ireland,Eden Gardens,0,Ireland
+420,18.5,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,116,Ireland,Eden Gardens,0,Ireland
+421,18.6,4,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,120,Ireland,Eden Gardens,0,Ireland
+422,18.7,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,120,Ireland,Eden Gardens,0,Ireland
+423,19.1,1,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,121,Ireland,Eden Gardens,0,Ireland
+424,19.2,1,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,122,Ireland,Eden Gardens,0,Ireland
+425,19.3,4,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,126,Ireland,Eden Gardens,0,Ireland
+426,19.4,4,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,130,Ireland,Eden Gardens,0,Ireland
+427,19.5,1,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,131,Ireland,Eden Gardens,0,Ireland
+428,19.6,1,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,132,Ireland,Eden Gardens,0,Ireland
+429,20.1,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,133,Ireland,Eden Gardens,0,Ireland
+430,20.2,4,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,137,Ireland,Eden Gardens,0,Ireland
+431,20.3,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,137,Ireland,Eden Gardens,0,Ireland
+432,20.4,0,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,137,Ireland,Eden Gardens,0,Ireland
+433,20.5,3,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,140,Ireland,Eden Gardens,0,Ireland
+434,20.6,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,140,Ireland,Eden Gardens,0,Ireland
+435,21.1,0,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,140,Ireland,Eden Gardens,0,Ireland
+436,21.2,1,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,141,Ireland,Eden Gardens,0,Ireland
+437,21.3,0,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,142,Ireland,Eden Gardens,0,Ireland
+438,21.4,0,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,142,Ireland,Eden Gardens,0,Ireland
+439,21.5,0,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,142,Ireland,Eden Gardens,0,Ireland
+440,21.6,1,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,143,Ireland,Eden Gardens,0,Ireland
+441,22.1,1,RN ten Doeschate,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,144,Ireland,Eden Gardens,0,Ireland
+442,22.2,4,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,148,Ireland,Eden Gardens,0,Ireland
+443,22.3,4,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,152,Ireland,Eden Gardens,0,Ireland
+444,22.4,4,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,156,Ireland,Eden Gardens,0,Ireland
+445,22.5,0,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,156,Ireland,Eden Gardens,0,Ireland
+446,22.6,1,RN ten Doeschate,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,157,Ireland,Eden Gardens,0,Ireland
+447,23.1,0,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,157,Ireland,Eden Gardens,0,Ireland
+448,23.2,1,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,158,Ireland,Eden Gardens,0,Ireland
+449,23.3,0,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,158,Ireland,Eden Gardens,0,Ireland
+450,23.4,0,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,159,Ireland,Eden Gardens,0,Ireland
+451,23.5,3,PW Borren,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,162,Ireland,Eden Gardens,0,Ireland
+452,23.6,4,PW Borren,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,166,Ireland,Eden Gardens,0,Ireland
+453,24.1,0,TLW Cooper,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,166,Ireland,Eden Gardens,0,Ireland
+454,24.2,1,TLW Cooper,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,167,Ireland,Eden Gardens,0,Ireland
+455,24.3,0,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,167,Ireland,Eden Gardens,0,Ireland
+456,24.4,0,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,167,Ireland,Eden Gardens,0,Ireland
+457,24.5,0,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,167,Ireland,Eden Gardens,0,Ireland
+458,24.6,1,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,168,Ireland,Eden Gardens,0,Ireland
+459,25.1,1,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,169,Ireland,Eden Gardens,0,Ireland
+460,25.2,0,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,169,Ireland,Eden Gardens,0,Ireland
+461,25.3,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,170,Ireland,Eden Gardens,0,Ireland
+462,25.4,1,PM Seelaar,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,171,Ireland,Eden Gardens,0,Ireland
+463,25.5,2,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,173,Ireland,Eden Gardens,0,Ireland
+464,25.6,1,PM Seelaar,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,174,Ireland,Eden Gardens,0,Ireland
+465,26.1,1,TLW Cooper,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,175,Ireland,Eden Gardens,0,Ireland
+466,26.2,1,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,176,Ireland,Eden Gardens,0,Ireland
+467,26.3,1,TLW Cooper,2011-03-18,2nd,WTS Porterfield,0,,PR Stirling,0,Ireland,Netherlands,177,Ireland,Eden Gardens,0,Ireland
+468,26.4,0,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,177,Ireland,Eden Gardens,0,Ireland
+469,26.5,0,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,177,Ireland,Eden Gardens,0,Ireland
+470,26.6,0,TLW Cooper,2011-03-18,2nd,PR Stirling,0,,WTS Porterfield,0,Ireland,Netherlands,177,Ireland,Eden Gardens,1,Ireland
+471,27.1,2,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,PR Stirling,0,Ireland,Netherlands,179,Ireland,Eden Gardens,1,Ireland
+472,27.2,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,PR Stirling,0,Ireland,Netherlands,179,Ireland,Eden Gardens,1,Ireland
+473,27.3,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,PR Stirling,0,Ireland,Netherlands,179,Ireland,Eden Gardens,2,Ireland
+474,27.4,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,179,Ireland,Eden Gardens,2,Ireland
+475,27.5,4,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,183,Ireland,Eden Gardens,2,Ireland
+476,27.6,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,183,Ireland,Eden Gardens,2,Ireland
+477,28.1,1,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,184,Ireland,Eden Gardens,2,Ireland
+478,28.2,1,TLW Cooper,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,185,Ireland,Eden Gardens,2,Ireland
+479,28.3,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,185,Ireland,Eden Gardens,2,Ireland
+480,28.4,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,185,Ireland,Eden Gardens,2,Ireland
+481,28.5,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,185,Ireland,Eden Gardens,2,Ireland
+482,28.6,2,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+483,29.1,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+484,29.2,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+485,29.3,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+486,29.4,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+487,29.5,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+488,29.6,0,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+489,30.1,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+490,30.2,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+491,30.3,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+492,30.4,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+493,30.5,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,187,Ireland,Eden Gardens,2,Ireland
+494,30.6,1,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,188,Ireland,Eden Gardens,2,Ireland
+495,31.1,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,188,Ireland,Eden Gardens,2,Ireland
+496,31.2,4,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,192,Ireland,Eden Gardens,2,Ireland
+497,31.3,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,192,Ireland,Eden Gardens,2,Ireland
+498,31.4,4,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,196,Ireland,Eden Gardens,2,Ireland
+499,31.5,1,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,197,Ireland,Eden Gardens,2,Ireland
+500,31.6,1,PM Seelaar,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,198,Ireland,Eden Gardens,2,Ireland
+501,32.1,1,TLW Cooper,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,199,Ireland,Eden Gardens,2,Ireland
+502,32.2,1,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,200,Ireland,Eden Gardens,2,Ireland
+503,32.3,0,TLW Cooper,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,200,Ireland,Eden Gardens,2,Ireland
+504,32.4,0,TLW Cooper,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,200,Ireland,Eden Gardens,2,Ireland
+505,32.5,0,TLW Cooper,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,200,Ireland,Eden Gardens,2,Ireland
+506,32.6,2,TLW Cooper,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,202,Ireland,Eden Gardens,2,Ireland
+507,33.1,0,Adeel Raja,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,202,Ireland,Eden Gardens,2,Ireland
+508,33.2,1,Adeel Raja,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,203,Ireland,Eden Gardens,2,Ireland
+509,33.3,2,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,205,Ireland,Eden Gardens,2,Ireland
+510,33.4,0,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,205,Ireland,Eden Gardens,2,Ireland
+511,33.5,1,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,206,Ireland,Eden Gardens,2,Ireland
+512,33.6,1,Adeel Raja,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,207,Ireland,Eden Gardens,2,Ireland
+513,34.1,0,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,207,Ireland,Eden Gardens,2,Ireland
+514,34.2,2,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,209,Ireland,Eden Gardens,2,Ireland
+515,34.3,4,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,213,Ireland,Eden Gardens,2,Ireland
+516,34.4,0,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,213,Ireland,Eden Gardens,2,Ireland
+517,34.5,2,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,215,Ireland,Eden Gardens,2,Ireland
+518,34.6,0,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,215,Ireland,Eden Gardens,2,Ireland
+519,35.1,0,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,215,Ireland,Eden Gardens,2,Ireland
+520,35.2,0,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,215,Ireland,Eden Gardens,2,Ireland
+521,35.3,0,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,215,Ireland,Eden Gardens,2,Ireland
+522,35.4,0,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,215,Ireland,Eden Gardens,2,Ireland
+523,35.5,4,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,219,Ireland,Eden Gardens,2,Ireland
+524,35.6,1,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,220,Ireland,Eden Gardens,2,Ireland
+525,36.1,2,Mudassar Bukhari,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,222,Ireland,Eden Gardens,2,Ireland
+526,36.2,1,Mudassar Bukhari,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,223,Ireland,Eden Gardens,2,Ireland
+527,36.3,0,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,223,Ireland,Eden Gardens,2,Ireland
+528,36.4,0,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,223,Ireland,Eden Gardens,2,Ireland
+529,36.5,2,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,225,Ireland,Eden Gardens,2,Ireland
+530,36.6,0,Mudassar Bukhari,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,226,Ireland,Eden Gardens,2,Ireland
+531,37.1,1,Adeel Raja,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,227,Ireland,Eden Gardens,2,Ireland
+532,37.2,4,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,231,Ireland,Eden Gardens,2,Ireland
+533,37.3,1,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,232,Ireland,Eden Gardens,2,Ireland
+534,37.4,1,Adeel Raja,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,233,Ireland,Eden Gardens,2,Ireland
+535,37.5,0,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,233,Ireland,Eden Gardens,2,Ireland
+536,37.6,0,Adeel Raja,2011-03-18,2nd,EC Joyce,0,,NJ O'Brien,0,Ireland,Netherlands,233,Ireland,Eden Gardens,2,Ireland
+537,38.1,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,EC Joyce,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+538,38.2,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+539,38.3,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+540,38.4,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+541,38.5,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+542,38.6,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+543,39.1,0,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+544,39.2,0,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+545,39.3,0,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+546,39.4,0,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,233,Ireland,Eden Gardens,3,Ireland
+547,39.5,4,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,237,Ireland,Eden Gardens,3,Ireland
+548,39.6,1,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,238,Ireland,Eden Gardens,3,Ireland
+549,40.1,1,TLW Cooper,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,239,Ireland,Eden Gardens,3,Ireland
+550,40.2,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,239,Ireland,Eden Gardens,3,Ireland
+551,40.3,6,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,245,Ireland,Eden Gardens,3,Ireland
+552,40.4,6,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,251,Ireland,Eden Gardens,3,Ireland
+553,40.5,4,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,255,Ireland,Eden Gardens,3,Ireland
+554,40.6,0,TLW Cooper,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,255,Ireland,Eden Gardens,3,Ireland
+555,41.1,1,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,256,Ireland,Eden Gardens,3,Ireland
+556,41.2,1,Adeel Raja,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,257,Ireland,Eden Gardens,3,Ireland
+557,41.3,0,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,257,Ireland,Eden Gardens,3,Ireland
+558,41.4,0,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,257,Ireland,Eden Gardens,3,Ireland
+559,41.5,1,Adeel Raja,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,258,Ireland,Eden Gardens,3,Ireland
+560,41.6,1,Adeel Raja,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,259,Ireland,Eden Gardens,3,Ireland
+561,42.1,1,PW Borren,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,260,Ireland,Eden Gardens,3,Ireland
+562,42.2,4,PW Borren,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,264,Ireland,Eden Gardens,3,Ireland
+563,42.3,0,PW Borren,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,264,Ireland,Eden Gardens,3,Ireland
+564,42.4,4,PW Borren,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,268,Ireland,Eden Gardens,3,Ireland
+565,42.5,1,PW Borren,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,269,Ireland,Eden Gardens,3,Ireland
+566,42.6,1,PW Borren,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,270,Ireland,Eden Gardens,3,Ireland
+567,43.1,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,270,Ireland,Eden Gardens,3,Ireland
+568,43.2,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,270,Ireland,Eden Gardens,3,Ireland
+569,43.3,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,270,Ireland,Eden Gardens,3,Ireland
+570,43.4,1,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,271,Ireland,Eden Gardens,3,Ireland
+571,43.5,2,PM Seelaar,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,273,Ireland,Eden Gardens,3,Ireland
+572,43.6,0,PM Seelaar,2011-03-18,2nd,GC Wilson,0,,NJ O'Brien,0,Ireland,Netherlands,273,Ireland,Eden Gardens,3,Ireland
+573,44.1,4,RN ten Doeschate,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,277,Ireland,Eden Gardens,3,Ireland
+574,44.2,2,RN ten Doeschate,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,279,Ireland,Eden Gardens,3,Ireland
+575,44.3,0,RN ten Doeschate,2011-03-18,2nd,NJ O'Brien,0,,GC Wilson,0,Ireland,Netherlands,279,Ireland,Eden Gardens,4,Ireland
+576,44.4,2,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,281,Ireland,Eden Gardens,4,Ireland
+577,44.5,2,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,283,Ireland,Eden Gardens,4,Ireland
+578,44.6,0,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,283,Ireland,Eden Gardens,4,Ireland
+579,45.1,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,283,Ireland,Eden Gardens,4,Ireland
+580,45.2,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,283,Ireland,Eden Gardens,4,Ireland
+581,45.3,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,283,Ireland,Eden Gardens,4,Ireland
+582,45.4,0,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,283,Ireland,Eden Gardens,4,Ireland
+583,45.5,1,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,284,Ireland,Eden Gardens,4,Ireland
+584,45.6,1,PM Seelaar,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,285,Ireland,Eden Gardens,4,Ireland
+585,46.1,1,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,286,Ireland,Eden Gardens,4,Ireland
+586,46.2,1,RN ten Doeschate,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,287,Ireland,Eden Gardens,4,Ireland
+587,46.3,0,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,287,Ireland,Eden Gardens,4,Ireland
+588,46.4,0,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,287,Ireland,Eden Gardens,4,Ireland
+589,46.5,2,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,289,Ireland,Eden Gardens,4,Ireland
+590,46.6,4,RN ten Doeschate,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,293,Ireland,Eden Gardens,4,Ireland
+591,47.1,6,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,299,Ireland,Eden Gardens,4,Ireland
+592,47.2,1,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,300,Ireland,Eden Gardens,4,Ireland
+593,47.3,1,PM Seelaar,2011-03-18,2nd,KJ O'Brien,0,,NJ O'Brien,0,Ireland,Netherlands,301,Ireland,Eden Gardens,4,Ireland
+594,47.4,6,PM Seelaar,2011-03-18,2nd,NJ O'Brien,0,,KJ O'Brien,0,Ireland,Netherlands,307,Ireland,Eden Gardens,4,Ireland

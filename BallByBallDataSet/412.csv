@@ -1,0 +1,533 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,4,Mohammad Amir,2010-01-24,1st,SE Marsh,0,,SR Watson,4,Australia,Pakistan,4,Pakistan,Sydney Cricket Ground,0,Australia
+1,0.2,0,Mohammad Amir,2010-01-24,1st,SE Marsh,0,,SR Watson,4,Australia,Pakistan,5,Pakistan,Sydney Cricket Ground,0,Australia
+2,0.3,0,Mohammad Amir,2010-01-24,1st,SE Marsh,0,,SR Watson,4,Australia,Pakistan,5,Pakistan,Sydney Cricket Ground,0,Australia
+3,0.4,0,Mohammad Amir,2010-01-24,1st,SE Marsh,0,,SR Watson,4,Australia,Pakistan,5,Pakistan,Sydney Cricket Ground,0,Australia
+4,0.5,4,Mohammad Amir,2010-01-24,1st,SE Marsh,0,,SR Watson,8,Australia,Pakistan,9,Pakistan,Sydney Cricket Ground,0,Australia
+5,0.6,0,Mohammad Amir,2010-01-24,1st,SE Marsh,0,,SR Watson,8,Australia,Pakistan,9,Pakistan,Sydney Cricket Ground,0,Australia
+6,0.7,0,Mohammad Amir,2010-01-24,1st,SE Marsh,0,,SR Watson,8,Australia,Pakistan,9,Pakistan,Sydney Cricket Ground,0,Australia
+7,1.1,1,Umar Gul,2010-01-24,1st,SR Watson,8,,SE Marsh,1,Australia,Pakistan,10,Pakistan,Sydney Cricket Ground,0,Australia
+8,1.2,0,Umar Gul,2010-01-24,1st,SE Marsh,1,,SR Watson,8,Australia,Pakistan,10,Pakistan,Sydney Cricket Ground,0,Australia
+9,1.3,4,Umar Gul,2010-01-24,1st,SE Marsh,1,,SR Watson,12,Australia,Pakistan,14,Pakistan,Sydney Cricket Ground,0,Australia
+10,1.4,0,Umar Gul,2010-01-24,1st,SE Marsh,1,,SR Watson,12,Australia,Pakistan,14,Pakistan,Sydney Cricket Ground,0,Australia
+11,1.5,2,Umar Gul,2010-01-24,1st,SE Marsh,1,,SR Watson,14,Australia,Pakistan,16,Pakistan,Sydney Cricket Ground,0,Australia
+12,1.6,0,Umar Gul,2010-01-24,1st,SE Marsh,1,,SR Watson,14,Australia,Pakistan,16,Pakistan,Sydney Cricket Ground,0,Australia
+13,2.1,0,Mohammad Amir,2010-01-24,1st,SR Watson,14,,SE Marsh,1,Australia,Pakistan,16,Pakistan,Sydney Cricket Ground,0,Australia
+14,2.2,0,Mohammad Amir,2010-01-24,1st,SR Watson,14,,SE Marsh,1,Australia,Pakistan,16,Pakistan,Sydney Cricket Ground,0,Australia
+15,2.3,0,Mohammad Amir,2010-01-24,1st,SR Watson,14,,SE Marsh,1,Australia,Pakistan,16,Pakistan,Sydney Cricket Ground,0,Australia
+16,2.4,0,Mohammad Amir,2010-01-24,1st,SR Watson,14,,SE Marsh,1,Australia,Pakistan,16,Pakistan,Sydney Cricket Ground,0,Australia
+17,2.5,4,Mohammad Amir,2010-01-24,1st,SR Watson,14,,SE Marsh,5,Australia,Pakistan,20,Pakistan,Sydney Cricket Ground,0,Australia
+18,2.6,0,Mohammad Amir,2010-01-24,1st,SR Watson,14,,SE Marsh,5,Australia,Pakistan,20,Pakistan,Sydney Cricket Ground,0,Australia
+19,3.1,4,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,18,Australia,Pakistan,24,Pakistan,Sydney Cricket Ground,0,Australia
+20,3.2,0,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,18,Australia,Pakistan,24,Pakistan,Sydney Cricket Ground,0,Australia
+21,3.3,4,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,22,Australia,Pakistan,28,Pakistan,Sydney Cricket Ground,0,Australia
+22,3.4,0,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,22,Australia,Pakistan,28,Pakistan,Sydney Cricket Ground,0,Australia
+23,3.5,1,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,23,Australia,Pakistan,29,Pakistan,Sydney Cricket Ground,0,Australia
+24,3.6,0,Umar Gul,2010-01-24,1st,SR Watson,23,,SE Marsh,5,Australia,Pakistan,29,Pakistan,Sydney Cricket Ground,0,Australia
+25,4.1,4,Mohammad Amir,2010-01-24,1st,SE Marsh,5,,SR Watson,27,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,0,Australia
+26,4.2,0,Mohammad Amir,2010-01-24,1st,SE Marsh,5,,SR Watson,27,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,0,Australia
+27,4.3,2,Mohammad Amir,2010-01-24,1st,SE Marsh,5,,SR Watson,29,Australia,Pakistan,35,Pakistan,Sydney Cricket Ground,0,Australia
+28,4.4,2,Mohammad Amir,2010-01-24,1st,SE Marsh,5,,SR Watson,31,Australia,Pakistan,37,Pakistan,Sydney Cricket Ground,0,Australia
+29,4.5,0,Mohammad Amir,2010-01-24,1st,SE Marsh,5,,SR Watson,31,Australia,Pakistan,37,Pakistan,Sydney Cricket Ground,0,Australia
+30,4.6,3,Mohammad Amir,2010-01-24,1st,SE Marsh,5,,SR Watson,34,Australia,Pakistan,40,Pakistan,Sydney Cricket Ground,0,Australia
+31,5.1,0,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,34,Australia,Pakistan,40,Pakistan,Sydney Cricket Ground,0,Australia
+32,5.2,0,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,34,Australia,Pakistan,40,Pakistan,Sydney Cricket Ground,0,Australia
+33,5.3,1,Umar Gul,2010-01-24,1st,SE Marsh,5,,SR Watson,35,Australia,Pakistan,41,Pakistan,Sydney Cricket Ground,0,Australia
+34,5.4,1,Umar Gul,2010-01-24,1st,SR Watson,35,,SE Marsh,6,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,0,Australia
+35,5.5,0,Umar Gul,2010-01-24,1st,SE Marsh,6,,SR Watson,35,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,0,Australia
+36,5.6,0,Umar Gul,2010-01-24,1st,SE Marsh,6,,SR Watson,35,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,0,Australia
+37,6.1,1,Mohammad Amir,2010-01-24,1st,SR Watson,35,,SE Marsh,7,Australia,Pakistan,43,Pakistan,Sydney Cricket Ground,0,Australia
+38,6.2,0,Mohammad Amir,2010-01-24,1st,SE Marsh,7,,SR Watson,35,Australia,Pakistan,43,Pakistan,Sydney Cricket Ground,0,Australia
+39,6.3,0,Mohammad Amir,2010-01-24,1st,SE Marsh,7,,SR Watson,35,Australia,Pakistan,43,Pakistan,Sydney Cricket Ground,0,Australia
+40,6.4,0,Mohammad Amir,2010-01-24,1st,SE Marsh,7,,SR Watson,35,Australia,Pakistan,43,Pakistan,Sydney Cricket Ground,0,Australia
+41,6.5,0,Mohammad Amir,2010-01-24,1st,SE Marsh,7,,SR Watson,35,Australia,Pakistan,44,Pakistan,Sydney Cricket Ground,0,Australia
+42,6.6,0,Mohammad Amir,2010-01-24,1st,SR Watson,35,,SE Marsh,7,Australia,Pakistan,44,Pakistan,Sydney Cricket Ground,0,Australia
+43,7.1,0,Umar Gul,2010-01-24,1st,SE Marsh,7,,SR Watson,35,Australia,Pakistan,44,Pakistan,Sydney Cricket Ground,0,Australia
+44,7.2,1,Umar Gul,2010-01-24,1st,SE Marsh,7,,SR Watson,36,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,0,Australia
+45,7.3,0,Umar Gul,2010-01-24,1st,SR Watson,36,,SE Marsh,7,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,0,Australia
+46,7.4,0,Umar Gul,2010-01-24,1st,SR Watson,36,,SE Marsh,7,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,0,Australia
+47,7.5,0,Umar Gul,2010-01-24,1st,SR Watson,36,,SE Marsh,7,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,0,Australia
+48,7.6,2,Umar Gul,2010-01-24,1st,SR Watson,36,,SE Marsh,9,Australia,Pakistan,47,Pakistan,Sydney Cricket Ground,0,Australia
+49,8.1,0,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,9,,SR Watson,36,Australia,Pakistan,47,Pakistan,Sydney Cricket Ground,0,Australia
+50,8.2,0,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,9,,SR Watson,36,Australia,Pakistan,47,Pakistan,Sydney Cricket Ground,0,Australia
+51,8.3,1,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,9,,SR Watson,37,Australia,Pakistan,48,Pakistan,Sydney Cricket Ground,0,Australia
+52,8.4,0,Naved-ul-Hasan,2010-01-24,1st,SR Watson,37,,SE Marsh,9,Australia,Pakistan,48,Pakistan,Sydney Cricket Ground,0,Australia
+53,8.5,1,Naved-ul-Hasan,2010-01-24,1st,SR Watson,37,,SE Marsh,10,Australia,Pakistan,49,Pakistan,Sydney Cricket Ground,0,Australia
+54,8.6,6,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,10,,SR Watson,43,Australia,Pakistan,55,Pakistan,Sydney Cricket Ground,0,Australia
+55,9.1,1,Umar Gul,2010-01-24,1st,SR Watson,43,,SE Marsh,11,Australia,Pakistan,56,Pakistan,Sydney Cricket Ground,0,Australia
+56,9.2,4,Umar Gul,2010-01-24,1st,SE Marsh,11,,SR Watson,47,Australia,Pakistan,60,Pakistan,Sydney Cricket Ground,0,Australia
+57,9.3,0,Umar Gul,2010-01-24,1st,SE Marsh,11,,SR Watson,47,Australia,Pakistan,60,Pakistan,Sydney Cricket Ground,0,Australia
+58,9.4,1,Umar Gul,2010-01-24,1st,SE Marsh,11,,SR Watson,48,Australia,Pakistan,61,Pakistan,Sydney Cricket Ground,0,Australia
+59,9.5,0,Umar Gul,2010-01-24,1st,SR Watson,48,,SE Marsh,11,Australia,Pakistan,61,Pakistan,Sydney Cricket Ground,0,Australia
+60,9.6,4,Umar Gul,2010-01-24,1st,SR Watson,48,,SE Marsh,15,Australia,Pakistan,65,Pakistan,Sydney Cricket Ground,0,Australia
+61,10.1,0,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,15,,SR Watson,48,Australia,Pakistan,65,Pakistan,Sydney Cricket Ground,0,Australia
+62,10.2,2,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,15,,SR Watson,50,Australia,Pakistan,67,Pakistan,Sydney Cricket Ground,0,Australia
+63,10.3,0,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,15,,SR Watson,50,Australia,Pakistan,67,Pakistan,Sydney Cricket Ground,0,Australia
+64,10.4,1,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,15,,SR Watson,51,Australia,Pakistan,68,Pakistan,Sydney Cricket Ground,0,Australia
+65,10.5,0,Naved-ul-Hasan,2010-01-24,1st,SR Watson,51,,SE Marsh,15,Australia,Pakistan,68,Pakistan,Sydney Cricket Ground,0,Australia
+66,10.6,1,Naved-ul-Hasan,2010-01-24,1st,SR Watson,51,,SE Marsh,16,Australia,Pakistan,69,Pakistan,Sydney Cricket Ground,0,Australia
+67,11.1,0,Shahid Afridi,2010-01-24,1st,SR Watson,51,,SE Marsh,16,Australia,Pakistan,69,Pakistan,Sydney Cricket Ground,0,Australia
+68,11.2,1,Shahid Afridi,2010-01-24,1st,SR Watson,51,,SE Marsh,17,Australia,Pakistan,70,Pakistan,Sydney Cricket Ground,0,Australia
+69,11.3,0,Shahid Afridi,2010-01-24,1st,SE Marsh,17,,SR Watson,51,Australia,Pakistan,70,Pakistan,Sydney Cricket Ground,0,Australia
+70,11.4,0,Shahid Afridi,2010-01-24,1st,SE Marsh,17,,SR Watson,51,Australia,Pakistan,70,Pakistan,Sydney Cricket Ground,0,Australia
+71,11.5,0,Shahid Afridi,2010-01-24,1st,SE Marsh,17,,SR Watson,51,Australia,Pakistan,70,Pakistan,Sydney Cricket Ground,0,Australia
+72,11.6,3,Shahid Afridi,2010-01-24,1st,SE Marsh,17,,SR Watson,54,Australia,Pakistan,73,Pakistan,Sydney Cricket Ground,0,Australia
+73,12.1,0,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,17,,SR Watson,54,Australia,Pakistan,73,Pakistan,Sydney Cricket Ground,0,Australia
+74,12.2,4,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,17,,SR Watson,58,Australia,Pakistan,77,Pakistan,Sydney Cricket Ground,0,Australia
+75,12.3,2,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,17,,SR Watson,60,Australia,Pakistan,79,Pakistan,Sydney Cricket Ground,0,Australia
+76,12.4,1,Naved-ul-Hasan,2010-01-24,1st,SE Marsh,17,,SR Watson,61,Australia,Pakistan,80,Pakistan,Sydney Cricket Ground,0,Australia
+77,12.5,0,Naved-ul-Hasan,2010-01-24,1st,SR Watson,61,,SE Marsh,17,Australia,Pakistan,80,Pakistan,Sydney Cricket Ground,0,Australia
+78,12.6,0,Naved-ul-Hasan,2010-01-24,1st,SR Watson,61,,SE Marsh,17,Australia,Pakistan,80,Pakistan,Sydney Cricket Ground,0,Australia
+79,13.1,0,Shahid Afridi,2010-01-24,1st,SE Marsh,17,,SR Watson,61,Australia,Pakistan,80,Pakistan,Sydney Cricket Ground,0,Australia
+80,13.2,1,Shahid Afridi,2010-01-24,1st,SE Marsh,17,,SR Watson,62,Australia,Pakistan,81,Pakistan,Sydney Cricket Ground,0,Australia
+81,13.3,0,Shahid Afridi,2010-01-24,1st,SR Watson,62,,SE Marsh,17,Australia,Pakistan,81,Pakistan,Sydney Cricket Ground,0,Australia
+82,13.4,1,Shahid Afridi,2010-01-24,1st,SR Watson,62,,SE Marsh,18,Australia,Pakistan,82,Pakistan,Sydney Cricket Ground,0,Australia
+83,13.5,0,Shahid Afridi,2010-01-24,1st,SE Marsh,18,,SR Watson,62,Australia,Pakistan,82,Pakistan,Sydney Cricket Ground,0,Australia
+84,13.6,0,Shahid Afridi,2010-01-24,1st,SE Marsh,18,,SR Watson,62,Australia,Pakistan,82,Pakistan,Sydney Cricket Ground,0,Australia
+85,14.1,3,Saeed Ajmal,2010-01-24,1st,SR Watson,62,,SE Marsh,21,Australia,Pakistan,85,Pakistan,Sydney Cricket Ground,0,Australia
+86,14.2,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,21,,SR Watson,62,Australia,Pakistan,85,Pakistan,Sydney Cricket Ground,0,Australia
+87,14.3,4,Saeed Ajmal,2010-01-24,1st,SE Marsh,21,,SR Watson,66,Australia,Pakistan,89,Pakistan,Sydney Cricket Ground,0,Australia
+88,14.4,1,Saeed Ajmal,2010-01-24,1st,SE Marsh,21,,SR Watson,67,Australia,Pakistan,90,Pakistan,Sydney Cricket Ground,0,Australia
+89,14.5,1,Saeed Ajmal,2010-01-24,1st,SR Watson,67,,SE Marsh,22,Australia,Pakistan,91,Pakistan,Sydney Cricket Ground,0,Australia
+90,14.6,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,22,,SR Watson,67,Australia,Pakistan,91,Pakistan,Sydney Cricket Ground,0,Australia
+91,15.1,0,Shahid Afridi,2010-01-24,1st,SR Watson,67,,SE Marsh,22,Australia,Pakistan,91,Pakistan,Sydney Cricket Ground,0,Australia
+92,15.2,0,Shahid Afridi,2010-01-24,1st,SR Watson,67,,SE Marsh,22,Australia,Pakistan,91,Pakistan,Sydney Cricket Ground,0,Australia
+93,15.3,2,Shahid Afridi,2010-01-24,1st,SR Watson,67,,SE Marsh,24,Australia,Pakistan,93,Pakistan,Sydney Cricket Ground,0,Australia
+94,15.4,0,Shahid Afridi,2010-01-24,1st,SR Watson,67,,SE Marsh,24,Australia,Pakistan,93,Pakistan,Sydney Cricket Ground,0,Australia
+95,15.5,1,Shahid Afridi,2010-01-24,1st,SR Watson,67,,SE Marsh,25,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+96,15.6,0,Shahid Afridi,2010-01-24,1st,SE Marsh,25,,SR Watson,67,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+97,16.1,0,Saeed Ajmal,2010-01-24,1st,SR Watson,67,,SE Marsh,25,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+98,16.2,0,Saeed Ajmal,2010-01-24,1st,SR Watson,67,,SE Marsh,25,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+99,16.3,0,Saeed Ajmal,2010-01-24,1st,SR Watson,67,,SE Marsh,25,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+100,16.4,0,Saeed Ajmal,2010-01-24,1st,SR Watson,67,,SE Marsh,25,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+101,16.5,0,Saeed Ajmal,2010-01-24,1st,SR Watson,67,,SE Marsh,25,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+102,16.6,0,Saeed Ajmal,2010-01-24,1st,SR Watson,67,,SE Marsh,25,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+103,17.1,0,Shahid Afridi,2010-01-24,1st,SE Marsh,25,,SR Watson,67,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+104,17.2,0,Shahid Afridi,2010-01-24,1st,SE Marsh,25,,SR Watson,67,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+105,17.3,0,Shahid Afridi,2010-01-24,1st,SE Marsh,25,,SR Watson,67,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+106,17.4,0,Shahid Afridi,2010-01-24,1st,SE Marsh,25,,SR Watson,67,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,0,Australia
+107,17.5,1,Shahid Afridi,2010-01-24,1st,SE Marsh,25,,SR Watson,68,Australia,Pakistan,95,Pakistan,Sydney Cricket Ground,0,Australia
+108,17.6,1,Shahid Afridi,2010-01-24,1st,SR Watson,68,,SE Marsh,26,Australia,Pakistan,96,Pakistan,Sydney Cricket Ground,0,Australia
+109,18.1,1,Saeed Ajmal,2010-01-24,1st,SR Watson,68,,SE Marsh,27,Australia,Pakistan,97,Pakistan,Sydney Cricket Ground,0,Australia
+110,18.2,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,27,,SR Watson,68,Australia,Pakistan,97,Pakistan,Sydney Cricket Ground,0,Australia
+111,18.3,1,Saeed Ajmal,2010-01-24,1st,SE Marsh,27,,SR Watson,69,Australia,Pakistan,98,Pakistan,Sydney Cricket Ground,0,Australia
+112,18.4,0,Saeed Ajmal,2010-01-24,1st,SR Watson,69,,SE Marsh,27,Australia,Pakistan,98,Pakistan,Sydney Cricket Ground,0,Australia
+113,18.5,0,Saeed Ajmal,2010-01-24,1st,SR Watson,69,,SE Marsh,27,Australia,Pakistan,98,Pakistan,Sydney Cricket Ground,0,Australia
+114,18.6,1,Saeed Ajmal,2010-01-24,1st,SR Watson,69,,SE Marsh,28,Australia,Pakistan,99,Pakistan,Sydney Cricket Ground,0,Australia
+115,19.1,0,Shahid Afridi,2010-01-24,1st,SR Watson,69,,SE Marsh,28,Australia,Pakistan,99,Pakistan,Sydney Cricket Ground,0,Australia
+116,19.2,1,Shahid Afridi,2010-01-24,1st,SR Watson,69,,SE Marsh,29,Australia,Pakistan,100,Pakistan,Sydney Cricket Ground,0,Australia
+117,19.3,0,Shahid Afridi,2010-01-24,1st,SE Marsh,29,,SR Watson,69,Australia,Pakistan,100,Pakistan,Sydney Cricket Ground,0,Australia
+118,19.4,0,Shahid Afridi,2010-01-24,1st,SE Marsh,29,,SR Watson,69,Australia,Pakistan,100,Pakistan,Sydney Cricket Ground,0,Australia
+119,19.5,0,Shahid Afridi,2010-01-24,1st,SE Marsh,29,SR Watson,SR Watson,69,Australia,Pakistan,100,Pakistan,Sydney Cricket Ground,1,Australia
+120,19.6,1,Shahid Afridi,2010-01-24,1st,RT Ponting,0,,SE Marsh,30,Australia,Pakistan,101,Pakistan,Sydney Cricket Ground,1,Australia
+121,20.1,0,Saeed Ajmal,2010-01-24,1st,RT Ponting,0,,SE Marsh,30,Australia,Pakistan,101,Pakistan,Sydney Cricket Ground,1,Australia
+122,20.2,0,Saeed Ajmal,2010-01-24,1st,RT Ponting,0,,SE Marsh,30,Australia,Pakistan,101,Pakistan,Sydney Cricket Ground,1,Australia
+123,20.3,4,Saeed Ajmal,2010-01-24,1st,RT Ponting,0,,SE Marsh,34,Australia,Pakistan,105,Pakistan,Sydney Cricket Ground,1,Australia
+124,20.4,1,Saeed Ajmal,2010-01-24,1st,RT Ponting,0,,SE Marsh,35,Australia,Pakistan,106,Pakistan,Sydney Cricket Ground,1,Australia
+125,20.5,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,35,,RT Ponting,0,Australia,Pakistan,106,Pakistan,Sydney Cricket Ground,1,Australia
+126,20.6,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,35,,RT Ponting,0,Australia,Pakistan,106,Pakistan,Sydney Cricket Ground,1,Australia
+127,21.1,0,Shahid Afridi,2010-01-24,1st,RT Ponting,0,,SE Marsh,35,Australia,Pakistan,106,Pakistan,Sydney Cricket Ground,1,Australia
+128,21.2,4,Shahid Afridi,2010-01-24,1st,RT Ponting,0,,SE Marsh,39,Australia,Pakistan,110,Pakistan,Sydney Cricket Ground,1,Australia
+129,21.3,1,Shahid Afridi,2010-01-24,1st,RT Ponting,0,,SE Marsh,40,Australia,Pakistan,111,Pakistan,Sydney Cricket Ground,1,Australia
+130,21.4,0,Shahid Afridi,2010-01-24,1st,SE Marsh,40,,RT Ponting,0,Australia,Pakistan,111,Pakistan,Sydney Cricket Ground,1,Australia
+131,21.5,0,Shahid Afridi,2010-01-24,1st,SE Marsh,40,,RT Ponting,0,Australia,Pakistan,111,Pakistan,Sydney Cricket Ground,1,Australia
+132,21.6,0,Shahid Afridi,2010-01-24,1st,SE Marsh,40,,RT Ponting,0,Australia,Pakistan,111,Pakistan,Sydney Cricket Ground,1,Australia
+133,22.1,1,Saeed Ajmal,2010-01-24,1st,RT Ponting,0,,SE Marsh,41,Australia,Pakistan,112,Pakistan,Sydney Cricket Ground,1,Australia
+134,22.2,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,41,,RT Ponting,0,Australia,Pakistan,112,Pakistan,Sydney Cricket Ground,1,Australia
+135,22.3,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,41,,RT Ponting,0,Australia,Pakistan,112,Pakistan,Sydney Cricket Ground,1,Australia
+136,22.4,0,Saeed Ajmal,2010-01-24,1st,SE Marsh,41,,RT Ponting,0,Australia,Pakistan,112,Pakistan,Sydney Cricket Ground,1,Australia
+137,22.5,1,Saeed Ajmal,2010-01-24,1st,SE Marsh,41,,RT Ponting,1,Australia,Pakistan,113,Pakistan,Sydney Cricket Ground,1,Australia
+138,22.6,0,Saeed Ajmal,2010-01-24,1st,RT Ponting,1,,SE Marsh,41,Australia,Pakistan,113,Pakistan,Sydney Cricket Ground,1,Australia
+139,23.1,1,Shahid Afridi,2010-01-24,1st,SE Marsh,41,,RT Ponting,2,Australia,Pakistan,114,Pakistan,Sydney Cricket Ground,1,Australia
+140,23.2,0,Shahid Afridi,2010-01-24,1st,RT Ponting,2,,SE Marsh,41,Australia,Pakistan,114,Pakistan,Sydney Cricket Ground,1,Australia
+141,23.3,0,Shahid Afridi,2010-01-24,1st,RT Ponting,2,SE Marsh,SE Marsh,41,Australia,Pakistan,114,Pakistan,Sydney Cricket Ground,2,Australia
+142,23.4,1,Shahid Afridi,2010-01-24,1st,MJ Clarke,0,,RT Ponting,3,Australia,Pakistan,115,Pakistan,Sydney Cricket Ground,2,Australia
+143,23.5,0,Shahid Afridi,2010-01-24,1st,RT Ponting,3,,MJ Clarke,0,Australia,Pakistan,115,Pakistan,Sydney Cricket Ground,2,Australia
+144,23.6,0,Shahid Afridi,2010-01-24,1st,RT Ponting,3,,MJ Clarke,0,Australia,Pakistan,115,Pakistan,Sydney Cricket Ground,2,Australia
+145,24.1,0,Saeed Ajmal,2010-01-24,1st,MJ Clarke,0,,RT Ponting,3,Australia,Pakistan,115,Pakistan,Sydney Cricket Ground,2,Australia
+146,24.2,1,Saeed Ajmal,2010-01-24,1st,MJ Clarke,0,,RT Ponting,4,Australia,Pakistan,116,Pakistan,Sydney Cricket Ground,2,Australia
+147,24.3,2,Saeed Ajmal,2010-01-24,1st,RT Ponting,4,,MJ Clarke,2,Australia,Pakistan,118,Pakistan,Sydney Cricket Ground,2,Australia
+148,24.4,0,Saeed Ajmal,2010-01-24,1st,RT Ponting,4,,MJ Clarke,2,Australia,Pakistan,118,Pakistan,Sydney Cricket Ground,2,Australia
+149,24.5,0,Saeed Ajmal,2010-01-24,1st,RT Ponting,4,,MJ Clarke,2,Australia,Pakistan,118,Pakistan,Sydney Cricket Ground,2,Australia
+150,24.6,1,Saeed Ajmal,2010-01-24,1st,RT Ponting,4,,MJ Clarke,3,Australia,Pakistan,119,Pakistan,Sydney Cricket Ground,2,Australia
+151,25.1,1,Shahid Afridi,2010-01-24,1st,RT Ponting,4,,MJ Clarke,4,Australia,Pakistan,120,Pakistan,Sydney Cricket Ground,2,Australia
+152,25.2,0,Shahid Afridi,2010-01-24,1st,MJ Clarke,4,,RT Ponting,4,Australia,Pakistan,120,Pakistan,Sydney Cricket Ground,2,Australia
+153,25.3,1,Shahid Afridi,2010-01-24,1st,MJ Clarke,4,,RT Ponting,5,Australia,Pakistan,121,Pakistan,Sydney Cricket Ground,2,Australia
+154,25.4,2,Shahid Afridi,2010-01-24,1st,RT Ponting,5,,MJ Clarke,6,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,2,Australia
+155,25.5,0,Shahid Afridi,2010-01-24,1st,RT Ponting,5,,MJ Clarke,6,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,2,Australia
+156,25.6,1,Shahid Afridi,2010-01-24,1st,RT Ponting,5,,MJ Clarke,7,Australia,Pakistan,124,Pakistan,Sydney Cricket Ground,2,Australia
+157,26.1,1,Saeed Ajmal,2010-01-24,1st,RT Ponting,5,,MJ Clarke,8,Australia,Pakistan,125,Pakistan,Sydney Cricket Ground,2,Australia
+158,26.2,1,Saeed Ajmal,2010-01-24,1st,MJ Clarke,8,,RT Ponting,6,Australia,Pakistan,126,Pakistan,Sydney Cricket Ground,2,Australia
+159,26.3,0,Saeed Ajmal,2010-01-24,1st,RT Ponting,6,,MJ Clarke,8,Australia,Pakistan,126,Pakistan,Sydney Cricket Ground,2,Australia
+160,26.4,1,Saeed Ajmal,2010-01-24,1st,RT Ponting,6,,MJ Clarke,9,Australia,Pakistan,127,Pakistan,Sydney Cricket Ground,2,Australia
+161,26.5,1,Saeed Ajmal,2010-01-24,1st,MJ Clarke,9,,RT Ponting,7,Australia,Pakistan,128,Pakistan,Sydney Cricket Ground,2,Australia
+162,26.6,0,Saeed Ajmal,2010-01-24,1st,RT Ponting,7,,MJ Clarke,9,Australia,Pakistan,128,Pakistan,Sydney Cricket Ground,2,Australia
+163,27.1,1,Mohammad Amir,2010-01-24,1st,MJ Clarke,9,,RT Ponting,8,Australia,Pakistan,129,Pakistan,Sydney Cricket Ground,2,Australia
+164,27.2,0,Mohammad Amir,2010-01-24,1st,RT Ponting,8,,MJ Clarke,9,Australia,Pakistan,131,Pakistan,Sydney Cricket Ground,2,Australia
+165,27.3,1,Mohammad Amir,2010-01-24,1st,RT Ponting,8,,MJ Clarke,10,Australia,Pakistan,132,Pakistan,Sydney Cricket Ground,2,Australia
+166,27.4,0,Mohammad Amir,2010-01-24,1st,MJ Clarke,10,,RT Ponting,8,Australia,Pakistan,132,Pakistan,Sydney Cricket Ground,2,Australia
+167,27.5,0,Mohammad Amir,2010-01-24,1st,MJ Clarke,10,,RT Ponting,8,Australia,Pakistan,132,Pakistan,Sydney Cricket Ground,2,Australia
+168,27.6,1,Mohammad Amir,2010-01-24,1st,MJ Clarke,10,,RT Ponting,9,Australia,Pakistan,133,Pakistan,Sydney Cricket Ground,2,Australia
+169,28.1,1,Shoaib Malik,2010-01-24,1st,MJ Clarke,10,,RT Ponting,10,Australia,Pakistan,134,Pakistan,Sydney Cricket Ground,2,Australia
+170,28.2,0,Shoaib Malik,2010-01-24,1st,RT Ponting,10,,MJ Clarke,10,Australia,Pakistan,134,Pakistan,Sydney Cricket Ground,2,Australia
+171,28.3,1,Shoaib Malik,2010-01-24,1st,RT Ponting,10,,MJ Clarke,11,Australia,Pakistan,135,Pakistan,Sydney Cricket Ground,2,Australia
+172,28.4,0,Shoaib Malik,2010-01-24,1st,MJ Clarke,11,,RT Ponting,10,Australia,Pakistan,135,Pakistan,Sydney Cricket Ground,2,Australia
+173,28.5,1,Shoaib Malik,2010-01-24,1st,MJ Clarke,11,,RT Ponting,11,Australia,Pakistan,136,Pakistan,Sydney Cricket Ground,2,Australia
+174,28.6,0,Shoaib Malik,2010-01-24,1st,RT Ponting,11,,MJ Clarke,11,Australia,Pakistan,136,Pakistan,Sydney Cricket Ground,2,Australia
+175,29.1,0,Mohammad Amir,2010-01-24,1st,MJ Clarke,11,,RT Ponting,11,Australia,Pakistan,136,Pakistan,Sydney Cricket Ground,2,Australia
+176,29.2,0,Mohammad Amir,2010-01-24,1st,MJ Clarke,11,,RT Ponting,11,Australia,Pakistan,136,Pakistan,Sydney Cricket Ground,2,Australia
+177,29.3,2,Mohammad Amir,2010-01-24,1st,MJ Clarke,11,,RT Ponting,13,Australia,Pakistan,138,Pakistan,Sydney Cricket Ground,2,Australia
+178,29.4,0,Mohammad Amir,2010-01-24,1st,MJ Clarke,11,RT Ponting,RT Ponting,13,Australia,Pakistan,138,Pakistan,Sydney Cricket Ground,3,Australia
+179,29.5,0,Mohammad Amir,2010-01-24,1st,MJ Clarke,11,,CL White,0,Australia,Pakistan,138,Pakistan,Sydney Cricket Ground,3,Australia
+180,29.6,0,Mohammad Amir,2010-01-24,1st,MJ Clarke,11,,CL White,0,Australia,Pakistan,138,Pakistan,Sydney Cricket Ground,3,Australia
+181,30.1,0,Shoaib Malik,2010-01-24,1st,CL White,0,,MJ Clarke,11,Australia,Pakistan,138,Pakistan,Sydney Cricket Ground,3,Australia
+182,30.2,1,Shoaib Malik,2010-01-24,1st,CL White,0,,MJ Clarke,12,Australia,Pakistan,139,Pakistan,Sydney Cricket Ground,3,Australia
+183,30.3,0,Shoaib Malik,2010-01-24,1st,MJ Clarke,12,,CL White,0,Australia,Pakistan,139,Pakistan,Sydney Cricket Ground,3,Australia
+184,30.4,0,Shoaib Malik,2010-01-24,1st,MJ Clarke,12,,CL White,0,Australia,Pakistan,139,Pakistan,Sydney Cricket Ground,3,Australia
+185,30.5,1,Shoaib Malik,2010-01-24,1st,MJ Clarke,12,,CL White,1,Australia,Pakistan,140,Pakistan,Sydney Cricket Ground,3,Australia
+186,30.6,0,Shoaib Malik,2010-01-24,1st,CL White,1,,MJ Clarke,12,Australia,Pakistan,140,Pakistan,Sydney Cricket Ground,3,Australia
+187,31.1,0,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,12,,CL White,1,Australia,Pakistan,140,Pakistan,Sydney Cricket Ground,3,Australia
+188,31.2,1,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,12,,CL White,2,Australia,Pakistan,141,Pakistan,Sydney Cricket Ground,3,Australia
+189,31.3,0,Naved-ul-Hasan,2010-01-24,1st,CL White,2,,MJ Clarke,12,Australia,Pakistan,141,Pakistan,Sydney Cricket Ground,3,Australia
+190,31.4,0,Naved-ul-Hasan,2010-01-24,1st,CL White,2,,MJ Clarke,12,Australia,Pakistan,142,Pakistan,Sydney Cricket Ground,3,Australia
+191,31.5,0,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,12,,CL White,2,Australia,Pakistan,142,Pakistan,Sydney Cricket Ground,3,Australia
+192,31.6,0,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,12,,CL White,2,Australia,Pakistan,142,Pakistan,Sydney Cricket Ground,3,Australia
+193,32.1,0,Shoaib Malik,2010-01-24,1st,CL White,2,,MJ Clarke,12,Australia,Pakistan,142,Pakistan,Sydney Cricket Ground,3,Australia
+194,32.2,1,Shoaib Malik,2010-01-24,1st,CL White,2,,MJ Clarke,13,Australia,Pakistan,143,Pakistan,Sydney Cricket Ground,3,Australia
+195,32.3,1,Shoaib Malik,2010-01-24,1st,MJ Clarke,13,,CL White,3,Australia,Pakistan,144,Pakistan,Sydney Cricket Ground,3,Australia
+196,32.4,0,Shoaib Malik,2010-01-24,1st,CL White,3,,MJ Clarke,13,Australia,Pakistan,144,Pakistan,Sydney Cricket Ground,3,Australia
+197,32.5,1,Shoaib Malik,2010-01-24,1st,CL White,3,,MJ Clarke,14,Australia,Pakistan,145,Pakistan,Sydney Cricket Ground,3,Australia
+198,32.6,1,Shoaib Malik,2010-01-24,1st,MJ Clarke,14,,CL White,4,Australia,Pakistan,146,Pakistan,Sydney Cricket Ground,3,Australia
+199,33.1,0,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,14,,CL White,4,Australia,Pakistan,146,Pakistan,Sydney Cricket Ground,3,Australia
+200,33.2,4,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,14,,CL White,8,Australia,Pakistan,150,Pakistan,Sydney Cricket Ground,3,Australia
+201,33.3,0,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,14,,CL White,8,Australia,Pakistan,150,Pakistan,Sydney Cricket Ground,3,Australia
+202,33.4,0,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,14,,CL White,8,Australia,Pakistan,150,Pakistan,Sydney Cricket Ground,3,Australia
+203,33.5,1,Naved-ul-Hasan,2010-01-24,1st,MJ Clarke,14,,CL White,9,Australia,Pakistan,152,Pakistan,Sydney Cricket Ground,3,Australia
+204,33.6,4,Naved-ul-Hasan,2010-01-24,1st,CL White,9,,MJ Clarke,18,Australia,Pakistan,156,Pakistan,Sydney Cricket Ground,3,Australia
+205,33.7,1,Naved-ul-Hasan,2010-01-24,1st,CL White,9,,MJ Clarke,19,Australia,Pakistan,157,Pakistan,Sydney Cricket Ground,3,Australia
+206,34.1,1,Shoaib Malik,2010-01-24,1st,CL White,9,,MJ Clarke,20,Australia,Pakistan,158,Pakistan,Sydney Cricket Ground,3,Australia
+207,34.2,1,Shoaib Malik,2010-01-24,1st,MJ Clarke,20,,CL White,10,Australia,Pakistan,159,Pakistan,Sydney Cricket Ground,3,Australia
+208,34.3,0,Shoaib Malik,2010-01-24,1st,CL White,10,,MJ Clarke,20,Australia,Pakistan,159,Pakistan,Sydney Cricket Ground,3,Australia
+209,34.4,1,Shoaib Malik,2010-01-24,1st,CL White,10,,MJ Clarke,21,Australia,Pakistan,160,Pakistan,Sydney Cricket Ground,3,Australia
+210,34.5,1,Shoaib Malik,2010-01-24,1st,MJ Clarke,21,,CL White,11,Australia,Pakistan,161,Pakistan,Sydney Cricket Ground,3,Australia
+211,34.6,4,Shoaib Malik,2010-01-24,1st,CL White,11,,MJ Clarke,25,Australia,Pakistan,165,Pakistan,Sydney Cricket Ground,3,Australia
+212,35.1,0,Umar Gul,2010-01-24,1st,MJ Clarke,25,,CL White,11,Australia,Pakistan,165,Pakistan,Sydney Cricket Ground,3,Australia
+213,35.2,0,Umar Gul,2010-01-24,1st,MJ Clarke,25,,CL White,11,Australia,Pakistan,165,Pakistan,Sydney Cricket Ground,3,Australia
+214,35.3,1,Umar Gul,2010-01-24,1st,MJ Clarke,25,,CL White,12,Australia,Pakistan,166,Pakistan,Sydney Cricket Ground,3,Australia
+215,35.4,0,Umar Gul,2010-01-24,1st,CL White,12,MJ Clarke,MJ Clarke,25,Australia,Pakistan,166,Pakistan,Sydney Cricket Ground,4,Australia
+216,35.5,0,Umar Gul,2010-01-24,1st,CL White,12,,MEK Hussey,0,Australia,Pakistan,166,Pakistan,Sydney Cricket Ground,4,Australia
+217,35.6,1,Umar Gul,2010-01-24,1st,CL White,12,,MEK Hussey,1,Australia,Pakistan,167,Pakistan,Sydney Cricket Ground,4,Australia
+218,36.1,1,Shahid Afridi,2010-01-24,1st,CL White,12,,MEK Hussey,2,Australia,Pakistan,168,Pakistan,Sydney Cricket Ground,4,Australia
+219,36.2,0,Shahid Afridi,2010-01-24,1st,MEK Hussey,2,,CL White,12,Australia,Pakistan,168,Pakistan,Sydney Cricket Ground,4,Australia
+220,36.3,1,Shahid Afridi,2010-01-24,1st,MEK Hussey,2,,CL White,13,Australia,Pakistan,169,Pakistan,Sydney Cricket Ground,4,Australia
+221,36.4,1,Shahid Afridi,2010-01-24,1st,CL White,13,,MEK Hussey,3,Australia,Pakistan,170,Pakistan,Sydney Cricket Ground,4,Australia
+222,36.5,2,Shahid Afridi,2010-01-24,1st,MEK Hussey,3,,CL White,15,Australia,Pakistan,172,Pakistan,Sydney Cricket Ground,4,Australia
+223,36.6,0,Shahid Afridi,2010-01-24,1st,MEK Hussey,3,,CL White,15,Australia,Pakistan,172,Pakistan,Sydney Cricket Ground,4,Australia
+224,37.1,0,Umar Gul,2010-01-24,1st,CL White,15,,MEK Hussey,3,Australia,Pakistan,173,Pakistan,Sydney Cricket Ground,4,Australia
+225,37.2,1,Umar Gul,2010-01-24,1st,CL White,15,,MEK Hussey,4,Australia,Pakistan,174,Pakistan,Sydney Cricket Ground,4,Australia
+226,37.3,3,Umar Gul,2010-01-24,1st,MEK Hussey,4,,CL White,18,Australia,Pakistan,177,Pakistan,Sydney Cricket Ground,4,Australia
+227,37.4,1,Umar Gul,2010-01-24,1st,CL White,18,,MEK Hussey,5,Australia,Pakistan,178,Pakistan,Sydney Cricket Ground,4,Australia
+228,37.5,1,Umar Gul,2010-01-24,1st,MEK Hussey,5,,CL White,19,Australia,Pakistan,179,Pakistan,Sydney Cricket Ground,4,Australia
+229,37.6,0,Umar Gul,2010-01-24,1st,CL White,19,,MEK Hussey,5,Australia,Pakistan,179,Pakistan,Sydney Cricket Ground,4,Australia
+230,37.7,1,Umar Gul,2010-01-24,1st,CL White,19,,MEK Hussey,6,Australia,Pakistan,180,Pakistan,Sydney Cricket Ground,4,Australia
+231,38.1,1,Shahid Afridi,2010-01-24,1st,CL White,19,,MEK Hussey,7,Australia,Pakistan,181,Pakistan,Sydney Cricket Ground,4,Australia
+232,38.2,0,Shahid Afridi,2010-01-24,1st,MEK Hussey,7,,CL White,19,Australia,Pakistan,181,Pakistan,Sydney Cricket Ground,4,Australia
+233,38.3,1,Shahid Afridi,2010-01-24,1st,MEK Hussey,7,,CL White,20,Australia,Pakistan,182,Pakistan,Sydney Cricket Ground,4,Australia
+234,38.4,2,Shahid Afridi,2010-01-24,1st,CL White,20,,MEK Hussey,9,Australia,Pakistan,184,Pakistan,Sydney Cricket Ground,4,Australia
+235,38.5,0,Shahid Afridi,2010-01-24,1st,CL White,20,,MEK Hussey,9,Australia,Pakistan,184,Pakistan,Sydney Cricket Ground,4,Australia
+236,38.6,1,Shahid Afridi,2010-01-24,1st,CL White,20,,MEK Hussey,10,Australia,Pakistan,185,Pakistan,Sydney Cricket Ground,4,Australia
+237,39.1,2,Umar Gul,2010-01-24,1st,CL White,20,,MEK Hussey,12,Australia,Pakistan,187,Pakistan,Sydney Cricket Ground,4,Australia
+238,39.2,1,Umar Gul,2010-01-24,1st,CL White,20,,MEK Hussey,13,Australia,Pakistan,188,Pakistan,Sydney Cricket Ground,4,Australia
+239,39.3,1,Umar Gul,2010-01-24,1st,MEK Hussey,13,,CL White,21,Australia,Pakistan,189,Pakistan,Sydney Cricket Ground,4,Australia
+240,39.4,0,Umar Gul,2010-01-24,1st,CL White,21,,MEK Hussey,13,Australia,Pakistan,189,Pakistan,Sydney Cricket Ground,4,Australia
+241,39.5,1,Umar Gul,2010-01-24,1st,CL White,21,,MEK Hussey,14,Australia,Pakistan,190,Pakistan,Sydney Cricket Ground,4,Australia
+242,39.6,0,Umar Gul,2010-01-24,1st,MEK Hussey,14,,CL White,21,Australia,Pakistan,190,Pakistan,Sydney Cricket Ground,4,Australia
+243,40.1,0,Saeed Ajmal,2010-01-24,1st,CL White,21,,MEK Hussey,14,Australia,Pakistan,190,Pakistan,Sydney Cricket Ground,4,Australia
+244,40.2,0,Saeed Ajmal,2010-01-24,1st,CL White,21,,MEK Hussey,14,Australia,Pakistan,190,Pakistan,Sydney Cricket Ground,4,Australia
+245,40.3,1,Saeed Ajmal,2010-01-24,1st,CL White,21,,MEK Hussey,15,Australia,Pakistan,191,Pakistan,Sydney Cricket Ground,4,Australia
+246,40.4,0,Saeed Ajmal,2010-01-24,1st,MEK Hussey,15,,CL White,21,Australia,Pakistan,191,Pakistan,Sydney Cricket Ground,4,Australia
+247,40.5,0,Saeed Ajmal,2010-01-24,1st,MEK Hussey,15,,CL White,21,Australia,Pakistan,191,Pakistan,Sydney Cricket Ground,4,Australia
+248,40.6,0,Saeed Ajmal,2010-01-24,1st,MEK Hussey,15,,CL White,21,Australia,Pakistan,191,Pakistan,Sydney Cricket Ground,4,Australia
+249,41.1,0,Naved-ul-Hasan,2010-01-24,1st,CL White,21,,MEK Hussey,15,Australia,Pakistan,191,Pakistan,Sydney Cricket Ground,4,Australia
+250,41.2,1,Naved-ul-Hasan,2010-01-24,1st,CL White,21,,MEK Hussey,16,Australia,Pakistan,192,Pakistan,Sydney Cricket Ground,4,Australia
+251,41.3,1,Naved-ul-Hasan,2010-01-24,1st,MEK Hussey,16,,CL White,22,Australia,Pakistan,193,Pakistan,Sydney Cricket Ground,4,Australia
+252,41.4,0,Naved-ul-Hasan,2010-01-24,1st,CL White,22,,MEK Hussey,16,Australia,Pakistan,193,Pakistan,Sydney Cricket Ground,4,Australia
+253,41.5,0,Naved-ul-Hasan,2010-01-24,1st,CL White,22,,MEK Hussey,16,Australia,Pakistan,193,Pakistan,Sydney Cricket Ground,4,Australia
+254,41.6,1,Naved-ul-Hasan,2010-01-24,1st,CL White,22,,MEK Hussey,17,Australia,Pakistan,194,Pakistan,Sydney Cricket Ground,4,Australia
+255,42.1,0,Saeed Ajmal,2010-01-24,1st,CL White,22,,MEK Hussey,17,Australia,Pakistan,194,Pakistan,Sydney Cricket Ground,4,Australia
+256,42.2,4,Saeed Ajmal,2010-01-24,1st,CL White,22,,MEK Hussey,21,Australia,Pakistan,198,Pakistan,Sydney Cricket Ground,4,Australia
+257,42.3,1,Saeed Ajmal,2010-01-24,1st,CL White,22,,MEK Hussey,22,Australia,Pakistan,199,Pakistan,Sydney Cricket Ground,4,Australia
+258,42.4,1,Saeed Ajmal,2010-01-24,1st,MEK Hussey,22,,CL White,23,Australia,Pakistan,200,Pakistan,Sydney Cricket Ground,4,Australia
+259,42.5,1,Saeed Ajmal,2010-01-24,1st,CL White,23,,MEK Hussey,23,Australia,Pakistan,201,Pakistan,Sydney Cricket Ground,4,Australia
+260,42.6,0,Saeed Ajmal,2010-01-24,1st,MEK Hussey,23,,CL White,23,Australia,Pakistan,201,Pakistan,Sydney Cricket Ground,4,Australia
+261,43.1,1,Naved-ul-Hasan,2010-01-24,1st,CL White,23,,MEK Hussey,24,Australia,Pakistan,202,Pakistan,Sydney Cricket Ground,4,Australia
+262,43.2,1,Naved-ul-Hasan,2010-01-24,1st,MEK Hussey,24,,CL White,24,Australia,Pakistan,203,Pakistan,Sydney Cricket Ground,4,Australia
+263,43.3,1,Naved-ul-Hasan,2010-01-24,1st,CL White,24,,MEK Hussey,25,Australia,Pakistan,204,Pakistan,Sydney Cricket Ground,4,Australia
+264,43.4,6,Naved-ul-Hasan,2010-01-24,1st,MEK Hussey,25,,CL White,30,Australia,Pakistan,210,Pakistan,Sydney Cricket Ground,4,Australia
+265,43.5,0,Naved-ul-Hasan,2010-01-24,1st,MEK Hussey,25,,CL White,30,Australia,Pakistan,210,Pakistan,Sydney Cricket Ground,4,Australia
+266,43.6,4,Naved-ul-Hasan,2010-01-24,1st,MEK Hussey,25,,CL White,34,Australia,Pakistan,214,Pakistan,Sydney Cricket Ground,4,Australia
+267,44.1,3,Saeed Ajmal,2010-01-24,1st,CL White,34,,MEK Hussey,28,Australia,Pakistan,217,Pakistan,Sydney Cricket Ground,4,Australia
+268,44.2,0,Saeed Ajmal,2010-01-24,1st,MEK Hussey,28,,CL White,34,Australia,Pakistan,217,Pakistan,Sydney Cricket Ground,4,Australia
+269,44.3,1,Saeed Ajmal,2010-01-24,1st,MEK Hussey,28,,CL White,35,Australia,Pakistan,218,Pakistan,Sydney Cricket Ground,4,Australia
+270,44.4,0,Saeed Ajmal,2010-01-24,1st,CL White,35,,MEK Hussey,28,Australia,Pakistan,218,Pakistan,Sydney Cricket Ground,4,Australia
+271,44.5,1,Saeed Ajmal,2010-01-24,1st,CL White,35,,MEK Hussey,29,Australia,Pakistan,219,Pakistan,Sydney Cricket Ground,4,Australia
+272,44.6,1,Saeed Ajmal,2010-01-24,1st,MEK Hussey,29,,CL White,36,Australia,Pakistan,220,Pakistan,Sydney Cricket Ground,4,Australia
+273,45.1,1,Mohammad Amir,2010-01-24,1st,MEK Hussey,29,,CL White,37,Australia,Pakistan,221,Pakistan,Sydney Cricket Ground,4,Australia
+274,45.2,0,Mohammad Amir,2010-01-24,1st,CL White,37,MEK Hussey,MEK Hussey,29,Australia,Pakistan,221,Pakistan,Sydney Cricket Ground,5,Australia
+275,45.3,1,Mohammad Amir,2010-01-24,1st,BJ Haddin,0,,CL White,38,Australia,Pakistan,222,Pakistan,Sydney Cricket Ground,5,Australia
+276,45.4,1,Mohammad Amir,2010-01-24,1st,CL White,38,,BJ Haddin,1,Australia,Pakistan,223,Pakistan,Sydney Cricket Ground,5,Australia
+277,45.5,1,Mohammad Amir,2010-01-24,1st,BJ Haddin,1,,CL White,39,Australia,Pakistan,224,Pakistan,Sydney Cricket Ground,5,Australia
+278,45.6,1,Mohammad Amir,2010-01-24,1st,CL White,39,,BJ Haddin,2,Australia,Pakistan,225,Pakistan,Sydney Cricket Ground,5,Australia
+279,46.1,2,Umar Gul,2010-01-24,1st,CL White,39,,BJ Haddin,4,Australia,Pakistan,227,Pakistan,Sydney Cricket Ground,5,Australia
+280,46.2,1,Umar Gul,2010-01-24,1st,CL White,39,,BJ Haddin,5,Australia,Pakistan,228,Pakistan,Sydney Cricket Ground,5,Australia
+281,46.3,1,Umar Gul,2010-01-24,1st,BJ Haddin,5,,CL White,40,Australia,Pakistan,229,Pakistan,Sydney Cricket Ground,5,Australia
+282,46.4,1,Umar Gul,2010-01-24,1st,CL White,40,,BJ Haddin,6,Australia,Pakistan,230,Pakistan,Sydney Cricket Ground,5,Australia
+283,46.5,1,Umar Gul,2010-01-24,1st,BJ Haddin,6,,CL White,41,Australia,Pakistan,231,Pakistan,Sydney Cricket Ground,5,Australia
+284,46.6,2,Umar Gul,2010-01-24,1st,CL White,41,,BJ Haddin,8,Australia,Pakistan,233,Pakistan,Sydney Cricket Ground,5,Australia
+285,47.1,0,Mohammad Amir,2010-01-24,1st,BJ Haddin,8,,CL White,41,Australia,Pakistan,233,Pakistan,Sydney Cricket Ground,5,Australia
+286,47.2,0,Mohammad Amir,2010-01-24,1st,BJ Haddin,8,,CL White,41,Australia,Pakistan,233,Pakistan,Sydney Cricket Ground,5,Australia
+287,47.3,1,Mohammad Amir,2010-01-24,1st,BJ Haddin,8,,CL White,42,Australia,Pakistan,234,Pakistan,Sydney Cricket Ground,5,Australia
+288,47.4,4,Mohammad Amir,2010-01-24,1st,CL White,42,,BJ Haddin,12,Australia,Pakistan,238,Pakistan,Sydney Cricket Ground,5,Australia
+289,47.5,1,Mohammad Amir,2010-01-24,1st,CL White,42,,BJ Haddin,13,Australia,Pakistan,239,Pakistan,Sydney Cricket Ground,5,Australia
+290,47.6,4,Mohammad Amir,2010-01-24,1st,BJ Haddin,13,,CL White,46,Australia,Pakistan,243,Pakistan,Sydney Cricket Ground,5,Australia
+291,48.1,2,Umar Gul,2010-01-24,1st,CL White,46,,BJ Haddin,15,Australia,Pakistan,245,Pakistan,Sydney Cricket Ground,5,Australia
+292,48.2,2,Umar Gul,2010-01-24,1st,CL White,46,,BJ Haddin,17,Australia,Pakistan,247,Pakistan,Sydney Cricket Ground,5,Australia
+293,48.3,4,Umar Gul,2010-01-24,1st,CL White,46,,BJ Haddin,21,Australia,Pakistan,251,Pakistan,Sydney Cricket Ground,5,Australia
+294,48.4,1,Umar Gul,2010-01-24,1st,CL White,46,,BJ Haddin,22,Australia,Pakistan,252,Pakistan,Sydney Cricket Ground,5,Australia
+295,48.5,4,Umar Gul,2010-01-24,1st,BJ Haddin,22,,CL White,50,Australia,Pakistan,256,Pakistan,Sydney Cricket Ground,5,Australia
+296,48.6,3,Umar Gul,2010-01-24,1st,BJ Haddin,22,,CL White,53,Australia,Pakistan,259,Pakistan,Sydney Cricket Ground,5,Australia
+297,49.1,0,Mohammad Amir,2010-01-24,1st,BJ Haddin,22,,CL White,53,Australia,Pakistan,259,Pakistan,Sydney Cricket Ground,5,Australia
+298,49.2,2,Mohammad Amir,2010-01-24,1st,BJ Haddin,22,,CL White,55,Australia,Pakistan,261,Pakistan,Sydney Cricket Ground,5,Australia
+299,49.3,0,Mohammad Amir,2010-01-24,1st,BJ Haddin,22,CL White,CL White,55,Australia,Pakistan,261,Pakistan,Sydney Cricket Ground,6,Australia
+300,49.4,1,Mohammad Amir,2010-01-24,1st,NM Hauritz,0,,BJ Haddin,23,Australia,Pakistan,262,Pakistan,Sydney Cricket Ground,6,Australia
+301,49.5,1,Mohammad Amir,2010-01-24,1st,BJ Haddin,23,,NM Hauritz,1,Australia,Pakistan,263,Pakistan,Sydney Cricket Ground,6,Australia
+302,49.6,4,Mohammad Amir,2010-01-24,1st,NM Hauritz,1,,BJ Haddin,27,Australia,Pakistan,267,Pakistan,Sydney Cricket Ground,6,Australia
+303,0.1,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,0,Pakistan,Sydney Cricket Ground,0,Australia
+304,0.2,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,0,Pakistan,Sydney Cricket Ground,0,Australia
+305,0.3,1,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,1,Pakistan,Sydney Cricket Ground,0,Australia
+306,0.4,0,DE Bollinger,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,1,Pakistan,Sydney Cricket Ground,0,Australia
+307,0.5,0,DE Bollinger,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,1,Pakistan,Sydney Cricket Ground,0,Australia
+308,0.6,0,DE Bollinger,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,1,Pakistan,Sydney Cricket Ground,0,Australia
+309,1.1,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,1,Pakistan,Sydney Cricket Ground,0,Australia
+310,1.2,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,1,Pakistan,Sydney Cricket Ground,0,Australia
+311,1.3,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,1,Pakistan,Sydney Cricket Ground,0,Australia
+312,1.4,1,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,2,Pakistan,Sydney Cricket Ground,0,Australia
+313,1.5,0,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+314,1.6,0,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+315,1.7,0,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+316,2.1,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+317,2.2,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+318,2.3,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+319,2.4,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+320,2.5,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+321,2.6,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+322,3.1,0,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+323,3.2,0,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+324,3.3,0,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+325,3.4,0,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,3,Pakistan,Sydney Cricket Ground,0,Australia
+326,3.5,3,PM Siddle,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,6,Pakistan,Sydney Cricket Ground,0,Australia
+327,3.6,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,6,Pakistan,Sydney Cricket Ground,0,Australia
+328,4.1,0,DE Bollinger,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,6,Pakistan,Sydney Cricket Ground,0,Australia
+329,4.2,1,DE Bollinger,2010-01-24,2nd,Salman Butt,0,,Kamran Akmal,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,0,Australia
+330,4.3,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,1,Australia
+331,4.4,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,1,Australia
+332,4.5,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,1,Australia
+333,4.6,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Younis Khan,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+334,5.1,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+335,5.2,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+336,5.3,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+337,5.4,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+338,5.5,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+339,5.6,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+340,6.1,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+341,6.2,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+342,6.3,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,7,Pakistan,Sydney Cricket Ground,2,Australia
+343,6.4,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,8,Pakistan,Sydney Cricket Ground,2,Australia
+344,6.5,2,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,10,Pakistan,Sydney Cricket Ground,2,Australia
+345,6.6,0,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,10,Pakistan,Sydney Cricket Ground,2,Australia
+346,6.7,4,DE Bollinger,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,14,Pakistan,Sydney Cricket Ground,2,Australia
+347,7.1,6,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,20,Pakistan,Sydney Cricket Ground,2,Australia
+348,7.2,1,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,21,Pakistan,Sydney Cricket Ground,2,Australia
+349,7.3,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,21,Pakistan,Sydney Cricket Ground,2,Australia
+350,7.4,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,21,Pakistan,Sydney Cricket Ground,2,Australia
+351,7.5,1,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,22,Pakistan,Sydney Cricket Ground,2,Australia
+352,7.6,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,22,Pakistan,Sydney Cricket Ground,2,Australia
+353,8.1,1,CJ McKay,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,23,Pakistan,Sydney Cricket Ground,2,Australia
+354,8.2,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,23,Pakistan,Sydney Cricket Ground,2,Australia
+355,8.3,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,23,Pakistan,Sydney Cricket Ground,2,Australia
+356,8.4,4,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,27,Pakistan,Sydney Cricket Ground,2,Australia
+357,8.5,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,27,Pakistan,Sydney Cricket Ground,2,Australia
+358,8.6,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,27,Pakistan,Sydney Cricket Ground,2,Australia
+359,9.1,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,27,Pakistan,Sydney Cricket Ground,2,Australia
+360,9.2,1,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,28,Pakistan,Sydney Cricket Ground,2,Australia
+361,9.3,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,29,Pakistan,Sydney Cricket Ground,2,Australia
+362,9.4,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,29,Pakistan,Sydney Cricket Ground,2,Australia
+363,9.5,2,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,31,Pakistan,Sydney Cricket Ground,2,Australia
+364,9.6,0,PM Siddle,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,31,Pakistan,Sydney Cricket Ground,2,Australia
+365,10.1,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,31,Pakistan,Sydney Cricket Ground,2,Australia
+366,10.2,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,31,Pakistan,Sydney Cricket Ground,2,Australia
+367,10.3,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,31,Pakistan,Sydney Cricket Ground,2,Australia
+368,10.4,1,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Kamran Akmal,0,Australia,Pakistan,32,Pakistan,Sydney Cricket Ground,2,Australia
+369,10.5,0,CJ McKay,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,32,Pakistan,Sydney Cricket Ground,2,Australia
+370,10.6,0,CJ McKay,2010-01-24,2nd,Kamran Akmal,0,,Mohammad Yousuf,0,Australia,Pakistan,32,Pakistan,Sydney Cricket Ground,3,Australia
+371,11.1,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Umar Akmal,0,Australia,Pakistan,32,Pakistan,Sydney Cricket Ground,3,Australia
+372,11.2,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Umar Akmal,0,Australia,Pakistan,32,Pakistan,Sydney Cricket Ground,4,Australia
+373,11.3,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,32,Pakistan,Sydney Cricket Ground,4,Australia
+374,11.4,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,32,Pakistan,Sydney Cricket Ground,4,Australia
+375,11.5,1,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,4,Australia
+376,11.6,0,PM Siddle,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,4,Australia
+377,12.1,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,4,Australia
+378,12.2,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,4,Australia
+379,12.3,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,4,Australia
+380,12.4,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,4,Australia
+381,12.5,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,33,Pakistan,Sydney Cricket Ground,4,Australia
+382,12.6,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,34,Pakistan,Sydney Cricket Ground,4,Australia
+383,12.7,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,34,Pakistan,Sydney Cricket Ground,4,Australia
+384,13.1,2,DE Bollinger,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,36,Pakistan,Sydney Cricket Ground,4,Australia
+385,13.2,0,DE Bollinger,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,36,Pakistan,Sydney Cricket Ground,4,Australia
+386,13.3,0,DE Bollinger,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,36,Pakistan,Sydney Cricket Ground,4,Australia
+387,13.4,1,DE Bollinger,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,37,Pakistan,Sydney Cricket Ground,4,Australia
+388,13.5,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,37,Pakistan,Sydney Cricket Ground,4,Australia
+389,13.6,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,37,Pakistan,Sydney Cricket Ground,4,Australia
+390,14.1,1,CJ McKay,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,38,Pakistan,Sydney Cricket Ground,4,Australia
+391,14.2,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,38,Pakistan,Sydney Cricket Ground,4,Australia
+392,14.3,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,38,Pakistan,Sydney Cricket Ground,4,Australia
+393,14.4,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,38,Pakistan,Sydney Cricket Ground,4,Australia
+394,14.5,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,38,Pakistan,Sydney Cricket Ground,4,Australia
+395,14.6,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,38,Pakistan,Sydney Cricket Ground,4,Australia
+396,15.1,0,DE Bollinger,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,38,Pakistan,Sydney Cricket Ground,4,Australia
+397,15.2,1,DE Bollinger,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,39,Pakistan,Sydney Cricket Ground,4,Australia
+398,15.3,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,39,Pakistan,Sydney Cricket Ground,4,Australia
+399,15.4,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,39,Pakistan,Sydney Cricket Ground,4,Australia
+400,15.5,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,39,Pakistan,Sydney Cricket Ground,4,Australia
+401,15.6,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,39,Pakistan,Sydney Cricket Ground,4,Australia
+402,16.1,1,CJ McKay,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,40,Pakistan,Sydney Cricket Ground,4,Australia
+403,16.2,1,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,41,Pakistan,Sydney Cricket Ground,4,Australia
+404,16.3,1,CJ McKay,2010-01-24,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,4,Australia
+405,16.4,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,4,Australia
+406,16.5,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,4,Australia
+407,16.6,0,CJ McKay,2010-01-24,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,5,Australia
+408,17.1,0,DE Bollinger,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,42,Pakistan,Sydney Cricket Ground,5,Australia
+409,17.2,1,DE Bollinger,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,43,Pakistan,Sydney Cricket Ground,5,Australia
+410,17.3,1,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shahid Afridi,0,Australia,Pakistan,44,Pakistan,Sydney Cricket Ground,5,Australia
+411,17.4,0,DE Bollinger,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,44,Pakistan,Sydney Cricket Ground,5,Australia
+412,17.5,1,DE Bollinger,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,5,Australia
+413,17.6,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Shahid Afridi,0,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,5,Australia
+414,18.1,0,CJ McKay,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,5,Australia
+415,18.2,0,CJ McKay,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,5,Australia
+416,18.3,0,CJ McKay,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,5,Australia
+417,18.4,0,CJ McKay,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,45,Pakistan,Sydney Cricket Ground,5,Australia
+418,18.5,0,CJ McKay,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,46,Pakistan,Sydney Cricket Ground,5,Australia
+419,18.6,0,CJ McKay,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,46,Pakistan,Sydney Cricket Ground,5,Australia
+420,18.7,1,CJ McKay,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,47,Pakistan,Sydney Cricket Ground,5,Australia
+421,19.1,0,SR Watson,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,47,Pakistan,Sydney Cricket Ground,5,Australia
+422,19.2,0,SR Watson,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,47,Pakistan,Sydney Cricket Ground,5,Australia
+423,19.3,1,SR Watson,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,48,Pakistan,Sydney Cricket Ground,5,Australia
+424,19.4,0,SR Watson,2010-01-24,2nd,Mohammad Yousuf,0,,Shahid Afridi,0,Australia,Pakistan,48,Pakistan,Sydney Cricket Ground,5,Australia
+425,19.5,1,SR Watson,2010-01-24,2nd,Mohammad Yousuf,0,,Shahid Afridi,0,Australia,Pakistan,49,Pakistan,Sydney Cricket Ground,5,Australia
+426,19.6,0,SR Watson,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,49,Pakistan,Sydney Cricket Ground,5,Australia
+427,20.1,6,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Shahid Afridi,0,Australia,Pakistan,55,Pakistan,Sydney Cricket Ground,5,Australia
+428,20.2,1,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Shahid Afridi,0,Australia,Pakistan,56,Pakistan,Sydney Cricket Ground,5,Australia
+429,20.3,0,NM Hauritz,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,56,Pakistan,Sydney Cricket Ground,5,Australia
+430,20.4,0,NM Hauritz,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,56,Pakistan,Sydney Cricket Ground,5,Australia
+431,20.5,0,NM Hauritz,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,56,Pakistan,Sydney Cricket Ground,5,Australia
+432,20.6,1,NM Hauritz,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,57,Pakistan,Sydney Cricket Ground,5,Australia
+433,21.1,0,SR Watson,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,57,Pakistan,Sydney Cricket Ground,5,Australia
+434,21.2,0,SR Watson,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,57,Pakistan,Sydney Cricket Ground,5,Australia
+435,21.3,1,SR Watson,2010-01-24,2nd,Shahid Afridi,0,,Mohammad Yousuf,0,Australia,Pakistan,58,Pakistan,Sydney Cricket Ground,5,Australia
+436,21.4,0,SR Watson,2010-01-24,2nd,Mohammad Yousuf,0,,Shahid Afridi,0,Australia,Pakistan,58,Pakistan,Sydney Cricket Ground,6,Australia
+437,21.5,0,SR Watson,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,58,Pakistan,Sydney Cricket Ground,6,Australia
+438,21.6,0,SR Watson,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,58,Pakistan,Sydney Cricket Ground,6,Australia
+439,22.1,0,NM Hauritz,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,58,Pakistan,Sydney Cricket Ground,6,Australia
+440,22.2,0,NM Hauritz,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,58,Pakistan,Sydney Cricket Ground,6,Australia
+441,22.3,0,NM Hauritz,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,58,Pakistan,Sydney Cricket Ground,6,Australia
+442,22.4,1,NM Hauritz,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,59,Pakistan,Sydney Cricket Ground,6,Australia
+443,22.5,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,59,Pakistan,Sydney Cricket Ground,6,Australia
+444,22.6,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,59,Pakistan,Sydney Cricket Ground,6,Australia
+445,23.1,6,SR Watson,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,65,Pakistan,Sydney Cricket Ground,6,Australia
+446,23.2,0,SR Watson,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,65,Pakistan,Sydney Cricket Ground,6,Australia
+447,23.3,0,SR Watson,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,65,Pakistan,Sydney Cricket Ground,6,Australia
+448,23.4,0,SR Watson,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,65,Pakistan,Sydney Cricket Ground,6,Australia
+449,23.5,1,SR Watson,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,66,Pakistan,Sydney Cricket Ground,6,Australia
+450,23.6,0,SR Watson,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,66,Pakistan,Sydney Cricket Ground,6,Australia
+451,24.1,0,NM Hauritz,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,66,Pakistan,Sydney Cricket Ground,6,Australia
+452,24.2,1,NM Hauritz,2010-01-24,2nd,Mohammad Amir,0,,Mohammad Yousuf,0,Australia,Pakistan,67,Pakistan,Sydney Cricket Ground,6,Australia
+453,24.3,2,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,69,Pakistan,Sydney Cricket Ground,6,Australia
+454,24.4,2,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,71,Pakistan,Sydney Cricket Ground,6,Australia
+455,24.5,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,71,Pakistan,Sydney Cricket Ground,6,Australia
+456,24.6,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Mohammad Amir,0,Australia,Pakistan,71,Pakistan,Sydney Cricket Ground,7,Australia
+457,25.1,0,PM Siddle,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,71,Pakistan,Sydney Cricket Ground,7,Australia
+458,25.2,0,PM Siddle,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,71,Pakistan,Sydney Cricket Ground,7,Australia
+459,25.3,0,PM Siddle,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,71,Pakistan,Sydney Cricket Ground,7,Australia
+460,25.4,0,PM Siddle,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,71,Pakistan,Sydney Cricket Ground,7,Australia
+461,25.5,1,PM Siddle,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,72,Pakistan,Sydney Cricket Ground,7,Australia
+462,25.6,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,72,Pakistan,Sydney Cricket Ground,7,Australia
+463,26.1,0,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,72,Pakistan,Sydney Cricket Ground,7,Australia
+464,26.2,1,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,73,Pakistan,Sydney Cricket Ground,7,Australia
+465,26.3,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,73,Pakistan,Sydney Cricket Ground,7,Australia
+466,26.4,6,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,79,Pakistan,Sydney Cricket Ground,7,Australia
+467,26.5,2,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,81,Pakistan,Sydney Cricket Ground,7,Australia
+468,26.6,1,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,82,Pakistan,Sydney Cricket Ground,7,Australia
+469,27.1,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,82,Pakistan,Sydney Cricket Ground,7,Australia
+470,27.2,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,82,Pakistan,Sydney Cricket Ground,7,Australia
+471,27.3,0,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,82,Pakistan,Sydney Cricket Ground,7,Australia
+472,27.4,1,PM Siddle,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,83,Pakistan,Sydney Cricket Ground,7,Australia
+473,27.5,0,PM Siddle,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,83,Pakistan,Sydney Cricket Ground,7,Australia
+474,27.6,4,PM Siddle,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,87,Pakistan,Sydney Cricket Ground,7,Australia
+475,28.1,1,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,88,Pakistan,Sydney Cricket Ground,7,Australia
+476,28.2,2,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,90,Pakistan,Sydney Cricket Ground,7,Australia
+477,28.3,0,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,90,Pakistan,Sydney Cricket Ground,7,Australia
+478,28.4,0,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,90,Pakistan,Sydney Cricket Ground,7,Australia
+479,28.5,0,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,90,Pakistan,Sydney Cricket Ground,7,Australia
+480,28.6,0,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,90,Pakistan,Sydney Cricket Ground,7,Australia
+481,29.1,1,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,91,Pakistan,Sydney Cricket Ground,7,Australia
+482,29.2,2,MJ Clarke,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,93,Pakistan,Sydney Cricket Ground,7,Australia
+483,29.3,0,MJ Clarke,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,93,Pakistan,Sydney Cricket Ground,7,Australia
+484,29.4,0,MJ Clarke,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,93,Pakistan,Sydney Cricket Ground,7,Australia
+485,29.5,1,MJ Clarke,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,7,Australia
+486,29.6,0,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,94,Pakistan,Sydney Cricket Ground,7,Australia
+487,30.1,1,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,95,Pakistan,Sydney Cricket Ground,7,Australia
+488,30.2,1,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,96,Pakistan,Sydney Cricket Ground,7,Australia
+489,30.3,0,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,96,Pakistan,Sydney Cricket Ground,7,Australia
+490,30.4,1,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,97,Pakistan,Sydney Cricket Ground,7,Australia
+491,30.5,2,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,99,Pakistan,Sydney Cricket Ground,7,Australia
+492,30.6,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,99,Pakistan,Sydney Cricket Ground,7,Australia
+493,31.1,1,MJ Clarke,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,100,Pakistan,Sydney Cricket Ground,7,Australia
+494,31.2,1,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,101,Pakistan,Sydney Cricket Ground,7,Australia
+495,31.3,1,MJ Clarke,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,102,Pakistan,Sydney Cricket Ground,7,Australia
+496,31.4,1,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,103,Pakistan,Sydney Cricket Ground,7,Australia
+497,31.5,1,MJ Clarke,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,104,Pakistan,Sydney Cricket Ground,7,Australia
+498,31.6,0,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,104,Pakistan,Sydney Cricket Ground,7,Australia
+499,32.1,2,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,106,Pakistan,Sydney Cricket Ground,7,Australia
+500,32.2,1,NM Hauritz,2010-01-24,2nd,Naved-ul-Hasan,0,,Mohammad Yousuf,0,Australia,Pakistan,107,Pakistan,Sydney Cricket Ground,7,Australia
+501,32.3,6,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,113,Pakistan,Sydney Cricket Ground,7,Australia
+502,32.4,4,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,117,Pakistan,Sydney Cricket Ground,7,Australia
+503,32.5,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,117,Pakistan,Sydney Cricket Ground,7,Australia
+504,32.6,0,NM Hauritz,2010-01-24,2nd,Mohammad Yousuf,0,,Naved-ul-Hasan,0,Australia,Pakistan,117,Pakistan,Sydney Cricket Ground,8,Australia
+505,33.1,4,MJ Clarke,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,121,Pakistan,Sydney Cricket Ground,8,Australia
+506,33.2,0,MJ Clarke,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,121,Pakistan,Sydney Cricket Ground,8,Australia
+507,33.3,1,MJ Clarke,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,122,Pakistan,Sydney Cricket Ground,8,Australia
+508,33.4,0,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Umar Gul,0,Australia,Pakistan,122,Pakistan,Sydney Cricket Ground,8,Australia
+509,33.5,0,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Umar Gul,0,Australia,Pakistan,122,Pakistan,Sydney Cricket Ground,8,Australia
+510,33.6,0,MJ Clarke,2010-01-24,2nd,Mohammad Yousuf,0,,Umar Gul,0,Australia,Pakistan,122,Pakistan,Sydney Cricket Ground,8,Australia
+511,34.1,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,122,Pakistan,Sydney Cricket Ground,8,Australia
+512,34.2,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,122,Pakistan,Sydney Cricket Ground,8,Australia
+513,34.3,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,122,Pakistan,Sydney Cricket Ground,8,Australia
+514,34.4,1,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,8,Australia
+515,34.5,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Umar Gul,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,8,Australia
+516,34.6,0,DE Bollinger,2010-01-24,2nd,Mohammad Yousuf,0,,Umar Gul,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,8,Australia
+517,35.1,0,CJ McKay,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,8,Australia
+518,35.2,0,CJ McKay,2010-01-24,2nd,Umar Gul,0,,Mohammad Yousuf,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,9,Australia
+519,35.3,0,CJ McKay,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,9,Australia
+520,35.4,0,CJ McKay,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,9,Australia
+521,35.5,0,CJ McKay,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,123,Pakistan,Sydney Cricket Ground,9,Australia
+522,35.6,1,CJ McKay,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,124,Pakistan,Sydney Cricket Ground,9,Australia
+523,36.1,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,124,Pakistan,Sydney Cricket Ground,9,Australia
+524,36.2,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,124,Pakistan,Sydney Cricket Ground,9,Australia
+525,36.3,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,124,Pakistan,Sydney Cricket Ground,9,Australia
+526,36.4,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,124,Pakistan,Sydney Cricket Ground,9,Australia
+527,36.5,0,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,124,Pakistan,Sydney Cricket Ground,9,Australia
+528,36.6,2,DE Bollinger,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,126,Pakistan,Sydney Cricket Ground,9,Australia
+529,37.1,0,CJ McKay,2010-01-24,2nd,Saeed Ajmal,0,,Umar Gul,0,Australia,Pakistan,126,Pakistan,Sydney Cricket Ground,9,Australia
+530,37.2,1,CJ McKay,2010-01-24,2nd,Saeed Ajmal,0,,Umar Gul,0,Australia,Pakistan,127,Pakistan,Sydney Cricket Ground,9,Australia
+531,37.3,0,CJ McKay,2010-01-24,2nd,Umar Gul,0,,Saeed Ajmal,0,Australia,Pakistan,127,Pakistan,Sydney Cricket Ground,10,Australia

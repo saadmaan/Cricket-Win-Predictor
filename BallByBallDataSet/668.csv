@@ -1,0 +1,610 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,2,Z Khan,2012-02-12,1st,RT Ponting,0,,DA Warner,2,Australia,India,2,Australia,Adelaide Oval,0,India
+1,0.2,0,Z Khan,2012-02-12,1st,RT Ponting,0,,DA Warner,2,Australia,India,2,Australia,Adelaide Oval,0,India
+2,0.3,1,Z Khan,2012-02-12,1st,RT Ponting,0,,DA Warner,3,Australia,India,3,Australia,Adelaide Oval,0,India
+3,0.4,0,Z Khan,2012-02-12,1st,DA Warner,3,,RT Ponting,0,Australia,India,3,Australia,Adelaide Oval,0,India
+4,0.5,0,Z Khan,2012-02-12,1st,DA Warner,3,,RT Ponting,0,Australia,India,3,Australia,Adelaide Oval,0,India
+5,0.6,1,Z Khan,2012-02-12,1st,DA Warner,3,,RT Ponting,1,Australia,India,4,Australia,Adelaide Oval,0,India
+6,1.1,0,R Vinay Kumar,2012-02-12,1st,DA Warner,3,,RT Ponting,1,Australia,India,4,Australia,Adelaide Oval,0,India
+7,1.2,0,R Vinay Kumar,2012-02-12,1st,DA Warner,3,,RT Ponting,1,Australia,India,5,Australia,Adelaide Oval,0,India
+8,1.3,3,R Vinay Kumar,2012-02-12,1st,RT Ponting,1,,DA Warner,6,Australia,India,8,Australia,Adelaide Oval,0,India
+9,1.4,0,R Vinay Kumar,2012-02-12,1st,DA Warner,6,,RT Ponting,1,Australia,India,8,Australia,Adelaide Oval,0,India
+10,1.5,0,R Vinay Kumar,2012-02-12,1st,DA Warner,6,,RT Ponting,1,Australia,India,8,Australia,Adelaide Oval,0,India
+11,1.6,4,R Vinay Kumar,2012-02-12,1st,DA Warner,6,,RT Ponting,5,Australia,India,12,Australia,Adelaide Oval,0,India
+12,2.1,1,Z Khan,2012-02-12,1st,RT Ponting,5,,DA Warner,7,Australia,India,13,Australia,Adelaide Oval,0,India
+13,2.2,0,Z Khan,2012-02-12,1st,DA Warner,7,,RT Ponting,5,Australia,India,13,Australia,Adelaide Oval,0,India
+14,2.3,0,Z Khan,2012-02-12,1st,DA Warner,7,,RT Ponting,5,Australia,India,13,Australia,Adelaide Oval,0,India
+15,2.4,0,Z Khan,2012-02-12,1st,DA Warner,7,,RT Ponting,5,Australia,India,13,Australia,Adelaide Oval,0,India
+16,2.5,0,Z Khan,2012-02-12,1st,DA Warner,7,,RT Ponting,5,Australia,India,13,Australia,Adelaide Oval,0,India
+17,2.6,1,Z Khan,2012-02-12,1st,DA Warner,7,,RT Ponting,6,Australia,India,14,Australia,Adelaide Oval,0,India
+18,3.1,0,R Vinay Kumar,2012-02-12,1st,DA Warner,7,RT Ponting,RT Ponting,6,Australia,India,14,Australia,Adelaide Oval,1,India
+19,3.2,0,R Vinay Kumar,2012-02-12,1st,DA Warner,7,,MJ Clarke,0,Australia,India,14,Australia,Adelaide Oval,1,India
+20,3.3,0,R Vinay Kumar,2012-02-12,1st,DA Warner,7,,MJ Clarke,0,Australia,India,14,Australia,Adelaide Oval,1,India
+21,3.4,1,R Vinay Kumar,2012-02-12,1st,DA Warner,7,,MJ Clarke,1,Australia,India,15,Australia,Adelaide Oval,1,India
+22,3.5,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,1,,DA Warner,7,Australia,India,16,Australia,Adelaide Oval,1,India
+23,3.6,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,1,,DA Warner,7,Australia,India,17,Australia,Adelaide Oval,1,India
+24,3.7,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,1,,DA Warner,7,Australia,India,17,Australia,Adelaide Oval,1,India
+25,3.8,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,1,,DA Warner,7,Australia,India,17,Australia,Adelaide Oval,1,India
+26,4.1,0,Z Khan,2012-02-12,1st,DA Warner,7,,MJ Clarke,1,Australia,India,17,Australia,Adelaide Oval,1,India
+27,4.2,0,Z Khan,2012-02-12,1st,DA Warner,7,,MJ Clarke,1,Australia,India,17,Australia,Adelaide Oval,1,India
+28,4.3,4,Z Khan,2012-02-12,1st,DA Warner,7,,MJ Clarke,5,Australia,India,21,Australia,Adelaide Oval,1,India
+29,4.4,4,Z Khan,2012-02-12,1st,DA Warner,7,,MJ Clarke,9,Australia,India,25,Australia,Adelaide Oval,1,India
+30,4.5,2,Z Khan,2012-02-12,1st,DA Warner,7,,MJ Clarke,11,Australia,India,27,Australia,Adelaide Oval,1,India
+31,4.6,0,Z Khan,2012-02-12,1st,DA Warner,7,,MJ Clarke,11,Australia,India,27,Australia,Adelaide Oval,1,India
+32,5.1,1,R Vinay Kumar,2012-02-12,1st,MJ Clarke,11,,DA Warner,8,Australia,India,28,Australia,Adelaide Oval,1,India
+33,5.2,0,R Vinay Kumar,2012-02-12,1st,DA Warner,8,,MJ Clarke,11,Australia,India,28,Australia,Adelaide Oval,1,India
+34,5.3,2,R Vinay Kumar,2012-02-12,1st,DA Warner,8,,MJ Clarke,13,Australia,India,30,Australia,Adelaide Oval,1,India
+35,5.4,4,R Vinay Kumar,2012-02-12,1st,DA Warner,8,,MJ Clarke,17,Australia,India,34,Australia,Adelaide Oval,1,India
+36,5.5,4,R Vinay Kumar,2012-02-12,1st,DA Warner,8,,MJ Clarke,21,Australia,India,38,Australia,Adelaide Oval,1,India
+37,5.6,0,R Vinay Kumar,2012-02-12,1st,DA Warner,8,,MJ Clarke,21,Australia,India,38,Australia,Adelaide Oval,1,India
+38,6.1,0,Z Khan,2012-02-12,1st,MJ Clarke,21,,DA Warner,8,Australia,India,38,Australia,Adelaide Oval,1,India
+39,6.2,0,Z Khan,2012-02-12,1st,MJ Clarke,21,,DA Warner,8,Australia,India,38,Australia,Adelaide Oval,1,India
+40,6.3,1,Z Khan,2012-02-12,1st,MJ Clarke,21,,DA Warner,9,Australia,India,39,Australia,Adelaide Oval,1,India
+41,6.4,0,Z Khan,2012-02-12,1st,DA Warner,9,,MJ Clarke,21,Australia,India,39,Australia,Adelaide Oval,1,India
+42,6.5,0,Z Khan,2012-02-12,1st,DA Warner,9,,MJ Clarke,21,Australia,India,39,Australia,Adelaide Oval,1,India
+43,6.6,4,Z Khan,2012-02-12,1st,DA Warner,9,,MJ Clarke,25,Australia,India,43,Australia,Adelaide Oval,1,India
+44,7.1,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,25,,DA Warner,9,Australia,India,43,Australia,Adelaide Oval,1,India
+45,7.2,4,R Vinay Kumar,2012-02-12,1st,MJ Clarke,25,,DA Warner,13,Australia,India,47,Australia,Adelaide Oval,1,India
+46,7.3,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,25,,DA Warner,13,Australia,India,47,Australia,Adelaide Oval,1,India
+47,7.4,4,R Vinay Kumar,2012-02-12,1st,MJ Clarke,25,,DA Warner,17,Australia,India,51,Australia,Adelaide Oval,1,India
+48,7.5,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,25,,DA Warner,17,Australia,India,51,Australia,Adelaide Oval,1,India
+49,7.6,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,25,,DA Warner,17,Australia,India,51,Australia,Adelaide Oval,1,India
+50,8.1,0,Z Khan,2012-02-12,1st,DA Warner,17,,MJ Clarke,25,Australia,India,51,Australia,Adelaide Oval,1,India
+51,8.2,0,Z Khan,2012-02-12,1st,DA Warner,17,,MJ Clarke,25,Australia,India,51,Australia,Adelaide Oval,1,India
+52,8.3,1,Z Khan,2012-02-12,1st,DA Warner,17,,MJ Clarke,26,Australia,India,52,Australia,Adelaide Oval,1,India
+53,8.4,0,Z Khan,2012-02-12,1st,MJ Clarke,26,,DA Warner,17,Australia,India,52,Australia,Adelaide Oval,1,India
+54,8.5,0,Z Khan,2012-02-12,1st,MJ Clarke,26,,DA Warner,17,Australia,India,52,Australia,Adelaide Oval,1,India
+55,8.6,1,Z Khan,2012-02-12,1st,MJ Clarke,26,,DA Warner,18,Australia,India,53,Australia,Adelaide Oval,1,India
+56,9.1,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,26,,DA Warner,18,Australia,India,53,Australia,Adelaide Oval,1,India
+57,9.2,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,26,,DA Warner,18,Australia,India,53,Australia,Adelaide Oval,1,India
+58,9.3,0,R Vinay Kumar,2012-02-12,1st,MJ Clarke,26,DA Warner,DA Warner,18,Australia,India,53,Australia,Adelaide Oval,2,India
+59,9.4,0,R Vinay Kumar,2012-02-12,1st,PJ Forrest,0,,MJ Clarke,26,Australia,India,53,Australia,Adelaide Oval,2,India
+60,9.5,0,R Vinay Kumar,2012-02-12,1st,PJ Forrest,0,,MJ Clarke,26,Australia,India,53,Australia,Adelaide Oval,2,India
+61,9.6,0,R Vinay Kumar,2012-02-12,1st,PJ Forrest,0,,MJ Clarke,26,Australia,India,53,Australia,Adelaide Oval,2,India
+62,10.1,1,RA Jadeja,2012-02-12,1st,MJ Clarke,26,,PJ Forrest,1,Australia,India,54,Australia,Adelaide Oval,2,India
+63,10.2,1,RA Jadeja,2012-02-12,1st,PJ Forrest,1,,MJ Clarke,27,Australia,India,55,Australia,Adelaide Oval,2,India
+64,10.3,0,RA Jadeja,2012-02-12,1st,MJ Clarke,27,,PJ Forrest,1,Australia,India,55,Australia,Adelaide Oval,2,India
+65,10.4,0,RA Jadeja,2012-02-12,1st,MJ Clarke,27,,PJ Forrest,1,Australia,India,55,Australia,Adelaide Oval,2,India
+66,10.5,0,RA Jadeja,2012-02-12,1st,MJ Clarke,27,,PJ Forrest,1,Australia,India,55,Australia,Adelaide Oval,2,India
+67,10.6,0,RA Jadeja,2012-02-12,1st,MJ Clarke,27,,PJ Forrest,1,Australia,India,55,Australia,Adelaide Oval,2,India
+68,11.1,0,UT Yadav,2012-02-12,1st,PJ Forrest,1,,MJ Clarke,27,Australia,India,55,Australia,Adelaide Oval,2,India
+69,11.2,0,UT Yadav,2012-02-12,1st,PJ Forrest,1,,MJ Clarke,27,Australia,India,55,Australia,Adelaide Oval,2,India
+70,11.3,0,UT Yadav,2012-02-12,1st,PJ Forrest,1,,MJ Clarke,27,Australia,India,55,Australia,Adelaide Oval,2,India
+71,11.4,0,UT Yadav,2012-02-12,1st,PJ Forrest,1,,MJ Clarke,27,Australia,India,55,Australia,Adelaide Oval,2,India
+72,11.5,0,UT Yadav,2012-02-12,1st,PJ Forrest,1,,MJ Clarke,27,Australia,India,55,Australia,Adelaide Oval,2,India
+73,11.6,0,UT Yadav,2012-02-12,1st,PJ Forrest,1,,MJ Clarke,27,Australia,India,55,Australia,Adelaide Oval,2,India
+74,12.1,0,RA Jadeja,2012-02-12,1st,MJ Clarke,27,,PJ Forrest,1,Australia,India,55,Australia,Adelaide Oval,2,India
+75,12.2,0,RA Jadeja,2012-02-12,1st,MJ Clarke,27,,PJ Forrest,1,Australia,India,55,Australia,Adelaide Oval,2,India
+76,12.3,1,RA Jadeja,2012-02-12,1st,MJ Clarke,27,,PJ Forrest,2,Australia,India,56,Australia,Adelaide Oval,2,India
+77,12.4,2,RA Jadeja,2012-02-12,1st,PJ Forrest,2,,MJ Clarke,29,Australia,India,58,Australia,Adelaide Oval,2,India
+78,12.5,0,RA Jadeja,2012-02-12,1st,PJ Forrest,2,,MJ Clarke,29,Australia,India,58,Australia,Adelaide Oval,2,India
+79,12.6,1,RA Jadeja,2012-02-12,1st,PJ Forrest,2,,MJ Clarke,30,Australia,India,59,Australia,Adelaide Oval,2,India
+80,13.1,1,UT Yadav,2012-02-12,1st,PJ Forrest,2,,MJ Clarke,31,Australia,India,60,Australia,Adelaide Oval,2,India
+81,13.2,0,UT Yadav,2012-02-12,1st,MJ Clarke,31,,PJ Forrest,2,Australia,India,60,Australia,Adelaide Oval,2,India
+82,13.3,4,UT Yadav,2012-02-12,1st,MJ Clarke,31,,PJ Forrest,6,Australia,India,64,Australia,Adelaide Oval,2,India
+83,13.4,0,UT Yadav,2012-02-12,1st,MJ Clarke,31,,PJ Forrest,6,Australia,India,64,Australia,Adelaide Oval,2,India
+84,13.5,1,UT Yadav,2012-02-12,1st,MJ Clarke,31,,PJ Forrest,7,Australia,India,65,Australia,Adelaide Oval,2,India
+85,13.6,2,UT Yadav,2012-02-12,1st,PJ Forrest,7,,MJ Clarke,33,Australia,India,67,Australia,Adelaide Oval,2,India
+86,14.1,0,RA Jadeja,2012-02-12,1st,MJ Clarke,33,,PJ Forrest,7,Australia,India,67,Australia,Adelaide Oval,2,India
+87,14.2,6,RA Jadeja,2012-02-12,1st,MJ Clarke,33,,PJ Forrest,13,Australia,India,73,Australia,Adelaide Oval,2,India
+88,14.3,1,RA Jadeja,2012-02-12,1st,MJ Clarke,33,,PJ Forrest,14,Australia,India,74,Australia,Adelaide Oval,2,India
+89,14.4,1,RA Jadeja,2012-02-12,1st,PJ Forrest,14,,MJ Clarke,34,Australia,India,75,Australia,Adelaide Oval,2,India
+90,14.5,0,RA Jadeja,2012-02-12,1st,MJ Clarke,34,,PJ Forrest,14,Australia,India,75,Australia,Adelaide Oval,2,India
+91,14.6,0,RA Jadeja,2012-02-12,1st,MJ Clarke,34,,PJ Forrest,14,Australia,India,75,Australia,Adelaide Oval,2,India
+92,15.1,1,UT Yadav,2012-02-12,1st,PJ Forrest,14,,MJ Clarke,35,Australia,India,76,Australia,Adelaide Oval,2,India
+93,15.2,0,UT Yadav,2012-02-12,1st,MJ Clarke,35,,PJ Forrest,14,Australia,India,76,Australia,Adelaide Oval,2,India
+94,15.3,0,UT Yadav,2012-02-12,1st,MJ Clarke,35,,PJ Forrest,14,Australia,India,76,Australia,Adelaide Oval,2,India
+95,15.4,0,UT Yadav,2012-02-12,1st,MJ Clarke,35,,PJ Forrest,14,Australia,India,76,Australia,Adelaide Oval,2,India
+96,15.5,0,UT Yadav,2012-02-12,1st,MJ Clarke,35,,PJ Forrest,14,Australia,India,76,Australia,Adelaide Oval,2,India
+97,15.6,0,UT Yadav,2012-02-12,1st,MJ Clarke,35,,PJ Forrest,14,Australia,India,76,Australia,Adelaide Oval,2,India
+98,16.1,1,R Ashwin,2012-02-12,1st,PJ Forrest,14,,MJ Clarke,36,Australia,India,77,Australia,Adelaide Oval,2,India
+99,16.2,1,R Ashwin,2012-02-12,1st,MJ Clarke,36,,PJ Forrest,15,Australia,India,78,Australia,Adelaide Oval,2,India
+100,16.3,1,R Ashwin,2012-02-12,1st,PJ Forrest,15,,MJ Clarke,37,Australia,India,79,Australia,Adelaide Oval,2,India
+101,16.4,0,R Ashwin,2012-02-12,1st,MJ Clarke,37,,PJ Forrest,15,Australia,India,79,Australia,Adelaide Oval,2,India
+102,16.5,0,R Ashwin,2012-02-12,1st,MJ Clarke,37,,PJ Forrest,15,Australia,India,79,Australia,Adelaide Oval,2,India
+103,16.6,0,R Ashwin,2012-02-12,1st,MJ Clarke,37,,PJ Forrest,15,Australia,India,79,Australia,Adelaide Oval,2,India
+104,17.1,0,UT Yadav,2012-02-12,1st,PJ Forrest,15,,MJ Clarke,37,Australia,India,79,Australia,Adelaide Oval,2,India
+105,17.2,0,UT Yadav,2012-02-12,1st,PJ Forrest,15,,MJ Clarke,37,Australia,India,79,Australia,Adelaide Oval,2,India
+106,17.3,1,UT Yadav,2012-02-12,1st,PJ Forrest,15,,MJ Clarke,38,Australia,India,80,Australia,Adelaide Oval,2,India
+107,17.4,1,UT Yadav,2012-02-12,1st,MJ Clarke,38,,PJ Forrest,16,Australia,India,81,Australia,Adelaide Oval,2,India
+108,17.5,0,UT Yadav,2012-02-12,1st,PJ Forrest,16,MJ Clarke,MJ Clarke,38,Australia,India,81,Australia,Adelaide Oval,3,India
+109,17.6,0,UT Yadav,2012-02-12,1st,PJ Forrest,16,,DJ Hussey,0,Australia,India,82,Australia,Adelaide Oval,3,India
+110,17.7,1,UT Yadav,2012-02-12,1st,PJ Forrest,16,,DJ Hussey,1,Australia,India,83,Australia,Adelaide Oval,3,India
+111,18.1,0,R Ashwin,2012-02-12,1st,PJ Forrest,16,,DJ Hussey,1,Australia,India,83,Australia,Adelaide Oval,3,India
+112,18.2,1,R Ashwin,2012-02-12,1st,PJ Forrest,16,,DJ Hussey,2,Australia,India,84,Australia,Adelaide Oval,3,India
+113,18.3,4,R Ashwin,2012-02-12,1st,DJ Hussey,2,,PJ Forrest,20,Australia,India,88,Australia,Adelaide Oval,3,India
+114,18.4,4,R Ashwin,2012-02-12,1st,DJ Hussey,2,,PJ Forrest,24,Australia,India,92,Australia,Adelaide Oval,3,India
+115,18.5,1,R Ashwin,2012-02-12,1st,DJ Hussey,2,,PJ Forrest,25,Australia,India,93,Australia,Adelaide Oval,3,India
+116,18.6,0,R Ashwin,2012-02-12,1st,PJ Forrest,25,,DJ Hussey,2,Australia,India,93,Australia,Adelaide Oval,3,India
+117,19.1,1,UT Yadav,2012-02-12,1st,DJ Hussey,2,,PJ Forrest,26,Australia,India,94,Australia,Adelaide Oval,3,India
+118,19.2,1,UT Yadav,2012-02-12,1st,PJ Forrest,26,,DJ Hussey,3,Australia,India,95,Australia,Adelaide Oval,3,India
+119,19.3,0,UT Yadav,2012-02-12,1st,DJ Hussey,3,,PJ Forrest,26,Australia,India,95,Australia,Adelaide Oval,3,India
+120,19.4,0,UT Yadav,2012-02-12,1st,DJ Hussey,3,,PJ Forrest,26,Australia,India,95,Australia,Adelaide Oval,3,India
+121,19.5,0,UT Yadav,2012-02-12,1st,DJ Hussey,3,,PJ Forrest,26,Australia,India,95,Australia,Adelaide Oval,3,India
+122,19.6,0,UT Yadav,2012-02-12,1st,DJ Hussey,3,,PJ Forrest,26,Australia,India,95,Australia,Adelaide Oval,3,India
+123,20.1,0,RA Jadeja,2012-02-12,1st,PJ Forrest,26,,DJ Hussey,3,Australia,India,95,Australia,Adelaide Oval,3,India
+124,20.2,2,RA Jadeja,2012-02-12,1st,PJ Forrest,26,,DJ Hussey,5,Australia,India,97,Australia,Adelaide Oval,3,India
+125,20.3,0,RA Jadeja,2012-02-12,1st,PJ Forrest,26,,DJ Hussey,5,Australia,India,97,Australia,Adelaide Oval,3,India
+126,20.4,1,RA Jadeja,2012-02-12,1st,PJ Forrest,26,,DJ Hussey,6,Australia,India,98,Australia,Adelaide Oval,3,India
+127,20.5,4,RA Jadeja,2012-02-12,1st,DJ Hussey,6,,PJ Forrest,30,Australia,India,102,Australia,Adelaide Oval,3,India
+128,20.6,1,RA Jadeja,2012-02-12,1st,DJ Hussey,6,,PJ Forrest,31,Australia,India,103,Australia,Adelaide Oval,3,India
+129,21.1,0,UT Yadav,2012-02-12,1st,DJ Hussey,6,,PJ Forrest,31,Australia,India,103,Australia,Adelaide Oval,3,India
+130,21.2,1,UT Yadav,2012-02-12,1st,DJ Hussey,6,,PJ Forrest,32,Australia,India,104,Australia,Adelaide Oval,3,India
+131,21.3,1,UT Yadav,2012-02-12,1st,PJ Forrest,32,,DJ Hussey,7,Australia,India,105,Australia,Adelaide Oval,3,India
+132,21.4,0,UT Yadav,2012-02-12,1st,DJ Hussey,7,,PJ Forrest,32,Australia,India,105,Australia,Adelaide Oval,3,India
+133,21.5,1,UT Yadav,2012-02-12,1st,DJ Hussey,7,,PJ Forrest,33,Australia,India,106,Australia,Adelaide Oval,3,India
+134,21.6,0,UT Yadav,2012-02-12,1st,PJ Forrest,33,,DJ Hussey,7,Australia,India,106,Australia,Adelaide Oval,3,India
+135,22.1,0,R Ashwin,2012-02-12,1st,DJ Hussey,7,,PJ Forrest,33,Australia,India,106,Australia,Adelaide Oval,3,India
+136,22.2,0,R Ashwin,2012-02-12,1st,DJ Hussey,7,,PJ Forrest,33,Australia,India,106,Australia,Adelaide Oval,3,India
+137,22.3,0,R Ashwin,2012-02-12,1st,DJ Hussey,7,,PJ Forrest,33,Australia,India,106,Australia,Adelaide Oval,3,India
+138,22.4,1,R Ashwin,2012-02-12,1st,DJ Hussey,7,,PJ Forrest,34,Australia,India,107,Australia,Adelaide Oval,3,India
+139,22.5,1,R Ashwin,2012-02-12,1st,PJ Forrest,34,,DJ Hussey,8,Australia,India,108,Australia,Adelaide Oval,3,India
+140,22.6,1,R Ashwin,2012-02-12,1st,DJ Hussey,8,,PJ Forrest,35,Australia,India,109,Australia,Adelaide Oval,3,India
+141,23.1,0,RA Jadeja,2012-02-12,1st,DJ Hussey,8,,PJ Forrest,35,Australia,India,109,Australia,Adelaide Oval,3,India
+142,23.2,2,RA Jadeja,2012-02-12,1st,DJ Hussey,8,,PJ Forrest,37,Australia,India,111,Australia,Adelaide Oval,3,India
+143,23.3,1,RA Jadeja,2012-02-12,1st,DJ Hussey,8,,PJ Forrest,38,Australia,India,112,Australia,Adelaide Oval,3,India
+144,23.4,1,RA Jadeja,2012-02-12,1st,PJ Forrest,38,,DJ Hussey,9,Australia,India,113,Australia,Adelaide Oval,3,India
+145,23.5,1,RA Jadeja,2012-02-12,1st,DJ Hussey,9,,PJ Forrest,39,Australia,India,114,Australia,Adelaide Oval,3,India
+146,23.6,1,RA Jadeja,2012-02-12,1st,PJ Forrest,39,,DJ Hussey,10,Australia,India,115,Australia,Adelaide Oval,3,India
+147,24.1,1,R Ashwin,2012-02-12,1st,PJ Forrest,39,,DJ Hussey,11,Australia,India,116,Australia,Adelaide Oval,3,India
+148,24.2,0,R Ashwin,2012-02-12,1st,DJ Hussey,11,,PJ Forrest,39,Australia,India,116,Australia,Adelaide Oval,3,India
+149,24.3,1,R Ashwin,2012-02-12,1st,DJ Hussey,11,,PJ Forrest,40,Australia,India,117,Australia,Adelaide Oval,3,India
+150,24.4,1,R Ashwin,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,12,Australia,India,118,Australia,Adelaide Oval,3,India
+151,24.5,0,R Ashwin,2012-02-12,1st,DJ Hussey,12,,PJ Forrest,40,Australia,India,118,Australia,Adelaide Oval,3,India
+152,24.6,0,R Ashwin,2012-02-12,1st,DJ Hussey,12,,PJ Forrest,40,Australia,India,118,Australia,Adelaide Oval,3,India
+153,25.1,0,RA Jadeja,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,12,Australia,India,118,Australia,Adelaide Oval,3,India
+154,25.2,0,RA Jadeja,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,12,Australia,India,118,Australia,Adelaide Oval,3,India
+155,25.3,0,RA Jadeja,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,12,Australia,India,118,Australia,Adelaide Oval,3,India
+156,25.4,0,RA Jadeja,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,12,Australia,India,118,Australia,Adelaide Oval,3,India
+157,25.5,0,RA Jadeja,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,12,Australia,India,118,Australia,Adelaide Oval,3,India
+158,25.6,1,RA Jadeja,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,13,Australia,India,119,Australia,Adelaide Oval,3,India
+159,26.1,0,R Ashwin,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,13,Australia,India,119,Australia,Adelaide Oval,3,India
+160,26.2,4,R Ashwin,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,17,Australia,India,123,Australia,Adelaide Oval,3,India
+161,26.3,4,R Ashwin,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,21,Australia,India,127,Australia,Adelaide Oval,3,India
+162,26.4,4,R Ashwin,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,25,Australia,India,131,Australia,Adelaide Oval,3,India
+163,26.5,1,R Ashwin,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,26,Australia,India,132,Australia,Adelaide Oval,3,India
+164,26.6,0,R Ashwin,2012-02-12,1st,DJ Hussey,26,,PJ Forrest,40,Australia,India,132,Australia,Adelaide Oval,3,India
+165,27.1,1,RA Jadeja,2012-02-12,1st,PJ Forrest,40,,DJ Hussey,27,Australia,India,133,Australia,Adelaide Oval,3,India
+166,27.2,0,RA Jadeja,2012-02-12,1st,DJ Hussey,27,,PJ Forrest,40,Australia,India,133,Australia,Adelaide Oval,3,India
+167,27.3,1,RA Jadeja,2012-02-12,1st,DJ Hussey,27,,PJ Forrest,41,Australia,India,134,Australia,Adelaide Oval,3,India
+168,27.4,1,RA Jadeja,2012-02-12,1st,PJ Forrest,41,,DJ Hussey,28,Australia,India,135,Australia,Adelaide Oval,3,India
+169,27.5,0,RA Jadeja,2012-02-12,1st,DJ Hussey,28,,PJ Forrest,41,Australia,India,135,Australia,Adelaide Oval,3,India
+170,27.6,0,RA Jadeja,2012-02-12,1st,DJ Hussey,28,,PJ Forrest,41,Australia,India,135,Australia,Adelaide Oval,3,India
+171,28.1,0,R Ashwin,2012-02-12,1st,PJ Forrest,41,,DJ Hussey,28,Australia,India,135,Australia,Adelaide Oval,3,India
+172,28.2,1,R Ashwin,2012-02-12,1st,PJ Forrest,41,,DJ Hussey,29,Australia,India,136,Australia,Adelaide Oval,3,India
+173,28.3,2,R Ashwin,2012-02-12,1st,DJ Hussey,29,,PJ Forrest,43,Australia,India,138,Australia,Adelaide Oval,3,India
+174,28.4,1,R Ashwin,2012-02-12,1st,DJ Hussey,29,,PJ Forrest,44,Australia,India,139,Australia,Adelaide Oval,3,India
+175,28.5,2,R Ashwin,2012-02-12,1st,PJ Forrest,44,,DJ Hussey,31,Australia,India,141,Australia,Adelaide Oval,3,India
+176,28.6,0,R Ashwin,2012-02-12,1st,PJ Forrest,44,,DJ Hussey,31,Australia,India,141,Australia,Adelaide Oval,3,India
+177,29.1,0,RA Jadeja,2012-02-12,1st,DJ Hussey,31,,PJ Forrest,44,Australia,India,141,Australia,Adelaide Oval,3,India
+178,29.2,1,RA Jadeja,2012-02-12,1st,DJ Hussey,31,,PJ Forrest,45,Australia,India,142,Australia,Adelaide Oval,3,India
+179,29.3,1,RA Jadeja,2012-02-12,1st,PJ Forrest,45,,DJ Hussey,32,Australia,India,143,Australia,Adelaide Oval,3,India
+180,29.4,1,RA Jadeja,2012-02-12,1st,DJ Hussey,32,,PJ Forrest,46,Australia,India,144,Australia,Adelaide Oval,3,India
+181,29.5,0,RA Jadeja,2012-02-12,1st,PJ Forrest,46,,DJ Hussey,32,Australia,India,144,Australia,Adelaide Oval,3,India
+182,29.6,1,RA Jadeja,2012-02-12,1st,PJ Forrest,46,,DJ Hussey,33,Australia,India,145,Australia,Adelaide Oval,3,India
+183,30.1,1,RG Sharma,2012-02-12,1st,PJ Forrest,46,,DJ Hussey,34,Australia,India,146,Australia,Adelaide Oval,3,India
+184,30.2,1,RG Sharma,2012-02-12,1st,DJ Hussey,34,,PJ Forrest,47,Australia,India,147,Australia,Adelaide Oval,3,India
+185,30.3,1,RG Sharma,2012-02-12,1st,PJ Forrest,47,,DJ Hussey,35,Australia,India,148,Australia,Adelaide Oval,3,India
+186,30.4,1,RG Sharma,2012-02-12,1st,DJ Hussey,35,,PJ Forrest,48,Australia,India,149,Australia,Adelaide Oval,3,India
+187,30.5,1,RG Sharma,2012-02-12,1st,PJ Forrest,48,,DJ Hussey,36,Australia,India,150,Australia,Adelaide Oval,3,India
+188,30.6,0,RG Sharma,2012-02-12,1st,DJ Hussey,36,,PJ Forrest,48,Australia,India,150,Australia,Adelaide Oval,3,India
+189,31.1,1,R Vinay Kumar,2012-02-12,1st,PJ Forrest,48,,DJ Hussey,37,Australia,India,151,Australia,Adelaide Oval,3,India
+190,31.2,1,R Vinay Kumar,2012-02-12,1st,DJ Hussey,37,,PJ Forrest,49,Australia,India,152,Australia,Adelaide Oval,3,India
+191,31.3,1,R Vinay Kumar,2012-02-12,1st,PJ Forrest,49,,DJ Hussey,38,Australia,India,153,Australia,Adelaide Oval,3,India
+192,31.4,0,R Vinay Kumar,2012-02-12,1st,DJ Hussey,38,,PJ Forrest,49,Australia,India,153,Australia,Adelaide Oval,3,India
+193,31.5,0,R Vinay Kumar,2012-02-12,1st,DJ Hussey,38,,PJ Forrest,49,Australia,India,153,Australia,Adelaide Oval,3,India
+194,31.6,1,R Vinay Kumar,2012-02-12,1st,DJ Hussey,38,,PJ Forrest,50,Australia,India,154,Australia,Adelaide Oval,3,India
+195,32.1,1,RG Sharma,2012-02-12,1st,DJ Hussey,38,,PJ Forrest,51,Australia,India,155,Australia,Adelaide Oval,3,India
+196,32.2,2,RG Sharma,2012-02-12,1st,PJ Forrest,51,,DJ Hussey,40,Australia,India,157,Australia,Adelaide Oval,3,India
+197,32.3,1,RG Sharma,2012-02-12,1st,PJ Forrest,51,,DJ Hussey,41,Australia,India,158,Australia,Adelaide Oval,3,India
+198,32.4,6,RG Sharma,2012-02-12,1st,DJ Hussey,41,,PJ Forrest,57,Australia,India,164,Australia,Adelaide Oval,3,India
+199,32.5,0,RG Sharma,2012-02-12,1st,DJ Hussey,41,,PJ Forrest,57,Australia,India,164,Australia,Adelaide Oval,3,India
+200,32.6,0,RG Sharma,2012-02-12,1st,DJ Hussey,41,,PJ Forrest,57,Australia,India,164,Australia,Adelaide Oval,3,India
+201,33.1,1,R Ashwin,2012-02-12,1st,PJ Forrest,57,,DJ Hussey,42,Australia,India,165,Australia,Adelaide Oval,3,India
+202,33.2,0,R Ashwin,2012-02-12,1st,DJ Hussey,42,,PJ Forrest,57,Australia,India,165,Australia,Adelaide Oval,3,India
+203,33.3,1,R Ashwin,2012-02-12,1st,DJ Hussey,42,,PJ Forrest,58,Australia,India,166,Australia,Adelaide Oval,3,India
+204,33.4,1,R Ashwin,2012-02-12,1st,PJ Forrest,58,,DJ Hussey,43,Australia,India,167,Australia,Adelaide Oval,3,India
+205,33.5,1,R Ashwin,2012-02-12,1st,DJ Hussey,43,,PJ Forrest,59,Australia,India,168,Australia,Adelaide Oval,3,India
+206,33.6,1,R Ashwin,2012-02-12,1st,PJ Forrest,59,,DJ Hussey,44,Australia,India,169,Australia,Adelaide Oval,3,India
+207,34.1,2,Z Khan,2012-02-12,1st,PJ Forrest,59,,DJ Hussey,46,Australia,India,171,Australia,Adelaide Oval,3,India
+208,34.2,0,Z Khan,2012-02-12,1st,PJ Forrest,59,,DJ Hussey,46,Australia,India,171,Australia,Adelaide Oval,3,India
+209,34.3,0,Z Khan,2012-02-12,1st,PJ Forrest,59,,DJ Hussey,46,Australia,India,171,Australia,Adelaide Oval,3,India
+210,34.4,1,Z Khan,2012-02-12,1st,PJ Forrest,59,,DJ Hussey,47,Australia,India,172,Australia,Adelaide Oval,3,India
+211,34.5,2,Z Khan,2012-02-12,1st,DJ Hussey,47,,PJ Forrest,61,Australia,India,174,Australia,Adelaide Oval,3,India
+212,34.6,1,Z Khan,2012-02-12,1st,DJ Hussey,47,,PJ Forrest,62,Australia,India,175,Australia,Adelaide Oval,3,India
+213,35.1,4,UT Yadav,2012-02-12,1st,DJ Hussey,47,,PJ Forrest,66,Australia,India,179,Australia,Adelaide Oval,3,India
+214,35.2,0,UT Yadav,2012-02-12,1st,DJ Hussey,47,,PJ Forrest,66,Australia,India,179,Australia,Adelaide Oval,3,India
+215,35.3,0,UT Yadav,2012-02-12,1st,DJ Hussey,47,PJ Forrest,PJ Forrest,66,Australia,India,179,Australia,Adelaide Oval,4,India
+216,35.4,2,UT Yadav,2012-02-12,1st,DT Christian,0,,DJ Hussey,49,Australia,India,181,Australia,Adelaide Oval,4,India
+217,35.5,0,UT Yadav,2012-02-12,1st,DT Christian,0,,DJ Hussey,49,Australia,India,181,Australia,Adelaide Oval,4,India
+218,35.6,0,UT Yadav,2012-02-12,1st,DT Christian,0,,DJ Hussey,49,Australia,India,181,Australia,Adelaide Oval,4,India
+219,36.1,2,Z Khan,2012-02-12,1st,DJ Hussey,49,,DT Christian,2,Australia,India,183,Australia,Adelaide Oval,4,India
+220,36.2,0,Z Khan,2012-02-12,1st,DJ Hussey,49,,DT Christian,2,Australia,India,183,Australia,Adelaide Oval,4,India
+221,36.3,1,Z Khan,2012-02-12,1st,DJ Hussey,49,,DT Christian,3,Australia,India,184,Australia,Adelaide Oval,4,India
+222,36.4,1,Z Khan,2012-02-12,1st,DT Christian,3,,DJ Hussey,50,Australia,India,185,Australia,Adelaide Oval,4,India
+223,36.5,1,Z Khan,2012-02-12,1st,DJ Hussey,50,,DT Christian,4,Australia,India,186,Australia,Adelaide Oval,4,India
+224,36.6,1,Z Khan,2012-02-12,1st,DT Christian,4,,DJ Hussey,51,Australia,India,187,Australia,Adelaide Oval,4,India
+225,37.1,2,UT Yadav,2012-02-12,1st,DT Christian,4,,DJ Hussey,53,Australia,India,189,Australia,Adelaide Oval,4,India
+226,37.2,1,UT Yadav,2012-02-12,1st,DT Christian,4,,DJ Hussey,54,Australia,India,190,Australia,Adelaide Oval,4,India
+227,37.3,4,UT Yadav,2012-02-12,1st,DJ Hussey,54,,DT Christian,8,Australia,India,194,Australia,Adelaide Oval,4,India
+228,37.4,0,UT Yadav,2012-02-12,1st,DJ Hussey,54,,DT Christian,8,Australia,India,194,Australia,Adelaide Oval,4,India
+229,37.5,1,UT Yadav,2012-02-12,1st,DJ Hussey,54,,DT Christian,9,Australia,India,195,Australia,Adelaide Oval,4,India
+230,37.6,4,UT Yadav,2012-02-12,1st,DT Christian,9,,DJ Hussey,58,Australia,India,199,Australia,Adelaide Oval,4,India
+231,38.1,2,Z Khan,2012-02-12,1st,DJ Hussey,58,,DT Christian,11,Australia,India,201,Australia,Adelaide Oval,4,India
+232,38.2,2,Z Khan,2012-02-12,1st,DJ Hussey,58,,DT Christian,13,Australia,India,203,Australia,Adelaide Oval,4,India
+233,38.3,2,Z Khan,2012-02-12,1st,DJ Hussey,58,,DT Christian,15,Australia,India,205,Australia,Adelaide Oval,4,India
+234,38.4,0,Z Khan,2012-02-12,1st,DJ Hussey,58,,DT Christian,15,Australia,India,205,Australia,Adelaide Oval,4,India
+235,38.5,0,Z Khan,2012-02-12,1st,DJ Hussey,58,,DT Christian,15,Australia,India,205,Australia,Adelaide Oval,4,India
+236,38.6,0,Z Khan,2012-02-12,1st,DJ Hussey,58,,DT Christian,15,Australia,India,205,Australia,Adelaide Oval,4,India
+237,39.1,1,R Vinay Kumar,2012-02-12,1st,DT Christian,15,,DJ Hussey,59,Australia,India,206,Australia,Adelaide Oval,4,India
+238,39.2,1,R Vinay Kumar,2012-02-12,1st,DJ Hussey,59,,DT Christian,16,Australia,India,207,Australia,Adelaide Oval,4,India
+239,39.3,1,R Vinay Kumar,2012-02-12,1st,DT Christian,16,,DJ Hussey,60,Australia,India,208,Australia,Adelaide Oval,4,India
+240,39.4,0,R Vinay Kumar,2012-02-12,1st,DJ Hussey,60,,DT Christian,16,Australia,India,208,Australia,Adelaide Oval,4,India
+241,39.5,3,R Vinay Kumar,2012-02-12,1st,DJ Hussey,60,,DT Christian,19,Australia,India,211,Australia,Adelaide Oval,4,India
+242,39.6,1,R Vinay Kumar,2012-02-12,1st,DT Christian,19,,DJ Hussey,61,Australia,India,212,Australia,Adelaide Oval,4,India
+243,40.1,1,RA Jadeja,2012-02-12,1st,DT Christian,19,,DJ Hussey,62,Australia,India,213,Australia,Adelaide Oval,4,India
+244,40.2,0,RA Jadeja,2012-02-12,1st,DJ Hussey,62,,DT Christian,19,Australia,India,213,Australia,Adelaide Oval,4,India
+245,40.3,2,RA Jadeja,2012-02-12,1st,DJ Hussey,62,,DT Christian,21,Australia,India,215,Australia,Adelaide Oval,4,India
+246,40.4,0,RA Jadeja,2012-02-12,1st,DJ Hussey,62,,DT Christian,21,Australia,India,215,Australia,Adelaide Oval,4,India
+247,40.5,1,RA Jadeja,2012-02-12,1st,DJ Hussey,62,,DT Christian,22,Australia,India,216,Australia,Adelaide Oval,4,India
+248,40.6,1,RA Jadeja,2012-02-12,1st,DT Christian,22,,DJ Hussey,63,Australia,India,217,Australia,Adelaide Oval,4,India
+249,41.1,0,R Ashwin,2012-02-12,1st,DT Christian,22,,DJ Hussey,63,Australia,India,217,Australia,Adelaide Oval,4,India
+250,41.2,1,R Ashwin,2012-02-12,1st,DT Christian,22,,DJ Hussey,64,Australia,India,218,Australia,Adelaide Oval,4,India
+251,41.3,2,R Ashwin,2012-02-12,1st,DJ Hussey,64,,DT Christian,24,Australia,India,220,Australia,Adelaide Oval,4,India
+252,41.4,1,R Ashwin,2012-02-12,1st,DJ Hussey,64,,DT Christian,25,Australia,India,221,Australia,Adelaide Oval,4,India
+253,41.5,0,R Ashwin,2012-02-12,1st,DT Christian,25,,DJ Hussey,64,Australia,India,221,Australia,Adelaide Oval,4,India
+254,41.6,0,R Ashwin,2012-02-12,1st,DT Christian,25,,DJ Hussey,64,Australia,India,221,Australia,Adelaide Oval,4,India
+255,42.1,0,RA Jadeja,2012-02-12,1st,DJ Hussey,64,,DT Christian,25,Australia,India,223,Australia,Adelaide Oval,4,India
+256,42.2,1,RA Jadeja,2012-02-12,1st,DT Christian,25,,DJ Hussey,65,Australia,India,224,Australia,Adelaide Oval,4,India
+257,42.3,1,RA Jadeja,2012-02-12,1st,DJ Hussey,65,,DT Christian,26,Australia,India,225,Australia,Adelaide Oval,4,India
+258,42.4,0,RA Jadeja,2012-02-12,1st,DT Christian,26,,DJ Hussey,65,Australia,India,225,Australia,Adelaide Oval,4,India
+259,42.5,4,RA Jadeja,2012-02-12,1st,DT Christian,26,,DJ Hussey,69,Australia,India,229,Australia,Adelaide Oval,4,India
+260,42.6,1,RA Jadeja,2012-02-12,1st,DT Christian,26,,DJ Hussey,70,Australia,India,230,Australia,Adelaide Oval,4,India
+261,42.7,0,RA Jadeja,2012-02-12,1st,DJ Hussey,70,,DT Christian,26,Australia,India,230,Australia,Adelaide Oval,4,India
+262,43.1,1,R Vinay Kumar,2012-02-12,1st,DT Christian,26,,DJ Hussey,71,Australia,India,231,Australia,Adelaide Oval,4,India
+263,43.2,1,R Vinay Kumar,2012-02-12,1st,DJ Hussey,71,,DT Christian,27,Australia,India,232,Australia,Adelaide Oval,4,India
+264,43.3,0,R Vinay Kumar,2012-02-12,1st,DT Christian,27,,DJ Hussey,71,Australia,India,232,Australia,Adelaide Oval,4,India
+265,43.4,1,R Vinay Kumar,2012-02-12,1st,DT Christian,27,,DJ Hussey,72,Australia,India,233,Australia,Adelaide Oval,4,India
+266,43.5,1,R Vinay Kumar,2012-02-12,1st,DJ Hussey,72,,DT Christian,28,Australia,India,234,Australia,Adelaide Oval,4,India
+267,43.6,0,R Vinay Kumar,2012-02-12,1st,DT Christian,28,,DJ Hussey,72,Australia,India,234,Australia,Adelaide Oval,4,India
+268,44.1,1,Z Khan,2012-02-12,1st,DJ Hussey,72,,DT Christian,29,Australia,India,235,Australia,Adelaide Oval,4,India
+269,44.2,0,Z Khan,2012-02-12,1st,DT Christian,29,DJ Hussey,DJ Hussey,72,Australia,India,235,Australia,Adelaide Oval,5,India
+270,44.3,0,Z Khan,2012-02-12,1st,DT Christian,29,,MS Wade,0,Australia,India,235,Australia,Adelaide Oval,5,India
+271,44.4,0,Z Khan,2012-02-12,1st,DT Christian,29,,MS Wade,0,Australia,India,235,Australia,Adelaide Oval,5,India
+272,44.5,0,Z Khan,2012-02-12,1st,DT Christian,29,,MS Wade,0,Australia,India,235,Australia,Adelaide Oval,5,India
+273,44.6,1,Z Khan,2012-02-12,1st,DT Christian,29,,MS Wade,1,Australia,India,236,Australia,Adelaide Oval,5,India
+274,45.1,4,UT Yadav,2012-02-12,1st,DT Christian,29,,MS Wade,5,Australia,India,240,Australia,Adelaide Oval,5,India
+275,45.2,0,UT Yadav,2012-02-12,1st,DT Christian,29,,MS Wade,5,Australia,India,240,Australia,Adelaide Oval,5,India
+276,45.3,0,UT Yadav,2012-02-12,1st,DT Christian,29,,MS Wade,5,Australia,India,241,Australia,Adelaide Oval,5,India
+277,45.4,4,UT Yadav,2012-02-12,1st,MS Wade,5,,DT Christian,33,Australia,India,245,Australia,Adelaide Oval,5,India
+278,45.5,0,UT Yadav,2012-02-12,1st,MS Wade,5,,DT Christian,33,Australia,India,245,Australia,Adelaide Oval,5,India
+279,45.6,0,UT Yadav,2012-02-12,1st,MS Wade,5,,DT Christian,33,Australia,India,245,Australia,Adelaide Oval,5,India
+280,46.1,0,Z Khan,2012-02-12,1st,DT Christian,33,,MS Wade,5,Australia,India,245,Australia,Adelaide Oval,5,India
+281,46.2,1,Z Khan,2012-02-12,1st,DT Christian,33,,MS Wade,6,Australia,India,246,Australia,Adelaide Oval,5,India
+282,46.3,0,Z Khan,2012-02-12,1st,MS Wade,6,,DT Christian,33,Australia,India,246,Australia,Adelaide Oval,5,India
+283,46.4,2,Z Khan,2012-02-12,1st,MS Wade,6,,DT Christian,35,Australia,India,248,Australia,Adelaide Oval,5,India
+284,46.5,0,Z Khan,2012-02-12,1st,MS Wade,6,,DT Christian,35,Australia,India,248,Australia,Adelaide Oval,5,India
+285,46.6,0,Z Khan,2012-02-12,1st,MS Wade,6,,DT Christian,35,Australia,India,248,Australia,Adelaide Oval,5,India
+286,47.1,1,R Vinay Kumar,2012-02-12,1st,DT Christian,35,,MS Wade,7,Australia,India,249,Australia,Adelaide Oval,5,India
+287,47.2,3,R Vinay Kumar,2012-02-12,1st,MS Wade,7,,DT Christian,38,Australia,India,252,Australia,Adelaide Oval,5,India
+288,47.3,1,R Vinay Kumar,2012-02-12,1st,DT Christian,38,,MS Wade,8,Australia,India,253,Australia,Adelaide Oval,5,India
+289,47.4,1,R Vinay Kumar,2012-02-12,1st,MS Wade,8,DT Christian,DT Christian,39,Australia,India,254,Australia,Adelaide Oval,6,India
+290,47.5,1,R Vinay Kumar,2012-02-12,1st,MS Wade,8,,RJ Harris,1,Australia,India,255,Australia,Adelaide Oval,6,India
+291,47.6,1,R Vinay Kumar,2012-02-12,1st,RJ Harris,1,,MS Wade,9,Australia,India,256,Australia,Adelaide Oval,6,India
+292,48.1,0,UT Yadav,2012-02-12,1st,RJ Harris,1,,MS Wade,9,Australia,India,256,Australia,Adelaide Oval,6,India
+293,48.2,1,UT Yadav,2012-02-12,1st,RJ Harris,1,,MS Wade,10,Australia,India,257,Australia,Adelaide Oval,6,India
+294,48.3,0,UT Yadav,2012-02-12,1st,MS Wade,10,,RJ Harris,1,Australia,India,258,Australia,Adelaide Oval,6,India
+295,48.4,1,UT Yadav,2012-02-12,1st,RJ Harris,1,,MS Wade,11,Australia,India,259,Australia,Adelaide Oval,6,India
+296,48.5,0,UT Yadav,2012-02-12,1st,MS Wade,11,,RJ Harris,1,Australia,India,260,Australia,Adelaide Oval,6,India
+297,48.6,3,UT Yadav,2012-02-12,1st,RJ Harris,1,,MS Wade,14,Australia,India,263,Australia,Adelaide Oval,6,India
+298,49.1,2,R Vinay Kumar,2012-02-12,1st,RJ Harris,1,,MS Wade,16,Australia,India,265,Australia,Adelaide Oval,6,India
+299,49.2,0,R Vinay Kumar,2012-02-12,1st,RJ Harris,1,MS Wade,MS Wade,16,Australia,India,265,Australia,Adelaide Oval,7,India
+300,49.3,1,R Vinay Kumar,2012-02-12,1st,RJ Harris,1,,CJ McKay,1,Australia,India,266,Australia,Adelaide Oval,7,India
+301,49.4,1,R Vinay Kumar,2012-02-12,1st,CJ McKay,1,,RJ Harris,2,Australia,India,267,Australia,Adelaide Oval,7,India
+302,49.5,2,R Vinay Kumar,2012-02-12,1st,RJ Harris,2,,CJ McKay,3,Australia,India,269,Australia,Adelaide Oval,7,India
+303,49.6,0,R Vinay Kumar,2012-02-12,1st,RJ Harris,2,CJ McKay,CJ McKay,3,Australia,India,269,Australia,Adelaide Oval,8,India
+304,0.1,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,0,Australia,Adelaide Oval,0,India
+305,0.2,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,0,Australia,Adelaide Oval,0,India
+306,0.3,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,0,Australia,Adelaide Oval,0,India
+307,0.4,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,0,Australia,Adelaide Oval,0,India
+308,0.5,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,0,Australia,Adelaide Oval,0,India
+309,0.6,1,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,1,Australia,Adelaide Oval,0,India
+310,1.1,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,1,Australia,Adelaide Oval,0,India
+311,1.2,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,1,Australia,Adelaide Oval,0,India
+312,1.3,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,1,Australia,Adelaide Oval,0,India
+313,1.4,1,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,2,Australia,Adelaide Oval,0,India
+314,1.5,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,3,Australia,Adelaide Oval,0,India
+315,1.6,4,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,7,Australia,Adelaide Oval,0,India
+316,2.1,4,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,11,Australia,Adelaide Oval,0,India
+317,2.2,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,12,Australia,Adelaide Oval,0,India
+318,2.3,4,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,16,Australia,Adelaide Oval,0,India
+319,2.4,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,16,Australia,Adelaide Oval,0,India
+320,2.5,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,17,Australia,Adelaide Oval,0,India
+321,2.6,1,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,18,Australia,Adelaide Oval,0,India
+322,2.7,2,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,20,Australia,Adelaide Oval,0,India
+323,3.1,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,20,Australia,Adelaide Oval,0,India
+324,3.2,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,20,Australia,Adelaide Oval,0,India
+325,3.3,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,20,Australia,Adelaide Oval,0,India
+326,3.4,4,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,24,Australia,Adelaide Oval,0,India
+327,3.5,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,24,Australia,Adelaide Oval,0,India
+328,3.6,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,24,Australia,Adelaide Oval,0,India
+329,4.1,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,24,Australia,Adelaide Oval,0,India
+330,4.2,1,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,25,Australia,Adelaide Oval,0,India
+331,4.3,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,25,Australia,Adelaide Oval,0,India
+332,4.4,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,26,Australia,Adelaide Oval,0,India
+333,4.5,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,26,Australia,Adelaide Oval,0,India
+334,4.6,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,26,Australia,Adelaide Oval,0,India
+335,5.1,4,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,30,Australia,Adelaide Oval,0,India
+336,5.2,1,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,31,Australia,Adelaide Oval,0,India
+337,5.3,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,31,Australia,Adelaide Oval,0,India
+338,5.4,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,31,Australia,Adelaide Oval,0,India
+339,5.5,2,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,33,Australia,Adelaide Oval,0,India
+340,5.6,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,33,Australia,Adelaide Oval,0,India
+341,6.1,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,33,Australia,Adelaide Oval,0,India
+342,6.2,2,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,35,Australia,Adelaide Oval,0,India
+343,6.3,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,35,Australia,Adelaide Oval,0,India
+344,6.4,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,35,Australia,Adelaide Oval,0,India
+345,6.5,1,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,36,Australia,Adelaide Oval,0,India
+346,6.6,1,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,37,Australia,Adelaide Oval,0,India
+347,7.1,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,37,Australia,Adelaide Oval,0,India
+348,7.2,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,38,Australia,Adelaide Oval,0,India
+349,7.3,0,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,39,Australia,Adelaide Oval,0,India
+350,7.4,1,MA Starc,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,40,Australia,Adelaide Oval,0,India
+351,7.5,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,40,Australia,Adelaide Oval,0,India
+352,7.6,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,40,Australia,Adelaide Oval,0,India
+353,7.7,4,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,44,Australia,Adelaide Oval,0,India
+354,8.1,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,44,Australia,Adelaide Oval,0,India
+355,8.2,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,44,Australia,Adelaide Oval,0,India
+356,8.3,4,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,48,Australia,Adelaide Oval,0,India
+357,8.4,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,48,Australia,Adelaide Oval,0,India
+358,8.5,4,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,52,Australia,Adelaide Oval,0,India
+359,8.6,0,RJ Harris,2012-02-12,2nd,V Sehwag,0,,G Gambhir,0,Australia,India,52,Australia,Adelaide Oval,0,India
+360,9.1,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Sehwag,0,Australia,India,52,Australia,Adelaide Oval,1,India
+361,9.2,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,52,Australia,Adelaide Oval,1,India
+362,9.3,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,52,Australia,Adelaide Oval,1,India
+363,9.4,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,52,Australia,Adelaide Oval,1,India
+364,9.5,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,52,Australia,Adelaide Oval,1,India
+365,9.6,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,52,Australia,Adelaide Oval,1,India
+366,10.1,0,RJ Harris,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,52,Australia,Adelaide Oval,1,India
+367,10.2,0,RJ Harris,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,52,Australia,Adelaide Oval,1,India
+368,10.3,1,RJ Harris,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,53,Australia,Adelaide Oval,1,India
+369,10.4,1,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,54,Australia,Adelaide Oval,1,India
+370,10.5,3,RJ Harris,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,57,Australia,Adelaide Oval,1,India
+371,10.6,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,57,Australia,Adelaide Oval,1,India
+372,11.1,1,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,58,Australia,Adelaide Oval,1,India
+373,11.2,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,58,Australia,Adelaide Oval,1,India
+374,11.3,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,58,Australia,Adelaide Oval,1,India
+375,11.4,1,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,59,Australia,Adelaide Oval,1,India
+376,11.5,0,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,59,Australia,Adelaide Oval,1,India
+377,11.6,0,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,59,Australia,Adelaide Oval,1,India
+378,12.1,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,59,Australia,Adelaide Oval,1,India
+379,12.2,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,59,Australia,Adelaide Oval,1,India
+380,12.3,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,60,Australia,Adelaide Oval,1,India
+381,12.4,1,MA Starc,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,61,Australia,Adelaide Oval,1,India
+382,12.5,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,61,Australia,Adelaide Oval,1,India
+383,12.6,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,61,Australia,Adelaide Oval,1,India
+384,13.1,1,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,62,Australia,Adelaide Oval,1,India
+385,13.2,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,62,Australia,Adelaide Oval,1,India
+386,13.3,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,62,Australia,Adelaide Oval,1,India
+387,13.4,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,63,Australia,Adelaide Oval,1,India
+388,13.5,1,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,64,Australia,Adelaide Oval,1,India
+389,13.6,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,65,Australia,Adelaide Oval,1,India
+390,14.1,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,66,Australia,Adelaide Oval,1,India
+391,14.2,1,MA Starc,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,67,Australia,Adelaide Oval,1,India
+392,14.3,3,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,70,Australia,Adelaide Oval,1,India
+393,14.4,1,MA Starc,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,71,Australia,Adelaide Oval,1,India
+394,14.5,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,72,Australia,Adelaide Oval,1,India
+395,14.6,2,MA Starc,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,74,Australia,Adelaide Oval,1,India
+396,15.1,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,75,Australia,Adelaide Oval,1,India
+397,15.2,0,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,75,Australia,Adelaide Oval,1,India
+398,15.3,0,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,75,Australia,Adelaide Oval,1,India
+399,15.4,2,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,77,Australia,Adelaide Oval,1,India
+400,15.5,0,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,77,Australia,Adelaide Oval,1,India
+401,15.6,1,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,78,Australia,Adelaide Oval,1,India
+402,16.1,0,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,78,Australia,Adelaide Oval,1,India
+403,16.2,0,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,78,Australia,Adelaide Oval,1,India
+404,16.3,0,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,78,Australia,Adelaide Oval,1,India
+405,16.4,0,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,79,Australia,Adelaide Oval,1,India
+406,16.5,1,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,80,Australia,Adelaide Oval,1,India
+407,16.6,1,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,81,Australia,Adelaide Oval,1,India
+408,16.7,1,CJ McKay,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,82,Australia,Adelaide Oval,1,India
+409,17.1,0,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,82,Australia,Adelaide Oval,1,India
+410,17.2,1,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,83,Australia,Adelaide Oval,1,India
+411,17.3,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,84,Australia,Adelaide Oval,1,India
+412,17.4,1,DT Christian,2012-02-12,2nd,V Kohli,0,,G Gambhir,0,Australia,India,85,Australia,Adelaide Oval,1,India
+413,17.5,4,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,89,Australia,Adelaide Oval,1,India
+414,17.6,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,90,Australia,Adelaide Oval,1,India
+415,18.1,0,CJ McKay,2012-02-12,2nd,G Gambhir,0,,V Kohli,0,Australia,India,90,Australia,Adelaide Oval,2,India
+416,18.2,1,CJ McKay,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,91,Australia,Adelaide Oval,2,India
+417,18.3,1,CJ McKay,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,92,Australia,Adelaide Oval,2,India
+418,18.4,0,CJ McKay,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,92,Australia,Adelaide Oval,2,India
+419,18.5,4,CJ McKay,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,96,Australia,Adelaide Oval,2,India
+420,18.6,0,CJ McKay,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,96,Australia,Adelaide Oval,2,India
+421,19.1,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,96,Australia,Adelaide Oval,2,India
+422,19.2,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,96,Australia,Adelaide Oval,2,India
+423,19.3,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,97,Australia,Adelaide Oval,2,India
+424,19.4,1,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,98,Australia,Adelaide Oval,2,India
+425,19.5,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,98,Australia,Adelaide Oval,2,India
+426,19.6,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,99,Australia,Adelaide Oval,2,India
+427,20.1,1,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,100,Australia,Adelaide Oval,2,India
+428,20.2,1,DJ Hussey,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,101,Australia,Adelaide Oval,2,India
+429,20.3,0,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,101,Australia,Adelaide Oval,2,India
+430,20.4,1,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,102,Australia,Adelaide Oval,2,India
+431,20.5,1,DJ Hussey,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,103,Australia,Adelaide Oval,2,India
+432,20.6,0,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,103,Australia,Adelaide Oval,2,India
+433,21.1,2,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,105,Australia,Adelaide Oval,2,India
+434,21.2,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,105,Australia,Adelaide Oval,2,India
+435,21.3,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,105,Australia,Adelaide Oval,2,India
+436,21.4,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,109,Australia,Adelaide Oval,2,India
+437,21.5,0,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,109,Australia,Adelaide Oval,2,India
+438,21.6,1,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,110,Australia,Adelaide Oval,2,India
+439,21.7,1,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,111,Australia,Adelaide Oval,2,India
+440,22.1,1,DJ Hussey,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,112,Australia,Adelaide Oval,2,India
+441,22.2,1,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,113,Australia,Adelaide Oval,2,India
+442,22.3,1,DJ Hussey,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,114,Australia,Adelaide Oval,2,India
+443,22.4,0,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,114,Australia,Adelaide Oval,2,India
+444,22.5,1,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,115,Australia,Adelaide Oval,2,India
+445,22.6,1,DJ Hussey,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,116,Australia,Adelaide Oval,2,India
+446,23.1,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,116,Australia,Adelaide Oval,2,India
+447,23.2,1,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,117,Australia,Adelaide Oval,2,India
+448,23.3,1,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,118,Australia,Adelaide Oval,2,India
+449,23.4,1,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,119,Australia,Adelaide Oval,2,India
+450,23.5,1,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,120,Australia,Adelaide Oval,2,India
+451,23.6,1,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,121,Australia,Adelaide Oval,2,India
+452,24.1,1,DJ Hussey,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,122,Australia,Adelaide Oval,2,India
+453,24.2,1,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,123,Australia,Adelaide Oval,2,India
+454,24.3,1,DJ Hussey,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,124,Australia,Adelaide Oval,2,India
+455,24.4,0,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,124,Australia,Adelaide Oval,2,India
+456,24.5,0,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,124,Australia,Adelaide Oval,2,India
+457,24.6,1,DJ Hussey,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,125,Australia,Adelaide Oval,2,India
+458,25.1,1,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,126,Australia,Adelaide Oval,2,India
+459,25.2,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,126,Australia,Adelaide Oval,2,India
+460,25.3,1,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,127,Australia,Adelaide Oval,2,India
+461,25.4,1,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,128,Australia,Adelaide Oval,2,India
+462,25.5,1,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,129,Australia,Adelaide Oval,2,India
+463,25.6,1,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,130,Australia,Adelaide Oval,2,India
+464,26.1,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,131,Australia,Adelaide Oval,2,India
+465,26.2,1,MA Starc,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,132,Australia,Adelaide Oval,2,India
+466,26.3,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,132,Australia,Adelaide Oval,2,India
+467,26.4,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,133,Australia,Adelaide Oval,2,India
+468,26.5,1,MA Starc,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,134,Australia,Adelaide Oval,2,India
+469,26.6,0,MA Starc,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,134,Australia,Adelaide Oval,2,India
+470,27.1,1,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,135,Australia,Adelaide Oval,2,India
+471,27.2,1,XJ Doherty,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,136,Australia,Adelaide Oval,2,India
+472,27.3,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,136,Australia,Adelaide Oval,2,India
+473,27.4,2,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,138,Australia,Adelaide Oval,2,India
+474,27.5,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,138,Australia,Adelaide Oval,2,India
+475,27.6,0,XJ Doherty,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,138,Australia,Adelaide Oval,2,India
+476,28.1,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,139,Australia,Adelaide Oval,2,India
+477,28.2,1,MA Starc,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,140,Australia,Adelaide Oval,2,India
+478,28.3,6,MA Starc,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,146,Australia,Adelaide Oval,2,India
+479,28.4,1,MA Starc,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,147,Australia,Adelaide Oval,2,India
+480,28.5,0,MA Starc,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,147,Australia,Adelaide Oval,2,India
+481,28.6,1,MA Starc,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,148,Australia,Adelaide Oval,2,India
+482,29.1,0,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,148,Australia,Adelaide Oval,2,India
+483,29.2,1,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,149,Australia,Adelaide Oval,2,India
+484,29.3,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,149,Australia,Adelaide Oval,2,India
+485,29.4,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,150,Australia,Adelaide Oval,2,India
+486,29.5,1,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,151,Australia,Adelaide Oval,2,India
+487,29.6,4,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,155,Australia,Adelaide Oval,2,India
+488,30.1,1,RJ Harris,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,156,Australia,Adelaide Oval,2,India
+489,30.2,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,156,Australia,Adelaide Oval,2,India
+490,30.3,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,156,Australia,Adelaide Oval,2,India
+491,30.4,1,RJ Harris,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,157,Australia,Adelaide Oval,2,India
+492,30.5,4,RJ Harris,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,161,Australia,Adelaide Oval,2,India
+493,30.6,0,RJ Harris,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,161,Australia,Adelaide Oval,2,India
+494,31.1,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,161,Australia,Adelaide Oval,2,India
+495,31.2,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,162,Australia,Adelaide Oval,2,India
+496,31.3,0,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,162,Australia,Adelaide Oval,2,India
+497,31.4,0,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,162,Australia,Adelaide Oval,2,India
+498,31.5,2,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,164,Australia,Adelaide Oval,2,India
+499,31.6,1,DT Christian,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,165,Australia,Adelaide Oval,2,India
+500,32.1,1,RJ Harris,2012-02-12,2nd,RG Sharma,0,,G Gambhir,0,Australia,India,166,Australia,Adelaide Oval,2,India
+501,32.2,0,RJ Harris,2012-02-12,2nd,G Gambhir,0,,RG Sharma,0,Australia,India,166,Australia,Adelaide Oval,3,India
+502,32.3,1,RJ Harris,2012-02-12,2nd,SK Raina,0,,G Gambhir,0,Australia,India,167,Australia,Adelaide Oval,3,India
+503,32.4,4,RJ Harris,2012-02-12,2nd,G Gambhir,0,,SK Raina,0,Australia,India,171,Australia,Adelaide Oval,3,India
+504,32.5,1,RJ Harris,2012-02-12,2nd,G Gambhir,0,,SK Raina,0,Australia,India,172,Australia,Adelaide Oval,3,India
+505,32.6,1,RJ Harris,2012-02-12,2nd,SK Raina,0,,G Gambhir,0,Australia,India,173,Australia,Adelaide Oval,3,India
+506,33.1,2,DT Christian,2012-02-12,2nd,SK Raina,0,,G Gambhir,0,Australia,India,175,Australia,Adelaide Oval,3,India
+507,33.2,1,DT Christian,2012-02-12,2nd,SK Raina,0,,G Gambhir,0,Australia,India,176,Australia,Adelaide Oval,3,India
+508,33.3,1,DT Christian,2012-02-12,2nd,G Gambhir,0,,SK Raina,0,Australia,India,177,Australia,Adelaide Oval,3,India
+509,33.4,0,DT Christian,2012-02-12,2nd,SK Raina,0,,G Gambhir,0,Australia,India,177,Australia,Adelaide Oval,3,India
+510,33.5,1,DT Christian,2012-02-12,2nd,SK Raina,0,,G Gambhir,0,Australia,India,178,Australia,Adelaide Oval,3,India
+511,33.6,0,DT Christian,2012-02-12,2nd,G Gambhir,0,,SK Raina,0,Australia,India,178,Australia,Adelaide Oval,3,India
+512,34.1,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,G Gambhir,0,Australia,India,178,Australia,Adelaide Oval,4,India
+513,34.2,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,178,Australia,Adelaide Oval,4,India
+514,34.3,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,178,Australia,Adelaide Oval,4,India
+515,34.4,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,178,Australia,Adelaide Oval,4,India
+516,34.5,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,178,Australia,Adelaide Oval,4,India
+517,34.6,1,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,179,Australia,Adelaide Oval,4,India
+518,35.1,1,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,180,Australia,Adelaide Oval,4,India
+519,35.2,1,DT Christian,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,181,Australia,Adelaide Oval,4,India
+520,35.3,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,181,Australia,Adelaide Oval,4,India
+521,35.4,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,181,Australia,Adelaide Oval,4,India
+522,35.5,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,181,Australia,Adelaide Oval,4,India
+523,35.6,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,181,Australia,Adelaide Oval,4,India
+524,36.1,1,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,182,Australia,Adelaide Oval,4,India
+525,36.2,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,182,Australia,Adelaide Oval,4,India
+526,36.3,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,182,Australia,Adelaide Oval,4,India
+527,36.4,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,182,Australia,Adelaide Oval,4,India
+528,36.5,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,182,Australia,Adelaide Oval,4,India
+529,36.6,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,182,Australia,Adelaide Oval,4,India
+530,37.1,1,DT Christian,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,183,Australia,Adelaide Oval,4,India
+531,37.2,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,183,Australia,Adelaide Oval,4,India
+532,37.3,1,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,184,Australia,Adelaide Oval,4,India
+533,37.4,0,DT Christian,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,184,Australia,Adelaide Oval,4,India
+534,37.5,1,DT Christian,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,185,Australia,Adelaide Oval,4,India
+535,37.6,2,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,187,Australia,Adelaide Oval,4,India
+536,38.1,0,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,188,Australia,Adelaide Oval,4,India
+537,38.2,0,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,188,Australia,Adelaide Oval,4,India
+538,38.3,0,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,188,Australia,Adelaide Oval,4,India
+539,38.4,0,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,188,Australia,Adelaide Oval,4,India
+540,38.5,4,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,192,Australia,Adelaide Oval,4,India
+541,38.6,1,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,193,Australia,Adelaide Oval,4,India
+542,38.7,1,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,194,Australia,Adelaide Oval,4,India
+543,39.1,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,194,Australia,Adelaide Oval,4,India
+544,39.2,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,194,Australia,Adelaide Oval,4,India
+545,39.3,0,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,194,Australia,Adelaide Oval,4,India
+546,39.4,1,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,195,Australia,Adelaide Oval,4,India
+547,39.5,1,DT Christian,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,196,Australia,Adelaide Oval,4,India
+548,39.6,1,DT Christian,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,197,Australia,Adelaide Oval,4,India
+549,40.1,0,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,198,Australia,Adelaide Oval,4,India
+550,40.2,0,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,198,Australia,Adelaide Oval,4,India
+551,40.3,0,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,198,Australia,Adelaide Oval,4,India
+552,40.4,1,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,199,Australia,Adelaide Oval,4,India
+553,40.5,1,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,200,Australia,Adelaide Oval,4,India
+554,40.6,1,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,201,Australia,Adelaide Oval,4,India
+555,40.7,1,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,202,Australia,Adelaide Oval,4,India
+556,41.1,2,RJ Harris,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,204,Australia,Adelaide Oval,4,India
+557,41.2,1,RJ Harris,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,205,Australia,Adelaide Oval,4,India
+558,41.3,0,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,205,Australia,Adelaide Oval,4,India
+559,41.4,1,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,206,Australia,Adelaide Oval,4,India
+560,41.5,1,RJ Harris,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,207,Australia,Adelaide Oval,4,India
+561,41.6,2,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,209,Australia,Adelaide Oval,4,India
+562,42.1,0,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,209,Australia,Adelaide Oval,4,India
+563,42.2,6,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,215,Australia,Adelaide Oval,4,India
+564,42.3,1,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,216,Australia,Adelaide Oval,4,India
+565,42.4,0,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,216,Australia,Adelaide Oval,4,India
+566,42.5,0,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,216,Australia,Adelaide Oval,4,India
+567,42.6,1,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,217,Australia,Adelaide Oval,4,India
+568,43.1,2,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,219,Australia,Adelaide Oval,4,India
+569,43.2,0,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,219,Australia,Adelaide Oval,4,India
+570,43.3,0,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,219,Australia,Adelaide Oval,4,India
+571,43.4,1,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,220,Australia,Adelaide Oval,4,India
+572,43.5,1,RJ Harris,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,221,Australia,Adelaide Oval,4,India
+573,43.6,1,RJ Harris,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,222,Australia,Adelaide Oval,4,India
+574,44.1,1,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,223,Australia,Adelaide Oval,4,India
+575,44.2,1,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,224,Australia,Adelaide Oval,4,India
+576,44.3,2,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,226,Australia,Adelaide Oval,4,India
+577,44.4,1,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,227,Australia,Adelaide Oval,4,India
+578,44.5,1,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,228,Australia,Adelaide Oval,4,India
+579,44.6,2,XJ Doherty,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,230,Australia,Adelaide Oval,4,India
+580,45.1,1,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,231,Australia,Adelaide Oval,4,India
+581,45.2,2,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,233,Australia,Adelaide Oval,4,India
+582,45.3,0,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,233,Australia,Adelaide Oval,4,India
+583,45.4,1,CJ McKay,2012-02-12,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,234,Australia,Adelaide Oval,4,India
+584,45.5,4,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,238,Australia,Adelaide Oval,4,India
+585,45.6,1,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,239,Australia,Adelaide Oval,4,India
+586,46.1,0,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,239,Australia,Adelaide Oval,5,India
+587,46.2,1,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,240,Australia,Adelaide Oval,5,India
+588,46.3,0,XJ Doherty,2012-02-12,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,240,Australia,Adelaide Oval,5,India
+589,46.4,0,XJ Doherty,2012-02-12,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,240,Australia,Adelaide Oval,5,India
+590,46.5,1,XJ Doherty,2012-02-12,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,241,Australia,Adelaide Oval,5,India
+591,46.6,2,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,243,Australia,Adelaide Oval,5,India
+592,47.1,1,CJ McKay,2012-02-12,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,244,Australia,Adelaide Oval,5,India
+593,47.2,2,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,246,Australia,Adelaide Oval,5,India
+594,47.3,3,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,249,Australia,Adelaide Oval,5,India
+595,47.4,1,CJ McKay,2012-02-12,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,250,Australia,Adelaide Oval,5,India
+596,47.5,1,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,251,Australia,Adelaide Oval,5,India
+597,47.6,2,CJ McKay,2012-02-12,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,253,Australia,Adelaide Oval,5,India
+598,48.1,1,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,254,Australia,Adelaide Oval,5,India
+599,48.2,1,XJ Doherty,2012-02-12,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,255,Australia,Adelaide Oval,5,India
+600,48.3,2,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,257,Australia,Adelaide Oval,5,India
+601,48.4,0,XJ Doherty,2012-02-12,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,257,Australia,Adelaide Oval,6,India
+602,48.5,0,XJ Doherty,2012-02-12,2nd,R Ashwin,0,,MS Dhoni,0,Australia,India,257,Australia,Adelaide Oval,6,India
+603,48.6,0,XJ Doherty,2012-02-12,2nd,R Ashwin,0,,MS Dhoni,0,Australia,India,257,Australia,Adelaide Oval,6,India
+604,49.1,0,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,R Ashwin,0,Australia,India,257,Australia,Adelaide Oval,6,India
+605,49.2,1,CJ McKay,2012-02-12,2nd,MS Dhoni,0,,R Ashwin,0,Australia,India,258,Australia,Adelaide Oval,6,India
+606,49.3,6,CJ McKay,2012-02-12,2nd,R Ashwin,0,,MS Dhoni,0,Australia,India,264,Australia,Adelaide Oval,6,India
+607,49.4,2,CJ McKay,2012-02-12,2nd,R Ashwin,0,,MS Dhoni,0,Australia,India,267,Australia,Adelaide Oval,6,India
+608,49.5,3,CJ McKay,2012-02-12,2nd,R Ashwin,0,,MS Dhoni,0,Australia,India,270,Australia,Adelaide Oval,6,India

@@ -1,0 +1,529 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Z Khan,2011-01-23,1st,HM Amla,0,,GC Smith,0,South Africa,India,0,India,SuperSport Park,0,South Africa
+1,0.2,0,Z Khan,2011-01-23,1st,HM Amla,0,,GC Smith,0,South Africa,India,0,India,SuperSport Park,0,South Africa
+2,0.3,1,Z Khan,2011-01-23,1st,HM Amla,0,,GC Smith,1,South Africa,India,1,India,SuperSport Park,0,South Africa
+3,0.4,1,Z Khan,2011-01-23,1st,GC Smith,1,,HM Amla,1,South Africa,India,2,India,SuperSport Park,0,South Africa
+4,0.5,1,Z Khan,2011-01-23,1st,HM Amla,1,,GC Smith,2,South Africa,India,3,India,SuperSport Park,0,South Africa
+5,0.6,0,Z Khan,2011-01-23,1st,GC Smith,2,,HM Amla,1,South Africa,India,3,India,SuperSport Park,0,South Africa
+6,1.1,4,MM Patel,2011-01-23,1st,HM Amla,1,,GC Smith,6,South Africa,India,7,India,SuperSport Park,0,South Africa
+7,1.2,0,MM Patel,2011-01-23,1st,HM Amla,1,,GC Smith,6,South Africa,India,7,India,SuperSport Park,0,South Africa
+8,1.3,0,MM Patel,2011-01-23,1st,HM Amla,1,,GC Smith,6,South Africa,India,7,India,SuperSport Park,0,South Africa
+9,1.4,1,MM Patel,2011-01-23,1st,HM Amla,1,,GC Smith,7,South Africa,India,8,India,SuperSport Park,0,South Africa
+10,1.5,4,MM Patel,2011-01-23,1st,GC Smith,7,,HM Amla,5,South Africa,India,12,India,SuperSport Park,0,South Africa
+11,1.6,0,MM Patel,2011-01-23,1st,GC Smith,7,,HM Amla,5,South Africa,India,16,India,SuperSport Park,0,South Africa
+12,2.1,0,Z Khan,2011-01-23,1st,HM Amla,5,,GC Smith,7,South Africa,India,16,India,SuperSport Park,0,South Africa
+13,2.2,0,Z Khan,2011-01-23,1st,HM Amla,5,,GC Smith,7,South Africa,India,16,India,SuperSport Park,0,South Africa
+14,2.3,0,Z Khan,2011-01-23,1st,HM Amla,5,GC Smith,GC Smith,7,South Africa,India,16,India,SuperSport Park,1,South Africa
+15,2.4,0,Z Khan,2011-01-23,1st,HM Amla,5,,MN van Wyk,0,South Africa,India,16,India,SuperSport Park,1,South Africa
+16,2.5,0,Z Khan,2011-01-23,1st,HM Amla,5,,MN van Wyk,0,South Africa,India,17,India,SuperSport Park,1,South Africa
+17,2.6,0,Z Khan,2011-01-23,1st,MN van Wyk,0,,HM Amla,5,South Africa,India,17,India,SuperSport Park,1,South Africa
+18,3.1,4,MM Patel,2011-01-23,1st,HM Amla,5,,MN van Wyk,4,South Africa,India,21,India,SuperSport Park,1,South Africa
+19,3.2,0,MM Patel,2011-01-23,1st,HM Amla,5,,MN van Wyk,4,South Africa,India,21,India,SuperSport Park,1,South Africa
+20,3.3,0,MM Patel,2011-01-23,1st,HM Amla,5,,MN van Wyk,4,South Africa,India,21,India,SuperSport Park,1,South Africa
+21,3.4,0,MM Patel,2011-01-23,1st,HM Amla,5,,MN van Wyk,4,South Africa,India,21,India,SuperSport Park,1,South Africa
+22,3.5,0,MM Patel,2011-01-23,1st,HM Amla,5,,MN van Wyk,4,South Africa,India,21,India,SuperSport Park,1,South Africa
+23,3.6,2,MM Patel,2011-01-23,1st,HM Amla,5,,MN van Wyk,6,South Africa,India,23,India,SuperSport Park,1,South Africa
+24,4.1,0,Z Khan,2011-01-23,1st,MN van Wyk,6,,HM Amla,5,South Africa,India,23,India,SuperSport Park,1,South Africa
+25,4.2,0,Z Khan,2011-01-23,1st,MN van Wyk,6,,HM Amla,5,South Africa,India,23,India,SuperSport Park,1,South Africa
+26,4.3,0,Z Khan,2011-01-23,1st,MN van Wyk,6,,HM Amla,5,South Africa,India,23,India,SuperSport Park,1,South Africa
+27,4.4,4,Z Khan,2011-01-23,1st,MN van Wyk,6,,HM Amla,9,South Africa,India,27,India,SuperSport Park,1,South Africa
+28,4.5,4,Z Khan,2011-01-23,1st,MN van Wyk,6,,HM Amla,13,South Africa,India,31,India,SuperSport Park,1,South Africa
+29,4.6,1,Z Khan,2011-01-23,1st,MN van Wyk,6,,HM Amla,14,South Africa,India,32,India,SuperSport Park,1,South Africa
+30,5.1,0,MM Patel,2011-01-23,1st,MN van Wyk,6,,HM Amla,14,South Africa,India,32,India,SuperSport Park,1,South Africa
+31,5.2,0,MM Patel,2011-01-23,1st,MN van Wyk,6,,HM Amla,14,South Africa,India,32,India,SuperSport Park,1,South Africa
+32,5.3,2,MM Patel,2011-01-23,1st,MN van Wyk,6,,HM Amla,16,South Africa,India,34,India,SuperSport Park,1,South Africa
+33,5.4,0,MM Patel,2011-01-23,1st,MN van Wyk,6,,HM Amla,16,South Africa,India,34,India,SuperSport Park,1,South Africa
+34,5.5,0,MM Patel,2011-01-23,1st,MN van Wyk,6,,HM Amla,16,South Africa,India,34,India,SuperSport Park,1,South Africa
+35,5.6,0,MM Patel,2011-01-23,1st,MN van Wyk,6,,HM Amla,16,South Africa,India,34,India,SuperSport Park,1,South Africa
+36,6.1,1,Z Khan,2011-01-23,1st,HM Amla,16,,MN van Wyk,7,South Africa,India,35,India,SuperSport Park,1,South Africa
+37,6.2,4,Z Khan,2011-01-23,1st,MN van Wyk,7,,HM Amla,20,South Africa,India,39,India,SuperSport Park,1,South Africa
+38,6.3,0,Z Khan,2011-01-23,1st,MN van Wyk,7,,HM Amla,20,South Africa,India,39,India,SuperSport Park,1,South Africa
+39,6.4,0,Z Khan,2011-01-23,1st,MN van Wyk,7,,HM Amla,20,South Africa,India,39,India,SuperSport Park,1,South Africa
+40,6.5,0,Z Khan,2011-01-23,1st,MN van Wyk,7,,HM Amla,20,South Africa,India,39,India,SuperSport Park,1,South Africa
+41,6.6,0,Z Khan,2011-01-23,1st,MN van Wyk,7,,HM Amla,20,South Africa,India,39,India,SuperSport Park,1,South Africa
+42,7.1,0,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,7,South Africa,India,39,India,SuperSport Park,1,South Africa
+43,7.2,0,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,7,South Africa,India,39,India,SuperSport Park,1,South Africa
+44,7.3,0,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,7,South Africa,India,39,India,SuperSport Park,1,South Africa
+45,7.4,1,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,8,South Africa,India,40,India,SuperSport Park,1,South Africa
+46,7.5,0,MM Patel,2011-01-23,1st,MN van Wyk,8,,HM Amla,20,South Africa,India,40,India,SuperSport Park,1,South Africa
+47,7.6,0,MM Patel,2011-01-23,1st,MN van Wyk,8,,HM Amla,20,South Africa,India,40,India,SuperSport Park,1,South Africa
+48,8.1,4,PP Chawla,2011-01-23,1st,HM Amla,20,,MN van Wyk,12,South Africa,India,44,India,SuperSport Park,1,South Africa
+49,8.2,0,PP Chawla,2011-01-23,1st,HM Amla,20,,MN van Wyk,12,South Africa,India,44,India,SuperSport Park,1,South Africa
+50,8.3,0,PP Chawla,2011-01-23,1st,HM Amla,20,,MN van Wyk,12,South Africa,India,44,India,SuperSport Park,1,South Africa
+51,8.4,0,PP Chawla,2011-01-23,1st,HM Amla,20,,MN van Wyk,12,South Africa,India,44,India,SuperSport Park,1,South Africa
+52,8.5,0,PP Chawla,2011-01-23,1st,HM Amla,20,,MN van Wyk,12,South Africa,India,44,India,SuperSport Park,1,South Africa
+53,8.6,1,PP Chawla,2011-01-23,1st,HM Amla,20,,MN van Wyk,13,South Africa,India,45,India,SuperSport Park,1,South Africa
+54,9.1,4,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,17,South Africa,India,49,India,SuperSport Park,1,South Africa
+55,9.2,0,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,17,South Africa,India,49,India,SuperSport Park,1,South Africa
+56,9.3,0,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,17,South Africa,India,49,India,SuperSport Park,1,South Africa
+57,9.4,0,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,17,South Africa,India,49,India,SuperSport Park,1,South Africa
+58,9.5,4,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,21,South Africa,India,53,India,SuperSport Park,1,South Africa
+59,9.6,0,MM Patel,2011-01-23,1st,HM Amla,20,,MN van Wyk,21,South Africa,India,53,India,SuperSport Park,1,South Africa
+60,10.1,1,PP Chawla,2011-01-23,1st,MN van Wyk,21,,HM Amla,21,South Africa,India,54,India,SuperSport Park,1,South Africa
+61,10.2,1,PP Chawla,2011-01-23,1st,HM Amla,21,,MN van Wyk,22,South Africa,India,55,India,SuperSport Park,1,South Africa
+62,10.3,1,PP Chawla,2011-01-23,1st,MN van Wyk,22,,HM Amla,22,South Africa,India,56,India,SuperSport Park,1,South Africa
+63,10.4,4,PP Chawla,2011-01-23,1st,HM Amla,22,,MN van Wyk,26,South Africa,India,60,India,SuperSport Park,1,South Africa
+64,10.5,0,PP Chawla,2011-01-23,1st,HM Amla,22,,MN van Wyk,26,South Africa,India,60,India,SuperSport Park,1,South Africa
+65,10.6,0,PP Chawla,2011-01-23,1st,HM Amla,22,,MN van Wyk,26,South Africa,India,60,India,SuperSport Park,1,South Africa
+66,11.1,1,Harbhajan Singh,2011-01-23,1st,MN van Wyk,26,,HM Amla,23,South Africa,India,61,India,SuperSport Park,1,South Africa
+67,11.2,0,Harbhajan Singh,2011-01-23,1st,HM Amla,23,,MN van Wyk,26,South Africa,India,61,India,SuperSport Park,1,South Africa
+68,11.3,1,Harbhajan Singh,2011-01-23,1st,HM Amla,23,,MN van Wyk,27,South Africa,India,62,India,SuperSport Park,1,South Africa
+69,11.4,1,Harbhajan Singh,2011-01-23,1st,MN van Wyk,27,,HM Amla,24,South Africa,India,63,India,SuperSport Park,1,South Africa
+70,11.5,1,Harbhajan Singh,2011-01-23,1st,HM Amla,24,,MN van Wyk,28,South Africa,India,64,India,SuperSport Park,1,South Africa
+71,11.6,1,Harbhajan Singh,2011-01-23,1st,MN van Wyk,28,,HM Amla,25,South Africa,India,65,India,SuperSport Park,1,South Africa
+72,12.1,0,YK Pathan,2011-01-23,1st,MN van Wyk,28,,HM Amla,25,South Africa,India,66,India,SuperSport Park,1,South Africa
+73,12.2,0,YK Pathan,2011-01-23,1st,MN van Wyk,28,,HM Amla,25,South Africa,India,66,India,SuperSport Park,1,South Africa
+74,12.3,1,YK Pathan,2011-01-23,1st,MN van Wyk,28,,HM Amla,26,South Africa,India,67,India,SuperSport Park,1,South Africa
+75,12.4,0,YK Pathan,2011-01-23,1st,HM Amla,26,,MN van Wyk,28,South Africa,India,67,India,SuperSport Park,1,South Africa
+76,12.5,1,YK Pathan,2011-01-23,1st,HM Amla,26,,MN van Wyk,29,South Africa,India,68,India,SuperSport Park,1,South Africa
+77,12.6,1,YK Pathan,2011-01-23,1st,MN van Wyk,29,,HM Amla,27,South Africa,India,69,India,SuperSport Park,1,South Africa
+78,12.7,0,YK Pathan,2011-01-23,1st,HM Amla,27,,MN van Wyk,29,South Africa,India,69,India,SuperSport Park,1,South Africa
+79,13.1,0,Harbhajan Singh,2011-01-23,1st,MN van Wyk,29,,HM Amla,27,South Africa,India,69,India,SuperSport Park,1,South Africa
+80,13.2,1,Harbhajan Singh,2011-01-23,1st,MN van Wyk,29,,HM Amla,28,South Africa,India,70,India,SuperSport Park,1,South Africa
+81,13.3,1,Harbhajan Singh,2011-01-23,1st,HM Amla,28,,MN van Wyk,30,South Africa,India,71,India,SuperSport Park,1,South Africa
+82,13.4,0,Harbhajan Singh,2011-01-23,1st,MN van Wyk,30,,HM Amla,28,South Africa,India,71,India,SuperSport Park,1,South Africa
+83,13.5,1,Harbhajan Singh,2011-01-23,1st,MN van Wyk,30,,HM Amla,29,South Africa,India,72,India,SuperSport Park,1,South Africa
+84,13.6,2,Harbhajan Singh,2011-01-23,1st,HM Amla,29,,MN van Wyk,32,South Africa,India,74,India,SuperSport Park,1,South Africa
+85,14.1,0,YK Pathan,2011-01-23,1st,MN van Wyk,32,,HM Amla,29,South Africa,India,74,India,SuperSport Park,1,South Africa
+86,14.2,1,YK Pathan,2011-01-23,1st,MN van Wyk,32,,HM Amla,30,South Africa,India,75,India,SuperSport Park,1,South Africa
+87,14.3,4,YK Pathan,2011-01-23,1st,HM Amla,30,,MN van Wyk,36,South Africa,India,79,India,SuperSport Park,1,South Africa
+88,14.4,1,YK Pathan,2011-01-23,1st,HM Amla,30,,MN van Wyk,37,South Africa,India,80,India,SuperSport Park,1,South Africa
+89,14.5,0,YK Pathan,2011-01-23,1st,MN van Wyk,37,,HM Amla,30,South Africa,India,80,India,SuperSport Park,1,South Africa
+90,14.6,0,YK Pathan,2011-01-23,1st,MN van Wyk,37,,HM Amla,30,South Africa,India,80,India,SuperSport Park,1,South Africa
+91,15.1,0,Harbhajan Singh,2011-01-23,1st,HM Amla,30,,MN van Wyk,37,South Africa,India,80,India,SuperSport Park,1,South Africa
+92,15.2,0,Harbhajan Singh,2011-01-23,1st,HM Amla,30,,MN van Wyk,37,South Africa,India,80,India,SuperSport Park,1,South Africa
+93,15.3,0,Harbhajan Singh,2011-01-23,1st,HM Amla,30,,MN van Wyk,37,South Africa,India,80,India,SuperSport Park,1,South Africa
+94,15.4,1,Harbhajan Singh,2011-01-23,1st,HM Amla,30,,MN van Wyk,38,South Africa,India,81,India,SuperSport Park,1,South Africa
+95,15.5,1,Harbhajan Singh,2011-01-23,1st,MN van Wyk,38,,HM Amla,31,South Africa,India,82,India,SuperSport Park,1,South Africa
+96,15.6,0,Harbhajan Singh,2011-01-23,1st,HM Amla,31,,MN van Wyk,38,South Africa,India,82,India,SuperSport Park,1,South Africa
+97,16.1,1,Yuvraj Singh,2011-01-23,1st,MN van Wyk,38,,HM Amla,32,South Africa,India,83,India,SuperSport Park,1,South Africa
+98,16.2,1,Yuvraj Singh,2011-01-23,1st,HM Amla,32,,MN van Wyk,39,South Africa,India,84,India,SuperSport Park,1,South Africa
+99,16.3,1,Yuvraj Singh,2011-01-23,1st,MN van Wyk,39,,HM Amla,33,South Africa,India,85,India,SuperSport Park,1,South Africa
+100,16.4,0,Yuvraj Singh,2011-01-23,1st,HM Amla,33,,MN van Wyk,39,South Africa,India,85,India,SuperSport Park,1,South Africa
+101,16.5,1,Yuvraj Singh,2011-01-23,1st,HM Amla,33,,MN van Wyk,40,South Africa,India,86,India,SuperSport Park,1,South Africa
+102,16.6,1,Yuvraj Singh,2011-01-23,1st,MN van Wyk,40,,HM Amla,34,South Africa,India,87,India,SuperSport Park,1,South Africa
+103,17.1,0,PP Chawla,2011-01-23,1st,MN van Wyk,40,,HM Amla,34,South Africa,India,87,India,SuperSport Park,1,South Africa
+104,17.2,0,PP Chawla,2011-01-23,1st,MN van Wyk,40,,HM Amla,34,South Africa,India,87,India,SuperSport Park,1,South Africa
+105,17.3,1,PP Chawla,2011-01-23,1st,MN van Wyk,40,,HM Amla,35,South Africa,India,88,India,SuperSport Park,1,South Africa
+106,17.4,1,PP Chawla,2011-01-23,1st,HM Amla,35,,MN van Wyk,41,South Africa,India,89,India,SuperSport Park,1,South Africa
+107,17.5,1,PP Chawla,2011-01-23,1st,MN van Wyk,41,,HM Amla,36,South Africa,India,90,India,SuperSport Park,1,South Africa
+108,17.6,4,PP Chawla,2011-01-23,1st,HM Amla,36,,MN van Wyk,45,South Africa,India,94,India,SuperSport Park,1,South Africa
+109,18.1,1,Yuvraj Singh,2011-01-23,1st,MN van Wyk,45,,HM Amla,37,South Africa,India,95,India,SuperSport Park,1,South Africa
+110,18.2,0,Yuvraj Singh,2011-01-23,1st,HM Amla,37,,MN van Wyk,45,South Africa,India,95,India,SuperSport Park,1,South Africa
+111,18.3,1,Yuvraj Singh,2011-01-23,1st,HM Amla,37,,MN van Wyk,46,South Africa,India,96,India,SuperSport Park,1,South Africa
+112,18.4,1,Yuvraj Singh,2011-01-23,1st,MN van Wyk,46,,HM Amla,38,South Africa,India,97,India,SuperSport Park,1,South Africa
+113,18.5,3,Yuvraj Singh,2011-01-23,1st,HM Amla,38,,MN van Wyk,49,South Africa,India,100,India,SuperSport Park,1,South Africa
+114,18.6,0,Yuvraj Singh,2011-01-23,1st,MN van Wyk,49,,HM Amla,38,South Africa,India,100,India,SuperSport Park,1,South Africa
+115,19.1,1,PP Chawla,2011-01-23,1st,HM Amla,38,,MN van Wyk,50,South Africa,India,101,India,SuperSport Park,1,South Africa
+116,19.2,0,PP Chawla,2011-01-23,1st,MN van Wyk,50,,HM Amla,38,South Africa,India,101,India,SuperSport Park,1,South Africa
+117,19.3,1,PP Chawla,2011-01-23,1st,MN van Wyk,50,,HM Amla,39,South Africa,India,102,India,SuperSport Park,1,South Africa
+118,19.4,1,PP Chawla,2011-01-23,1st,HM Amla,39,,MN van Wyk,51,South Africa,India,103,India,SuperSport Park,1,South Africa
+119,19.5,0,PP Chawla,2011-01-23,1st,MN van Wyk,51,,HM Amla,39,South Africa,India,103,India,SuperSport Park,1,South Africa
+120,19.6,1,PP Chawla,2011-01-23,1st,MN van Wyk,51,,HM Amla,40,South Africa,India,104,India,SuperSport Park,1,South Africa
+121,20.1,1,Yuvraj Singh,2011-01-23,1st,MN van Wyk,51,,HM Amla,41,South Africa,India,105,India,SuperSport Park,1,South Africa
+122,20.2,0,Yuvraj Singh,2011-01-23,1st,HM Amla,41,,MN van Wyk,51,South Africa,India,105,India,SuperSport Park,1,South Africa
+123,20.3,4,Yuvraj Singh,2011-01-23,1st,HM Amla,41,,MN van Wyk,55,South Africa,India,109,India,SuperSport Park,1,South Africa
+124,20.4,0,Yuvraj Singh,2011-01-23,1st,HM Amla,41,,MN van Wyk,55,South Africa,India,109,India,SuperSport Park,1,South Africa
+125,20.5,0,Yuvraj Singh,2011-01-23,1st,HM Amla,41,,MN van Wyk,55,South Africa,India,109,India,SuperSport Park,1,South Africa
+126,20.6,0,Yuvraj Singh,2011-01-23,1st,HM Amla,41,,MN van Wyk,55,South Africa,India,109,India,SuperSport Park,1,South Africa
+127,21.1,1,PP Chawla,2011-01-23,1st,MN van Wyk,55,,HM Amla,42,South Africa,India,110,India,SuperSport Park,1,South Africa
+128,21.2,1,PP Chawla,2011-01-23,1st,HM Amla,42,,MN van Wyk,56,South Africa,India,111,India,SuperSport Park,1,South Africa
+129,21.3,0,PP Chawla,2011-01-23,1st,MN van Wyk,56,,HM Amla,42,South Africa,India,111,India,SuperSport Park,1,South Africa
+130,21.4,1,PP Chawla,2011-01-23,1st,MN van Wyk,56,,HM Amla,43,South Africa,India,112,India,SuperSport Park,1,South Africa
+131,21.5,0,PP Chawla,2011-01-23,1st,HM Amla,43,,MN van Wyk,56,South Africa,India,112,India,SuperSport Park,1,South Africa
+132,21.6,0,PP Chawla,2011-01-23,1st,HM Amla,43,,MN van Wyk,56,South Africa,India,112,India,SuperSport Park,1,South Africa
+133,22.1,1,Yuvraj Singh,2011-01-23,1st,MN van Wyk,56,,HM Amla,44,South Africa,India,113,India,SuperSport Park,1,South Africa
+134,22.2,0,Yuvraj Singh,2011-01-23,1st,HM Amla,44,MN van Wyk,MN van Wyk,56,South Africa,India,113,India,SuperSport Park,2,South Africa
+135,22.3,1,Yuvraj Singh,2011-01-23,1st,HM Amla,44,,AB de Villiers,1,South Africa,India,114,India,SuperSport Park,2,South Africa
+136,22.4,1,Yuvraj Singh,2011-01-23,1st,AB de Villiers,1,,HM Amla,45,South Africa,India,115,India,SuperSport Park,2,South Africa
+137,22.5,0,Yuvraj Singh,2011-01-23,1st,HM Amla,45,,AB de Villiers,1,South Africa,India,115,India,SuperSport Park,2,South Africa
+138,22.6,4,Yuvraj Singh,2011-01-23,1st,HM Amla,45,,AB de Villiers,5,South Africa,India,119,India,SuperSport Park,2,South Africa
+139,23.1,1,PP Chawla,2011-01-23,1st,AB de Villiers,5,,HM Amla,46,South Africa,India,120,India,SuperSport Park,2,South Africa
+140,23.2,1,PP Chawla,2011-01-23,1st,HM Amla,46,,AB de Villiers,6,South Africa,India,121,India,SuperSport Park,2,South Africa
+141,23.3,0,PP Chawla,2011-01-23,1st,AB de Villiers,6,,HM Amla,46,South Africa,India,121,India,SuperSport Park,2,South Africa
+142,23.4,1,PP Chawla,2011-01-23,1st,AB de Villiers,6,,HM Amla,47,South Africa,India,122,India,SuperSport Park,2,South Africa
+143,23.5,0,PP Chawla,2011-01-23,1st,HM Amla,47,,AB de Villiers,6,South Africa,India,122,India,SuperSport Park,2,South Africa
+144,23.6,0,PP Chawla,2011-01-23,1st,HM Amla,47,,AB de Villiers,6,South Africa,India,122,India,SuperSport Park,2,South Africa
+145,24.1,1,Yuvraj Singh,2011-01-23,1st,AB de Villiers,6,,HM Amla,48,South Africa,India,123,India,SuperSport Park,2,South Africa
+146,24.2,2,Yuvraj Singh,2011-01-23,1st,HM Amla,48,,AB de Villiers,8,South Africa,India,125,India,SuperSport Park,2,South Africa
+147,24.3,1,Yuvraj Singh,2011-01-23,1st,HM Amla,48,,AB de Villiers,9,South Africa,India,126,India,SuperSport Park,2,South Africa
+148,24.4,0,Yuvraj Singh,2011-01-23,1st,AB de Villiers,9,,HM Amla,48,South Africa,India,126,India,SuperSport Park,2,South Africa
+149,24.5,0,Yuvraj Singh,2011-01-23,1st,AB de Villiers,9,,HM Amla,48,South Africa,India,126,India,SuperSport Park,2,South Africa
+150,24.6,0,Yuvraj Singh,2011-01-23,1st,AB de Villiers,9,,HM Amla,48,South Africa,India,126,India,SuperSport Park,2,South Africa
+151,25.1,1,PP Chawla,2011-01-23,1st,HM Amla,48,,AB de Villiers,10,South Africa,India,127,India,SuperSport Park,2,South Africa
+152,25.2,0,PP Chawla,2011-01-23,1st,AB de Villiers,10,,HM Amla,48,South Africa,India,127,India,SuperSport Park,2,South Africa
+153,25.3,1,PP Chawla,2011-01-23,1st,AB de Villiers,10,,HM Amla,49,South Africa,India,128,India,SuperSport Park,2,South Africa
+154,25.4,0,PP Chawla,2011-01-23,1st,HM Amla,49,,AB de Villiers,10,South Africa,India,128,India,SuperSport Park,2,South Africa
+155,25.5,1,PP Chawla,2011-01-23,1st,HM Amla,49,,AB de Villiers,11,South Africa,India,129,India,SuperSport Park,2,South Africa
+156,25.6,0,PP Chawla,2011-01-23,1st,AB de Villiers,11,,HM Amla,49,South Africa,India,129,India,SuperSport Park,2,South Africa
+157,26.1,0,Yuvraj Singh,2011-01-23,1st,HM Amla,49,AB de Villiers,AB de Villiers,11,South Africa,India,129,India,SuperSport Park,3,South Africa
+158,26.2,0,Yuvraj Singh,2011-01-23,1st,HM Amla,49,,JP Duminy,0,South Africa,India,129,India,SuperSport Park,3,South Africa
+159,26.3,0,Yuvraj Singh,2011-01-23,1st,HM Amla,49,,JP Duminy,0,South Africa,India,129,India,SuperSport Park,3,South Africa
+160,26.4,1,Yuvraj Singh,2011-01-23,1st,HM Amla,49,,JP Duminy,1,South Africa,India,130,India,SuperSport Park,3,South Africa
+161,26.5,1,Yuvraj Singh,2011-01-23,1st,JP Duminy,1,,HM Amla,50,South Africa,India,131,India,SuperSport Park,3,South Africa
+162,26.6,1,Yuvraj Singh,2011-01-23,1st,HM Amla,50,,JP Duminy,2,South Africa,India,132,India,SuperSport Park,3,South Africa
+163,27.1,0,Harbhajan Singh,2011-01-23,1st,HM Amla,50,,JP Duminy,2,South Africa,India,132,India,SuperSport Park,3,South Africa
+164,27.2,1,Harbhajan Singh,2011-01-23,1st,HM Amla,50,,JP Duminy,3,South Africa,India,133,India,SuperSport Park,3,South Africa
+165,27.3,0,Harbhajan Singh,2011-01-23,1st,JP Duminy,3,,HM Amla,50,South Africa,India,133,India,SuperSport Park,3,South Africa
+166,27.4,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,3,,HM Amla,51,South Africa,India,134,India,SuperSport Park,3,South Africa
+167,27.5,1,Harbhajan Singh,2011-01-23,1st,HM Amla,51,,JP Duminy,4,South Africa,India,135,India,SuperSport Park,3,South Africa
+168,27.6,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,4,,HM Amla,52,South Africa,India,136,India,SuperSport Park,3,South Africa
+169,28.1,0,Yuvraj Singh,2011-01-23,1st,JP Duminy,4,,HM Amla,52,South Africa,India,136,India,SuperSport Park,3,South Africa
+170,28.2,0,Yuvraj Singh,2011-01-23,1st,JP Duminy,4,,HM Amla,52,South Africa,India,137,India,SuperSport Park,3,South Africa
+171,28.3,1,Yuvraj Singh,2011-01-23,1st,JP Duminy,4,,HM Amla,53,South Africa,India,138,India,SuperSport Park,3,South Africa
+172,28.4,0,Yuvraj Singh,2011-01-23,1st,HM Amla,53,,JP Duminy,4,South Africa,India,138,India,SuperSport Park,3,South Africa
+173,28.5,1,Yuvraj Singh,2011-01-23,1st,HM Amla,53,,JP Duminy,5,South Africa,India,139,India,SuperSport Park,3,South Africa
+174,28.6,2,Yuvraj Singh,2011-01-23,1st,JP Duminy,5,,HM Amla,55,South Africa,India,141,India,SuperSport Park,3,South Africa
+175,28.7,1,Yuvraj Singh,2011-01-23,1st,JP Duminy,5,,HM Amla,56,South Africa,India,142,India,SuperSport Park,3,South Africa
+176,29.1,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,5,,HM Amla,57,South Africa,India,143,India,SuperSport Park,3,South Africa
+177,29.2,0,Harbhajan Singh,2011-01-23,1st,HM Amla,57,,JP Duminy,5,South Africa,India,143,India,SuperSport Park,3,South Africa
+178,29.3,1,Harbhajan Singh,2011-01-23,1st,HM Amla,57,,JP Duminy,6,South Africa,India,144,India,SuperSport Park,3,South Africa
+179,29.4,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,6,,HM Amla,58,South Africa,India,145,India,SuperSport Park,3,South Africa
+180,29.5,1,Harbhajan Singh,2011-01-23,1st,HM Amla,58,,JP Duminy,7,South Africa,India,146,India,SuperSport Park,3,South Africa
+181,29.6,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,7,,HM Amla,59,South Africa,India,147,India,SuperSport Park,3,South Africa
+182,30.1,1,Yuvraj Singh,2011-01-23,1st,JP Duminy,7,,HM Amla,60,South Africa,India,148,India,SuperSport Park,3,South Africa
+183,30.2,1,Yuvraj Singh,2011-01-23,1st,HM Amla,60,,JP Duminy,8,South Africa,India,149,India,SuperSport Park,3,South Africa
+184,30.3,4,Yuvraj Singh,2011-01-23,1st,JP Duminy,8,,HM Amla,64,South Africa,India,153,India,SuperSport Park,3,South Africa
+185,30.4,0,Yuvraj Singh,2011-01-23,1st,JP Duminy,8,,HM Amla,64,South Africa,India,153,India,SuperSport Park,3,South Africa
+186,30.5,2,Yuvraj Singh,2011-01-23,1st,JP Duminy,8,,HM Amla,66,South Africa,India,155,India,SuperSport Park,3,South Africa
+187,30.6,1,Yuvraj Singh,2011-01-23,1st,JP Duminy,8,,HM Amla,67,South Africa,India,156,India,SuperSport Park,3,South Africa
+188,31.1,0,Harbhajan Singh,2011-01-23,1st,JP Duminy,8,,HM Amla,67,South Africa,India,156,India,SuperSport Park,3,South Africa
+189,31.2,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,8,,HM Amla,68,South Africa,India,157,India,SuperSport Park,3,South Africa
+190,31.3,1,Harbhajan Singh,2011-01-23,1st,HM Amla,68,,JP Duminy,9,South Africa,India,158,India,SuperSport Park,3,South Africa
+191,31.4,0,Harbhajan Singh,2011-01-23,1st,JP Duminy,9,,HM Amla,68,South Africa,India,158,India,SuperSport Park,3,South Africa
+192,31.5,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,9,,HM Amla,69,South Africa,India,159,India,SuperSport Park,3,South Africa
+193,31.6,0,Harbhajan Singh,2011-01-23,1st,HM Amla,69,,JP Duminy,9,South Africa,India,159,India,SuperSport Park,3,South Africa
+194,32.1,1,RG Sharma,2011-01-23,1st,JP Duminy,9,,HM Amla,70,South Africa,India,160,India,SuperSport Park,3,South Africa
+195,32.2,1,RG Sharma,2011-01-23,1st,HM Amla,70,,JP Duminy,10,South Africa,India,161,India,SuperSport Park,3,South Africa
+196,32.3,0,RG Sharma,2011-01-23,1st,JP Duminy,10,,HM Amla,70,South Africa,India,161,India,SuperSport Park,3,South Africa
+197,32.4,1,RG Sharma,2011-01-23,1st,JP Duminy,10,,HM Amla,71,South Africa,India,162,India,SuperSport Park,3,South Africa
+198,32.5,1,RG Sharma,2011-01-23,1st,HM Amla,71,,JP Duminy,11,South Africa,India,163,India,SuperSport Park,3,South Africa
+199,32.6,1,RG Sharma,2011-01-23,1st,JP Duminy,11,,HM Amla,72,South Africa,India,164,India,SuperSport Park,3,South Africa
+200,33.1,0,Harbhajan Singh,2011-01-23,1st,JP Duminy,11,,HM Amla,72,South Africa,India,164,India,SuperSport Park,3,South Africa
+201,33.2,4,Harbhajan Singh,2011-01-23,1st,JP Duminy,11,,HM Amla,76,South Africa,India,168,India,SuperSport Park,3,South Africa
+202,33.3,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,11,,HM Amla,77,South Africa,India,169,India,SuperSport Park,3,South Africa
+203,33.4,0,Harbhajan Singh,2011-01-23,1st,HM Amla,77,,JP Duminy,11,South Africa,India,169,India,SuperSport Park,3,South Africa
+204,33.5,1,Harbhajan Singh,2011-01-23,1st,HM Amla,77,,JP Duminy,12,South Africa,India,170,India,SuperSport Park,3,South Africa
+205,33.6,0,Harbhajan Singh,2011-01-23,1st,JP Duminy,12,,HM Amla,77,South Africa,India,170,India,SuperSport Park,3,South Africa
+206,34.1,1,RG Sharma,2011-01-23,1st,HM Amla,77,,JP Duminy,13,South Africa,India,171,India,SuperSport Park,3,South Africa
+207,34.2,1,RG Sharma,2011-01-23,1st,JP Duminy,13,,HM Amla,78,South Africa,India,172,India,SuperSport Park,3,South Africa
+208,34.3,1,RG Sharma,2011-01-23,1st,HM Amla,78,,JP Duminy,14,South Africa,India,173,India,SuperSport Park,3,South Africa
+209,34.4,1,RG Sharma,2011-01-23,1st,JP Duminy,14,,HM Amla,79,South Africa,India,174,India,SuperSport Park,3,South Africa
+210,34.5,1,RG Sharma,2011-01-23,1st,HM Amla,79,,JP Duminy,15,South Africa,India,175,India,SuperSport Park,3,South Africa
+211,34.6,4,RG Sharma,2011-01-23,1st,JP Duminy,15,,HM Amla,83,South Africa,India,179,India,SuperSport Park,3,South Africa
+212,35.1,0,Harbhajan Singh,2011-01-23,1st,HM Amla,83,,JP Duminy,15,South Africa,India,179,India,SuperSport Park,3,South Africa
+213,35.2,0,Harbhajan Singh,2011-01-23,1st,HM Amla,83,,JP Duminy,15,South Africa,India,179,India,SuperSport Park,3,South Africa
+214,35.3,1,Harbhajan Singh,2011-01-23,1st,HM Amla,83,,JP Duminy,16,South Africa,India,180,India,SuperSport Park,3,South Africa
+215,35.4,1,Harbhajan Singh,2011-01-23,1st,JP Duminy,16,,HM Amla,84,South Africa,India,181,India,SuperSport Park,3,South Africa
+216,35.5,0,Harbhajan Singh,2011-01-23,1st,HM Amla,84,,JP Duminy,16,South Africa,India,181,India,SuperSport Park,3,South Africa
+217,35.6,1,Harbhajan Singh,2011-01-23,1st,HM Amla,84,,JP Duminy,17,South Africa,India,182,India,SuperSport Park,3,South Africa
+218,36.1,1,Z Khan,2011-01-23,1st,HM Amla,84,,JP Duminy,18,South Africa,India,183,India,SuperSport Park,3,South Africa
+219,36.2,1,Z Khan,2011-01-23,1st,JP Duminy,18,,HM Amla,85,South Africa,India,184,India,SuperSport Park,3,South Africa
+220,36.3,0,Z Khan,2011-01-23,1st,HM Amla,85,,JP Duminy,18,South Africa,India,184,India,SuperSport Park,3,South Africa
+221,36.4,1,Z Khan,2011-01-23,1st,HM Amla,85,,JP Duminy,19,South Africa,India,185,India,SuperSport Park,3,South Africa
+222,36.5,1,Z Khan,2011-01-23,1st,JP Duminy,19,,HM Amla,86,South Africa,India,186,India,SuperSport Park,3,South Africa
+223,36.6,2,Z Khan,2011-01-23,1st,HM Amla,86,,JP Duminy,21,South Africa,India,188,India,SuperSport Park,3,South Africa
+224,37.1,0,SK Raina,2011-01-23,1st,JP Duminy,21,,HM Amla,86,South Africa,India,188,India,SuperSport Park,3,South Africa
+225,37.2,1,SK Raina,2011-01-23,1st,JP Duminy,21,,HM Amla,87,South Africa,India,189,India,SuperSport Park,3,South Africa
+226,37.3,0,SK Raina,2011-01-23,1st,HM Amla,87,,JP Duminy,21,South Africa,India,189,India,SuperSport Park,3,South Africa
+227,37.4,1,SK Raina,2011-01-23,1st,HM Amla,87,,JP Duminy,22,South Africa,India,190,India,SuperSport Park,3,South Africa
+228,37.5,1,SK Raina,2011-01-23,1st,JP Duminy,22,,HM Amla,88,South Africa,India,191,India,SuperSport Park,3,South Africa
+229,37.6,1,SK Raina,2011-01-23,1st,HM Amla,88,,JP Duminy,23,South Africa,India,192,India,SuperSport Park,3,South Africa
+230,38.1,1,Z Khan,2011-01-23,1st,HM Amla,88,,JP Duminy,24,South Africa,India,193,India,SuperSport Park,3,South Africa
+231,38.2,1,Z Khan,2011-01-23,1st,JP Duminy,24,,HM Amla,89,South Africa,India,194,India,SuperSport Park,3,South Africa
+232,38.3,1,Z Khan,2011-01-23,1st,HM Amla,89,,JP Duminy,25,South Africa,India,195,India,SuperSport Park,3,South Africa
+233,38.4,2,Z Khan,2011-01-23,1st,JP Duminy,25,,HM Amla,91,South Africa,India,197,India,SuperSport Park,3,South Africa
+234,38.5,0,Z Khan,2011-01-23,1st,JP Duminy,25,,HM Amla,91,South Africa,India,198,India,SuperSport Park,3,South Africa
+235,38.6,4,Z Khan,2011-01-23,1st,JP Duminy,25,,HM Amla,95,South Africa,India,202,India,SuperSport Park,3,South Africa
+236,38.7,1,Z Khan,2011-01-23,1st,JP Duminy,25,,HM Amla,96,South Africa,India,203,India,SuperSport Park,3,South Africa
+237,39.1,4,SK Raina,2011-01-23,1st,JP Duminy,25,,HM Amla,100,South Africa,India,207,India,SuperSport Park,3,South Africa
+238,39.2,1,SK Raina,2011-01-23,1st,JP Duminy,25,,HM Amla,101,South Africa,India,208,India,SuperSport Park,3,South Africa
+239,39.3,1,SK Raina,2011-01-23,1st,HM Amla,101,,JP Duminy,26,South Africa,India,209,India,SuperSport Park,3,South Africa
+240,39.4,0,SK Raina,2011-01-23,1st,JP Duminy,26,,HM Amla,101,South Africa,India,209,India,SuperSport Park,3,South Africa
+241,39.5,0,SK Raina,2011-01-23,1st,JP Duminy,26,,HM Amla,101,South Africa,India,210,India,SuperSport Park,3,South Africa
+242,39.6,1,SK Raina,2011-01-23,1st,JP Duminy,26,,HM Amla,102,South Africa,India,211,India,SuperSport Park,3,South Africa
+243,39.7,1,SK Raina,2011-01-23,1st,HM Amla,102,,JP Duminy,27,South Africa,India,212,India,SuperSport Park,3,South Africa
+244,40.1,1,MM Patel,2011-01-23,1st,HM Amla,102,,JP Duminy,28,South Africa,India,213,India,SuperSport Park,3,South Africa
+245,40.2,1,MM Patel,2011-01-23,1st,JP Duminy,28,,HM Amla,103,South Africa,India,214,India,SuperSport Park,3,South Africa
+246,40.3,1,MM Patel,2011-01-23,1st,HM Amla,103,,JP Duminy,29,South Africa,India,215,India,SuperSport Park,3,South Africa
+247,40.4,1,MM Patel,2011-01-23,1st,JP Duminy,29,,HM Amla,104,South Africa,India,216,India,SuperSport Park,3,South Africa
+248,40.5,1,MM Patel,2011-01-23,1st,HM Amla,104,,JP Duminy,30,South Africa,India,217,India,SuperSport Park,3,South Africa
+249,40.6,1,MM Patel,2011-01-23,1st,JP Duminy,30,,HM Amla,105,South Africa,India,218,India,SuperSport Park,3,South Africa
+250,41.1,1,Z Khan,2011-01-23,1st,JP Duminy,30,,HM Amla,106,South Africa,India,219,India,SuperSport Park,3,South Africa
+251,41.2,0,Z Khan,2011-01-23,1st,HM Amla,106,,JP Duminy,30,South Africa,India,220,India,SuperSport Park,3,South Africa
+252,41.3,1,Z Khan,2011-01-23,1st,HM Amla,106,,JP Duminy,31,South Africa,India,221,India,SuperSport Park,3,South Africa
+253,41.4,2,Z Khan,2011-01-23,1st,JP Duminy,31,,HM Amla,108,South Africa,India,223,India,SuperSport Park,3,South Africa
+254,41.5,2,Z Khan,2011-01-23,1st,JP Duminy,31,,HM Amla,110,South Africa,India,225,India,SuperSport Park,3,South Africa
+255,41.6,0,Z Khan,2011-01-23,1st,JP Duminy,31,,HM Amla,110,South Africa,India,225,India,SuperSport Park,3,South Africa
+256,41.7,1,Z Khan,2011-01-23,1st,JP Duminy,31,,HM Amla,111,South Africa,India,226,India,SuperSport Park,3,South Africa
+257,42.1,1,MM Patel,2011-01-23,1st,JP Duminy,31,,HM Amla,112,South Africa,India,227,India,SuperSport Park,3,South Africa
+258,42.2,4,MM Patel,2011-01-23,1st,HM Amla,112,,JP Duminy,35,South Africa,India,231,India,SuperSport Park,3,South Africa
+259,42.3,0,MM Patel,2011-01-23,1st,HM Amla,112,JP Duminy,JP Duminy,35,South Africa,India,231,India,SuperSport Park,4,South Africa
+260,42.4,0,MM Patel,2011-01-23,1st,F du Plessis,0,,HM Amla,112,South Africa,India,231,India,SuperSport Park,4,South Africa
+261,42.5,1,MM Patel,2011-01-23,1st,F du Plessis,0,,HM Amla,113,South Africa,India,232,India,SuperSport Park,4,South Africa
+262,42.6,1,MM Patel,2011-01-23,1st,HM Amla,113,,F du Plessis,1,South Africa,India,233,India,SuperSport Park,4,South Africa
+263,43.1,1,Z Khan,2011-01-23,1st,HM Amla,113,,F du Plessis,2,South Africa,India,234,India,SuperSport Park,4,South Africa
+264,43.2,0,Z Khan,2011-01-23,1st,F du Plessis,2,,HM Amla,113,South Africa,India,234,India,SuperSport Park,4,South Africa
+265,43.3,0,Z Khan,2011-01-23,1st,F du Plessis,2,,HM Amla,113,South Africa,India,235,India,SuperSport Park,4,South Africa
+266,43.4,1,Z Khan,2011-01-23,1st,HM Amla,113,,F du Plessis,3,South Africa,India,236,India,SuperSport Park,4,South Africa
+267,43.5,1,Z Khan,2011-01-23,1st,F du Plessis,3,,HM Amla,114,South Africa,India,237,India,SuperSport Park,4,South Africa
+268,43.6,1,Z Khan,2011-01-23,1st,HM Amla,114,,F du Plessis,4,South Africa,India,238,India,SuperSport Park,4,South Africa
+269,44.1,4,MM Patel,2011-01-23,1st,HM Amla,114,,F du Plessis,8,South Africa,India,242,India,SuperSport Park,4,South Africa
+270,44.2,0,MM Patel,2011-01-23,1st,HM Amla,114,F du Plessis,F du Plessis,8,South Africa,India,242,India,SuperSport Park,5,South Africa
+271,44.3,2,MM Patel,2011-01-23,1st,HM Amla,114,,J Botha,2,South Africa,India,244,India,SuperSport Park,5,South Africa
+272,44.4,0,MM Patel,2011-01-23,1st,HM Amla,114,J Botha,J Botha,2,South Africa,India,244,India,SuperSport Park,6,South Africa
+273,44.5,1,MM Patel,2011-01-23,1st,RJ Peterson,0,,HM Amla,115,South Africa,India,245,India,SuperSport Park,6,South Africa
+274,44.6,4,MM Patel,2011-01-23,1st,HM Amla,115,,RJ Peterson,4,South Africa,India,249,India,SuperSport Park,6,South Africa
+275,45.1,1,Z Khan,2011-01-23,1st,RJ Peterson,4,,HM Amla,116,South Africa,India,250,India,SuperSport Park,6,South Africa
+276,45.2,0,Z Khan,2011-01-23,1st,HM Amla,116,RJ Peterson,RJ Peterson,4,South Africa,India,250,India,SuperSport Park,7,South Africa
+277,45.3,0,Z Khan,2011-01-23,1st,HM Amla,116,DW Steyn,DW Steyn,0,South Africa,India,250,India,SuperSport Park,8,South Africa
+278,45.4,0,Z Khan,2011-01-23,1st,HM Amla,116,,M Morkel,0,South Africa,India,250,India,SuperSport Park,8,South Africa
+279,45.5,0,Z Khan,2011-01-23,1st,HM Amla,116,M Morkel,M Morkel,0,South Africa,India,250,India,SuperSport Park,9,South Africa
+280,45.6,0,Z Khan,2011-01-23,1st,HM Amla,116,,LL Tsotsobe,0,South Africa,India,250,India,SuperSport Park,9,South Africa
+281,0.1,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,0,India,SuperSport Park,0,South Africa
+282,0.2,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,0,India,SuperSport Park,0,South Africa
+283,0.3,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,0,India,SuperSport Park,0,South Africa
+284,0.4,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,0,India,SuperSport Park,0,South Africa
+285,0.5,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,0,India,SuperSport Park,0,South Africa
+286,0.6,3,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,3,India,SuperSport Park,0,South Africa
+287,1.1,4,LL Tsotsobe,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,7,India,SuperSport Park,0,South Africa
+288,1.2,1,LL Tsotsobe,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,8,India,SuperSport Park,0,South Africa
+289,1.3,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,8,India,SuperSport Park,0,South Africa
+290,1.4,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,8,India,SuperSport Park,0,South Africa
+291,1.5,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,9,India,SuperSport Park,0,South Africa
+292,1.6,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,9,India,SuperSport Park,0,South Africa
+293,1.7,4,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,13,India,SuperSport Park,0,South Africa
+294,2.1,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,13,India,SuperSport Park,0,South Africa
+295,2.2,4,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,17,India,SuperSport Park,0,South Africa
+296,2.3,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,17,India,SuperSport Park,0,South Africa
+297,2.4,2,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,19,India,SuperSport Park,0,South Africa
+298,2.5,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,19,India,SuperSport Park,0,South Africa
+299,2.6,0,DW Steyn,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,19,India,SuperSport Park,0,South Africa
+300,3.1,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,19,India,SuperSport Park,0,South Africa
+301,3.2,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,19,India,SuperSport Park,0,South Africa
+302,3.3,1,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,20,India,SuperSport Park,0,South Africa
+303,3.4,0,LL Tsotsobe,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,20,India,SuperSport Park,0,South Africa
+304,3.5,1,LL Tsotsobe,2011-01-23,2nd,RG Sharma,0,,PA Patel,0,South Africa,India,21,India,SuperSport Park,0,South Africa
+305,3.6,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,RG Sharma,0,South Africa,India,21,India,SuperSport Park,1,South Africa
+306,4.1,1,M Morkel,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,22,India,SuperSport Park,1,South Africa
+307,4.2,0,M Morkel,2011-01-23,2nd,PA Patel,0,,V Kohli,0,South Africa,India,22,India,SuperSport Park,1,South Africa
+308,4.3,1,M Morkel,2011-01-23,2nd,PA Patel,0,,V Kohli,0,South Africa,India,23,India,SuperSport Park,1,South Africa
+309,4.4,0,M Morkel,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,23,India,SuperSport Park,1,South Africa
+310,4.5,0,M Morkel,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,23,India,SuperSport Park,1,South Africa
+311,4.6,1,M Morkel,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,24,India,SuperSport Park,1,South Africa
+312,5.1,0,LL Tsotsobe,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,24,India,SuperSport Park,1,South Africa
+313,5.2,0,LL Tsotsobe,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,25,India,SuperSport Park,1,South Africa
+314,5.3,1,LL Tsotsobe,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,26,India,SuperSport Park,1,South Africa
+315,5.4,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,V Kohli,0,South Africa,India,26,India,SuperSport Park,1,South Africa
+316,5.5,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,V Kohli,0,South Africa,India,26,India,SuperSport Park,1,South Africa
+317,5.6,1,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,V Kohli,0,South Africa,India,27,India,SuperSport Park,1,South Africa
+318,5.7,4,LL Tsotsobe,2011-01-23,2nd,V Kohli,0,,PA Patel,0,South Africa,India,31,India,SuperSport Park,1,South Africa
+319,6.1,0,M Morkel,2011-01-23,2nd,PA Patel,0,,V Kohli,0,South Africa,India,31,India,SuperSport Park,2,South Africa
+320,6.2,0,M Morkel,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,31,India,SuperSport Park,2,South Africa
+321,6.3,0,M Morkel,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,31,India,SuperSport Park,2,South Africa
+322,6.4,1,M Morkel,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,32,India,SuperSport Park,2,South Africa
+323,6.5,0,M Morkel,2011-01-23,2nd,MS Dhoni,0,,PA Patel,0,South Africa,India,32,India,SuperSport Park,2,South Africa
+324,6.6,4,M Morkel,2011-01-23,2nd,MS Dhoni,0,,PA Patel,0,South Africa,India,36,India,SuperSport Park,2,South Africa
+325,7.1,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,36,India,SuperSport Park,2,South Africa
+326,7.2,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,36,India,SuperSport Park,2,South Africa
+327,7.3,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,36,India,SuperSport Park,2,South Africa
+328,7.4,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,36,India,SuperSport Park,2,South Africa
+329,7.5,4,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,40,India,SuperSport Park,2,South Africa
+330,7.6,0,LL Tsotsobe,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,40,India,SuperSport Park,2,South Africa
+331,8.1,4,M Morkel,2011-01-23,2nd,MS Dhoni,0,,PA Patel,0,South Africa,India,44,India,SuperSport Park,2,South Africa
+332,8.2,1,M Morkel,2011-01-23,2nd,MS Dhoni,0,,PA Patel,0,South Africa,India,45,India,SuperSport Park,2,South Africa
+333,8.3,0,M Morkel,2011-01-23,2nd,PA Patel,0,,MS Dhoni,0,South Africa,India,45,India,SuperSport Park,3,South Africa
+334,8.4,0,M Morkel,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,45,India,SuperSport Park,3,South Africa
+335,8.5,4,M Morkel,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,49,India,SuperSport Park,3,South Africa
+336,8.6,0,M Morkel,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,49,India,SuperSport Park,3,South Africa
+337,9.1,1,DW Steyn,2011-01-23,2nd,Yuvraj Singh,0,,PA Patel,0,South Africa,India,50,India,SuperSport Park,3,South Africa
+338,9.2,0,DW Steyn,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,50,India,SuperSport Park,3,South Africa
+339,9.3,0,DW Steyn,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,50,India,SuperSport Park,3,South Africa
+340,9.4,0,DW Steyn,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,50,India,SuperSport Park,3,South Africa
+341,9.5,4,DW Steyn,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,54,India,SuperSport Park,3,South Africa
+342,9.6,0,DW Steyn,2011-01-23,2nd,PA Patel,0,,Yuvraj Singh,0,South Africa,India,54,India,SuperSport Park,3,South Africa
+343,10.1,0,M Morkel,2011-01-23,2nd,Yuvraj Singh,0,,PA Patel,0,South Africa,India,54,India,SuperSport Park,3,South Africa
+344,10.2,0,M Morkel,2011-01-23,2nd,Yuvraj Singh,0,,PA Patel,0,South Africa,India,54,India,SuperSport Park,3,South Africa
+345,10.3,4,M Morkel,2011-01-23,2nd,Yuvraj Singh,0,,PA Patel,0,South Africa,India,58,India,SuperSport Park,3,South Africa
+346,10.4,2,M Morkel,2011-01-23,2nd,Yuvraj Singh,0,,PA Patel,0,South Africa,India,60,India,SuperSport Park,3,South Africa
+347,10.5,0,M Morkel,2011-01-23,2nd,Yuvraj Singh,0,,PA Patel,0,South Africa,India,60,India,SuperSport Park,3,South Africa
+348,10.6,0,M Morkel,2011-01-23,2nd,Yuvraj Singh,0,,PA Patel,0,South Africa,India,60,India,SuperSport Park,4,South Africa
+349,11.1,0,DW Steyn,2011-01-23,2nd,SK Raina,0,,Yuvraj Singh,0,South Africa,India,60,India,SuperSport Park,4,South Africa
+350,11.2,0,DW Steyn,2011-01-23,2nd,SK Raina,0,,Yuvraj Singh,0,South Africa,India,60,India,SuperSport Park,4,South Africa
+351,11.3,0,DW Steyn,2011-01-23,2nd,SK Raina,0,,Yuvraj Singh,0,South Africa,India,60,India,SuperSport Park,4,South Africa
+352,11.4,0,DW Steyn,2011-01-23,2nd,SK Raina,0,,Yuvraj Singh,0,South Africa,India,60,India,SuperSport Park,4,South Africa
+353,11.5,0,DW Steyn,2011-01-23,2nd,SK Raina,0,,Yuvraj Singh,0,South Africa,India,60,India,SuperSport Park,4,South Africa
+354,11.6,0,DW Steyn,2011-01-23,2nd,SK Raina,0,,Yuvraj Singh,0,South Africa,India,60,India,SuperSport Park,5,South Africa
+355,12.1,1,M Morkel,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,61,India,SuperSport Park,5,South Africa
+356,12.2,0,M Morkel,2011-01-23,2nd,SK Raina,0,,YK Pathan,0,South Africa,India,61,India,SuperSport Park,5,South Africa
+357,12.3,0,M Morkel,2011-01-23,2nd,SK Raina,0,,YK Pathan,0,South Africa,India,61,India,SuperSport Park,5,South Africa
+358,12.4,1,M Morkel,2011-01-23,2nd,SK Raina,0,,YK Pathan,0,South Africa,India,62,India,SuperSport Park,5,South Africa
+359,12.5,2,M Morkel,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,64,India,SuperSport Park,5,South Africa
+360,12.6,4,M Morkel,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,68,India,SuperSport Park,5,South Africa
+361,13.1,1,DW Steyn,2011-01-23,2nd,SK Raina,0,,YK Pathan,0,South Africa,India,69,India,SuperSport Park,5,South Africa
+362,13.2,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,70,India,SuperSport Park,5,South Africa
+363,13.3,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,70,India,SuperSport Park,5,South Africa
+364,13.4,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,70,India,SuperSport Park,5,South Africa
+365,13.5,4,DW Steyn,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,74,India,SuperSport Park,5,South Africa
+366,13.6,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,SK Raina,0,South Africa,India,74,India,SuperSport Park,6,South Africa
+367,13.7,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,74,India,SuperSport Park,6,South Africa
+368,14.1,0,LL Tsotsobe,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,74,India,SuperSport Park,6,South Africa
+369,14.2,4,LL Tsotsobe,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,78,India,SuperSport Park,6,South Africa
+370,14.3,1,LL Tsotsobe,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,79,India,SuperSport Park,6,South Africa
+371,14.4,1,LL Tsotsobe,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,80,India,SuperSport Park,6,South Africa
+372,14.5,0,LL Tsotsobe,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,80,India,SuperSport Park,6,South Africa
+373,14.6,0,LL Tsotsobe,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,80,India,SuperSport Park,6,South Africa
+374,15.1,1,J Botha,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,81,India,SuperSport Park,6,South Africa
+375,15.2,0,J Botha,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,81,India,SuperSport Park,6,South Africa
+376,15.3,1,J Botha,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,82,India,SuperSport Park,6,South Africa
+377,15.4,1,J Botha,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,83,India,SuperSport Park,6,South Africa
+378,15.5,0,J Botha,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,83,India,SuperSport Park,6,South Africa
+379,15.6,1,J Botha,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,84,India,SuperSport Park,6,South Africa
+380,16.1,0,RJ Peterson,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,84,India,SuperSport Park,6,South Africa
+381,16.2,0,RJ Peterson,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,84,India,SuperSport Park,6,South Africa
+382,16.3,1,RJ Peterson,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,85,India,SuperSport Park,6,South Africa
+383,16.4,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,85,India,SuperSport Park,6,South Africa
+384,16.5,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,85,India,SuperSport Park,6,South Africa
+385,16.6,6,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,91,India,SuperSport Park,6,South Africa
+386,17.1,1,J Botha,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,92,India,SuperSport Park,6,South Africa
+387,17.2,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,92,India,SuperSport Park,6,South Africa
+388,17.3,1,J Botha,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,93,India,SuperSport Park,6,South Africa
+389,17.4,1,J Botha,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,94,India,SuperSport Park,6,South Africa
+390,17.5,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,94,India,SuperSport Park,6,South Africa
+391,17.6,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,94,India,SuperSport Park,6,South Africa
+392,18.1,1,RJ Peterson,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,95,India,SuperSport Park,6,South Africa
+393,18.2,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,95,India,SuperSport Park,6,South Africa
+394,18.3,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,95,India,SuperSport Park,6,South Africa
+395,18.4,2,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,97,India,SuperSport Park,6,South Africa
+396,18.5,1,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,98,India,SuperSport Park,6,South Africa
+397,18.6,0,RJ Peterson,2011-01-23,2nd,Harbhajan Singh,0,,YK Pathan,0,South Africa,India,98,India,SuperSport Park,6,South Africa
+398,19.1,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Harbhajan Singh,0,South Africa,India,98,India,SuperSport Park,7,South Africa
+399,19.2,0,J Botha,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,98,India,SuperSport Park,7,South Africa
+400,19.3,0,J Botha,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,98,India,SuperSport Park,7,South Africa
+401,19.4,0,J Botha,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,98,India,SuperSport Park,7,South Africa
+402,19.5,1,J Botha,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,99,India,SuperSport Park,7,South Africa
+403,19.6,1,J Botha,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,100,India,SuperSport Park,7,South Africa
+404,20.1,2,RJ Peterson,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,102,India,SuperSport Park,7,South Africa
+405,20.2,4,RJ Peterson,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,106,India,SuperSport Park,7,South Africa
+406,20.3,0,RJ Peterson,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,106,India,SuperSport Park,7,South Africa
+407,20.4,6,RJ Peterson,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,112,India,SuperSport Park,7,South Africa
+408,20.5,0,RJ Peterson,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,112,India,SuperSport Park,7,South Africa
+409,20.6,0,RJ Peterson,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,112,India,SuperSport Park,7,South Africa
+410,21.1,0,J Botha,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,112,India,SuperSport Park,7,South Africa
+411,21.2,0,J Botha,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,112,India,SuperSport Park,7,South Africa
+412,21.3,1,J Botha,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,113,India,SuperSport Park,7,South Africa
+413,21.4,0,J Botha,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,113,India,SuperSport Park,7,South Africa
+414,21.5,0,J Botha,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,113,India,SuperSport Park,7,South Africa
+415,21.6,0,J Botha,2011-01-23,2nd,PP Chawla,0,,YK Pathan,0,South Africa,India,113,India,SuperSport Park,7,South Africa
+416,22.1,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,113,India,SuperSport Park,7,South Africa
+417,22.2,4,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,117,India,SuperSport Park,7,South Africa
+418,22.3,2,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,119,India,SuperSport Park,7,South Africa
+419,22.4,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,PP Chawla,0,South Africa,India,119,India,SuperSport Park,8,South Africa
+420,22.5,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,119,India,SuperSport Park,8,South Africa
+421,22.6,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,119,India,SuperSport Park,8,South Africa
+422,23.1,1,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,120,India,SuperSport Park,8,South Africa
+423,23.2,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,120,India,SuperSport Park,8,South Africa
+424,23.3,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,120,India,SuperSport Park,8,South Africa
+425,23.4,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,120,India,SuperSport Park,8,South Africa
+426,23.5,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,120,India,SuperSport Park,8,South Africa
+427,23.6,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,120,India,SuperSport Park,8,South Africa
+428,24.1,6,F du Plessis,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,126,India,SuperSport Park,8,South Africa
+429,24.2,1,F du Plessis,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,127,India,SuperSport Park,8,South Africa
+430,24.3,4,F du Plessis,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,131,India,SuperSport Park,8,South Africa
+431,24.4,0,F du Plessis,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,131,India,SuperSport Park,8,South Africa
+432,24.5,1,F du Plessis,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,132,India,SuperSport Park,8,South Africa
+433,24.6,1,F du Plessis,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,133,India,SuperSport Park,8,South Africa
+434,25.1,0,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,133,India,SuperSport Park,8,South Africa
+435,25.2,4,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,137,India,SuperSport Park,8,South Africa
+436,25.3,1,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,138,India,SuperSport Park,8,South Africa
+437,25.4,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,138,India,SuperSport Park,8,South Africa
+438,25.5,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,138,India,SuperSport Park,8,South Africa
+439,25.6,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,138,India,SuperSport Park,8,South Africa
+440,26.1,0,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,138,India,SuperSport Park,8,South Africa
+441,26.2,0,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,138,India,SuperSport Park,8,South Africa
+442,26.3,1,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,139,India,SuperSport Park,8,South Africa
+443,26.4,0,M Morkel,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,139,India,SuperSport Park,8,South Africa
+444,26.5,0,M Morkel,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,140,India,SuperSport Park,8,South Africa
+445,26.6,1,M Morkel,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,141,India,SuperSport Park,8,South Africa
+446,26.7,0,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,141,India,SuperSport Park,8,South Africa
+447,27.1,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,141,India,SuperSport Park,8,South Africa
+448,27.2,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,142,India,SuperSport Park,8,South Africa
+449,27.3,0,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,142,India,SuperSport Park,8,South Africa
+450,27.4,0,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,142,India,SuperSport Park,8,South Africa
+451,27.5,1,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,143,India,SuperSport Park,8,South Africa
+452,27.6,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,143,India,SuperSport Park,8,South Africa
+453,28.1,6,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,149,India,SuperSport Park,8,South Africa
+454,28.2,1,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,150,India,SuperSport Park,8,South Africa
+455,28.3,0,M Morkel,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,150,India,SuperSport Park,8,South Africa
+456,28.4,1,M Morkel,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,151,India,SuperSport Park,8,South Africa
+457,28.5,4,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,155,India,SuperSport Park,8,South Africa
+458,28.6,4,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,159,India,SuperSport Park,8,South Africa
+459,29.1,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,159,India,SuperSport Park,8,South Africa
+460,29.2,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,159,India,SuperSport Park,8,South Africa
+461,29.3,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,159,India,SuperSport Park,8,South Africa
+462,29.4,0,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,159,India,SuperSport Park,8,South Africa
+463,29.5,1,RJ Peterson,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,160,India,SuperSport Park,8,South Africa
+464,29.6,6,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,166,India,SuperSport Park,8,South Africa
+465,30.1,1,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,167,India,SuperSport Park,8,South Africa
+466,30.2,1,DW Steyn,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,168,India,SuperSport Park,8,South Africa
+467,30.3,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,168,India,SuperSport Park,8,South Africa
+468,30.4,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,168,India,SuperSport Park,8,South Africa
+469,30.5,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,168,India,SuperSport Park,8,South Africa
+470,30.6,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,168,India,SuperSport Park,8,South Africa
+471,31.1,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,173,India,SuperSport Park,8,South Africa
+472,31.2,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,173,India,SuperSport Park,8,South Africa
+473,31.3,2,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,175,India,SuperSport Park,8,South Africa
+474,31.4,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,175,India,SuperSport Park,8,South Africa
+475,31.5,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,175,India,SuperSport Park,8,South Africa
+476,31.6,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,175,India,SuperSport Park,8,South Africa
+477,31.7,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,175,India,SuperSport Park,8,South Africa
+478,32.1,0,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,175,India,SuperSport Park,8,South Africa
+479,32.2,1,DW Steyn,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,176,India,SuperSport Park,8,South Africa
+480,32.3,0,DW Steyn,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,176,India,SuperSport Park,8,South Africa
+481,32.4,0,DW Steyn,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,176,India,SuperSport Park,8,South Africa
+482,32.5,4,DW Steyn,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,180,India,SuperSport Park,8,South Africa
+483,32.6,0,DW Steyn,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,181,India,SuperSport Park,8,South Africa
+484,33.1,1,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,182,India,SuperSport Park,8,South Africa
+485,33.2,0,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,182,India,SuperSport Park,8,South Africa
+486,33.3,1,J Botha,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,183,India,SuperSport Park,8,South Africa
+487,33.4,6,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,189,India,SuperSport Park,8,South Africa
+488,33.5,6,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,195,India,SuperSport Park,8,South Africa
+489,33.6,2,J Botha,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,197,India,SuperSport Park,8,South Africa
+490,34.1,1,LL Tsotsobe,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,198,India,SuperSport Park,8,South Africa
+491,34.2,6,LL Tsotsobe,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,204,India,SuperSport Park,8,South Africa
+492,34.3,0,LL Tsotsobe,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,204,India,SuperSport Park,8,South Africa
+493,34.4,4,LL Tsotsobe,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,208,India,SuperSport Park,8,South Africa
+494,34.5,6,LL Tsotsobe,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,214,India,SuperSport Park,8,South Africa
+495,34.6,4,LL Tsotsobe,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,218,India,SuperSport Park,8,South Africa
+496,35.1,1,M Morkel,2011-01-23,2nd,YK Pathan,0,,Z Khan,0,South Africa,India,219,India,SuperSport Park,8,South Africa
+497,35.2,0,M Morkel,2011-01-23,2nd,Z Khan,0,,YK Pathan,0,South Africa,India,219,India,SuperSport Park,9,South Africa
+498,35.3,0,M Morkel,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,219,India,SuperSport Park,9,South Africa
+499,35.4,0,M Morkel,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,219,India,SuperSport Park,9,South Africa
+500,35.5,0,M Morkel,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,219,India,SuperSport Park,9,South Africa
+501,35.6,1,M Morkel,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,220,India,SuperSport Park,9,South Africa
+502,36.1,0,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,220,India,SuperSport Park,9,South Africa
+503,36.2,4,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,224,India,SuperSport Park,9,South Africa
+504,36.3,0,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,224,India,SuperSport Park,9,South Africa
+505,36.4,0,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,224,India,SuperSport Park,9,South Africa
+506,36.5,0,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,224,India,SuperSport Park,9,South Africa
+507,36.6,0,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,224,India,SuperSport Park,9,South Africa
+508,37.1,1,LL Tsotsobe,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,225,India,SuperSport Park,9,South Africa
+509,37.2,1,LL Tsotsobe,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,226,India,SuperSport Park,9,South Africa
+510,37.3,1,LL Tsotsobe,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,227,India,SuperSport Park,9,South Africa
+511,37.4,0,LL Tsotsobe,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,227,India,SuperSport Park,9,South Africa
+512,37.5,4,LL Tsotsobe,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,231,India,SuperSport Park,9,South Africa
+513,37.6,0,LL Tsotsobe,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,231,India,SuperSport Park,9,South Africa
+514,38.1,0,DW Steyn,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,231,India,SuperSport Park,9,South Africa
+515,38.2,0,DW Steyn,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,231,India,SuperSport Park,9,South Africa
+516,38.3,0,DW Steyn,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,231,India,SuperSport Park,9,South Africa
+517,38.4,1,DW Steyn,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,232,India,SuperSport Park,9,South Africa
+518,38.5,0,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,232,India,SuperSport Park,9,South Africa
+519,38.6,0,DW Steyn,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,232,India,SuperSport Park,9,South Africa
+520,39.1,1,RJ Peterson,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,233,India,SuperSport Park,9,South Africa
+521,39.2,0,RJ Peterson,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,233,India,SuperSport Park,9,South Africa
+522,39.3,0,RJ Peterson,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,233,India,SuperSport Park,9,South Africa
+523,39.4,1,RJ Peterson,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,234,India,SuperSport Park,9,South Africa
+524,39.5,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,234,India,SuperSport Park,9,South Africa
+525,39.6,0,RJ Peterson,2011-01-23,2nd,Z Khan,0,,MM Patel,0,South Africa,India,234,India,SuperSport Park,9,South Africa
+526,40.1,0,LL Tsotsobe,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,234,India,SuperSport Park,9,South Africa
+527,40.2,0,LL Tsotsobe,2011-01-23,2nd,MM Patel,0,,Z Khan,0,South Africa,India,234,India,SuperSport Park,10,South Africa

@@ -1,0 +1,602 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,0,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+1,0.2,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,1,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+2,0.3,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,1,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+3,0.4,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,0,,Salman Butt,0,Australia,Pakistan,1,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+4,0.5,4,DE Bollinger,2010-01-22,1st,Kamran Akmal,0,,Salman Butt,4,Australia,Pakistan,5,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+5,0.6,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,0,,Salman Butt,4,Australia,Pakistan,5,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+6,0.7,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,0,,Salman Butt,4,Australia,Pakistan,5,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+7,1.1,0,PM Siddle,2010-01-22,1st,Salman Butt,4,,Kamran Akmal,0,Australia,Pakistan,5,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+8,1.2,0,PM Siddle,2010-01-22,1st,Salman Butt,4,,Kamran Akmal,0,Australia,Pakistan,5,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+9,1.3,0,PM Siddle,2010-01-22,1st,Salman Butt,4,,Kamran Akmal,0,Australia,Pakistan,5,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+10,1.4,3,PM Siddle,2010-01-22,1st,Salman Butt,4,,Kamran Akmal,3,Australia,Pakistan,8,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+11,1.5,0,PM Siddle,2010-01-22,1st,Kamran Akmal,3,,Salman Butt,4,Australia,Pakistan,8,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+12,1.6,0,PM Siddle,2010-01-22,1st,Kamran Akmal,3,,Salman Butt,4,Australia,Pakistan,8,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+13,2.1,0,DE Bollinger,2010-01-22,1st,Salman Butt,4,,Kamran Akmal,3,Australia,Pakistan,8,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+14,2.2,1,DE Bollinger,2010-01-22,1st,Salman Butt,4,,Kamran Akmal,4,Australia,Pakistan,9,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+15,2.3,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,4,,Salman Butt,4,Australia,Pakistan,10,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+16,2.4,4,DE Bollinger,2010-01-22,1st,Kamran Akmal,4,,Salman Butt,8,Australia,Pakistan,14,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+17,2.5,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,4,,Salman Butt,8,Australia,Pakistan,14,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+18,2.6,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,4,,Salman Butt,8,Australia,Pakistan,14,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+19,2.7,4,DE Bollinger,2010-01-22,1st,Kamran Akmal,4,,Salman Butt,12,Australia,Pakistan,18,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+20,3.1,0,PM Siddle,2010-01-22,1st,Salman Butt,12,,Kamran Akmal,4,Australia,Pakistan,18,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+21,3.2,0,PM Siddle,2010-01-22,1st,Salman Butt,12,,Kamran Akmal,4,Australia,Pakistan,18,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+22,3.3,1,PM Siddle,2010-01-22,1st,Salman Butt,12,,Kamran Akmal,5,Australia,Pakistan,19,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+23,3.4,0,PM Siddle,2010-01-22,1st,Kamran Akmal,5,,Salman Butt,12,Australia,Pakistan,19,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+24,3.5,4,PM Siddle,2010-01-22,1st,Kamran Akmal,5,,Salman Butt,16,Australia,Pakistan,23,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+25,3.6,0,PM Siddle,2010-01-22,1st,Kamran Akmal,5,,Salman Butt,16,Australia,Pakistan,23,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+26,4.1,0,DE Bollinger,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,5,Australia,Pakistan,24,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+27,4.2,3,DE Bollinger,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,8,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+28,4.3,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,8,,Salman Butt,16,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+29,4.4,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,8,,Salman Butt,16,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+30,4.5,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,8,,Salman Butt,16,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+31,4.6,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,8,,Salman Butt,16,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+32,4.7,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,8,,Salman Butt,16,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+33,5.1,4,PM Siddle,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,12,Australia,Pakistan,31,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+34,5.2,0,PM Siddle,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,12,Australia,Pakistan,31,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+35,5.3,0,PM Siddle,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,12,Australia,Pakistan,31,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+36,5.4,4,PM Siddle,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,16,Australia,Pakistan,35,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+37,5.5,3,PM Siddle,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,19,Australia,Pakistan,38,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+38,5.6,0,PM Siddle,2010-01-22,1st,Kamran Akmal,19,,Salman Butt,16,Australia,Pakistan,38,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+39,6.1,1,DE Bollinger,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,20,Australia,Pakistan,39,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+40,6.2,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,20,,Salman Butt,16,Australia,Pakistan,39,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+41,6.3,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,20,,Salman Butt,16,Australia,Pakistan,39,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+42,6.4,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,20,,Salman Butt,16,Australia,Pakistan,39,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+43,6.5,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,20,,Salman Butt,16,Australia,Pakistan,39,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+44,6.6,0,DE Bollinger,2010-01-22,1st,Kamran Akmal,20,,Salman Butt,16,Australia,Pakistan,39,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+45,7.1,1,CJ McKay,2010-01-22,1st,Salman Butt,16,,Kamran Akmal,21,Australia,Pakistan,40,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+46,7.2,0,CJ McKay,2010-01-22,1st,Kamran Akmal,21,,Salman Butt,16,Australia,Pakistan,40,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+47,7.3,1,CJ McKay,2010-01-22,1st,Kamran Akmal,21,,Salman Butt,17,Australia,Pakistan,41,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+48,7.4,4,CJ McKay,2010-01-22,1st,Salman Butt,17,,Kamran Akmal,25,Australia,Pakistan,45,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+49,7.5,0,CJ McKay,2010-01-22,1st,Salman Butt,17,,Kamran Akmal,25,Australia,Pakistan,45,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+50,7.6,0,CJ McKay,2010-01-22,1st,Salman Butt,17,,Kamran Akmal,25,Australia,Pakistan,45,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+51,8.1,0,SR Watson,2010-01-22,1st,Kamran Akmal,25,,Salman Butt,17,Australia,Pakistan,45,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+52,8.2,4,SR Watson,2010-01-22,1st,Kamran Akmal,25,,Salman Butt,21,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+53,8.3,0,SR Watson,2010-01-22,1st,Kamran Akmal,25,,Salman Butt,21,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+54,8.4,0,SR Watson,2010-01-22,1st,Kamran Akmal,25,,Salman Butt,21,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+55,8.5,0,SR Watson,2010-01-22,1st,Kamran Akmal,25,,Salman Butt,21,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+56,8.6,0,SR Watson,2010-01-22,1st,Kamran Akmal,25,,Salman Butt,21,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+57,9.1,0,CJ McKay,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,25,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+58,9.2,0,CJ McKay,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,25,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+59,9.3,0,CJ McKay,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,25,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+60,9.4,4,CJ McKay,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,29,Australia,Pakistan,53,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+61,9.5,1,CJ McKay,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,30,Australia,Pakistan,54,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+62,9.6,0,CJ McKay,2010-01-22,1st,Kamran Akmal,30,,Salman Butt,21,Australia,Pakistan,54,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+63,10.1,0,SR Watson,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,30,Australia,Pakistan,54,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+64,10.2,1,SR Watson,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,31,Australia,Pakistan,55,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+65,10.3,0,SR Watson,2010-01-22,1st,Kamran Akmal,31,,Salman Butt,21,Australia,Pakistan,55,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+66,10.4,0,SR Watson,2010-01-22,1st,Kamran Akmal,31,,Salman Butt,21,Australia,Pakistan,55,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+67,10.5,0,SR Watson,2010-01-22,1st,Kamran Akmal,31,,Salman Butt,21,Australia,Pakistan,55,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+68,10.6,0,SR Watson,2010-01-22,1st,Kamran Akmal,31,,Salman Butt,21,Australia,Pakistan,55,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+69,11.1,0,NM Hauritz,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,31,Australia,Pakistan,55,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+70,11.2,1,NM Hauritz,2010-01-22,1st,Salman Butt,21,,Kamran Akmal,32,Australia,Pakistan,56,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+71,11.3,1,NM Hauritz,2010-01-22,1st,Kamran Akmal,32,,Salman Butt,22,Australia,Pakistan,57,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+72,11.4,0,NM Hauritz,2010-01-22,1st,Salman Butt,22,,Kamran Akmal,32,Australia,Pakistan,57,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+73,11.5,1,NM Hauritz,2010-01-22,1st,Salman Butt,22,,Kamran Akmal,33,Australia,Pakistan,58,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+74,11.6,2,NM Hauritz,2010-01-22,1st,Kamran Akmal,33,,Salman Butt,24,Australia,Pakistan,60,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+75,12.1,0,SR Watson,2010-01-22,1st,Salman Butt,24,,Kamran Akmal,33,Australia,Pakistan,60,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+76,12.2,1,SR Watson,2010-01-22,1st,Salman Butt,24,,Kamran Akmal,34,Australia,Pakistan,61,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+77,12.3,0,SR Watson,2010-01-22,1st,Kamran Akmal,34,,Salman Butt,24,Australia,Pakistan,61,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+78,12.4,1,SR Watson,2010-01-22,1st,Kamran Akmal,34,,Salman Butt,25,Australia,Pakistan,62,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+79,12.5,0,SR Watson,2010-01-22,1st,Salman Butt,25,Kamran Akmal,Kamran Akmal,34,Australia,Pakistan,62,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+80,12.6,0,SR Watson,2010-01-22,1st,Salman Butt,25,,Younis Khan,0,Australia,Pakistan,62,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+81,13.1,2,NM Hauritz,2010-01-22,1st,Younis Khan,0,,Salman Butt,27,Australia,Pakistan,64,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+82,13.2,0,NM Hauritz,2010-01-22,1st,Younis Khan,0,,Salman Butt,27,Australia,Pakistan,64,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+83,13.3,1,NM Hauritz,2010-01-22,1st,Younis Khan,0,,Salman Butt,28,Australia,Pakistan,65,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+84,13.4,1,NM Hauritz,2010-01-22,1st,Salman Butt,28,,Younis Khan,1,Australia,Pakistan,66,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+85,13.5,0,NM Hauritz,2010-01-22,1st,Younis Khan,1,,Salman Butt,28,Australia,Pakistan,66,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+86,13.6,1,NM Hauritz,2010-01-22,1st,Younis Khan,1,,Salman Butt,29,Australia,Pakistan,67,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+87,14.1,0,SR Watson,2010-01-22,1st,Younis Khan,1,,Salman Butt,29,Australia,Pakistan,67,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+88,14.2,2,SR Watson,2010-01-22,1st,Younis Khan,1,,Salman Butt,31,Australia,Pakistan,69,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+89,14.3,4,SR Watson,2010-01-22,1st,Younis Khan,1,,Salman Butt,35,Australia,Pakistan,73,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+90,14.4,0,SR Watson,2010-01-22,1st,Younis Khan,1,,Salman Butt,35,Australia,Pakistan,73,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+91,14.5,1,SR Watson,2010-01-22,1st,Younis Khan,1,,Salman Butt,36,Australia,Pakistan,74,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+92,14.6,0,SR Watson,2010-01-22,1st,Salman Butt,36,,Younis Khan,1,Australia,Pakistan,74,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+93,15.1,4,PM Siddle,2010-01-22,1st,Younis Khan,1,,Salman Butt,40,Australia,Pakistan,78,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+94,15.2,4,PM Siddle,2010-01-22,1st,Younis Khan,1,,Salman Butt,44,Australia,Pakistan,82,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+95,15.3,4,PM Siddle,2010-01-22,1st,Younis Khan,1,,Salman Butt,48,Australia,Pakistan,86,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+96,15.4,0,PM Siddle,2010-01-22,1st,Younis Khan,1,,Salman Butt,48,Australia,Pakistan,86,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+97,15.5,0,PM Siddle,2010-01-22,1st,Younis Khan,1,,Salman Butt,48,Australia,Pakistan,86,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+98,15.6,0,PM Siddle,2010-01-22,1st,Younis Khan,1,,Salman Butt,48,Australia,Pakistan,86,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+99,16.1,1,SR Watson,2010-01-22,1st,Salman Butt,48,,Younis Khan,2,Australia,Pakistan,87,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+100,16.2,1,SR Watson,2010-01-22,1st,Younis Khan,2,,Salman Butt,49,Australia,Pakistan,88,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+101,16.3,0,SR Watson,2010-01-22,1st,Salman Butt,49,,Younis Khan,2,Australia,Pakistan,88,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+102,16.4,0,SR Watson,2010-01-22,1st,Salman Butt,49,,Younis Khan,2,Australia,Pakistan,88,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+103,16.5,0,SR Watson,2010-01-22,1st,Salman Butt,49,,Younis Khan,2,Australia,Pakistan,88,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+104,16.6,0,SR Watson,2010-01-22,1st,Salman Butt,49,,Younis Khan,2,Australia,Pakistan,88,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+105,17.1,0,PM Siddle,2010-01-22,1st,Younis Khan,2,,Salman Butt,49,Australia,Pakistan,88,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+106,17.2,1,PM Siddle,2010-01-22,1st,Younis Khan,2,,Salman Butt,50,Australia,Pakistan,89,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+107,17.3,0,PM Siddle,2010-01-22,1st,Salman Butt,50,,Younis Khan,2,Australia,Pakistan,89,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+108,17.4,0,PM Siddle,2010-01-22,1st,Salman Butt,50,,Younis Khan,2,Australia,Pakistan,89,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+109,17.5,0,PM Siddle,2010-01-22,1st,Salman Butt,50,,Younis Khan,2,Australia,Pakistan,89,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+110,17.6,0,PM Siddle,2010-01-22,1st,Salman Butt,50,,Younis Khan,2,Australia,Pakistan,89,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+111,18.1,1,CJ McKay,2010-01-22,1st,Younis Khan,2,,Salman Butt,51,Australia,Pakistan,90,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+112,18.2,1,CJ McKay,2010-01-22,1st,Salman Butt,51,,Younis Khan,3,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+113,18.3,0,CJ McKay,2010-01-22,1st,Younis Khan,3,,Salman Butt,51,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+114,18.4,0,CJ McKay,2010-01-22,1st,Younis Khan,3,,Salman Butt,51,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+115,18.5,0,CJ McKay,2010-01-22,1st,Younis Khan,3,,Salman Butt,51,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+116,18.6,0,CJ McKay,2010-01-22,1st,Younis Khan,3,,Salman Butt,51,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+117,19.1,1,NM Hauritz,2010-01-22,1st,Salman Butt,51,,Younis Khan,4,Australia,Pakistan,92,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+118,19.2,2,NM Hauritz,2010-01-22,1st,Younis Khan,4,,Salman Butt,53,Australia,Pakistan,94,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+119,19.3,1,NM Hauritz,2010-01-22,1st,Younis Khan,4,,Salman Butt,54,Australia,Pakistan,95,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+120,19.4,0,NM Hauritz,2010-01-22,1st,Salman Butt,54,,Younis Khan,4,Australia,Pakistan,95,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+121,19.5,1,NM Hauritz,2010-01-22,1st,Salman Butt,54,,Younis Khan,5,Australia,Pakistan,96,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+122,19.6,1,NM Hauritz,2010-01-22,1st,Younis Khan,5,,Salman Butt,55,Australia,Pakistan,97,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+123,20.1,4,CJ McKay,2010-01-22,1st,Younis Khan,5,,Salman Butt,59,Australia,Pakistan,101,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+124,20.2,0,CJ McKay,2010-01-22,1st,Younis Khan,5,,Salman Butt,59,Australia,Pakistan,101,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+125,20.3,4,CJ McKay,2010-01-22,1st,Younis Khan,5,,Salman Butt,63,Australia,Pakistan,105,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+126,20.4,4,CJ McKay,2010-01-22,1st,Younis Khan,5,,Salman Butt,67,Australia,Pakistan,109,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+127,20.5,1,CJ McKay,2010-01-22,1st,Younis Khan,5,,Salman Butt,68,Australia,Pakistan,110,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+128,20.6,1,CJ McKay,2010-01-22,1st,Salman Butt,68,,Younis Khan,6,Australia,Pakistan,111,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+129,21.1,1,NM Hauritz,2010-01-22,1st,Salman Butt,68,,Younis Khan,7,Australia,Pakistan,112,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+130,21.2,0,NM Hauritz,2010-01-22,1st,Younis Khan,7,,Salman Butt,68,Australia,Pakistan,112,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+131,21.3,3,NM Hauritz,2010-01-22,1st,Younis Khan,7,,Salman Butt,71,Australia,Pakistan,115,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+132,21.4,1,NM Hauritz,2010-01-22,1st,Salman Butt,71,,Younis Khan,8,Australia,Pakistan,116,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+133,21.5,1,NM Hauritz,2010-01-22,1st,Younis Khan,8,,Salman Butt,72,Australia,Pakistan,117,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+134,21.6,0,NM Hauritz,2010-01-22,1st,Salman Butt,72,,Younis Khan,8,Australia,Pakistan,117,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+135,22.1,0,DE Bollinger,2010-01-22,1st,Younis Khan,8,,Salman Butt,72,Australia,Pakistan,117,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+136,22.2,0,DE Bollinger,2010-01-22,1st,Younis Khan,8,Salman Butt,Salman Butt,72,Australia,Pakistan,117,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+137,22.3,0,DE Bollinger,2010-01-22,1st,Mohammad Yousuf,0,,Younis Khan,8,Australia,Pakistan,117,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+138,22.4,0,DE Bollinger,2010-01-22,1st,Mohammad Yousuf,0,,Younis Khan,8,Australia,Pakistan,117,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+139,22.5,1,DE Bollinger,2010-01-22,1st,Mohammad Yousuf,0,,Younis Khan,9,Australia,Pakistan,118,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+140,22.6,0,DE Bollinger,2010-01-22,1st,Younis Khan,9,,Mohammad Yousuf,0,Australia,Pakistan,118,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+141,23.1,0,NM Hauritz,2010-01-22,1st,Mohammad Yousuf,0,,Younis Khan,9,Australia,Pakistan,119,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+142,23.2,1,NM Hauritz,2010-01-22,1st,Mohammad Yousuf,0,,Younis Khan,10,Australia,Pakistan,120,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+143,23.3,0,NM Hauritz,2010-01-22,1st,Younis Khan,10,,Mohammad Yousuf,0,Australia,Pakistan,120,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+144,23.4,0,NM Hauritz,2010-01-22,1st,Younis Khan,10,,Mohammad Yousuf,0,Australia,Pakistan,120,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+145,23.5,1,NM Hauritz,2010-01-22,1st,Younis Khan,10,,Mohammad Yousuf,1,Australia,Pakistan,121,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+146,23.6,0,NM Hauritz,2010-01-22,1st,Mohammad Yousuf,1,,Younis Khan,10,Australia,Pakistan,121,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+147,23.7,0,NM Hauritz,2010-01-22,1st,Mohammad Yousuf,1,,Younis Khan,10,Australia,Pakistan,121,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+148,24.1,1,DE Bollinger,2010-01-22,1st,Younis Khan,10,,Mohammad Yousuf,2,Australia,Pakistan,122,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+149,24.2,1,DE Bollinger,2010-01-22,1st,Mohammad Yousuf,2,,Younis Khan,11,Australia,Pakistan,123,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+150,24.3,0,DE Bollinger,2010-01-22,1st,Younis Khan,11,,Mohammad Yousuf,2,Australia,Pakistan,123,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+151,24.4,0,DE Bollinger,2010-01-22,1st,Younis Khan,11,Mohammad Yousuf,Mohammad Yousuf,2,Australia,Pakistan,123,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+152,24.5,0,DE Bollinger,2010-01-22,1st,Younis Khan,11,,Umar Akmal,0,Australia,Pakistan,123,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+153,24.6,0,DE Bollinger,2010-01-22,1st,Younis Khan,11,,Umar Akmal,0,Australia,Pakistan,123,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+154,25.1,1,NM Hauritz,2010-01-22,1st,Umar Akmal,0,,Younis Khan,12,Australia,Pakistan,124,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+155,25.2,2,NM Hauritz,2010-01-22,1st,Younis Khan,12,,Umar Akmal,2,Australia,Pakistan,126,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+156,25.3,2,NM Hauritz,2010-01-22,1st,Younis Khan,12,,Umar Akmal,4,Australia,Pakistan,128,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+157,25.4,2,NM Hauritz,2010-01-22,1st,Younis Khan,12,,Umar Akmal,6,Australia,Pakistan,130,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+158,25.5,2,NM Hauritz,2010-01-22,1st,Younis Khan,12,,Umar Akmal,8,Australia,Pakistan,132,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+159,25.6,4,NM Hauritz,2010-01-22,1st,Younis Khan,12,,Umar Akmal,12,Australia,Pakistan,136,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+160,26.1,0,CJ McKay,2010-01-22,1st,Umar Akmal,12,,Younis Khan,12,Australia,Pakistan,136,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+161,26.2,1,CJ McKay,2010-01-22,1st,Umar Akmal,12,,Younis Khan,13,Australia,Pakistan,137,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+162,26.3,0,CJ McKay,2010-01-22,1st,Younis Khan,13,,Umar Akmal,12,Australia,Pakistan,137,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+163,26.4,0,CJ McKay,2010-01-22,1st,Younis Khan,13,,Umar Akmal,12,Australia,Pakistan,138,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+164,26.5,0,CJ McKay,2010-01-22,1st,Younis Khan,13,,Umar Akmal,12,Australia,Pakistan,138,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+165,26.6,0,CJ McKay,2010-01-22,1st,Younis Khan,13,,Umar Akmal,12,Australia,Pakistan,138,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+166,26.7,1,CJ McKay,2010-01-22,1st,Younis Khan,13,,Umar Akmal,13,Australia,Pakistan,139,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+167,27.1,4,NM Hauritz,2010-01-22,1st,Younis Khan,13,,Umar Akmal,17,Australia,Pakistan,143,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+168,27.2,1,NM Hauritz,2010-01-22,1st,Younis Khan,13,,Umar Akmal,18,Australia,Pakistan,144,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+169,27.3,4,NM Hauritz,2010-01-22,1st,Umar Akmal,18,,Younis Khan,17,Australia,Pakistan,148,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+170,27.4,0,NM Hauritz,2010-01-22,1st,Umar Akmal,18,,Younis Khan,17,Australia,Pakistan,148,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+171,27.5,1,NM Hauritz,2010-01-22,1st,Umar Akmal,18,,Younis Khan,18,Australia,Pakistan,149,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+172,27.6,4,NM Hauritz,2010-01-22,1st,Younis Khan,18,,Umar Akmal,22,Australia,Pakistan,153,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+173,28.1,1,CJ McKay,2010-01-22,1st,Umar Akmal,22,,Younis Khan,19,Australia,Pakistan,154,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+174,28.2,1,CJ McKay,2010-01-22,1st,Younis Khan,19,,Umar Akmal,23,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+175,28.3,0,CJ McKay,2010-01-22,1st,Umar Akmal,23,,Younis Khan,19,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+176,28.4,0,CJ McKay,2010-01-22,1st,Umar Akmal,23,,Younis Khan,19,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+177,28.5,0,CJ McKay,2010-01-22,1st,Umar Akmal,23,,Younis Khan,19,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+178,28.6,0,CJ McKay,2010-01-22,1st,Umar Akmal,23,,Younis Khan,19,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+179,29.1,0,PM Siddle,2010-01-22,1st,Younis Khan,19,,Umar Akmal,23,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+180,29.2,0,PM Siddle,2010-01-22,1st,Younis Khan,19,,Umar Akmal,23,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+181,29.3,0,PM Siddle,2010-01-22,1st,Younis Khan,19,,Umar Akmal,23,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+182,29.4,0,PM Siddle,2010-01-22,1st,Younis Khan,19,,Umar Akmal,23,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+183,29.5,0,PM Siddle,2010-01-22,1st,Younis Khan,19,,Umar Akmal,23,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+184,29.6,0,PM Siddle,2010-01-22,1st,Younis Khan,19,,Umar Akmal,23,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+185,30.1,1,CJ McKay,2010-01-22,1st,Umar Akmal,23,,Younis Khan,20,Australia,Pakistan,156,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+186,30.2,0,CJ McKay,2010-01-22,1st,Younis Khan,20,Umar Akmal,Umar Akmal,23,Australia,Pakistan,156,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+187,30.3,0,CJ McKay,2010-01-22,1st,Younis Khan,20,,Shoaib Malik,0,Australia,Pakistan,156,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+188,30.4,0,CJ McKay,2010-01-22,1st,Younis Khan,20,,Shoaib Malik,0,Australia,Pakistan,156,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+189,30.5,0,CJ McKay,2010-01-22,1st,Younis Khan,20,,Shoaib Malik,0,Australia,Pakistan,156,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+190,30.6,4,CJ McKay,2010-01-22,1st,Younis Khan,20,,Shoaib Malik,4,Australia,Pakistan,160,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+191,31.1,1,MJ Clarke,2010-01-22,1st,Shoaib Malik,4,,Younis Khan,21,Australia,Pakistan,161,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+192,31.2,0,MJ Clarke,2010-01-22,1st,Younis Khan,21,,Shoaib Malik,4,Australia,Pakistan,161,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+193,31.3,1,MJ Clarke,2010-01-22,1st,Younis Khan,21,,Shoaib Malik,5,Australia,Pakistan,162,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+194,31.4,0,MJ Clarke,2010-01-22,1st,Shoaib Malik,5,,Younis Khan,21,Australia,Pakistan,162,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+195,31.5,1,MJ Clarke,2010-01-22,1st,Shoaib Malik,5,,Younis Khan,22,Australia,Pakistan,163,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+196,31.6,1,MJ Clarke,2010-01-22,1st,Younis Khan,22,,Shoaib Malik,6,Australia,Pakistan,164,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+197,32.1,0,MEK Hussey,2010-01-22,1st,Younis Khan,22,,Shoaib Malik,6,Australia,Pakistan,164,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+198,32.2,0,MEK Hussey,2010-01-22,1st,Younis Khan,22,,Shoaib Malik,6,Australia,Pakistan,165,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+199,32.3,1,MEK Hussey,2010-01-22,1st,Younis Khan,22,,Shoaib Malik,7,Australia,Pakistan,166,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+200,32.4,0,MEK Hussey,2010-01-22,1st,Shoaib Malik,7,,Younis Khan,22,Australia,Pakistan,166,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+201,32.5,1,MEK Hussey,2010-01-22,1st,Shoaib Malik,7,,Younis Khan,23,Australia,Pakistan,167,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+202,32.6,0,MEK Hussey,2010-01-22,1st,Younis Khan,23,,Shoaib Malik,7,Australia,Pakistan,167,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+203,32.7,1,MEK Hussey,2010-01-22,1st,Younis Khan,23,,Shoaib Malik,8,Australia,Pakistan,168,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+204,33.1,0,MJ Clarke,2010-01-22,1st,Younis Khan,23,,Shoaib Malik,8,Australia,Pakistan,168,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+205,33.2,2,MJ Clarke,2010-01-22,1st,Younis Khan,23,,Shoaib Malik,10,Australia,Pakistan,170,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+206,33.3,1,MJ Clarke,2010-01-22,1st,Younis Khan,23,,Shoaib Malik,11,Australia,Pakistan,171,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+207,33.4,0,MJ Clarke,2010-01-22,1st,Shoaib Malik,11,,Younis Khan,23,Australia,Pakistan,171,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+208,33.5,1,MJ Clarke,2010-01-22,1st,Shoaib Malik,11,,Younis Khan,24,Australia,Pakistan,172,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+209,33.6,0,MJ Clarke,2010-01-22,1st,Younis Khan,24,,Shoaib Malik,11,Australia,Pakistan,172,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+210,34.1,0,MEK Hussey,2010-01-22,1st,Shoaib Malik,11,,Younis Khan,24,Australia,Pakistan,172,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+211,34.2,1,MEK Hussey,2010-01-22,1st,Shoaib Malik,11,,Younis Khan,25,Australia,Pakistan,173,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+212,34.3,2,MEK Hussey,2010-01-22,1st,Younis Khan,25,,Shoaib Malik,13,Australia,Pakistan,175,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+213,34.4,2,MEK Hussey,2010-01-22,1st,Younis Khan,25,,Shoaib Malik,15,Australia,Pakistan,177,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+214,34.5,1,MEK Hussey,2010-01-22,1st,Younis Khan,25,,Shoaib Malik,16,Australia,Pakistan,178,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+215,34.6,2,MEK Hussey,2010-01-22,1st,Shoaib Malik,16,,Younis Khan,27,Australia,Pakistan,180,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+216,35.1,1,DE Bollinger,2010-01-22,1st,Younis Khan,27,,Shoaib Malik,17,Australia,Pakistan,181,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+217,35.2,0,DE Bollinger,2010-01-22,1st,Shoaib Malik,17,,Younis Khan,27,Australia,Pakistan,181,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+218,35.3,1,DE Bollinger,2010-01-22,1st,Shoaib Malik,17,,Younis Khan,28,Australia,Pakistan,182,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+219,35.4,1,DE Bollinger,2010-01-22,1st,Younis Khan,28,,Shoaib Malik,18,Australia,Pakistan,183,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+220,35.5,1,DE Bollinger,2010-01-22,1st,Shoaib Malik,18,,Younis Khan,29,Australia,Pakistan,184,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+221,35.6,4,DE Bollinger,2010-01-22,1st,Younis Khan,29,,Shoaib Malik,22,Australia,Pakistan,188,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+222,36.1,1,SR Watson,2010-01-22,1st,Shoaib Malik,22,,Younis Khan,30,Australia,Pakistan,189,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+223,36.2,1,SR Watson,2010-01-22,1st,Younis Khan,30,,Shoaib Malik,23,Australia,Pakistan,190,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+224,36.3,1,SR Watson,2010-01-22,1st,Shoaib Malik,23,,Younis Khan,31,Australia,Pakistan,191,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+225,36.4,0,SR Watson,2010-01-22,1st,Younis Khan,31,,Shoaib Malik,23,Australia,Pakistan,191,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+226,36.5,0,SR Watson,2010-01-22,1st,Younis Khan,31,,Shoaib Malik,23,Australia,Pakistan,191,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+227,36.6,0,SR Watson,2010-01-22,1st,Younis Khan,31,,Shoaib Malik,23,Australia,Pakistan,191,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+228,37.1,2,DE Bollinger,2010-01-22,1st,Shoaib Malik,23,,Younis Khan,33,Australia,Pakistan,193,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+229,37.2,0,DE Bollinger,2010-01-22,1st,Shoaib Malik,23,,Younis Khan,33,Australia,Pakistan,193,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+230,37.3,1,DE Bollinger,2010-01-22,1st,Shoaib Malik,23,,Younis Khan,34,Australia,Pakistan,194,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+231,37.4,1,DE Bollinger,2010-01-22,1st,Younis Khan,34,,Shoaib Malik,24,Australia,Pakistan,195,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+232,37.5,0,DE Bollinger,2010-01-22,1st,Shoaib Malik,24,,Younis Khan,34,Australia,Pakistan,195,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+233,37.6,0,DE Bollinger,2010-01-22,1st,Shoaib Malik,24,,Younis Khan,34,Australia,Pakistan,195,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+234,38.1,1,SR Watson,2010-01-22,1st,Younis Khan,34,,Shoaib Malik,25,Australia,Pakistan,196,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+235,38.2,1,SR Watson,2010-01-22,1st,Shoaib Malik,25,,Younis Khan,35,Australia,Pakistan,197,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+236,38.3,0,SR Watson,2010-01-22,1st,Younis Khan,35,,Shoaib Malik,25,Australia,Pakistan,197,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+237,38.4,1,SR Watson,2010-01-22,1st,Younis Khan,35,,Shoaib Malik,26,Australia,Pakistan,198,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+238,38.5,0,SR Watson,2010-01-22,1st,Shoaib Malik,26,,Younis Khan,35,Australia,Pakistan,198,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+239,38.6,1,SR Watson,2010-01-22,1st,Shoaib Malik,26,,Younis Khan,36,Australia,Pakistan,199,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+240,39.1,2,NM Hauritz,2010-01-22,1st,Shoaib Malik,26,,Younis Khan,38,Australia,Pakistan,201,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+241,39.2,1,NM Hauritz,2010-01-22,1st,Shoaib Malik,26,,Younis Khan,39,Australia,Pakistan,202,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+242,39.3,0,NM Hauritz,2010-01-22,1st,Younis Khan,39,,Shoaib Malik,26,Australia,Pakistan,202,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+243,39.4,1,NM Hauritz,2010-01-22,1st,Younis Khan,39,,Shoaib Malik,27,Australia,Pakistan,203,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+244,39.5,1,NM Hauritz,2010-01-22,1st,Shoaib Malik,27,,Younis Khan,40,Australia,Pakistan,204,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+245,39.6,1,NM Hauritz,2010-01-22,1st,Younis Khan,40,,Shoaib Malik,28,Australia,Pakistan,205,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+246,40.1,0,SR Watson,2010-01-22,1st,Younis Khan,40,Shoaib Malik,Shoaib Malik,28,Australia,Pakistan,205,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+247,40.2,1,SR Watson,2010-01-22,1st,Younis Khan,40,,Shahid Afridi,1,Australia,Pakistan,206,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+248,40.3,0,SR Watson,2010-01-22,1st,Shahid Afridi,1,,Younis Khan,40,Australia,Pakistan,206,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+249,40.4,0,SR Watson,2010-01-22,1st,Shahid Afridi,1,,Younis Khan,40,Australia,Pakistan,206,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+250,40.5,0,SR Watson,2010-01-22,1st,Shahid Afridi,1,,Younis Khan,40,Australia,Pakistan,206,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+251,40.6,2,SR Watson,2010-01-22,1st,Shahid Afridi,1,,Younis Khan,42,Australia,Pakistan,208,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+252,41.1,1,NM Hauritz,2010-01-22,1st,Younis Khan,42,,Shahid Afridi,2,Australia,Pakistan,209,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+253,41.2,1,NM Hauritz,2010-01-22,1st,Shahid Afridi,2,,Younis Khan,43,Australia,Pakistan,210,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+254,41.3,1,NM Hauritz,2010-01-22,1st,Younis Khan,43,,Shahid Afridi,3,Australia,Pakistan,211,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+255,41.4,1,NM Hauritz,2010-01-22,1st,Shahid Afridi,3,,Younis Khan,44,Australia,Pakistan,212,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+256,41.5,6,NM Hauritz,2010-01-22,1st,Younis Khan,44,,Shahid Afridi,9,Australia,Pakistan,218,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+257,41.6,0,NM Hauritz,2010-01-22,1st,Younis Khan,44,,Shahid Afridi,9,Australia,Pakistan,218,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+258,42.1,1,PM Siddle,2010-01-22,1st,Shahid Afridi,9,,Younis Khan,45,Australia,Pakistan,219,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+259,42.2,0,PM Siddle,2010-01-22,1st,Younis Khan,45,,Shahid Afridi,9,Australia,Pakistan,219,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+260,42.3,0,PM Siddle,2010-01-22,1st,Younis Khan,45,,Shahid Afridi,9,Australia,Pakistan,219,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+261,42.4,1,PM Siddle,2010-01-22,1st,Younis Khan,45,,Shahid Afridi,10,Australia,Pakistan,220,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+262,42.5,1,PM Siddle,2010-01-22,1st,Shahid Afridi,10,,Younis Khan,46,Australia,Pakistan,221,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+263,42.6,0,PM Siddle,2010-01-22,1st,Younis Khan,46,,Shahid Afridi,10,Australia,Pakistan,221,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+264,43.1,0,CJ McKay,2010-01-22,1st,Shahid Afridi,10,Younis Khan,Younis Khan,46,Australia,Pakistan,221,Pakistan,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+265,43.2,0,CJ McKay,2010-01-22,1st,Mohammad Amir,0,,Shahid Afridi,10,Australia,Pakistan,222,Pakistan,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+266,43.3,4,CJ McKay,2010-01-22,1st,Mohammad Amir,0,,Shahid Afridi,14,Australia,Pakistan,226,Pakistan,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+267,43.4,1,CJ McKay,2010-01-22,1st,Mohammad Amir,0,,Shahid Afridi,15,Australia,Pakistan,227,Pakistan,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+268,43.5,0,CJ McKay,2010-01-22,1st,Shahid Afridi,15,Mohammad Amir,Mohammad Amir,0,Australia,Pakistan,227,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+269,43.6,4,CJ McKay,2010-01-22,1st,Shahid Afridi,15,,Naved-ul-Hasan,4,Australia,Pakistan,231,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+270,43.7,0,CJ McKay,2010-01-22,1st,Shahid Afridi,15,,Naved-ul-Hasan,4,Australia,Pakistan,231,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+271,44.1,6,PM Siddle,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,21,Australia,Pakistan,237,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+272,44.2,4,PM Siddle,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,25,Australia,Pakistan,241,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+273,44.3,3,PM Siddle,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,28,Australia,Pakistan,244,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+274,44.4,0,PM Siddle,2010-01-22,1st,Shahid Afridi,28,,Naved-ul-Hasan,4,Australia,Pakistan,244,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+275,44.5,0,PM Siddle,2010-01-22,1st,Shahid Afridi,28,,Naved-ul-Hasan,4,Australia,Pakistan,244,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+276,44.6,0,PM Siddle,2010-01-22,1st,Shahid Afridi,28,,Naved-ul-Hasan,4,Australia,Pakistan,244,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+277,45.1,2,CJ McKay,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,30,Australia,Pakistan,246,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+278,45.2,0,CJ McKay,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,30,Australia,Pakistan,246,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+279,45.3,4,CJ McKay,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,34,Australia,Pakistan,250,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+280,45.4,4,CJ McKay,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,38,Australia,Pakistan,254,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+281,45.5,4,CJ McKay,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,42,Australia,Pakistan,258,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+282,45.6,0,CJ McKay,2010-01-22,1st,Naved-ul-Hasan,4,,Shahid Afridi,42,Australia,Pakistan,262,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+283,46.1,1,SR Watson,2010-01-22,1st,Shahid Afridi,42,,Naved-ul-Hasan,5,Australia,Pakistan,263,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+284,46.2,0,SR Watson,2010-01-22,1st,Naved-ul-Hasan,5,,Shahid Afridi,42,Australia,Pakistan,263,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+285,46.3,0,SR Watson,2010-01-22,1st,Naved-ul-Hasan,5,,Shahid Afridi,42,Australia,Pakistan,263,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+286,46.4,0,SR Watson,2010-01-22,1st,Naved-ul-Hasan,5,,Shahid Afridi,42,Australia,Pakistan,263,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+287,46.5,6,SR Watson,2010-01-22,1st,Naved-ul-Hasan,5,,Shahid Afridi,48,Australia,Pakistan,269,Pakistan,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+288,46.6,0,SR Watson,2010-01-22,1st,Naved-ul-Hasan,5,Shahid Afridi,Shahid Afridi,48,Australia,Pakistan,269,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+289,47.1,0,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,5,,Saeed Ajmal,0,Australia,Pakistan,269,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+290,47.2,1,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,5,,Saeed Ajmal,1,Australia,Pakistan,270,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+291,47.3,0,DE Bollinger,2010-01-22,1st,Saeed Ajmal,1,,Naved-ul-Hasan,5,Australia,Pakistan,270,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+292,47.4,1,DE Bollinger,2010-01-22,1st,Saeed Ajmal,1,,Naved-ul-Hasan,6,Australia,Pakistan,271,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+293,47.5,0,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,6,,Saeed Ajmal,1,Australia,Pakistan,271,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+294,47.6,0,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,6,,Saeed Ajmal,1,Australia,Pakistan,271,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+295,48.1,0,SR Watson,2010-01-22,1st,Saeed Ajmal,1,,Naved-ul-Hasan,6,Australia,Pakistan,271,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+296,48.2,1,SR Watson,2010-01-22,1st,Saeed Ajmal,1,,Naved-ul-Hasan,7,Australia,Pakistan,272,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+297,48.3,1,SR Watson,2010-01-22,1st,Naved-ul-Hasan,7,,Saeed Ajmal,2,Australia,Pakistan,273,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+298,48.4,1,SR Watson,2010-01-22,1st,Saeed Ajmal,2,,Naved-ul-Hasan,8,Australia,Pakistan,274,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+299,48.5,0,SR Watson,2010-01-22,1st,Naved-ul-Hasan,8,,Saeed Ajmal,2,Australia,Pakistan,274,Pakistan,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+300,48.6,0,SR Watson,2010-01-22,1st,Naved-ul-Hasan,8,Saeed Ajmal,Saeed Ajmal,2,Australia,Pakistan,274,Pakistan,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+301,49.1,0,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,8,,Mohammad Asif,0,Australia,Pakistan,274,Pakistan,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+302,49.2,0,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,8,,Mohammad Asif,0,Australia,Pakistan,274,Pakistan,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+303,49.3,0,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,8,,Mohammad Asif,0,Australia,Pakistan,274,Pakistan,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+304,49.4,0,DE Bollinger,2010-01-22,1st,Naved-ul-Hasan,8,Mohammad Asif,Mohammad Asif,0,Australia,Pakistan,274,Pakistan,"Brisbane Cricket Ground, Woolloongabba",10,Australia
+305,0.1,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,0,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+306,0.2,2,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,2,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+307,0.3,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,2,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+308,0.4,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,2,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+309,0.5,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,2,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+310,0.6,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,2,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+311,1.1,0,Mohammad Amir,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,2,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+312,1.2,0,Mohammad Amir,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,2,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+313,1.3,1,Mohammad Amir,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,3,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+314,1.4,1,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,4,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+315,1.5,0,Mohammad Amir,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,4,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+316,1.6,0,Mohammad Amir,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,4,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+317,2.1,1,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,5,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+318,2.2,4,Mohammad Asif,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,9,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+319,2.3,0,Mohammad Asif,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,9,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+320,2.4,0,Mohammad Asif,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,9,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+321,2.5,1,Mohammad Asif,2010-01-22,2nd,SR Watson,0,,SE Marsh,0,Australia,Pakistan,10,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+322,2.6,1,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,11,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+323,3.1,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,11,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+324,3.2,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,16,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+325,3.3,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,16,Pakistan,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+326,3.4,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,SR Watson,0,Australia,Pakistan,16,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+327,3.5,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,16,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+328,3.6,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,16,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+329,3.7,1,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,17,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+330,4.1,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,18,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+331,4.2,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,18,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+332,4.3,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,18,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+333,4.4,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,18,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+334,4.5,2,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,20,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+335,4.6,2,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,22,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+336,4.7,0,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,22,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+337,5.1,0,Mohammad Amir,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,22,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+338,5.2,0,Mohammad Amir,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,22,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+339,5.3,0,Mohammad Amir,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,22,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+340,5.4,0,Mohammad Amir,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,22,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+341,5.5,1,Mohammad Amir,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,23,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+342,5.6,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,23,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+343,6.1,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,23,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+344,6.2,1,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,24,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+345,6.3,1,Mohammad Asif,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,25,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+346,6.4,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,25,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+347,6.5,2,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+348,6.6,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+349,7.1,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,27,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+350,7.2,1,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,28,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+351,7.3,1,Mohammad Amir,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,29,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+352,7.4,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,29,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+353,7.5,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,29,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+354,7.6,0,Mohammad Amir,2010-01-22,2nd,SE Marsh,0,,RT Ponting,0,Australia,Pakistan,29,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+355,8.1,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,33,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+356,8.2,4,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+357,8.3,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+358,8.4,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,SE Marsh,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+359,8.5,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+360,8.6,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+361,9.1,0,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+362,9.2,0,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+363,9.3,0,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,37,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+364,9.4,0,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,41,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+365,9.5,3,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+366,9.6,0,Mohammad Amir,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+367,10.1,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+368,10.2,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+369,10.3,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+370,10.4,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+371,10.5,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+372,10.6,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+373,11.1,0,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,44,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+374,11.2,1,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,45,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+375,11.3,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,45,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+376,11.4,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,46,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+377,11.5,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,46,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+378,11.6,1,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,47,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+379,11.7,1,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,48,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+380,12.1,0,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,48,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+381,12.2,1,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,49,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+382,12.3,1,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,50,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+383,12.4,1,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,51,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+384,12.5,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,51,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+385,12.6,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,51,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+386,13.1,0,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,51,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+387,13.2,0,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,51,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+388,13.3,1,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,52,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+389,13.4,1,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,53,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+390,13.5,4,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,57,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+391,13.6,0,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,57,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+392,14.1,4,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,61,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+393,14.2,0,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,61,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+394,14.3,1,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,62,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+395,14.4,1,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,63,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+396,14.5,1,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,64,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+397,14.6,3,Mohammad Asif,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,67,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+398,15.1,1,Shahid Afridi,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,68,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+399,15.2,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,69,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+400,15.3,1,Shahid Afridi,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,70,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+401,15.4,2,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,72,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+402,15.5,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,73,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+403,15.6,1,Shahid Afridi,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,74,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+404,16.1,0,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,74,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+405,16.2,1,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,75,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+406,16.3,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,75,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+407,16.4,1,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,76,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+408,16.5,1,Naved-ul-Hasan,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,77,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+409,16.6,2,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,79,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+410,17.1,1,Shahid Afridi,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,80,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+411,17.2,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,81,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+412,17.3,2,Shahid Afridi,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,83,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+413,17.4,1,Shahid Afridi,2010-01-22,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Pakistan,84,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+414,17.5,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,84,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+415,17.6,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Pakistan,84,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+416,18.1,1,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+417,18.2,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+418,18.3,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+419,18.4,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+420,18.5,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+421,18.6,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+422,19.1,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+423,19.2,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,85,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+424,19.3,2,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,87,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+425,19.4,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,88,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+426,19.5,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,89,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+427,19.6,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,90,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+428,20.1,1,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+429,20.2,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+430,20.3,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+431,20.4,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,91,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+432,20.5,4,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,95,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+433,20.6,4,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,99,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+434,21.1,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,99,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+435,21.2,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,100,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+436,21.3,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,100,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+437,21.4,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,101,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+438,21.5,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,102,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+439,21.6,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,102,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+440,22.1,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,103,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+441,22.2,4,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,107,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+442,22.3,0,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,107,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+443,22.4,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,108,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+444,22.5,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,109,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+445,22.6,0,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,109,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+446,23.1,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,110,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+447,23.2,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,111,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+448,23.3,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,112,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+449,23.4,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,113,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+450,23.5,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,113,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+451,23.6,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,113,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+452,24.1,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,114,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+453,24.2,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,115,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+454,24.3,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,116,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+455,24.4,0,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,116,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+456,24.5,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,117,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+457,24.6,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,118,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+458,25.1,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,118,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+459,25.2,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,119,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+460,25.3,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,119,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+461,25.4,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,120,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+462,25.5,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,121,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+463,25.6,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,122,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+464,26.1,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,123,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+465,26.2,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,124,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+466,26.3,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,125,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+467,26.4,2,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,127,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+468,26.5,6,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,133,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+469,26.6,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,134,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+470,27.1,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,134,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+471,27.2,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,135,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+472,27.3,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,135,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+473,27.4,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,136,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+474,27.5,3,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,139,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+475,27.6,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,139,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+476,27.7,4,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,143,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+477,28.1,1,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,144,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+478,28.2,1,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,145,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+479,28.3,0,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,145,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+480,28.4,2,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,147,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+481,28.5,1,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,148,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+482,28.6,1,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,149,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+483,29.1,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,150,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+484,29.2,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,151,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+485,29.3,0,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,151,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+486,29.4,0,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,151,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+487,29.5,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,152,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+488,29.6,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,153,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+489,30.1,1,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,154,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+490,30.2,1,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,155,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+491,30.3,0,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,156,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+492,30.4,1,Mohammad Asif,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,157,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+493,30.5,0,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,157,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+494,30.6,0,Mohammad Asif,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,157,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+495,31.1,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,158,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+496,31.2,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,159,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+497,31.3,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,160,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+498,31.4,0,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,160,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+499,31.5,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,161,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+500,31.6,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,162,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+501,32.1,0,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,162,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+502,32.2,1,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,163,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+503,32.3,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,163,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+504,32.4,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,163,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+505,32.5,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,163,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+506,32.6,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,163,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+507,33.1,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,164,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+508,33.2,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,165,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+509,33.3,0,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,165,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+510,33.4,1,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,166,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+511,33.5,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,167,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+512,33.6,0,Saeed Ajmal,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,168,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+513,34.1,1,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,169,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+514,34.2,2,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,171,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+515,34.3,1,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,172,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+516,34.4,1,Mohammad Amir,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,173,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+517,34.5,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,173,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+518,34.6,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,173,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+519,35.1,0,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,173,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+520,35.2,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,174,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+521,35.3,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,174,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+522,35.4,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MJ Clarke,0,Australia,Pakistan,175,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+523,35.5,2,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,177,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+524,35.6,1,Shahid Afridi,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,178,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+525,36.1,4,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,182,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+526,36.2,4,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,186,Pakistan,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+527,36.3,0,Naved-ul-Hasan,2010-01-22,2nd,MJ Clarke,0,,CL White,0,Australia,Pakistan,186,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+528,36.4,0,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,186,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+529,36.5,0,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,186,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+530,36.6,0,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,186,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+531,37.1,1,Shahid Afridi,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,187,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+532,37.2,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,187,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+533,37.3,0,Shahid Afridi,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,187,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+534,37.4,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,188,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+535,37.5,0,Shahid Afridi,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,188,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+536,37.6,1,Shahid Afridi,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,189,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+537,38.1,1,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,190,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+538,38.2,2,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,192,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+539,38.3,1,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,193,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+540,38.4,1,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,194,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+541,38.5,1,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,195,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+542,38.6,1,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,196,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+543,39.1,2,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,198,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+544,39.2,1,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,199,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+545,39.3,0,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,199,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+546,39.4,0,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,199,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+547,39.5,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,200,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+548,39.6,0,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,200,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+549,40.1,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,201,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+550,40.2,6,Shahid Afridi,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,207,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+551,40.3,6,Shahid Afridi,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,213,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+552,40.4,6,Shahid Afridi,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,219,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+553,40.5,1,Shahid Afridi,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,220,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+554,40.6,1,Shahid Afridi,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,221,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+555,41.1,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,222,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+556,41.2,0,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,222,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+557,41.3,1,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,223,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+558,41.4,2,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,225,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+559,41.5,4,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,229,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+560,41.6,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,230,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+561,42.1,2,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,232,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+562,42.2,1,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,233,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+563,42.3,0,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,233,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+564,42.4,1,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,234,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+565,42.5,0,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,234,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+566,42.6,0,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,234,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+567,43.1,1,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,235,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+568,43.2,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,236,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+569,43.3,1,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,237,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+570,43.4,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,238,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+571,43.5,1,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,239,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+572,43.6,1,Saeed Ajmal,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,240,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+573,44.1,1,Naved-ul-Hasan,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,241,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+574,44.2,0,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,241,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+575,44.3,0,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,241,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+576,44.4,0,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,241,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+577,44.5,4,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,245,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+578,44.6,1,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,246,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+579,45.1,1,Mohammad Amir,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,247,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+580,45.2,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,247,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+581,45.3,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,248,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+582,45.4,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,252,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+583,45.5,2,Mohammad Amir,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,254,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+584,45.6,2,Mohammad Amir,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,256,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+585,45.7,0,Mohammad Amir,2010-01-22,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,256,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+586,46.1,4,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,260,Pakistan,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+587,46.2,0,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,260,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+588,46.3,1,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,BJ Haddin,0,Australia,Pakistan,261,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+589,46.4,0,Naved-ul-Hasan,2010-01-22,2nd,BJ Haddin,0,,MEK Hussey,0,Australia,Pakistan,261,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+590,46.5,3,Naved-ul-Hasan,2010-01-22,2nd,BJ Haddin,0,,MEK Hussey,0,Australia,Pakistan,264,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+591,46.6,3,Naved-ul-Hasan,2010-01-22,2nd,MEK Hussey,0,,BJ Haddin,0,Australia,Pakistan,267,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+592,47.1,1,Mohammad Amir,2010-01-22,2nd,MEK Hussey,0,,BJ Haddin,0,Australia,Pakistan,268,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+593,47.2,0,Mohammad Amir,2010-01-22,2nd,BJ Haddin,0,,MEK Hussey,0,Australia,Pakistan,268,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+594,47.3,1,Mohammad Amir,2010-01-22,2nd,BJ Haddin,0,,MEK Hussey,0,Australia,Pakistan,269,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+595,47.4,0,Mohammad Amir,2010-01-22,2nd,MEK Hussey,0,,BJ Haddin,0,Australia,Pakistan,269,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+596,47.5,0,Mohammad Amir,2010-01-22,2nd,MEK Hussey,0,,BJ Haddin,0,Australia,Pakistan,269,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+597,47.6,1,Mohammad Amir,2010-01-22,2nd,MEK Hussey,0,,BJ Haddin,0,Australia,Pakistan,270,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+598,48.1,1,Saeed Ajmal,2010-01-22,2nd,MEK Hussey,0,,BJ Haddin,0,Australia,Pakistan,271,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+599,48.2,0,Saeed Ajmal,2010-01-22,2nd,BJ Haddin,0,,MEK Hussey,0,Australia,Pakistan,271,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+600,48.3,4,Saeed Ajmal,2010-01-22,2nd,BJ Haddin,0,,MEK Hussey,0,Australia,Pakistan,275,Pakistan,"Brisbane Cricket Ground, Woolloongabba",5,Australia

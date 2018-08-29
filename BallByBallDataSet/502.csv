@@ -1,0 +1,193 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,KAJ Roach,2011-03-04,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,West Indies,0,Bangladesh,Shere Bangla National Stadium,0,West Indies
+1,0.2,0,KAJ Roach,2011-03-04,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,West Indies,0,Bangladesh,Shere Bangla National Stadium,0,West Indies
+2,0.3,0,KAJ Roach,2011-03-04,1st,Imrul Kayes,0,Tamim Iqbal,Tamim Iqbal,0,Bangladesh,West Indies,0,Bangladesh,Shere Bangla National Stadium,1,West Indies
+3,0.4,0,KAJ Roach,2011-03-04,1st,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,West Indies,0,Bangladesh,Shere Bangla National Stadium,1,West Indies
+4,0.5,4,KAJ Roach,2011-03-04,1st,Imrul Kayes,0,,Junaid Siddique,4,Bangladesh,West Indies,4,Bangladesh,Shere Bangla National Stadium,1,West Indies
+5,0.6,0,KAJ Roach,2011-03-04,1st,Imrul Kayes,0,,Junaid Siddique,4,Bangladesh,West Indies,4,Bangladesh,Shere Bangla National Stadium,1,West Indies
+6,1.1,1,SJ Benn,2011-03-04,1st,Junaid Siddique,4,,Imrul Kayes,1,Bangladesh,West Indies,5,Bangladesh,Shere Bangla National Stadium,1,West Indies
+7,1.2,0,SJ Benn,2011-03-04,1st,Imrul Kayes,1,,Junaid Siddique,4,Bangladesh,West Indies,5,Bangladesh,Shere Bangla National Stadium,1,West Indies
+8,1.3,0,SJ Benn,2011-03-04,1st,Imrul Kayes,1,,Junaid Siddique,4,Bangladesh,West Indies,5,Bangladesh,Shere Bangla National Stadium,1,West Indies
+9,1.4,4,SJ Benn,2011-03-04,1st,Imrul Kayes,1,,Junaid Siddique,8,Bangladesh,West Indies,9,Bangladesh,Shere Bangla National Stadium,1,West Indies
+10,1.5,1,SJ Benn,2011-03-04,1st,Imrul Kayes,1,,Junaid Siddique,9,Bangladesh,West Indies,10,Bangladesh,Shere Bangla National Stadium,1,West Indies
+11,1.6,3,SJ Benn,2011-03-04,1st,Junaid Siddique,9,,Imrul Kayes,4,Bangladesh,West Indies,13,Bangladesh,Shere Bangla National Stadium,1,West Indies
+12,2.1,1,KAJ Roach,2011-03-04,1st,Junaid Siddique,9,,Imrul Kayes,5,Bangladesh,West Indies,14,Bangladesh,Shere Bangla National Stadium,1,West Indies
+13,2.2,0,KAJ Roach,2011-03-04,1st,Imrul Kayes,5,,Junaid Siddique,9,Bangladesh,West Indies,14,Bangladesh,Shere Bangla National Stadium,1,West Indies
+14,2.3,1,KAJ Roach,2011-03-04,1st,Imrul Kayes,5,,Junaid Siddique,10,Bangladesh,West Indies,15,Bangladesh,Shere Bangla National Stadium,1,West Indies
+15,2.4,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,10,,Imrul Kayes,5,Bangladesh,West Indies,15,Bangladesh,Shere Bangla National Stadium,1,West Indies
+16,2.5,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,10,,Imrul Kayes,5,Bangladesh,West Indies,15,Bangladesh,Shere Bangla National Stadium,1,West Indies
+17,2.6,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,10,,Imrul Kayes,5,Bangladesh,West Indies,15,Bangladesh,Shere Bangla National Stadium,1,West Indies
+18,3.1,1,DJG Sammy,2011-03-04,1st,Imrul Kayes,5,,Junaid Siddique,11,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,1,West Indies
+19,3.2,0,DJG Sammy,2011-03-04,1st,Junaid Siddique,11,,Imrul Kayes,5,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,1,West Indies
+20,3.3,0,DJG Sammy,2011-03-04,1st,Junaid Siddique,11,Imrul Kayes,Imrul Kayes,5,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,2,West Indies
+21,3.4,0,DJG Sammy,2011-03-04,1st,Junaid Siddique,11,,Mushfiqur Rahim,0,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,2,West Indies
+22,3.5,0,DJG Sammy,2011-03-04,1st,Junaid Siddique,11,,Mushfiqur Rahim,0,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,2,West Indies
+23,3.6,0,DJG Sammy,2011-03-04,1st,Junaid Siddique,11,,Mushfiqur Rahim,0,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,2,West Indies
+24,4.1,2,KAJ Roach,2011-03-04,1st,Mushfiqur Rahim,0,,Junaid Siddique,13,Bangladesh,West Indies,18,Bangladesh,Shere Bangla National Stadium,2,West Indies
+25,4.2,0,KAJ Roach,2011-03-04,1st,Mushfiqur Rahim,0,,Junaid Siddique,13,Bangladesh,West Indies,18,Bangladesh,Shere Bangla National Stadium,2,West Indies
+26,4.3,4,KAJ Roach,2011-03-04,1st,Mushfiqur Rahim,0,,Junaid Siddique,17,Bangladesh,West Indies,22,Bangladesh,Shere Bangla National Stadium,2,West Indies
+27,4.4,0,KAJ Roach,2011-03-04,1st,Mushfiqur Rahim,0,,Junaid Siddique,17,Bangladesh,West Indies,22,Bangladesh,Shere Bangla National Stadium,2,West Indies
+28,4.5,2,KAJ Roach,2011-03-04,1st,Mushfiqur Rahim,0,,Junaid Siddique,19,Bangladesh,West Indies,24,Bangladesh,Shere Bangla National Stadium,2,West Indies
+29,4.6,0,KAJ Roach,2011-03-04,1st,Mushfiqur Rahim,0,,Junaid Siddique,19,Bangladesh,West Indies,25,Bangladesh,Shere Bangla National Stadium,2,West Indies
+30,4.7,0,KAJ Roach,2011-03-04,1st,Mushfiqur Rahim,0,,Junaid Siddique,19,Bangladesh,West Indies,25,Bangladesh,Shere Bangla National Stadium,2,West Indies
+31,5.1,0,DJG Sammy,2011-03-04,1st,Junaid Siddique,19,Mushfiqur Rahim,Mushfiqur Rahim,0,Bangladesh,West Indies,25,Bangladesh,Shere Bangla National Stadium,3,West Indies
+32,5.2,1,DJG Sammy,2011-03-04,1st,Junaid Siddique,19,,Shakib Al Hasan,1,Bangladesh,West Indies,26,Bangladesh,Shere Bangla National Stadium,3,West Indies
+33,5.3,4,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,1,,Junaid Siddique,23,Bangladesh,West Indies,30,Bangladesh,Shere Bangla National Stadium,3,West Indies
+34,5.4,0,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,1,,Junaid Siddique,23,Bangladesh,West Indies,30,Bangladesh,Shere Bangla National Stadium,3,West Indies
+35,5.5,0,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,1,,Junaid Siddique,23,Bangladesh,West Indies,30,Bangladesh,Shere Bangla National Stadium,3,West Indies
+36,5.6,0,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,1,,Junaid Siddique,23,Bangladesh,West Indies,30,Bangladesh,Shere Bangla National Stadium,3,West Indies
+37,6.1,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,23,,Shakib Al Hasan,1,Bangladesh,West Indies,30,Bangladesh,Shere Bangla National Stadium,3,West Indies
+38,6.2,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,23,,Shakib Al Hasan,1,Bangladesh,West Indies,30,Bangladesh,Shere Bangla National Stadium,3,West Indies
+39,6.3,2,KAJ Roach,2011-03-04,1st,Junaid Siddique,23,,Shakib Al Hasan,3,Bangladesh,West Indies,32,Bangladesh,Shere Bangla National Stadium,3,West Indies
+40,6.4,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,23,,Shakib Al Hasan,3,Bangladesh,West Indies,32,Bangladesh,Shere Bangla National Stadium,3,West Indies
+41,6.5,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,23,,Shakib Al Hasan,3,Bangladesh,West Indies,32,Bangladesh,Shere Bangla National Stadium,3,West Indies
+42,6.6,0,KAJ Roach,2011-03-04,1st,Junaid Siddique,23,,Shakib Al Hasan,3,Bangladesh,West Indies,32,Bangladesh,Shere Bangla National Stadium,3,West Indies
+43,7.1,0,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,3,,Junaid Siddique,23,Bangladesh,West Indies,32,Bangladesh,Shere Bangla National Stadium,3,West Indies
+44,7.2,0,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,3,,Junaid Siddique,23,Bangladesh,West Indies,32,Bangladesh,Shere Bangla National Stadium,3,West Indies
+45,7.3,1,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,3,,Junaid Siddique,24,Bangladesh,West Indies,33,Bangladesh,Shere Bangla National Stadium,3,West Indies
+46,7.4,0,DJG Sammy,2011-03-04,1st,Junaid Siddique,24,,Shakib Al Hasan,3,Bangladesh,West Indies,33,Bangladesh,Shere Bangla National Stadium,3,West Indies
+47,7.5,1,DJG Sammy,2011-03-04,1st,Junaid Siddique,24,,Shakib Al Hasan,4,Bangladesh,West Indies,34,Bangladesh,Shere Bangla National Stadium,3,West Indies
+48,7.6,1,DJG Sammy,2011-03-04,1st,Shakib Al Hasan,4,,Junaid Siddique,25,Bangladesh,West Indies,35,Bangladesh,Shere Bangla National Stadium,3,West Indies
+49,8.1,0,KAJ Roach,2011-03-04,1st,Shakib Al Hasan,4,,Junaid Siddique,25,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,3,West Indies
+50,8.2,0,KAJ Roach,2011-03-04,1st,Shakib Al Hasan,4,,Junaid Siddique,25,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,3,West Indies
+51,8.3,0,KAJ Roach,2011-03-04,1st,Shakib Al Hasan,4,Junaid Siddique,Junaid Siddique,25,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,4,West Indies
+52,8.4,0,KAJ Roach,2011-03-04,1st,Shakib Al Hasan,4,,Raqibul Hasan,0,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,4,West Indies
+53,8.5,0,KAJ Roach,2011-03-04,1st,Shakib Al Hasan,4,,Raqibul Hasan,0,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,4,West Indies
+54,8.6,0,KAJ Roach,2011-03-04,1st,Shakib Al Hasan,4,,Raqibul Hasan,0,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,4,West Indies
+55,8.7,0,KAJ Roach,2011-03-04,1st,Shakib Al Hasan,4,,Raqibul Hasan,0,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,4,West Indies
+56,9.1,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,0,,Shakib Al Hasan,4,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,4,West Indies
+57,9.2,4,DJG Sammy,2011-03-04,1st,Raqibul Hasan,0,,Shakib Al Hasan,8,Bangladesh,West Indies,40,Bangladesh,Shere Bangla National Stadium,4,West Indies
+58,9.3,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,0,,Shakib Al Hasan,8,Bangladesh,West Indies,40,Bangladesh,Shere Bangla National Stadium,4,West Indies
+59,9.4,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,0,,Shakib Al Hasan,8,Bangladesh,West Indies,40,Bangladesh,Shere Bangla National Stadium,4,West Indies
+60,9.5,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,0,,Shakib Al Hasan,8,Bangladesh,West Indies,40,Bangladesh,Shere Bangla National Stadium,4,West Indies
+61,9.6,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,0,,Shakib Al Hasan,8,Bangladesh,West Indies,40,Bangladesh,Shere Bangla National Stadium,4,West Indies
+62,10.1,1,SJ Benn,2011-03-04,1st,Shakib Al Hasan,8,,Raqibul Hasan,1,Bangladesh,West Indies,41,Bangladesh,Shere Bangla National Stadium,4,West Indies
+63,10.2,0,SJ Benn,2011-03-04,1st,Raqibul Hasan,1,Shakib Al Hasan,Shakib Al Hasan,8,Bangladesh,West Indies,41,Bangladesh,Shere Bangla National Stadium,5,West Indies
+64,10.3,0,SJ Benn,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,0,Bangladesh,West Indies,41,Bangladesh,Shere Bangla National Stadium,5,West Indies
+65,10.4,4,SJ Benn,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,4,Bangladesh,West Indies,45,Bangladesh,Shere Bangla National Stadium,5,West Indies
+66,10.5,1,SJ Benn,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,5,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,5,West Indies
+67,10.6,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,5,,Raqibul Hasan,1,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,5,West Indies
+68,11.1,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,5,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,5,West Indies
+69,11.2,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,5,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,5,West Indies
+70,11.3,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,5,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,5,West Indies
+71,11.4,0,DJG Sammy,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,5,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,5,West Indies
+72,11.5,1,DJG Sammy,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,6,Bangladesh,West Indies,47,Bangladesh,Shere Bangla National Stadium,5,West Indies
+73,11.6,0,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,6,,Raqibul Hasan,1,Bangladesh,West Indies,47,Bangladesh,Shere Bangla National Stadium,5,West Indies
+74,12.1,0,SJ Benn,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,6,Bangladesh,West Indies,47,Bangladesh,Shere Bangla National Stadium,5,West Indies
+75,12.2,1,SJ Benn,2011-03-04,1st,Raqibul Hasan,1,,Mohammad Ashraful,7,Bangladesh,West Indies,48,Bangladesh,Shere Bangla National Stadium,5,West Indies
+76,12.3,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,1,Bangladesh,West Indies,48,Bangladesh,Shere Bangla National Stadium,5,West Indies
+77,12.4,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,1,Bangladesh,West Indies,48,Bangladesh,Shere Bangla National Stadium,5,West Indies
+78,12.5,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,1,Bangladesh,West Indies,48,Bangladesh,Shere Bangla National Stadium,5,West Indies
+79,12.6,1,SJ Benn,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,2,Bangladesh,West Indies,49,Bangladesh,Shere Bangla National Stadium,5,West Indies
+80,13.1,0,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,2,Bangladesh,West Indies,49,Bangladesh,Shere Bangla National Stadium,5,West Indies
+81,13.2,0,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,2,Bangladesh,West Indies,49,Bangladesh,Shere Bangla National Stadium,5,West Indies
+82,13.3,0,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,2,Bangladesh,West Indies,49,Bangladesh,Shere Bangla National Stadium,5,West Indies
+83,13.4,2,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,4,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,5,West Indies
+84,13.5,0,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,,Raqibul Hasan,4,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,5,West Indies
+85,13.6,0,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,Raqibul Hasan,Raqibul Hasan,4,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+86,14.1,0,SJ Benn,2011-03-04,1st,Naeem Islam,0,,Mohammad Ashraful,7,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+87,14.2,0,SJ Benn,2011-03-04,1st,Naeem Islam,0,,Mohammad Ashraful,7,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+88,14.3,0,SJ Benn,2011-03-04,1st,Naeem Islam,0,,Mohammad Ashraful,7,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+89,14.4,0,SJ Benn,2011-03-04,1st,Naeem Islam,0,,Mohammad Ashraful,7,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+90,14.5,0,SJ Benn,2011-03-04,1st,Naeem Islam,0,,Mohammad Ashraful,7,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+91,14.6,0,SJ Benn,2011-03-04,1st,Naeem Islam,0,,Mohammad Ashraful,7,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+92,15.1,0,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,,Naeem Islam,0,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,6,West Indies
+93,15.2,1,DJG Sammy,2011-03-04,1st,Mohammad Ashraful,7,,Naeem Islam,1,Bangladesh,West Indies,52,Bangladesh,Shere Bangla National Stadium,6,West Indies
+94,15.3,0,DJG Sammy,2011-03-04,1st,Naeem Islam,1,,Mohammad Ashraful,7,Bangladesh,West Indies,52,Bangladesh,Shere Bangla National Stadium,6,West Indies
+95,15.4,4,DJG Sammy,2011-03-04,1st,Naeem Islam,1,,Mohammad Ashraful,11,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,6,West Indies
+96,15.5,0,DJG Sammy,2011-03-04,1st,Naeem Islam,1,,Mohammad Ashraful,11,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,6,West Indies
+97,15.6,0,DJG Sammy,2011-03-04,1st,Naeem Islam,1,,Mohammad Ashraful,11,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,6,West Indies
+98,16.1,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,11,,Naeem Islam,1,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,6,West Indies
+99,16.2,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,11,Naeem Islam,Naeem Islam,1,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,7,West Indies
+100,16.3,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,11,,Shafiul Islam,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,7,West Indies
+101,16.4,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,11,,Shafiul Islam,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,7,West Indies
+102,16.5,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,11,,Shafiul Islam,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,7,West Indies
+103,16.6,0,SJ Benn,2011-03-04,1st,Mohammad Ashraful,11,,Shafiul Islam,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,7,West Indies
+104,17.1,0,KAJ Roach,2011-03-04,1st,Shafiul Islam,0,Mohammad Ashraful,Mohammad Ashraful,11,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,8,West Indies
+105,17.2,0,KAJ Roach,2011-03-04,1st,Shafiul Islam,0,,Abdur Razzak,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,8,West Indies
+106,17.3,0,KAJ Roach,2011-03-04,1st,Shafiul Islam,0,,Abdur Razzak,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,8,West Indies
+107,17.4,0,KAJ Roach,2011-03-04,1st,Shafiul Islam,0,,Abdur Razzak,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,8,West Indies
+108,17.5,1,KAJ Roach,2011-03-04,1st,Shafiul Islam,0,,Abdur Razzak,1,Bangladesh,West Indies,57,Bangladesh,Shere Bangla National Stadium,8,West Indies
+109,17.6,0,KAJ Roach,2011-03-04,1st,Abdur Razzak,1,,Shafiul Islam,0,Bangladesh,West Indies,57,Bangladesh,Shere Bangla National Stadium,8,West Indies
+110,18.1,0,SJ Benn,2011-03-04,1st,Shafiul Islam,0,,Abdur Razzak,1,Bangladesh,West Indies,57,Bangladesh,Shere Bangla National Stadium,8,West Indies
+111,18.2,1,SJ Benn,2011-03-04,1st,Shafiul Islam,0,,Abdur Razzak,2,Bangladesh,West Indies,58,Bangladesh,Shere Bangla National Stadium,8,West Indies
+112,18.3,0,SJ Benn,2011-03-04,1st,Abdur Razzak,2,Shafiul Islam,Shafiul Islam,0,Bangladesh,West Indies,58,Bangladesh,Shere Bangla National Stadium,9,West Indies
+113,18.4,0,SJ Benn,2011-03-04,1st,Abdur Razzak,2,,Rubel Hossain,0,Bangladesh,West Indies,58,Bangladesh,Shere Bangla National Stadium,9,West Indies
+114,18.5,0,SJ Benn,2011-03-04,1st,Abdur Razzak,2,Rubel Hossain,Rubel Hossain,0,Bangladesh,West Indies,58,Bangladesh,Shere Bangla National Stadium,10,West Indies
+115,0.1,0,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,0,Bangladesh,Shere Bangla National Stadium,0,West Indies
+116,0.2,1,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,1,Bangladesh,Shere Bangla National Stadium,0,West Indies
+117,0.3,1,Shafiul Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+118,0.4,0,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+119,0.5,0,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+120,0.6,0,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+121,1.1,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+122,1.2,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+123,1.3,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+124,1.4,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,2,Bangladesh,Shere Bangla National Stadium,0,West Indies
+125,1.5,1,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,3,Bangladesh,Shere Bangla National Stadium,0,West Indies
+126,1.6,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,3,Bangladesh,Shere Bangla National Stadium,0,West Indies
+127,2.1,4,Shafiul Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,7,Bangladesh,Shere Bangla National Stadium,0,West Indies
+128,2.2,1,Shafiul Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,8,Bangladesh,Shere Bangla National Stadium,0,West Indies
+129,2.3,0,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,8,Bangladesh,Shere Bangla National Stadium,0,West Indies
+130,2.4,0,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,8,Bangladesh,Shere Bangla National Stadium,0,West Indies
+131,2.5,4,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,12,Bangladesh,Shere Bangla National Stadium,0,West Indies
+132,2.6,0,Shafiul Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,12,Bangladesh,Shere Bangla National Stadium,0,West Indies
+133,3.1,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,14,Bangladesh,Shere Bangla National Stadium,0,West Indies
+134,3.2,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,14,Bangladesh,Shere Bangla National Stadium,0,West Indies
+135,3.3,2,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,0,West Indies
+136,3.4,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,0,West Indies
+137,3.5,0,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,16,Bangladesh,Shere Bangla National Stadium,0,West Indies
+138,3.6,1,Naeem Islam,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,17,Bangladesh,Shere Bangla National Stadium,0,West Indies
+139,4.1,0,Rubel Hossain,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,17,Bangladesh,Shere Bangla National Stadium,0,West Indies
+140,4.2,1,Rubel Hossain,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,18,Bangladesh,Shere Bangla National Stadium,0,West Indies
+141,4.3,1,Rubel Hossain,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,19,Bangladesh,Shere Bangla National Stadium,0,West Indies
+142,4.4,2,Rubel Hossain,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,21,Bangladesh,Shere Bangla National Stadium,0,West Indies
+143,4.5,4,Rubel Hossain,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,25,Bangladesh,Shere Bangla National Stadium,0,West Indies
+144,4.6,4,Rubel Hossain,2011-03-04,2nd,DS Smith,0,,CH Gayle,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,0,West Indies
+145,5.1,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DS Smith,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+146,5.2,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+147,5.3,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+148,5.4,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+149,5.5,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+150,5.6,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+151,6.1,0,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+152,6.2,0,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+153,6.3,0,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,29,Bangladesh,Shere Bangla National Stadium,1,West Indies
+154,6.4,0,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,32,Bangladesh,Shere Bangla National Stadium,1,West Indies
+155,6.5,4,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,36,Bangladesh,Shere Bangla National Stadium,1,West Indies
+156,6.6,0,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,37,Bangladesh,Shere Bangla National Stadium,1,West Indies
+157,6.7,0,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,37,Bangladesh,Shere Bangla National Stadium,1,West Indies
+158,6.8,0,Abdur Razzak,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,37,Bangladesh,Shere Bangla National Stadium,1,West Indies
+159,7.1,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,37,Bangladesh,Shere Bangla National Stadium,1,West Indies
+160,7.2,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,37,Bangladesh,Shere Bangla National Stadium,1,West Indies
+161,7.3,1,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,38,Bangladesh,Shere Bangla National Stadium,1,West Indies
+162,7.4,0,Naeem Islam,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,38,Bangladesh,Shere Bangla National Stadium,1,West Indies
+163,7.5,0,Naeem Islam,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,38,Bangladesh,Shere Bangla National Stadium,1,West Indies
+164,7.6,4,Naeem Islam,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,42,Bangladesh,Shere Bangla National Stadium,1,West Indies
+165,8.1,4,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,1,West Indies
+166,8.2,0,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,1,West Indies
+167,8.3,0,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,1,West Indies
+168,8.4,0,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,1,West Indies
+169,8.5,0,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,46,Bangladesh,Shere Bangla National Stadium,1,West Indies
+170,8.6,1,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,47,Bangladesh,Shere Bangla National Stadium,1,West Indies
+171,9.1,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,47,Bangladesh,Shere Bangla National Stadium,1,West Indies
+172,9.2,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,47,Bangladesh,Shere Bangla National Stadium,1,West Indies
+173,9.3,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,47,Bangladesh,Shere Bangla National Stadium,1,West Indies
+174,9.4,1,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,48,Bangladesh,Shere Bangla National Stadium,1,West Indies
+175,9.5,1,Naeem Islam,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,49,Bangladesh,Shere Bangla National Stadium,1,West Indies
+176,9.6,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,49,Bangladesh,Shere Bangla National Stadium,1,West Indies
+177,10.1,1,Mohammad Ashraful,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,50,Bangladesh,Shere Bangla National Stadium,1,West Indies
+178,10.2,0,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,50,Bangladesh,Shere Bangla National Stadium,1,West Indies
+179,10.3,0,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,50,Bangladesh,Shere Bangla National Stadium,1,West Indies
+180,10.4,1,Mohammad Ashraful,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,51,Bangladesh,Shere Bangla National Stadium,1,West Indies
+181,10.5,4,Mohammad Ashraful,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,55,Bangladesh,Shere Bangla National Stadium,1,West Indies
+182,10.6,0,Mohammad Ashraful,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,55,Bangladesh,Shere Bangla National Stadium,1,West Indies
+183,11.1,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,55,Bangladesh,Shere Bangla National Stadium,1,West Indies
+184,11.2,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,55,Bangladesh,Shere Bangla National Stadium,1,West Indies
+185,11.3,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,1,West Indies
+186,11.4,0,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,56,Bangladesh,Shere Bangla National Stadium,1,West Indies
+187,11.5,1,Naeem Islam,2011-03-04,2nd,CH Gayle,0,,DM Bravo,0,Bangladesh,West Indies,57,Bangladesh,Shere Bangla National Stadium,1,West Indies
+188,11.6,0,Naeem Islam,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,57,Bangladesh,Shere Bangla National Stadium,1,West Indies
+189,11.7,1,Naeem Islam,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,58,Bangladesh,Shere Bangla National Stadium,1,West Indies
+190,12.1,0,Shakib Al Hasan,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,58,Bangladesh,Shere Bangla National Stadium,1,West Indies
+191,12.2,1,Shakib Al Hasan,2011-03-04,2nd,DM Bravo,0,,CH Gayle,0,Bangladesh,West Indies,59,Bangladesh,Shere Bangla National Stadium,1,West Indies

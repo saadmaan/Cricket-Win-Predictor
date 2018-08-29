@@ -1,0 +1,531 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Shafiul Islam,2011-03-14,1st,W Barresi,0,,ES Szwarczynski,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+1,0.2,0,Shafiul Islam,2011-03-14,1st,W Barresi,0,,ES Szwarczynski,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+2,0.3,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,0,,W Barresi,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+3,0.4,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,0,,W Barresi,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+4,0.5,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,0,,W Barresi,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+5,0.6,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,0,,W Barresi,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+6,1.1,0,Abdur Razzak,2011-03-14,1st,W Barresi,0,,ES Szwarczynski,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+7,1.2,0,Abdur Razzak,2011-03-14,1st,W Barresi,0,,ES Szwarczynski,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+8,1.3,0,Abdur Razzak,2011-03-14,1st,W Barresi,0,,ES Szwarczynski,0,Bangladesh,Netherlands,1,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+9,1.4,3,Abdur Razzak,2011-03-14,1st,W Barresi,0,,ES Szwarczynski,3,Bangladesh,Netherlands,4,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+10,1.5,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,0,Bangladesh,Netherlands,4,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+11,1.6,4,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,4,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+12,2.1,0,Shafiul Islam,2011-03-14,1st,W Barresi,4,,ES Szwarczynski,3,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+13,2.2,0,Shafiul Islam,2011-03-14,1st,W Barresi,4,,ES Szwarczynski,3,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+14,2.3,0,Shafiul Islam,2011-03-14,1st,W Barresi,4,,ES Szwarczynski,3,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+15,2.4,0,Shafiul Islam,2011-03-14,1st,W Barresi,4,,ES Szwarczynski,3,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+16,2.5,0,Shafiul Islam,2011-03-14,1st,W Barresi,4,,ES Szwarczynski,3,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+17,2.6,0,Shafiul Islam,2011-03-14,1st,W Barresi,4,,ES Szwarczynski,3,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+18,3.1,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,4,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+19,3.2,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,4,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+20,3.3,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,4,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+21,3.4,1,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,5,Bangladesh,Netherlands,9,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+22,3.5,0,Abdur Razzak,2011-03-14,1st,W Barresi,5,,ES Szwarczynski,3,Bangladesh,Netherlands,9,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+23,3.6,0,Abdur Razzak,2011-03-14,1st,W Barresi,5,,ES Szwarczynski,3,Bangladesh,Netherlands,9,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+24,4.1,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,5,Bangladesh,Netherlands,9,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+25,4.2,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,3,,W Barresi,5,Bangladesh,Netherlands,10,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+26,4.3,0,Shafiul Islam,2011-03-14,1st,W Barresi,5,,ES Szwarczynski,3,Bangladesh,Netherlands,10,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+27,4.4,0,Shafiul Islam,2011-03-14,1st,W Barresi,5,,ES Szwarczynski,3,Bangladesh,Netherlands,10,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+28,4.5,0,Shafiul Islam,2011-03-14,1st,W Barresi,5,,ES Szwarczynski,3,Bangladesh,Netherlands,10,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+29,4.6,2,Shafiul Islam,2011-03-14,1st,W Barresi,5,,ES Szwarczynski,5,Bangladesh,Netherlands,12,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+30,5.1,2,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,5,,W Barresi,7,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+31,5.2,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,5,,W Barresi,7,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+32,5.3,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,5,,W Barresi,7,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+33,5.4,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,5,,W Barresi,7,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+34,5.5,1,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,5,,W Barresi,8,Bangladesh,Netherlands,15,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+35,5.6,2,Abdur Razzak,2011-03-14,1st,W Barresi,8,,ES Szwarczynski,7,Bangladesh,Netherlands,17,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+36,6.1,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,7,,W Barresi,8,Bangladesh,Netherlands,17,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+37,6.2,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,7,,W Barresi,8,Bangladesh,Netherlands,17,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+38,6.3,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,7,,W Barresi,8,Bangladesh,Netherlands,17,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+39,6.4,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,7,,W Barresi,8,Bangladesh,Netherlands,17,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+40,6.5,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,7,,W Barresi,8,Bangladesh,Netherlands,17,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+41,6.6,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,7,,W Barresi,8,Bangladesh,Netherlands,17,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+42,7.1,2,Shakib Al Hasan,2011-03-14,1st,W Barresi,8,,ES Szwarczynski,9,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+43,7.2,0,Shakib Al Hasan,2011-03-14,1st,W Barresi,8,,ES Szwarczynski,9,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+44,7.3,0,Shakib Al Hasan,2011-03-14,1st,W Barresi,8,,ES Szwarczynski,9,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+45,7.4,0,Shakib Al Hasan,2011-03-14,1st,W Barresi,8,,ES Szwarczynski,9,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+46,7.5,0,Shakib Al Hasan,2011-03-14,1st,W Barresi,8,,ES Szwarczynski,9,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+47,7.6,6,Shakib Al Hasan,2011-03-14,1st,W Barresi,8,,ES Szwarczynski,15,Bangladesh,Netherlands,25,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+48,8.1,1,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,15,,W Barresi,9,Bangladesh,Netherlands,26,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+49,8.2,1,Shafiul Islam,2011-03-14,1st,W Barresi,9,,ES Szwarczynski,16,Bangladesh,Netherlands,27,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+50,8.3,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,16,,W Barresi,9,Bangladesh,Netherlands,27,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+51,8.4,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,16,,W Barresi,9,Bangladesh,Netherlands,27,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+52,8.5,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,16,,W Barresi,9,Bangladesh,Netherlands,27,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+53,8.6,1,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,16,,W Barresi,10,Bangladesh,Netherlands,28,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+54,9.1,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,16,W Barresi,W Barresi,10,Bangladesh,Netherlands,28,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+55,9.2,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,16,,Mudassar Bukhari,0,Bangladesh,Netherlands,28,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+56,9.3,4,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,16,,Mudassar Bukhari,4,Bangladesh,Netherlands,32,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+57,9.4,1,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,16,,Mudassar Bukhari,5,Bangladesh,Netherlands,33,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+58,9.5,0,Shakib Al Hasan,2011-03-14,1st,Mudassar Bukhari,5,,ES Szwarczynski,16,Bangladesh,Netherlands,33,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+59,9.6,0,Shakib Al Hasan,2011-03-14,1st,Mudassar Bukhari,5,,ES Szwarczynski,16,Bangladesh,Netherlands,33,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+60,10.1,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,16,,Mudassar Bukhari,5,Bangladesh,Netherlands,33,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+61,10.2,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,16,,Mudassar Bukhari,5,Bangladesh,Netherlands,33,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+62,10.3,1,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,16,,Mudassar Bukhari,6,Bangladesh,Netherlands,34,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+63,10.4,1,Shafiul Islam,2011-03-14,1st,Mudassar Bukhari,6,,ES Szwarczynski,17,Bangladesh,Netherlands,35,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+64,10.5,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,17,,Mudassar Bukhari,6,Bangladesh,Netherlands,35,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+65,10.6,0,Shafiul Islam,2011-03-14,1st,ES Szwarczynski,17,,Mudassar Bukhari,6,Bangladesh,Netherlands,35,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+66,11.1,1,Rubel Hossain,2011-03-14,1st,Mudassar Bukhari,6,,ES Szwarczynski,18,Bangladesh,Netherlands,36,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+67,11.2,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,18,,Mudassar Bukhari,6,Bangladesh,Netherlands,36,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+68,11.3,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,18,,Mudassar Bukhari,6,Bangladesh,Netherlands,36,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+69,11.4,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,18,,Mudassar Bukhari,6,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+70,11.5,0,Rubel Hossain,2011-03-14,1st,Mudassar Bukhari,6,,ES Szwarczynski,18,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+71,11.6,0,Rubel Hossain,2011-03-14,1st,Mudassar Bukhari,6,,ES Szwarczynski,18,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+72,12.1,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,18,,Mudassar Bukhari,6,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+73,12.2,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,18,Mudassar Bukhari,Mudassar Bukhari,6,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+74,12.3,0,Abdur Razzak,2011-03-14,1st,TLW Cooper,0,,ES Szwarczynski,18,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+75,12.4,0,Abdur Razzak,2011-03-14,1st,TLW Cooper,0,,ES Szwarczynski,18,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+76,12.5,0,Abdur Razzak,2011-03-14,1st,TLW Cooper,0,,ES Szwarczynski,18,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+77,12.6,0,Abdur Razzak,2011-03-14,1st,TLW Cooper,0,,ES Szwarczynski,18,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+78,13.1,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,18,,TLW Cooper,0,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+79,13.2,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,18,,TLW Cooper,0,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+80,13.3,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,18,,TLW Cooper,0,Bangladesh,Netherlands,37,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+81,13.4,1,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,18,,TLW Cooper,1,Bangladesh,Netherlands,38,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+82,13.5,0,Rubel Hossain,2011-03-14,1st,TLW Cooper,1,,ES Szwarczynski,18,Bangladesh,Netherlands,38,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+83,13.6,0,Rubel Hossain,2011-03-14,1st,TLW Cooper,1,,ES Szwarczynski,18,Bangladesh,Netherlands,38,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+84,14.1,1,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,18,,TLW Cooper,2,Bangladesh,Netherlands,39,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+85,14.2,1,Abdur Razzak,2011-03-14,1st,TLW Cooper,2,,ES Szwarczynski,19,Bangladesh,Netherlands,40,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+86,14.3,1,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,19,,TLW Cooper,3,Bangladesh,Netherlands,41,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+87,14.4,1,Abdur Razzak,2011-03-14,1st,TLW Cooper,3,,ES Szwarczynski,20,Bangladesh,Netherlands,42,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+88,14.5,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,20,,TLW Cooper,3,Bangladesh,Netherlands,42,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+89,14.6,1,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,20,,TLW Cooper,4,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+90,15.1,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,20,,TLW Cooper,4,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+91,15.2,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,20,,TLW Cooper,4,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+92,15.3,1,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,20,,TLW Cooper,5,Bangladesh,Netherlands,44,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+93,15.4,0,Rubel Hossain,2011-03-14,1st,TLW Cooper,5,,ES Szwarczynski,20,Bangladesh,Netherlands,44,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+94,15.5,0,Rubel Hossain,2011-03-14,1st,TLW Cooper,5,,ES Szwarczynski,20,Bangladesh,Netherlands,44,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+95,15.6,0,Rubel Hossain,2011-03-14,1st,TLW Cooper,5,,ES Szwarczynski,20,Bangladesh,Netherlands,44,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+96,16.1,1,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,20,,TLW Cooper,6,Bangladesh,Netherlands,45,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+97,16.2,0,Abdur Razzak,2011-03-14,1st,TLW Cooper,6,,ES Szwarczynski,20,Bangladesh,Netherlands,45,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+98,16.3,0,Abdur Razzak,2011-03-14,1st,TLW Cooper,6,,ES Szwarczynski,20,Bangladesh,Netherlands,45,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+99,16.4,1,Abdur Razzak,2011-03-14,1st,TLW Cooper,6,,ES Szwarczynski,21,Bangladesh,Netherlands,46,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+100,16.5,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,21,,TLW Cooper,6,Bangladesh,Netherlands,46,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+101,16.6,0,Abdur Razzak,2011-03-14,1st,ES Szwarczynski,21,,TLW Cooper,6,Bangladesh,Netherlands,46,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+102,17.1,1,Rubel Hossain,2011-03-14,1st,TLW Cooper,6,,ES Szwarczynski,22,Bangladesh,Netherlands,47,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+103,17.2,2,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,22,,TLW Cooper,8,Bangladesh,Netherlands,49,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+104,17.3,0,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,22,,TLW Cooper,8,Bangladesh,Netherlands,49,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+105,17.4,1,Rubel Hossain,2011-03-14,1st,ES Szwarczynski,22,,TLW Cooper,9,Bangladesh,Netherlands,50,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+106,17.5,0,Rubel Hossain,2011-03-14,1st,TLW Cooper,9,,ES Szwarczynski,22,Bangladesh,Netherlands,50,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+107,17.6,0,Rubel Hossain,2011-03-14,1st,TLW Cooper,9,,ES Szwarczynski,22,Bangladesh,Netherlands,50,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+108,18.1,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,22,,TLW Cooper,9,Bangladesh,Netherlands,50,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+109,18.2,1,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,22,,TLW Cooper,10,Bangladesh,Netherlands,51,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+110,18.3,0,Shakib Al Hasan,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,22,Bangladesh,Netherlands,51,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+111,18.4,0,Shakib Al Hasan,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,22,Bangladesh,Netherlands,51,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+112,18.5,1,Shakib Al Hasan,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,23,Bangladesh,Netherlands,52,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+113,18.6,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,23,,TLW Cooper,10,Bangladesh,Netherlands,52,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+114,19.1,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,23,Bangladesh,Netherlands,52,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+115,19.2,2,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,25,Bangladesh,Netherlands,54,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+116,19.3,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,25,Bangladesh,Netherlands,54,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+117,19.4,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,25,Bangladesh,Netherlands,54,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+118,19.5,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,25,Bangladesh,Netherlands,54,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+119,19.6,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,10,,ES Szwarczynski,25,Bangladesh,Netherlands,54,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+120,20.1,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,25,,TLW Cooper,10,Bangladesh,Netherlands,54,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+121,20.2,1,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,25,,TLW Cooper,11,Bangladesh,Netherlands,55,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+122,20.3,1,Shakib Al Hasan,2011-03-14,1st,TLW Cooper,11,,ES Szwarczynski,26,Bangladesh,Netherlands,56,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+123,20.4,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,26,,TLW Cooper,11,Bangladesh,Netherlands,56,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+124,20.5,3,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,26,,TLW Cooper,14,Bangladesh,Netherlands,59,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+125,20.6,0,Shakib Al Hasan,2011-03-14,1st,TLW Cooper,14,,ES Szwarczynski,26,Bangladesh,Netherlands,59,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+126,21.1,0,Suhrawadi Shuvo,2011-03-14,1st,ES Szwarczynski,26,,TLW Cooper,14,Bangladesh,Netherlands,59,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+127,21.2,0,Suhrawadi Shuvo,2011-03-14,1st,ES Szwarczynski,26,,TLW Cooper,14,Bangladesh,Netherlands,59,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+128,21.3,0,Suhrawadi Shuvo,2011-03-14,1st,ES Szwarczynski,26,,TLW Cooper,14,Bangladesh,Netherlands,59,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+129,21.4,1,Suhrawadi Shuvo,2011-03-14,1st,ES Szwarczynski,26,,TLW Cooper,15,Bangladesh,Netherlands,60,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+130,21.5,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,15,,ES Szwarczynski,26,Bangladesh,Netherlands,60,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+131,21.6,1,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,15,,ES Szwarczynski,27,Bangladesh,Netherlands,61,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+132,22.1,1,Shakib Al Hasan,2011-03-14,1st,TLW Cooper,15,,ES Szwarczynski,28,Bangladesh,Netherlands,62,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+133,22.2,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,28,,TLW Cooper,15,Bangladesh,Netherlands,62,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+134,22.3,2,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,28,,TLW Cooper,17,Bangladesh,Netherlands,64,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+135,22.4,2,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,28,,TLW Cooper,19,Bangladesh,Netherlands,66,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+136,22.5,0,Shakib Al Hasan,2011-03-14,1st,ES Szwarczynski,28,ES Szwarczynski,TLW Cooper,19,Bangladesh,Netherlands,66,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+137,22.6,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,0,,TLW Cooper,19,Bangladesh,Netherlands,66,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+138,23.1,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,19,,RN ten Doeschate,0,Bangladesh,Netherlands,66,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+139,23.2,0,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,19,,RN ten Doeschate,0,Bangladesh,Netherlands,66,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+140,23.3,1,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,19,,RN ten Doeschate,1,Bangladesh,Netherlands,67,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+141,23.4,1,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,1,,TLW Cooper,20,Bangladesh,Netherlands,68,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+142,23.5,1,Suhrawadi Shuvo,2011-03-14,1st,TLW Cooper,20,,RN ten Doeschate,2,Bangladesh,Netherlands,69,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+143,23.6,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,2,,TLW Cooper,20,Bangladesh,Netherlands,69,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+144,24.1,1,Shakib Al Hasan,2011-03-14,1st,TLW Cooper,20,,RN ten Doeschate,3,Bangladesh,Netherlands,70,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+145,24.2,4,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,3,,TLW Cooper,24,Bangladesh,Netherlands,74,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+146,24.3,4,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,3,,TLW Cooper,28,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+147,24.4,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,3,,TLW Cooper,28,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+148,24.5,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,3,,TLW Cooper,28,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+149,24.6,1,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,3,,TLW Cooper,29,Bangladesh,Netherlands,79,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+150,25.1,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,3,TLW Cooper,TLW Cooper,29,Bangladesh,Netherlands,79,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+151,25.2,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,3,,AN Kervezee,0,Bangladesh,Netherlands,79,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+152,25.3,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,3,,AN Kervezee,0,Bangladesh,Netherlands,79,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+153,25.4,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,3,,AN Kervezee,0,Bangladesh,Netherlands,79,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+154,25.5,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,3,,AN Kervezee,0,Bangladesh,Netherlands,79,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+155,25.6,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,3,,AN Kervezee,0,Bangladesh,Netherlands,79,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+156,26.1,1,Shakib Al Hasan,2011-03-14,1st,AN Kervezee,0,,RN ten Doeschate,4,Bangladesh,Netherlands,80,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+157,26.2,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,4,,AN Kervezee,0,Bangladesh,Netherlands,80,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+158,26.3,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,4,,AN Kervezee,0,Bangladesh,Netherlands,80,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+159,26.4,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,4,,AN Kervezee,0,Bangladesh,Netherlands,80,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+160,26.5,1,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,4,,AN Kervezee,1,Bangladesh,Netherlands,81,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+161,26.6,0,Shakib Al Hasan,2011-03-14,1st,AN Kervezee,1,,RN ten Doeschate,4,Bangladesh,Netherlands,81,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+162,27.1,3,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,4,,AN Kervezee,4,Bangladesh,Netherlands,84,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+163,27.2,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,4,,RN ten Doeschate,4,Bangladesh,Netherlands,84,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+164,27.3,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,4,,RN ten Doeschate,4,Bangladesh,Netherlands,84,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+165,27.4,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,4,,RN ten Doeschate,4,Bangladesh,Netherlands,84,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+166,27.5,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,4,,RN ten Doeschate,4,Bangladesh,Netherlands,84,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+167,27.6,1,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,4,,RN ten Doeschate,5,Bangladesh,Netherlands,85,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+168,28.1,0,Abdur Razzak,2011-03-14,1st,AN Kervezee,4,,RN ten Doeschate,5,Bangladesh,Netherlands,85,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+169,28.2,1,Abdur Razzak,2011-03-14,1st,AN Kervezee,4,,RN ten Doeschate,6,Bangladesh,Netherlands,86,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+170,28.3,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,6,,AN Kervezee,4,Bangladesh,Netherlands,86,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+171,28.4,1,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,6,,AN Kervezee,5,Bangladesh,Netherlands,87,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+172,28.5,0,Abdur Razzak,2011-03-14,1st,AN Kervezee,5,,RN ten Doeschate,6,Bangladesh,Netherlands,87,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+173,28.6,1,Abdur Razzak,2011-03-14,1st,AN Kervezee,5,,RN ten Doeschate,7,Bangladesh,Netherlands,88,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+174,29.1,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,5,,RN ten Doeschate,7,Bangladesh,Netherlands,88,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+175,29.2,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,5,,RN ten Doeschate,7,Bangladesh,Netherlands,88,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+176,29.3,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,5,,RN ten Doeschate,7,Bangladesh,Netherlands,88,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+177,29.4,1,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,5,,RN ten Doeschate,8,Bangladesh,Netherlands,89,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+178,29.5,1,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,8,,AN Kervezee,6,Bangladesh,Netherlands,90,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+179,29.6,4,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,6,,RN ten Doeschate,12,Bangladesh,Netherlands,94,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+180,30.1,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,12,,AN Kervezee,6,Bangladesh,Netherlands,94,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+181,30.2,1,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,12,,AN Kervezee,7,Bangladesh,Netherlands,95,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+182,30.3,1,Rubel Hossain,2011-03-14,1st,AN Kervezee,7,,RN ten Doeschate,13,Bangladesh,Netherlands,96,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+183,30.4,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,13,,AN Kervezee,7,Bangladesh,Netherlands,96,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+184,30.5,1,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,13,,AN Kervezee,8,Bangladesh,Netherlands,97,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+185,30.6,0,Rubel Hossain,2011-03-14,1st,AN Kervezee,8,,RN ten Doeschate,13,Bangladesh,Netherlands,97,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+186,31.1,1,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,13,,AN Kervezee,9,Bangladesh,Netherlands,98,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+187,31.2,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,9,,RN ten Doeschate,13,Bangladesh,Netherlands,98,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+188,31.3,1,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,9,,RN ten Doeschate,14,Bangladesh,Netherlands,99,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+189,31.4,1,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,14,,AN Kervezee,10,Bangladesh,Netherlands,100,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+190,31.5,2,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,10,,RN ten Doeschate,16,Bangladesh,Netherlands,102,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+191,31.6,1,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,10,,RN ten Doeschate,17,Bangladesh,Netherlands,103,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+192,32.1,0,Rubel Hossain,2011-03-14,1st,AN Kervezee,10,,RN ten Doeschate,17,Bangladesh,Netherlands,103,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+193,32.2,1,Rubel Hossain,2011-03-14,1st,AN Kervezee,10,,RN ten Doeschate,18,Bangladesh,Netherlands,104,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+194,32.3,4,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,18,,AN Kervezee,14,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+195,32.4,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,18,,AN Kervezee,14,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+196,32.5,4,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,18,,AN Kervezee,18,Bangladesh,Netherlands,112,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+197,32.6,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,18,,AN Kervezee,18,Bangladesh,Netherlands,112,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+198,33.1,0,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,18,,RN ten Doeschate,18,Bangladesh,Netherlands,112,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+199,33.2,1,Suhrawadi Shuvo,2011-03-14,1st,AN Kervezee,18,,RN ten Doeschate,19,Bangladesh,Netherlands,113,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+200,33.3,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,19,AN Kervezee,AN Kervezee,18,Bangladesh,Netherlands,113,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+201,33.4,2,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,19,,TN de Grooth,2,Bangladesh,Netherlands,115,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+202,33.5,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,19,,TN de Grooth,2,Bangladesh,Netherlands,115,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+203,33.6,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,19,,TN de Grooth,2,Bangladesh,Netherlands,115,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+204,34.1,1,Shafiul Islam,2011-03-14,1st,TN de Grooth,2,,RN ten Doeschate,20,Bangladesh,Netherlands,116,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+205,34.2,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,20,,TN de Grooth,2,Bangladesh,Netherlands,116,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+206,34.3,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,20,,TN de Grooth,2,Bangladesh,Netherlands,116,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+207,34.4,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,20,,TN de Grooth,2,Bangladesh,Netherlands,120,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+208,34.5,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,20,,TN de Grooth,2,Bangladesh,Netherlands,121,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+209,34.6,0,Shafiul Islam,2011-03-14,1st,TN de Grooth,2,,RN ten Doeschate,20,Bangladesh,Netherlands,121,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+210,35.1,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,20,,TN de Grooth,2,Bangladesh,Netherlands,121,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+211,35.2,1,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,20,,TN de Grooth,3,Bangladesh,Netherlands,122,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+212,35.3,1,Abdur Razzak,2011-03-14,1st,TN de Grooth,3,,RN ten Doeschate,21,Bangladesh,Netherlands,123,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+213,35.4,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,21,,TN de Grooth,3,Bangladesh,Netherlands,123,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+214,35.5,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,21,,TN de Grooth,3,Bangladesh,Netherlands,123,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+215,35.6,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,21,,TN de Grooth,3,Bangladesh,Netherlands,123,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+216,36.1,0,Shafiul Islam,2011-03-14,1st,TN de Grooth,3,,RN ten Doeschate,21,Bangladesh,Netherlands,123,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+217,36.2,0,Shafiul Islam,2011-03-14,1st,TN de Grooth,3,,RN ten Doeschate,21,Bangladesh,Netherlands,123,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+218,36.3,2,Shafiul Islam,2011-03-14,1st,TN de Grooth,3,,RN ten Doeschate,23,Bangladesh,Netherlands,125,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+219,36.4,1,Shafiul Islam,2011-03-14,1st,TN de Grooth,3,,RN ten Doeschate,24,Bangladesh,Netherlands,126,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+220,36.5,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,24,,TN de Grooth,3,Bangladesh,Netherlands,126,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+221,36.6,1,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,24,,TN de Grooth,4,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,5,Bangladesh
+222,37.1,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,24,TN de Grooth,TN de Grooth,4,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,6,Bangladesh
+223,37.2,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,24,,AF Buurman,0,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,6,Bangladesh
+224,37.3,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,24,AF Buurman,AF Buurman,0,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+225,37.4,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,24,,PW Borren,0,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+226,37.5,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,24,,PW Borren,0,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+227,37.6,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,24,,PW Borren,0,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+228,38.1,3,Rubel Hossain,2011-03-14,1st,PW Borren,0,,RN ten Doeschate,27,Bangladesh,Netherlands,130,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+229,38.2,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,27,,PW Borren,0,Bangladesh,Netherlands,130,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+230,38.3,1,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,27,,PW Borren,1,Bangladesh,Netherlands,131,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+231,38.4,0,Rubel Hossain,2011-03-14,1st,PW Borren,1,,RN ten Doeschate,27,Bangladesh,Netherlands,131,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+232,38.5,1,Rubel Hossain,2011-03-14,1st,PW Borren,1,,RN ten Doeschate,28,Bangladesh,Netherlands,132,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+233,38.6,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,28,,PW Borren,1,Bangladesh,Netherlands,132,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+234,39.1,0,Suhrawadi Shuvo,2011-03-14,1st,PW Borren,1,,RN ten Doeschate,28,Bangladesh,Netherlands,132,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+235,39.2,2,Suhrawadi Shuvo,2011-03-14,1st,PW Borren,1,,RN ten Doeschate,30,Bangladesh,Netherlands,134,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+236,39.3,1,Suhrawadi Shuvo,2011-03-14,1st,PW Borren,1,,RN ten Doeschate,31,Bangladesh,Netherlands,135,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+237,39.4,1,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,31,,PW Borren,2,Bangladesh,Netherlands,136,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+238,39.5,2,Suhrawadi Shuvo,2011-03-14,1st,PW Borren,2,,RN ten Doeschate,33,Bangladesh,Netherlands,138,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+239,39.6,0,Suhrawadi Shuvo,2011-03-14,1st,PW Borren,2,,RN ten Doeschate,33,Bangladesh,Netherlands,138,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+240,40.1,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,33,,PW Borren,2,Bangladesh,Netherlands,138,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+241,40.2,1,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,33,,PW Borren,3,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,7,Bangladesh
+242,40.3,0,Shakib Al Hasan,2011-03-14,1st,PW Borren,3,PW Borren,RN ten Doeschate,33,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+243,40.4,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,33,,PM Seelaar,0,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+244,40.5,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,33,,PM Seelaar,0,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+245,40.6,0,Shakib Al Hasan,2011-03-14,1st,RN ten Doeschate,33,,PM Seelaar,0,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+246,41.1,0,Suhrawadi Shuvo,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,33,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+247,41.2,0,Suhrawadi Shuvo,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,33,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+248,41.3,0,Suhrawadi Shuvo,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,33,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+249,41.4,0,Suhrawadi Shuvo,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,33,Bangladesh,Netherlands,139,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+250,41.5,1,Suhrawadi Shuvo,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,34,Bangladesh,Netherlands,140,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+251,41.6,0,Suhrawadi Shuvo,2011-03-14,1st,RN ten Doeschate,34,,PM Seelaar,0,Bangladesh,Netherlands,140,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+252,42.1,0,Rubel Hossain,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,34,Bangladesh,Netherlands,140,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+253,42.2,0,Rubel Hossain,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,34,Bangladesh,Netherlands,140,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+254,42.3,0,Rubel Hossain,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,34,Bangladesh,Netherlands,140,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+255,42.4,1,Rubel Hossain,2011-03-14,1st,PM Seelaar,0,,RN ten Doeschate,35,Bangladesh,Netherlands,141,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+256,42.5,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,35,,PM Seelaar,0,Bangladesh,Netherlands,141,Netherlands,Zahur Ahmed Chowdhury Stadium,8,Bangladesh
+257,42.6,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,35,PM Seelaar,PM Seelaar,0,Bangladesh,Netherlands,141,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+258,43.1,2,Shafiul Islam,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,37,Bangladesh,Netherlands,143,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+259,43.2,0,Shafiul Islam,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,37,Bangladesh,Netherlands,143,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+260,43.3,1,Shafiul Islam,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,38,Bangladesh,Netherlands,144,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+261,43.4,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,38,,Adeel Raja,0,Bangladesh,Netherlands,144,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+262,43.5,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,38,,Adeel Raja,0,Bangladesh,Netherlands,144,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+263,43.6,0,Shafiul Islam,2011-03-14,1st,RN ten Doeschate,38,,Adeel Raja,0,Bangladesh,Netherlands,144,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+264,44.1,2,Rubel Hossain,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,40,Bangladesh,Netherlands,146,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+265,44.2,2,Rubel Hossain,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,42,Bangladesh,Netherlands,148,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+266,44.3,0,Rubel Hossain,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,42,Bangladesh,Netherlands,148,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+267,44.4,6,Rubel Hossain,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,48,Bangladesh,Netherlands,154,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+268,44.5,1,Rubel Hossain,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,49,Bangladesh,Netherlands,155,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+269,44.6,0,Rubel Hossain,2011-03-14,1st,RN ten Doeschate,49,,Adeel Raja,0,Bangladesh,Netherlands,155,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+270,45.1,4,Abdur Razzak,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,53,Bangladesh,Netherlands,159,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+271,45.2,0,Abdur Razzak,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,53,Bangladesh,Netherlands,159,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+272,45.3,0,Abdur Razzak,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,53,Bangladesh,Netherlands,159,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+273,45.4,0,Abdur Razzak,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,53,Bangladesh,Netherlands,159,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+274,45.5,0,Abdur Razzak,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,53,Bangladesh,Netherlands,160,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+275,45.6,0,Abdur Razzak,2011-03-14,1st,RN ten Doeschate,53,,Adeel Raja,0,Bangladesh,Netherlands,160,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+276,46.1,0,Shafiul Islam,2011-03-14,1st,Adeel Raja,0,,RN ten Doeschate,53,Bangladesh,Netherlands,160,Netherlands,Zahur Ahmed Chowdhury Stadium,9,Bangladesh
+277,46.2,0,Shafiul Islam,2011-03-14,1st,Adeel Raja,0,Adeel Raja,RN ten Doeschate,53,Bangladesh,Netherlands,160,Netherlands,Zahur Ahmed Chowdhury Stadium,10,Bangladesh
+278,0.1,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+279,0.2,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+280,0.3,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,0,Bangladesh
+281,0.4,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+282,0.5,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+283,0.6,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+284,1.1,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+285,1.2,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+286,1.3,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+287,1.4,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+288,1.5,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,0,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+289,1.6,3,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+290,2.1,0,Mudassar Bukhari,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+291,2.2,0,Mudassar Bukhari,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+292,2.3,0,Mudassar Bukhari,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+293,2.4,0,Mudassar Bukhari,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+294,2.5,0,Mudassar Bukhari,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+295,2.6,0,Mudassar Bukhari,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+296,3.1,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+297,3.2,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+298,3.3,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+299,3.4,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,3,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+300,3.5,1,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,4,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+301,3.6,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,4,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+302,4.1,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,4,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+303,4.2,4,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+304,4.3,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+305,4.4,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+306,4.5,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+307,4.6,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,8,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+308,5.1,4,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,12,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+309,5.2,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,12,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+310,5.3,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,12,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+311,5.4,1,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,13,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+312,5.5,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,13,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+313,5.6,1,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+314,6.1,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+315,6.2,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+316,6.3,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+317,6.4,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+318,6.5,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,14,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+319,6.6,4,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,18,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+320,7.1,1,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+321,7.2,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+322,7.3,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,19,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+323,7.4,4,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+324,7.5,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+325,7.6,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+326,8.1,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+327,8.2,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+328,8.3,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+329,8.4,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+330,8.5,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+331,8.6,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,23,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+332,9.1,1,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,24,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+333,9.2,3,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,27,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+334,9.3,1,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,28,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+335,9.4,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,28,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+336,9.5,2,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,30,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+337,9.6,0,Adeel Raja,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,30,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+338,10.1,2,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,32,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+339,10.2,1,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,33,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+340,10.3,1,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,34,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+341,10.4,0,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,34,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+342,10.5,1,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,35,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+343,10.6,4,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,40,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+344,10.7,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,41,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+345,10.8,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,42,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+346,10.9,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,42,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+347,11.1,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,42,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+348,11.2,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,42,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+349,11.3,1,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+350,11.4,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+351,11.5,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+352,11.6,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+353,12.1,0,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+354,12.2,0,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,43,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+355,12.3,0,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,44,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+356,12.4,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,44,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+357,12.5,4,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,48,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+358,12.6,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,48,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+359,13.1,1,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,49,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+360,13.2,1,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,50,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+361,13.3,1,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,51,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+362,13.4,1,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,52,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+363,13.5,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,52,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+364,13.6,4,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,56,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+365,14.1,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,56,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+366,14.2,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,57,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+367,14.3,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,57,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+368,14.4,4,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,61,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+369,14.5,0,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,61,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+370,14.6,1,RN ten Doeschate,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,62,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+371,14.7,2,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,64,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+372,15.1,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,64,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+373,15.2,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,64,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+374,15.3,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,64,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+375,15.4,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,64,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+376,15.5,1,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,65,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+377,15.6,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,65,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+378,16.1,4,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,69,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+379,16.2,4,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,73,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+380,16.3,2,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,75,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+381,16.4,1,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,76,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+382,16.5,1,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,77,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+383,16.6,0,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+384,17.1,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+385,17.2,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+386,17.3,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+387,17.4,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,78,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+388,17.5,2,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,80,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+389,17.6,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,80,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+390,18.1,0,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,80,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+391,18.2,1,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,81,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+392,18.3,0,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,81,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+393,18.4,2,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,83,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+394,18.5,1,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,84,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+395,18.6,1,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,85,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+396,19.1,1,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,86,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+397,19.2,1,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,87,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+398,19.3,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,87,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+399,19.4,1,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,88,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+400,19.5,0,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,88,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+401,19.6,1,PM Seelaar,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,89,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+402,20.1,0,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,89,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+403,20.2,1,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,90,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+404,20.3,1,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,91,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+405,20.4,1,PW Borren,2011-03-14,2nd,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Netherlands,92,Netherlands,Zahur Ahmed Chowdhury Stadium,1,Bangladesh
+406,20.5,0,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Junaid Siddique,0,Bangladesh,Netherlands,92,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+407,20.6,0,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,92,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+408,21.1,0,PM Seelaar,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,92,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+409,21.2,1,PM Seelaar,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,93,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+410,21.3,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,93,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+411,21.4,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,93,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+412,21.5,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,93,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+413,21.6,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,93,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+414,22.1,0,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,93,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+415,22.2,2,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,95,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+416,22.3,1,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,96,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+417,22.4,0,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,96,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+418,22.5,0,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,96,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+419,22.6,0,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,96,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+420,23.1,1,PM Seelaar,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,97,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+421,23.2,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,97,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+422,23.3,1,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,98,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+423,23.4,0,PM Seelaar,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,98,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+424,23.5,0,PM Seelaar,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,98,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+425,23.6,1,PM Seelaar,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,99,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+426,24.1,0,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,99,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+427,24.2,1,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,100,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+428,24.3,1,PW Borren,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,101,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+429,24.4,2,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,103,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+430,24.5,0,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,103,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+431,24.6,1,PW Borren,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,104,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+432,25.1,1,PM Seelaar,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,105,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+433,25.2,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,105,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+434,25.3,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,105,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+435,25.4,2,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,107,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+436,25.5,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,107,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+437,25.6,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,107,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+438,26.1,1,Mudassar Bukhari,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+439,26.2,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+440,26.3,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+441,26.4,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+442,26.5,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+443,26.6,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+444,27.1,0,TLW Cooper,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,108,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+445,27.2,1,TLW Cooper,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,109,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+446,27.3,1,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,110,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+447,27.4,1,TLW Cooper,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,111,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+448,27.5,2,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,113,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+449,27.6,1,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,114,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+450,28.1,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,114,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+451,28.2,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,114,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+452,28.3,0,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,114,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+453,28.4,4,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,118,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+454,28.5,1,Mudassar Bukhari,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,119,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+455,28.6,0,Mudassar Bukhari,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,119,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+456,29.1,2,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,121,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+457,29.2,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,121,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+458,29.3,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,121,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+459,29.4,2,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,123,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+460,29.5,1,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,124,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+461,29.6,0,TLW Cooper,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,126,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+462,30.1,0,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,126,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+463,30.2,1,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,127,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+464,30.3,1,RN ten Doeschate,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,128,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+465,30.4,0,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,128,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+466,30.5,1,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+467,30.6,0,RN ten Doeschate,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+468,31.1,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+469,31.2,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+470,31.3,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+471,31.4,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+472,31.5,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+473,31.6,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+474,32.1,0,RN ten Doeschate,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+475,32.2,0,RN ten Doeschate,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,129,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+476,32.3,2,RN ten Doeschate,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,131,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+477,32.4,0,RN ten Doeschate,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,131,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+478,32.5,0,RN ten Doeschate,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,132,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+479,32.6,1,RN ten Doeschate,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,133,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+480,33.1,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,133,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+481,33.2,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,133,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+482,33.3,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,133,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+483,33.4,4,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,137,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+484,33.5,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,137,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+485,33.6,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,137,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+486,34.1,1,Adeel Raja,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,138,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+487,34.2,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,138,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+488,34.3,4,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,142,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+489,34.4,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,142,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+490,34.5,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,142,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+491,34.6,2,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,144,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+492,35.1,1,TLW Cooper,2011-03-14,2nd,Shahriar Nafees,0,,Imrul Kayes,0,Bangladesh,Netherlands,145,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+493,35.2,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,145,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+494,35.3,2,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,147,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+495,35.4,4,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,151,Netherlands,Zahur Ahmed Chowdhury Stadium,2,Bangladesh
+496,35.5,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shahriar Nafees,0,Bangladesh,Netherlands,151,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+497,35.6,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shakib Al Hasan,0,Bangladesh,Netherlands,151,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+498,36.1,0,PM Seelaar,2011-03-14,2nd,Shakib Al Hasan,0,,Imrul Kayes,0,Bangladesh,Netherlands,151,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+499,36.2,0,PM Seelaar,2011-03-14,2nd,Shakib Al Hasan,0,,Imrul Kayes,0,Bangladesh,Netherlands,151,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+500,36.3,0,PM Seelaar,2011-03-14,2nd,Shakib Al Hasan,0,,Imrul Kayes,0,Bangladesh,Netherlands,151,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+501,36.4,1,PM Seelaar,2011-03-14,2nd,Shakib Al Hasan,0,,Imrul Kayes,0,Bangladesh,Netherlands,152,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+502,36.5,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shakib Al Hasan,0,Bangladesh,Netherlands,152,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+503,36.6,1,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Shakib Al Hasan,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+504,37.1,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shakib Al Hasan,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+505,37.2,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shakib Al Hasan,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+506,37.3,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shakib Al Hasan,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,3,Bangladesh
+507,37.4,0,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Shakib Al Hasan,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+508,37.5,0,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+509,37.6,0,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+510,38.1,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+511,38.2,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+512,38.3,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+513,38.4,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+514,38.5,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+515,38.6,0,PM Seelaar,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+516,39.1,0,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+517,39.2,0,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+518,39.3,0,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+519,39.4,0,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+520,39.5,0,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,153,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+521,39.6,1,TLW Cooper,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,154,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+522,40.1,0,Adeel Raja,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,154,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+523,40.2,1,Adeel Raja,2011-03-14,2nd,Mushfiqur Rahim,0,,Imrul Kayes,0,Bangladesh,Netherlands,155,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+524,40.3,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,155,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+525,40.4,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,155,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+526,40.5,0,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,155,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+527,40.6,1,Adeel Raja,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,156,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+528,41.1,4,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,160,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh
+529,41.2,6,TLW Cooper,2011-03-14,2nd,Imrul Kayes,0,,Mushfiqur Rahim,0,Bangladesh,Netherlands,166,Netherlands,Zahur Ahmed Chowdhury Stadium,4,Bangladesh

@@ -1,0 +1,530 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,4,DW Steyn,2009-01-26,1st,DA Warner,0,,SE Marsh,4,Australia,South Africa,4,Australia,Adelaide Oval,0,South Africa
+1,0.2,0,DW Steyn,2009-01-26,1st,DA Warner,0,,SE Marsh,4,Australia,South Africa,4,Australia,Adelaide Oval,0,South Africa
+2,0.3,0,DW Steyn,2009-01-26,1st,DA Warner,0,,SE Marsh,4,Australia,South Africa,4,Australia,Adelaide Oval,0,South Africa
+3,0.4,0,DW Steyn,2009-01-26,1st,DA Warner,0,,SE Marsh,4,Australia,South Africa,5,Australia,Adelaide Oval,0,South Africa
+4,0.5,1,DW Steyn,2009-01-26,1st,DA Warner,0,,SE Marsh,5,Australia,South Africa,6,Australia,Adelaide Oval,0,South Africa
+5,0.6,0,DW Steyn,2009-01-26,1st,SE Marsh,5,,DA Warner,0,Australia,South Africa,6,Australia,Adelaide Oval,0,South Africa
+6,0.7,1,DW Steyn,2009-01-26,1st,SE Marsh,5,,DA Warner,1,Australia,South Africa,7,Australia,Adelaide Oval,0,South Africa
+7,1.1,0,M Ntini,2009-01-26,1st,SE Marsh,5,,DA Warner,1,Australia,South Africa,8,Australia,Adelaide Oval,0,South Africa
+8,1.2,0,M Ntini,2009-01-26,1st,SE Marsh,5,,DA Warner,1,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+9,1.3,0,M Ntini,2009-01-26,1st,SE Marsh,5,,DA Warner,1,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+10,1.4,0,M Ntini,2009-01-26,1st,SE Marsh,5,,DA Warner,1,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+11,1.5,0,M Ntini,2009-01-26,1st,SE Marsh,5,,DA Warner,1,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+12,1.6,0,M Ntini,2009-01-26,1st,SE Marsh,5,,DA Warner,1,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+13,1.7,0,M Ntini,2009-01-26,1st,SE Marsh,5,DA Warner,DA Warner,1,Australia,South Africa,9,Australia,Adelaide Oval,1,South Africa
+14,1.8,0,M Ntini,2009-01-26,1st,SE Marsh,5,,RT Ponting,0,Australia,South Africa,9,Australia,Adelaide Oval,1,South Africa
+15,2.1,4,DW Steyn,2009-01-26,1st,RT Ponting,0,,SE Marsh,9,Australia,South Africa,13,Australia,Adelaide Oval,1,South Africa
+16,2.2,4,DW Steyn,2009-01-26,1st,RT Ponting,0,,SE Marsh,13,Australia,South Africa,17,Australia,Adelaide Oval,1,South Africa
+17,2.3,0,DW Steyn,2009-01-26,1st,RT Ponting,0,,SE Marsh,13,Australia,South Africa,17,Australia,Adelaide Oval,1,South Africa
+18,2.4,0,DW Steyn,2009-01-26,1st,RT Ponting,0,,SE Marsh,13,Australia,South Africa,17,Australia,Adelaide Oval,1,South Africa
+19,2.5,0,DW Steyn,2009-01-26,1st,RT Ponting,0,SE Marsh,SE Marsh,13,Australia,South Africa,17,Australia,Adelaide Oval,2,South Africa
+20,2.6,0,DW Steyn,2009-01-26,1st,MEK Hussey,0,,RT Ponting,0,Australia,South Africa,17,Australia,Adelaide Oval,2,South Africa
+21,3.1,1,M Ntini,2009-01-26,1st,RT Ponting,0,,MEK Hussey,1,Australia,South Africa,18,Australia,Adelaide Oval,2,South Africa
+22,3.2,4,M Ntini,2009-01-26,1st,MEK Hussey,1,,RT Ponting,4,Australia,South Africa,22,Australia,Adelaide Oval,2,South Africa
+23,3.3,4,M Ntini,2009-01-26,1st,MEK Hussey,1,,RT Ponting,8,Australia,South Africa,26,Australia,Adelaide Oval,2,South Africa
+24,3.4,0,M Ntini,2009-01-26,1st,MEK Hussey,1,,RT Ponting,8,Australia,South Africa,26,Australia,Adelaide Oval,2,South Africa
+25,3.5,0,M Ntini,2009-01-26,1st,MEK Hussey,1,,RT Ponting,8,Australia,South Africa,26,Australia,Adelaide Oval,2,South Africa
+26,3.6,2,M Ntini,2009-01-26,1st,MEK Hussey,1,,RT Ponting,10,Australia,South Africa,28,Australia,Adelaide Oval,2,South Africa
+27,4.1,0,DW Steyn,2009-01-26,1st,RT Ponting,10,,MEK Hussey,1,Australia,South Africa,28,Australia,Adelaide Oval,2,South Africa
+28,4.2,0,DW Steyn,2009-01-26,1st,RT Ponting,10,,MEK Hussey,1,Australia,South Africa,28,Australia,Adelaide Oval,2,South Africa
+29,4.3,0,DW Steyn,2009-01-26,1st,RT Ponting,10,,MEK Hussey,1,Australia,South Africa,28,Australia,Adelaide Oval,2,South Africa
+30,4.4,0,DW Steyn,2009-01-26,1st,RT Ponting,10,,MEK Hussey,1,Australia,South Africa,28,Australia,Adelaide Oval,2,South Africa
+31,4.5,0,DW Steyn,2009-01-26,1st,RT Ponting,10,,MEK Hussey,1,Australia,South Africa,28,Australia,Adelaide Oval,2,South Africa
+32,4.6,4,DW Steyn,2009-01-26,1st,RT Ponting,10,,MEK Hussey,5,Australia,South Africa,32,Australia,Adelaide Oval,2,South Africa
+33,5.1,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,10,Australia,South Africa,32,Australia,Adelaide Oval,2,South Africa
+34,5.2,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,10,Australia,South Africa,33,Australia,Adelaide Oval,2,South Africa
+35,5.3,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,10,Australia,South Africa,33,Australia,Adelaide Oval,2,South Africa
+36,5.4,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,10,Australia,South Africa,33,Australia,Adelaide Oval,2,South Africa
+37,5.5,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,10,Australia,South Africa,33,Australia,Adelaide Oval,2,South Africa
+38,5.6,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,10,Australia,South Africa,33,Australia,Adelaide Oval,2,South Africa
+39,5.7,1,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,11,Australia,South Africa,34,Australia,Adelaide Oval,2,South Africa
+40,6.1,2,DW Steyn,2009-01-26,1st,MEK Hussey,5,,RT Ponting,13,Australia,South Africa,36,Australia,Adelaide Oval,2,South Africa
+41,6.2,0,DW Steyn,2009-01-26,1st,MEK Hussey,5,,RT Ponting,13,Australia,South Africa,36,Australia,Adelaide Oval,2,South Africa
+42,6.3,0,DW Steyn,2009-01-26,1st,MEK Hussey,5,,RT Ponting,13,Australia,South Africa,36,Australia,Adelaide Oval,2,South Africa
+43,6.4,0,DW Steyn,2009-01-26,1st,MEK Hussey,5,,RT Ponting,13,Australia,South Africa,36,Australia,Adelaide Oval,2,South Africa
+44,6.5,0,DW Steyn,2009-01-26,1st,MEK Hussey,5,,RT Ponting,13,Australia,South Africa,36,Australia,Adelaide Oval,2,South Africa
+45,6.6,1,DW Steyn,2009-01-26,1st,MEK Hussey,5,,RT Ponting,14,Australia,South Africa,37,Australia,Adelaide Oval,2,South Africa
+46,7.1,2,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,16,Australia,South Africa,39,Australia,Adelaide Oval,2,South Africa
+47,7.2,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,16,Australia,South Africa,39,Australia,Adelaide Oval,2,South Africa
+48,7.3,0,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,16,Australia,South Africa,39,Australia,Adelaide Oval,2,South Africa
+49,7.4,4,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,20,Australia,South Africa,43,Australia,Adelaide Oval,2,South Africa
+50,7.5,4,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,24,Australia,South Africa,47,Australia,Adelaide Oval,2,South Africa
+51,7.6,4,M Ntini,2009-01-26,1st,MEK Hussey,5,,RT Ponting,28,Australia,South Africa,51,Australia,Adelaide Oval,2,South Africa
+52,8.1,0,DW Steyn,2009-01-26,1st,RT Ponting,28,,MEK Hussey,5,Australia,South Africa,51,Australia,Adelaide Oval,2,South Africa
+53,8.2,2,DW Steyn,2009-01-26,1st,RT Ponting,28,,MEK Hussey,7,Australia,South Africa,53,Australia,Adelaide Oval,2,South Africa
+54,8.3,0,DW Steyn,2009-01-26,1st,RT Ponting,28,,MEK Hussey,7,Australia,South Africa,53,Australia,Adelaide Oval,2,South Africa
+55,8.4,0,DW Steyn,2009-01-26,1st,RT Ponting,28,,MEK Hussey,7,Australia,South Africa,53,Australia,Adelaide Oval,2,South Africa
+56,8.5,0,DW Steyn,2009-01-26,1st,RT Ponting,28,,MEK Hussey,7,Australia,South Africa,53,Australia,Adelaide Oval,2,South Africa
+57,8.6,0,DW Steyn,2009-01-26,1st,RT Ponting,28,,MEK Hussey,7,Australia,South Africa,53,Australia,Adelaide Oval,2,South Africa
+58,9.1,4,JA Morkel,2009-01-26,1st,MEK Hussey,7,,RT Ponting,32,Australia,South Africa,57,Australia,Adelaide Oval,2,South Africa
+59,9.2,0,JA Morkel,2009-01-26,1st,MEK Hussey,7,,RT Ponting,32,Australia,South Africa,57,Australia,Adelaide Oval,2,South Africa
+60,9.3,0,JA Morkel,2009-01-26,1st,MEK Hussey,7,,RT Ponting,32,Australia,South Africa,57,Australia,Adelaide Oval,2,South Africa
+61,9.4,4,JA Morkel,2009-01-26,1st,MEK Hussey,7,,RT Ponting,36,Australia,South Africa,61,Australia,Adelaide Oval,2,South Africa
+62,9.5,1,JA Morkel,2009-01-26,1st,MEK Hussey,7,,RT Ponting,37,Australia,South Africa,62,Australia,Adelaide Oval,2,South Africa
+63,9.6,4,JA Morkel,2009-01-26,1st,RT Ponting,37,,MEK Hussey,11,Australia,South Africa,66,Australia,Adelaide Oval,2,South Africa
+64,10.1,0,M Morkel,2009-01-26,1st,MEK Hussey,11,,RT Ponting,37,Australia,South Africa,66,Australia,Adelaide Oval,2,South Africa
+65,10.2,1,M Morkel,2009-01-26,1st,MEK Hussey,11,,RT Ponting,38,Australia,South Africa,67,Australia,Adelaide Oval,2,South Africa
+66,10.3,0,M Morkel,2009-01-26,1st,RT Ponting,38,,MEK Hussey,11,Australia,South Africa,67,Australia,Adelaide Oval,2,South Africa
+67,10.4,0,M Morkel,2009-01-26,1st,RT Ponting,38,,MEK Hussey,11,Australia,South Africa,68,Australia,Adelaide Oval,2,South Africa
+68,10.5,1,M Morkel,2009-01-26,1st,RT Ponting,38,,MEK Hussey,12,Australia,South Africa,69,Australia,Adelaide Oval,2,South Africa
+69,10.6,0,M Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,38,Australia,South Africa,69,Australia,Adelaide Oval,2,South Africa
+70,10.7,0,M Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,38,Australia,South Africa,69,Australia,Adelaide Oval,2,South Africa
+71,11.1,0,JA Morkel,2009-01-26,1st,RT Ponting,38,,MEK Hussey,12,Australia,South Africa,69,Australia,Adelaide Oval,2,South Africa
+72,11.2,0,JA Morkel,2009-01-26,1st,RT Ponting,38,,MEK Hussey,12,Australia,South Africa,70,Australia,Adelaide Oval,2,South Africa
+73,11.3,0,JA Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,38,Australia,South Africa,70,Australia,Adelaide Oval,2,South Africa
+74,11.4,0,JA Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,38,Australia,South Africa,70,Australia,Adelaide Oval,2,South Africa
+75,11.5,1,JA Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,39,Australia,South Africa,71,Australia,Adelaide Oval,2,South Africa
+76,11.6,0,JA Morkel,2009-01-26,1st,RT Ponting,39,,MEK Hussey,12,Australia,South Africa,71,Australia,Adelaide Oval,2,South Africa
+77,12.1,0,M Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,39,Australia,South Africa,71,Australia,Adelaide Oval,2,South Africa
+78,12.2,0,M Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,39,Australia,South Africa,71,Australia,Adelaide Oval,2,South Africa
+79,12.3,1,M Morkel,2009-01-26,1st,MEK Hussey,12,,RT Ponting,40,Australia,South Africa,72,Australia,Adelaide Oval,2,South Africa
+80,12.4,1,M Morkel,2009-01-26,1st,RT Ponting,40,,MEK Hussey,13,Australia,South Africa,73,Australia,Adelaide Oval,2,South Africa
+81,12.5,4,M Morkel,2009-01-26,1st,MEK Hussey,13,,RT Ponting,44,Australia,South Africa,77,Australia,Adelaide Oval,2,South Africa
+82,12.6,0,M Morkel,2009-01-26,1st,MEK Hussey,13,,RT Ponting,44,Australia,South Africa,77,Australia,Adelaide Oval,2,South Africa
+83,13.1,1,JA Morkel,2009-01-26,1st,RT Ponting,44,,MEK Hussey,14,Australia,South Africa,78,Australia,Adelaide Oval,2,South Africa
+84,13.2,1,JA Morkel,2009-01-26,1st,MEK Hussey,14,,RT Ponting,45,Australia,South Africa,79,Australia,Adelaide Oval,2,South Africa
+85,13.3,0,JA Morkel,2009-01-26,1st,RT Ponting,45,,MEK Hussey,14,Australia,South Africa,79,Australia,Adelaide Oval,2,South Africa
+86,13.4,1,JA Morkel,2009-01-26,1st,RT Ponting,45,,MEK Hussey,15,Australia,South Africa,80,Australia,Adelaide Oval,2,South Africa
+87,13.5,0,JA Morkel,2009-01-26,1st,MEK Hussey,15,,RT Ponting,45,Australia,South Africa,80,Australia,Adelaide Oval,2,South Africa
+88,13.6,4,JA Morkel,2009-01-26,1st,MEK Hussey,15,,RT Ponting,49,Australia,South Africa,84,Australia,Adelaide Oval,2,South Africa
+89,14.1,1,M Morkel,2009-01-26,1st,RT Ponting,49,,MEK Hussey,16,Australia,South Africa,85,Australia,Adelaide Oval,2,South Africa
+90,14.2,1,M Morkel,2009-01-26,1st,MEK Hussey,16,,RT Ponting,50,Australia,South Africa,86,Australia,Adelaide Oval,2,South Africa
+91,14.3,0,M Morkel,2009-01-26,1st,RT Ponting,50,,MEK Hussey,16,Australia,South Africa,86,Australia,Adelaide Oval,2,South Africa
+92,14.4,0,M Morkel,2009-01-26,1st,RT Ponting,50,,MEK Hussey,16,Australia,South Africa,86,Australia,Adelaide Oval,2,South Africa
+93,14.5,0,M Morkel,2009-01-26,1st,RT Ponting,50,,MEK Hussey,16,Australia,South Africa,86,Australia,Adelaide Oval,2,South Africa
+94,14.6,0,M Morkel,2009-01-26,1st,RT Ponting,50,,MEK Hussey,16,Australia,South Africa,87,Australia,Adelaide Oval,2,South Africa
+95,14.7,6,M Morkel,2009-01-26,1st,RT Ponting,50,,MEK Hussey,22,Australia,South Africa,93,Australia,Adelaide Oval,2,South Africa
+96,15.1,0,J Botha,2009-01-26,1st,MEK Hussey,22,,RT Ponting,50,Australia,South Africa,93,Australia,Adelaide Oval,2,South Africa
+97,15.2,2,J Botha,2009-01-26,1st,MEK Hussey,22,,RT Ponting,52,Australia,South Africa,95,Australia,Adelaide Oval,2,South Africa
+98,15.3,0,J Botha,2009-01-26,1st,MEK Hussey,22,,RT Ponting,52,Australia,South Africa,95,Australia,Adelaide Oval,2,South Africa
+99,15.4,0,J Botha,2009-01-26,1st,MEK Hussey,22,,RT Ponting,52,Australia,South Africa,95,Australia,Adelaide Oval,2,South Africa
+100,15.5,1,J Botha,2009-01-26,1st,MEK Hussey,22,,RT Ponting,53,Australia,South Africa,96,Australia,Adelaide Oval,2,South Africa
+101,15.6,0,J Botha,2009-01-26,1st,RT Ponting,53,,MEK Hussey,22,Australia,South Africa,96,Australia,Adelaide Oval,2,South Africa
+102,16.1,2,M Morkel,2009-01-26,1st,MEK Hussey,22,,RT Ponting,55,Australia,South Africa,98,Australia,Adelaide Oval,2,South Africa
+103,16.2,0,M Morkel,2009-01-26,1st,MEK Hussey,22,,RT Ponting,55,Australia,South Africa,98,Australia,Adelaide Oval,2,South Africa
+104,16.3,0,M Morkel,2009-01-26,1st,MEK Hussey,22,,RT Ponting,55,Australia,South Africa,98,Australia,Adelaide Oval,2,South Africa
+105,16.4,0,M Morkel,2009-01-26,1st,MEK Hussey,22,,RT Ponting,55,Australia,South Africa,98,Australia,Adelaide Oval,2,South Africa
+106,16.5,1,M Morkel,2009-01-26,1st,MEK Hussey,22,,RT Ponting,56,Australia,South Africa,99,Australia,Adelaide Oval,2,South Africa
+107,16.6,0,M Morkel,2009-01-26,1st,RT Ponting,56,,MEK Hussey,22,Australia,South Africa,99,Australia,Adelaide Oval,2,South Africa
+108,17.1,0,J Botha,2009-01-26,1st,MEK Hussey,22,,RT Ponting,56,Australia,South Africa,99,Australia,Adelaide Oval,2,South Africa
+109,17.2,1,J Botha,2009-01-26,1st,MEK Hussey,22,,RT Ponting,57,Australia,South Africa,100,Australia,Adelaide Oval,2,South Africa
+110,17.3,1,J Botha,2009-01-26,1st,RT Ponting,57,,MEK Hussey,23,Australia,South Africa,101,Australia,Adelaide Oval,2,South Africa
+111,17.4,1,J Botha,2009-01-26,1st,MEK Hussey,23,,RT Ponting,58,Australia,South Africa,102,Australia,Adelaide Oval,2,South Africa
+112,17.5,1,J Botha,2009-01-26,1st,RT Ponting,58,,MEK Hussey,24,Australia,South Africa,103,Australia,Adelaide Oval,2,South Africa
+113,17.6,0,J Botha,2009-01-26,1st,MEK Hussey,24,,RT Ponting,58,Australia,South Africa,103,Australia,Adelaide Oval,2,South Africa
+114,18.1,3,M Morkel,2009-01-26,1st,RT Ponting,58,,MEK Hussey,27,Australia,South Africa,106,Australia,Adelaide Oval,2,South Africa
+115,18.2,1,M Morkel,2009-01-26,1st,MEK Hussey,27,,RT Ponting,59,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+116,18.3,1,M Morkel,2009-01-26,1st,RT Ponting,59,,MEK Hussey,28,Australia,South Africa,108,Australia,Adelaide Oval,2,South Africa
+117,18.4,0,M Morkel,2009-01-26,1st,MEK Hussey,28,,RT Ponting,59,Australia,South Africa,108,Australia,Adelaide Oval,2,South Africa
+118,18.5,0,M Morkel,2009-01-26,1st,MEK Hussey,28,,RT Ponting,59,Australia,South Africa,108,Australia,Adelaide Oval,2,South Africa
+119,18.6,1,M Morkel,2009-01-26,1st,MEK Hussey,28,,RT Ponting,60,Australia,South Africa,109,Australia,Adelaide Oval,2,South Africa
+120,19.1,1,J Botha,2009-01-26,1st,MEK Hussey,28,,RT Ponting,61,Australia,South Africa,110,Australia,Adelaide Oval,2,South Africa
+121,19.2,0,J Botha,2009-01-26,1st,RT Ponting,61,MEK Hussey,MEK Hussey,28,Australia,South Africa,110,Australia,Adelaide Oval,3,South Africa
+122,19.3,1,J Botha,2009-01-26,1st,RT Ponting,61,,DJ Hussey,1,Australia,South Africa,111,Australia,Adelaide Oval,3,South Africa
+123,19.4,0,J Botha,2009-01-26,1st,DJ Hussey,1,,RT Ponting,61,Australia,South Africa,111,Australia,Adelaide Oval,3,South Africa
+124,19.5,1,J Botha,2009-01-26,1st,DJ Hussey,1,,RT Ponting,62,Australia,South Africa,112,Australia,Adelaide Oval,3,South Africa
+125,19.6,0,J Botha,2009-01-26,1st,RT Ponting,62,,DJ Hussey,1,Australia,South Africa,112,Australia,Adelaide Oval,3,South Africa
+126,20.1,0,M Ntini,2009-01-26,1st,DJ Hussey,1,,RT Ponting,62,Australia,South Africa,112,Australia,Adelaide Oval,3,South Africa
+127,20.2,1,M Ntini,2009-01-26,1st,DJ Hussey,1,,RT Ponting,63,Australia,South Africa,113,Australia,Adelaide Oval,3,South Africa
+128,20.3,0,M Ntini,2009-01-26,1st,RT Ponting,63,,DJ Hussey,1,Australia,South Africa,113,Australia,Adelaide Oval,3,South Africa
+129,20.4,1,M Ntini,2009-01-26,1st,RT Ponting,63,,DJ Hussey,2,Australia,South Africa,114,Australia,Adelaide Oval,3,South Africa
+130,20.5,0,M Ntini,2009-01-26,1st,DJ Hussey,2,RT Ponting,RT Ponting,63,Australia,South Africa,114,Australia,Adelaide Oval,4,South Africa
+131,20.6,1,M Ntini,2009-01-26,1st,DJ Hussey,2,,BJ Haddin,1,Australia,South Africa,115,Australia,Adelaide Oval,4,South Africa
+132,21.1,0,J Botha,2009-01-26,1st,DJ Hussey,2,,BJ Haddin,1,Australia,South Africa,115,Australia,Adelaide Oval,4,South Africa
+133,21.2,0,J Botha,2009-01-26,1st,DJ Hussey,2,,BJ Haddin,1,Australia,South Africa,115,Australia,Adelaide Oval,4,South Africa
+134,21.3,0,J Botha,2009-01-26,1st,DJ Hussey,2,,BJ Haddin,1,Australia,South Africa,115,Australia,Adelaide Oval,4,South Africa
+135,21.4,1,J Botha,2009-01-26,1st,DJ Hussey,2,,BJ Haddin,2,Australia,South Africa,116,Australia,Adelaide Oval,4,South Africa
+136,21.5,1,J Botha,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,3,Australia,South Africa,117,Australia,Adelaide Oval,4,South Africa
+137,21.6,0,J Botha,2009-01-26,1st,DJ Hussey,3,,BJ Haddin,2,Australia,South Africa,117,Australia,Adelaide Oval,4,South Africa
+138,22.1,4,M Ntini,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,7,Australia,South Africa,121,Australia,Adelaide Oval,4,South Africa
+139,22.2,4,M Ntini,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,11,Australia,South Africa,125,Australia,Adelaide Oval,4,South Africa
+140,22.3,0,M Ntini,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,11,Australia,South Africa,125,Australia,Adelaide Oval,4,South Africa
+141,22.4,0,M Ntini,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,11,Australia,South Africa,125,Australia,Adelaide Oval,4,South Africa
+142,22.5,0,M Ntini,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,11,Australia,South Africa,126,Australia,Adelaide Oval,4,South Africa
+143,22.6,0,M Ntini,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,11,Australia,South Africa,126,Australia,Adelaide Oval,4,South Africa
+144,22.7,0,M Ntini,2009-01-26,1st,BJ Haddin,2,,DJ Hussey,11,Australia,South Africa,126,Australia,Adelaide Oval,4,South Africa
+145,23.1,0,J Botha,2009-01-26,1st,DJ Hussey,11,,BJ Haddin,2,Australia,South Africa,126,Australia,Adelaide Oval,4,South Africa
+146,23.2,0,J Botha,2009-01-26,1st,DJ Hussey,11,,BJ Haddin,2,Australia,South Africa,126,Australia,Adelaide Oval,4,South Africa
+147,23.3,1,J Botha,2009-01-26,1st,DJ Hussey,11,,BJ Haddin,3,Australia,South Africa,127,Australia,Adelaide Oval,4,South Africa
+148,23.4,1,J Botha,2009-01-26,1st,BJ Haddin,3,,DJ Hussey,12,Australia,South Africa,128,Australia,Adelaide Oval,4,South Africa
+149,23.5,0,J Botha,2009-01-26,1st,DJ Hussey,12,BJ Haddin,BJ Haddin,3,Australia,South Africa,128,Australia,Adelaide Oval,5,South Africa
+150,23.6,0,J Botha,2009-01-26,1st,CL White,0,,DJ Hussey,12,Australia,South Africa,128,Australia,Adelaide Oval,5,South Africa
+151,24.1,0,M Ntini,2009-01-26,1st,DJ Hussey,12,,CL White,0,Australia,South Africa,128,Australia,Adelaide Oval,5,South Africa
+152,24.2,0,M Ntini,2009-01-26,1st,DJ Hussey,12,,CL White,0,Australia,South Africa,128,Australia,Adelaide Oval,5,South Africa
+153,24.3,2,M Ntini,2009-01-26,1st,DJ Hussey,12,,CL White,2,Australia,South Africa,130,Australia,Adelaide Oval,5,South Africa
+154,24.4,0,M Ntini,2009-01-26,1st,DJ Hussey,12,,CL White,2,Australia,South Africa,130,Australia,Adelaide Oval,5,South Africa
+155,24.5,0,M Ntini,2009-01-26,1st,DJ Hussey,12,,CL White,2,Australia,South Africa,130,Australia,Adelaide Oval,5,South Africa
+156,24.6,0,M Ntini,2009-01-26,1st,DJ Hussey,12,,CL White,2,Australia,South Africa,130,Australia,Adelaide Oval,5,South Africa
+157,25.1,0,J Botha,2009-01-26,1st,CL White,2,,DJ Hussey,12,Australia,South Africa,130,Australia,Adelaide Oval,5,South Africa
+158,25.2,1,J Botha,2009-01-26,1st,CL White,2,,DJ Hussey,13,Australia,South Africa,131,Australia,Adelaide Oval,5,South Africa
+159,25.3,0,J Botha,2009-01-26,1st,DJ Hussey,13,,CL White,2,Australia,South Africa,131,Australia,Adelaide Oval,5,South Africa
+160,25.4,1,J Botha,2009-01-26,1st,DJ Hussey,13,,CL White,3,Australia,South Africa,132,Australia,Adelaide Oval,5,South Africa
+161,25.5,0,J Botha,2009-01-26,1st,CL White,3,,DJ Hussey,13,Australia,South Africa,132,Australia,Adelaide Oval,5,South Africa
+162,25.6,1,J Botha,2009-01-26,1st,CL White,3,,DJ Hussey,14,Australia,South Africa,133,Australia,Adelaide Oval,5,South Africa
+163,26.1,1,JA Morkel,2009-01-26,1st,CL White,3,,DJ Hussey,15,Australia,South Africa,134,Australia,Adelaide Oval,5,South Africa
+164,26.2,0,JA Morkel,2009-01-26,1st,DJ Hussey,15,,CL White,3,Australia,South Africa,134,Australia,Adelaide Oval,5,South Africa
+165,26.3,0,JA Morkel,2009-01-26,1st,DJ Hussey,15,,CL White,3,Australia,South Africa,134,Australia,Adelaide Oval,5,South Africa
+166,26.4,0,JA Morkel,2009-01-26,1st,DJ Hussey,15,,CL White,3,Australia,South Africa,134,Australia,Adelaide Oval,5,South Africa
+167,26.5,1,JA Morkel,2009-01-26,1st,DJ Hussey,15,,CL White,4,Australia,South Africa,135,Australia,Adelaide Oval,5,South Africa
+168,26.6,1,JA Morkel,2009-01-26,1st,CL White,4,,DJ Hussey,16,Australia,South Africa,136,Australia,Adelaide Oval,5,South Africa
+169,27.1,0,J Botha,2009-01-26,1st,CL White,4,,DJ Hussey,16,Australia,South Africa,136,Australia,Adelaide Oval,5,South Africa
+170,27.2,1,J Botha,2009-01-26,1st,CL White,4,,DJ Hussey,17,Australia,South Africa,137,Australia,Adelaide Oval,5,South Africa
+171,27.3,0,J Botha,2009-01-26,1st,DJ Hussey,17,,CL White,4,Australia,South Africa,137,Australia,Adelaide Oval,5,South Africa
+172,27.4,1,J Botha,2009-01-26,1st,DJ Hussey,17,,CL White,5,Australia,South Africa,138,Australia,Adelaide Oval,5,South Africa
+173,27.5,0,J Botha,2009-01-26,1st,CL White,5,,DJ Hussey,17,Australia,South Africa,138,Australia,Adelaide Oval,5,South Africa
+174,27.6,0,J Botha,2009-01-26,1st,CL White,5,,DJ Hussey,17,Australia,South Africa,138,Australia,Adelaide Oval,5,South Africa
+175,28.1,0,JA Morkel,2009-01-26,1st,DJ Hussey,17,,CL White,5,Australia,South Africa,138,Australia,Adelaide Oval,5,South Africa
+176,28.2,4,JA Morkel,2009-01-26,1st,DJ Hussey,17,,CL White,9,Australia,South Africa,142,Australia,Adelaide Oval,5,South Africa
+177,28.3,0,JA Morkel,2009-01-26,1st,DJ Hussey,17,,CL White,9,Australia,South Africa,142,Australia,Adelaide Oval,5,South Africa
+178,28.4,0,JA Morkel,2009-01-26,1st,DJ Hussey,17,,CL White,9,Australia,South Africa,142,Australia,Adelaide Oval,5,South Africa
+179,28.5,1,JA Morkel,2009-01-26,1st,DJ Hussey,17,,CL White,10,Australia,South Africa,143,Australia,Adelaide Oval,5,South Africa
+180,28.6,1,JA Morkel,2009-01-26,1st,CL White,10,,DJ Hussey,18,Australia,South Africa,144,Australia,Adelaide Oval,5,South Africa
+181,29.1,1,J Botha,2009-01-26,1st,CL White,10,,DJ Hussey,19,Australia,South Africa,145,Australia,Adelaide Oval,5,South Africa
+182,29.2,0,J Botha,2009-01-26,1st,DJ Hussey,19,,CL White,10,Australia,South Africa,145,Australia,Adelaide Oval,5,South Africa
+183,29.3,0,J Botha,2009-01-26,1st,DJ Hussey,19,,CL White,10,Australia,South Africa,145,Australia,Adelaide Oval,5,South Africa
+184,29.4,0,J Botha,2009-01-26,1st,DJ Hussey,19,,CL White,10,Australia,South Africa,145,Australia,Adelaide Oval,5,South Africa
+185,29.5,1,J Botha,2009-01-26,1st,DJ Hussey,19,,CL White,11,Australia,South Africa,146,Australia,Adelaide Oval,5,South Africa
+186,29.6,1,J Botha,2009-01-26,1st,CL White,11,,DJ Hussey,20,Australia,South Africa,147,Australia,Adelaide Oval,5,South Africa
+187,30.1,4,JA Morkel,2009-01-26,1st,CL White,11,,DJ Hussey,24,Australia,South Africa,151,Australia,Adelaide Oval,5,South Africa
+188,30.2,0,JA Morkel,2009-01-26,1st,CL White,11,,DJ Hussey,24,Australia,South Africa,151,Australia,Adelaide Oval,5,South Africa
+189,30.3,0,JA Morkel,2009-01-26,1st,CL White,11,DJ Hussey,DJ Hussey,24,Australia,South Africa,151,Australia,Adelaide Oval,6,South Africa
+190,30.4,1,JA Morkel,2009-01-26,1st,CL White,11,,JR Hopes,1,Australia,South Africa,152,Australia,Adelaide Oval,6,South Africa
+191,30.5,0,JA Morkel,2009-01-26,1st,JR Hopes,1,,CL White,11,Australia,South Africa,152,Australia,Adelaide Oval,6,South Africa
+192,30.6,0,JA Morkel,2009-01-26,1st,JR Hopes,1,,CL White,11,Australia,South Africa,152,Australia,Adelaide Oval,6,South Africa
+193,31.1,0,J Botha,2009-01-26,1st,CL White,11,,JR Hopes,1,Australia,South Africa,152,Australia,Adelaide Oval,6,South Africa
+194,31.2,0,J Botha,2009-01-26,1st,CL White,11,,JR Hopes,1,Australia,South Africa,152,Australia,Adelaide Oval,6,South Africa
+195,31.3,1,J Botha,2009-01-26,1st,CL White,11,,JR Hopes,2,Australia,South Africa,153,Australia,Adelaide Oval,6,South Africa
+196,31.4,1,J Botha,2009-01-26,1st,JR Hopes,2,,CL White,12,Australia,South Africa,154,Australia,Adelaide Oval,6,South Africa
+197,31.5,0,J Botha,2009-01-26,1st,CL White,12,,JR Hopes,2,Australia,South Africa,154,Australia,Adelaide Oval,6,South Africa
+198,31.6,0,J Botha,2009-01-26,1st,CL White,12,,JR Hopes,2,Australia,South Africa,154,Australia,Adelaide Oval,6,South Africa
+199,32.1,0,JP Duminy,2009-01-26,1st,JR Hopes,2,,CL White,12,Australia,South Africa,154,Australia,Adelaide Oval,6,South Africa
+200,32.2,1,JP Duminy,2009-01-26,1st,JR Hopes,2,,CL White,13,Australia,South Africa,155,Australia,Adelaide Oval,6,South Africa
+201,32.3,3,JP Duminy,2009-01-26,1st,CL White,13,,JR Hopes,5,Australia,South Africa,158,Australia,Adelaide Oval,6,South Africa
+202,32.4,0,JP Duminy,2009-01-26,1st,JR Hopes,5,,CL White,13,Australia,South Africa,158,Australia,Adelaide Oval,6,South Africa
+203,32.5,0,JP Duminy,2009-01-26,1st,JR Hopes,5,,CL White,13,Australia,South Africa,158,Australia,Adelaide Oval,6,South Africa
+204,32.6,0,JP Duminy,2009-01-26,1st,JR Hopes,5,,CL White,13,Australia,South Africa,158,Australia,Adelaide Oval,6,South Africa
+205,33.1,1,J Botha,2009-01-26,1st,CL White,13,,JR Hopes,6,Australia,South Africa,159,Australia,Adelaide Oval,6,South Africa
+206,33.2,0,J Botha,2009-01-26,1st,JR Hopes,6,,CL White,13,Australia,South Africa,159,Australia,Adelaide Oval,6,South Africa
+207,33.3,2,J Botha,2009-01-26,1st,JR Hopes,6,,CL White,15,Australia,South Africa,161,Australia,Adelaide Oval,6,South Africa
+208,33.4,0,J Botha,2009-01-26,1st,JR Hopes,6,,CL White,15,Australia,South Africa,161,Australia,Adelaide Oval,6,South Africa
+209,33.5,1,J Botha,2009-01-26,1st,JR Hopes,6,,CL White,16,Australia,South Africa,162,Australia,Adelaide Oval,6,South Africa
+210,33.6,0,J Botha,2009-01-26,1st,CL White,16,,JR Hopes,6,Australia,South Africa,162,Australia,Adelaide Oval,6,South Africa
+211,34.1,0,JP Duminy,2009-01-26,1st,JR Hopes,6,,CL White,16,Australia,South Africa,162,Australia,Adelaide Oval,6,South Africa
+212,34.2,0,JP Duminy,2009-01-26,1st,JR Hopes,6,,CL White,16,Australia,South Africa,162,Australia,Adelaide Oval,6,South Africa
+213,34.3,1,JP Duminy,2009-01-26,1st,JR Hopes,6,,CL White,17,Australia,South Africa,163,Australia,Adelaide Oval,6,South Africa
+214,34.4,1,JP Duminy,2009-01-26,1st,CL White,17,,JR Hopes,7,Australia,South Africa,164,Australia,Adelaide Oval,6,South Africa
+215,34.5,0,JP Duminy,2009-01-26,1st,JR Hopes,7,,CL White,17,Australia,South Africa,164,Australia,Adelaide Oval,6,South Africa
+216,34.6,0,JP Duminy,2009-01-26,1st,JR Hopes,7,,CL White,17,Australia,South Africa,164,Australia,Adelaide Oval,6,South Africa
+217,35.1,1,M Morkel,2009-01-26,1st,CL White,17,,JR Hopes,8,Australia,South Africa,165,Australia,Adelaide Oval,6,South Africa
+218,35.2,1,M Morkel,2009-01-26,1st,JR Hopes,8,,CL White,18,Australia,South Africa,166,Australia,Adelaide Oval,6,South Africa
+219,35.3,1,M Morkel,2009-01-26,1st,CL White,18,,JR Hopes,9,Australia,South Africa,167,Australia,Adelaide Oval,6,South Africa
+220,35.4,0,M Morkel,2009-01-26,1st,JR Hopes,9,,CL White,18,Australia,South Africa,167,Australia,Adelaide Oval,6,South Africa
+221,35.5,0,M Morkel,2009-01-26,1st,JR Hopes,9,,CL White,18,Australia,South Africa,167,Australia,Adelaide Oval,6,South Africa
+222,35.6,0,M Morkel,2009-01-26,1st,JR Hopes,9,,CL White,18,Australia,South Africa,167,Australia,Adelaide Oval,6,South Africa
+223,36.1,0,JP Duminy,2009-01-26,1st,CL White,18,,JR Hopes,9,Australia,South Africa,167,Australia,Adelaide Oval,6,South Africa
+224,36.2,1,JP Duminy,2009-01-26,1st,CL White,18,,JR Hopes,10,Australia,South Africa,168,Australia,Adelaide Oval,6,South Africa
+225,36.3,1,JP Duminy,2009-01-26,1st,JR Hopes,10,,CL White,19,Australia,South Africa,169,Australia,Adelaide Oval,6,South Africa
+226,36.4,0,JP Duminy,2009-01-26,1st,CL White,19,,JR Hopes,10,Australia,South Africa,169,Australia,Adelaide Oval,6,South Africa
+227,36.5,1,JP Duminy,2009-01-26,1st,CL White,19,,JR Hopes,11,Australia,South Africa,170,Australia,Adelaide Oval,6,South Africa
+228,36.6,6,JP Duminy,2009-01-26,1st,JR Hopes,11,,CL White,25,Australia,South Africa,176,Australia,Adelaide Oval,6,South Africa
+229,37.1,0,M Morkel,2009-01-26,1st,CL White,25,,JR Hopes,11,Australia,South Africa,176,Australia,Adelaide Oval,6,South Africa
+230,37.2,1,M Morkel,2009-01-26,1st,CL White,25,,JR Hopes,12,Australia,South Africa,177,Australia,Adelaide Oval,6,South Africa
+231,37.3,1,M Morkel,2009-01-26,1st,JR Hopes,12,,CL White,26,Australia,South Africa,178,Australia,Adelaide Oval,6,South Africa
+232,37.4,0,M Morkel,2009-01-26,1st,CL White,26,,JR Hopes,12,Australia,South Africa,178,Australia,Adelaide Oval,6,South Africa
+233,37.5,0,M Morkel,2009-01-26,1st,CL White,26,,JR Hopes,12,Australia,South Africa,178,Australia,Adelaide Oval,6,South Africa
+234,37.6,0,M Morkel,2009-01-26,1st,CL White,26,,JR Hopes,12,Australia,South Africa,178,Australia,Adelaide Oval,6,South Africa
+235,38.1,0,DW Steyn,2009-01-26,1st,JR Hopes,12,,CL White,26,Australia,South Africa,178,Australia,Adelaide Oval,6,South Africa
+236,38.2,0,DW Steyn,2009-01-26,1st,JR Hopes,12,,CL White,26,Australia,South Africa,178,Australia,Adelaide Oval,6,South Africa
+237,38.3,1,DW Steyn,2009-01-26,1st,JR Hopes,12,,CL White,27,Australia,South Africa,179,Australia,Adelaide Oval,6,South Africa
+238,38.4,2,DW Steyn,2009-01-26,1st,CL White,27,,JR Hopes,14,Australia,South Africa,181,Australia,Adelaide Oval,6,South Africa
+239,38.5,0,DW Steyn,2009-01-26,1st,CL White,27,,JR Hopes,14,Australia,South Africa,181,Australia,Adelaide Oval,6,South Africa
+240,38.6,1,DW Steyn,2009-01-26,1st,CL White,27,,JR Hopes,15,Australia,South Africa,182,Australia,Adelaide Oval,6,South Africa
+241,39.1,1,M Morkel,2009-01-26,1st,CL White,27,,JR Hopes,16,Australia,South Africa,183,Australia,Adelaide Oval,6,South Africa
+242,39.2,1,M Morkel,2009-01-26,1st,JR Hopes,16,,CL White,28,Australia,South Africa,184,Australia,Adelaide Oval,6,South Africa
+243,39.3,1,M Morkel,2009-01-26,1st,CL White,28,,JR Hopes,17,Australia,South Africa,185,Australia,Adelaide Oval,6,South Africa
+244,39.4,1,M Morkel,2009-01-26,1st,JR Hopes,17,,CL White,29,Australia,South Africa,186,Australia,Adelaide Oval,6,South Africa
+245,39.5,1,M Morkel,2009-01-26,1st,CL White,29,,JR Hopes,18,Australia,South Africa,187,Australia,Adelaide Oval,6,South Africa
+246,39.6,1,M Morkel,2009-01-26,1st,JR Hopes,18,,CL White,30,Australia,South Africa,188,Australia,Adelaide Oval,6,South Africa
+247,40.1,0,DW Steyn,2009-01-26,1st,JR Hopes,18,CL White,CL White,30,Australia,South Africa,188,Australia,Adelaide Oval,7,South Africa
+248,40.2,0,DW Steyn,2009-01-26,1st,JR Hopes,18,,MG Johnson,0,Australia,South Africa,188,Australia,Adelaide Oval,7,South Africa
+249,40.3,0,DW Steyn,2009-01-26,1st,JR Hopes,18,,MG Johnson,0,Australia,South Africa,188,Australia,Adelaide Oval,7,South Africa
+250,40.4,0,DW Steyn,2009-01-26,1st,JR Hopes,18,,MG Johnson,0,Australia,South Africa,188,Australia,Adelaide Oval,7,South Africa
+251,40.5,0,DW Steyn,2009-01-26,1st,JR Hopes,18,,MG Johnson,0,Australia,South Africa,188,Australia,Adelaide Oval,7,South Africa
+252,40.6,0,DW Steyn,2009-01-26,1st,JR Hopes,18,,MG Johnson,0,Australia,South Africa,189,Australia,Adelaide Oval,7,South Africa
+253,41.1,0,M Ntini,2009-01-26,1st,JR Hopes,18,,MG Johnson,0,Australia,South Africa,189,Australia,Adelaide Oval,7,South Africa
+254,41.2,0,M Ntini,2009-01-26,1st,JR Hopes,18,MG Johnson,MG Johnson,0,Australia,South Africa,189,Australia,Adelaide Oval,8,South Africa
+255,41.3,0,M Ntini,2009-01-26,1st,JR Hopes,18,,BW Hilfenhaus,0,Australia,South Africa,189,Australia,Adelaide Oval,8,South Africa
+256,41.4,0,M Ntini,2009-01-26,1st,JR Hopes,18,,BW Hilfenhaus,0,Australia,South Africa,189,Australia,Adelaide Oval,8,South Africa
+257,41.5,0,M Ntini,2009-01-26,1st,JR Hopes,18,,BW Hilfenhaus,0,Australia,South Africa,189,Australia,Adelaide Oval,8,South Africa
+258,41.6,0,M Ntini,2009-01-26,1st,JR Hopes,18,,BW Hilfenhaus,0,Australia,South Africa,189,Australia,Adelaide Oval,8,South Africa
+259,42.1,2,DW Steyn,2009-01-26,1st,BW Hilfenhaus,0,,JR Hopes,20,Australia,South Africa,191,Australia,Adelaide Oval,8,South Africa
+260,42.2,1,DW Steyn,2009-01-26,1st,BW Hilfenhaus,0,,JR Hopes,21,Australia,South Africa,192,Australia,Adelaide Oval,8,South Africa
+261,42.3,2,DW Steyn,2009-01-26,1st,BW Hilfenhaus,0,,JR Hopes,23,Australia,South Africa,194,Australia,Adelaide Oval,8,South Africa
+262,42.4,0,DW Steyn,2009-01-26,1st,BW Hilfenhaus,0,,JR Hopes,23,Australia,South Africa,194,Australia,Adelaide Oval,8,South Africa
+263,42.5,0,DW Steyn,2009-01-26,1st,BW Hilfenhaus,0,,JR Hopes,23,Australia,South Africa,194,Australia,Adelaide Oval,8,South Africa
+264,42.6,0,DW Steyn,2009-01-26,1st,BW Hilfenhaus,0,,JR Hopes,23,Australia,South Africa,194,Australia,Adelaide Oval,8,South Africa
+265,43.1,0,M Ntini,2009-01-26,1st,JR Hopes,23,,BW Hilfenhaus,0,Australia,South Africa,194,Australia,Adelaide Oval,8,South Africa
+266,43.2,0,M Ntini,2009-01-26,1st,JR Hopes,23,,BW Hilfenhaus,0,Australia,South Africa,194,Australia,Adelaide Oval,8,South Africa
+267,43.3,1,M Ntini,2009-01-26,1st,JR Hopes,23,,BW Hilfenhaus,1,Australia,South Africa,195,Australia,Adelaide Oval,8,South Africa
+268,43.4,1,M Ntini,2009-01-26,1st,BW Hilfenhaus,1,,JR Hopes,24,Australia,South Africa,196,Australia,Adelaide Oval,8,South Africa
+269,43.5,0,M Ntini,2009-01-26,1st,JR Hopes,24,,BW Hilfenhaus,1,Australia,South Africa,196,Australia,Adelaide Oval,8,South Africa
+270,43.6,0,M Ntini,2009-01-26,1st,JR Hopes,24,,BW Hilfenhaus,1,Australia,South Africa,196,Australia,Adelaide Oval,8,South Africa
+271,44.1,1,DW Steyn,2009-01-26,1st,BW Hilfenhaus,1,,JR Hopes,25,Australia,South Africa,197,Australia,Adelaide Oval,8,South Africa
+272,44.2,1,DW Steyn,2009-01-26,1st,JR Hopes,25,,BW Hilfenhaus,2,Australia,South Africa,198,Australia,Adelaide Oval,8,South Africa
+273,44.3,0,DW Steyn,2009-01-26,1st,BW Hilfenhaus,2,,JR Hopes,25,Australia,South Africa,198,Australia,Adelaide Oval,8,South Africa
+274,44.4,6,DW Steyn,2009-01-26,1st,BW Hilfenhaus,2,,JR Hopes,31,Australia,South Africa,204,Australia,Adelaide Oval,8,South Africa
+275,44.5,4,DW Steyn,2009-01-26,1st,BW Hilfenhaus,2,,JR Hopes,35,Australia,South Africa,208,Australia,Adelaide Oval,8,South Africa
+276,44.6,1,DW Steyn,2009-01-26,1st,BW Hilfenhaus,2,,JR Hopes,36,Australia,South Africa,209,Australia,Adelaide Oval,8,South Africa
+277,45.1,1,M Ntini,2009-01-26,1st,BW Hilfenhaus,2,,JR Hopes,37,Australia,South Africa,210,Australia,Adelaide Oval,8,South Africa
+278,45.2,1,M Ntini,2009-01-26,1st,JR Hopes,37,,BW Hilfenhaus,3,Australia,South Africa,211,Australia,Adelaide Oval,8,South Africa
+279,45.3,0,M Ntini,2009-01-26,1st,BW Hilfenhaus,3,,JR Hopes,37,Australia,South Africa,211,Australia,Adelaide Oval,8,South Africa
+280,45.4,4,M Ntini,2009-01-26,1st,BW Hilfenhaus,3,,JR Hopes,41,Australia,South Africa,215,Australia,Adelaide Oval,8,South Africa
+281,45.5,1,M Ntini,2009-01-26,1st,BW Hilfenhaus,3,,JR Hopes,42,Australia,South Africa,216,Australia,Adelaide Oval,8,South Africa
+282,45.6,0,M Ntini,2009-01-26,1st,JR Hopes,42,,BW Hilfenhaus,3,Australia,South Africa,216,Australia,Adelaide Oval,8,South Africa
+283,46.1,0,DW Steyn,2009-01-26,1st,BW Hilfenhaus,3,JR Hopes,JR Hopes,42,Australia,South Africa,216,Australia,Adelaide Oval,9,South Africa
+284,46.2,1,DW Steyn,2009-01-26,1st,BW Hilfenhaus,3,,SW Tait,1,Australia,South Africa,217,Australia,Adelaide Oval,9,South Africa
+285,46.3,0,DW Steyn,2009-01-26,1st,SW Tait,1,,BW Hilfenhaus,3,Australia,South Africa,217,Australia,Adelaide Oval,9,South Africa
+286,46.4,0,DW Steyn,2009-01-26,1st,SW Tait,1,,BW Hilfenhaus,3,Australia,South Africa,217,Australia,Adelaide Oval,9,South Africa
+287,46.5,2,DW Steyn,2009-01-26,1st,SW Tait,1,,BW Hilfenhaus,5,Australia,South Africa,219,Australia,Adelaide Oval,9,South Africa
+288,46.6,0,DW Steyn,2009-01-26,1st,SW Tait,1,,BW Hilfenhaus,5,Australia,South Africa,219,Australia,Adelaide Oval,9,South Africa
+289,47.1,0,M Morkel,2009-01-26,1st,BW Hilfenhaus,5,,SW Tait,1,Australia,South Africa,219,Australia,Adelaide Oval,9,South Africa
+290,47.2,0,M Morkel,2009-01-26,1st,BW Hilfenhaus,5,,SW Tait,1,Australia,South Africa,219,Australia,Adelaide Oval,9,South Africa
+291,47.3,0,M Morkel,2009-01-26,1st,BW Hilfenhaus,5,,SW Tait,1,Australia,South Africa,219,Australia,Adelaide Oval,9,South Africa
+292,47.4,0,M Morkel,2009-01-26,1st,BW Hilfenhaus,5,,SW Tait,1,Australia,South Africa,219,Australia,Adelaide Oval,9,South Africa
+293,47.5,3,M Morkel,2009-01-26,1st,BW Hilfenhaus,5,,SW Tait,4,Australia,South Africa,222,Australia,Adelaide Oval,9,South Africa
+294,47.6,0,M Morkel,2009-01-26,1st,SW Tait,4,BW Hilfenhaus,BW Hilfenhaus,5,Australia,South Africa,222,Australia,Adelaide Oval,10,South Africa
+295,0.1,3,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,3,Australia,Adelaide Oval,0,South Africa
+296,0.2,0,SW Tait,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,4,Australia,Adelaide Oval,0,South Africa
+297,0.3,1,SW Tait,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,5,Australia,Adelaide Oval,0,South Africa
+298,0.4,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,5,Australia,Adelaide Oval,0,South Africa
+299,0.5,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,5,Australia,Adelaide Oval,0,South Africa
+300,0.6,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,5,Australia,Adelaide Oval,0,South Africa
+301,0.7,4,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+302,1.1,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+303,1.2,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,9,Australia,Adelaide Oval,0,South Africa
+304,1.3,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,13,Australia,Adelaide Oval,0,South Africa
+305,1.4,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,17,Australia,Adelaide Oval,0,South Africa
+306,1.5,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,17,Australia,Adelaide Oval,0,South Africa
+307,1.6,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,17,Australia,Adelaide Oval,0,South Africa
+308,2.1,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,18,Australia,Adelaide Oval,0,South Africa
+309,2.2,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,18,Australia,Adelaide Oval,0,South Africa
+310,2.3,2,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,20,Australia,Adelaide Oval,0,South Africa
+311,2.4,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,20,Australia,Adelaide Oval,0,South Africa
+312,2.5,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,20,Australia,Adelaide Oval,0,South Africa
+313,2.6,2,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,22,Australia,Adelaide Oval,0,South Africa
+314,2.7,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,22,Australia,Adelaide Oval,0,South Africa
+315,3.1,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,26,Australia,Adelaide Oval,0,South Africa
+316,3.2,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,26,Australia,Adelaide Oval,0,South Africa
+317,3.3,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+318,3.4,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+319,3.5,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+320,3.6,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+321,4.1,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+322,4.2,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+323,4.3,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+324,4.4,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+325,4.5,0,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,30,Australia,Adelaide Oval,0,South Africa
+326,4.6,1,SW Tait,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,31,Australia,Adelaide Oval,0,South Africa
+327,5.1,0,BW Hilfenhaus,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,31,Australia,Adelaide Oval,0,South Africa
+328,5.2,0,BW Hilfenhaus,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,31,Australia,Adelaide Oval,0,South Africa
+329,5.3,0,BW Hilfenhaus,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,31,Australia,Adelaide Oval,0,South Africa
+330,5.4,1,BW Hilfenhaus,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,32,Australia,Adelaide Oval,0,South Africa
+331,5.5,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,36,Australia,Adelaide Oval,0,South Africa
+332,5.6,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,40,Australia,Adelaide Oval,0,South Africa
+333,6.1,1,MG Johnson,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,41,Australia,Adelaide Oval,0,South Africa
+334,6.2,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,41,Australia,Adelaide Oval,0,South Africa
+335,6.3,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,41,Australia,Adelaide Oval,0,South Africa
+336,6.4,4,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,45,Australia,Adelaide Oval,0,South Africa
+337,6.5,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,46,Australia,Adelaide Oval,0,South Africa
+338,6.6,0,MG Johnson,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,46,Australia,Adelaide Oval,0,South Africa
+339,7.1,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,48,Australia,Adelaide Oval,0,South Africa
+340,7.2,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,48,Australia,Adelaide Oval,0,South Africa
+341,7.3,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,48,Australia,Adelaide Oval,0,South Africa
+342,7.4,1,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,49,Australia,Adelaide Oval,0,South Africa
+343,7.5,0,BW Hilfenhaus,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,49,Australia,Adelaide Oval,0,South Africa
+344,7.6,0,BW Hilfenhaus,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,49,Australia,Adelaide Oval,0,South Africa
+345,8.1,4,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,53,Australia,Adelaide Oval,0,South Africa
+346,8.2,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,53,Australia,Adelaide Oval,0,South Africa
+347,8.3,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,54,Australia,Adelaide Oval,0,South Africa
+348,8.4,1,MG Johnson,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,55,Australia,Adelaide Oval,0,South Africa
+349,8.5,2,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,57,Australia,Adelaide Oval,0,South Africa
+350,8.6,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,57,Australia,Adelaide Oval,0,South Africa
+351,9.1,1,BW Hilfenhaus,2009-01-26,2nd,HH Gibbs,0,,HM Amla,0,Australia,South Africa,58,Australia,Adelaide Oval,0,South Africa
+352,9.2,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,HH Gibbs,0,Australia,South Africa,58,Australia,Adelaide Oval,1,South Africa
+353,9.3,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,58,Australia,Adelaide Oval,1,South Africa
+354,9.4,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,62,Australia,Adelaide Oval,1,South Africa
+355,9.5,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,62,Australia,Adelaide Oval,1,South Africa
+356,9.6,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,62,Australia,Adelaide Oval,1,South Africa
+357,10.1,3,MG Johnson,2009-01-26,2nd,JH Kallis,0,,HM Amla,0,Australia,South Africa,65,Australia,Adelaide Oval,1,South Africa
+358,10.2,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,65,Australia,Adelaide Oval,1,South Africa
+359,10.3,4,MG Johnson,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,69,Australia,Adelaide Oval,1,South Africa
+360,10.4,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,69,Australia,Adelaide Oval,1,South Africa
+361,10.5,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,69,Australia,Adelaide Oval,1,South Africa
+362,10.6,4,MG Johnson,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,73,Australia,Adelaide Oval,1,South Africa
+363,11.1,0,SW Tait,2009-01-26,2nd,JH Kallis,0,,HM Amla,0,Australia,South Africa,73,Australia,Adelaide Oval,1,South Africa
+364,11.2,0,SW Tait,2009-01-26,2nd,JH Kallis,0,,HM Amla,0,Australia,South Africa,73,Australia,Adelaide Oval,1,South Africa
+365,11.3,0,SW Tait,2009-01-26,2nd,JH Kallis,0,,HM Amla,0,Australia,South Africa,73,Australia,Adelaide Oval,1,South Africa
+366,11.4,4,SW Tait,2009-01-26,2nd,JH Kallis,0,,HM Amla,0,Australia,South Africa,77,Australia,Adelaide Oval,1,South Africa
+367,11.5,1,SW Tait,2009-01-26,2nd,JH Kallis,0,,HM Amla,0,Australia,South Africa,78,Australia,Adelaide Oval,1,South Africa
+368,11.6,1,SW Tait,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,79,Australia,Adelaide Oval,1,South Africa
+369,12.1,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,79,Australia,Adelaide Oval,1,South Africa
+370,12.2,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,JH Kallis,0,Australia,South Africa,79,Australia,Adelaide Oval,2,South Africa
+371,12.3,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,79,Australia,Adelaide Oval,2,South Africa
+372,12.4,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,80,Australia,Adelaide Oval,2,South Africa
+373,12.5,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,80,Australia,Adelaide Oval,2,South Africa
+374,12.6,4,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,84,Australia,Adelaide Oval,2,South Africa
+375,13.1,4,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,88,Australia,Adelaide Oval,2,South Africa
+376,13.2,0,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,88,Australia,Adelaide Oval,2,South Africa
+377,13.3,1,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,89,Australia,Adelaide Oval,2,South Africa
+378,13.4,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,89,Australia,Adelaide Oval,2,South Africa
+379,13.5,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,89,Australia,Adelaide Oval,2,South Africa
+380,13.6,4,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,93,Australia,Adelaide Oval,2,South Africa
+381,14.1,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,93,Australia,Adelaide Oval,2,South Africa
+382,14.2,2,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,95,Australia,Adelaide Oval,2,South Africa
+383,14.3,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,95,Australia,Adelaide Oval,2,South Africa
+384,14.4,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,95,Australia,Adelaide Oval,2,South Africa
+385,14.5,4,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,99,Australia,Adelaide Oval,2,South Africa
+386,14.6,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,100,Australia,Adelaide Oval,2,South Africa
+387,15.1,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,101,Australia,Adelaide Oval,2,South Africa
+388,15.2,2,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,103,Australia,Adelaide Oval,2,South Africa
+389,15.3,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,104,Australia,Adelaide Oval,2,South Africa
+390,15.4,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,105,Australia,Adelaide Oval,2,South Africa
+391,15.5,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,106,Australia,Adelaide Oval,2,South Africa
+392,15.6,0,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,106,Australia,Adelaide Oval,2,South Africa
+393,15.7,0,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,106,Australia,Adelaide Oval,2,South Africa
+394,16.1,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,106,Australia,Adelaide Oval,2,South Africa
+395,16.2,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+396,16.3,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+397,16.4,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+398,16.5,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+399,16.6,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+400,17.1,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+401,17.2,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,107,Australia,Adelaide Oval,2,South Africa
+402,17.3,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,108,Australia,Adelaide Oval,2,South Africa
+403,17.4,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,109,Australia,Adelaide Oval,2,South Africa
+404,17.5,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,109,Australia,Adelaide Oval,2,South Africa
+405,17.6,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,109,Australia,Adelaide Oval,2,South Africa
+406,18.1,1,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,110,Australia,Adelaide Oval,2,South Africa
+407,18.2,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,110,Australia,Adelaide Oval,2,South Africa
+408,18.3,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,111,Australia,Adelaide Oval,2,South Africa
+409,18.4,1,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,112,Australia,Adelaide Oval,2,South Africa
+410,18.5,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,112,Australia,Adelaide Oval,2,South Africa
+411,18.6,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,112,Australia,Adelaide Oval,2,South Africa
+412,19.1,0,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,112,Australia,Adelaide Oval,2,South Africa
+413,19.2,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,113,Australia,Adelaide Oval,2,South Africa
+414,19.3,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,113,Australia,Adelaide Oval,2,South Africa
+415,19.4,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,114,Australia,Adelaide Oval,2,South Africa
+416,19.5,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,115,Australia,Adelaide Oval,2,South Africa
+417,19.6,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,115,Australia,Adelaide Oval,2,South Africa
+418,20.1,1,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,116,Australia,Adelaide Oval,2,South Africa
+419,20.2,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,117,Australia,Adelaide Oval,2,South Africa
+420,20.3,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,117,Australia,Adelaide Oval,2,South Africa
+421,20.4,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,117,Australia,Adelaide Oval,2,South Africa
+422,20.5,1,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,118,Australia,Adelaide Oval,2,South Africa
+423,20.6,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,119,Australia,Adelaide Oval,2,South Africa
+424,21.1,1,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,120,Australia,Adelaide Oval,2,South Africa
+425,21.2,1,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,121,Australia,Adelaide Oval,2,South Africa
+426,21.3,0,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,121,Australia,Adelaide Oval,2,South Africa
+427,21.4,1,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,122,Australia,Adelaide Oval,2,South Africa
+428,21.5,1,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,123,Australia,Adelaide Oval,2,South Africa
+429,21.6,2,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,125,Australia,Adelaide Oval,2,South Africa
+430,22.1,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,125,Australia,Adelaide Oval,2,South Africa
+431,22.2,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,125,Australia,Adelaide Oval,2,South Africa
+432,22.3,1,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,126,Australia,Adelaide Oval,2,South Africa
+433,22.4,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,126,Australia,Adelaide Oval,2,South Africa
+434,22.5,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,126,Australia,Adelaide Oval,2,South Africa
+435,22.6,0,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,126,Australia,Adelaide Oval,2,South Africa
+436,23.1,0,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,126,Australia,Adelaide Oval,2,South Africa
+437,23.2,0,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,126,Australia,Adelaide Oval,2,South Africa
+438,23.3,0,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,126,Australia,Adelaide Oval,2,South Africa
+439,23.4,1,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,127,Australia,Adelaide Oval,2,South Africa
+440,23.5,0,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,127,Australia,Adelaide Oval,2,South Africa
+441,23.6,1,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,128,Australia,Adelaide Oval,2,South Africa
+442,24.1,2,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,130,Australia,Adelaide Oval,2,South Africa
+443,24.2,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,131,Australia,Adelaide Oval,2,South Africa
+444,24.3,1,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,132,Australia,Adelaide Oval,2,South Africa
+445,24.4,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,133,Australia,Adelaide Oval,2,South Africa
+446,24.5,0,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,133,Australia,Adelaide Oval,2,South Africa
+447,24.6,2,JR Hopes,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,135,Australia,Adelaide Oval,2,South Africa
+448,25.1,1,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,136,Australia,Adelaide Oval,2,South Africa
+449,25.2,0,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,136,Australia,Adelaide Oval,2,South Africa
+450,25.3,0,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,136,Australia,Adelaide Oval,2,South Africa
+451,25.4,3,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,139,Australia,Adelaide Oval,2,South Africa
+452,25.5,1,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,140,Australia,Adelaide Oval,2,South Africa
+453,25.6,1,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,141,Australia,Adelaide Oval,2,South Africa
+454,26.1,2,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,143,Australia,Adelaide Oval,2,South Africa
+455,26.2,0,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,143,Australia,Adelaide Oval,2,South Africa
+456,26.3,1,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,144,Australia,Adelaide Oval,2,South Africa
+457,26.4,1,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,145,Australia,Adelaide Oval,2,South Africa
+458,26.5,1,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,146,Australia,Adelaide Oval,2,South Africa
+459,26.6,3,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,149,Australia,Adelaide Oval,2,South Africa
+460,27.1,1,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,150,Australia,Adelaide Oval,2,South Africa
+461,27.2,1,DJ Hussey,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,151,Australia,Adelaide Oval,2,South Africa
+462,27.3,2,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,153,Australia,Adelaide Oval,2,South Africa
+463,27.4,4,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,157,Australia,Adelaide Oval,2,South Africa
+464,27.5,6,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,163,Australia,Adelaide Oval,2,South Africa
+465,27.6,1,DJ Hussey,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,164,Australia,Adelaide Oval,2,South Africa
+466,28.1,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,164,Australia,Adelaide Oval,2,South Africa
+467,28.2,1,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,165,Australia,Adelaide Oval,2,South Africa
+468,28.3,1,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,166,Australia,Adelaide Oval,2,South Africa
+469,28.4,2,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,168,Australia,Adelaide Oval,2,South Africa
+470,28.5,4,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,172,Australia,Adelaide Oval,2,South Africa
+471,28.6,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,172,Australia,Adelaide Oval,2,South Africa
+472,29.1,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,173,Australia,Adelaide Oval,2,South Africa
+473,29.2,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,174,Australia,Adelaide Oval,2,South Africa
+474,29.3,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,175,Australia,Adelaide Oval,2,South Africa
+475,29.4,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,175,Australia,Adelaide Oval,2,South Africa
+476,29.5,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,175,Australia,Adelaide Oval,2,South Africa
+477,29.6,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,175,Australia,Adelaide Oval,2,South Africa
+478,30.1,1,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,176,Australia,Adelaide Oval,2,South Africa
+479,30.2,0,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,176,Australia,Adelaide Oval,2,South Africa
+480,30.3,0,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,176,Australia,Adelaide Oval,2,South Africa
+481,30.4,4,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,180,Australia,Adelaide Oval,2,South Africa
+482,30.5,1,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,181,Australia,Adelaide Oval,2,South Africa
+483,30.6,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,181,Australia,Adelaide Oval,2,South Africa
+484,31.1,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,182,Australia,Adelaide Oval,2,South Africa
+485,31.2,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,183,Australia,Adelaide Oval,2,South Africa
+486,31.3,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,184,Australia,Adelaide Oval,2,South Africa
+487,31.4,0,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,185,Australia,Adelaide Oval,2,South Africa
+488,31.5,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,186,Australia,Adelaide Oval,2,South Africa
+489,31.6,4,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,190,Australia,Adelaide Oval,2,South Africa
+490,31.7,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,191,Australia,Adelaide Oval,2,South Africa
+491,32.1,1,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,192,Australia,Adelaide Oval,2,South Africa
+492,32.2,1,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,193,Australia,Adelaide Oval,2,South Africa
+493,32.3,0,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,193,Australia,Adelaide Oval,2,South Africa
+494,32.4,1,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,194,Australia,Adelaide Oval,2,South Africa
+495,32.5,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,194,Australia,Adelaide Oval,2,South Africa
+496,32.6,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,194,Australia,Adelaide Oval,2,South Africa
+497,33.1,2,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,196,Australia,Adelaide Oval,2,South Africa
+498,33.2,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,196,Australia,Adelaide Oval,2,South Africa
+499,33.3,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,197,Australia,Adelaide Oval,2,South Africa
+500,33.4,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,198,Australia,Adelaide Oval,2,South Africa
+501,33.5,0,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,198,Australia,Adelaide Oval,2,South Africa
+502,33.6,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,199,Australia,Adelaide Oval,2,South Africa
+503,34.1,1,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,200,Australia,Adelaide Oval,2,South Africa
+504,34.2,4,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,204,Australia,Adelaide Oval,2,South Africa
+505,34.3,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,204,Australia,Adelaide Oval,2,South Africa
+506,34.4,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,204,Australia,Adelaide Oval,2,South Africa
+507,34.5,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,204,Australia,Adelaide Oval,2,South Africa
+508,34.6,0,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,204,Australia,Adelaide Oval,2,South Africa
+509,35.1,1,MG Johnson,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,205,Australia,Adelaide Oval,2,South Africa
+510,35.2,4,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,209,Australia,Adelaide Oval,2,South Africa
+511,35.3,0,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,209,Australia,Adelaide Oval,2,South Africa
+512,35.4,0,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,209,Australia,Adelaide Oval,2,South Africa
+513,35.5,4,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,213,Australia,Adelaide Oval,2,South Africa
+514,35.6,1,MG Johnson,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,214,Australia,Adelaide Oval,2,South Africa
+515,36.1,1,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,215,Australia,Adelaide Oval,2,South Africa
+516,36.2,1,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,216,Australia,Adelaide Oval,2,South Africa
+517,36.3,1,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,217,Australia,Adelaide Oval,2,South Africa
+518,36.4,0,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,217,Australia,Adelaide Oval,2,South Africa
+519,36.5,1,SW Tait,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,218,Australia,Adelaide Oval,2,South Africa
+520,36.6,1,SW Tait,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,219,Australia,Adelaide Oval,2,South Africa
+521,37.1,0,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,220,Australia,Adelaide Oval,2,South Africa
+522,37.2,0,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,220,Australia,Adelaide Oval,2,South Africa
+523,37.3,0,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,221,Australia,Adelaide Oval,2,South Africa
+524,37.4,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,221,Australia,Adelaide Oval,2,South Africa
+525,37.5,0,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,221,Australia,Adelaide Oval,2,South Africa
+526,37.6,1,BW Hilfenhaus,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,222,Australia,Adelaide Oval,2,South Africa
+527,37.7,0,BW Hilfenhaus,2009-01-26,2nd,AB de Villiers,0,,HM Amla,0,Australia,South Africa,222,Australia,Adelaide Oval,2,South Africa
+528,38.1,1,JR Hopes,2009-01-26,2nd,HM Amla,0,,AB de Villiers,0,Australia,South Africa,223,Australia,Adelaide Oval,2,South Africa

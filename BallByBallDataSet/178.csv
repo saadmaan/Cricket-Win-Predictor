@@ -1,0 +1,614 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,V Sehwag,0,Africa XI,Asia XI,0,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+1,0.2,4,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,V Sehwag,4,Africa XI,Asia XI,4,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+2,0.3,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,V Sehwag,4,Africa XI,Asia XI,4,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+3,0.4,4,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,V Sehwag,8,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+4,0.5,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,V Sehwag,8,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+5,0.6,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,V Sehwag,8,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+6,1.1,0,PJ Ongondo,2007-06-10,1st,V Sehwag,8,,ST Jayasuriya,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+7,1.2,0,PJ Ongondo,2007-06-10,1st,V Sehwag,8,,ST Jayasuriya,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+8,1.3,0,PJ Ongondo,2007-06-10,1st,V Sehwag,8,,ST Jayasuriya,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+9,1.4,0,PJ Ongondo,2007-06-10,1st,V Sehwag,8,,ST Jayasuriya,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+10,1.5,0,PJ Ongondo,2007-06-10,1st,V Sehwag,8,,ST Jayasuriya,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+11,1.6,0,PJ Ongondo,2007-06-10,1st,V Sehwag,8,,ST Jayasuriya,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+12,2.1,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,V Sehwag,8,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+13,2.2,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,V Sehwag,V Sehwag,8,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+14,2.3,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,WU Tharanga,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+15,2.4,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,WU Tharanga,0,Africa XI,Asia XI,9,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+16,2.5,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,WU Tharanga,0,Africa XI,Asia XI,9,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+17,2.6,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,WU Tharanga,0,Africa XI,Asia XI,9,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+18,2.7,0,M Morkel,2007-06-10,1st,ST Jayasuriya,0,,WU Tharanga,0,Africa XI,Asia XI,9,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+19,3.1,1,PJ Ongondo,2007-06-10,1st,WU Tharanga,0,,ST Jayasuriya,1,Africa XI,Asia XI,10,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+20,3.2,0,PJ Ongondo,2007-06-10,1st,ST Jayasuriya,1,,WU Tharanga,0,Africa XI,Asia XI,10,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+21,3.3,1,PJ Ongondo,2007-06-10,1st,ST Jayasuriya,1,,WU Tharanga,1,Africa XI,Asia XI,11,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+22,3.4,0,PJ Ongondo,2007-06-10,1st,WU Tharanga,1,,ST Jayasuriya,1,Africa XI,Asia XI,11,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+23,3.5,0,PJ Ongondo,2007-06-10,1st,WU Tharanga,1,,ST Jayasuriya,1,Africa XI,Asia XI,11,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+24,3.6,6,PJ Ongondo,2007-06-10,1st,WU Tharanga,1,,ST Jayasuriya,7,Africa XI,Asia XI,17,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+25,4.1,1,M Morkel,2007-06-10,1st,ST Jayasuriya,7,,WU Tharanga,2,Africa XI,Asia XI,18,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+26,4.2,0,M Morkel,2007-06-10,1st,WU Tharanga,2,,ST Jayasuriya,7,Africa XI,Asia XI,19,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+27,4.3,6,M Morkel,2007-06-10,1st,WU Tharanga,2,,ST Jayasuriya,13,Africa XI,Asia XI,25,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+28,4.4,0,M Morkel,2007-06-10,1st,WU Tharanga,2,,ST Jayasuriya,13,Africa XI,Asia XI,25,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+29,4.5,0,M Morkel,2007-06-10,1st,WU Tharanga,2,,ST Jayasuriya,13,Africa XI,Asia XI,25,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+30,4.6,0,M Morkel,2007-06-10,1st,WU Tharanga,2,,ST Jayasuriya,13,Africa XI,Asia XI,25,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+31,4.7,0,M Morkel,2007-06-10,1st,WU Tharanga,2,,ST Jayasuriya,13,Africa XI,Asia XI,25,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+32,5.1,0,PJ Ongondo,2007-06-10,1st,ST Jayasuriya,13,,WU Tharanga,2,Africa XI,Asia XI,25,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+33,5.2,4,PJ Ongondo,2007-06-10,1st,ST Jayasuriya,13,,WU Tharanga,6,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+34,5.3,1,PJ Ongondo,2007-06-10,1st,ST Jayasuriya,13,,WU Tharanga,7,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+35,5.4,0,PJ Ongondo,2007-06-10,1st,WU Tharanga,7,,ST Jayasuriya,13,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+36,5.5,0,PJ Ongondo,2007-06-10,1st,WU Tharanga,7,ST Jayasuriya,ST Jayasuriya,13,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+37,5.6,0,PJ Ongondo,2007-06-10,1st,WU Tharanga,7,,Yuvraj Singh,0,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+38,6.1,0,M Morkel,2007-06-10,1st,Yuvraj Singh,0,,WU Tharanga,7,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+39,6.2,0,M Morkel,2007-06-10,1st,Yuvraj Singh,0,,WU Tharanga,7,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+40,6.3,0,M Morkel,2007-06-10,1st,Yuvraj Singh,0,,WU Tharanga,7,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+41,6.4,0,M Morkel,2007-06-10,1st,Yuvraj Singh,0,,WU Tharanga,7,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+42,6.5,1,M Morkel,2007-06-10,1st,Yuvraj Singh,0,,WU Tharanga,8,Africa XI,Asia XI,31,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+43,6.6,1,M Morkel,2007-06-10,1st,WU Tharanga,8,,Yuvraj Singh,1,Africa XI,Asia XI,32,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+44,7.1,0,PJ Ongondo,2007-06-10,1st,WU Tharanga,8,,Yuvraj Singh,1,Africa XI,Asia XI,32,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+45,7.2,0,PJ Ongondo,2007-06-10,1st,WU Tharanga,8,,Yuvraj Singh,1,Africa XI,Asia XI,32,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+46,7.3,4,PJ Ongondo,2007-06-10,1st,WU Tharanga,8,,Yuvraj Singh,5,Africa XI,Asia XI,36,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+47,7.4,2,PJ Ongondo,2007-06-10,1st,WU Tharanga,8,,Yuvraj Singh,7,Africa XI,Asia XI,38,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+48,7.5,1,PJ Ongondo,2007-06-10,1st,WU Tharanga,8,,Yuvraj Singh,8,Africa XI,Asia XI,39,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+49,7.6,1,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,8,,WU Tharanga,9,Africa XI,Asia XI,40,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+50,8.1,0,M Morkel,2007-06-10,1st,Yuvraj Singh,8,,WU Tharanga,9,Africa XI,Asia XI,40,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+51,8.2,1,M Morkel,2007-06-10,1st,Yuvraj Singh,8,,WU Tharanga,10,Africa XI,Asia XI,41,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+52,8.3,0,M Morkel,2007-06-10,1st,WU Tharanga,10,,Yuvraj Singh,8,Africa XI,Asia XI,41,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+53,8.4,0,M Morkel,2007-06-10,1st,WU Tharanga,10,,Yuvraj Singh,8,Africa XI,Asia XI,41,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+54,8.5,0,M Morkel,2007-06-10,1st,WU Tharanga,10,,Yuvraj Singh,8,Africa XI,Asia XI,41,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+55,8.6,4,M Morkel,2007-06-10,1st,WU Tharanga,10,,Yuvraj Singh,12,Africa XI,Asia XI,45,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+56,9.1,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,12,,WU Tharanga,10,Africa XI,Asia XI,45,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+57,9.2,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,12,,WU Tharanga,10,Africa XI,Asia XI,45,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+58,9.3,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,12,WU Tharanga,WU Tharanga,10,Africa XI,Asia XI,45,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+59,9.4,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,12,,Mohammad Yousuf,0,Africa XI,Asia XI,45,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+60,9.5,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,12,,Mohammad Yousuf,0,Africa XI,Asia XI,45,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+61,9.6,2,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,12,,Mohammad Yousuf,2,Africa XI,Asia XI,47,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+62,10.1,0,E Chigumbura,2007-06-10,1st,Mohammad Yousuf,2,,Yuvraj Singh,12,Africa XI,Asia XI,47,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+63,10.2,0,E Chigumbura,2007-06-10,1st,Mohammad Yousuf,2,,Yuvraj Singh,12,Africa XI,Asia XI,47,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+64,10.3,0,E Chigumbura,2007-06-10,1st,Mohammad Yousuf,2,,Yuvraj Singh,12,Africa XI,Asia XI,47,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+65,10.4,4,E Chigumbura,2007-06-10,1st,Mohammad Yousuf,2,,Yuvraj Singh,16,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+66,10.5,0,E Chigumbura,2007-06-10,1st,Mohammad Yousuf,2,,Yuvraj Singh,16,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+67,10.6,0,E Chigumbura,2007-06-10,1st,Mohammad Yousuf,2,,Yuvraj Singh,16,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+68,11.1,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,16,,Mohammad Yousuf,2,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+69,11.2,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,16,,Mohammad Yousuf,2,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+70,11.3,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,16,,Mohammad Yousuf,2,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+71,11.4,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,16,Mohammad Yousuf,Mohammad Yousuf,2,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+72,11.5,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,16,,DPMD Jayawardene,0,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+73,11.6,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,16,,DPMD Jayawardene,0,Africa XI,Asia XI,51,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+74,12.1,4,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,0,,Yuvraj Singh,20,Africa XI,Asia XI,55,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+75,12.2,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,0,,Yuvraj Singh,20,Africa XI,Asia XI,55,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+76,12.3,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,0,,Yuvraj Singh,20,Africa XI,Asia XI,55,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+77,12.4,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,0,,Yuvraj Singh,20,Africa XI,Asia XI,55,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+78,12.5,4,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,0,,Yuvraj Singh,24,Africa XI,Asia XI,59,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+79,12.6,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,0,,Yuvraj Singh,24,Africa XI,Asia XI,59,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+80,13.1,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,24,,DPMD Jayawardene,0,Africa XI,Asia XI,59,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+81,13.2,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,24,,DPMD Jayawardene,0,Africa XI,Asia XI,59,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+82,13.3,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,24,,DPMD Jayawardene,0,Africa XI,Asia XI,59,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+83,13.4,0,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,24,,DPMD Jayawardene,0,Africa XI,Asia XI,59,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+84,13.5,1,PJ Ongondo,2007-06-10,1st,Yuvraj Singh,24,,DPMD Jayawardene,1,Africa XI,Asia XI,60,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+85,13.6,0,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,24,Africa XI,Asia XI,61,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+86,13.7,1,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,25,Africa XI,Asia XI,62,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+87,14.1,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,25,Africa XI,Asia XI,62,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+88,14.2,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,25,Africa XI,Asia XI,62,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+89,14.3,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,25,Africa XI,Asia XI,62,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+90,14.4,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,25,Africa XI,Asia XI,62,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+91,14.5,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,25,Africa XI,Asia XI,62,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+92,14.6,4,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,1,,Yuvraj Singh,29,Africa XI,Asia XI,66,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+93,15.1,0,JM Kemp,2007-06-10,1st,Yuvraj Singh,29,,DPMD Jayawardene,1,Africa XI,Asia XI,66,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+94,15.2,1,JM Kemp,2007-06-10,1st,Yuvraj Singh,29,,DPMD Jayawardene,2,Africa XI,Asia XI,67,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+95,15.3,0,JM Kemp,2007-06-10,1st,DPMD Jayawardene,2,,Yuvraj Singh,29,Africa XI,Asia XI,67,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+96,15.4,1,JM Kemp,2007-06-10,1st,DPMD Jayawardene,2,,Yuvraj Singh,30,Africa XI,Asia XI,68,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+97,15.5,2,JM Kemp,2007-06-10,1st,Yuvraj Singh,30,,DPMD Jayawardene,4,Africa XI,Asia XI,70,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+98,15.6,0,JM Kemp,2007-06-10,1st,Yuvraj Singh,30,,DPMD Jayawardene,4,Africa XI,Asia XI,70,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+99,16.1,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,4,,Yuvraj Singh,30,Africa XI,Asia XI,70,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+100,16.2,1,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,4,,Yuvraj Singh,31,Africa XI,Asia XI,71,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+101,16.3,1,E Chigumbura,2007-06-10,1st,Yuvraj Singh,31,,DPMD Jayawardene,5,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+102,16.4,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,5,Yuvraj Singh,Yuvraj Singh,31,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+103,16.5,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,5,,MS Dhoni,0,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+104,16.6,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,5,,MS Dhoni,0,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+105,17.1,0,JM Kemp,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,5,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+106,17.2,0,JM Kemp,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,5,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+107,17.3,0,JM Kemp,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,5,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+108,17.4,4,JM Kemp,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,9,Africa XI,Asia XI,76,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+109,17.5,0,JM Kemp,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,9,Africa XI,Asia XI,76,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+110,17.6,1,JM Kemp,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,10,Africa XI,Asia XI,77,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+111,18.1,0,E Chigumbura,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,10,Africa XI,Asia XI,77,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+112,18.2,0,E Chigumbura,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,10,Africa XI,Asia XI,77,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+113,18.3,1,E Chigumbura,2007-06-10,1st,MS Dhoni,0,,DPMD Jayawardene,11,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+114,18.4,1,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,11,,MS Dhoni,1,Africa XI,Asia XI,79,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+115,18.5,4,E Chigumbura,2007-06-10,1st,MS Dhoni,1,,DPMD Jayawardene,15,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+116,18.6,0,E Chigumbura,2007-06-10,1st,MS Dhoni,1,,DPMD Jayawardene,15,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+117,19.1,0,J Botha,2007-06-10,1st,DPMD Jayawardene,15,,MS Dhoni,1,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+118,19.2,0,J Botha,2007-06-10,1st,DPMD Jayawardene,15,,MS Dhoni,1,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+119,19.3,0,J Botha,2007-06-10,1st,DPMD Jayawardene,15,,MS Dhoni,1,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+120,19.4,0,J Botha,2007-06-10,1st,DPMD Jayawardene,15,,MS Dhoni,1,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+121,19.5,0,J Botha,2007-06-10,1st,DPMD Jayawardene,15,,MS Dhoni,1,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+122,19.6,0,J Botha,2007-06-10,1st,DPMD Jayawardene,15,,MS Dhoni,1,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+123,20.1,0,E Chigumbura,2007-06-10,1st,MS Dhoni,1,,DPMD Jayawardene,15,Africa XI,Asia XI,83,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+124,20.2,1,E Chigumbura,2007-06-10,1st,MS Dhoni,1,,DPMD Jayawardene,16,Africa XI,Asia XI,84,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+125,20.3,2,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,16,,MS Dhoni,3,Africa XI,Asia XI,86,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+126,20.4,1,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,16,,MS Dhoni,4,Africa XI,Asia XI,87,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+127,20.5,0,E Chigumbura,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,16,Africa XI,Asia XI,87,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+128,20.6,1,E Chigumbura,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,17,Africa XI,Asia XI,88,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+129,21.1,0,J Botha,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,17,Africa XI,Asia XI,88,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+130,21.2,0,J Botha,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,17,Africa XI,Asia XI,88,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+131,21.3,0,J Botha,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,17,Africa XI,Asia XI,88,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+132,21.4,0,J Botha,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,17,Africa XI,Asia XI,88,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+133,21.5,1,J Botha,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,18,Africa XI,Asia XI,89,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+134,21.6,0,J Botha,2007-06-10,1st,DPMD Jayawardene,18,,MS Dhoni,4,Africa XI,Asia XI,89,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+135,22.1,0,M Morkel,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,18,Africa XI,Asia XI,89,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+136,22.2,0,M Morkel,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,18,Africa XI,Asia XI,89,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+137,22.3,0,M Morkel,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,18,Africa XI,Asia XI,89,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+138,22.4,4,M Morkel,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,22,Africa XI,Asia XI,93,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+139,22.5,2,M Morkel,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,24,Africa XI,Asia XI,95,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+140,22.6,0,M Morkel,2007-06-10,1st,MS Dhoni,4,,DPMD Jayawardene,24,Africa XI,Asia XI,95,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+141,23.1,0,J Botha,2007-06-10,1st,DPMD Jayawardene,24,,MS Dhoni,4,Africa XI,Asia XI,95,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+142,23.2,0,J Botha,2007-06-10,1st,DPMD Jayawardene,24,,MS Dhoni,4,Africa XI,Asia XI,95,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+143,23.3,0,J Botha,2007-06-10,1st,DPMD Jayawardene,24,,MS Dhoni,4,Africa XI,Asia XI,95,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+144,23.4,1,J Botha,2007-06-10,1st,DPMD Jayawardene,24,,MS Dhoni,5,Africa XI,Asia XI,96,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+145,23.5,0,J Botha,2007-06-10,1st,MS Dhoni,5,,DPMD Jayawardene,24,Africa XI,Asia XI,96,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+146,23.6,1,J Botha,2007-06-10,1st,MS Dhoni,5,,DPMD Jayawardene,25,Africa XI,Asia XI,97,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+147,24.1,0,M Morkel,2007-06-10,1st,MS Dhoni,5,,DPMD Jayawardene,25,Africa XI,Asia XI,97,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+148,24.2,1,M Morkel,2007-06-10,1st,MS Dhoni,5,,DPMD Jayawardene,26,Africa XI,Asia XI,98,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+149,24.3,1,M Morkel,2007-06-10,1st,DPMD Jayawardene,26,,MS Dhoni,6,Africa XI,Asia XI,99,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+150,24.4,1,M Morkel,2007-06-10,1st,MS Dhoni,6,,DPMD Jayawardene,27,Africa XI,Asia XI,100,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+151,24.5,1,M Morkel,2007-06-10,1st,DPMD Jayawardene,27,,MS Dhoni,7,Africa XI,Asia XI,101,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+152,24.6,0,M Morkel,2007-06-10,1st,MS Dhoni,7,,DPMD Jayawardene,27,Africa XI,Asia XI,101,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+153,25.1,1,J Botha,2007-06-10,1st,DPMD Jayawardene,27,,MS Dhoni,8,Africa XI,Asia XI,102,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+154,25.2,2,J Botha,2007-06-10,1st,MS Dhoni,8,,DPMD Jayawardene,29,Africa XI,Asia XI,104,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+155,25.3,1,J Botha,2007-06-10,1st,MS Dhoni,8,,DPMD Jayawardene,30,Africa XI,Asia XI,105,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+156,25.4,0,J Botha,2007-06-10,1st,DPMD Jayawardene,30,,MS Dhoni,8,Africa XI,Asia XI,105,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+157,25.5,0,J Botha,2007-06-10,1st,DPMD Jayawardene,30,,MS Dhoni,8,Africa XI,Asia XI,105,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+158,25.6,4,J Botha,2007-06-10,1st,DPMD Jayawardene,30,,MS Dhoni,12,Africa XI,Asia XI,109,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+159,26.1,4,SO Tikolo,2007-06-10,1st,MS Dhoni,12,,DPMD Jayawardene,34,Africa XI,Asia XI,113,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+160,26.2,1,SO Tikolo,2007-06-10,1st,MS Dhoni,12,,DPMD Jayawardene,35,Africa XI,Asia XI,114,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+161,26.3,4,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,35,,MS Dhoni,16,Africa XI,Asia XI,118,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+162,26.4,1,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,35,,MS Dhoni,17,Africa XI,Asia XI,119,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+163,26.5,0,SO Tikolo,2007-06-10,1st,MS Dhoni,17,,DPMD Jayawardene,35,Africa XI,Asia XI,119,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+164,26.6,1,SO Tikolo,2007-06-10,1st,MS Dhoni,17,,DPMD Jayawardene,36,Africa XI,Asia XI,120,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+165,27.1,0,J Botha,2007-06-10,1st,MS Dhoni,17,,DPMD Jayawardene,36,Africa XI,Asia XI,124,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+166,27.2,0,J Botha,2007-06-10,1st,MS Dhoni,17,,DPMD Jayawardene,36,Africa XI,Asia XI,124,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+167,27.3,1,J Botha,2007-06-10,1st,MS Dhoni,17,,DPMD Jayawardene,37,Africa XI,Asia XI,125,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+168,27.4,0,J Botha,2007-06-10,1st,DPMD Jayawardene,37,,MS Dhoni,17,Africa XI,Asia XI,125,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+169,27.5,1,J Botha,2007-06-10,1st,DPMD Jayawardene,37,,MS Dhoni,18,Africa XI,Asia XI,126,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+170,27.6,1,J Botha,2007-06-10,1st,MS Dhoni,18,,DPMD Jayawardene,38,Africa XI,Asia XI,127,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+171,28.1,1,SO Tikolo,2007-06-10,1st,MS Dhoni,18,,DPMD Jayawardene,39,Africa XI,Asia XI,128,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+172,28.2,1,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,39,,MS Dhoni,19,Africa XI,Asia XI,129,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+173,28.3,2,SO Tikolo,2007-06-10,1st,MS Dhoni,19,,DPMD Jayawardene,41,Africa XI,Asia XI,131,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+174,28.4,1,SO Tikolo,2007-06-10,1st,MS Dhoni,19,,DPMD Jayawardene,42,Africa XI,Asia XI,132,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+175,28.5,1,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,42,,MS Dhoni,20,Africa XI,Asia XI,133,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+176,28.6,4,SO Tikolo,2007-06-10,1st,MS Dhoni,20,,DPMD Jayawardene,46,Africa XI,Asia XI,137,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+177,29.1,0,J Botha,2007-06-10,1st,DPMD Jayawardene,46,,MS Dhoni,20,Africa XI,Asia XI,137,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+178,29.2,2,J Botha,2007-06-10,1st,DPMD Jayawardene,46,,MS Dhoni,22,Africa XI,Asia XI,139,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+179,29.3,4,J Botha,2007-06-10,1st,DPMD Jayawardene,46,,MS Dhoni,26,Africa XI,Asia XI,143,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+180,29.4,0,J Botha,2007-06-10,1st,DPMD Jayawardene,46,,MS Dhoni,26,Africa XI,Asia XI,143,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+181,29.5,0,J Botha,2007-06-10,1st,DPMD Jayawardene,46,,MS Dhoni,26,Africa XI,Asia XI,144,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+182,29.6,1,J Botha,2007-06-10,1st,MS Dhoni,26,,DPMD Jayawardene,47,Africa XI,Asia XI,145,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+183,30.1,1,PJ Ongondo,2007-06-10,1st,MS Dhoni,26,,DPMD Jayawardene,48,Africa XI,Asia XI,146,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+184,30.2,1,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,48,,MS Dhoni,27,Africa XI,Asia XI,147,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+185,30.3,0,PJ Ongondo,2007-06-10,1st,MS Dhoni,27,,DPMD Jayawardene,48,Africa XI,Asia XI,148,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+186,30.4,0,PJ Ongondo,2007-06-10,1st,MS Dhoni,27,,DPMD Jayawardene,48,Africa XI,Asia XI,148,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+187,30.5,0,PJ Ongondo,2007-06-10,1st,MS Dhoni,27,,DPMD Jayawardene,48,Africa XI,Asia XI,148,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+188,30.6,0,PJ Ongondo,2007-06-10,1st,MS Dhoni,27,,DPMD Jayawardene,48,Africa XI,Asia XI,148,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+189,30.7,1,PJ Ongondo,2007-06-10,1st,MS Dhoni,27,,DPMD Jayawardene,49,Africa XI,Asia XI,149,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+190,31.1,1,E Chigumbura,2007-06-10,1st,MS Dhoni,27,,DPMD Jayawardene,50,Africa XI,Asia XI,150,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+191,31.2,1,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,50,,MS Dhoni,28,Africa XI,Asia XI,151,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+192,31.3,1,E Chigumbura,2007-06-10,1st,MS Dhoni,28,,DPMD Jayawardene,51,Africa XI,Asia XI,152,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+193,31.4,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,51,,MS Dhoni,28,Africa XI,Asia XI,152,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+194,31.5,0,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,51,,MS Dhoni,28,Africa XI,Asia XI,152,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+195,31.6,4,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,51,,MS Dhoni,32,Africa XI,Asia XI,156,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+196,32.1,1,PJ Ongondo,2007-06-10,1st,MS Dhoni,32,,DPMD Jayawardene,52,Africa XI,Asia XI,157,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+197,32.2,0,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,52,,MS Dhoni,32,Africa XI,Asia XI,157,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+198,32.3,0,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,52,,MS Dhoni,32,Africa XI,Asia XI,157,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+199,32.4,1,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,52,,MS Dhoni,33,Africa XI,Asia XI,158,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+200,32.5,1,PJ Ongondo,2007-06-10,1st,MS Dhoni,33,,DPMD Jayawardene,53,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+201,32.6,0,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,53,,MS Dhoni,33,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+202,33.1,2,E Chigumbura,2007-06-10,1st,MS Dhoni,33,,DPMD Jayawardene,55,Africa XI,Asia XI,161,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+203,33.2,1,E Chigumbura,2007-06-10,1st,MS Dhoni,33,,DPMD Jayawardene,56,Africa XI,Asia XI,162,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+204,33.3,1,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,56,,MS Dhoni,34,Africa XI,Asia XI,163,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+205,33.4,1,E Chigumbura,2007-06-10,1st,MS Dhoni,34,,DPMD Jayawardene,57,Africa XI,Asia XI,164,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+206,33.5,1,E Chigumbura,2007-06-10,1st,DPMD Jayawardene,57,,MS Dhoni,35,Africa XI,Asia XI,165,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+207,33.6,1,E Chigumbura,2007-06-10,1st,MS Dhoni,35,,DPMD Jayawardene,58,Africa XI,Asia XI,166,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+208,34.1,1,PJ Ongondo,2007-06-10,1st,MS Dhoni,35,,DPMD Jayawardene,59,Africa XI,Asia XI,167,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+209,34.2,0,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,59,,MS Dhoni,35,Africa XI,Asia XI,167,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+210,34.3,0,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,59,,MS Dhoni,35,Africa XI,Asia XI,167,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+211,34.4,1,PJ Ongondo,2007-06-10,1st,DPMD Jayawardene,59,,MS Dhoni,36,Africa XI,Asia XI,168,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+212,34.5,0,PJ Ongondo,2007-06-10,1st,MS Dhoni,36,,DPMD Jayawardene,59,Africa XI,Asia XI,168,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+213,34.6,0,PJ Ongondo,2007-06-10,1st,MS Dhoni,36,,DPMD Jayawardene,59,Africa XI,Asia XI,168,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+214,35.1,1,J Botha,2007-06-10,1st,DPMD Jayawardene,59,,MS Dhoni,37,Africa XI,Asia XI,169,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+215,35.2,1,J Botha,2007-06-10,1st,MS Dhoni,37,,DPMD Jayawardene,60,Africa XI,Asia XI,170,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+216,35.3,0,J Botha,2007-06-10,1st,DPMD Jayawardene,60,,MS Dhoni,37,Africa XI,Asia XI,170,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+217,35.4,1,J Botha,2007-06-10,1st,DPMD Jayawardene,60,,MS Dhoni,38,Africa XI,Asia XI,171,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+218,35.5,1,J Botha,2007-06-10,1st,MS Dhoni,38,,DPMD Jayawardene,61,Africa XI,Asia XI,172,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+219,35.6,1,J Botha,2007-06-10,1st,DPMD Jayawardene,61,,MS Dhoni,39,Africa XI,Asia XI,173,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+220,36.1,1,V Sibanda,2007-06-10,1st,DPMD Jayawardene,61,,MS Dhoni,40,Africa XI,Asia XI,174,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+221,36.2,1,V Sibanda,2007-06-10,1st,MS Dhoni,40,,DPMD Jayawardene,62,Africa XI,Asia XI,175,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+222,36.3,1,V Sibanda,2007-06-10,1st,DPMD Jayawardene,62,,MS Dhoni,41,Africa XI,Asia XI,176,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+223,36.4,4,V Sibanda,2007-06-10,1st,MS Dhoni,41,,DPMD Jayawardene,66,Africa XI,Asia XI,180,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+224,36.5,1,V Sibanda,2007-06-10,1st,MS Dhoni,41,,DPMD Jayawardene,67,Africa XI,Asia XI,181,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+225,36.6,4,V Sibanda,2007-06-10,1st,DPMD Jayawardene,67,,MS Dhoni,45,Africa XI,Asia XI,185,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+226,37.1,0,J Botha,2007-06-10,1st,MS Dhoni,45,,DPMD Jayawardene,67,Africa XI,Asia XI,185,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+227,37.2,1,J Botha,2007-06-10,1st,MS Dhoni,45,,DPMD Jayawardene,68,Africa XI,Asia XI,186,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+228,37.3,4,J Botha,2007-06-10,1st,DPMD Jayawardene,68,,MS Dhoni,49,Africa XI,Asia XI,190,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+229,37.4,1,J Botha,2007-06-10,1st,DPMD Jayawardene,68,,MS Dhoni,50,Africa XI,Asia XI,191,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+230,37.5,1,J Botha,2007-06-10,1st,MS Dhoni,50,,DPMD Jayawardene,69,Africa XI,Asia XI,192,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+231,37.6,1,J Botha,2007-06-10,1st,DPMD Jayawardene,69,,MS Dhoni,51,Africa XI,Asia XI,193,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+232,38.1,1,V Sibanda,2007-06-10,1st,DPMD Jayawardene,69,,MS Dhoni,52,Africa XI,Asia XI,194,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+233,38.2,2,V Sibanda,2007-06-10,1st,MS Dhoni,52,,DPMD Jayawardene,71,Africa XI,Asia XI,196,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+234,38.3,0,V Sibanda,2007-06-10,1st,MS Dhoni,52,,DPMD Jayawardene,71,Africa XI,Asia XI,196,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+235,38.4,4,V Sibanda,2007-06-10,1st,MS Dhoni,52,,DPMD Jayawardene,75,Africa XI,Asia XI,200,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+236,38.5,4,V Sibanda,2007-06-10,1st,MS Dhoni,52,,DPMD Jayawardene,79,Africa XI,Asia XI,204,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+237,38.6,1,V Sibanda,2007-06-10,1st,MS Dhoni,52,,DPMD Jayawardene,80,Africa XI,Asia XI,205,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+238,39.1,1,SO Tikolo,2007-06-10,1st,MS Dhoni,52,,DPMD Jayawardene,81,Africa XI,Asia XI,206,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+239,39.2,6,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,81,,MS Dhoni,58,Africa XI,Asia XI,212,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+240,39.3,4,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,81,,MS Dhoni,62,Africa XI,Asia XI,216,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+241,39.4,1,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,81,,MS Dhoni,63,Africa XI,Asia XI,217,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+242,39.5,0,SO Tikolo,2007-06-10,1st,MS Dhoni,63,,DPMD Jayawardene,81,Africa XI,Asia XI,218,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+243,39.6,1,SO Tikolo,2007-06-10,1st,MS Dhoni,63,,DPMD Jayawardene,82,Africa XI,Asia XI,219,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+244,39.7,4,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,82,,MS Dhoni,67,Africa XI,Asia XI,223,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+245,40.1,1,AB de Villiers,2007-06-10,1st,MS Dhoni,67,,DPMD Jayawardene,83,Africa XI,Asia XI,224,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+246,40.2,0,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,83,,MS Dhoni,67,Africa XI,Asia XI,229,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+247,40.3,4,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,83,,MS Dhoni,71,Africa XI,Asia XI,233,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+248,40.4,0,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,83,,MS Dhoni,71,Africa XI,Asia XI,233,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+249,40.5,0,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,83,,MS Dhoni,71,Africa XI,Asia XI,233,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+250,40.6,1,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,83,,MS Dhoni,72,Africa XI,Asia XI,234,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+251,40.7,1,AB de Villiers,2007-06-10,1st,MS Dhoni,72,,DPMD Jayawardene,84,Africa XI,Asia XI,235,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+252,41.1,1,SO Tikolo,2007-06-10,1st,MS Dhoni,72,,DPMD Jayawardene,85,Africa XI,Asia XI,236,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+253,41.2,4,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,85,,MS Dhoni,76,Africa XI,Asia XI,240,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+254,41.3,6,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,85,,MS Dhoni,82,Africa XI,Asia XI,246,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+255,41.4,4,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,85,,MS Dhoni,86,Africa XI,Asia XI,250,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+256,41.5,1,SO Tikolo,2007-06-10,1st,DPMD Jayawardene,85,,MS Dhoni,87,Africa XI,Asia XI,251,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+257,41.6,4,SO Tikolo,2007-06-10,1st,MS Dhoni,87,,DPMD Jayawardene,89,Africa XI,Asia XI,255,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+258,42.1,1,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,89,,MS Dhoni,88,Africa XI,Asia XI,256,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+259,42.2,0,AB de Villiers,2007-06-10,1st,MS Dhoni,88,,DPMD Jayawardene,89,Africa XI,Asia XI,257,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+260,42.3,1,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,89,,MS Dhoni,89,Africa XI,Asia XI,258,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+261,42.4,6,AB de Villiers,2007-06-10,1st,MS Dhoni,89,,DPMD Jayawardene,95,Africa XI,Asia XI,264,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+262,42.5,1,AB de Villiers,2007-06-10,1st,MS Dhoni,89,,DPMD Jayawardene,96,Africa XI,Asia XI,265,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+263,42.6,1,AB de Villiers,2007-06-10,1st,DPMD Jayawardene,96,,MS Dhoni,90,Africa XI,Asia XI,266,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+264,43.1,0,J Botha,2007-06-10,1st,DPMD Jayawardene,96,,MS Dhoni,90,Africa XI,Asia XI,266,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+265,43.2,1,J Botha,2007-06-10,1st,DPMD Jayawardene,96,,MS Dhoni,91,Africa XI,Asia XI,267,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+266,43.3,0,J Botha,2007-06-10,1st,MS Dhoni,91,,DPMD Jayawardene,96,Africa XI,Asia XI,267,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+267,43.4,1,J Botha,2007-06-10,1st,MS Dhoni,91,,DPMD Jayawardene,97,Africa XI,Asia XI,268,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+268,43.5,1,J Botha,2007-06-10,1st,DPMD Jayawardene,97,,MS Dhoni,92,Africa XI,Asia XI,269,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+269,43.6,1,J Botha,2007-06-10,1st,MS Dhoni,92,,DPMD Jayawardene,98,Africa XI,Asia XI,270,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+270,44.1,1,M Morkel,2007-06-10,1st,MS Dhoni,92,,DPMD Jayawardene,99,Africa XI,Asia XI,271,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+271,44.2,4,M Morkel,2007-06-10,1st,DPMD Jayawardene,99,,MS Dhoni,96,Africa XI,Asia XI,275,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+272,44.3,1,M Morkel,2007-06-10,1st,DPMD Jayawardene,99,,MS Dhoni,97,Africa XI,Asia XI,276,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+273,44.4,1,M Morkel,2007-06-10,1st,MS Dhoni,97,,DPMD Jayawardene,100,Africa XI,Asia XI,277,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+274,44.5,0,M Morkel,2007-06-10,1st,DPMD Jayawardene,100,,MS Dhoni,97,Africa XI,Asia XI,277,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+275,44.6,1,M Morkel,2007-06-10,1st,DPMD Jayawardene,100,,MS Dhoni,98,Africa XI,Asia XI,278,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+276,45.1,2,J Botha,2007-06-10,1st,DPMD Jayawardene,100,,MS Dhoni,100,Africa XI,Asia XI,280,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+277,45.2,1,J Botha,2007-06-10,1st,DPMD Jayawardene,100,,MS Dhoni,101,Africa XI,Asia XI,281,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+278,45.3,6,J Botha,2007-06-10,1st,MS Dhoni,101,,DPMD Jayawardene,106,Africa XI,Asia XI,287,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+279,45.4,0,J Botha,2007-06-10,1st,MS Dhoni,101,,DPMD Jayawardene,106,Africa XI,Asia XI,287,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+280,45.5,1,J Botha,2007-06-10,1st,MS Dhoni,101,,DPMD Jayawardene,107,Africa XI,Asia XI,288,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+281,45.6,1,J Botha,2007-06-10,1st,DPMD Jayawardene,107,,MS Dhoni,102,Africa XI,Asia XI,289,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+282,46.1,1,M Morkel,2007-06-10,1st,DPMD Jayawardene,107,,MS Dhoni,103,Africa XI,Asia XI,290,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+283,46.2,0,M Morkel,2007-06-10,1st,MS Dhoni,103,DPMD Jayawardene,DPMD Jayawardene,107,Africa XI,Asia XI,290,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+284,46.3,1,M Morkel,2007-06-10,1st,MS Dhoni,103,,Mashrafe Mortaza,1,Africa XI,Asia XI,291,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+285,46.4,1,M Morkel,2007-06-10,1st,Mashrafe Mortaza,1,,MS Dhoni,104,Africa XI,Asia XI,292,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+286,46.5,0,M Morkel,2007-06-10,1st,MS Dhoni,104,,Mashrafe Mortaza,1,Africa XI,Asia XI,292,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+287,46.6,0,M Morkel,2007-06-10,1st,MS Dhoni,104,,Mashrafe Mortaza,1,Africa XI,Asia XI,292,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+288,47.1,6,E Chigumbura,2007-06-10,1st,Mashrafe Mortaza,1,,MS Dhoni,110,Africa XI,Asia XI,298,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+289,47.2,4,E Chigumbura,2007-06-10,1st,Mashrafe Mortaza,1,,MS Dhoni,114,Africa XI,Asia XI,302,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+290,47.3,6,E Chigumbura,2007-06-10,1st,Mashrafe Mortaza,1,,MS Dhoni,120,Africa XI,Asia XI,308,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+291,47.4,1,E Chigumbura,2007-06-10,1st,Mashrafe Mortaza,1,,MS Dhoni,121,Africa XI,Asia XI,309,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+292,47.5,0,E Chigumbura,2007-06-10,1st,MS Dhoni,121,Mashrafe Mortaza,Mashrafe Mortaza,1,Africa XI,Asia XI,309,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+293,47.6,1,E Chigumbura,2007-06-10,1st,Harbhajan Singh,0,,MS Dhoni,122,Africa XI,Asia XI,310,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+294,48.1,1,M Morkel,2007-06-10,1st,Harbhajan Singh,0,,MS Dhoni,123,Africa XI,Asia XI,311,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+295,48.2,4,M Morkel,2007-06-10,1st,MS Dhoni,123,,Harbhajan Singh,4,Africa XI,Asia XI,315,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+296,48.3,0,M Morkel,2007-06-10,1st,MS Dhoni,123,Harbhajan Singh,Harbhajan Singh,4,Africa XI,Asia XI,315,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+297,48.4,0,M Morkel,2007-06-10,1st,MS Dhoni,123,,Mohammad Rafique,0,Africa XI,Asia XI,315,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+298,48.5,0,M Morkel,2007-06-10,1st,MS Dhoni,123,,Mohammad Rafique,0,Africa XI,Asia XI,315,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+299,48.6,0,M Morkel,2007-06-10,1st,MS Dhoni,123,,Mohammad Rafique,0,Africa XI,Asia XI,315,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+300,49.1,6,E Chigumbura,2007-06-10,1st,Mohammad Rafique,0,,MS Dhoni,129,Africa XI,Asia XI,321,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+301,49.2,0,E Chigumbura,2007-06-10,1st,Mohammad Rafique,0,,MS Dhoni,129,Africa XI,Asia XI,321,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+302,49.3,4,E Chigumbura,2007-06-10,1st,Mohammad Rafique,0,,MS Dhoni,133,Africa XI,Asia XI,325,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+303,49.4,4,E Chigumbura,2007-06-10,1st,Mohammad Rafique,0,,MS Dhoni,137,Africa XI,Asia XI,329,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+304,49.5,0,E Chigumbura,2007-06-10,1st,Mohammad Rafique,0,,MS Dhoni,137,Africa XI,Asia XI,329,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+305,49.6,2,E Chigumbura,2007-06-10,1st,Mohammad Rafique,0,,MS Dhoni,139,Africa XI,Asia XI,331,Asia XI,"MA Chidambaram Stadium, Chepauk",8,Asia XI
+306,0.1,4,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,4,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+307,0.2,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,5,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+308,0.3,1,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,6,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+309,0.4,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,6,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+310,0.5,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,6,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+311,0.6,1,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,7,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+312,0.7,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,7,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+313,1.1,1,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+314,1.2,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,8,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+315,1.3,1,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,9,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+316,1.4,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,11,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+317,1.5,2,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,13,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+318,1.6,1,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,14,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+319,2.1,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,14,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+320,2.2,4,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,18,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+321,2.3,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,18,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+322,2.4,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,18,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+323,2.5,4,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,22,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+324,2.6,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,22,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+325,3.1,2,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,24,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+326,3.2,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,24,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+327,3.3,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,24,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+328,3.4,4,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,28,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+329,3.5,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,28,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+330,3.6,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,28,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+331,4.1,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,28,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+332,4.2,1,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+333,4.3,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+334,4.4,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+335,4.5,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+336,4.6,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+337,5.1,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+338,5.2,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+339,5.3,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+340,5.4,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+341,5.5,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+342,5.6,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,29,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+343,6.1,1,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+344,6.2,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,30,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+345,6.3,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,31,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+346,6.4,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,36,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+347,6.5,4,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,40,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+348,6.6,1,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,41,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+349,6.7,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,41,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+350,6.8,1,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,42,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+351,7.1,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,42,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+352,7.2,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,42,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+353,7.3,4,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,46,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+354,7.4,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,46,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+355,7.5,1,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,47,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+356,7.6,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,47,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+357,8.1,1,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,48,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+358,8.2,4,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,52,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+359,8.3,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,57,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+360,8.4,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,57,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+361,8.5,4,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,61,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+362,8.6,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,61,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+363,8.7,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,61,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+364,9.1,3,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,64,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+365,9.2,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,64,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+366,9.3,1,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,65,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+367,9.4,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,65,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+368,9.5,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,65,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+369,9.6,0,Mashrafe Mortaza,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,66,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+370,10.1,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,66,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+371,10.2,1,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,67,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+372,10.3,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,67,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+373,10.4,1,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,68,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+374,10.5,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,68,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+375,10.6,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,68,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+376,11.1,4,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+377,11.2,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+378,11.3,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+379,11.4,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,72,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+380,11.5,6,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+381,11.6,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+382,12.1,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+383,12.2,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+384,12.3,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+385,12.4,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+386,12.5,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+387,12.6,0,Mohammad Asif,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+388,13.1,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,78,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+389,13.2,4,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,82,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+390,13.3,6,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,88,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+391,13.4,2,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,90,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+392,13.5,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,90,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+393,13.6,0,Mashrafe Mortaza,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,90,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+394,14.1,0,Mohammad Rafique,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,90,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+395,14.2,0,Mohammad Rafique,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,90,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+396,14.3,1,Mohammad Rafique,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,91,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+397,14.4,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,91,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+398,14.5,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,91,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+399,14.6,1,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,92,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+400,15.1,1,ST Jayasuriya,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,93,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+401,15.2,1,ST Jayasuriya,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,94,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+402,15.3,6,ST Jayasuriya,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,100,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+403,15.4,0,ST Jayasuriya,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,100,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+404,15.5,2,ST Jayasuriya,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,102,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+405,15.6,3,ST Jayasuriya,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,105,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+406,16.1,1,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,106,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+407,16.2,1,Mohammad Rafique,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,107,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+408,16.3,4,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,111,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+409,16.4,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,111,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+410,16.5,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,111,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+411,16.6,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,111,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+412,17.1,1,Harbhajan Singh,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,112,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+413,17.2,0,Harbhajan Singh,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,112,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+414,17.3,2,Harbhajan Singh,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,114,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+415,17.4,2,Harbhajan Singh,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,116,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+416,17.5,0,Harbhajan Singh,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,116,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+417,17.6,0,Harbhajan Singh,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,116,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+418,18.1,1,Mohammad Rafique,2007-06-10,2nd,AB de Villiers,0,,V Sibanda,0,Africa XI,Asia XI,117,Asia XI,"MA Chidambaram Stadium, Chepauk",0,Asia XI
+419,18.2,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,AB de Villiers,0,Africa XI,Asia XI,117,Asia XI,"MA Chidambaram Stadium, Chepauk",1,Asia XI
+420,18.3,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,HH Dippenaar,0,Africa XI,Asia XI,117,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+421,18.4,2,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,119,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+422,18.5,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,119,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+423,18.6,2,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,121,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+424,19.1,6,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,127,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+425,19.2,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,127,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+426,19.3,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,127,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+427,19.4,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,127,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+428,19.5,1,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,128,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+429,19.6,0,Harbhajan Singh,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,128,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+430,20.1,0,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,128,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+431,20.2,0,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,128,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+432,20.3,0,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,128,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+433,20.4,0,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,128,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+434,20.5,1,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,129,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+435,20.6,0,Mohammad Rafique,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,129,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+436,21.1,0,Mohammad Asif,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,129,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+437,21.2,1,Mohammad Asif,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,130,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+438,21.3,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,130,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+439,21.4,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,130,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+440,21.5,0,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,130,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+441,21.6,4,Mohammad Asif,2007-06-10,2nd,V Sibanda,0,,SO Tikolo,0,Africa XI,Asia XI,134,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+442,22.1,4,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,138,Asia XI,"MA Chidambaram Stadium, Chepauk",2,Asia XI
+443,22.2,0,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,V Sibanda,0,Africa XI,Asia XI,138,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+444,22.3,0,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,138,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+445,22.4,0,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,139,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+446,22.5,1,Mohammad Rafique,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+447,22.6,0,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+448,22.7,0,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+449,23.1,0,Mashrafe Mortaza,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+450,23.2,0,Mashrafe Mortaza,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+451,23.3,0,Mashrafe Mortaza,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+452,23.4,0,Mashrafe Mortaza,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+453,23.5,0,Mashrafe Mortaza,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,140,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+454,23.6,1,Mashrafe Mortaza,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,141,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+455,24.1,0,ST Jayasuriya,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,141,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+456,24.2,1,ST Jayasuriya,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+457,24.3,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+458,24.4,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+459,24.5,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+460,24.6,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+461,25.1,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+462,25.2,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+463,25.3,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+464,25.4,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+465,25.5,0,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,142,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+466,25.6,2,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,144,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+467,26.1,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,144,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+468,26.2,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,144,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+469,26.3,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,145,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+470,26.4,1,ST Jayasuriya,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,146,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+471,26.5,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,146,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+472,26.6,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,147,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+473,27.1,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,147,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+474,27.2,1,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,148,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+475,27.3,1,Harbhajan Singh,2007-06-10,2nd,SO Tikolo,0,,JM Kemp,0,Africa XI,Asia XI,149,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+476,27.4,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,149,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+477,27.5,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,149,Asia XI,"MA Chidambaram Stadium, Chepauk",3,Asia XI
+478,27.6,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SO Tikolo,0,Africa XI,Asia XI,149,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+479,28.1,1,ST Jayasuriya,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,150,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+480,28.2,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,151,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+481,28.3,1,ST Jayasuriya,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,152,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+482,28.4,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,152,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+483,28.5,2,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,154,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+484,28.6,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,154,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+485,29.1,0,Harbhajan Singh,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,154,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+486,29.2,1,Harbhajan Singh,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,155,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+487,29.3,1,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,156,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+488,29.4,0,Harbhajan Singh,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,156,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+489,29.5,0,Harbhajan Singh,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,156,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+490,29.6,0,Harbhajan Singh,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,156,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+491,30.1,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,156,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+492,30.2,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,156,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+493,30.3,2,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,158,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+494,30.4,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+495,30.5,0,ST Jayasuriya,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+496,30.6,0,ST Jayasuriya,2007-06-10,2nd,MV Boucher,0,,JM Kemp,0,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",4,Asia XI
+497,31.1,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,MV Boucher,0,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+498,31.2,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+499,31.3,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,159,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+500,31.4,1,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,160,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+501,31.5,1,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,161,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+502,31.6,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,161,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+503,32.1,1,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,162,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+504,32.2,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,162,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+505,32.3,2,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,164,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+506,32.4,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,164,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+507,32.5,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,164,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+508,32.6,0,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,164,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+509,33.1,0,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,164,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+510,33.2,0,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,164,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+511,33.3,1,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,165,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+512,33.4,0,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,165,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+513,33.5,6,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,171,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+514,33.6,1,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,172,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+515,34.1,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,173,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+516,34.2,1,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,174,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+517,34.3,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,175,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+518,34.4,6,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,181,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+519,34.5,0,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,181,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+520,34.6,0,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,181,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+521,35.1,1,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,182,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+522,35.2,0,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,182,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+523,35.3,0,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,183,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+524,35.4,0,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,183,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+525,35.5,1,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,184,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+526,35.6,1,Harbhajan Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,185,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+527,35.7,1,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,186,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+528,36.1,1,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,187,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+529,36.2,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,188,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+530,36.3,0,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,188,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+531,36.4,6,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,194,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+532,36.5,1,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,195,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+533,36.6,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,196,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+534,37.1,0,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,196,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+535,37.2,1,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,197,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+536,37.3,6,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,203,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+537,37.4,1,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,204,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+538,37.5,0,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,204,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+539,37.6,4,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,208,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+540,38.1,0,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,208,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+541,38.2,1,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,209,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+542,38.3,1,ST Jayasuriya,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,210,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+543,38.4,0,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,210,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+544,38.5,4,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,214,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+545,38.6,6,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,220,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+546,39.1,1,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,221,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+547,39.2,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,221,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+548,39.3,1,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,222,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+549,39.4,0,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,222,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+550,39.5,1,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,223,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+551,39.6,1,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,224,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+552,40.1,0,Mohammad Asif,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,224,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+553,40.2,0,Mohammad Asif,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,224,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+554,40.3,6,Mohammad Asif,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,230,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+555,40.4,1,Mohammad Asif,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,231,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+556,40.5,2,Mohammad Asif,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,233,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+557,40.6,0,Mohammad Asif,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,233,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+558,41.1,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,233,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+559,41.2,1,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,234,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+560,41.3,2,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,236,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+561,41.4,1,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,237,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+562,41.5,6,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,243,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+563,41.6,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,243,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+564,42.1,1,Mohammad Asif,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,244,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+565,42.2,0,Mohammad Asif,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,244,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+566,42.3,1,Mohammad Asif,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,245,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+567,42.4,4,Mohammad Asif,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,249,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+568,42.5,0,Mohammad Asif,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,249,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+569,42.6,2,Mohammad Asif,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,251,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+570,43.1,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,251,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+571,43.2,6,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,257,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+572,43.3,4,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,261,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+573,43.4,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,261,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+574,43.5,1,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,262,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+575,43.6,1,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,263,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+576,44.1,1,Yuvraj Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,264,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+577,44.2,2,Yuvraj Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,266,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+578,44.3,4,Yuvraj Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,270,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+579,44.4,1,Yuvraj Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,271,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+580,44.5,1,Yuvraj Singh,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,272,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+581,44.6,1,Yuvraj Singh,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,273,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+582,45.1,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,274,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+583,45.2,4,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,278,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+584,45.3,1,Mohammad Rafique,2007-06-10,2nd,JM Kemp,0,,SM Pollock,0,Africa XI,Asia XI,279,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+585,45.4,2,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,281,Asia XI,"MA Chidambaram Stadium, Chepauk",5,Asia XI
+586,45.5,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,JM Kemp,0,Africa XI,Asia XI,281,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+587,45.6,0,Mohammad Rafique,2007-06-10,2nd,SM Pollock,0,,E Chigumbura,0,Africa XI,Asia XI,281,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+588,46.1,2,Mashrafe Mortaza,2007-06-10,2nd,E Chigumbura,0,,SM Pollock,0,Africa XI,Asia XI,283,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+589,46.2,1,Mashrafe Mortaza,2007-06-10,2nd,E Chigumbura,0,,SM Pollock,0,Africa XI,Asia XI,284,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+590,46.3,0,Mashrafe Mortaza,2007-06-10,2nd,SM Pollock,0,,E Chigumbura,0,Africa XI,Asia XI,285,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+591,46.4,2,Mashrafe Mortaza,2007-06-10,2nd,SM Pollock,0,,E Chigumbura,0,Africa XI,Asia XI,287,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+592,46.5,2,Mashrafe Mortaza,2007-06-10,2nd,SM Pollock,0,,E Chigumbura,0,Africa XI,Asia XI,289,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+593,46.6,0,Mashrafe Mortaza,2007-06-10,2nd,SM Pollock,0,,E Chigumbura,0,Africa XI,Asia XI,289,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+594,46.7,0,Mashrafe Mortaza,2007-06-10,2nd,SM Pollock,0,,E Chigumbura,0,Africa XI,Asia XI,289,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+595,47.1,1,Harbhajan Singh,2007-06-10,2nd,E Chigumbura,0,,SM Pollock,0,Africa XI,Asia XI,290,Asia XI,"MA Chidambaram Stadium, Chepauk",6,Asia XI
+596,47.2,0,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,E Chigumbura,0,Africa XI,Asia XI,290,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+597,47.3,1,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,291,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+598,47.4,1,Harbhajan Singh,2007-06-10,2nd,J Botha,0,,SM Pollock,0,Africa XI,Asia XI,292,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+599,47.5,2,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,294,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+600,47.6,1,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,295,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+601,48.1,4,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,299,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+602,48.2,1,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,300,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+603,48.3,0,ST Jayasuriya,2007-06-10,2nd,J Botha,0,,SM Pollock,0,Africa XI,Asia XI,300,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+604,48.4,1,ST Jayasuriya,2007-06-10,2nd,J Botha,0,,SM Pollock,0,Africa XI,Asia XI,301,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+605,48.5,4,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,305,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+606,48.6,4,ST Jayasuriya,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,309,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+607,49.1,0,Harbhajan Singh,2007-06-10,2nd,J Botha,0,,SM Pollock,0,Africa XI,Asia XI,309,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+608,49.2,1,Harbhajan Singh,2007-06-10,2nd,J Botha,0,,SM Pollock,0,Africa XI,Asia XI,310,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+609,49.3,0,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,310,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+610,49.4,1,Harbhajan Singh,2007-06-10,2nd,SM Pollock,0,,J Botha,0,Africa XI,Asia XI,311,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+611,49.5,6,Harbhajan Singh,2007-06-10,2nd,J Botha,0,,SM Pollock,0,Africa XI,Asia XI,317,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI
+612,49.6,1,Harbhajan Singh,2007-06-10,2nd,J Botha,0,,SM Pollock,0,Africa XI,Asia XI,318,Asia XI,"MA Chidambaram Stadium, Chepauk",7,Asia XI

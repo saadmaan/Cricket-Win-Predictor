@@ -1,0 +1,498 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,SW Tait,2011-03-16,1st,JM Davison,0,,H Patel,0,Australia,Canada,0,Canada,M Chinnaswamy Stadium,0,Australia
+1,0.2,0,SW Tait,2011-03-16,1st,JM Davison,0,,H Patel,0,Australia,Canada,0,Canada,M Chinnaswamy Stadium,0,Australia
+2,0.3,1,SW Tait,2011-03-16,1st,JM Davison,0,,H Patel,1,Australia,Canada,1,Canada,M Chinnaswamy Stadium,0,Australia
+3,0.4,0,SW Tait,2011-03-16,1st,H Patel,1,,JM Davison,0,Australia,Canada,2,Canada,M Chinnaswamy Stadium,0,Australia
+4,0.5,0,SW Tait,2011-03-16,1st,H Patel,1,,JM Davison,0,Australia,Canada,2,Canada,M Chinnaswamy Stadium,0,Australia
+5,0.6,4,SW Tait,2011-03-16,1st,H Patel,1,,JM Davison,4,Australia,Canada,6,Canada,M Chinnaswamy Stadium,0,Australia
+6,0.7,0,SW Tait,2011-03-16,1st,H Patel,1,,JM Davison,4,Australia,Canada,6,Canada,M Chinnaswamy Stadium,0,Australia
+7,1.1,4,B Lee,2011-03-16,1st,JM Davison,4,,H Patel,5,Australia,Canada,10,Canada,M Chinnaswamy Stadium,0,Australia
+8,1.2,0,B Lee,2011-03-16,1st,JM Davison,4,,H Patel,5,Australia,Canada,10,Canada,M Chinnaswamy Stadium,0,Australia
+9,1.3,4,B Lee,2011-03-16,1st,JM Davison,4,,H Patel,9,Australia,Canada,14,Canada,M Chinnaswamy Stadium,0,Australia
+10,1.4,2,B Lee,2011-03-16,1st,JM Davison,4,,H Patel,11,Australia,Canada,16,Canada,M Chinnaswamy Stadium,0,Australia
+11,1.5,4,B Lee,2011-03-16,1st,JM Davison,4,,H Patel,15,Australia,Canada,20,Canada,M Chinnaswamy Stadium,0,Australia
+12,1.6,2,B Lee,2011-03-16,1st,JM Davison,4,,H Patel,17,Australia,Canada,22,Canada,M Chinnaswamy Stadium,0,Australia
+13,2.1,1,SW Tait,2011-03-16,1st,H Patel,17,,JM Davison,5,Australia,Canada,23,Canada,M Chinnaswamy Stadium,0,Australia
+14,2.2,6,SW Tait,2011-03-16,1st,JM Davison,5,,H Patel,23,Australia,Canada,29,Canada,M Chinnaswamy Stadium,0,Australia
+15,2.3,0,SW Tait,2011-03-16,1st,JM Davison,5,,H Patel,23,Australia,Canada,30,Canada,M Chinnaswamy Stadium,0,Australia
+16,2.4,0,SW Tait,2011-03-16,1st,JM Davison,5,,H Patel,23,Australia,Canada,31,Canada,M Chinnaswamy Stadium,0,Australia
+17,2.5,1,SW Tait,2011-03-16,1st,JM Davison,5,,H Patel,24,Australia,Canada,32,Canada,M Chinnaswamy Stadium,0,Australia
+18,2.6,0,SW Tait,2011-03-16,1st,H Patel,24,,JM Davison,5,Australia,Canada,32,Canada,M Chinnaswamy Stadium,0,Australia
+19,2.7,1,SW Tait,2011-03-16,1st,H Patel,24,,JM Davison,6,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+20,2.8,0,SW Tait,2011-03-16,1st,JM Davison,6,,H Patel,24,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+21,3.1,0,B Lee,2011-03-16,1st,H Patel,24,,JM Davison,6,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+22,3.2,0,B Lee,2011-03-16,1st,H Patel,24,,JM Davison,6,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+23,3.3,4,B Lee,2011-03-16,1st,H Patel,24,,JM Davison,10,Australia,Canada,37,Canada,M Chinnaswamy Stadium,0,Australia
+24,3.4,4,B Lee,2011-03-16,1st,H Patel,24,,JM Davison,14,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+25,3.5,0,B Lee,2011-03-16,1st,H Patel,24,JM Davison,JM Davison,14,Australia,Canada,41,Canada,M Chinnaswamy Stadium,1,Australia
+26,3.6,0,B Lee,2011-03-16,1st,H Patel,24,,ZE Surkari,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,1,Australia
+27,4.1,2,MG Johnson,2011-03-16,1st,ZE Surkari,0,,H Patel,26,Australia,Canada,43,Canada,M Chinnaswamy Stadium,1,Australia
+28,4.2,4,MG Johnson,2011-03-16,1st,ZE Surkari,0,,H Patel,30,Australia,Canada,47,Canada,M Chinnaswamy Stadium,1,Australia
+29,4.3,0,MG Johnson,2011-03-16,1st,ZE Surkari,0,,H Patel,30,Australia,Canada,47,Canada,M Chinnaswamy Stadium,1,Australia
+30,4.4,6,MG Johnson,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,53,Canada,M Chinnaswamy Stadium,1,Australia
+31,4.5,0,MG Johnson,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,54,Canada,M Chinnaswamy Stadium,1,Australia
+32,4.6,0,MG Johnson,2011-03-16,1st,H Patel,36,,ZE Surkari,0,Australia,Canada,54,Canada,M Chinnaswamy Stadium,1,Australia
+33,5.1,0,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,54,Canada,M Chinnaswamy Stadium,1,Australia
+34,5.2,0,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,54,Canada,M Chinnaswamy Stadium,1,Australia
+35,5.3,0,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,55,Canada,M Chinnaswamy Stadium,1,Australia
+36,5.4,0,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,55,Canada,M Chinnaswamy Stadium,1,Australia
+37,5.5,0,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,55,Canada,M Chinnaswamy Stadium,1,Australia
+38,5.6,0,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,56,Canada,M Chinnaswamy Stadium,1,Australia
+39,5.7,0,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,36,Australia,Canada,56,Canada,M Chinnaswamy Stadium,1,Australia
+40,5.8,6,B Lee,2011-03-16,1st,ZE Surkari,0,,H Patel,42,Australia,Canada,62,Canada,M Chinnaswamy Stadium,1,Australia
+41,6.1,0,MG Johnson,2011-03-16,1st,H Patel,42,,ZE Surkari,0,Australia,Canada,62,Canada,M Chinnaswamy Stadium,1,Australia
+42,6.2,0,MG Johnson,2011-03-16,1st,H Patel,42,,ZE Surkari,0,Australia,Canada,62,Canada,M Chinnaswamy Stadium,1,Australia
+43,6.3,1,MG Johnson,2011-03-16,1st,H Patel,42,,ZE Surkari,1,Australia,Canada,63,Canada,M Chinnaswamy Stadium,1,Australia
+44,6.4,0,MG Johnson,2011-03-16,1st,ZE Surkari,1,,H Patel,42,Australia,Canada,63,Canada,M Chinnaswamy Stadium,1,Australia
+45,6.5,1,MG Johnson,2011-03-16,1st,ZE Surkari,1,,H Patel,43,Australia,Canada,64,Canada,M Chinnaswamy Stadium,1,Australia
+46,6.6,0,MG Johnson,2011-03-16,1st,H Patel,43,,ZE Surkari,1,Australia,Canada,64,Canada,M Chinnaswamy Stadium,1,Australia
+47,7.1,0,SR Watson,2011-03-16,1st,ZE Surkari,1,,H Patel,43,Australia,Canada,64,Canada,M Chinnaswamy Stadium,1,Australia
+48,7.2,0,SR Watson,2011-03-16,1st,ZE Surkari,1,,H Patel,43,Australia,Canada,64,Canada,M Chinnaswamy Stadium,1,Australia
+49,7.3,0,SR Watson,2011-03-16,1st,ZE Surkari,1,,H Patel,43,Australia,Canada,64,Canada,M Chinnaswamy Stadium,1,Australia
+50,7.4,0,SR Watson,2011-03-16,1st,ZE Surkari,1,,H Patel,43,Australia,Canada,64,Canada,M Chinnaswamy Stadium,1,Australia
+51,7.5,0,SR Watson,2011-03-16,1st,ZE Surkari,1,,H Patel,43,Australia,Canada,64,Canada,M Chinnaswamy Stadium,1,Australia
+52,7.6,1,SR Watson,2011-03-16,1st,ZE Surkari,1,,H Patel,44,Australia,Canada,65,Canada,M Chinnaswamy Stadium,1,Australia
+53,8.1,0,MG Johnson,2011-03-16,1st,ZE Surkari,1,,H Patel,44,Australia,Canada,65,Canada,M Chinnaswamy Stadium,1,Australia
+54,8.2,0,MG Johnson,2011-03-16,1st,ZE Surkari,1,,H Patel,44,Australia,Canada,66,Canada,M Chinnaswamy Stadium,1,Australia
+55,8.3,0,MG Johnson,2011-03-16,1st,H Patel,44,,ZE Surkari,1,Australia,Canada,66,Canada,M Chinnaswamy Stadium,1,Australia
+56,8.4,1,MG Johnson,2011-03-16,1st,H Patel,44,,ZE Surkari,2,Australia,Canada,67,Canada,M Chinnaswamy Stadium,1,Australia
+57,8.5,4,MG Johnson,2011-03-16,1st,ZE Surkari,2,,H Patel,48,Australia,Canada,71,Canada,M Chinnaswamy Stadium,1,Australia
+58,8.6,1,MG Johnson,2011-03-16,1st,ZE Surkari,2,,H Patel,49,Australia,Canada,72,Canada,M Chinnaswamy Stadium,1,Australia
+59,9.1,0,SR Watson,2011-03-16,1st,ZE Surkari,2,,H Patel,49,Australia,Canada,72,Canada,M Chinnaswamy Stadium,1,Australia
+60,9.2,1,SR Watson,2011-03-16,1st,ZE Surkari,2,,H Patel,50,Australia,Canada,73,Canada,M Chinnaswamy Stadium,1,Australia
+61,9.3,4,SR Watson,2011-03-16,1st,H Patel,50,,ZE Surkari,6,Australia,Canada,77,Canada,M Chinnaswamy Stadium,1,Australia
+62,9.4,0,SR Watson,2011-03-16,1st,H Patel,50,,ZE Surkari,6,Australia,Canada,77,Canada,M Chinnaswamy Stadium,1,Australia
+63,9.5,0,SR Watson,2011-03-16,1st,H Patel,50,,ZE Surkari,6,Australia,Canada,77,Canada,M Chinnaswamy Stadium,1,Australia
+64,9.6,0,SR Watson,2011-03-16,1st,H Patel,50,,ZE Surkari,6,Australia,Canada,77,Canada,M Chinnaswamy Stadium,1,Australia
+65,10.1,2,SW Tait,2011-03-16,1st,ZE Surkari,6,,H Patel,52,Australia,Canada,79,Canada,M Chinnaswamy Stadium,1,Australia
+66,10.2,0,SW Tait,2011-03-16,1st,ZE Surkari,6,,H Patel,52,Australia,Canada,79,Canada,M Chinnaswamy Stadium,1,Australia
+67,10.3,0,SW Tait,2011-03-16,1st,ZE Surkari,6,,H Patel,52,Australia,Canada,79,Canada,M Chinnaswamy Stadium,1,Australia
+68,10.4,1,SW Tait,2011-03-16,1st,ZE Surkari,6,,H Patel,53,Australia,Canada,80,Canada,M Chinnaswamy Stadium,1,Australia
+69,10.5,0,SW Tait,2011-03-16,1st,H Patel,53,,ZE Surkari,6,Australia,Canada,81,Canada,M Chinnaswamy Stadium,1,Australia
+70,10.6,1,SW Tait,2011-03-16,1st,ZE Surkari,6,,H Patel,54,Australia,Canada,82,Canada,M Chinnaswamy Stadium,1,Australia
+71,11.1,0,SR Watson,2011-03-16,1st,ZE Surkari,6,,H Patel,54,Australia,Canada,82,Canada,M Chinnaswamy Stadium,1,Australia
+72,11.2,0,SR Watson,2011-03-16,1st,ZE Surkari,6,,H Patel,54,Australia,Canada,82,Canada,M Chinnaswamy Stadium,1,Australia
+73,11.3,0,SR Watson,2011-03-16,1st,ZE Surkari,6,H Patel,H Patel,54,Australia,Canada,82,Canada,M Chinnaswamy Stadium,2,Australia
+74,11.4,0,SR Watson,2011-03-16,1st,A Bagai,0,,ZE Surkari,6,Australia,Canada,82,Canada,M Chinnaswamy Stadium,2,Australia
+75,11.5,0,SR Watson,2011-03-16,1st,A Bagai,0,,ZE Surkari,6,Australia,Canada,82,Canada,M Chinnaswamy Stadium,2,Australia
+76,11.6,2,SR Watson,2011-03-16,1st,A Bagai,0,,ZE Surkari,8,Australia,Canada,84,Canada,M Chinnaswamy Stadium,2,Australia
+77,12.1,0,SW Tait,2011-03-16,1st,ZE Surkari,8,,A Bagai,0,Australia,Canada,84,Canada,M Chinnaswamy Stadium,2,Australia
+78,12.2,0,SW Tait,2011-03-16,1st,ZE Surkari,8,,A Bagai,0,Australia,Canada,84,Canada,M Chinnaswamy Stadium,2,Australia
+79,12.3,0,SW Tait,2011-03-16,1st,ZE Surkari,8,,A Bagai,0,Australia,Canada,84,Canada,M Chinnaswamy Stadium,2,Australia
+80,12.4,0,SW Tait,2011-03-16,1st,ZE Surkari,8,,A Bagai,0,Australia,Canada,84,Canada,M Chinnaswamy Stadium,2,Australia
+81,12.5,0,SW Tait,2011-03-16,1st,ZE Surkari,8,,A Bagai,0,Australia,Canada,84,Canada,M Chinnaswamy Stadium,2,Australia
+82,12.6,0,SW Tait,2011-03-16,1st,ZE Surkari,8,,A Bagai,0,Australia,Canada,84,Canada,M Chinnaswamy Stadium,2,Australia
+83,13.1,1,SR Watson,2011-03-16,1st,A Bagai,0,,ZE Surkari,9,Australia,Canada,85,Canada,M Chinnaswamy Stadium,2,Australia
+84,13.2,4,SR Watson,2011-03-16,1st,ZE Surkari,9,,A Bagai,4,Australia,Canada,89,Canada,M Chinnaswamy Stadium,2,Australia
+85,13.3,0,SR Watson,2011-03-16,1st,ZE Surkari,9,,A Bagai,4,Australia,Canada,89,Canada,M Chinnaswamy Stadium,2,Australia
+86,13.4,0,SR Watson,2011-03-16,1st,ZE Surkari,9,,A Bagai,4,Australia,Canada,89,Canada,M Chinnaswamy Stadium,2,Australia
+87,13.5,0,SR Watson,2011-03-16,1st,ZE Surkari,9,,A Bagai,4,Australia,Canada,89,Canada,M Chinnaswamy Stadium,2,Australia
+88,13.6,0,SR Watson,2011-03-16,1st,ZE Surkari,9,,A Bagai,4,Australia,Canada,89,Canada,M Chinnaswamy Stadium,2,Australia
+89,14.1,1,MG Johnson,2011-03-16,1st,A Bagai,4,,ZE Surkari,10,Australia,Canada,90,Canada,M Chinnaswamy Stadium,2,Australia
+90,14.2,0,MG Johnson,2011-03-16,1st,ZE Surkari,10,,A Bagai,4,Australia,Canada,90,Canada,M Chinnaswamy Stadium,2,Australia
+91,14.3,0,MG Johnson,2011-03-16,1st,ZE Surkari,10,,A Bagai,4,Australia,Canada,90,Canada,M Chinnaswamy Stadium,2,Australia
+92,14.4,0,MG Johnson,2011-03-16,1st,ZE Surkari,10,,A Bagai,4,Australia,Canada,90,Canada,M Chinnaswamy Stadium,2,Australia
+93,14.5,4,MG Johnson,2011-03-16,1st,ZE Surkari,10,,A Bagai,8,Australia,Canada,94,Canada,M Chinnaswamy Stadium,2,Australia
+94,14.6,1,MG Johnson,2011-03-16,1st,ZE Surkari,10,,A Bagai,9,Australia,Canada,95,Canada,M Chinnaswamy Stadium,2,Australia
+95,15.1,0,B Lee,2011-03-16,1st,ZE Surkari,10,,A Bagai,9,Australia,Canada,95,Canada,M Chinnaswamy Stadium,2,Australia
+96,15.2,0,B Lee,2011-03-16,1st,ZE Surkari,10,,A Bagai,9,Australia,Canada,95,Canada,M Chinnaswamy Stadium,2,Australia
+97,15.3,4,B Lee,2011-03-16,1st,ZE Surkari,10,,A Bagai,13,Australia,Canada,99,Canada,M Chinnaswamy Stadium,2,Australia
+98,15.4,0,B Lee,2011-03-16,1st,ZE Surkari,10,,A Bagai,13,Australia,Canada,99,Canada,M Chinnaswamy Stadium,2,Australia
+99,15.5,0,B Lee,2011-03-16,1st,ZE Surkari,10,,A Bagai,13,Australia,Canada,99,Canada,M Chinnaswamy Stadium,2,Australia
+100,15.6,0,B Lee,2011-03-16,1st,ZE Surkari,10,,A Bagai,13,Australia,Canada,99,Canada,M Chinnaswamy Stadium,2,Australia
+101,16.1,2,MG Johnson,2011-03-16,1st,A Bagai,13,,ZE Surkari,12,Australia,Canada,101,Canada,M Chinnaswamy Stadium,2,Australia
+102,16.2,0,MG Johnson,2011-03-16,1st,A Bagai,13,,ZE Surkari,12,Australia,Canada,101,Canada,M Chinnaswamy Stadium,2,Australia
+103,16.3,0,MG Johnson,2011-03-16,1st,A Bagai,13,,ZE Surkari,12,Australia,Canada,101,Canada,M Chinnaswamy Stadium,2,Australia
+104,16.4,0,MG Johnson,2011-03-16,1st,A Bagai,13,,ZE Surkari,12,Australia,Canada,101,Canada,M Chinnaswamy Stadium,2,Australia
+105,16.5,0,MG Johnson,2011-03-16,1st,A Bagai,13,,ZE Surkari,12,Australia,Canada,101,Canada,M Chinnaswamy Stadium,2,Australia
+106,16.6,0,MG Johnson,2011-03-16,1st,A Bagai,13,,ZE Surkari,12,Australia,Canada,102,Canada,M Chinnaswamy Stadium,2,Australia
+107,16.7,0,MG Johnson,2011-03-16,1st,A Bagai,13,,ZE Surkari,12,Australia,Canada,102,Canada,M Chinnaswamy Stadium,2,Australia
+108,17.1,1,JJ Krejza,2011-03-16,1st,ZE Surkari,12,,A Bagai,14,Australia,Canada,103,Canada,M Chinnaswamy Stadium,2,Australia
+109,17.2,1,JJ Krejza,2011-03-16,1st,A Bagai,14,,ZE Surkari,13,Australia,Canada,104,Canada,M Chinnaswamy Stadium,2,Australia
+110,17.3,0,JJ Krejza,2011-03-16,1st,ZE Surkari,13,,A Bagai,14,Australia,Canada,105,Canada,M Chinnaswamy Stadium,2,Australia
+111,17.4,1,JJ Krejza,2011-03-16,1st,ZE Surkari,13,,A Bagai,15,Australia,Canada,106,Canada,M Chinnaswamy Stadium,2,Australia
+112,17.5,2,JJ Krejza,2011-03-16,1st,A Bagai,15,,ZE Surkari,15,Australia,Canada,108,Canada,M Chinnaswamy Stadium,2,Australia
+113,17.6,0,JJ Krejza,2011-03-16,1st,A Bagai,15,,ZE Surkari,15,Australia,Canada,108,Canada,M Chinnaswamy Stadium,2,Australia
+114,17.7,1,JJ Krejza,2011-03-16,1st,A Bagai,15,,ZE Surkari,16,Australia,Canada,109,Canada,M Chinnaswamy Stadium,2,Australia
+115,18.1,0,MG Johnson,2011-03-16,1st,A Bagai,15,,ZE Surkari,16,Australia,Canada,109,Canada,M Chinnaswamy Stadium,2,Australia
+116,18.2,0,MG Johnson,2011-03-16,1st,A Bagai,15,,ZE Surkari,16,Australia,Canada,109,Canada,M Chinnaswamy Stadium,2,Australia
+117,18.3,1,MG Johnson,2011-03-16,1st,A Bagai,15,,ZE Surkari,17,Australia,Canada,110,Canada,M Chinnaswamy Stadium,2,Australia
+118,18.4,0,MG Johnson,2011-03-16,1st,ZE Surkari,17,,A Bagai,15,Australia,Canada,110,Canada,M Chinnaswamy Stadium,2,Australia
+119,18.5,0,MG Johnson,2011-03-16,1st,ZE Surkari,17,,A Bagai,15,Australia,Canada,110,Canada,M Chinnaswamy Stadium,2,Australia
+120,18.6,0,MG Johnson,2011-03-16,1st,ZE Surkari,17,,A Bagai,15,Australia,Canada,110,Canada,M Chinnaswamy Stadium,2,Australia
+121,19.1,0,JJ Krejza,2011-03-16,1st,A Bagai,15,,ZE Surkari,17,Australia,Canada,110,Canada,M Chinnaswamy Stadium,2,Australia
+122,19.2,0,JJ Krejza,2011-03-16,1st,A Bagai,15,,ZE Surkari,17,Australia,Canada,110,Canada,M Chinnaswamy Stadium,2,Australia
+123,19.3,1,JJ Krejza,2011-03-16,1st,A Bagai,15,,ZE Surkari,18,Australia,Canada,111,Canada,M Chinnaswamy Stadium,2,Australia
+124,19.4,1,JJ Krejza,2011-03-16,1st,ZE Surkari,18,,A Bagai,16,Australia,Canada,112,Canada,M Chinnaswamy Stadium,2,Australia
+125,19.5,0,JJ Krejza,2011-03-16,1st,A Bagai,16,,ZE Surkari,18,Australia,Canada,112,Canada,M Chinnaswamy Stadium,2,Australia
+126,19.6,1,JJ Krejza,2011-03-16,1st,A Bagai,16,,ZE Surkari,19,Australia,Canada,113,Canada,M Chinnaswamy Stadium,2,Australia
+127,20.1,0,MG Johnson,2011-03-16,1st,A Bagai,16,,ZE Surkari,19,Australia,Canada,113,Canada,M Chinnaswamy Stadium,2,Australia
+128,20.2,1,MG Johnson,2011-03-16,1st,A Bagai,16,,ZE Surkari,20,Australia,Canada,114,Canada,M Chinnaswamy Stadium,2,Australia
+129,20.3,0,MG Johnson,2011-03-16,1st,ZE Surkari,20,,A Bagai,16,Australia,Canada,114,Canada,M Chinnaswamy Stadium,2,Australia
+130,20.4,1,MG Johnson,2011-03-16,1st,ZE Surkari,20,,A Bagai,17,Australia,Canada,115,Canada,M Chinnaswamy Stadium,2,Australia
+131,20.5,0,MG Johnson,2011-03-16,1st,A Bagai,17,,ZE Surkari,20,Australia,Canada,115,Canada,M Chinnaswamy Stadium,2,Australia
+132,20.6,0,MG Johnson,2011-03-16,1st,A Bagai,17,,ZE Surkari,20,Australia,Canada,115,Canada,M Chinnaswamy Stadium,2,Australia
+133,21.1,1,JJ Krejza,2011-03-16,1st,ZE Surkari,20,,A Bagai,18,Australia,Canada,116,Canada,M Chinnaswamy Stadium,2,Australia
+134,21.2,1,JJ Krejza,2011-03-16,1st,A Bagai,18,,ZE Surkari,21,Australia,Canada,117,Canada,M Chinnaswamy Stadium,2,Australia
+135,21.3,0,JJ Krejza,2011-03-16,1st,ZE Surkari,21,,A Bagai,18,Australia,Canada,118,Canada,M Chinnaswamy Stadium,2,Australia
+136,21.4,1,JJ Krejza,2011-03-16,1st,A Bagai,18,,ZE Surkari,22,Australia,Canada,119,Canada,M Chinnaswamy Stadium,2,Australia
+137,21.5,0,JJ Krejza,2011-03-16,1st,ZE Surkari,22,,A Bagai,18,Australia,Canada,119,Canada,M Chinnaswamy Stadium,2,Australia
+138,21.6,1,JJ Krejza,2011-03-16,1st,ZE Surkari,22,,A Bagai,19,Australia,Canada,120,Canada,M Chinnaswamy Stadium,2,Australia
+139,22.1,0,SR Watson,2011-03-16,1st,ZE Surkari,22,,A Bagai,19,Australia,Canada,120,Canada,M Chinnaswamy Stadium,2,Australia
+140,22.2,0,SR Watson,2011-03-16,1st,ZE Surkari,22,,A Bagai,19,Australia,Canada,120,Canada,M Chinnaswamy Stadium,2,Australia
+141,22.3,4,SR Watson,2011-03-16,1st,ZE Surkari,22,,A Bagai,23,Australia,Canada,124,Canada,M Chinnaswamy Stadium,2,Australia
+142,22.4,0,SR Watson,2011-03-16,1st,ZE Surkari,22,,A Bagai,23,Australia,Canada,124,Canada,M Chinnaswamy Stadium,2,Australia
+143,22.5,4,SR Watson,2011-03-16,1st,ZE Surkari,22,,A Bagai,27,Australia,Canada,128,Canada,M Chinnaswamy Stadium,2,Australia
+144,22.6,0,SR Watson,2011-03-16,1st,ZE Surkari,22,,A Bagai,27,Australia,Canada,128,Canada,M Chinnaswamy Stadium,2,Australia
+145,23.1,1,JJ Krejza,2011-03-16,1st,A Bagai,27,,ZE Surkari,23,Australia,Canada,129,Canada,M Chinnaswamy Stadium,2,Australia
+146,23.2,0,JJ Krejza,2011-03-16,1st,ZE Surkari,23,,A Bagai,27,Australia,Canada,129,Canada,M Chinnaswamy Stadium,2,Australia
+147,23.3,0,JJ Krejza,2011-03-16,1st,ZE Surkari,23,,A Bagai,27,Australia,Canada,129,Canada,M Chinnaswamy Stadium,2,Australia
+148,23.4,1,JJ Krejza,2011-03-16,1st,ZE Surkari,23,,A Bagai,28,Australia,Canada,130,Canada,M Chinnaswamy Stadium,2,Australia
+149,23.5,0,JJ Krejza,2011-03-16,1st,A Bagai,28,,ZE Surkari,23,Australia,Canada,130,Canada,M Chinnaswamy Stadium,2,Australia
+150,23.6,0,JJ Krejza,2011-03-16,1st,A Bagai,28,,ZE Surkari,23,Australia,Canada,130,Canada,M Chinnaswamy Stadium,2,Australia
+151,24.1,0,SR Watson,2011-03-16,1st,ZE Surkari,23,,A Bagai,28,Australia,Canada,130,Canada,M Chinnaswamy Stadium,2,Australia
+152,24.2,0,SR Watson,2011-03-16,1st,ZE Surkari,23,,A Bagai,28,Australia,Canada,130,Canada,M Chinnaswamy Stadium,2,Australia
+153,24.3,1,SR Watson,2011-03-16,1st,ZE Surkari,23,,A Bagai,29,Australia,Canada,131,Canada,M Chinnaswamy Stadium,2,Australia
+154,24.4,0,SR Watson,2011-03-16,1st,A Bagai,29,,ZE Surkari,23,Australia,Canada,131,Canada,M Chinnaswamy Stadium,2,Australia
+155,24.5,0,SR Watson,2011-03-16,1st,A Bagai,29,,ZE Surkari,23,Australia,Canada,131,Canada,M Chinnaswamy Stadium,2,Australia
+156,24.6,0,SR Watson,2011-03-16,1st,A Bagai,29,,ZE Surkari,23,Australia,Canada,131,Canada,M Chinnaswamy Stadium,2,Australia
+157,25.1,1,JJ Krejza,2011-03-16,1st,ZE Surkari,23,,A Bagai,30,Australia,Canada,132,Canada,M Chinnaswamy Stadium,2,Australia
+158,25.2,0,JJ Krejza,2011-03-16,1st,A Bagai,30,,ZE Surkari,23,Australia,Canada,132,Canada,M Chinnaswamy Stadium,2,Australia
+159,25.3,1,JJ Krejza,2011-03-16,1st,A Bagai,30,,ZE Surkari,24,Australia,Canada,133,Canada,M Chinnaswamy Stadium,2,Australia
+160,25.4,1,JJ Krejza,2011-03-16,1st,ZE Surkari,24,,A Bagai,31,Australia,Canada,134,Canada,M Chinnaswamy Stadium,2,Australia
+161,25.5,4,JJ Krejza,2011-03-16,1st,A Bagai,31,,ZE Surkari,28,Australia,Canada,138,Canada,M Chinnaswamy Stadium,2,Australia
+162,25.6,0,JJ Krejza,2011-03-16,1st,A Bagai,31,,ZE Surkari,28,Australia,Canada,138,Canada,M Chinnaswamy Stadium,2,Australia
+163,26.1,4,SW Tait,2011-03-16,1st,ZE Surkari,28,,A Bagai,35,Australia,Canada,142,Canada,M Chinnaswamy Stadium,2,Australia
+164,26.2,1,SW Tait,2011-03-16,1st,ZE Surkari,28,,A Bagai,36,Australia,Canada,143,Canada,M Chinnaswamy Stadium,2,Australia
+165,26.3,0,SW Tait,2011-03-16,1st,A Bagai,36,,ZE Surkari,28,Australia,Canada,143,Canada,M Chinnaswamy Stadium,2,Australia
+166,26.4,0,SW Tait,2011-03-16,1st,A Bagai,36,,ZE Surkari,28,Australia,Canada,144,Canada,M Chinnaswamy Stadium,2,Australia
+167,26.5,1,SW Tait,2011-03-16,1st,A Bagai,36,,ZE Surkari,29,Australia,Canada,145,Canada,M Chinnaswamy Stadium,2,Australia
+168,26.6,0,SW Tait,2011-03-16,1st,ZE Surkari,29,,A Bagai,36,Australia,Canada,146,Canada,M Chinnaswamy Stadium,2,Australia
+169,26.7,0,SW Tait,2011-03-16,1st,ZE Surkari,29,,A Bagai,36,Australia,Canada,146,Canada,M Chinnaswamy Stadium,2,Australia
+170,26.8,0,SW Tait,2011-03-16,1st,ZE Surkari,29,,A Bagai,36,Australia,Canada,146,Canada,M Chinnaswamy Stadium,2,Australia
+171,27.1,0,JJ Krejza,2011-03-16,1st,A Bagai,36,,ZE Surkari,29,Australia,Canada,146,Canada,M Chinnaswamy Stadium,2,Australia
+172,27.2,1,JJ Krejza,2011-03-16,1st,A Bagai,36,,ZE Surkari,30,Australia,Canada,147,Canada,M Chinnaswamy Stadium,2,Australia
+173,27.3,1,JJ Krejza,2011-03-16,1st,ZE Surkari,30,,A Bagai,37,Australia,Canada,148,Canada,M Chinnaswamy Stadium,2,Australia
+174,27.4,0,JJ Krejza,2011-03-16,1st,A Bagai,37,,ZE Surkari,30,Australia,Canada,148,Canada,M Chinnaswamy Stadium,2,Australia
+175,27.5,0,JJ Krejza,2011-03-16,1st,A Bagai,37,,ZE Surkari,30,Australia,Canada,148,Canada,M Chinnaswamy Stadium,2,Australia
+176,27.6,0,JJ Krejza,2011-03-16,1st,A Bagai,37,,ZE Surkari,30,Australia,Canada,148,Canada,M Chinnaswamy Stadium,2,Australia
+177,28.1,2,SW Tait,2011-03-16,1st,ZE Surkari,30,,A Bagai,39,Australia,Canada,150,Canada,M Chinnaswamy Stadium,2,Australia
+178,28.2,0,SW Tait,2011-03-16,1st,ZE Surkari,30,A Bagai,A Bagai,39,Australia,Canada,150,Canada,M Chinnaswamy Stadium,3,Australia
+179,28.3,1,SW Tait,2011-03-16,1st,ZE Surkari,30,,AS Hansra,1,Australia,Canada,151,Canada,M Chinnaswamy Stadium,3,Australia
+180,28.4,0,SW Tait,2011-03-16,1st,AS Hansra,1,,ZE Surkari,30,Australia,Canada,151,Canada,M Chinnaswamy Stadium,3,Australia
+181,28.5,0,SW Tait,2011-03-16,1st,AS Hansra,1,,ZE Surkari,30,Australia,Canada,151,Canada,M Chinnaswamy Stadium,3,Australia
+182,28.6,0,SW Tait,2011-03-16,1st,AS Hansra,1,,ZE Surkari,30,Australia,Canada,151,Canada,M Chinnaswamy Stadium,3,Australia
+183,29.1,1,JJ Krejza,2011-03-16,1st,ZE Surkari,30,,AS Hansra,2,Australia,Canada,152,Canada,M Chinnaswamy Stadium,3,Australia
+184,29.2,1,JJ Krejza,2011-03-16,1st,AS Hansra,2,,ZE Surkari,31,Australia,Canada,153,Canada,M Chinnaswamy Stadium,3,Australia
+185,29.3,1,JJ Krejza,2011-03-16,1st,ZE Surkari,31,,AS Hansra,3,Australia,Canada,154,Canada,M Chinnaswamy Stadium,3,Australia
+186,29.4,2,JJ Krejza,2011-03-16,1st,AS Hansra,3,,ZE Surkari,33,Australia,Canada,156,Canada,M Chinnaswamy Stadium,3,Australia
+187,29.5,1,JJ Krejza,2011-03-16,1st,AS Hansra,3,,ZE Surkari,34,Australia,Canada,157,Canada,M Chinnaswamy Stadium,3,Australia
+188,29.6,0,JJ Krejza,2011-03-16,1st,ZE Surkari,34,AS Hansra,AS Hansra,3,Australia,Canada,157,Canada,M Chinnaswamy Stadium,4,Australia
+189,30.1,0,SW Tait,2011-03-16,1st,Rizwan Cheema,0,,ZE Surkari,34,Australia,Canada,157,Canada,M Chinnaswamy Stadium,4,Australia
+190,30.2,0,SW Tait,2011-03-16,1st,Rizwan Cheema,0,,ZE Surkari,34,Australia,Canada,157,Canada,M Chinnaswamy Stadium,4,Australia
+191,30.3,0,SW Tait,2011-03-16,1st,Rizwan Cheema,0,,ZE Surkari,34,Australia,Canada,157,Canada,M Chinnaswamy Stadium,4,Australia
+192,30.4,0,SW Tait,2011-03-16,1st,Rizwan Cheema,0,ZE Surkari,ZE Surkari,34,Australia,Canada,157,Canada,M Chinnaswamy Stadium,5,Australia
+193,30.5,0,SW Tait,2011-03-16,1st,Rizwan Cheema,0,,NR Kumar,0,Australia,Canada,157,Canada,M Chinnaswamy Stadium,5,Australia
+194,30.6,1,SW Tait,2011-03-16,1st,Rizwan Cheema,0,,NR Kumar,1,Australia,Canada,158,Canada,M Chinnaswamy Stadium,5,Australia
+195,31.1,1,B Lee,2011-03-16,1st,Rizwan Cheema,0,,NR Kumar,2,Australia,Canada,159,Canada,M Chinnaswamy Stadium,5,Australia
+196,31.2,2,B Lee,2011-03-16,1st,NR Kumar,2,,Rizwan Cheema,2,Australia,Canada,161,Canada,M Chinnaswamy Stadium,5,Australia
+197,31.3,0,B Lee,2011-03-16,1st,NR Kumar,2,Rizwan Cheema,Rizwan Cheema,2,Australia,Canada,161,Canada,M Chinnaswamy Stadium,6,Australia
+198,31.4,0,B Lee,2011-03-16,1st,NR Kumar,2,,K Whatham,0,Australia,Canada,161,Canada,M Chinnaswamy Stadium,6,Australia
+199,31.5,0,B Lee,2011-03-16,1st,NR Kumar,2,,K Whatham,0,Australia,Canada,161,Canada,M Chinnaswamy Stadium,6,Australia
+200,31.6,0,B Lee,2011-03-16,1st,NR Kumar,2,,K Whatham,0,Australia,Canada,161,Canada,M Chinnaswamy Stadium,6,Australia
+201,32.1,1,SW Tait,2011-03-16,1st,K Whatham,0,,NR Kumar,3,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+202,32.2,0,SW Tait,2011-03-16,1st,NR Kumar,3,,K Whatham,0,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+203,32.3,0,SW Tait,2011-03-16,1st,NR Kumar,3,,K Whatham,0,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+204,32.4,0,SW Tait,2011-03-16,1st,NR Kumar,3,,K Whatham,0,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+205,32.5,0,SW Tait,2011-03-16,1st,NR Kumar,3,,K Whatham,0,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+206,32.6,0,SW Tait,2011-03-16,1st,NR Kumar,3,,K Whatham,0,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+207,33.1,0,B Lee,2011-03-16,1st,K Whatham,0,,NR Kumar,3,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+208,33.2,0,B Lee,2011-03-16,1st,K Whatham,0,,NR Kumar,3,Australia,Canada,162,Canada,M Chinnaswamy Stadium,6,Australia
+209,33.3,2,B Lee,2011-03-16,1st,K Whatham,0,,NR Kumar,5,Australia,Canada,164,Canada,M Chinnaswamy Stadium,6,Australia
+210,33.4,0,B Lee,2011-03-16,1st,K Whatham,0,,NR Kumar,5,Australia,Canada,164,Canada,M Chinnaswamy Stadium,6,Australia
+211,33.5,0,B Lee,2011-03-16,1st,K Whatham,0,,NR Kumar,5,Australia,Canada,164,Canada,M Chinnaswamy Stadium,6,Australia
+212,33.6,0,B Lee,2011-03-16,1st,K Whatham,0,,NR Kumar,5,Australia,Canada,164,Canada,M Chinnaswamy Stadium,6,Australia
+213,34.1,0,MG Johnson,2011-03-16,1st,NR Kumar,5,,K Whatham,0,Australia,Canada,164,Canada,M Chinnaswamy Stadium,6,Australia
+214,34.2,0,MG Johnson,2011-03-16,1st,NR Kumar,5,,K Whatham,0,Australia,Canada,165,Canada,M Chinnaswamy Stadium,6,Australia
+215,34.3,0,MG Johnson,2011-03-16,1st,NR Kumar,5,,K Whatham,0,Australia,Canada,165,Canada,M Chinnaswamy Stadium,6,Australia
+216,34.4,0,MG Johnson,2011-03-16,1st,NR Kumar,5,,K Whatham,0,Australia,Canada,165,Canada,M Chinnaswamy Stadium,6,Australia
+217,34.5,0,MG Johnson,2011-03-16,1st,NR Kumar,5,,K Whatham,0,Australia,Canada,165,Canada,M Chinnaswamy Stadium,6,Australia
+218,34.6,0,MG Johnson,2011-03-16,1st,NR Kumar,5,,K Whatham,0,Australia,Canada,165,Canada,M Chinnaswamy Stadium,6,Australia
+219,34.7,0,MG Johnson,2011-03-16,1st,NR Kumar,5,,K Whatham,0,Australia,Canada,165,Canada,M Chinnaswamy Stadium,6,Australia
+220,35.1,1,B Lee,2011-03-16,1st,K Whatham,0,,NR Kumar,6,Australia,Canada,166,Canada,M Chinnaswamy Stadium,6,Australia
+221,35.2,1,B Lee,2011-03-16,1st,NR Kumar,6,,K Whatham,1,Australia,Canada,167,Canada,M Chinnaswamy Stadium,6,Australia
+222,35.3,0,B Lee,2011-03-16,1st,K Whatham,1,,NR Kumar,6,Australia,Canada,167,Canada,M Chinnaswamy Stadium,6,Australia
+223,35.4,0,B Lee,2011-03-16,1st,K Whatham,1,,NR Kumar,6,Australia,Canada,167,Canada,M Chinnaswamy Stadium,6,Australia
+224,35.5,0,B Lee,2011-03-16,1st,K Whatham,1,,NR Kumar,6,Australia,Canada,167,Canada,M Chinnaswamy Stadium,6,Australia
+225,35.6,1,B Lee,2011-03-16,1st,K Whatham,1,,NR Kumar,7,Australia,Canada,168,Canada,M Chinnaswamy Stadium,6,Australia
+226,36.1,0,MG Johnson,2011-03-16,1st,K Whatham,1,,NR Kumar,7,Australia,Canada,168,Canada,M Chinnaswamy Stadium,6,Australia
+227,36.2,0,MG Johnson,2011-03-16,1st,K Whatham,1,,NR Kumar,7,Australia,Canada,169,Canada,M Chinnaswamy Stadium,6,Australia
+228,36.3,0,MG Johnson,2011-03-16,1st,K Whatham,1,,NR Kumar,7,Australia,Canada,169,Canada,M Chinnaswamy Stadium,6,Australia
+229,36.4,0,MG Johnson,2011-03-16,1st,K Whatham,1,NR Kumar,NR Kumar,7,Australia,Canada,169,Canada,M Chinnaswamy Stadium,7,Australia
+230,36.5,0,MG Johnson,2011-03-16,1st,K Whatham,1,,HS Baidwan,0,Australia,Canada,169,Canada,M Chinnaswamy Stadium,7,Australia
+231,36.6,4,MG Johnson,2011-03-16,1st,K Whatham,1,,HS Baidwan,4,Australia,Canada,173,Canada,M Chinnaswamy Stadium,7,Australia
+232,36.7,0,MG Johnson,2011-03-16,1st,K Whatham,1,,HS Baidwan,4,Australia,Canada,173,Canada,M Chinnaswamy Stadium,7,Australia
+233,37.1,0,JJ Krejza,2011-03-16,1st,HS Baidwan,4,,K Whatham,1,Australia,Canada,173,Canada,M Chinnaswamy Stadium,7,Australia
+234,37.2,1,JJ Krejza,2011-03-16,1st,HS Baidwan,4,,K Whatham,2,Australia,Canada,174,Canada,M Chinnaswamy Stadium,7,Australia
+235,37.3,1,JJ Krejza,2011-03-16,1st,K Whatham,2,,HS Baidwan,5,Australia,Canada,175,Canada,M Chinnaswamy Stadium,7,Australia
+236,37.4,0,JJ Krejza,2011-03-16,1st,HS Baidwan,5,,K Whatham,2,Australia,Canada,175,Canada,M Chinnaswamy Stadium,7,Australia
+237,37.5,0,JJ Krejza,2011-03-16,1st,HS Baidwan,5,,K Whatham,2,Australia,Canada,176,Canada,M Chinnaswamy Stadium,7,Australia
+238,37.6,0,JJ Krejza,2011-03-16,1st,HS Baidwan,5,,K Whatham,2,Australia,Canada,176,Canada,M Chinnaswamy Stadium,7,Australia
+239,37.7,0,JJ Krejza,2011-03-16,1st,HS Baidwan,5,,K Whatham,2,Australia,Canada,176,Canada,M Chinnaswamy Stadium,7,Australia
+240,38.1,0,MG Johnson,2011-03-16,1st,K Whatham,2,,HS Baidwan,5,Australia,Canada,176,Canada,M Chinnaswamy Stadium,7,Australia
+241,38.2,1,MG Johnson,2011-03-16,1st,K Whatham,2,,HS Baidwan,6,Australia,Canada,177,Canada,M Chinnaswamy Stadium,7,Australia
+242,38.3,0,MG Johnson,2011-03-16,1st,HS Baidwan,6,,K Whatham,2,Australia,Canada,177,Canada,M Chinnaswamy Stadium,7,Australia
+243,38.4,0,MG Johnson,2011-03-16,1st,HS Baidwan,6,,K Whatham,2,Australia,Canada,177,Canada,M Chinnaswamy Stadium,7,Australia
+244,38.5,0,MG Johnson,2011-03-16,1st,HS Baidwan,6,,K Whatham,2,Australia,Canada,177,Canada,M Chinnaswamy Stadium,7,Australia
+245,38.6,4,MG Johnson,2011-03-16,1st,HS Baidwan,6,,K Whatham,6,Australia,Canada,181,Canada,M Chinnaswamy Stadium,7,Australia
+246,39.1,1,JJ Krejza,2011-03-16,1st,K Whatham,6,,HS Baidwan,7,Australia,Canada,182,Canada,M Chinnaswamy Stadium,7,Australia
+247,39.2,1,JJ Krejza,2011-03-16,1st,HS Baidwan,7,,K Whatham,7,Australia,Canada,183,Canada,M Chinnaswamy Stadium,7,Australia
+248,39.3,1,JJ Krejza,2011-03-16,1st,K Whatham,7,,HS Baidwan,8,Australia,Canada,184,Canada,M Chinnaswamy Stadium,7,Australia
+249,39.4,0,JJ Krejza,2011-03-16,1st,HS Baidwan,8,,K Whatham,7,Australia,Canada,184,Canada,M Chinnaswamy Stadium,7,Australia
+250,39.5,0,JJ Krejza,2011-03-16,1st,HS Baidwan,8,,K Whatham,7,Australia,Canada,184,Canada,M Chinnaswamy Stadium,7,Australia
+251,39.6,1,JJ Krejza,2011-03-16,1st,HS Baidwan,8,,K Whatham,8,Australia,Canada,185,Canada,M Chinnaswamy Stadium,7,Australia
+252,40.1,0,SPD Smith,2011-03-16,1st,HS Baidwan,8,,K Whatham,8,Australia,Canada,185,Canada,M Chinnaswamy Stadium,7,Australia
+253,40.2,1,SPD Smith,2011-03-16,1st,HS Baidwan,8,,K Whatham,9,Australia,Canada,186,Canada,M Chinnaswamy Stadium,7,Australia
+254,40.3,0,SPD Smith,2011-03-16,1st,K Whatham,9,,HS Baidwan,8,Australia,Canada,186,Canada,M Chinnaswamy Stadium,7,Australia
+255,40.4,4,SPD Smith,2011-03-16,1st,K Whatham,9,,HS Baidwan,12,Australia,Canada,190,Canada,M Chinnaswamy Stadium,7,Australia
+256,40.5,0,SPD Smith,2011-03-16,1st,K Whatham,9,,HS Baidwan,12,Australia,Canada,190,Canada,M Chinnaswamy Stadium,7,Australia
+257,40.6,1,SPD Smith,2011-03-16,1st,K Whatham,9,,HS Baidwan,13,Australia,Canada,191,Canada,M Chinnaswamy Stadium,7,Australia
+258,41.1,4,JJ Krejza,2011-03-16,1st,K Whatham,9,,HS Baidwan,17,Australia,Canada,195,Canada,M Chinnaswamy Stadium,7,Australia
+259,41.2,0,JJ Krejza,2011-03-16,1st,K Whatham,9,HS Baidwan,HS Baidwan,17,Australia,Canada,195,Canada,M Chinnaswamy Stadium,8,Australia
+260,41.3,1,JJ Krejza,2011-03-16,1st,WD Balaji Rao,0,,K Whatham,10,Australia,Canada,196,Canada,M Chinnaswamy Stadium,8,Australia
+261,41.4,0,JJ Krejza,2011-03-16,1st,K Whatham,10,,WD Balaji Rao,0,Australia,Canada,196,Canada,M Chinnaswamy Stadium,8,Australia
+262,41.5,0,JJ Krejza,2011-03-16,1st,K Whatham,10,,WD Balaji Rao,0,Australia,Canada,196,Canada,M Chinnaswamy Stadium,8,Australia
+263,41.6,1,JJ Krejza,2011-03-16,1st,K Whatham,10,,WD Balaji Rao,1,Australia,Canada,197,Canada,M Chinnaswamy Stadium,8,Australia
+264,42.1,2,SPD Smith,2011-03-16,1st,K Whatham,10,,WD Balaji Rao,3,Australia,Canada,199,Canada,M Chinnaswamy Stadium,8,Australia
+265,42.2,1,SPD Smith,2011-03-16,1st,K Whatham,10,,WD Balaji Rao,4,Australia,Canada,200,Canada,M Chinnaswamy Stadium,8,Australia
+266,42.3,1,SPD Smith,2011-03-16,1st,WD Balaji Rao,4,,K Whatham,11,Australia,Canada,201,Canada,M Chinnaswamy Stadium,8,Australia
+267,42.4,0,SPD Smith,2011-03-16,1st,K Whatham,11,,WD Balaji Rao,4,Australia,Canada,201,Canada,M Chinnaswamy Stadium,8,Australia
+268,42.5,1,SPD Smith,2011-03-16,1st,K Whatham,11,,WD Balaji Rao,5,Australia,Canada,202,Canada,M Chinnaswamy Stadium,8,Australia
+269,42.6,1,SPD Smith,2011-03-16,1st,WD Balaji Rao,5,,K Whatham,12,Australia,Canada,203,Canada,M Chinnaswamy Stadium,8,Australia
+270,43.1,1,B Lee,2011-03-16,1st,WD Balaji Rao,5,,K Whatham,13,Australia,Canada,204,Canada,M Chinnaswamy Stadium,8,Australia
+271,43.2,0,B Lee,2011-03-16,1st,K Whatham,13,,WD Balaji Rao,5,Australia,Canada,204,Canada,M Chinnaswamy Stadium,8,Australia
+272,43.3,0,B Lee,2011-03-16,1st,K Whatham,13,,WD Balaji Rao,5,Australia,Canada,204,Canada,M Chinnaswamy Stadium,8,Australia
+273,43.4,0,B Lee,2011-03-16,1st,K Whatham,13,,WD Balaji Rao,5,Australia,Canada,204,Canada,M Chinnaswamy Stadium,8,Australia
+274,43.5,0,B Lee,2011-03-16,1st,K Whatham,13,,WD Balaji Rao,5,Australia,Canada,204,Canada,M Chinnaswamy Stadium,8,Australia
+275,43.6,0,B Lee,2011-03-16,1st,K Whatham,13,WD Balaji Rao,WD Balaji Rao,5,Australia,Canada,204,Canada,M Chinnaswamy Stadium,9,Australia
+276,44.1,0,SPD Smith,2011-03-16,1st,H Osinde,0,,K Whatham,13,Australia,Canada,204,Canada,M Chinnaswamy Stadium,9,Australia
+277,44.2,0,SPD Smith,2011-03-16,1st,H Osinde,0,,K Whatham,13,Australia,Canada,204,Canada,M Chinnaswamy Stadium,9,Australia
+278,44.3,1,SPD Smith,2011-03-16,1st,H Osinde,0,,K Whatham,14,Australia,Canada,205,Canada,M Chinnaswamy Stadium,9,Australia
+279,44.4,1,SPD Smith,2011-03-16,1st,K Whatham,14,,H Osinde,1,Australia,Canada,206,Canada,M Chinnaswamy Stadium,9,Australia
+280,44.5,0,SPD Smith,2011-03-16,1st,H Osinde,1,,K Whatham,14,Australia,Canada,206,Canada,M Chinnaswamy Stadium,9,Australia
+281,44.6,4,SPD Smith,2011-03-16,1st,H Osinde,1,,K Whatham,18,Australia,Canada,210,Canada,M Chinnaswamy Stadium,9,Australia
+282,45.1,0,B Lee,2011-03-16,1st,K Whatham,18,,H Osinde,1,Australia,Canada,210,Canada,M Chinnaswamy Stadium,9,Australia
+283,45.2,1,B Lee,2011-03-16,1st,K Whatham,18,,H Osinde,2,Australia,Canada,211,Canada,M Chinnaswamy Stadium,9,Australia
+284,45.3,0,B Lee,2011-03-16,1st,H Osinde,2,,K Whatham,18,Australia,Canada,211,Canada,M Chinnaswamy Stadium,9,Australia
+285,45.4,0,B Lee,2011-03-16,1st,H Osinde,2,K Whatham,K Whatham,18,Australia,Canada,211,Canada,M Chinnaswamy Stadium,10,Australia
+286,0.1,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,0,Canada,M Chinnaswamy Stadium,0,Australia
+287,0.2,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,0,Canada,M Chinnaswamy Stadium,0,Australia
+288,0.3,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,0,Canada,M Chinnaswamy Stadium,0,Australia
+289,0.4,1,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,1,Canada,M Chinnaswamy Stadium,0,Australia
+290,0.5,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,1,Canada,M Chinnaswamy Stadium,0,Australia
+291,0.6,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,1,Canada,M Chinnaswamy Stadium,0,Australia
+292,1.1,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,1,Canada,M Chinnaswamy Stadium,0,Australia
+293,1.2,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,2,Canada,M Chinnaswamy Stadium,0,Australia
+294,1.3,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,3,Canada,M Chinnaswamy Stadium,0,Australia
+295,1.4,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,3,Canada,M Chinnaswamy Stadium,0,Australia
+296,1.5,2,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,5,Canada,M Chinnaswamy Stadium,0,Australia
+297,1.6,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,5,Canada,M Chinnaswamy Stadium,0,Australia
+298,2.1,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,5,Canada,M Chinnaswamy Stadium,0,Australia
+299,2.2,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,5,Canada,M Chinnaswamy Stadium,0,Australia
+300,2.3,4,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,9,Canada,M Chinnaswamy Stadium,0,Australia
+301,2.4,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,9,Canada,M Chinnaswamy Stadium,0,Australia
+302,2.5,1,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,10,Canada,M Chinnaswamy Stadium,0,Australia
+303,2.6,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,10,Canada,M Chinnaswamy Stadium,0,Australia
+304,3.1,4,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,14,Canada,M Chinnaswamy Stadium,0,Australia
+305,3.2,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,14,Canada,M Chinnaswamy Stadium,0,Australia
+306,3.3,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,14,Canada,M Chinnaswamy Stadium,0,Australia
+307,3.4,4,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,18,Canada,M Chinnaswamy Stadium,0,Australia
+308,3.5,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,18,Canada,M Chinnaswamy Stadium,0,Australia
+309,3.6,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,19,Canada,M Chinnaswamy Stadium,0,Australia
+310,4.1,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,19,Canada,M Chinnaswamy Stadium,0,Australia
+311,4.2,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,19,Canada,M Chinnaswamy Stadium,0,Australia
+312,4.3,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,19,Canada,M Chinnaswamy Stadium,0,Australia
+313,4.4,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,19,Canada,M Chinnaswamy Stadium,0,Australia
+314,4.5,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,19,Canada,M Chinnaswamy Stadium,0,Australia
+315,4.6,4,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,23,Canada,M Chinnaswamy Stadium,0,Australia
+316,5.1,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,23,Canada,M Chinnaswamy Stadium,0,Australia
+317,5.2,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,23,Canada,M Chinnaswamy Stadium,0,Australia
+318,5.3,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,23,Canada,M Chinnaswamy Stadium,0,Australia
+319,5.4,4,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,27,Canada,M Chinnaswamy Stadium,0,Australia
+320,5.5,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,28,Canada,M Chinnaswamy Stadium,0,Australia
+321,5.6,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,28,Canada,M Chinnaswamy Stadium,0,Australia
+322,6.1,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,28,Canada,M Chinnaswamy Stadium,0,Australia
+323,6.2,1,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,29,Canada,M Chinnaswamy Stadium,0,Australia
+324,6.3,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,29,Canada,M Chinnaswamy Stadium,0,Australia
+325,6.4,4,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+326,6.5,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+327,6.6,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+328,7.1,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,33,Canada,M Chinnaswamy Stadium,0,Australia
+329,7.2,4,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,37,Canada,M Chinnaswamy Stadium,0,Australia
+330,7.3,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,38,Canada,M Chinnaswamy Stadium,0,Australia
+331,7.4,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,38,Canada,M Chinnaswamy Stadium,0,Australia
+332,7.5,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,38,Canada,M Chinnaswamy Stadium,0,Australia
+333,7.6,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,38,Canada,M Chinnaswamy Stadium,0,Australia
+334,8.1,2,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,40,Canada,M Chinnaswamy Stadium,0,Australia
+335,8.2,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,40,Canada,M Chinnaswamy Stadium,0,Australia
+336,8.3,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,40,Canada,M Chinnaswamy Stadium,0,Australia
+337,8.4,1,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+338,8.5,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+339,8.6,0,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+340,9.1,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+341,9.2,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+342,9.3,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+343,9.4,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+344,9.5,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+345,9.6,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,41,Canada,M Chinnaswamy Stadium,0,Australia
+346,10.1,1,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,42,Canada,M Chinnaswamy Stadium,0,Australia
+347,10.2,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,42,Canada,M Chinnaswamy Stadium,0,Australia
+348,10.3,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,42,Canada,M Chinnaswamy Stadium,0,Australia
+349,10.4,4,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,46,Canada,M Chinnaswamy Stadium,0,Australia
+350,10.5,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,46,Canada,M Chinnaswamy Stadium,0,Australia
+351,10.6,1,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,47,Canada,M Chinnaswamy Stadium,0,Australia
+352,11.1,1,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,48,Canada,M Chinnaswamy Stadium,0,Australia
+353,11.2,1,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,49,Canada,M Chinnaswamy Stadium,0,Australia
+354,11.3,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,49,Canada,M Chinnaswamy Stadium,0,Australia
+355,11.4,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,49,Canada,M Chinnaswamy Stadium,0,Australia
+356,11.5,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,49,Canada,M Chinnaswamy Stadium,0,Australia
+357,11.6,4,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,53,Canada,M Chinnaswamy Stadium,0,Australia
+358,12.1,1,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,54,Canada,M Chinnaswamy Stadium,0,Australia
+359,12.2,0,Rizwan Cheema,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,54,Canada,M Chinnaswamy Stadium,0,Australia
+360,12.3,1,Rizwan Cheema,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,55,Canada,M Chinnaswamy Stadium,0,Australia
+361,12.4,1,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,56,Canada,M Chinnaswamy Stadium,0,Australia
+362,12.5,0,Rizwan Cheema,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,56,Canada,M Chinnaswamy Stadium,0,Australia
+363,12.6,1,Rizwan Cheema,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,57,Canada,M Chinnaswamy Stadium,0,Australia
+364,13.1,1,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,58,Canada,M Chinnaswamy Stadium,0,Australia
+365,13.2,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,58,Canada,M Chinnaswamy Stadium,0,Australia
+366,13.3,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,58,Canada,M Chinnaswamy Stadium,0,Australia
+367,13.4,1,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,59,Canada,M Chinnaswamy Stadium,0,Australia
+368,13.5,1,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,60,Canada,M Chinnaswamy Stadium,0,Australia
+369,13.6,1,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,61,Canada,M Chinnaswamy Stadium,0,Australia
+370,14.1,0,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,61,Canada,M Chinnaswamy Stadium,0,Australia
+371,14.2,0,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,61,Canada,M Chinnaswamy Stadium,0,Australia
+372,14.3,1,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,62,Canada,M Chinnaswamy Stadium,0,Australia
+373,14.4,0,Rizwan Cheema,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,62,Canada,M Chinnaswamy Stadium,0,Australia
+374,14.5,4,Rizwan Cheema,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,66,Canada,M Chinnaswamy Stadium,0,Australia
+375,14.6,1,Rizwan Cheema,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,67,Canada,M Chinnaswamy Stadium,0,Australia
+376,15.1,1,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,68,Canada,M Chinnaswamy Stadium,0,Australia
+377,15.2,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,68,Canada,M Chinnaswamy Stadium,0,Australia
+378,15.3,1,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,69,Canada,M Chinnaswamy Stadium,0,Australia
+379,15.4,1,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,70,Canada,M Chinnaswamy Stadium,0,Australia
+380,15.5,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,70,Canada,M Chinnaswamy Stadium,0,Australia
+381,15.6,2,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,72,Canada,M Chinnaswamy Stadium,0,Australia
+382,16.1,1,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,73,Canada,M Chinnaswamy Stadium,0,Australia
+383,16.2,0,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,73,Canada,M Chinnaswamy Stadium,0,Australia
+384,16.3,1,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,74,Canada,M Chinnaswamy Stadium,0,Australia
+385,16.4,1,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,75,Canada,M Chinnaswamy Stadium,0,Australia
+386,16.5,1,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,76,Canada,M Chinnaswamy Stadium,0,Australia
+387,16.6,1,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,77,Canada,M Chinnaswamy Stadium,0,Australia
+388,17.1,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,77,Canada,M Chinnaswamy Stadium,0,Australia
+389,17.2,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,77,Canada,M Chinnaswamy Stadium,0,Australia
+390,17.3,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,78,Canada,M Chinnaswamy Stadium,0,Australia
+391,17.4,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,78,Canada,M Chinnaswamy Stadium,0,Australia
+392,17.5,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,78,Canada,M Chinnaswamy Stadium,0,Australia
+393,17.6,1,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,79,Canada,M Chinnaswamy Stadium,0,Australia
+394,18.1,0,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,79,Canada,M Chinnaswamy Stadium,0,Australia
+395,18.2,1,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,80,Canada,M Chinnaswamy Stadium,0,Australia
+396,18.3,0,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,80,Canada,M Chinnaswamy Stadium,0,Australia
+397,18.4,0,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,80,Canada,M Chinnaswamy Stadium,0,Australia
+398,18.5,0,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,80,Canada,M Chinnaswamy Stadium,0,Australia
+399,18.6,1,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,81,Canada,M Chinnaswamy Stadium,0,Australia
+400,19.1,1,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,82,Canada,M Chinnaswamy Stadium,0,Australia
+401,19.2,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,82,Canada,M Chinnaswamy Stadium,0,Australia
+402,19.3,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,82,Canada,M Chinnaswamy Stadium,0,Australia
+403,19.4,0,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,82,Canada,M Chinnaswamy Stadium,0,Australia
+404,19.5,6,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,88,Canada,M Chinnaswamy Stadium,0,Australia
+405,19.6,2,WD Balaji Rao,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,90,Canada,M Chinnaswamy Stadium,0,Australia
+406,20.1,2,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,92,Canada,M Chinnaswamy Stadium,0,Australia
+407,20.2,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,92,Canada,M Chinnaswamy Stadium,0,Australia
+408,20.3,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,92,Canada,M Chinnaswamy Stadium,0,Australia
+409,20.4,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,93,Canada,M Chinnaswamy Stadium,0,Australia
+410,20.5,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,93,Canada,M Chinnaswamy Stadium,0,Australia
+411,20.6,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,94,Canada,M Chinnaswamy Stadium,0,Australia
+412,21.1,2,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,96,Canada,M Chinnaswamy Stadium,0,Australia
+413,21.2,1,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,97,Canada,M Chinnaswamy Stadium,0,Australia
+414,21.3,0,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,97,Canada,M Chinnaswamy Stadium,0,Australia
+415,21.4,1,H Osinde,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,98,Canada,M Chinnaswamy Stadium,0,Australia
+416,21.5,4,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,102,Canada,M Chinnaswamy Stadium,0,Australia
+417,21.6,4,H Osinde,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,106,Canada,M Chinnaswamy Stadium,0,Australia
+418,22.1,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,107,Canada,M Chinnaswamy Stadium,0,Australia
+419,22.2,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,108,Canada,M Chinnaswamy Stadium,0,Australia
+420,22.3,0,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,108,Canada,M Chinnaswamy Stadium,0,Australia
+421,22.4,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,109,Canada,M Chinnaswamy Stadium,0,Australia
+422,22.5,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,110,Canada,M Chinnaswamy Stadium,0,Australia
+423,22.6,4,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,114,Canada,M Chinnaswamy Stadium,0,Australia
+424,23.1,4,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,118,Canada,M Chinnaswamy Stadium,0,Australia
+425,23.2,0,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,118,Canada,M Chinnaswamy Stadium,0,Australia
+426,23.3,0,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,118,Canada,M Chinnaswamy Stadium,0,Australia
+427,23.4,4,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,122,Canada,M Chinnaswamy Stadium,0,Australia
+428,23.5,4,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,126,Canada,M Chinnaswamy Stadium,0,Australia
+429,23.6,1,Rizwan Cheema,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,127,Canada,M Chinnaswamy Stadium,0,Australia
+430,24.1,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,128,Canada,M Chinnaswamy Stadium,0,Australia
+431,24.2,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,129,Canada,M Chinnaswamy Stadium,0,Australia
+432,24.3,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,129,Canada,M Chinnaswamy Stadium,0,Australia
+433,24.4,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,130,Canada,M Chinnaswamy Stadium,0,Australia
+434,24.5,1,HS Baidwan,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,131,Canada,M Chinnaswamy Stadium,0,Australia
+435,24.6,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,131,Canada,M Chinnaswamy Stadium,0,Australia
+436,25.1,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,131,Canada,M Chinnaswamy Stadium,0,Australia
+437,25.2,6,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,137,Canada,M Chinnaswamy Stadium,0,Australia
+438,25.3,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,137,Canada,M Chinnaswamy Stadium,0,Australia
+439,25.4,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,137,Canada,M Chinnaswamy Stadium,0,Australia
+440,25.5,0,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,137,Canada,M Chinnaswamy Stadium,0,Australia
+441,25.6,6,WD Balaji Rao,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,143,Canada,M Chinnaswamy Stadium,0,Australia
+442,26.1,1,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,144,Canada,M Chinnaswamy Stadium,0,Australia
+443,26.2,1,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,145,Canada,M Chinnaswamy Stadium,0,Australia
+444,26.3,1,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,146,Canada,M Chinnaswamy Stadium,0,Australia
+445,26.4,0,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,146,Canada,M Chinnaswamy Stadium,0,Australia
+446,26.5,0,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,146,Canada,M Chinnaswamy Stadium,0,Australia
+447,26.6,6,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,152,Canada,M Chinnaswamy Stadium,0,Australia
+448,27.1,0,H Patel,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,152,Canada,M Chinnaswamy Stadium,0,Australia
+449,27.2,1,H Patel,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,153,Canada,M Chinnaswamy Stadium,0,Australia
+450,27.3,6,H Patel,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,159,Canada,M Chinnaswamy Stadium,0,Australia
+451,27.4,4,H Patel,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,163,Canada,M Chinnaswamy Stadium,0,Australia
+452,27.5,4,H Patel,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,167,Canada,M Chinnaswamy Stadium,0,Australia
+453,27.6,4,H Patel,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,171,Canada,M Chinnaswamy Stadium,0,Australia
+454,28.1,4,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,175,Canada,M Chinnaswamy Stadium,0,Australia
+455,28.2,6,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,181,Canada,M Chinnaswamy Stadium,0,Australia
+456,28.3,1,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,182,Canada,M Chinnaswamy Stadium,0,Australia
+457,28.4,1,JM Davison,2011-03-16,2nd,BJ Haddin,0,,SR Watson,0,Australia,Canada,183,Canada,M Chinnaswamy Stadium,0,Australia
+458,28.5,0,JM Davison,2011-03-16,2nd,SR Watson,0,,BJ Haddin,0,Australia,Canada,183,Canada,M Chinnaswamy Stadium,1,Australia
+459,28.6,1,JM Davison,2011-03-16,2nd,SR Watson,0,,RT Ponting,0,Australia,Canada,184,Canada,M Chinnaswamy Stadium,1,Australia
+460,29.1,0,HS Baidwan,2011-03-16,2nd,SR Watson,0,,RT Ponting,0,Australia,Canada,184,Canada,M Chinnaswamy Stadium,1,Australia
+461,29.2,1,HS Baidwan,2011-03-16,2nd,SR Watson,0,,RT Ponting,0,Australia,Canada,185,Canada,M Chinnaswamy Stadium,1,Australia
+462,29.3,0,HS Baidwan,2011-03-16,2nd,RT Ponting,0,,SR Watson,0,Australia,Canada,185,Canada,M Chinnaswamy Stadium,2,Australia
+463,29.4,0,HS Baidwan,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,185,Canada,M Chinnaswamy Stadium,2,Australia
+464,29.5,0,HS Baidwan,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,185,Canada,M Chinnaswamy Stadium,2,Australia
+465,29.6,0,HS Baidwan,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,185,Canada,M Chinnaswamy Stadium,2,Australia
+466,30.1,4,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,189,Canada,M Chinnaswamy Stadium,2,Australia
+467,30.2,0,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,189,Canada,M Chinnaswamy Stadium,2,Australia
+468,30.3,0,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,189,Canada,M Chinnaswamy Stadium,2,Australia
+469,30.4,0,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,189,Canada,M Chinnaswamy Stadium,2,Australia
+470,30.5,4,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,193,Canada,M Chinnaswamy Stadium,2,Australia
+471,30.6,0,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,193,Canada,M Chinnaswamy Stadium,2,Australia
+472,31.1,0,HS Baidwan,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,193,Canada,M Chinnaswamy Stadium,2,Australia
+473,31.2,1,HS Baidwan,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,194,Canada,M Chinnaswamy Stadium,2,Australia
+474,31.3,0,HS Baidwan,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,194,Canada,M Chinnaswamy Stadium,2,Australia
+475,31.4,0,HS Baidwan,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,194,Canada,M Chinnaswamy Stadium,2,Australia
+476,31.5,0,HS Baidwan,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,194,Canada,M Chinnaswamy Stadium,2,Australia
+477,31.6,0,HS Baidwan,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,194,Canada,M Chinnaswamy Stadium,2,Australia
+478,32.1,0,H Osinde,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,194,Canada,M Chinnaswamy Stadium,2,Australia
+479,32.2,1,H Osinde,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,195,Canada,M Chinnaswamy Stadium,2,Australia
+480,32.3,0,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,195,Canada,M Chinnaswamy Stadium,2,Australia
+481,32.4,1,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,196,Canada,M Chinnaswamy Stadium,2,Australia
+482,32.5,1,H Osinde,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,197,Canada,M Chinnaswamy Stadium,2,Australia
+483,32.6,0,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,198,Canada,M Chinnaswamy Stadium,2,Australia
+484,32.7,0,H Osinde,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,198,Canada,M Chinnaswamy Stadium,2,Australia
+485,33.1,1,WD Balaji Rao,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,199,Canada,M Chinnaswamy Stadium,2,Australia
+486,33.2,2,WD Balaji Rao,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,201,Canada,M Chinnaswamy Stadium,2,Australia
+487,33.3,0,WD Balaji Rao,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,201,Canada,M Chinnaswamy Stadium,2,Australia
+488,33.4,4,WD Balaji Rao,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,205,Canada,M Chinnaswamy Stadium,2,Australia
+489,33.5,1,WD Balaji Rao,2011-03-16,2nd,RT Ponting,0,,MJ Clarke,0,Australia,Canada,206,Canada,M Chinnaswamy Stadium,2,Australia
+490,33.6,1,WD Balaji Rao,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,207,Canada,M Chinnaswamy Stadium,2,Australia
+491,34.1,0,H Osinde,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,207,Canada,M Chinnaswamy Stadium,2,Australia
+492,34.2,0,H Osinde,2011-03-16,2nd,MJ Clarke,0,,RT Ponting,0,Australia,Canada,207,Canada,M Chinnaswamy Stadium,3,Australia
+493,34.3,0,H Osinde,2011-03-16,2nd,MJ Clarke,0,,CL White,0,Australia,Canada,207,Canada,M Chinnaswamy Stadium,3,Australia
+494,34.4,0,H Osinde,2011-03-16,2nd,MJ Clarke,0,,CL White,0,Australia,Canada,207,Canada,M Chinnaswamy Stadium,3,Australia
+495,34.5,4,H Osinde,2011-03-16,2nd,MJ Clarke,0,,CL White,0,Australia,Canada,211,Canada,M Chinnaswamy Stadium,3,Australia
+496,34.6,0,H Osinde,2011-03-16,2nd,MJ Clarke,0,,CL White,0,Australia,Canada,212,Canada,M Chinnaswamy Stadium,3,Australia

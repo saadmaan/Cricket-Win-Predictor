@@ -1,0 +1,581 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Wahab Riaz,2011-04-23,1st,DS Smith,0,,LMP Simmons,0,West Indies,Pakistan,0,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+1,0.2,1,Wahab Riaz,2011-04-23,1st,DS Smith,0,,LMP Simmons,1,West Indies,Pakistan,1,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+2,0.3,1,Wahab Riaz,2011-04-23,1st,LMP Simmons,1,,DS Smith,1,West Indies,Pakistan,2,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+3,0.4,0,Wahab Riaz,2011-04-23,1st,DS Smith,1,,LMP Simmons,1,West Indies,Pakistan,3,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+4,0.5,0,Wahab Riaz,2011-04-23,1st,DS Smith,1,,LMP Simmons,1,West Indies,Pakistan,4,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+5,0.6,1,Wahab Riaz,2011-04-23,1st,DS Smith,1,,LMP Simmons,2,West Indies,Pakistan,5,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+6,0.7,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,1,West Indies,Pakistan,5,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+7,0.8,1,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,2,West Indies,Pakistan,6,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+8,1.1,4,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,10,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+9,1.2,0,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,10,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+10,1.3,0,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,11,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+11,1.4,0,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,11,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+12,1.5,0,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,11,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+13,1.6,0,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,11,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+14,1.7,0,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,12,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+15,2.1,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,12,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+16,2.2,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,6,West Indies,Pakistan,12,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+17,2.3,4,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,10,West Indies,Pakistan,16,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+18,2.4,4,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,14,West Indies,Pakistan,20,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+19,2.5,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,14,West Indies,Pakistan,20,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+20,2.6,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,2,,DS Smith,14,West Indies,Pakistan,20,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+21,3.1,0,Junaid Khan,2011-04-23,1st,DS Smith,14,,LMP Simmons,2,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+22,3.2,0,Junaid Khan,2011-04-23,1st,DS Smith,14,,LMP Simmons,2,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+23,3.3,0,Junaid Khan,2011-04-23,1st,DS Smith,14,,LMP Simmons,2,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+24,3.4,0,Junaid Khan,2011-04-23,1st,DS Smith,14,,LMP Simmons,2,West Indies,Pakistan,22,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+25,3.5,0,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,14,West Indies,Pakistan,22,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+26,3.6,1,Junaid Khan,2011-04-23,1st,LMP Simmons,2,,DS Smith,15,West Indies,Pakistan,23,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+27,3.7,1,Junaid Khan,2011-04-23,1st,DS Smith,15,,LMP Simmons,3,West Indies,Pakistan,24,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+28,4.1,1,Wahab Riaz,2011-04-23,1st,DS Smith,15,,LMP Simmons,4,West Indies,Pakistan,25,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+29,4.2,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,4,,DS Smith,15,West Indies,Pakistan,25,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+30,4.3,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,4,,DS Smith,15,West Indies,Pakistan,25,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+31,4.4,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,4,,DS Smith,15,West Indies,Pakistan,25,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+32,4.5,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,4,,DS Smith,15,West Indies,Pakistan,25,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+33,4.6,0,Wahab Riaz,2011-04-23,1st,LMP Simmons,4,,DS Smith,15,West Indies,Pakistan,25,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+34,5.1,0,Junaid Khan,2011-04-23,1st,DS Smith,15,,LMP Simmons,4,West Indies,Pakistan,25,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+35,5.2,1,Junaid Khan,2011-04-23,1st,DS Smith,15,,LMP Simmons,5,West Indies,Pakistan,26,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+36,5.3,0,Junaid Khan,2011-04-23,1st,LMP Simmons,5,,DS Smith,15,West Indies,Pakistan,26,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+37,5.4,0,Junaid Khan,2011-04-23,1st,LMP Simmons,5,,DS Smith,15,West Indies,Pakistan,27,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+38,5.5,2,Junaid Khan,2011-04-23,1st,LMP Simmons,5,,DS Smith,17,West Indies,Pakistan,29,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+39,5.6,0,Junaid Khan,2011-04-23,1st,LMP Simmons,5,,DS Smith,17,West Indies,Pakistan,29,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+40,5.7,0,Junaid Khan,2011-04-23,1st,LMP Simmons,5,,DS Smith,17,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+41,6.1,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,5,,DS Smith,17,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+42,6.2,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,5,,DS Smith,17,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+43,6.3,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,5,,DS Smith,17,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+44,6.4,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,5,DS Smith,DS Smith,17,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+45,6.5,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,5,,DM Bravo,0,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+46,6.6,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,5,,DM Bravo,0,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+47,7.1,0,Junaid Khan,2011-04-23,1st,DM Bravo,0,,LMP Simmons,5,West Indies,Pakistan,30,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+48,7.2,1,Junaid Khan,2011-04-23,1st,DM Bravo,0,,LMP Simmons,6,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+49,7.3,0,Junaid Khan,2011-04-23,1st,LMP Simmons,6,,DM Bravo,0,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+50,7.4,0,Junaid Khan,2011-04-23,1st,LMP Simmons,6,,DM Bravo,0,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+51,7.5,0,Junaid Khan,2011-04-23,1st,LMP Simmons,6,,DM Bravo,0,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+52,7.6,0,Junaid Khan,2011-04-23,1st,LMP Simmons,6,,DM Bravo,0,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+53,8.1,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,0,,LMP Simmons,6,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+54,8.2,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,0,,LMP Simmons,6,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+55,8.3,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,0,,LMP Simmons,6,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+56,8.4,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,0,,LMP Simmons,6,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+57,8.5,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,0,,LMP Simmons,6,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+58,8.6,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,0,,LMP Simmons,6,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+59,9.1,0,Junaid Khan,2011-04-23,1st,LMP Simmons,6,,DM Bravo,0,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+60,9.2,0,Junaid Khan,2011-04-23,1st,LMP Simmons,6,,DM Bravo,0,West Indies,Pakistan,32,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+61,9.3,1,Junaid Khan,2011-04-23,1st,LMP Simmons,6,,DM Bravo,1,West Indies,Pakistan,33,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+62,9.4,3,Junaid Khan,2011-04-23,1st,DM Bravo,1,,LMP Simmons,9,West Indies,Pakistan,36,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+63,9.5,1,Junaid Khan,2011-04-23,1st,LMP Simmons,9,,DM Bravo,2,West Indies,Pakistan,37,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+64,9.6,1,Junaid Khan,2011-04-23,1st,DM Bravo,2,,LMP Simmons,10,West Indies,Pakistan,38,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+65,9.7,0,Junaid Khan,2011-04-23,1st,LMP Simmons,10,,DM Bravo,2,West Indies,Pakistan,38,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+66,10.1,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,2,,LMP Simmons,11,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+67,10.2,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,11,,DM Bravo,2,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+68,10.3,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,11,,DM Bravo,2,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+69,10.4,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,11,,DM Bravo,2,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+70,10.5,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,11,,DM Bravo,2,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+71,10.6,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,11,,DM Bravo,2,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+72,11.1,0,Junaid Khan,2011-04-23,1st,DM Bravo,2,,LMP Simmons,11,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+73,11.2,0,Junaid Khan,2011-04-23,1st,DM Bravo,2,,LMP Simmons,11,West Indies,Pakistan,39,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+74,11.3,1,Junaid Khan,2011-04-23,1st,DM Bravo,2,,LMP Simmons,12,West Indies,Pakistan,40,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+75,11.4,2,Junaid Khan,2011-04-23,1st,LMP Simmons,12,,DM Bravo,4,West Indies,Pakistan,42,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+76,11.5,0,Junaid Khan,2011-04-23,1st,LMP Simmons,12,,DM Bravo,4,West Indies,Pakistan,43,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+77,11.6,0,Junaid Khan,2011-04-23,1st,DM Bravo,4,,LMP Simmons,12,West Indies,Pakistan,43,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+78,12.1,1,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,12,,DM Bravo,5,West Indies,Pakistan,44,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+79,12.2,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,5,,LMP Simmons,13,West Indies,Pakistan,45,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+80,12.3,1,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,13,,DM Bravo,6,West Indies,Pakistan,46,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+81,12.4,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,6,,LMP Simmons,14,West Indies,Pakistan,47,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+82,12.5,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,14,,DM Bravo,6,West Indies,Pakistan,47,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+83,12.6,1,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,14,,DM Bravo,7,West Indies,Pakistan,48,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+84,13.1,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,14,,DM Bravo,7,West Indies,Pakistan,48,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+85,13.2,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,14,,DM Bravo,7,West Indies,Pakistan,48,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+86,13.3,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,14,,DM Bravo,7,West Indies,Pakistan,48,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+87,13.4,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,14,,DM Bravo,7,West Indies,Pakistan,48,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+88,13.5,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,14,,DM Bravo,7,West Indies,Pakistan,48,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+89,13.6,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,14,,DM Bravo,7,West Indies,Pakistan,48,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+90,14.1,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,7,,LMP Simmons,15,West Indies,Pakistan,49,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+91,14.2,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,15,,DM Bravo,7,West Indies,Pakistan,49,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+92,14.3,1,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,15,,DM Bravo,8,West Indies,Pakistan,50,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+93,14.4,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,8,,LMP Simmons,16,West Indies,Pakistan,51,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+94,14.5,1,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,16,,DM Bravo,9,West Indies,Pakistan,52,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+95,14.6,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,9,,LMP Simmons,16,West Indies,Pakistan,52,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+96,15.1,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,16,,DM Bravo,9,West Indies,Pakistan,52,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+97,15.2,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,16,,DM Bravo,9,West Indies,Pakistan,52,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+98,15.3,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,16,,DM Bravo,9,West Indies,Pakistan,52,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+99,15.4,2,Saeed Ajmal,2011-04-23,1st,LMP Simmons,16,,DM Bravo,11,West Indies,Pakistan,54,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+100,15.5,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,16,,DM Bravo,11,West Indies,Pakistan,54,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+101,15.6,1,Saeed Ajmal,2011-04-23,1st,LMP Simmons,16,,DM Bravo,12,West Indies,Pakistan,55,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+102,16.1,0,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,16,,DM Bravo,12,West Indies,Pakistan,55,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+103,16.2,2,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,16,,DM Bravo,14,West Indies,Pakistan,57,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+104,16.3,1,Mohammad Hafeez,2011-04-23,1st,LMP Simmons,16,,DM Bravo,15,West Indies,Pakistan,58,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+105,16.4,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,15,,LMP Simmons,16,West Indies,Pakistan,58,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+106,16.5,4,Mohammad Hafeez,2011-04-23,1st,DM Bravo,15,,LMP Simmons,20,West Indies,Pakistan,62,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+107,16.6,2,Mohammad Hafeez,2011-04-23,1st,DM Bravo,15,,LMP Simmons,22,West Indies,Pakistan,64,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+108,17.1,1,Saeed Ajmal,2011-04-23,1st,LMP Simmons,22,,DM Bravo,16,West Indies,Pakistan,65,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+109,17.2,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,LMP Simmons,22,West Indies,Pakistan,65,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+110,17.3,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,LMP Simmons,22,West Indies,Pakistan,65,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+111,17.4,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,LMP Simmons,23,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+112,17.5,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,23,,DM Bravo,16,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+113,17.6,0,Saeed Ajmal,2011-04-23,1st,LMP Simmons,23,,DM Bravo,16,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+114,18.1,0,Shahid Afridi,2011-04-23,1st,DM Bravo,16,,LMP Simmons,23,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+115,18.2,0,Shahid Afridi,2011-04-23,1st,DM Bravo,16,,LMP Simmons,23,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+116,18.3,0,Shahid Afridi,2011-04-23,1st,DM Bravo,16,,LMP Simmons,23,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+117,18.4,0,Shahid Afridi,2011-04-23,1st,DM Bravo,16,,LMP Simmons,23,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+118,18.5,0,Shahid Afridi,2011-04-23,1st,DM Bravo,16,,LMP Simmons,23,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+119,18.6,1,Shahid Afridi,2011-04-23,1st,DM Bravo,16,,LMP Simmons,24,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+120,19.1,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,LMP Simmons,LMP Simmons,24,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+121,19.2,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,MN Samuels,0,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+122,19.3,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,MN Samuels,0,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+123,19.4,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,MN Samuels,0,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+124,19.5,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,MN Samuels,0,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+125,19.6,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,16,,MN Samuels,0,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+126,20.1,0,Shahid Afridi,2011-04-23,1st,MN Samuels,0,,DM Bravo,16,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+127,20.2,0,Shahid Afridi,2011-04-23,1st,MN Samuels,0,,DM Bravo,16,West Indies,Pakistan,69,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+128,20.3,1,Shahid Afridi,2011-04-23,1st,MN Samuels,0,,DM Bravo,17,West Indies,Pakistan,70,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+129,20.4,1,Shahid Afridi,2011-04-23,1st,DM Bravo,17,,MN Samuels,1,West Indies,Pakistan,71,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+130,20.5,0,Shahid Afridi,2011-04-23,1st,MN Samuels,1,,DM Bravo,17,West Indies,Pakistan,71,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+131,20.6,1,Shahid Afridi,2011-04-23,1st,MN Samuels,1,,DM Bravo,18,West Indies,Pakistan,72,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+132,21.1,1,Saeed Ajmal,2011-04-23,1st,MN Samuels,1,,DM Bravo,19,West Indies,Pakistan,73,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+133,21.2,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,19,,MN Samuels,1,West Indies,Pakistan,73,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+134,21.3,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,19,,MN Samuels,1,West Indies,Pakistan,73,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+135,21.4,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,19,,MN Samuels,1,West Indies,Pakistan,73,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+136,21.5,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,19,,MN Samuels,2,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+137,21.6,0,Saeed Ajmal,2011-04-23,1st,MN Samuels,2,,DM Bravo,19,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+138,22.1,0,Shahid Afridi,2011-04-23,1st,DM Bravo,19,,MN Samuels,2,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+139,22.2,0,Shahid Afridi,2011-04-23,1st,DM Bravo,19,,MN Samuels,2,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+140,22.3,0,Shahid Afridi,2011-04-23,1st,DM Bravo,19,,MN Samuels,2,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+141,22.4,0,Shahid Afridi,2011-04-23,1st,DM Bravo,19,,MN Samuels,2,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+142,22.5,0,Shahid Afridi,2011-04-23,1st,DM Bravo,19,,MN Samuels,2,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+143,22.6,0,Shahid Afridi,2011-04-23,1st,DM Bravo,19,,MN Samuels,2,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+144,23.1,2,Wahab Riaz,2011-04-23,1st,MN Samuels,2,,DM Bravo,21,West Indies,Pakistan,76,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+145,23.2,1,Wahab Riaz,2011-04-23,1st,MN Samuels,2,,DM Bravo,22,West Indies,Pakistan,77,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+146,23.3,0,Wahab Riaz,2011-04-23,1st,DM Bravo,22,,MN Samuels,2,West Indies,Pakistan,77,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+147,23.4,0,Wahab Riaz,2011-04-23,1st,DM Bravo,22,,MN Samuels,2,West Indies,Pakistan,77,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+148,23.5,0,Wahab Riaz,2011-04-23,1st,DM Bravo,22,MN Samuels,MN Samuels,2,West Indies,Pakistan,77,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+149,23.6,1,Wahab Riaz,2011-04-23,1st,DM Bravo,22,,KA Edwards,1,West Indies,Pakistan,78,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+150,24.1,0,Shahid Afridi,2011-04-23,1st,DM Bravo,22,,KA Edwards,1,West Indies,Pakistan,78,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+151,24.2,0,Shahid Afridi,2011-04-23,1st,DM Bravo,22,,KA Edwards,1,West Indies,Pakistan,78,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+152,24.3,0,Shahid Afridi,2011-04-23,1st,DM Bravo,22,,KA Edwards,1,West Indies,Pakistan,78,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+153,24.4,1,Shahid Afridi,2011-04-23,1st,DM Bravo,22,,KA Edwards,2,West Indies,Pakistan,79,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+154,24.5,0,Shahid Afridi,2011-04-23,1st,KA Edwards,2,,DM Bravo,22,West Indies,Pakistan,79,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+155,24.6,0,Shahid Afridi,2011-04-23,1st,KA Edwards,2,,DM Bravo,22,West Indies,Pakistan,79,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+156,25.1,0,Wahab Riaz,2011-04-23,1st,DM Bravo,22,,KA Edwards,2,West Indies,Pakistan,79,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+157,25.2,1,Wahab Riaz,2011-04-23,1st,DM Bravo,22,,KA Edwards,3,West Indies,Pakistan,80,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+158,25.3,0,Wahab Riaz,2011-04-23,1st,KA Edwards,3,,DM Bravo,22,West Indies,Pakistan,80,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+159,25.4,2,Wahab Riaz,2011-04-23,1st,KA Edwards,3,,DM Bravo,24,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+160,25.5,1,Wahab Riaz,2011-04-23,1st,KA Edwards,3,,DM Bravo,25,West Indies,Pakistan,84,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+161,25.6,2,Wahab Riaz,2011-04-23,1st,DM Bravo,25,,KA Edwards,5,West Indies,Pakistan,86,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+162,25.7,0,Wahab Riaz,2011-04-23,1st,DM Bravo,25,,KA Edwards,5,West Indies,Pakistan,86,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+163,26.1,0,Shahid Afridi,2011-04-23,1st,KA Edwards,5,,DM Bravo,25,West Indies,Pakistan,86,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+164,26.2,0,Shahid Afridi,2011-04-23,1st,KA Edwards,5,,DM Bravo,25,West Indies,Pakistan,86,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+165,26.3,1,Shahid Afridi,2011-04-23,1st,KA Edwards,5,,DM Bravo,26,West Indies,Pakistan,87,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+166,26.4,1,Shahid Afridi,2011-04-23,1st,DM Bravo,26,,KA Edwards,6,West Indies,Pakistan,88,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+167,26.5,1,Shahid Afridi,2011-04-23,1st,KA Edwards,6,,DM Bravo,27,West Indies,Pakistan,89,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+168,26.6,0,Shahid Afridi,2011-04-23,1st,DM Bravo,27,,KA Edwards,6,West Indies,Pakistan,89,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+169,27.1,1,Mohammad Hafeez,2011-04-23,1st,KA Edwards,6,,DM Bravo,28,West Indies,Pakistan,90,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+170,27.2,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,28,,KA Edwards,6,West Indies,Pakistan,90,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+171,27.3,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,28,,KA Edwards,7,West Indies,Pakistan,91,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+172,27.4,0,Mohammad Hafeez,2011-04-23,1st,KA Edwards,7,,DM Bravo,28,West Indies,Pakistan,91,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+173,27.5,1,Mohammad Hafeez,2011-04-23,1st,KA Edwards,7,,DM Bravo,29,West Indies,Pakistan,92,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+174,27.6,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,29,,KA Edwards,8,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+175,28.1,1,Shahid Afridi,2011-04-23,1st,DM Bravo,29,,KA Edwards,9,West Indies,Pakistan,94,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+176,28.2,0,Shahid Afridi,2011-04-23,1st,KA Edwards,9,,DM Bravo,29,West Indies,Pakistan,94,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+177,28.3,1,Shahid Afridi,2011-04-23,1st,KA Edwards,9,,DM Bravo,30,West Indies,Pakistan,95,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+178,28.4,0,Shahid Afridi,2011-04-23,1st,DM Bravo,30,,KA Edwards,9,West Indies,Pakistan,95,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+179,28.5,1,Shahid Afridi,2011-04-23,1st,DM Bravo,30,,KA Edwards,10,West Indies,Pakistan,96,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+180,28.6,0,Shahid Afridi,2011-04-23,1st,KA Edwards,10,,DM Bravo,30,West Indies,Pakistan,96,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+181,29.1,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,30,,KA Edwards,10,West Indies,Pakistan,96,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+182,29.2,0,Mohammad Hafeez,2011-04-23,1st,DM Bravo,30,,KA Edwards,10,West Indies,Pakistan,96,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+183,29.3,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,30,,KA Edwards,11,West Indies,Pakistan,97,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+184,29.4,1,Mohammad Hafeez,2011-04-23,1st,KA Edwards,11,,DM Bravo,31,West Indies,Pakistan,98,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+185,29.5,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,31,,KA Edwards,12,West Indies,Pakistan,99,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+186,29.6,0,Mohammad Hafeez,2011-04-23,1st,KA Edwards,12,,DM Bravo,31,West Indies,Pakistan,99,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+187,30.1,1,Shahid Afridi,2011-04-23,1st,DM Bravo,31,,KA Edwards,13,West Indies,Pakistan,100,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+188,30.2,0,Shahid Afridi,2011-04-23,1st,KA Edwards,13,,DM Bravo,31,West Indies,Pakistan,100,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+189,30.3,0,Shahid Afridi,2011-04-23,1st,KA Edwards,13,,DM Bravo,31,West Indies,Pakistan,100,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+190,30.4,0,Shahid Afridi,2011-04-23,1st,KA Edwards,13,,DM Bravo,31,West Indies,Pakistan,100,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+191,30.5,1,Shahid Afridi,2011-04-23,1st,KA Edwards,13,,DM Bravo,32,West Indies,Pakistan,101,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+192,30.6,1,Shahid Afridi,2011-04-23,1st,DM Bravo,32,,KA Edwards,14,West Indies,Pakistan,102,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+193,31.1,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,32,,KA Edwards,15,West Indies,Pakistan,103,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+194,31.2,2,Mohammad Hafeez,2011-04-23,1st,KA Edwards,15,,DM Bravo,34,West Indies,Pakistan,105,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+195,31.3,0,Mohammad Hafeez,2011-04-23,1st,KA Edwards,15,,DM Bravo,34,West Indies,Pakistan,105,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+196,31.4,0,Mohammad Hafeez,2011-04-23,1st,KA Edwards,15,,DM Bravo,34,West Indies,Pakistan,105,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+197,31.5,1,Mohammad Hafeez,2011-04-23,1st,KA Edwards,15,,DM Bravo,35,West Indies,Pakistan,106,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+198,31.6,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,35,,KA Edwards,16,West Indies,Pakistan,107,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+199,32.1,0,Junaid Khan,2011-04-23,1st,DM Bravo,35,,KA Edwards,16,West Indies,Pakistan,107,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+200,32.2,1,Junaid Khan,2011-04-23,1st,DM Bravo,35,,KA Edwards,17,West Indies,Pakistan,108,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+201,32.3,0,Junaid Khan,2011-04-23,1st,KA Edwards,17,,DM Bravo,35,West Indies,Pakistan,109,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+202,32.4,1,Junaid Khan,2011-04-23,1st,KA Edwards,17,,DM Bravo,36,West Indies,Pakistan,110,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+203,32.5,0,Junaid Khan,2011-04-23,1st,DM Bravo,36,,KA Edwards,17,West Indies,Pakistan,110,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+204,32.6,0,Junaid Khan,2011-04-23,1st,DM Bravo,36,,KA Edwards,17,West Indies,Pakistan,110,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+205,32.7,1,Junaid Khan,2011-04-23,1st,DM Bravo,36,,KA Edwards,18,West Indies,Pakistan,111,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+206,33.1,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,36,,KA Edwards,19,West Indies,Pakistan,112,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+207,33.2,1,Mohammad Hafeez,2011-04-23,1st,KA Edwards,19,,DM Bravo,37,West Indies,Pakistan,113,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+208,33.3,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,37,,KA Edwards,20,West Indies,Pakistan,114,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+209,33.4,1,Mohammad Hafeez,2011-04-23,1st,KA Edwards,20,,DM Bravo,38,West Indies,Pakistan,115,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+210,33.5,1,Mohammad Hafeez,2011-04-23,1st,DM Bravo,38,,KA Edwards,21,West Indies,Pakistan,116,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+211,33.6,0,Mohammad Hafeez,2011-04-23,1st,KA Edwards,21,,DM Bravo,38,West Indies,Pakistan,116,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+212,34.1,1,Junaid Khan,2011-04-23,1st,DM Bravo,38,,KA Edwards,22,West Indies,Pakistan,117,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+213,34.2,1,Junaid Khan,2011-04-23,1st,KA Edwards,22,,DM Bravo,39,West Indies,Pakistan,118,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+214,34.3,1,Junaid Khan,2011-04-23,1st,DM Bravo,39,,KA Edwards,23,West Indies,Pakistan,119,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+215,34.4,1,Junaid Khan,2011-04-23,1st,KA Edwards,23,,DM Bravo,40,West Indies,Pakistan,120,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+216,34.5,0,Junaid Khan,2011-04-23,1st,DM Bravo,40,,KA Edwards,23,West Indies,Pakistan,120,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+217,34.6,1,Junaid Khan,2011-04-23,1st,DM Bravo,40,,KA Edwards,24,West Indies,Pakistan,121,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+218,35.1,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,40,,KA Edwards,24,West Indies,Pakistan,121,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+219,35.2,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,40,,KA Edwards,25,West Indies,Pakistan,122,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+220,35.3,1,Saeed Ajmal,2011-04-23,1st,KA Edwards,25,,DM Bravo,41,West Indies,Pakistan,123,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+221,35.4,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,41,,KA Edwards,25,West Indies,Pakistan,123,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+222,35.5,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,41,,KA Edwards,25,West Indies,Pakistan,123,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+223,35.6,0,Saeed Ajmal,2011-04-23,1st,DM Bravo,41,,KA Edwards,25,West Indies,Pakistan,123,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+224,36.1,0,Wahab Riaz,2011-04-23,1st,KA Edwards,25,,DM Bravo,41,West Indies,Pakistan,124,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+225,36.2,0,Wahab Riaz,2011-04-23,1st,KA Edwards,25,,DM Bravo,41,West Indies,Pakistan,124,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+226,36.3,0,Wahab Riaz,2011-04-23,1st,KA Edwards,25,,DM Bravo,41,West Indies,Pakistan,125,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+227,36.4,1,Wahab Riaz,2011-04-23,1st,KA Edwards,25,,DM Bravo,42,West Indies,Pakistan,126,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+228,36.5,0,Wahab Riaz,2011-04-23,1st,DM Bravo,42,,KA Edwards,25,West Indies,Pakistan,126,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+229,36.6,0,Wahab Riaz,2011-04-23,1st,DM Bravo,42,,KA Edwards,25,West Indies,Pakistan,126,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+230,36.7,0,Wahab Riaz,2011-04-23,1st,DM Bravo,42,,KA Edwards,25,West Indies,Pakistan,126,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+231,36.8,1,Wahab Riaz,2011-04-23,1st,DM Bravo,42,,KA Edwards,26,West Indies,Pakistan,127,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+232,37.1,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,42,,KA Edwards,27,West Indies,Pakistan,128,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+233,37.2,0,Saeed Ajmal,2011-04-23,1st,KA Edwards,27,,DM Bravo,42,West Indies,Pakistan,128,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+234,37.3,1,Saeed Ajmal,2011-04-23,1st,KA Edwards,27,,DM Bravo,43,West Indies,Pakistan,129,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+235,37.4,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,43,,KA Edwards,28,West Indies,Pakistan,130,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+236,37.5,0,Saeed Ajmal,2011-04-23,1st,KA Edwards,28,,DM Bravo,43,West Indies,Pakistan,130,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+237,37.6,1,Saeed Ajmal,2011-04-23,1st,KA Edwards,28,,DM Bravo,44,West Indies,Pakistan,131,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+238,38.1,0,Wahab Riaz,2011-04-23,1st,KA Edwards,28,,DM Bravo,44,West Indies,Pakistan,132,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+239,38.2,2,Wahab Riaz,2011-04-23,1st,KA Edwards,28,,DM Bravo,46,West Indies,Pakistan,134,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+240,38.3,0,Wahab Riaz,2011-04-23,1st,KA Edwards,28,,DM Bravo,46,West Indies,Pakistan,134,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+241,38.4,1,Wahab Riaz,2011-04-23,1st,KA Edwards,28,,DM Bravo,47,West Indies,Pakistan,135,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+242,38.5,0,Wahab Riaz,2011-04-23,1st,DM Bravo,47,,KA Edwards,28,West Indies,Pakistan,136,West Indies,"Beausejour Stadium, Gros Islet",3,Pakistan
+243,38.6,0,Wahab Riaz,2011-04-23,1st,DM Bravo,47,KA Edwards,KA Edwards,28,West Indies,Pakistan,136,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+244,38.7,0,Wahab Riaz,2011-04-23,1st,DJ Bravo,0,,DM Bravo,47,West Indies,Pakistan,137,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+245,38.8,0,Wahab Riaz,2011-04-23,1st,DJ Bravo,0,,DM Bravo,47,West Indies,Pakistan,137,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+246,38.9,0,Wahab Riaz,2011-04-23,1st,DJ Bravo,0,,DM Bravo,47,West Indies,Pakistan,138,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+247,39.1,1,Shahid Afridi,2011-04-23,1st,DJ Bravo,0,,DM Bravo,48,West Indies,Pakistan,139,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+248,39.2,0,Shahid Afridi,2011-04-23,1st,DM Bravo,48,,DJ Bravo,0,West Indies,Pakistan,139,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+249,39.3,0,Shahid Afridi,2011-04-23,1st,DM Bravo,48,,DJ Bravo,0,West Indies,Pakistan,139,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+250,39.4,0,Shahid Afridi,2011-04-23,1st,DM Bravo,48,,DJ Bravo,0,West Indies,Pakistan,139,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+251,39.5,1,Shahid Afridi,2011-04-23,1st,DM Bravo,48,,DJ Bravo,1,West Indies,Pakistan,140,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+252,39.6,1,Shahid Afridi,2011-04-23,1st,DJ Bravo,1,,DM Bravo,49,West Indies,Pakistan,141,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+253,40.1,1,Junaid Khan,2011-04-23,1st,DJ Bravo,1,,DM Bravo,50,West Indies,Pakistan,142,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+254,40.2,0,Junaid Khan,2011-04-23,1st,DM Bravo,50,,DJ Bravo,1,West Indies,Pakistan,142,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+255,40.3,0,Junaid Khan,2011-04-23,1st,DM Bravo,50,,DJ Bravo,1,West Indies,Pakistan,142,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+256,40.4,0,Junaid Khan,2011-04-23,1st,DM Bravo,50,,DJ Bravo,1,West Indies,Pakistan,143,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+257,40.5,1,Junaid Khan,2011-04-23,1st,DM Bravo,50,,DJ Bravo,2,West Indies,Pakistan,144,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+258,40.6,1,Junaid Khan,2011-04-23,1st,DJ Bravo,2,,DM Bravo,51,West Indies,Pakistan,145,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+259,40.7,1,Junaid Khan,2011-04-23,1st,DM Bravo,51,,DJ Bravo,3,West Indies,Pakistan,146,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+260,41.1,2,Shahid Afridi,2011-04-23,1st,DM Bravo,51,,DJ Bravo,5,West Indies,Pakistan,148,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+261,41.2,1,Shahid Afridi,2011-04-23,1st,DM Bravo,51,,DJ Bravo,6,West Indies,Pakistan,149,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+262,41.3,0,Shahid Afridi,2011-04-23,1st,DJ Bravo,6,,DM Bravo,51,West Indies,Pakistan,149,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+263,41.4,1,Shahid Afridi,2011-04-23,1st,DJ Bravo,6,,DM Bravo,52,West Indies,Pakistan,150,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+264,41.5,2,Shahid Afridi,2011-04-23,1st,DM Bravo,52,,DJ Bravo,8,West Indies,Pakistan,152,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+265,41.6,1,Shahid Afridi,2011-04-23,1st,DM Bravo,52,,DJ Bravo,9,West Indies,Pakistan,153,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+266,42.1,0,Junaid Khan,2011-04-23,1st,DM Bravo,52,,DJ Bravo,9,West Indies,Pakistan,153,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+267,42.2,0,Junaid Khan,2011-04-23,1st,DM Bravo,52,,DJ Bravo,9,West Indies,Pakistan,154,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+268,42.3,1,Junaid Khan,2011-04-23,1st,DJ Bravo,9,,DM Bravo,53,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+269,42.4,1,Junaid Khan,2011-04-23,1st,DM Bravo,53,,DJ Bravo,10,West Indies,Pakistan,156,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+270,42.5,6,Junaid Khan,2011-04-23,1st,DJ Bravo,10,,DM Bravo,59,West Indies,Pakistan,162,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+271,42.6,4,Junaid Khan,2011-04-23,1st,DJ Bravo,10,,DM Bravo,63,West Indies,Pakistan,166,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+272,43.1,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,63,,DJ Bravo,11,West Indies,Pakistan,167,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+273,43.2,1,Saeed Ajmal,2011-04-23,1st,DJ Bravo,11,,DM Bravo,64,West Indies,Pakistan,168,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+274,43.3,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,64,,DJ Bravo,12,West Indies,Pakistan,169,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+275,43.4,0,Saeed Ajmal,2011-04-23,1st,DJ Bravo,12,,DM Bravo,64,West Indies,Pakistan,169,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+276,43.5,1,Saeed Ajmal,2011-04-23,1st,DJ Bravo,12,,DM Bravo,65,West Indies,Pakistan,170,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+277,43.6,1,Saeed Ajmal,2011-04-23,1st,DM Bravo,65,,DJ Bravo,13,West Indies,Pakistan,171,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+278,44.1,1,Wahab Riaz,2011-04-23,1st,DM Bravo,65,,DJ Bravo,14,West Indies,Pakistan,172,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+279,44.2,1,Wahab Riaz,2011-04-23,1st,DJ Bravo,14,,DM Bravo,66,West Indies,Pakistan,173,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+280,44.3,0,Wahab Riaz,2011-04-23,1st,DM Bravo,66,,DJ Bravo,14,West Indies,Pakistan,174,West Indies,"Beausejour Stadium, Gros Islet",4,Pakistan
+281,44.4,0,Wahab Riaz,2011-04-23,1st,DM Bravo,66,DJ Bravo,DJ Bravo,14,West Indies,Pakistan,174,West Indies,"Beausejour Stadium, Gros Islet",5,Pakistan
+282,44.5,0,Wahab Riaz,2011-04-23,1st,DM Bravo,66,,DJG Sammy,0,West Indies,Pakistan,175,West Indies,"Beausejour Stadium, Gros Islet",5,Pakistan
+283,44.6,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,0,,DM Bravo,66,West Indies,Pakistan,176,West Indies,"Beausejour Stadium, Gros Islet",5,Pakistan
+284,44.7,1,Wahab Riaz,2011-04-23,1st,DJG Sammy,0,DM Bravo,DM Bravo,67,West Indies,Pakistan,177,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+285,44.8,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,0,,CS Baugh,0,West Indies,Pakistan,178,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+286,44.9,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,0,,CS Baugh,0,West Indies,Pakistan,178,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+287,45.1,0,Saeed Ajmal,2011-04-23,1st,CS Baugh,0,,DJG Sammy,0,West Indies,Pakistan,178,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+288,45.2,0,Saeed Ajmal,2011-04-23,1st,CS Baugh,0,,DJG Sammy,0,West Indies,Pakistan,178,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+289,45.3,0,Saeed Ajmal,2011-04-23,1st,CS Baugh,0,,DJG Sammy,0,West Indies,Pakistan,178,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+290,45.4,4,Saeed Ajmal,2011-04-23,1st,CS Baugh,0,,DJG Sammy,4,West Indies,Pakistan,182,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+291,45.5,0,Saeed Ajmal,2011-04-23,1st,CS Baugh,0,,DJG Sammy,4,West Indies,Pakistan,182,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+292,45.6,0,Saeed Ajmal,2011-04-23,1st,CS Baugh,0,,DJG Sammy,4,West Indies,Pakistan,182,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+293,46.1,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,4,,CS Baugh,0,West Indies,Pakistan,182,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+294,46.2,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,4,,CS Baugh,0,West Indies,Pakistan,183,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+295,46.3,1,Wahab Riaz,2011-04-23,1st,DJG Sammy,4,,CS Baugh,1,West Indies,Pakistan,184,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+296,46.4,1,Wahab Riaz,2011-04-23,1st,CS Baugh,1,,DJG Sammy,5,West Indies,Pakistan,185,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+297,46.5,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,5,,CS Baugh,1,West Indies,Pakistan,185,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+298,46.6,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,5,,CS Baugh,1,West Indies,Pakistan,185,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+299,46.7,1,Wahab Riaz,2011-04-23,1st,DJG Sammy,5,,CS Baugh,2,West Indies,Pakistan,186,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+300,47.1,1,Shahid Afridi,2011-04-23,1st,DJG Sammy,5,,CS Baugh,3,West Indies,Pakistan,187,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+301,47.2,6,Shahid Afridi,2011-04-23,1st,CS Baugh,3,,DJG Sammy,11,West Indies,Pakistan,193,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+302,47.3,4,Shahid Afridi,2011-04-23,1st,CS Baugh,3,,DJG Sammy,15,West Indies,Pakistan,197,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+303,47.4,1,Shahid Afridi,2011-04-23,1st,CS Baugh,3,,DJG Sammy,16,West Indies,Pakistan,198,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+304,47.5,0,Shahid Afridi,2011-04-23,1st,DJG Sammy,16,,CS Baugh,3,West Indies,Pakistan,198,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+305,47.6,4,Shahid Afridi,2011-04-23,1st,DJG Sammy,16,,CS Baugh,7,West Indies,Pakistan,202,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+306,48.1,0,Wahab Riaz,2011-04-23,1st,CS Baugh,7,,DJG Sammy,16,West Indies,Pakistan,203,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+307,48.2,1,Wahab Riaz,2011-04-23,1st,CS Baugh,7,,DJG Sammy,17,West Indies,Pakistan,204,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+308,48.3,0,Wahab Riaz,2011-04-23,1st,DJG Sammy,17,,CS Baugh,7,West Indies,Pakistan,204,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+309,48.4,1,Wahab Riaz,2011-04-23,1st,DJG Sammy,17,,CS Baugh,8,West Indies,Pakistan,205,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+310,48.5,6,Wahab Riaz,2011-04-23,1st,CS Baugh,8,,DJG Sammy,23,West Indies,Pakistan,211,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+311,48.6,4,Wahab Riaz,2011-04-23,1st,CS Baugh,8,,DJG Sammy,27,West Indies,Pakistan,215,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+312,48.7,0,Wahab Riaz,2011-04-23,1st,CS Baugh,8,,DJG Sammy,27,West Indies,Pakistan,216,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+313,48.8,2,Wahab Riaz,2011-04-23,1st,CS Baugh,8,,DJG Sammy,29,West Indies,Pakistan,218,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+314,49.1,0,Saeed Ajmal,2011-04-23,1st,DJG Sammy,29,,CS Baugh,8,West Indies,Pakistan,218,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+315,49.2,1,Saeed Ajmal,2011-04-23,1st,DJG Sammy,29,,CS Baugh,9,West Indies,Pakistan,219,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+316,49.3,0,Saeed Ajmal,2011-04-23,1st,CS Baugh,9,,DJG Sammy,29,West Indies,Pakistan,219,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+317,49.4,0,Saeed Ajmal,2011-04-23,1st,CS Baugh,9,,DJG Sammy,29,West Indies,Pakistan,220,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+318,49.5,0,Saeed Ajmal,2011-04-23,1st,DJG Sammy,29,,CS Baugh,9,West Indies,Pakistan,220,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+319,49.6,1,Saeed Ajmal,2011-04-23,1st,DJG Sammy,29,,CS Baugh,10,West Indies,Pakistan,221,West Indies,"Beausejour Stadium, Gros Islet",6,Pakistan
+320,0.1,0,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,0,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+321,0.2,0,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,0,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+322,0.3,0,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,0,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+323,0.4,1,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,1,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+324,0.5,0,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,1,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+325,0.6,0,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,1,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+326,1.1,0,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,1,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+327,1.2,4,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,5,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+328,1.3,4,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,9,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+329,1.4,3,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,12,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+330,1.5,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,12,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+331,1.6,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,12,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+332,2.1,4,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,16,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+333,2.2,4,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,20,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+334,2.3,0,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,20,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+335,2.4,0,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,20,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+336,2.5,0,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,20,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+337,2.6,1,KAJ Roach,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+338,3.1,0,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+339,3.2,0,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+340,3.3,0,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+341,3.4,0,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,21,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+342,3.5,2,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,23,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+343,3.6,0,DJG Sammy,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,23,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+344,4.1,4,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,27,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+345,4.2,0,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,27,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+346,4.3,4,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+347,4.4,0,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,31,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+348,4.5,4,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,35,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+349,4.6,0,KAJ Roach,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,35,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+350,5.1,1,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,36,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+351,5.2,0,AD Russell,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,37,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+352,5.3,1,AD Russell,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,38,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+353,5.4,0,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,38,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+354,5.5,2,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,40,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+355,5.6,0,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,40,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+356,5.7,0,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+357,5.8,0,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+358,6.1,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+359,6.2,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+360,6.3,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+361,6.4,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+362,6.5,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+363,6.6,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,41,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+364,7.1,4,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,45,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+365,7.2,0,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,45,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+366,7.3,4,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,49,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+367,7.4,0,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,49,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+368,7.5,0,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,49,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+369,7.6,4,AD Russell,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,53,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+370,8.1,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,53,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+371,8.2,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,53,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+372,8.3,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,53,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+373,8.4,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,53,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+374,8.5,4,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,57,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+375,8.6,0,DJG Sammy,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,57,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+376,9.1,2,DJ Bravo,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,59,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+377,9.2,0,DJ Bravo,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,59,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+378,9.3,1,DJ Bravo,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,60,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+379,9.4,1,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,61,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+380,9.5,1,DJ Bravo,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,62,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+381,9.6,1,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,63,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+382,10.1,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,63,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+383,10.2,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,63,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+384,10.3,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,63,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+385,10.4,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,63,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+386,10.5,1,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,64,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+387,10.6,0,D Bishoo,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,64,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+388,11.1,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,64,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+389,11.2,1,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,65,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+390,11.3,1,DJ Bravo,2011-04-23,2nd,Ahmed Shehzad,0,,Mohammad Hafeez,0,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+391,11.4,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,66,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+392,11.5,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+393,11.6,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,67,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+394,11.7,1,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,68,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+395,12.1,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,68,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+396,12.2,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,68,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+397,12.3,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,68,West Indies,"Beausejour Stadium, Gros Islet",0,Pakistan
+398,12.4,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Ahmed Shehzad,0,West Indies,Pakistan,68,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+399,12.5,0,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,68,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+400,12.6,1,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,69,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+401,13.1,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,70,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+402,13.2,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,70,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+403,13.3,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,70,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+404,13.4,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,70,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+405,13.5,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,70,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+406,13.6,2,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,72,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+407,13.7,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,72,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+408,14.1,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,72,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+409,14.2,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,74,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+410,14.3,6,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,80,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+411,14.4,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,80,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+412,14.5,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+413,14.6,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+414,15.1,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+415,15.2,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+416,15.3,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+417,15.4,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+418,15.5,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+419,15.6,0,DJ Bravo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,82,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+420,16.1,1,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,83,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+421,16.2,4,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,87,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+422,16.3,1,D Bishoo,2011-04-23,2nd,Mohammad Hafeez,0,,Asad Shafiq,0,West Indies,Pakistan,88,West Indies,"Beausejour Stadium, Gros Islet",1,Pakistan
+423,16.4,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Mohammad Hafeez,0,West Indies,Pakistan,88,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+424,16.5,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,88,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+425,16.6,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,90,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+426,17.1,1,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,91,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+427,17.2,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,91,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+428,17.3,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,91,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+429,17.4,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,92,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+430,17.5,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,92,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+431,17.6,1,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+432,17.7,0,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+433,18.1,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+434,18.2,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+435,18.3,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+436,18.4,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+437,18.5,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,93,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+438,18.6,4,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,97,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+439,19.1,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,97,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+440,19.2,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,97,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+441,19.3,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,97,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+442,19.4,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,97,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+443,19.5,1,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,98,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+444,19.6,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,99,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+445,20.1,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,101,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+446,20.2,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,101,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+447,20.3,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,101,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+448,20.4,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,101,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+449,20.5,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,103,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+450,20.6,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,105,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+451,21.1,1,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,106,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+452,21.2,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,108,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+453,21.3,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,108,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+454,21.4,4,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,112,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+455,21.5,1,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,113,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+456,21.6,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,114,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+457,21.7,4,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,118,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+458,22.1,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,118,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+459,22.2,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,118,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+460,22.3,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,118,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+461,22.4,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,118,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+462,22.5,6,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,124,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+463,22.6,1,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,125,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+464,23.1,0,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,125,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+465,23.2,1,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,126,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+466,23.3,0,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,126,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+467,23.4,0,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,126,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+468,23.5,4,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,130,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+469,23.6,0,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,131,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+470,23.7,1,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,132,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+471,24.1,1,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,133,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+472,24.2,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,135,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+473,24.3,1,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,136,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+474,24.4,0,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,136,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+475,24.5,1,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,137,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+476,24.6,1,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,138,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+477,25.1,0,DS Smith,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,138,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+478,25.2,0,DS Smith,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,138,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+479,25.3,1,DS Smith,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,139,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+480,25.4,1,DS Smith,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,140,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+481,25.5,1,DS Smith,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,141,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+482,25.6,1,DS Smith,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,142,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+483,26.1,0,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,142,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+484,26.2,0,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,142,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+485,26.3,1,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,143,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+486,26.4,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,143,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+487,26.5,2,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,145,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+488,26.6,1,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,146,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+489,27.1,1,DS Smith,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,147,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+490,27.2,1,DS Smith,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,148,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+491,27.3,4,DS Smith,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,152,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+492,27.4,1,DS Smith,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,153,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+493,27.5,0,DS Smith,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,154,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+494,27.6,0,DS Smith,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,154,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+495,27.7,0,DS Smith,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,154,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+496,28.1,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,154,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+497,28.2,0,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,154,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+498,28.3,1,D Bishoo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+499,28.4,0,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+500,28.5,0,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+501,28.6,0,D Bishoo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+502,29.1,0,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+503,29.2,0,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+504,29.3,0,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+505,29.4,0,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+506,29.5,0,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+507,29.6,0,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,155,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+508,30.1,2,DJG Sammy,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,157,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+509,30.2,0,DJG Sammy,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,157,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+510,30.3,0,DJG Sammy,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,157,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+511,30.4,1,DJG Sammy,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,158,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+512,30.5,1,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,159,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+513,30.6,1,DJG Sammy,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,160,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+514,31.1,0,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,160,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+515,31.2,4,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,165,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+516,31.3,4,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,169,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+517,31.4,1,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,170,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+518,31.5,1,AD Russell,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,171,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+519,31.6,0,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,171,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+520,31.7,0,AD Russell,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,171,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+521,32.1,0,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,171,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+522,32.2,0,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,171,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+523,32.3,4,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,175,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+524,32.4,0,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,175,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+525,32.5,0,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,175,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+526,32.6,1,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,176,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+527,33.1,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,176,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+528,33.2,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,177,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+529,33.3,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,177,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+530,33.4,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,178,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+531,33.5,1,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,179,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+532,33.6,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,180,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+533,33.7,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,180,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+534,34.1,0,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,180,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+535,34.2,2,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,182,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+536,34.3,1,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,183,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+537,34.4,1,DJG Sammy,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,184,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+538,34.5,0,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,184,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+539,34.6,1,DJG Sammy,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,185,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+540,35.1,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,185,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+541,35.2,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,186,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+542,35.3,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,186,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+543,35.4,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,186,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+544,35.5,1,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,187,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+545,35.6,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,188,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+546,36.1,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,188,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+547,36.2,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,188,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+548,36.3,4,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,192,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+549,36.4,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,192,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+550,36.5,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,192,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+551,36.6,1,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,193,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+552,37.1,4,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,197,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+553,37.2,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,197,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+554,37.3,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,197,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+555,37.4,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,197,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+556,37.5,2,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,199,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+557,37.6,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,199,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+558,38.1,0,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,199,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+559,38.2,4,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,203,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+560,38.3,0,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,204,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+561,38.4,2,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,206,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+562,38.5,1,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,207,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+563,38.6,1,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,208,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+564,38.7,1,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,209,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+565,39.1,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,209,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+566,39.2,1,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,210,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+567,39.3,0,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,210,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+568,39.4,2,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,212,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+569,39.5,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,213,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+570,39.6,0,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,213,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+571,40.1,1,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,214,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+572,40.2,1,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,215,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+573,40.3,0,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,215,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+574,40.4,1,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,216,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+575,40.5,1,DJ Bravo,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,217,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+576,40.6,1,DJ Bravo,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,218,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+577,41.1,1,KAJ Roach,2011-04-23,2nd,Asad Shafiq,0,,Misbah-ul-Haq,0,West Indies,Pakistan,219,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+578,41.2,2,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,221,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan
+579,41.3,1,KAJ Roach,2011-04-23,2nd,Misbah-ul-Haq,0,,Asad Shafiq,0,West Indies,Pakistan,222,West Indies,"Beausejour Stadium, Gros Islet",2,Pakistan

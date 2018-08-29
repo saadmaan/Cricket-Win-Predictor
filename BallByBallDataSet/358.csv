@@ -1,0 +1,605 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,DBL Powell,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,0,Pakistan,West Indies,0,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+1,0.2,2,DBL Powell,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,2,Pakistan,West Indies,2,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+2,0.3,0,DBL Powell,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,2,Pakistan,West Indies,2,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+3,0.4,3,DBL Powell,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,5,Pakistan,West Indies,5,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+4,0.5,0,DBL Powell,2008-11-14,1st,Salman Butt,5,,Khurram Manzoor,0,Pakistan,West Indies,5,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+5,0.6,0,DBL Powell,2008-11-14,1st,Salman Butt,5,,Khurram Manzoor,0,Pakistan,West Indies,5,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+6,1.1,0,JE Taylor,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,5,Pakistan,West Indies,5,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+7,1.2,0,JE Taylor,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,5,Pakistan,West Indies,5,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+8,1.3,2,JE Taylor,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,7,Pakistan,West Indies,7,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+9,1.4,0,JE Taylor,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,7,Pakistan,West Indies,7,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+10,1.5,0,JE Taylor,2008-11-14,1st,Khurram Manzoor,0,,Salman Butt,7,Pakistan,West Indies,7,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+11,1.6,0,JE Taylor,2008-11-14,1st,Khurram Manzoor,0,Salman Butt,Salman Butt,7,Pakistan,West Indies,7,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+12,2.1,0,DBL Powell,2008-11-14,1st,Younis Khan,0,,Khurram Manzoor,0,Pakistan,West Indies,7,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+13,2.2,0,DBL Powell,2008-11-14,1st,Younis Khan,0,,Khurram Manzoor,0,Pakistan,West Indies,7,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+14,2.3,0,DBL Powell,2008-11-14,1st,Younis Khan,0,Khurram Manzoor,Khurram Manzoor,0,Pakistan,West Indies,7,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+15,2.4,1,DBL Powell,2008-11-14,1st,Younis Khan,0,,Misbah-ul-Haq,1,Pakistan,West Indies,8,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+16,2.5,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,1,,Younis Khan,0,Pakistan,West Indies,8,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+17,2.6,1,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,1,,Younis Khan,1,Pakistan,West Indies,9,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+18,3.1,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,1,,Younis Khan,1,Pakistan,West Indies,9,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+19,3.2,1,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,1,,Younis Khan,2,Pakistan,West Indies,10,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+20,3.3,2,JE Taylor,2008-11-14,1st,Younis Khan,2,,Misbah-ul-Haq,3,Pakistan,West Indies,12,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+21,3.4,0,JE Taylor,2008-11-14,1st,Younis Khan,2,,Misbah-ul-Haq,3,Pakistan,West Indies,12,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+22,3.5,0,JE Taylor,2008-11-14,1st,Younis Khan,2,,Misbah-ul-Haq,3,Pakistan,West Indies,12,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+23,3.6,0,JE Taylor,2008-11-14,1st,Younis Khan,2,,Misbah-ul-Haq,3,Pakistan,West Indies,12,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+24,4.1,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,2,Pakistan,West Indies,12,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+25,4.2,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,2,Pakistan,West Indies,12,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+26,4.3,1,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+27,4.4,0,DBL Powell,2008-11-14,1st,Younis Khan,3,,Misbah-ul-Haq,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+28,4.5,0,DBL Powell,2008-11-14,1st,Younis Khan,3,,Misbah-ul-Haq,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+29,4.6,0,DBL Powell,2008-11-14,1st,Younis Khan,3,,Misbah-ul-Haq,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+30,5.1,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+31,5.2,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+32,5.3,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+33,5.4,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+34,5.5,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+35,5.6,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,3,,Younis Khan,3,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+36,6.1,1,DBL Powell,2008-11-14,1st,Younis Khan,3,,Misbah-ul-Haq,4,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+37,6.2,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,4,,Younis Khan,3,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+38,6.3,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,4,,Younis Khan,3,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+39,6.4,4,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,4,,Younis Khan,7,Pakistan,West Indies,18,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+40,6.5,4,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,4,,Younis Khan,11,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+41,6.6,4,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,4,,Younis Khan,15,Pakistan,West Indies,26,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+42,7.1,1,JE Taylor,2008-11-14,1st,Younis Khan,15,,Misbah-ul-Haq,5,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+43,7.2,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,5,,Younis Khan,15,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+44,7.3,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,5,,Younis Khan,15,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+45,7.4,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,5,,Younis Khan,15,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+46,7.5,2,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,5,,Younis Khan,17,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+47,7.6,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,5,,Younis Khan,17,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+48,8.1,0,LS Baker,2008-11-14,1st,Younis Khan,17,,Misbah-ul-Haq,5,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+49,8.2,0,LS Baker,2008-11-14,1st,Younis Khan,17,,Misbah-ul-Haq,5,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+50,8.3,1,LS Baker,2008-11-14,1st,Younis Khan,17,,Misbah-ul-Haq,6,Pakistan,West Indies,30,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+51,8.4,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,6,,Younis Khan,17,Pakistan,West Indies,30,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+52,8.5,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,6,,Younis Khan,17,Pakistan,West Indies,30,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+53,8.6,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,6,,Younis Khan,17,Pakistan,West Indies,30,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+54,9.1,0,JE Taylor,2008-11-14,1st,Younis Khan,17,,Misbah-ul-Haq,6,Pakistan,West Indies,31,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+55,9.2,1,JE Taylor,2008-11-14,1st,Younis Khan,17,,Misbah-ul-Haq,7,Pakistan,West Indies,32,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+56,9.3,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,7,,Younis Khan,17,Pakistan,West Indies,32,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+57,9.4,2,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,7,,Younis Khan,19,Pakistan,West Indies,34,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+58,9.5,0,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,7,,Younis Khan,19,Pakistan,West Indies,34,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+59,9.6,1,JE Taylor,2008-11-14,1st,Misbah-ul-Haq,7,,Younis Khan,20,Pakistan,West Indies,35,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+60,9.7,2,JE Taylor,2008-11-14,1st,Younis Khan,20,,Misbah-ul-Haq,9,Pakistan,West Indies,37,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+61,10.1,1,LS Baker,2008-11-14,1st,Misbah-ul-Haq,9,,Younis Khan,21,Pakistan,West Indies,38,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+62,10.2,1,LS Baker,2008-11-14,1st,Younis Khan,21,,Misbah-ul-Haq,10,Pakistan,West Indies,39,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+63,10.3,1,LS Baker,2008-11-14,1st,Misbah-ul-Haq,10,,Younis Khan,22,Pakistan,West Indies,40,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+64,10.4,0,LS Baker,2008-11-14,1st,Younis Khan,22,,Misbah-ul-Haq,10,Pakistan,West Indies,40,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+65,10.5,2,LS Baker,2008-11-14,1st,Younis Khan,22,,Misbah-ul-Haq,12,Pakistan,West Indies,42,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+66,10.6,0,LS Baker,2008-11-14,1st,Younis Khan,22,,Misbah-ul-Haq,12,Pakistan,West Indies,44,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+67,11.1,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,12,,Younis Khan,22,Pakistan,West Indies,44,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+68,11.2,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,12,,Younis Khan,22,Pakistan,West Indies,44,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+69,11.3,4,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,12,,Younis Khan,26,Pakistan,West Indies,48,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+70,11.4,1,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,12,,Younis Khan,27,Pakistan,West Indies,49,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+71,11.5,0,DBL Powell,2008-11-14,1st,Younis Khan,27,,Misbah-ul-Haq,12,Pakistan,West Indies,49,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+72,11.6,0,DBL Powell,2008-11-14,1st,Younis Khan,27,,Misbah-ul-Haq,12,Pakistan,West Indies,49,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+73,12.1,1,LS Baker,2008-11-14,1st,Misbah-ul-Haq,12,,Younis Khan,28,Pakistan,West Indies,50,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+74,12.2,1,LS Baker,2008-11-14,1st,Younis Khan,28,,Misbah-ul-Haq,13,Pakistan,West Indies,51,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+75,12.3,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,13,,Younis Khan,28,Pakistan,West Indies,51,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+76,12.4,1,LS Baker,2008-11-14,1st,Misbah-ul-Haq,13,,Younis Khan,29,Pakistan,West Indies,52,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+77,12.5,0,LS Baker,2008-11-14,1st,Younis Khan,29,,Misbah-ul-Haq,13,Pakistan,West Indies,52,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+78,12.6,0,LS Baker,2008-11-14,1st,Younis Khan,29,,Misbah-ul-Haq,13,Pakistan,West Indies,52,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+79,13.1,4,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,13,,Younis Khan,33,Pakistan,West Indies,56,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+80,13.2,1,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,13,,Younis Khan,34,Pakistan,West Indies,57,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+81,13.3,0,DBL Powell,2008-11-14,1st,Younis Khan,34,,Misbah-ul-Haq,13,Pakistan,West Indies,57,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+82,13.4,0,DBL Powell,2008-11-14,1st,Younis Khan,34,,Misbah-ul-Haq,13,Pakistan,West Indies,57,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+83,13.5,1,DBL Powell,2008-11-14,1st,Younis Khan,34,,Misbah-ul-Haq,14,Pakistan,West Indies,58,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+84,13.6,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,14,Younis Khan,Younis Khan,34,Pakistan,West Indies,58,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+85,14.1,1,LS Baker,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,15,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+86,14.2,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,15,,Shoaib Malik,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+87,14.3,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,15,,Shoaib Malik,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+88,14.4,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,15,,Shoaib Malik,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+89,14.5,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,15,,Shoaib Malik,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+90,14.6,0,LS Baker,2008-11-14,1st,Misbah-ul-Haq,15,,Shoaib Malik,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+91,15.1,4,DBL Powell,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,19,Pakistan,West Indies,63,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+92,15.2,1,DBL Powell,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,20,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+93,15.3,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,20,,Shoaib Malik,0,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+94,15.4,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,20,,Shoaib Malik,0,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+95,15.5,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,20,,Shoaib Malik,0,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+96,15.6,0,DBL Powell,2008-11-14,1st,Misbah-ul-Haq,20,,Shoaib Malik,0,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+97,16.1,0,LS Baker,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,20,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+98,16.2,0,LS Baker,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,20,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+99,16.3,0,LS Baker,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,20,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+100,16.4,0,LS Baker,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,20,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+101,16.5,0,LS Baker,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,20,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+102,16.6,1,LS Baker,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,21,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+103,17.1,0,NO Miller,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,21,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+104,17.2,1,NO Miller,2008-11-14,1st,Shoaib Malik,0,,Misbah-ul-Haq,22,Pakistan,West Indies,66,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+105,17.3,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,22,,Shoaib Malik,0,Pakistan,West Indies,66,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+106,17.4,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,22,,Shoaib Malik,0,Pakistan,West Indies,66,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+107,17.5,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,22,,Shoaib Malik,1,Pakistan,West Indies,67,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+108,17.6,0,NO Miller,2008-11-14,1st,Shoaib Malik,1,,Misbah-ul-Haq,22,Pakistan,West Indies,67,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+109,18.1,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,22,,Shoaib Malik,2,Pakistan,West Indies,68,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+110,18.2,0,CH Gayle,2008-11-14,1st,Shoaib Malik,2,,Misbah-ul-Haq,22,Pakistan,West Indies,68,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+111,18.3,0,CH Gayle,2008-11-14,1st,Shoaib Malik,2,,Misbah-ul-Haq,22,Pakistan,West Indies,68,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+112,18.4,0,CH Gayle,2008-11-14,1st,Shoaib Malik,2,,Misbah-ul-Haq,22,Pakistan,West Indies,68,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+113,18.5,1,CH Gayle,2008-11-14,1st,Shoaib Malik,2,,Misbah-ul-Haq,23,Pakistan,West Indies,69,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+114,18.6,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,23,,Shoaib Malik,2,Pakistan,West Indies,69,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+115,19.1,0,NO Miller,2008-11-14,1st,Shoaib Malik,2,,Misbah-ul-Haq,23,Pakistan,West Indies,69,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+116,19.2,0,NO Miller,2008-11-14,1st,Shoaib Malik,2,,Misbah-ul-Haq,23,Pakistan,West Indies,69,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+117,19.3,1,NO Miller,2008-11-14,1st,Shoaib Malik,2,,Misbah-ul-Haq,24,Pakistan,West Indies,70,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+118,19.4,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,24,,Shoaib Malik,2,Pakistan,West Indies,70,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+119,19.5,3,NO Miller,2008-11-14,1st,Misbah-ul-Haq,24,,Shoaib Malik,5,Pakistan,West Indies,73,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+120,19.6,1,NO Miller,2008-11-14,1st,Shoaib Malik,5,,Misbah-ul-Haq,25,Pakistan,West Indies,74,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+121,20.1,2,CH Gayle,2008-11-14,1st,Shoaib Malik,5,,Misbah-ul-Haq,27,Pakistan,West Indies,76,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+122,20.2,0,CH Gayle,2008-11-14,1st,Shoaib Malik,5,,Misbah-ul-Haq,27,Pakistan,West Indies,76,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+123,20.3,0,CH Gayle,2008-11-14,1st,Shoaib Malik,5,,Misbah-ul-Haq,27,Pakistan,West Indies,76,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+124,20.4,2,CH Gayle,2008-11-14,1st,Shoaib Malik,5,,Misbah-ul-Haq,29,Pakistan,West Indies,78,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+125,20.5,1,CH Gayle,2008-11-14,1st,Shoaib Malik,5,,Misbah-ul-Haq,30,Pakistan,West Indies,79,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+126,20.6,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,30,,Shoaib Malik,6,Pakistan,West Indies,80,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+127,21.1,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,30,,Shoaib Malik,7,Pakistan,West Indies,81,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+128,21.2,1,NO Miller,2008-11-14,1st,Shoaib Malik,7,,Misbah-ul-Haq,31,Pakistan,West Indies,82,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+129,21.3,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,31,,Shoaib Malik,8,Pakistan,West Indies,83,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+130,21.4,1,NO Miller,2008-11-14,1st,Shoaib Malik,8,,Misbah-ul-Haq,32,Pakistan,West Indies,84,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+131,21.5,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,32,,Shoaib Malik,8,Pakistan,West Indies,84,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+132,21.6,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,32,,Shoaib Malik,9,Pakistan,West Indies,85,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+133,22.1,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,32,,Shoaib Malik,9,Pakistan,West Indies,85,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+134,22.2,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,32,,Shoaib Malik,9,Pakistan,West Indies,85,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+135,22.3,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,32,,Shoaib Malik,10,Pakistan,West Indies,86,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+136,22.4,0,CH Gayle,2008-11-14,1st,Shoaib Malik,10,,Misbah-ul-Haq,32,Pakistan,West Indies,86,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+137,22.5,1,CH Gayle,2008-11-14,1st,Shoaib Malik,10,Shoaib Malik,Misbah-ul-Haq,33,Pakistan,West Indies,87,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+138,22.6,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,33,,Kamran Akmal,1,Pakistan,West Indies,88,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+139,23.1,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,33,,Kamran Akmal,1,Pakistan,West Indies,88,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+140,23.2,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,33,,Kamran Akmal,2,Pakistan,West Indies,89,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+141,23.3,0,NO Miller,2008-11-14,1st,Kamran Akmal,2,,Misbah-ul-Haq,33,Pakistan,West Indies,89,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+142,23.4,0,NO Miller,2008-11-14,1st,Kamran Akmal,2,,Misbah-ul-Haq,33,Pakistan,West Indies,89,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+143,23.5,0,NO Miller,2008-11-14,1st,Kamran Akmal,2,,Misbah-ul-Haq,33,Pakistan,West Indies,89,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+144,23.6,0,NO Miller,2008-11-14,1st,Kamran Akmal,2,,Misbah-ul-Haq,33,Pakistan,West Indies,89,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+145,24.1,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,33,,Kamran Akmal,3,Pakistan,West Indies,90,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+146,24.2,1,CH Gayle,2008-11-14,1st,Kamran Akmal,3,,Misbah-ul-Haq,34,Pakistan,West Indies,91,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+147,24.3,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,34,,Kamran Akmal,4,Pakistan,West Indies,92,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+148,24.4,0,CH Gayle,2008-11-14,1st,Kamran Akmal,4,,Misbah-ul-Haq,34,Pakistan,West Indies,92,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+149,24.5,0,CH Gayle,2008-11-14,1st,Kamran Akmal,4,,Misbah-ul-Haq,34,Pakistan,West Indies,92,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+150,24.6,0,CH Gayle,2008-11-14,1st,Kamran Akmal,4,,Misbah-ul-Haq,34,Pakistan,West Indies,92,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+151,25.1,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,34,,Kamran Akmal,5,Pakistan,West Indies,93,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+152,25.2,1,NO Miller,2008-11-14,1st,Kamran Akmal,5,,Misbah-ul-Haq,35,Pakistan,West Indies,94,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+153,25.3,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,35,,Kamran Akmal,5,Pakistan,West Indies,94,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+154,25.4,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,35,,Kamran Akmal,5,Pakistan,West Indies,94,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+155,25.5,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,35,,Kamran Akmal,6,Pakistan,West Indies,95,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+156,25.6,1,NO Miller,2008-11-14,1st,Kamran Akmal,6,,Misbah-ul-Haq,36,Pakistan,West Indies,96,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+157,26.1,0,CH Gayle,2008-11-14,1st,Kamran Akmal,6,,Misbah-ul-Haq,36,Pakistan,West Indies,96,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+158,26.2,1,CH Gayle,2008-11-14,1st,Kamran Akmal,6,,Misbah-ul-Haq,37,Pakistan,West Indies,97,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+159,26.3,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,37,,Kamran Akmal,6,Pakistan,West Indies,97,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+160,26.4,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,37,,Kamran Akmal,6,Pakistan,West Indies,97,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+161,26.5,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,37,,Kamran Akmal,7,Pakistan,West Indies,98,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+162,26.6,1,CH Gayle,2008-11-14,1st,Kamran Akmal,7,,Misbah-ul-Haq,38,Pakistan,West Indies,99,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+163,27.1,0,NO Miller,2008-11-14,1st,Kamran Akmal,7,,Misbah-ul-Haq,38,Pakistan,West Indies,99,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+164,27.2,1,NO Miller,2008-11-14,1st,Kamran Akmal,7,,Misbah-ul-Haq,39,Pakistan,West Indies,100,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+165,27.3,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,39,,Kamran Akmal,8,Pakistan,West Indies,101,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+166,27.4,0,NO Miller,2008-11-14,1st,Kamran Akmal,8,,Misbah-ul-Haq,39,Pakistan,West Indies,101,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+167,27.5,0,NO Miller,2008-11-14,1st,Kamran Akmal,8,,Misbah-ul-Haq,39,Pakistan,West Indies,101,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+168,27.6,2,NO Miller,2008-11-14,1st,Kamran Akmal,8,,Misbah-ul-Haq,41,Pakistan,West Indies,103,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+169,28.1,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,41,,Kamran Akmal,8,Pakistan,West Indies,103,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+170,28.2,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,41,,Kamran Akmal,9,Pakistan,West Indies,104,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+171,28.3,1,CH Gayle,2008-11-14,1st,Kamran Akmal,9,,Misbah-ul-Haq,42,Pakistan,West Indies,105,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+172,28.4,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,42,,Kamran Akmal,10,Pakistan,West Indies,106,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+173,28.5,0,CH Gayle,2008-11-14,1st,Kamran Akmal,10,,Misbah-ul-Haq,42,Pakistan,West Indies,106,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+174,28.6,1,CH Gayle,2008-11-14,1st,Kamran Akmal,10,,Misbah-ul-Haq,43,Pakistan,West Indies,107,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+175,29.1,1,NO Miller,2008-11-14,1st,Kamran Akmal,10,,Misbah-ul-Haq,44,Pakistan,West Indies,108,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+176,29.2,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,44,,Kamran Akmal,10,Pakistan,West Indies,108,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+177,29.3,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,44,,Kamran Akmal,10,Pakistan,West Indies,108,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+178,29.4,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,44,,Kamran Akmal,11,Pakistan,West Indies,109,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+179,29.5,0,NO Miller,2008-11-14,1st,Kamran Akmal,11,,Misbah-ul-Haq,44,Pakistan,West Indies,109,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+180,29.6,1,NO Miller,2008-11-14,1st,Kamran Akmal,11,,Misbah-ul-Haq,45,Pakistan,West Indies,110,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+181,30.1,1,CH Gayle,2008-11-14,1st,Kamran Akmal,11,,Misbah-ul-Haq,46,Pakistan,West Indies,111,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+182,30.2,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,46,,Kamran Akmal,11,Pakistan,West Indies,111,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+183,30.3,2,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,46,,Kamran Akmal,13,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+184,30.4,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,46,,Kamran Akmal,14,Pakistan,West Indies,114,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+185,30.5,1,CH Gayle,2008-11-14,1st,Kamran Akmal,14,,Misbah-ul-Haq,47,Pakistan,West Indies,115,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+186,30.6,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,47,,Kamran Akmal,15,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+187,31.1,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,47,,Kamran Akmal,15,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+188,31.2,0,NO Miller,2008-11-14,1st,Misbah-ul-Haq,47,,Kamran Akmal,15,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+189,31.3,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,47,,Kamran Akmal,16,Pakistan,West Indies,117,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+190,31.4,1,NO Miller,2008-11-14,1st,Kamran Akmal,16,,Misbah-ul-Haq,48,Pakistan,West Indies,118,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+191,31.5,1,NO Miller,2008-11-14,1st,Misbah-ul-Haq,48,,Kamran Akmal,17,Pakistan,West Indies,119,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+192,31.6,1,NO Miller,2008-11-14,1st,Kamran Akmal,17,,Misbah-ul-Haq,49,Pakistan,West Indies,120,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+193,32.1,1,CH Gayle,2008-11-14,1st,Kamran Akmal,17,,Misbah-ul-Haq,50,Pakistan,West Indies,121,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+194,32.2,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,50,,Kamran Akmal,18,Pakistan,West Indies,122,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+195,32.3,1,CH Gayle,2008-11-14,1st,Kamran Akmal,18,,Misbah-ul-Haq,51,Pakistan,West Indies,123,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+196,32.4,1,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,51,,Kamran Akmal,19,Pakistan,West Indies,124,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+197,32.5,1,CH Gayle,2008-11-14,1st,Kamran Akmal,19,,Misbah-ul-Haq,52,Pakistan,West Indies,125,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+198,32.6,0,CH Gayle,2008-11-14,1st,Misbah-ul-Haq,52,,Kamran Akmal,19,Pakistan,West Indies,125,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+199,33.1,0,NO Miller,2008-11-14,1st,Kamran Akmal,19,Misbah-ul-Haq,Misbah-ul-Haq,52,Pakistan,West Indies,125,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+200,33.2,1,NO Miller,2008-11-14,1st,Kamran Akmal,19,,Shahid Afridi,1,Pakistan,West Indies,126,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+201,33.3,0,NO Miller,2008-11-14,1st,Shahid Afridi,1,,Kamran Akmal,19,Pakistan,West Indies,126,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+202,33.4,1,NO Miller,2008-11-14,1st,Shahid Afridi,1,,Kamran Akmal,20,Pakistan,West Indies,127,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+203,33.5,1,NO Miller,2008-11-14,1st,Kamran Akmal,20,,Shahid Afridi,2,Pakistan,West Indies,128,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+204,33.6,1,NO Miller,2008-11-14,1st,Shahid Afridi,2,,Kamran Akmal,21,Pakistan,West Indies,129,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+205,34.1,1,CH Gayle,2008-11-14,1st,Shahid Afridi,2,,Kamran Akmal,22,Pakistan,West Indies,130,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+206,34.2,1,CH Gayle,2008-11-14,1st,Kamran Akmal,22,,Shahid Afridi,3,Pakistan,West Indies,131,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+207,34.3,3,CH Gayle,2008-11-14,1st,Shahid Afridi,3,,Kamran Akmal,25,Pakistan,West Indies,134,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+208,34.4,1,CH Gayle,2008-11-14,1st,Kamran Akmal,25,,Shahid Afridi,4,Pakistan,West Indies,135,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+209,34.5,1,CH Gayle,2008-11-14,1st,Shahid Afridi,4,,Kamran Akmal,26,Pakistan,West Indies,136,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+210,34.6,0,CH Gayle,2008-11-14,1st,Kamran Akmal,26,,Shahid Afridi,4,Pakistan,West Indies,136,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+211,35.1,1,NO Miller,2008-11-14,1st,Shahid Afridi,4,,Kamran Akmal,27,Pakistan,West Indies,137,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+212,35.2,0,NO Miller,2008-11-14,1st,Kamran Akmal,27,,Shahid Afridi,4,Pakistan,West Indies,137,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+213,35.3,3,NO Miller,2008-11-14,1st,Kamran Akmal,27,,Shahid Afridi,7,Pakistan,West Indies,140,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+214,35.4,1,NO Miller,2008-11-14,1st,Shahid Afridi,7,,Kamran Akmal,28,Pakistan,West Indies,141,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+215,35.5,1,NO Miller,2008-11-14,1st,Kamran Akmal,28,,Shahid Afridi,8,Pakistan,West Indies,142,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+216,35.6,1,NO Miller,2008-11-14,1st,Shahid Afridi,8,,Kamran Akmal,29,Pakistan,West Indies,143,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+217,36.1,1,CH Gayle,2008-11-14,1st,Shahid Afridi,8,,Kamran Akmal,30,Pakistan,West Indies,144,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+218,36.2,1,CH Gayle,2008-11-14,1st,Kamran Akmal,30,,Shahid Afridi,9,Pakistan,West Indies,145,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+219,36.3,1,CH Gayle,2008-11-14,1st,Shahid Afridi,9,,Kamran Akmal,31,Pakistan,West Indies,146,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+220,36.4,0,CH Gayle,2008-11-14,1st,Kamran Akmal,31,,Shahid Afridi,9,Pakistan,West Indies,146,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+221,36.5,1,CH Gayle,2008-11-14,1st,Kamran Akmal,31,,Shahid Afridi,10,Pakistan,West Indies,147,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+222,36.6,1,CH Gayle,2008-11-14,1st,Shahid Afridi,10,,Kamran Akmal,32,Pakistan,West Indies,148,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+223,37.1,2,RR Sarwan,2008-11-14,1st,Shahid Afridi,10,,Kamran Akmal,34,Pakistan,West Indies,150,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+224,37.2,4,RR Sarwan,2008-11-14,1st,Shahid Afridi,10,,Kamran Akmal,38,Pakistan,West Indies,154,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+225,37.3,2,RR Sarwan,2008-11-14,1st,Shahid Afridi,10,,Kamran Akmal,40,Pakistan,West Indies,156,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+226,37.4,1,RR Sarwan,2008-11-14,1st,Shahid Afridi,10,,Kamran Akmal,41,Pakistan,West Indies,157,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+227,37.5,0,RR Sarwan,2008-11-14,1st,Kamran Akmal,41,,Shahid Afridi,10,Pakistan,West Indies,157,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+228,37.6,1,RR Sarwan,2008-11-14,1st,Kamran Akmal,41,,Shahid Afridi,11,Pakistan,West Indies,158,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+229,38.1,0,LS Baker,2008-11-14,1st,Kamran Akmal,41,,Shahid Afridi,11,Pakistan,West Indies,158,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+230,38.2,1,LS Baker,2008-11-14,1st,Kamran Akmal,41,,Shahid Afridi,12,Pakistan,West Indies,159,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+231,38.3,0,LS Baker,2008-11-14,1st,Shahid Afridi,12,,Kamran Akmal,41,Pakistan,West Indies,159,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+232,38.4,2,LS Baker,2008-11-14,1st,Shahid Afridi,12,,Kamran Akmal,43,Pakistan,West Indies,161,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+233,38.5,0,LS Baker,2008-11-14,1st,Shahid Afridi,12,,Kamran Akmal,43,Pakistan,West Indies,161,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+234,38.6,0,LS Baker,2008-11-14,1st,Shahid Afridi,12,,Kamran Akmal,43,Pakistan,West Indies,161,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+235,39.1,0,RR Sarwan,2008-11-14,1st,Kamran Akmal,43,,Shahid Afridi,12,Pakistan,West Indies,161,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+236,39.2,4,RR Sarwan,2008-11-14,1st,Kamran Akmal,43,,Shahid Afridi,16,Pakistan,West Indies,165,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+237,39.3,1,RR Sarwan,2008-11-14,1st,Kamran Akmal,43,,Shahid Afridi,17,Pakistan,West Indies,166,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+238,39.4,1,RR Sarwan,2008-11-14,1st,Shahid Afridi,17,,Kamran Akmal,44,Pakistan,West Indies,167,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+239,39.5,6,RR Sarwan,2008-11-14,1st,Kamran Akmal,44,,Shahid Afridi,23,Pakistan,West Indies,173,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+240,39.6,1,RR Sarwan,2008-11-14,1st,Kamran Akmal,44,,Shahid Afridi,24,Pakistan,West Indies,174,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+241,40.1,1,LS Baker,2008-11-14,1st,Kamran Akmal,44,,Shahid Afridi,25,Pakistan,West Indies,175,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+242,40.2,0,LS Baker,2008-11-14,1st,Shahid Afridi,25,,Kamran Akmal,44,Pakistan,West Indies,175,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+243,40.3,1,LS Baker,2008-11-14,1st,Shahid Afridi,25,,Kamran Akmal,45,Pakistan,West Indies,176,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+244,40.4,1,LS Baker,2008-11-14,1st,Kamran Akmal,45,,Shahid Afridi,26,Pakistan,West Indies,177,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+245,40.5,0,LS Baker,2008-11-14,1st,Shahid Afridi,26,Kamran Akmal,Kamran Akmal,45,Pakistan,West Indies,177,Pakistan,Sheikh Zayed Stadium,6,Pakistan
+246,40.6,0,LS Baker,2008-11-14,1st,Shahid Afridi,26,,Sohail Tanvir,0,Pakistan,West Indies,177,Pakistan,Sheikh Zayed Stadium,6,Pakistan
+247,41.1,2,JE Taylor,2008-11-14,1st,Sohail Tanvir,0,,Shahid Afridi,28,Pakistan,West Indies,179,Pakistan,Sheikh Zayed Stadium,6,Pakistan
+248,41.2,0,JE Taylor,2008-11-14,1st,Sohail Tanvir,0,Shahid Afridi,Shahid Afridi,28,Pakistan,West Indies,179,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+249,41.3,0,JE Taylor,2008-11-14,1st,Sohail Tanvir,0,,Iftikhar Anjum,0,Pakistan,West Indies,179,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+250,41.4,1,JE Taylor,2008-11-14,1st,Sohail Tanvir,0,,Iftikhar Anjum,1,Pakistan,West Indies,180,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+251,41.5,0,JE Taylor,2008-11-14,1st,Iftikhar Anjum,1,,Sohail Tanvir,0,Pakistan,West Indies,180,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+252,41.6,1,JE Taylor,2008-11-14,1st,Iftikhar Anjum,1,,Sohail Tanvir,1,Pakistan,West Indies,181,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+253,42.1,0,LS Baker,2008-11-14,1st,Iftikhar Anjum,1,,Sohail Tanvir,1,Pakistan,West Indies,181,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+254,42.2,1,LS Baker,2008-11-14,1st,Iftikhar Anjum,1,,Sohail Tanvir,2,Pakistan,West Indies,182,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+255,42.3,1,LS Baker,2008-11-14,1st,Sohail Tanvir,2,,Iftikhar Anjum,2,Pakistan,West Indies,183,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+256,42.4,1,LS Baker,2008-11-14,1st,Iftikhar Anjum,2,,Sohail Tanvir,3,Pakistan,West Indies,184,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+257,42.5,1,LS Baker,2008-11-14,1st,Sohail Tanvir,3,,Iftikhar Anjum,3,Pakistan,West Indies,185,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+258,42.6,1,LS Baker,2008-11-14,1st,Iftikhar Anjum,3,,Sohail Tanvir,4,Pakistan,West Indies,186,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+259,43.1,0,JE Taylor,2008-11-14,1st,Iftikhar Anjum,3,,Sohail Tanvir,4,Pakistan,West Indies,186,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+260,43.2,1,JE Taylor,2008-11-14,1st,Iftikhar Anjum,3,,Sohail Tanvir,5,Pakistan,West Indies,187,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+261,43.3,0,JE Taylor,2008-11-14,1st,Sohail Tanvir,5,,Iftikhar Anjum,3,Pakistan,West Indies,187,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+262,43.4,0,JE Taylor,2008-11-14,1st,Sohail Tanvir,5,,Iftikhar Anjum,3,Pakistan,West Indies,187,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+263,43.5,1,JE Taylor,2008-11-14,1st,Sohail Tanvir,5,,Iftikhar Anjum,4,Pakistan,West Indies,188,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+264,43.6,1,JE Taylor,2008-11-14,1st,Iftikhar Anjum,4,,Sohail Tanvir,6,Pakistan,West Indies,189,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+265,44.1,4,LS Baker,2008-11-14,1st,Iftikhar Anjum,4,,Sohail Tanvir,10,Pakistan,West Indies,193,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+266,44.2,1,LS Baker,2008-11-14,1st,Iftikhar Anjum,4,,Sohail Tanvir,11,Pakistan,West Indies,194,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+267,44.3,1,LS Baker,2008-11-14,1st,Sohail Tanvir,11,,Iftikhar Anjum,5,Pakistan,West Indies,195,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+268,44.4,1,LS Baker,2008-11-14,1st,Iftikhar Anjum,5,,Sohail Tanvir,12,Pakistan,West Indies,196,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+269,44.5,0,LS Baker,2008-11-14,1st,Sohail Tanvir,12,,Iftikhar Anjum,5,Pakistan,West Indies,196,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+270,44.6,2,LS Baker,2008-11-14,1st,Sohail Tanvir,12,,Iftikhar Anjum,7,Pakistan,West Indies,198,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+271,45.1,1,JE Taylor,2008-11-14,1st,Iftikhar Anjum,7,,Sohail Tanvir,13,Pakistan,West Indies,199,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+272,45.2,0,JE Taylor,2008-11-14,1st,Sohail Tanvir,13,Iftikhar Anjum,Iftikhar Anjum,7,Pakistan,West Indies,199,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+273,45.3,0,JE Taylor,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,0,Pakistan,West Indies,199,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+274,45.4,0,JE Taylor,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,0,Pakistan,West Indies,199,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+275,45.5,2,JE Taylor,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,2,Pakistan,West Indies,201,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+276,45.6,1,JE Taylor,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,3,Pakistan,West Indies,202,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+277,46.1,0,LS Baker,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,3,Pakistan,West Indies,202,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+278,46.2,0,LS Baker,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,3,Pakistan,West Indies,202,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+279,46.3,2,LS Baker,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,5,Pakistan,West Indies,204,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+280,46.4,0,LS Baker,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,5,Pakistan,West Indies,204,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+281,46.5,1,LS Baker,2008-11-14,1st,Sohail Tanvir,13,,Umar Gul,6,Pakistan,West Indies,205,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+282,46.6,1,LS Baker,2008-11-14,1st,Umar Gul,6,,Sohail Tanvir,14,Pakistan,West Indies,206,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+283,47.1,4,JE Taylor,2008-11-14,1st,Umar Gul,6,,Sohail Tanvir,18,Pakistan,West Indies,210,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+284,47.2,0,JE Taylor,2008-11-14,1st,Umar Gul,6,,Sohail Tanvir,18,Pakistan,West Indies,210,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+285,47.3,4,JE Taylor,2008-11-14,1st,Umar Gul,6,,Sohail Tanvir,22,Pakistan,West Indies,214,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+286,47.4,4,JE Taylor,2008-11-14,1st,Umar Gul,6,,Sohail Tanvir,26,Pakistan,West Indies,218,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+287,47.5,0,JE Taylor,2008-11-14,1st,Umar Gul,6,Sohail Tanvir,Sohail Tanvir,26,Pakistan,West Indies,218,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+288,47.6,0,JE Taylor,2008-11-14,1st,Umar Gul,6,,Saeed Ajmal,0,Pakistan,West Indies,218,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+289,48.1,1,DBL Powell,2008-11-14,1st,Saeed Ajmal,0,,Umar Gul,7,Pakistan,West Indies,219,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+290,48.2,0,DBL Powell,2008-11-14,1st,Umar Gul,7,,Saeed Ajmal,0,Pakistan,West Indies,219,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+291,48.3,4,DBL Powell,2008-11-14,1st,Umar Gul,7,,Saeed Ajmal,4,Pakistan,West Indies,223,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+292,48.4,0,DBL Powell,2008-11-14,1st,Umar Gul,7,,Saeed Ajmal,4,Pakistan,West Indies,224,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+293,48.5,0,DBL Powell,2008-11-14,1st,Umar Gul,7,,Saeed Ajmal,4,Pakistan,West Indies,225,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+294,48.6,0,DBL Powell,2008-11-14,1st,Saeed Ajmal,4,,Umar Gul,7,Pakistan,West Indies,226,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+295,48.7,6,DBL Powell,2008-11-14,1st,Saeed Ajmal,4,,Umar Gul,13,Pakistan,West Indies,232,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+296,48.8,0,DBL Powell,2008-11-14,1st,Saeed Ajmal,4,Umar Gul,Umar Gul,13,Pakistan,West Indies,232,Pakistan,Sheikh Zayed Stadium,10,Pakistan
+297,0.1,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,CH Gayle,0,Pakistan,West Indies,0,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+298,0.2,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,CH Gayle,0,Pakistan,West Indies,0,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+299,0.3,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,CH Gayle,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+300,0.4,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,CH Gayle,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+301,0.5,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,CH Gayle,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+302,0.6,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,CH Gayle,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,0,Pakistan
+303,0.7,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,CH Gayle,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+304,1.1,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+305,1.2,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+306,1.3,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+307,1.4,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+308,1.5,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+309,1.6,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+310,2.1,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+311,2.2,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+312,2.3,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+313,2.4,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,3,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+314,2.5,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,4,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+315,2.6,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,4,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+316,2.7,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,4,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+317,3.1,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,4,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+318,3.2,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,5,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+319,3.3,4,Umar Gul,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,9,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+320,3.4,0,Umar Gul,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,9,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+321,3.5,0,Umar Gul,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,10,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+322,3.6,0,Umar Gul,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,10,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+323,3.7,1,Umar Gul,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,11,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+324,4.1,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,11,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+325,4.2,0,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,12,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+326,4.3,1,Sohail Tanvir,2008-11-14,2nd,S Chattergoon,0,,RR Sarwan,0,Pakistan,West Indies,13,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+327,4.4,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+328,4.5,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+329,4.6,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,1,Pakistan
+330,4.7,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chattergoon,0,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+331,4.8,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+332,5.1,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,14,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+333,5.2,2,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,16,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+334,5.3,4,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,20,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+335,5.4,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,20,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+336,5.5,1,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,21,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+337,5.6,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,21,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+338,6.1,1,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+339,6.2,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+340,6.3,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+341,6.4,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+342,6.5,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+343,6.6,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+344,7.1,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+345,7.2,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+346,7.3,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+347,7.4,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+348,7.5,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+349,7.6,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+350,8.1,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,22,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+351,8.2,1,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,23,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+352,8.3,1,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,24,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+353,8.4,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,24,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+354,8.5,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,25,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+355,8.6,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,25,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+356,8.7,1,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,26,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+357,9.1,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+358,9.2,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+359,9.3,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+360,9.4,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+361,9.5,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+362,9.6,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+363,9.7,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,27,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+364,10.1,2,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+365,10.2,0,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+366,10.3,0,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+367,10.4,0,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+368,10.5,0,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,29,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+369,10.6,0,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,30,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+370,10.7,2,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,32,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+371,11.1,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,32,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+372,11.2,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,32,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+373,11.3,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,32,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+374,11.4,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,32,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+375,11.5,4,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,36,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+376,11.6,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,36,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+377,12.1,1,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,37,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+378,12.2,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,37,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+379,12.3,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,37,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+380,12.4,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,37,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+381,12.5,0,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,37,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+382,12.6,1,Sohail Tanvir,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,38,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+383,13.1,2,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,40,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+384,13.2,1,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,41,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+385,13.3,1,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,42,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+386,13.4,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,42,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+387,13.5,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,42,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+388,13.6,1,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,43,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+389,14.1,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,43,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+390,14.2,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,43,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+391,14.3,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,43,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+392,14.4,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,43,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+393,14.5,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,43,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+394,14.6,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,43,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+395,15.1,1,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,44,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+396,15.2,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,44,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+397,15.3,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,45,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+398,15.4,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,45,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+399,15.5,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,45,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+400,15.6,1,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,46,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+401,15.7,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,46,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+402,16.1,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,46,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+403,16.2,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,46,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+404,16.3,1,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,47,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+405,16.4,1,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,48,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+406,16.5,0,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,48,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+407,16.6,1,Umar Gul,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,49,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+408,17.1,1,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,50,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+409,17.2,1,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,51,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+410,17.3,2,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,53,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+411,17.4,2,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,55,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+412,17.5,0,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,55,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+413,17.6,1,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,56,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+414,18.1,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,56,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+415,18.2,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,57,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+416,18.3,1,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,58,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+417,18.4,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+418,18.5,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+419,18.6,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,59,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+420,19.1,1,Iftikhar Anjum,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,60,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+421,19.2,4,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,64,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+422,19.3,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+423,19.4,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+424,19.5,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+425,19.6,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+426,19.7,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+427,20.1,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+428,20.2,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+429,20.3,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,65,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+430,20.4,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,66,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+431,20.5,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,67,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+432,20.6,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,68,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+433,21.1,1,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,69,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+434,21.2,2,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,71,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+435,21.3,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,71,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+436,21.4,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,71,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+437,21.5,2,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,73,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+438,21.6,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,74,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+439,22.1,1,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,75,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+440,22.2,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,75,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+441,22.3,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,75,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+442,22.4,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,75,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+443,22.5,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,75,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+444,22.6,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,76,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+445,23.1,1,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,77,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+446,23.2,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,78,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+447,23.3,0,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,78,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+448,23.4,0,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,78,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+449,23.5,2,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,80,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+450,23.6,1,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,81,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+451,24.1,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,81,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+452,24.2,0,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,81,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+453,24.3,2,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,83,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+454,24.4,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,84,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+455,24.5,1,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,85,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+456,24.6,2,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,87,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+457,25.1,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,87,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+458,25.2,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,88,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+459,25.3,0,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,88,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+460,25.4,1,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,89,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+461,25.5,4,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,93,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+462,25.6,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,94,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+463,26.1,1,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,95,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+464,26.2,2,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,97,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+465,26.3,4,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,101,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+466,26.4,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,102,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+467,26.5,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,102,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+468,26.6,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,102,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+469,27.1,1,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,103,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+470,27.2,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,103,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+471,27.3,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,104,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+472,27.4,0,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,104,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+473,27.5,0,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,104,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+474,27.6,1,Saeed Ajmal,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,105,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+475,28.1,1,Shahid Afridi,2008-11-14,2nd,RR Sarwan,0,,S Chanderpaul,0,Pakistan,West Indies,106,Pakistan,Sheikh Zayed Stadium,2,Pakistan
+476,28.2,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,RR Sarwan,0,Pakistan,West Indies,106,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+477,28.3,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,XM Marshall,0,Pakistan,West Indies,106,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+478,28.4,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,XM Marshall,0,Pakistan,West Indies,106,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+479,28.5,1,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,XM Marshall,0,Pakistan,West Indies,107,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+480,28.6,1,Shahid Afridi,2008-11-14,2nd,XM Marshall,0,,S Chanderpaul,0,Pakistan,West Indies,108,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+481,29.1,0,Saeed Ajmal,2008-11-14,2nd,XM Marshall,0,,S Chanderpaul,0,Pakistan,West Indies,108,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+482,29.2,0,Saeed Ajmal,2008-11-14,2nd,XM Marshall,0,,S Chanderpaul,0,Pakistan,West Indies,108,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+483,29.3,0,Saeed Ajmal,2008-11-14,2nd,XM Marshall,0,,S Chanderpaul,0,Pakistan,West Indies,108,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+484,29.4,4,Saeed Ajmal,2008-11-14,2nd,XM Marshall,0,,S Chanderpaul,0,Pakistan,West Indies,112,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+485,29.5,0,Saeed Ajmal,2008-11-14,2nd,XM Marshall,0,,S Chanderpaul,0,Pakistan,West Indies,112,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+486,29.6,0,Saeed Ajmal,2008-11-14,2nd,XM Marshall,0,,S Chanderpaul,0,Pakistan,West Indies,112,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+487,30.1,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,XM Marshall,0,Pakistan,West Indies,112,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+488,30.2,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,XM Marshall,0,Pakistan,West Indies,112,Pakistan,Sheikh Zayed Stadium,3,Pakistan
+489,30.3,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,XM Marshall,0,Pakistan,West Indies,112,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+490,30.4,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,112,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+491,30.5,1,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+492,30.6,0,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+493,31.1,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+494,31.2,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+495,31.3,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+496,31.4,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+497,31.5,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+498,31.6,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+499,32.1,0,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,113,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+500,32.2,2,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,115,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+501,32.3,1,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+502,32.4,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+503,32.5,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+504,32.6,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+505,33.1,0,Saeed Ajmal,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,116,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+506,33.2,1,Saeed Ajmal,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,117,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+507,33.3,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,118,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+508,33.4,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,119,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+509,33.5,2,Saeed Ajmal,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,121,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+510,33.6,0,Saeed Ajmal,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,121,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+511,33.7,0,Saeed Ajmal,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,121,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+512,34.1,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,121,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+513,34.2,1,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,122,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+514,34.3,1,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,123,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+515,34.4,4,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,127,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+516,34.5,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,128,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+517,34.6,1,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,129,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+518,35.1,1,Shoaib Malik,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,130,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+519,35.2,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,131,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+520,35.3,1,Shoaib Malik,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,132,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+521,35.4,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,132,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+522,35.5,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,133,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+523,35.6,1,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,134,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+524,35.7,1,Shoaib Malik,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,135,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+525,36.1,2,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,137,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+526,36.2,0,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,137,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+527,36.3,1,Shahid Afridi,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,138,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+528,36.4,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,138,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+529,36.5,4,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,142,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+530,36.6,0,Shahid Afridi,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,142,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+531,37.1,1,Shoaib Malik,2008-11-14,2nd,SE Findlay,0,,S Chanderpaul,0,Pakistan,West Indies,143,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+532,37.2,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,143,Pakistan,Sheikh Zayed Stadium,4,Pakistan
+533,37.3,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,SE Findlay,0,Pakistan,West Indies,143,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+534,37.4,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,143,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+535,37.5,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,143,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+536,37.6,0,Shoaib Malik,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,143,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+537,38.1,4,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,147,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+538,38.2,0,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,147,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+539,38.3,2,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,149,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+540,38.4,1,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,150,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+541,38.5,1,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,151,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+542,38.6,1,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,152,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+543,39.1,0,Iftikhar Anjum,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,152,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+544,39.2,1,Iftikhar Anjum,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,153,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+545,39.3,1,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,154,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+546,39.4,4,Iftikhar Anjum,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,158,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+547,39.5,1,Iftikhar Anjum,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,159,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+548,39.6,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,159,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+549,40.1,1,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,160,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+550,40.2,1,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,161,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+551,40.3,2,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,163,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+552,40.4,4,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,167,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+553,40.5,1,Umar Gul,2008-11-14,2nd,CS Baugh,0,,S Chanderpaul,0,Pakistan,West Indies,168,Pakistan,Sheikh Zayed Stadium,5,Pakistan
+554,40.6,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,CS Baugh,0,Pakistan,West Indies,168,Pakistan,Sheikh Zayed Stadium,6,Pakistan
+555,41.1,1,Iftikhar Anjum,2008-11-14,2nd,JE Taylor,0,,S Chanderpaul,0,Pakistan,West Indies,169,Pakistan,Sheikh Zayed Stadium,6,Pakistan
+556,41.2,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,JE Taylor,0,Pakistan,West Indies,170,Pakistan,Sheikh Zayed Stadium,6,Pakistan
+557,41.3,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,JE Taylor,0,Pakistan,West Indies,170,Pakistan,Sheikh Zayed Stadium,6,Pakistan
+558,41.4,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,JE Taylor,0,Pakistan,West Indies,170,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+559,41.5,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,170,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+560,41.6,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,170,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+561,41.7,0,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,170,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+562,42.1,3,Umar Gul,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,173,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+563,42.2,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,173,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+564,42.3,4,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,177,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+565,42.4,1,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,178,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+566,42.5,0,Umar Gul,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,178,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+567,42.6,1,Umar Gul,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,179,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+568,43.1,0,Iftikhar Anjum,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,179,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+569,43.2,0,Iftikhar Anjum,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,179,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+570,43.3,2,Iftikhar Anjum,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,181,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+571,43.4,1,Iftikhar Anjum,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,182,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+572,43.5,1,Iftikhar Anjum,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,183,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+573,43.6,1,Iftikhar Anjum,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,184,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+574,44.1,0,Saeed Ajmal,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,184,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+575,44.2,1,Saeed Ajmal,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,185,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+576,44.3,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,185,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+577,44.4,2,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,187,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+578,44.5,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,188,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+579,44.6,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,189,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+580,44.7,1,Saeed Ajmal,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,190,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+581,45.1,1,Sohail Tanvir,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,191,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+582,45.2,0,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,192,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+583,45.3,1,Sohail Tanvir,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,193,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+584,45.4,2,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,195,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+585,45.5,1,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,196,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+586,45.6,0,Sohail Tanvir,2008-11-14,2nd,NO Miller,0,,S Chanderpaul,0,Pakistan,West Indies,196,Pakistan,Sheikh Zayed Stadium,7,Pakistan
+587,46.1,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,NO Miller,0,Pakistan,West Indies,196,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+588,46.2,0,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,DBL Powell,0,Pakistan,West Indies,196,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+589,46.3,1,Saeed Ajmal,2008-11-14,2nd,S Chanderpaul,0,,DBL Powell,0,Pakistan,West Indies,197,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+590,46.4,0,Saeed Ajmal,2008-11-14,2nd,DBL Powell,0,,S Chanderpaul,0,Pakistan,West Indies,197,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+591,46.5,0,Saeed Ajmal,2008-11-14,2nd,DBL Powell,0,,S Chanderpaul,0,Pakistan,West Indies,197,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+592,46.6,1,Saeed Ajmal,2008-11-14,2nd,DBL Powell,0,,S Chanderpaul,0,Pakistan,West Indies,198,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+593,47.1,1,Sohail Tanvir,2008-11-14,2nd,DBL Powell,0,,S Chanderpaul,0,Pakistan,West Indies,199,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+594,47.2,2,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,DBL Powell,0,Pakistan,West Indies,201,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+595,47.3,1,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,DBL Powell,0,Pakistan,West Indies,202,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+596,47.4,2,Sohail Tanvir,2008-11-14,2nd,DBL Powell,0,,S Chanderpaul,0,Pakistan,West Indies,204,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+597,47.5,1,Sohail Tanvir,2008-11-14,2nd,DBL Powell,0,,S Chanderpaul,0,Pakistan,West Indies,205,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+598,47.6,1,Sohail Tanvir,2008-11-14,2nd,S Chanderpaul,0,,DBL Powell,0,Pakistan,West Indies,206,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+599,48.1,1,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,DBL Powell,0,Pakistan,West Indies,207,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+600,48.2,0,Umar Gul,2008-11-14,2nd,DBL Powell,0,,S Chanderpaul,0,Pakistan,West Indies,208,Pakistan,Sheikh Zayed Stadium,8,Pakistan
+601,48.3,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,DBL Powell,0,Pakistan,West Indies,208,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+602,48.4,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,LS Baker,0,Pakistan,West Indies,208,Pakistan,Sheikh Zayed Stadium,9,Pakistan
+603,48.5,0,Umar Gul,2008-11-14,2nd,S Chanderpaul,0,,LS Baker,0,Pakistan,West Indies,208,Pakistan,Sheikh Zayed Stadium,10,Pakistan

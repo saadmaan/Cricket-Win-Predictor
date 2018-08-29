@@ -1,0 +1,409 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mohammad Amir,2009-09-23,1st,ADS Fletcher,0,,DM Richards,0,Pakistan,West Indies,0,West Indies,New Wanderers Stadium,0,Pakistan
+1,0.2,1,Mohammad Amir,2009-09-23,1st,ADS Fletcher,0,,DM Richards,1,Pakistan,West Indies,1,West Indies,New Wanderers Stadium,0,Pakistan
+2,0.3,0,Mohammad Amir,2009-09-23,1st,DM Richards,1,,ADS Fletcher,0,Pakistan,West Indies,1,West Indies,New Wanderers Stadium,0,Pakistan
+3,0.4,1,Mohammad Amir,2009-09-23,1st,DM Richards,1,,ADS Fletcher,1,Pakistan,West Indies,2,West Indies,New Wanderers Stadium,0,Pakistan
+4,0.5,0,Mohammad Amir,2009-09-23,1st,ADS Fletcher,1,,DM Richards,1,Pakistan,West Indies,2,West Indies,New Wanderers Stadium,0,Pakistan
+5,0.6,0,Mohammad Amir,2009-09-23,1st,ADS Fletcher,1,DM Richards,DM Richards,1,Pakistan,West Indies,2,West Indies,New Wanderers Stadium,1,Pakistan
+6,1.1,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,0,,ADS Fletcher,1,Pakistan,West Indies,2,West Indies,New Wanderers Stadium,1,Pakistan
+7,1.2,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,0,,ADS Fletcher,1,Pakistan,West Indies,2,West Indies,New Wanderers Stadium,1,Pakistan
+8,1.3,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,0,,ADS Fletcher,1,Pakistan,West Indies,3,West Indies,New Wanderers Stadium,1,Pakistan
+9,1.4,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,0,,ADS Fletcher,1,Pakistan,West Indies,3,West Indies,New Wanderers Stadium,1,Pakistan
+10,1.5,1,Naved-ul-Hasan,2009-09-23,1st,DS Smith,0,,ADS Fletcher,2,Pakistan,West Indies,4,West Indies,New Wanderers Stadium,1,Pakistan
+11,1.6,1,Naved-ul-Hasan,2009-09-23,1st,ADS Fletcher,2,,DS Smith,1,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+12,1.7,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,1,,ADS Fletcher,2,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+13,2.1,1,Mohammad Amir,2009-09-23,1st,ADS Fletcher,2,,DS Smith,2,Pakistan,West Indies,6,West Indies,New Wanderers Stadium,1,Pakistan
+14,2.2,1,Mohammad Amir,2009-09-23,1st,DS Smith,2,,ADS Fletcher,3,Pakistan,West Indies,7,West Indies,New Wanderers Stadium,1,Pakistan
+15,2.3,0,Mohammad Amir,2009-09-23,1st,ADS Fletcher,3,,DS Smith,2,Pakistan,West Indies,7,West Indies,New Wanderers Stadium,1,Pakistan
+16,2.4,0,Mohammad Amir,2009-09-23,1st,ADS Fletcher,3,,DS Smith,2,Pakistan,West Indies,7,West Indies,New Wanderers Stadium,1,Pakistan
+17,2.5,0,Mohammad Amir,2009-09-23,1st,ADS Fletcher,3,,DS Smith,2,Pakistan,West Indies,7,West Indies,New Wanderers Stadium,1,Pakistan
+18,2.6,0,Mohammad Amir,2009-09-23,1st,ADS Fletcher,3,,DS Smith,2,Pakistan,West Indies,7,West Indies,New Wanderers Stadium,1,Pakistan
+19,3.1,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,2,,ADS Fletcher,3,Pakistan,West Indies,7,West Indies,New Wanderers Stadium,1,Pakistan
+20,3.2,4,Naved-ul-Hasan,2009-09-23,1st,DS Smith,2,,ADS Fletcher,7,Pakistan,West Indies,11,West Indies,New Wanderers Stadium,1,Pakistan
+21,3.3,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,2,,ADS Fletcher,7,Pakistan,West Indies,11,West Indies,New Wanderers Stadium,1,Pakistan
+22,3.4,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,2,,ADS Fletcher,7,Pakistan,West Indies,11,West Indies,New Wanderers Stadium,1,Pakistan
+23,3.5,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,2,,ADS Fletcher,7,Pakistan,West Indies,11,West Indies,New Wanderers Stadium,1,Pakistan
+24,3.6,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,2,ADS Fletcher,ADS Fletcher,7,Pakistan,West Indies,11,West Indies,New Wanderers Stadium,2,Pakistan
+25,4.1,0,Mohammad Amir,2009-09-23,1st,TM Dowlin,0,,DS Smith,2,Pakistan,West Indies,11,West Indies,New Wanderers Stadium,2,Pakistan
+26,4.2,0,Mohammad Amir,2009-09-23,1st,TM Dowlin,0,,DS Smith,2,Pakistan,West Indies,11,West Indies,New Wanderers Stadium,2,Pakistan
+27,4.3,3,Mohammad Amir,2009-09-23,1st,TM Dowlin,0,,DS Smith,5,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,2,Pakistan
+28,4.4,0,Mohammad Amir,2009-09-23,1st,DS Smith,5,,TM Dowlin,0,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,2,Pakistan
+29,4.5,0,Mohammad Amir,2009-09-23,1st,DS Smith,5,TM Dowlin,TM Dowlin,0,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,3,Pakistan
+30,4.6,0,Mohammad Amir,2009-09-23,1st,DS Smith,5,,FL Reifer,0,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,3,Pakistan
+31,5.1,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,0,,DS Smith,5,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,3,Pakistan
+32,5.2,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,0,,DS Smith,5,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,3,Pakistan
+33,5.3,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,0,,DS Smith,5,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,3,Pakistan
+34,5.4,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,0,,DS Smith,5,Pakistan,West Indies,14,West Indies,New Wanderers Stadium,3,Pakistan
+35,5.5,1,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,0,,DS Smith,6,Pakistan,West Indies,15,West Indies,New Wanderers Stadium,3,Pakistan
+36,5.6,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,6,,FL Reifer,0,Pakistan,West Indies,15,West Indies,New Wanderers Stadium,3,Pakistan
+37,6.1,0,Mohammad Amir,2009-09-23,1st,FL Reifer,0,,DS Smith,6,Pakistan,West Indies,15,West Indies,New Wanderers Stadium,3,Pakistan
+38,6.2,0,Mohammad Amir,2009-09-23,1st,FL Reifer,0,,DS Smith,6,Pakistan,West Indies,15,West Indies,New Wanderers Stadium,3,Pakistan
+39,6.3,0,Mohammad Amir,2009-09-23,1st,FL Reifer,0,,DS Smith,6,Pakistan,West Indies,16,West Indies,New Wanderers Stadium,3,Pakistan
+40,6.4,2,Mohammad Amir,2009-09-23,1st,FL Reifer,0,,DS Smith,8,Pakistan,West Indies,18,West Indies,New Wanderers Stadium,3,Pakistan
+41,6.5,4,Mohammad Amir,2009-09-23,1st,FL Reifer,0,,DS Smith,12,Pakistan,West Indies,22,West Indies,New Wanderers Stadium,3,Pakistan
+42,6.6,1,Mohammad Amir,2009-09-23,1st,FL Reifer,0,,DS Smith,13,Pakistan,West Indies,23,West Indies,New Wanderers Stadium,3,Pakistan
+43,6.7,1,Mohammad Amir,2009-09-23,1st,DS Smith,13,,FL Reifer,1,Pakistan,West Indies,24,West Indies,New Wanderers Stadium,3,Pakistan
+44,7.1,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,13,,FL Reifer,1,Pakistan,West Indies,24,West Indies,New Wanderers Stadium,3,Pakistan
+45,7.2,1,Naved-ul-Hasan,2009-09-23,1st,DS Smith,13,,FL Reifer,2,Pakistan,West Indies,25,West Indies,New Wanderers Stadium,3,Pakistan
+46,7.3,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,2,,DS Smith,13,Pakistan,West Indies,25,West Indies,New Wanderers Stadium,3,Pakistan
+47,7.4,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,2,,DS Smith,13,Pakistan,West Indies,25,West Indies,New Wanderers Stadium,3,Pakistan
+48,7.5,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,2,,DS Smith,13,Pakistan,West Indies,25,West Indies,New Wanderers Stadium,3,Pakistan
+49,7.6,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,2,,DS Smith,13,Pakistan,West Indies,25,West Indies,New Wanderers Stadium,3,Pakistan
+50,8.1,0,Umar Gul,2009-09-23,1st,DS Smith,13,,FL Reifer,2,Pakistan,West Indies,26,West Indies,New Wanderers Stadium,3,Pakistan
+51,8.2,0,Umar Gul,2009-09-23,1st,DS Smith,13,,FL Reifer,2,Pakistan,West Indies,26,West Indies,New Wanderers Stadium,3,Pakistan
+52,8.3,2,Umar Gul,2009-09-23,1st,DS Smith,13,,FL Reifer,4,Pakistan,West Indies,28,West Indies,New Wanderers Stadium,3,Pakistan
+53,8.4,0,Umar Gul,2009-09-23,1st,DS Smith,13,,FL Reifer,4,Pakistan,West Indies,28,West Indies,New Wanderers Stadium,3,Pakistan
+54,8.5,0,Umar Gul,2009-09-23,1st,DS Smith,13,,FL Reifer,4,Pakistan,West Indies,28,West Indies,New Wanderers Stadium,3,Pakistan
+55,8.6,0,Umar Gul,2009-09-23,1st,DS Smith,13,,FL Reifer,4,Pakistan,West Indies,28,West Indies,New Wanderers Stadium,3,Pakistan
+56,8.7,0,Umar Gul,2009-09-23,1st,DS Smith,13,,FL Reifer,4,Pakistan,West Indies,28,West Indies,New Wanderers Stadium,3,Pakistan
+57,9.1,1,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,4,,DS Smith,14,Pakistan,West Indies,29,West Indies,New Wanderers Stadium,3,Pakistan
+58,9.2,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,14,,FL Reifer,4,Pakistan,West Indies,29,West Indies,New Wanderers Stadium,3,Pakistan
+59,9.3,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,14,,FL Reifer,4,Pakistan,West Indies,29,West Indies,New Wanderers Stadium,3,Pakistan
+60,9.4,0,Naved-ul-Hasan,2009-09-23,1st,DS Smith,14,,FL Reifer,4,Pakistan,West Indies,30,West Indies,New Wanderers Stadium,3,Pakistan
+61,9.5,1,Naved-ul-Hasan,2009-09-23,1st,DS Smith,14,,FL Reifer,5,Pakistan,West Indies,31,West Indies,New Wanderers Stadium,3,Pakistan
+62,9.6,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,5,,DS Smith,14,Pakistan,West Indies,31,West Indies,New Wanderers Stadium,3,Pakistan
+63,9.7,0,Naved-ul-Hasan,2009-09-23,1st,FL Reifer,5,,DS Smith,14,Pakistan,West Indies,31,West Indies,New Wanderers Stadium,3,Pakistan
+64,10.1,1,Umar Gul,2009-09-23,1st,DS Smith,14,,FL Reifer,6,Pakistan,West Indies,32,West Indies,New Wanderers Stadium,3,Pakistan
+65,10.2,4,Umar Gul,2009-09-23,1st,FL Reifer,6,,DS Smith,18,Pakistan,West Indies,36,West Indies,New Wanderers Stadium,3,Pakistan
+66,10.3,0,Umar Gul,2009-09-23,1st,FL Reifer,6,DS Smith,DS Smith,18,Pakistan,West Indies,36,West Indies,New Wanderers Stadium,4,Pakistan
+67,10.4,0,Umar Gul,2009-09-23,1st,FL Reifer,6,,DE Bernard,0,Pakistan,West Indies,36,West Indies,New Wanderers Stadium,4,Pakistan
+68,10.5,1,Umar Gul,2009-09-23,1st,FL Reifer,6,,DE Bernard,1,Pakistan,West Indies,37,West Indies,New Wanderers Stadium,4,Pakistan
+69,10.6,0,Umar Gul,2009-09-23,1st,DE Bernard,1,,FL Reifer,6,Pakistan,West Indies,37,West Indies,New Wanderers Stadium,4,Pakistan
+70,11.1,0,Mohammad Amir,2009-09-23,1st,FL Reifer,6,,DE Bernard,1,Pakistan,West Indies,37,West Indies,New Wanderers Stadium,4,Pakistan
+71,11.2,4,Mohammad Amir,2009-09-23,1st,FL Reifer,6,,DE Bernard,5,Pakistan,West Indies,41,West Indies,New Wanderers Stadium,4,Pakistan
+72,11.3,0,Mohammad Amir,2009-09-23,1st,FL Reifer,6,,DE Bernard,5,Pakistan,West Indies,41,West Indies,New Wanderers Stadium,4,Pakistan
+73,11.4,0,Mohammad Amir,2009-09-23,1st,FL Reifer,6,,DE Bernard,5,Pakistan,West Indies,41,West Indies,New Wanderers Stadium,4,Pakistan
+74,11.5,0,Mohammad Amir,2009-09-23,1st,FL Reifer,6,,DE Bernard,5,Pakistan,West Indies,41,West Indies,New Wanderers Stadium,4,Pakistan
+75,11.6,0,Mohammad Amir,2009-09-23,1st,FL Reifer,6,,DE Bernard,5,Pakistan,West Indies,41,West Indies,New Wanderers Stadium,4,Pakistan
+76,12.1,1,Umar Gul,2009-09-23,1st,DE Bernard,5,,FL Reifer,7,Pakistan,West Indies,42,West Indies,New Wanderers Stadium,4,Pakistan
+77,12.2,0,Umar Gul,2009-09-23,1st,FL Reifer,7,,DE Bernard,5,Pakistan,West Indies,42,West Indies,New Wanderers Stadium,4,Pakistan
+78,12.3,0,Umar Gul,2009-09-23,1st,FL Reifer,7,,DE Bernard,5,Pakistan,West Indies,42,West Indies,New Wanderers Stadium,4,Pakistan
+79,12.4,1,Umar Gul,2009-09-23,1st,FL Reifer,7,,DE Bernard,6,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,4,Pakistan
+80,12.5,0,Umar Gul,2009-09-23,1st,DE Bernard,6,,FL Reifer,7,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,4,Pakistan
+81,12.6,0,Umar Gul,2009-09-23,1st,DE Bernard,6,,FL Reifer,7,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,4,Pakistan
+82,13.1,0,Mohammad Amir,2009-09-23,1st,FL Reifer,7,,DE Bernard,6,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,4,Pakistan
+83,13.2,0,Mohammad Amir,2009-09-23,1st,FL Reifer,7,,DE Bernard,6,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,4,Pakistan
+84,13.3,0,Mohammad Amir,2009-09-23,1st,FL Reifer,7,DE Bernard,DE Bernard,6,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,5,Pakistan
+85,13.4,0,Mohammad Amir,2009-09-23,1st,FL Reifer,7,,DJG Sammy,0,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,5,Pakistan
+86,13.5,0,Mohammad Amir,2009-09-23,1st,FL Reifer,7,,DJG Sammy,0,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,5,Pakistan
+87,13.6,4,Mohammad Amir,2009-09-23,1st,FL Reifer,7,,DJG Sammy,4,Pakistan,West Indies,47,West Indies,New Wanderers Stadium,5,Pakistan
+88,14.1,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,FL Reifer,7,Pakistan,West Indies,47,West Indies,New Wanderers Stadium,5,Pakistan
+89,14.2,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,FL Reifer,7,Pakistan,West Indies,47,West Indies,New Wanderers Stadium,5,Pakistan
+90,14.3,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,FL Reifer,FL Reifer,7,Pakistan,West Indies,47,West Indies,New Wanderers Stadium,6,Pakistan
+91,14.4,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,CAK Walton,CAK Walton,0,Pakistan,West Indies,47,West Indies,New Wanderers Stadium,7,Pakistan
+92,14.5,4,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+93,14.6,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+94,15.1,0,Mohammad Amir,2009-09-23,1st,NO Miller,4,,DJG Sammy,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+95,15.2,0,Mohammad Amir,2009-09-23,1st,NO Miller,4,,DJG Sammy,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+96,15.3,0,Mohammad Amir,2009-09-23,1st,NO Miller,4,,DJG Sammy,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+97,15.4,0,Mohammad Amir,2009-09-23,1st,NO Miller,4,,DJG Sammy,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+98,15.5,0,Mohammad Amir,2009-09-23,1st,NO Miller,4,,DJG Sammy,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+99,15.6,0,Mohammad Amir,2009-09-23,1st,NO Miller,4,,DJG Sammy,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+100,16.1,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+101,16.2,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+102,16.3,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+103,16.4,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+104,16.5,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+105,16.6,0,Umar Gul,2009-09-23,1st,DJG Sammy,4,,NO Miller,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+106,17.1,0,Shahid Afridi,2009-09-23,1st,NO Miller,4,,DJG Sammy,4,Pakistan,West Indies,51,West Indies,New Wanderers Stadium,7,Pakistan
+107,17.2,4,Shahid Afridi,2009-09-23,1st,NO Miller,4,,DJG Sammy,8,Pakistan,West Indies,55,West Indies,New Wanderers Stadium,7,Pakistan
+108,17.3,0,Shahid Afridi,2009-09-23,1st,NO Miller,4,,DJG Sammy,8,Pakistan,West Indies,55,West Indies,New Wanderers Stadium,7,Pakistan
+109,17.4,4,Shahid Afridi,2009-09-23,1st,NO Miller,4,,DJG Sammy,12,Pakistan,West Indies,59,West Indies,New Wanderers Stadium,7,Pakistan
+110,17.5,0,Shahid Afridi,2009-09-23,1st,NO Miller,4,,DJG Sammy,12,Pakistan,West Indies,59,West Indies,New Wanderers Stadium,7,Pakistan
+111,17.6,1,Shahid Afridi,2009-09-23,1st,NO Miller,4,,DJG Sammy,13,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+112,18.1,0,Umar Gul,2009-09-23,1st,NO Miller,4,,DJG Sammy,13,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+113,18.2,0,Umar Gul,2009-09-23,1st,NO Miller,4,,DJG Sammy,13,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+114,18.3,0,Umar Gul,2009-09-23,1st,NO Miller,4,,DJG Sammy,13,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+115,18.4,0,Umar Gul,2009-09-23,1st,NO Miller,4,,DJG Sammy,13,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+116,18.5,0,Umar Gul,2009-09-23,1st,NO Miller,4,,DJG Sammy,13,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+117,18.6,0,Umar Gul,2009-09-23,1st,NO Miller,4,,DJG Sammy,13,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+118,19.1,0,Shahid Afridi,2009-09-23,1st,DJG Sammy,13,,NO Miller,4,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+119,19.2,0,Shahid Afridi,2009-09-23,1st,DJG Sammy,13,,NO Miller,4,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,7,Pakistan
+120,19.3,1,Shahid Afridi,2009-09-23,1st,DJG Sammy,13,,NO Miller,5,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,7,Pakistan
+121,19.4,0,Shahid Afridi,2009-09-23,1st,NO Miller,5,,DJG Sammy,13,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,7,Pakistan
+122,19.5,0,Shahid Afridi,2009-09-23,1st,NO Miller,5,,DJG Sammy,13,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,7,Pakistan
+123,19.6,0,Shahid Afridi,2009-09-23,1st,NO Miller,5,,DJG Sammy,13,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,7,Pakistan
+124,20.1,0,Naved-ul-Hasan,2009-09-23,1st,DJG Sammy,13,,NO Miller,5,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,7,Pakistan
+125,20.2,1,Naved-ul-Hasan,2009-09-23,1st,DJG Sammy,13,,NO Miller,6,Pakistan,West Indies,62,West Indies,New Wanderers Stadium,7,Pakistan
+126,20.3,0,Naved-ul-Hasan,2009-09-23,1st,NO Miller,6,,DJG Sammy,13,Pakistan,West Indies,62,West Indies,New Wanderers Stadium,7,Pakistan
+127,20.4,0,Naved-ul-Hasan,2009-09-23,1st,NO Miller,6,,DJG Sammy,13,Pakistan,West Indies,63,West Indies,New Wanderers Stadium,7,Pakistan
+128,20.5,1,Naved-ul-Hasan,2009-09-23,1st,NO Miller,6,,DJG Sammy,14,Pakistan,West Indies,64,West Indies,New Wanderers Stadium,7,Pakistan
+129,20.6,0,Naved-ul-Hasan,2009-09-23,1st,DJG Sammy,14,,NO Miller,6,Pakistan,West Indies,64,West Indies,New Wanderers Stadium,7,Pakistan
+130,20.7,1,Naved-ul-Hasan,2009-09-23,1st,DJG Sammy,14,,NO Miller,7,Pakistan,West Indies,65,West Indies,New Wanderers Stadium,7,Pakistan
+131,21.1,4,Shahid Afridi,2009-09-23,1st,DJG Sammy,14,,NO Miller,11,Pakistan,West Indies,69,West Indies,New Wanderers Stadium,7,Pakistan
+132,21.2,0,Shahid Afridi,2009-09-23,1st,DJG Sammy,14,,NO Miller,11,Pakistan,West Indies,69,West Indies,New Wanderers Stadium,7,Pakistan
+133,21.3,1,Shahid Afridi,2009-09-23,1st,DJG Sammy,14,,NO Miller,12,Pakistan,West Indies,70,West Indies,New Wanderers Stadium,7,Pakistan
+134,21.4,1,Shahid Afridi,2009-09-23,1st,NO Miller,12,,DJG Sammy,15,Pakistan,West Indies,71,West Indies,New Wanderers Stadium,7,Pakistan
+135,21.5,0,Shahid Afridi,2009-09-23,1st,DJG Sammy,15,,NO Miller,12,Pakistan,West Indies,71,West Indies,New Wanderers Stadium,7,Pakistan
+136,21.6,0,Shahid Afridi,2009-09-23,1st,DJG Sammy,15,,NO Miller,12,Pakistan,West Indies,71,West Indies,New Wanderers Stadium,7,Pakistan
+137,22.1,0,Naved-ul-Hasan,2009-09-23,1st,NO Miller,12,,DJG Sammy,15,Pakistan,West Indies,71,West Indies,New Wanderers Stadium,7,Pakistan
+138,22.2,4,Naved-ul-Hasan,2009-09-23,1st,NO Miller,12,,DJG Sammy,19,Pakistan,West Indies,75,West Indies,New Wanderers Stadium,7,Pakistan
+139,22.3,0,Naved-ul-Hasan,2009-09-23,1st,NO Miller,12,,DJG Sammy,19,Pakistan,West Indies,75,West Indies,New Wanderers Stadium,7,Pakistan
+140,22.4,4,Naved-ul-Hasan,2009-09-23,1st,NO Miller,12,,DJG Sammy,23,Pakistan,West Indies,79,West Indies,New Wanderers Stadium,7,Pakistan
+141,22.5,1,Naved-ul-Hasan,2009-09-23,1st,NO Miller,12,,DJG Sammy,24,Pakistan,West Indies,80,West Indies,New Wanderers Stadium,7,Pakistan
+142,22.6,1,Naved-ul-Hasan,2009-09-23,1st,DJG Sammy,24,,NO Miller,13,Pakistan,West Indies,81,West Indies,New Wanderers Stadium,7,Pakistan
+143,23.1,0,Shahid Afridi,2009-09-23,1st,DJG Sammy,24,,NO Miller,13,Pakistan,West Indies,81,West Indies,New Wanderers Stadium,7,Pakistan
+144,23.2,0,Shahid Afridi,2009-09-23,1st,DJG Sammy,24,,NO Miller,13,Pakistan,West Indies,81,West Indies,New Wanderers Stadium,7,Pakistan
+145,23.3,1,Shahid Afridi,2009-09-23,1st,DJG Sammy,24,,NO Miller,14,Pakistan,West Indies,82,West Indies,New Wanderers Stadium,7,Pakistan
+146,23.4,0,Shahid Afridi,2009-09-23,1st,NO Miller,14,,DJG Sammy,24,Pakistan,West Indies,82,West Indies,New Wanderers Stadium,7,Pakistan
+147,23.5,1,Shahid Afridi,2009-09-23,1st,NO Miller,14,,DJG Sammy,25,Pakistan,West Indies,83,West Indies,New Wanderers Stadium,7,Pakistan
+148,23.6,1,Shahid Afridi,2009-09-23,1st,DJG Sammy,25,,NO Miller,15,Pakistan,West Indies,84,West Indies,New Wanderers Stadium,7,Pakistan
+149,24.1,0,Saeed Ajmal,2009-09-23,1st,DJG Sammy,25,,NO Miller,15,Pakistan,West Indies,84,West Indies,New Wanderers Stadium,7,Pakistan
+150,24.2,1,Saeed Ajmal,2009-09-23,1st,DJG Sammy,25,,NO Miller,16,Pakistan,West Indies,85,West Indies,New Wanderers Stadium,7,Pakistan
+151,24.3,0,Saeed Ajmal,2009-09-23,1st,NO Miller,16,,DJG Sammy,25,Pakistan,West Indies,85,West Indies,New Wanderers Stadium,7,Pakistan
+152,24.4,0,Saeed Ajmal,2009-09-23,1st,NO Miller,16,,DJG Sammy,25,Pakistan,West Indies,85,West Indies,New Wanderers Stadium,7,Pakistan
+153,24.5,0,Saeed Ajmal,2009-09-23,1st,NO Miller,16,DJG Sammy,DJG Sammy,25,Pakistan,West Indies,85,West Indies,New Wanderers Stadium,8,Pakistan
+154,24.6,0,Saeed Ajmal,2009-09-23,1st,NO Miller,16,,TL Best,0,Pakistan,West Indies,85,West Indies,New Wanderers Stadium,8,Pakistan
+155,25.1,1,Shahid Afridi,2009-09-23,1st,TL Best,0,,NO Miller,17,Pakistan,West Indies,86,West Indies,New Wanderers Stadium,8,Pakistan
+156,25.2,0,Shahid Afridi,2009-09-23,1st,NO Miller,17,,TL Best,0,Pakistan,West Indies,86,West Indies,New Wanderers Stadium,8,Pakistan
+157,25.3,0,Shahid Afridi,2009-09-23,1st,NO Miller,17,,TL Best,0,Pakistan,West Indies,86,West Indies,New Wanderers Stadium,8,Pakistan
+158,25.4,1,Shahid Afridi,2009-09-23,1st,NO Miller,17,,TL Best,1,Pakistan,West Indies,87,West Indies,New Wanderers Stadium,8,Pakistan
+159,25.5,1,Shahid Afridi,2009-09-23,1st,TL Best,1,,NO Miller,18,Pakistan,West Indies,88,West Indies,New Wanderers Stadium,8,Pakistan
+160,25.6,0,Shahid Afridi,2009-09-23,1st,NO Miller,18,,TL Best,1,Pakistan,West Indies,88,West Indies,New Wanderers Stadium,8,Pakistan
+161,26.1,0,Saeed Ajmal,2009-09-23,1st,TL Best,1,,NO Miller,18,Pakistan,West Indies,88,West Indies,New Wanderers Stadium,8,Pakistan
+162,26.2,4,Saeed Ajmal,2009-09-23,1st,TL Best,1,,NO Miller,22,Pakistan,West Indies,92,West Indies,New Wanderers Stadium,8,Pakistan
+163,26.3,0,Saeed Ajmal,2009-09-23,1st,TL Best,1,,NO Miller,22,Pakistan,West Indies,92,West Indies,New Wanderers Stadium,8,Pakistan
+164,26.4,0,Saeed Ajmal,2009-09-23,1st,TL Best,1,,NO Miller,22,Pakistan,West Indies,92,West Indies,New Wanderers Stadium,8,Pakistan
+165,26.5,4,Saeed Ajmal,2009-09-23,1st,TL Best,1,,NO Miller,26,Pakistan,West Indies,96,West Indies,New Wanderers Stadium,8,Pakistan
+166,26.6,4,Saeed Ajmal,2009-09-23,1st,TL Best,1,,NO Miller,30,Pakistan,West Indies,100,West Indies,New Wanderers Stadium,8,Pakistan
+167,27.1,1,Umar Gul,2009-09-23,1st,NO Miller,30,,TL Best,2,Pakistan,West Indies,101,West Indies,New Wanderers Stadium,8,Pakistan
+168,27.2,2,Umar Gul,2009-09-23,1st,TL Best,2,,NO Miller,32,Pakistan,West Indies,103,West Indies,New Wanderers Stadium,8,Pakistan
+169,27.3,0,Umar Gul,2009-09-23,1st,TL Best,2,,NO Miller,32,Pakistan,West Indies,104,West Indies,New Wanderers Stadium,8,Pakistan
+170,27.4,1,Umar Gul,2009-09-23,1st,TL Best,2,,NO Miller,33,Pakistan,West Indies,105,West Indies,New Wanderers Stadium,8,Pakistan
+171,27.5,0,Umar Gul,2009-09-23,1st,NO Miller,33,,TL Best,2,Pakistan,West Indies,105,West Indies,New Wanderers Stadium,8,Pakistan
+172,27.6,0,Umar Gul,2009-09-23,1st,NO Miller,33,,TL Best,2,Pakistan,West Indies,105,West Indies,New Wanderers Stadium,8,Pakistan
+173,27.7,0,Umar Gul,2009-09-23,1st,NO Miller,33,,TL Best,2,Pakistan,West Indies,105,West Indies,New Wanderers Stadium,8,Pakistan
+174,28.1,3,Shahid Afridi,2009-09-23,1st,TL Best,2,,NO Miller,36,Pakistan,West Indies,108,West Indies,New Wanderers Stadium,8,Pakistan
+175,28.2,4,Shahid Afridi,2009-09-23,1st,NO Miller,36,,TL Best,6,Pakistan,West Indies,112,West Indies,New Wanderers Stadium,8,Pakistan
+176,28.3,0,Shahid Afridi,2009-09-23,1st,NO Miller,36,,TL Best,6,Pakistan,West Indies,112,West Indies,New Wanderers Stadium,8,Pakistan
+177,28.4,0,Shahid Afridi,2009-09-23,1st,NO Miller,36,,TL Best,6,Pakistan,West Indies,112,West Indies,New Wanderers Stadium,8,Pakistan
+178,28.5,0,Shahid Afridi,2009-09-23,1st,NO Miller,36,,TL Best,6,Pakistan,West Indies,112,West Indies,New Wanderers Stadium,8,Pakistan
+179,28.6,0,Shahid Afridi,2009-09-23,1st,NO Miller,36,,TL Best,6,Pakistan,West Indies,112,West Indies,New Wanderers Stadium,8,Pakistan
+180,29.1,0,Umar Gul,2009-09-23,1st,TL Best,6,,NO Miller,36,Pakistan,West Indies,112,West Indies,New Wanderers Stadium,8,Pakistan
+181,29.2,2,Umar Gul,2009-09-23,1st,TL Best,6,,NO Miller,38,Pakistan,West Indies,114,West Indies,New Wanderers Stadium,8,Pakistan
+182,29.3,4,Umar Gul,2009-09-23,1st,TL Best,6,,NO Miller,42,Pakistan,West Indies,118,West Indies,New Wanderers Stadium,8,Pakistan
+183,29.4,1,Umar Gul,2009-09-23,1st,TL Best,6,,NO Miller,43,Pakistan,West Indies,119,West Indies,New Wanderers Stadium,8,Pakistan
+184,29.5,1,Umar Gul,2009-09-23,1st,NO Miller,43,,TL Best,7,Pakistan,West Indies,120,West Indies,New Wanderers Stadium,8,Pakistan
+185,29.6,0,Umar Gul,2009-09-23,1st,TL Best,7,,NO Miller,43,Pakistan,West Indies,120,West Indies,New Wanderers Stadium,8,Pakistan
+186,30.1,0,Shahid Afridi,2009-09-23,1st,NO Miller,43,,TL Best,7,Pakistan,West Indies,120,West Indies,New Wanderers Stadium,8,Pakistan
+187,30.2,0,Shahid Afridi,2009-09-23,1st,NO Miller,43,,TL Best,7,Pakistan,West Indies,120,West Indies,New Wanderers Stadium,8,Pakistan
+188,30.3,1,Shahid Afridi,2009-09-23,1st,NO Miller,43,,TL Best,8,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,8,Pakistan
+189,30.4,0,Shahid Afridi,2009-09-23,1st,TL Best,8,,NO Miller,43,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,8,Pakistan
+190,30.5,0,Shahid Afridi,2009-09-23,1st,TL Best,8,,NO Miller,43,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,8,Pakistan
+191,30.6,0,Shahid Afridi,2009-09-23,1st,TL Best,8,,NO Miller,43,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,8,Pakistan
+192,31.1,0,Saeed Ajmal,2009-09-23,1st,NO Miller,43,TL Best,TL Best,8,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,9,Pakistan
+193,31.2,0,Saeed Ajmal,2009-09-23,1st,NO Miller,43,,GC Tonge,0,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,9,Pakistan
+194,31.3,0,Saeed Ajmal,2009-09-23,1st,NO Miller,43,,GC Tonge,0,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,9,Pakistan
+195,31.4,0,Saeed Ajmal,2009-09-23,1st,NO Miller,43,,GC Tonge,0,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,9,Pakistan
+196,31.5,0,Saeed Ajmal,2009-09-23,1st,NO Miller,43,,GC Tonge,0,Pakistan,West Indies,121,West Indies,New Wanderers Stadium,9,Pakistan
+197,31.6,1,Saeed Ajmal,2009-09-23,1st,NO Miller,43,,GC Tonge,1,Pakistan,West Indies,122,West Indies,New Wanderers Stadium,9,Pakistan
+198,32.1,1,Shahid Afridi,2009-09-23,1st,NO Miller,43,,GC Tonge,2,Pakistan,West Indies,123,West Indies,New Wanderers Stadium,9,Pakistan
+199,32.2,6,Shahid Afridi,2009-09-23,1st,GC Tonge,2,,NO Miller,49,Pakistan,West Indies,129,West Indies,New Wanderers Stadium,9,Pakistan
+200,32.3,0,Shahid Afridi,2009-09-23,1st,GC Tonge,2,,NO Miller,49,Pakistan,West Indies,129,West Indies,New Wanderers Stadium,9,Pakistan
+201,32.4,0,Shahid Afridi,2009-09-23,1st,GC Tonge,2,,NO Miller,49,Pakistan,West Indies,129,West Indies,New Wanderers Stadium,9,Pakistan
+202,32.5,0,Shahid Afridi,2009-09-23,1st,GC Tonge,2,,NO Miller,49,Pakistan,West Indies,129,West Indies,New Wanderers Stadium,9,Pakistan
+203,32.6,1,Shahid Afridi,2009-09-23,1st,GC Tonge,2,,NO Miller,50,Pakistan,West Indies,130,West Indies,New Wanderers Stadium,9,Pakistan
+204,33.1,0,Saeed Ajmal,2009-09-23,1st,GC Tonge,2,,NO Miller,50,Pakistan,West Indies,130,West Indies,New Wanderers Stadium,9,Pakistan
+205,33.2,0,Saeed Ajmal,2009-09-23,1st,GC Tonge,2,,NO Miller,50,Pakistan,West Indies,130,West Indies,New Wanderers Stadium,9,Pakistan
+206,33.3,1,Saeed Ajmal,2009-09-23,1st,GC Tonge,2,,NO Miller,51,Pakistan,West Indies,131,West Indies,New Wanderers Stadium,9,Pakistan
+207,33.4,1,Saeed Ajmal,2009-09-23,1st,NO Miller,51,,GC Tonge,3,Pakistan,West Indies,132,West Indies,New Wanderers Stadium,9,Pakistan
+208,33.5,0,Saeed Ajmal,2009-09-23,1st,GC Tonge,3,,NO Miller,51,Pakistan,West Indies,132,West Indies,New Wanderers Stadium,9,Pakistan
+209,33.6,0,Saeed Ajmal,2009-09-23,1st,GC Tonge,3,,NO Miller,51,Pakistan,West Indies,132,West Indies,New Wanderers Stadium,9,Pakistan
+210,34.1,0,Shahid Afridi,2009-09-23,1st,NO Miller,51,,GC Tonge,3,Pakistan,West Indies,132,West Indies,New Wanderers Stadium,9,Pakistan
+211,34.2,1,Shahid Afridi,2009-09-23,1st,NO Miller,51,,GC Tonge,4,Pakistan,West Indies,133,West Indies,New Wanderers Stadium,9,Pakistan
+212,34.3,0,Shahid Afridi,2009-09-23,1st,GC Tonge,4,NO Miller,NO Miller,51,Pakistan,West Indies,133,West Indies,New Wanderers Stadium,10,Pakistan
+213,0.1,0,DJG Sammy,2009-09-23,2nd,Kamran Akmal,0,,Imran Nazir,0,Pakistan,West Indies,0,West Indies,New Wanderers Stadium,0,Pakistan
+214,0.2,0,DJG Sammy,2009-09-23,2nd,Kamran Akmal,0,,Imran Nazir,0,Pakistan,West Indies,0,West Indies,New Wanderers Stadium,0,Pakistan
+215,0.3,4,DJG Sammy,2009-09-23,2nd,Kamran Akmal,0,,Imran Nazir,0,Pakistan,West Indies,4,West Indies,New Wanderers Stadium,0,Pakistan
+216,0.4,0,DJG Sammy,2009-09-23,2nd,Kamran Akmal,0,,Imran Nazir,0,Pakistan,West Indies,4,West Indies,New Wanderers Stadium,0,Pakistan
+217,0.5,1,DJG Sammy,2009-09-23,2nd,Kamran Akmal,0,,Imran Nazir,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,0,Pakistan
+218,0.6,0,DJG Sammy,2009-09-23,2nd,Imran Nazir,0,,Kamran Akmal,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,0,Pakistan
+219,1.1,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Imran Nazir,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+220,1.2,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+221,1.3,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+222,1.4,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+223,1.5,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+224,1.6,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+225,2.1,0,DJG Sammy,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,5,West Indies,New Wanderers Stadium,1,Pakistan
+226,2.2,4,DJG Sammy,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,9,West Indies,New Wanderers Stadium,1,Pakistan
+227,2.3,0,DJG Sammy,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,9,West Indies,New Wanderers Stadium,1,Pakistan
+228,2.4,0,DJG Sammy,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,9,West Indies,New Wanderers Stadium,1,Pakistan
+229,2.5,0,DJG Sammy,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,9,West Indies,New Wanderers Stadium,1,Pakistan
+230,2.6,0,DJG Sammy,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,9,West Indies,New Wanderers Stadium,1,Pakistan
+231,3.1,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,10,West Indies,New Wanderers Stadium,1,Pakistan
+232,3.2,6,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,16,West Indies,New Wanderers Stadium,1,Pakistan
+233,3.3,0,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,16,West Indies,New Wanderers Stadium,1,Pakistan
+234,3.4,1,GC Tonge,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,17,West Indies,New Wanderers Stadium,1,Pakistan
+235,3.5,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,17,West Indies,New Wanderers Stadium,1,Pakistan
+236,3.6,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,17,West Indies,New Wanderers Stadium,1,Pakistan
+237,3.7,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,17,West Indies,New Wanderers Stadium,1,Pakistan
+238,4.1,0,TL Best,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,17,West Indies,New Wanderers Stadium,1,Pakistan
+239,4.2,0,TL Best,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,17,West Indies,New Wanderers Stadium,1,Pakistan
+240,4.3,0,TL Best,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,17,West Indies,New Wanderers Stadium,1,Pakistan
+241,4.4,2,TL Best,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,19,West Indies,New Wanderers Stadium,1,Pakistan
+242,4.5,1,TL Best,2009-09-23,2nd,Kamran Akmal,0,,Shoaib Malik,0,Pakistan,West Indies,20,West Indies,New Wanderers Stadium,1,Pakistan
+243,4.6,1,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,21,West Indies,New Wanderers Stadium,1,Pakistan
+244,5.1,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Kamran Akmal,0,Pakistan,West Indies,21,West Indies,New Wanderers Stadium,2,Pakistan
+245,5.2,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,21,West Indies,New Wanderers Stadium,2,Pakistan
+246,5.3,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,21,West Indies,New Wanderers Stadium,2,Pakistan
+247,5.4,1,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,22,West Indies,New Wanderers Stadium,2,Pakistan
+248,5.5,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,22,West Indies,New Wanderers Stadium,2,Pakistan
+249,5.6,1,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,23,West Indies,New Wanderers Stadium,2,Pakistan
+250,6.1,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,23,West Indies,New Wanderers Stadium,2,Pakistan
+251,6.2,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,23,West Indies,New Wanderers Stadium,2,Pakistan
+252,6.3,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,23,West Indies,New Wanderers Stadium,2,Pakistan
+253,6.4,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,23,West Indies,New Wanderers Stadium,2,Pakistan
+254,6.5,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,23,West Indies,New Wanderers Stadium,2,Pakistan
+255,6.6,4,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,27,West Indies,New Wanderers Stadium,2,Pakistan
+256,7.1,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,27,West Indies,New Wanderers Stadium,2,Pakistan
+257,7.2,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,27,West Indies,New Wanderers Stadium,2,Pakistan
+258,7.3,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,27,West Indies,New Wanderers Stadium,2,Pakistan
+259,7.4,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,27,West Indies,New Wanderers Stadium,2,Pakistan
+260,7.5,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,27,West Indies,New Wanderers Stadium,2,Pakistan
+261,7.6,1,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,28,West Indies,New Wanderers Stadium,2,Pakistan
+262,8.1,0,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,28,West Indies,New Wanderers Stadium,2,Pakistan
+263,8.2,2,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,30,West Indies,New Wanderers Stadium,2,Pakistan
+264,8.3,1,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,31,West Indies,New Wanderers Stadium,2,Pakistan
+265,8.4,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,31,West Indies,New Wanderers Stadium,2,Pakistan
+266,8.5,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,31,West Indies,New Wanderers Stadium,2,Pakistan
+267,8.6,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,31,West Indies,New Wanderers Stadium,2,Pakistan
+268,9.1,4,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,35,West Indies,New Wanderers Stadium,2,Pakistan
+269,9.2,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,35,West Indies,New Wanderers Stadium,2,Pakistan
+270,9.3,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,35,West Indies,New Wanderers Stadium,2,Pakistan
+271,9.4,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,35,West Indies,New Wanderers Stadium,2,Pakistan
+272,9.5,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,35,West Indies,New Wanderers Stadium,2,Pakistan
+273,9.6,0,GC Tonge,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,35,West Indies,New Wanderers Stadium,2,Pakistan
+274,10.1,4,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,39,West Indies,New Wanderers Stadium,2,Pakistan
+275,10.2,0,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,39,West Indies,New Wanderers Stadium,2,Pakistan
+276,10.3,3,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,42,West Indies,New Wanderers Stadium,2,Pakistan
+277,10.4,0,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,42,West Indies,New Wanderers Stadium,2,Pakistan
+278,10.5,1,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,43,West Indies,New Wanderers Stadium,2,Pakistan
+279,10.6,1,TL Best,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+280,11.1,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+281,11.2,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+282,11.3,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+283,11.4,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+284,11.5,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+285,11.6,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+286,12.1,0,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,44,West Indies,New Wanderers Stadium,2,Pakistan
+287,12.2,0,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,45,West Indies,New Wanderers Stadium,2,Pakistan
+288,12.3,0,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,45,West Indies,New Wanderers Stadium,2,Pakistan
+289,12.4,4,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,49,West Indies,New Wanderers Stadium,2,Pakistan
+290,12.5,0,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,49,West Indies,New Wanderers Stadium,2,Pakistan
+291,12.6,0,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,49,West Indies,New Wanderers Stadium,2,Pakistan
+292,12.7,4,TL Best,2009-09-23,2nd,Shoaib Malik,0,,Mohammad Yousuf,0,Pakistan,West Indies,53,West Indies,New Wanderers Stadium,2,Pakistan
+293,13.1,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,54,West Indies,New Wanderers Stadium,2,Pakistan
+294,13.2,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,54,West Indies,New Wanderers Stadium,2,Pakistan
+295,13.3,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,54,West Indies,New Wanderers Stadium,2,Pakistan
+296,13.4,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Shoaib Malik,0,Pakistan,West Indies,54,West Indies,New Wanderers Stadium,3,Pakistan
+297,13.5,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Misbah-ul-Haq,0,Pakistan,West Indies,54,West Indies,New Wanderers Stadium,3,Pakistan
+298,13.6,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Misbah-ul-Haq,0,Pakistan,West Indies,54,West Indies,New Wanderers Stadium,3,Pakistan
+299,13.7,0,GC Tonge,2009-09-23,2nd,Mohammad Yousuf,0,,Misbah-ul-Haq,0,Pakistan,West Indies,54,West Indies,New Wanderers Stadium,3,Pakistan
+300,14.1,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Mohammad Yousuf,0,Pakistan,West Indies,55,West Indies,New Wanderers Stadium,3,Pakistan
+301,14.2,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Mohammad Yousuf,0,Pakistan,West Indies,55,West Indies,New Wanderers Stadium,3,Pakistan
+302,14.3,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Mohammad Yousuf,0,Pakistan,West Indies,55,West Indies,New Wanderers Stadium,3,Pakistan
+303,14.4,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Mohammad Yousuf,0,Pakistan,West Indies,56,West Indies,New Wanderers Stadium,3,Pakistan
+304,14.5,4,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Mohammad Yousuf,0,Pakistan,West Indies,60,West Indies,New Wanderers Stadium,3,Pakistan
+305,14.6,1,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Mohammad Yousuf,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,3,Pakistan
+306,14.7,0,DE Bernard,2009-09-23,2nd,Mohammad Yousuf,0,,Misbah-ul-Haq,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,3,Pakistan
+307,14.8,0,DE Bernard,2009-09-23,2nd,Mohammad Yousuf,0,,Misbah-ul-Haq,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,3,Pakistan
+308,15.1,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Mohammad Yousuf,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,4,Pakistan
+309,15.2,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,4,Pakistan
+310,15.3,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,4,Pakistan
+311,15.4,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,4,Pakistan
+312,15.5,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,61,West Indies,New Wanderers Stadium,4,Pakistan
+313,15.6,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,62,West Indies,New Wanderers Stadium,4,Pakistan
+314,16.1,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,62,West Indies,New Wanderers Stadium,4,Pakistan
+315,16.2,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,63,West Indies,New Wanderers Stadium,4,Pakistan
+316,16.3,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,63,West Indies,New Wanderers Stadium,4,Pakistan
+317,16.4,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,63,West Indies,New Wanderers Stadium,4,Pakistan
+318,16.5,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,63,West Indies,New Wanderers Stadium,4,Pakistan
+319,16.6,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,63,West Indies,New Wanderers Stadium,4,Pakistan
+320,16.7,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,63,West Indies,New Wanderers Stadium,4,Pakistan
+321,17.1,1,GC Tonge,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,64,West Indies,New Wanderers Stadium,4,Pakistan
+322,17.2,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,64,West Indies,New Wanderers Stadium,4,Pakistan
+323,17.3,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,64,West Indies,New Wanderers Stadium,4,Pakistan
+324,17.4,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,64,West Indies,New Wanderers Stadium,4,Pakistan
+325,17.5,0,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,64,West Indies,New Wanderers Stadium,4,Pakistan
+326,17.6,1,GC Tonge,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,65,West Indies,New Wanderers Stadium,4,Pakistan
+327,18.1,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,65,West Indies,New Wanderers Stadium,4,Pakistan
+328,18.2,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,65,West Indies,New Wanderers Stadium,4,Pakistan
+329,18.3,2,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,67,West Indies,New Wanderers Stadium,4,Pakistan
+330,18.4,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,67,West Indies,New Wanderers Stadium,4,Pakistan
+331,18.5,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,67,West Indies,New Wanderers Stadium,4,Pakistan
+332,18.6,0,DE Bernard,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,67,West Indies,New Wanderers Stadium,4,Pakistan
+333,19.1,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,67,West Indies,New Wanderers Stadium,4,Pakistan
+334,19.2,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,67,West Indies,New Wanderers Stadium,4,Pakistan
+335,19.3,1,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,68,West Indies,New Wanderers Stadium,4,Pakistan
+336,19.4,4,DJG Sammy,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+337,19.5,0,DJG Sammy,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+338,19.6,0,DJG Sammy,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+339,20.1,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+340,20.2,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+341,20.3,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+342,20.4,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+343,20.5,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,72,West Indies,New Wanderers Stadium,4,Pakistan
+344,20.6,3,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,75,West Indies,New Wanderers Stadium,4,Pakistan
+345,21.1,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,75,West Indies,New Wanderers Stadium,4,Pakistan
+346,21.2,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,75,West Indies,New Wanderers Stadium,4,Pakistan
+347,21.3,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,75,West Indies,New Wanderers Stadium,4,Pakistan
+348,21.4,1,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,76,West Indies,New Wanderers Stadium,4,Pakistan
+349,21.5,0,DJG Sammy,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,76,West Indies,New Wanderers Stadium,4,Pakistan
+350,21.6,0,DJG Sammy,2009-09-23,2nd,Misbah-ul-Haq,0,,Umar Akmal,0,Pakistan,West Indies,76,West Indies,New Wanderers Stadium,4,Pakistan
+351,22.1,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,76,West Indies,New Wanderers Stadium,4,Pakistan
+352,22.2,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,76,West Indies,New Wanderers Stadium,4,Pakistan
+353,22.3,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Misbah-ul-Haq,0,Pakistan,West Indies,76,West Indies,New Wanderers Stadium,5,Pakistan
+354,22.4,1,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,77,West Indies,New Wanderers Stadium,5,Pakistan
+355,22.5,1,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,78,West Indies,New Wanderers Stadium,5,Pakistan
+356,22.6,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,78,West Indies,New Wanderers Stadium,5,Pakistan
+357,23.1,0,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,78,West Indies,New Wanderers Stadium,5,Pakistan
+358,23.2,0,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,78,West Indies,New Wanderers Stadium,5,Pakistan
+359,23.3,4,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,82,West Indies,New Wanderers Stadium,5,Pakistan
+360,23.4,1,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,83,West Indies,New Wanderers Stadium,5,Pakistan
+361,23.5,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,83,West Indies,New Wanderers Stadium,5,Pakistan
+362,23.6,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,83,West Indies,New Wanderers Stadium,5,Pakistan
+363,24.1,0,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,84,West Indies,New Wanderers Stadium,5,Pakistan
+364,24.2,0,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,84,West Indies,New Wanderers Stadium,5,Pakistan
+365,24.3,1,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,85,West Indies,New Wanderers Stadium,5,Pakistan
+366,24.4,1,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,86,West Indies,New Wanderers Stadium,5,Pakistan
+367,24.5,1,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,87,West Indies,New Wanderers Stadium,5,Pakistan
+368,24.6,4,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,91,West Indies,New Wanderers Stadium,5,Pakistan
+369,25.1,0,GC Tonge,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,92,West Indies,New Wanderers Stadium,5,Pakistan
+370,25.2,0,GC Tonge,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,92,West Indies,New Wanderers Stadium,5,Pakistan
+371,25.3,2,GC Tonge,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,94,West Indies,New Wanderers Stadium,5,Pakistan
+372,25.4,0,GC Tonge,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,94,West Indies,New Wanderers Stadium,5,Pakistan
+373,25.5,2,GC Tonge,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,96,West Indies,New Wanderers Stadium,5,Pakistan
+374,25.6,1,GC Tonge,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,97,West Indies,New Wanderers Stadium,5,Pakistan
+375,25.7,1,GC Tonge,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,98,West Indies,New Wanderers Stadium,5,Pakistan
+376,26.1,0,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,98,West Indies,New Wanderers Stadium,5,Pakistan
+377,26.2,0,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,98,West Indies,New Wanderers Stadium,5,Pakistan
+378,26.3,1,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,99,West Indies,New Wanderers Stadium,5,Pakistan
+379,26.4,1,DE Bernard,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,100,West Indies,New Wanderers Stadium,5,Pakistan
+380,26.5,0,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,100,West Indies,New Wanderers Stadium,5,Pakistan
+381,26.6,4,DE Bernard,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,104,West Indies,New Wanderers Stadium,5,Pakistan
+382,27.1,1,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,105,West Indies,New Wanderers Stadium,5,Pakistan
+383,27.2,2,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,107,West Indies,New Wanderers Stadium,5,Pakistan
+384,27.3,1,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,108,West Indies,New Wanderers Stadium,5,Pakistan
+385,27.4,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,108,West Indies,New Wanderers Stadium,5,Pakistan
+386,27.5,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,108,West Indies,New Wanderers Stadium,5,Pakistan
+387,27.6,1,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,109,West Indies,New Wanderers Stadium,5,Pakistan
+388,28.1,0,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,110,West Indies,New Wanderers Stadium,5,Pakistan
+389,28.2,1,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,111,West Indies,New Wanderers Stadium,5,Pakistan
+390,28.3,4,TL Best,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,115,West Indies,New Wanderers Stadium,5,Pakistan
+391,28.4,0,TL Best,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,116,West Indies,New Wanderers Stadium,5,Pakistan
+392,28.5,4,TL Best,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,120,West Indies,New Wanderers Stadium,5,Pakistan
+393,28.6,2,TL Best,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,122,West Indies,New Wanderers Stadium,5,Pakistan
+394,28.7,0,TL Best,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,123,West Indies,New Wanderers Stadium,5,Pakistan
+395,28.8,1,TL Best,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,124,West Indies,New Wanderers Stadium,5,Pakistan
+396,28.9,0,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,124,West Indies,New Wanderers Stadium,5,Pakistan
+397,29.1,1,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,125,West Indies,New Wanderers Stadium,5,Pakistan
+398,29.2,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,125,West Indies,New Wanderers Stadium,5,Pakistan
+399,29.3,0,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,125,West Indies,New Wanderers Stadium,5,Pakistan
+400,29.4,1,DJG Sammy,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,126,West Indies,New Wanderers Stadium,5,Pakistan
+401,29.5,2,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,128,West Indies,New Wanderers Stadium,5,Pakistan
+402,29.6,0,DJG Sammy,2009-09-23,2nd,Shahid Afridi,0,,Umar Akmal,0,Pakistan,West Indies,128,West Indies,New Wanderers Stadium,5,Pakistan
+403,30.1,4,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,132,West Indies,New Wanderers Stadium,5,Pakistan
+404,30.2,0,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,133,West Indies,New Wanderers Stadium,5,Pakistan
+405,30.3,0,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,133,West Indies,New Wanderers Stadium,5,Pakistan
+406,30.4,0,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,133,West Indies,New Wanderers Stadium,5,Pakistan
+407,30.5,0,TL Best,2009-09-23,2nd,Umar Akmal,0,,Shahid Afridi,0,Pakistan,West Indies,134,West Indies,New Wanderers Stadium,5,Pakistan

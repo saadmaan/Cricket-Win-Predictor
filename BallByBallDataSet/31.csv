@@ -1,0 +1,489 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,WF Stelling,2007-03-16,1st,GC Smith,0,,AB de Villiers,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",0,South Africa
+1,0.2,0,WF Stelling,2007-03-16,1st,GC Smith,0,AB de Villiers,AB de Villiers,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+2,0.3,0,WF Stelling,2007-03-16,1st,GC Smith,0,,JH Kallis,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+3,0.4,0,WF Stelling,2007-03-16,1st,GC Smith,0,,JH Kallis,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+4,0.5,0,WF Stelling,2007-03-16,1st,GC Smith,0,,JH Kallis,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+5,0.6,0,WF Stelling,2007-03-16,1st,GC Smith,0,,JH Kallis,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+6,1.1,0,DJ Reekers,2007-03-16,1st,JH Kallis,0,,GC Smith,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+7,1.2,0,DJ Reekers,2007-03-16,1st,JH Kallis,0,,GC Smith,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+8,1.3,0,DJ Reekers,2007-03-16,1st,JH Kallis,0,,GC Smith,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+9,1.4,0,DJ Reekers,2007-03-16,1st,JH Kallis,0,,GC Smith,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",1,South Africa
+10,1.5,1,DJ Reekers,2007-03-16,1st,JH Kallis,0,,GC Smith,1,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",1,South Africa
+11,1.6,0,DJ Reekers,2007-03-16,1st,GC Smith,1,,JH Kallis,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",1,South Africa
+12,2.1,0,WF Stelling,2007-03-16,1st,JH Kallis,0,,GC Smith,1,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",1,South Africa
+13,2.2,1,WF Stelling,2007-03-16,1st,JH Kallis,0,,GC Smith,2,Netherlands,South Africa,2,Netherlands,"Warner Park, Basseterre",1,South Africa
+14,2.3,0,WF Stelling,2007-03-16,1st,GC Smith,2,,JH Kallis,0,Netherlands,South Africa,2,Netherlands,"Warner Park, Basseterre",1,South Africa
+15,2.4,0,WF Stelling,2007-03-16,1st,GC Smith,2,,JH Kallis,0,Netherlands,South Africa,2,Netherlands,"Warner Park, Basseterre",1,South Africa
+16,2.5,1,WF Stelling,2007-03-16,1st,GC Smith,2,,JH Kallis,1,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+17,2.6,0,WF Stelling,2007-03-16,1st,JH Kallis,1,,GC Smith,2,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+18,3.1,0,DJ Reekers,2007-03-16,1st,GC Smith,2,,JH Kallis,1,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+19,3.2,0,DJ Reekers,2007-03-16,1st,GC Smith,2,,JH Kallis,1,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+20,3.3,0,DJ Reekers,2007-03-16,1st,GC Smith,2,,JH Kallis,1,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+21,3.4,0,DJ Reekers,2007-03-16,1st,GC Smith,2,,JH Kallis,1,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+22,3.5,0,DJ Reekers,2007-03-16,1st,GC Smith,2,,JH Kallis,1,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+23,3.6,0,DJ Reekers,2007-03-16,1st,GC Smith,2,,JH Kallis,1,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+24,4.1,0,WF Stelling,2007-03-16,1st,JH Kallis,1,,GC Smith,2,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+25,4.2,0,WF Stelling,2007-03-16,1st,JH Kallis,1,,GC Smith,2,Netherlands,South Africa,3,Netherlands,"Warner Park, Basseterre",1,South Africa
+26,4.3,1,WF Stelling,2007-03-16,1st,JH Kallis,1,,GC Smith,3,Netherlands,South Africa,4,Netherlands,"Warner Park, Basseterre",1,South Africa
+27,4.4,0,WF Stelling,2007-03-16,1st,GC Smith,3,,JH Kallis,1,Netherlands,South Africa,4,Netherlands,"Warner Park, Basseterre",1,South Africa
+28,4.5,0,WF Stelling,2007-03-16,1st,GC Smith,3,,JH Kallis,1,Netherlands,South Africa,4,Netherlands,"Warner Park, Basseterre",1,South Africa
+29,4.6,0,WF Stelling,2007-03-16,1st,GC Smith,3,,JH Kallis,1,Netherlands,South Africa,4,Netherlands,"Warner Park, Basseterre",1,South Africa
+30,5.1,0,DJ Reekers,2007-03-16,1st,JH Kallis,1,,GC Smith,3,Netherlands,South Africa,4,Netherlands,"Warner Park, Basseterre",1,South Africa
+31,5.2,0,DJ Reekers,2007-03-16,1st,JH Kallis,1,,GC Smith,3,Netherlands,South Africa,4,Netherlands,"Warner Park, Basseterre",1,South Africa
+32,5.3,6,DJ Reekers,2007-03-16,1st,JH Kallis,1,,GC Smith,9,Netherlands,South Africa,10,Netherlands,"Warner Park, Basseterre",1,South Africa
+33,5.4,1,DJ Reekers,2007-03-16,1st,JH Kallis,1,,GC Smith,10,Netherlands,South Africa,11,Netherlands,"Warner Park, Basseterre",1,South Africa
+34,5.5,0,DJ Reekers,2007-03-16,1st,GC Smith,10,,JH Kallis,1,Netherlands,South Africa,11,Netherlands,"Warner Park, Basseterre",1,South Africa
+35,5.6,0,DJ Reekers,2007-03-16,1st,GC Smith,10,,JH Kallis,1,Netherlands,South Africa,11,Netherlands,"Warner Park, Basseterre",1,South Africa
+36,6.1,1,WF Stelling,2007-03-16,1st,JH Kallis,1,,GC Smith,11,Netherlands,South Africa,12,Netherlands,"Warner Park, Basseterre",1,South Africa
+37,6.2,4,WF Stelling,2007-03-16,1st,GC Smith,11,,JH Kallis,5,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",1,South Africa
+38,6.3,1,WF Stelling,2007-03-16,1st,GC Smith,11,,JH Kallis,6,Netherlands,South Africa,17,Netherlands,"Warner Park, Basseterre",1,South Africa
+39,6.4,1,WF Stelling,2007-03-16,1st,JH Kallis,6,,GC Smith,12,Netherlands,South Africa,18,Netherlands,"Warner Park, Basseterre",1,South Africa
+40,6.5,1,WF Stelling,2007-03-16,1st,GC Smith,12,,JH Kallis,7,Netherlands,South Africa,19,Netherlands,"Warner Park, Basseterre",1,South Africa
+41,6.6,1,WF Stelling,2007-03-16,1st,JH Kallis,7,,GC Smith,13,Netherlands,South Africa,20,Netherlands,"Warner Park, Basseterre",1,South Africa
+42,7.1,2,DJ Reekers,2007-03-16,1st,JH Kallis,7,,GC Smith,15,Netherlands,South Africa,22,Netherlands,"Warner Park, Basseterre",1,South Africa
+43,7.2,4,DJ Reekers,2007-03-16,1st,JH Kallis,7,,GC Smith,19,Netherlands,South Africa,26,Netherlands,"Warner Park, Basseterre",1,South Africa
+44,7.3,1,DJ Reekers,2007-03-16,1st,JH Kallis,7,,GC Smith,20,Netherlands,South Africa,27,Netherlands,"Warner Park, Basseterre",1,South Africa
+45,7.4,1,DJ Reekers,2007-03-16,1st,GC Smith,20,,JH Kallis,8,Netherlands,South Africa,28,Netherlands,"Warner Park, Basseterre",1,South Africa
+46,7.5,2,DJ Reekers,2007-03-16,1st,JH Kallis,8,,GC Smith,22,Netherlands,South Africa,30,Netherlands,"Warner Park, Basseterre",1,South Africa
+47,7.6,0,DJ Reekers,2007-03-16,1st,JH Kallis,8,,GC Smith,22,Netherlands,South Africa,30,Netherlands,"Warner Park, Basseterre",1,South Africa
+48,8.1,0,WF Stelling,2007-03-16,1st,GC Smith,22,,JH Kallis,8,Netherlands,South Africa,30,Netherlands,"Warner Park, Basseterre",1,South Africa
+49,8.2,0,WF Stelling,2007-03-16,1st,GC Smith,22,,JH Kallis,8,Netherlands,South Africa,30,Netherlands,"Warner Park, Basseterre",1,South Africa
+50,8.3,0,WF Stelling,2007-03-16,1st,GC Smith,22,,JH Kallis,8,Netherlands,South Africa,30,Netherlands,"Warner Park, Basseterre",1,South Africa
+51,8.4,1,WF Stelling,2007-03-16,1st,GC Smith,22,,JH Kallis,9,Netherlands,South Africa,31,Netherlands,"Warner Park, Basseterre",1,South Africa
+52,8.5,0,WF Stelling,2007-03-16,1st,JH Kallis,9,,GC Smith,22,Netherlands,South Africa,31,Netherlands,"Warner Park, Basseterre",1,South Africa
+53,8.6,0,WF Stelling,2007-03-16,1st,JH Kallis,9,,GC Smith,22,Netherlands,South Africa,31,Netherlands,"Warner Park, Basseterre",1,South Africa
+54,9.1,3,DJ Reekers,2007-03-16,1st,GC Smith,22,,JH Kallis,12,Netherlands,South Africa,34,Netherlands,"Warner Park, Basseterre",1,South Africa
+55,9.2,4,DJ Reekers,2007-03-16,1st,JH Kallis,12,,GC Smith,26,Netherlands,South Africa,38,Netherlands,"Warner Park, Basseterre",1,South Africa
+56,9.3,0,DJ Reekers,2007-03-16,1st,JH Kallis,12,,GC Smith,26,Netherlands,South Africa,38,Netherlands,"Warner Park, Basseterre",1,South Africa
+57,9.4,1,DJ Reekers,2007-03-16,1st,JH Kallis,12,,GC Smith,27,Netherlands,South Africa,39,Netherlands,"Warner Park, Basseterre",1,South Africa
+58,9.5,0,DJ Reekers,2007-03-16,1st,GC Smith,27,,JH Kallis,12,Netherlands,South Africa,40,Netherlands,"Warner Park, Basseterre",1,South Africa
+59,9.6,4,DJ Reekers,2007-03-16,1st,GC Smith,27,,JH Kallis,16,Netherlands,South Africa,44,Netherlands,"Warner Park, Basseterre",1,South Africa
+60,9.7,4,DJ Reekers,2007-03-16,1st,GC Smith,27,,JH Kallis,20,Netherlands,South Africa,48,Netherlands,"Warner Park, Basseterre",1,South Africa
+61,10.1,0,WF Stelling,2007-03-16,1st,JH Kallis,20,,GC Smith,27,Netherlands,South Africa,48,Netherlands,"Warner Park, Basseterre",1,South Africa
+62,10.2,1,WF Stelling,2007-03-16,1st,JH Kallis,20,,GC Smith,28,Netherlands,South Africa,49,Netherlands,"Warner Park, Basseterre",1,South Africa
+63,10.3,0,WF Stelling,2007-03-16,1st,GC Smith,28,,JH Kallis,20,Netherlands,South Africa,50,Netherlands,"Warner Park, Basseterre",1,South Africa
+64,10.4,0,WF Stelling,2007-03-16,1st,JH Kallis,20,,GC Smith,28,Netherlands,South Africa,50,Netherlands,"Warner Park, Basseterre",1,South Africa
+65,10.5,0,WF Stelling,2007-03-16,1st,JH Kallis,20,,GC Smith,28,Netherlands,South Africa,50,Netherlands,"Warner Park, Basseterre",1,South Africa
+66,10.6,0,WF Stelling,2007-03-16,1st,JH Kallis,20,,GC Smith,28,Netherlands,South Africa,50,Netherlands,"Warner Park, Basseterre",1,South Africa
+67,11.1,1,RN ten Doeschate,2007-03-16,1st,GC Smith,28,,JH Kallis,21,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",1,South Africa
+68,11.2,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,21,,GC Smith,28,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",1,South Africa
+69,11.3,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,21,,GC Smith,28,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",1,South Africa
+70,11.4,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,21,,GC Smith,28,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",1,South Africa
+71,11.5,2,RN ten Doeschate,2007-03-16,1st,JH Kallis,21,,GC Smith,30,Netherlands,South Africa,54,Netherlands,"Warner Park, Basseterre",1,South Africa
+72,11.6,4,RN ten Doeschate,2007-03-16,1st,JH Kallis,21,,GC Smith,34,Netherlands,South Africa,58,Netherlands,"Warner Park, Basseterre",1,South Africa
+73,11.7,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,21,,GC Smith,34,Netherlands,South Africa,58,Netherlands,"Warner Park, Basseterre",1,South Africa
+74,12.1,1,TBM de Leede,2007-03-16,1st,GC Smith,34,,JH Kallis,22,Netherlands,South Africa,59,Netherlands,"Warner Park, Basseterre",1,South Africa
+75,12.2,1,TBM de Leede,2007-03-16,1st,JH Kallis,22,,GC Smith,35,Netherlands,South Africa,60,Netherlands,"Warner Park, Basseterre",1,South Africa
+76,12.3,0,TBM de Leede,2007-03-16,1st,GC Smith,35,,JH Kallis,22,Netherlands,South Africa,60,Netherlands,"Warner Park, Basseterre",1,South Africa
+77,12.4,1,TBM de Leede,2007-03-16,1st,GC Smith,35,,JH Kallis,23,Netherlands,South Africa,61,Netherlands,"Warner Park, Basseterre",1,South Africa
+78,12.5,2,TBM de Leede,2007-03-16,1st,JH Kallis,23,,GC Smith,37,Netherlands,South Africa,63,Netherlands,"Warner Park, Basseterre",1,South Africa
+79,12.6,6,TBM de Leede,2007-03-16,1st,JH Kallis,23,,GC Smith,43,Netherlands,South Africa,69,Netherlands,"Warner Park, Basseterre",1,South Africa
+80,13.1,0,RN ten Doeschate,2007-03-16,1st,GC Smith,43,,JH Kallis,23,Netherlands,South Africa,69,Netherlands,"Warner Park, Basseterre",1,South Africa
+81,13.2,0,RN ten Doeschate,2007-03-16,1st,GC Smith,43,,JH Kallis,23,Netherlands,South Africa,69,Netherlands,"Warner Park, Basseterre",1,South Africa
+82,13.3,0,RN ten Doeschate,2007-03-16,1st,GC Smith,43,,JH Kallis,23,Netherlands,South Africa,69,Netherlands,"Warner Park, Basseterre",1,South Africa
+83,13.4,0,RN ten Doeschate,2007-03-16,1st,GC Smith,43,,JH Kallis,23,Netherlands,South Africa,69,Netherlands,"Warner Park, Basseterre",1,South Africa
+84,13.5,6,RN ten Doeschate,2007-03-16,1st,GC Smith,43,,JH Kallis,29,Netherlands,South Africa,75,Netherlands,"Warner Park, Basseterre",1,South Africa
+85,13.6,0,RN ten Doeschate,2007-03-16,1st,GC Smith,43,,JH Kallis,29,Netherlands,South Africa,75,Netherlands,"Warner Park, Basseterre",1,South Africa
+86,14.1,1,TBM de Leede,2007-03-16,1st,JH Kallis,29,,GC Smith,44,Netherlands,South Africa,76,Netherlands,"Warner Park, Basseterre",1,South Africa
+87,14.2,0,TBM de Leede,2007-03-16,1st,GC Smith,44,,JH Kallis,29,Netherlands,South Africa,77,Netherlands,"Warner Park, Basseterre",1,South Africa
+88,14.3,1,TBM de Leede,2007-03-16,1st,GC Smith,44,,JH Kallis,30,Netherlands,South Africa,78,Netherlands,"Warner Park, Basseterre",1,South Africa
+89,14.4,4,TBM de Leede,2007-03-16,1st,JH Kallis,30,,GC Smith,48,Netherlands,South Africa,82,Netherlands,"Warner Park, Basseterre",1,South Africa
+90,14.5,3,TBM de Leede,2007-03-16,1st,JH Kallis,30,,GC Smith,51,Netherlands,South Africa,85,Netherlands,"Warner Park, Basseterre",1,South Africa
+91,14.6,1,TBM de Leede,2007-03-16,1st,GC Smith,51,,JH Kallis,31,Netherlands,South Africa,86,Netherlands,"Warner Park, Basseterre",1,South Africa
+92,14.7,4,TBM de Leede,2007-03-16,1st,JH Kallis,31,,GC Smith,55,Netherlands,South Africa,90,Netherlands,"Warner Park, Basseterre",1,South Africa
+93,15.1,1,RN ten Doeschate,2007-03-16,1st,GC Smith,55,,JH Kallis,32,Netherlands,South Africa,91,Netherlands,"Warner Park, Basseterre",1,South Africa
+94,15.2,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,32,,GC Smith,55,Netherlands,South Africa,91,Netherlands,"Warner Park, Basseterre",1,South Africa
+95,15.3,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,32,,GC Smith,55,Netherlands,South Africa,91,Netherlands,"Warner Park, Basseterre",1,South Africa
+96,15.4,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,32,,GC Smith,55,Netherlands,South Africa,91,Netherlands,"Warner Park, Basseterre",1,South Africa
+97,15.5,1,RN ten Doeschate,2007-03-16,1st,JH Kallis,32,,GC Smith,56,Netherlands,South Africa,92,Netherlands,"Warner Park, Basseterre",1,South Africa
+98,15.6,1,RN ten Doeschate,2007-03-16,1st,GC Smith,56,,JH Kallis,33,Netherlands,South Africa,93,Netherlands,"Warner Park, Basseterre",1,South Africa
+99,16.1,0,PW Borren,2007-03-16,1st,GC Smith,56,,JH Kallis,33,Netherlands,South Africa,93,Netherlands,"Warner Park, Basseterre",1,South Africa
+100,16.2,1,PW Borren,2007-03-16,1st,GC Smith,56,,JH Kallis,34,Netherlands,South Africa,94,Netherlands,"Warner Park, Basseterre",1,South Africa
+101,16.3,4,PW Borren,2007-03-16,1st,JH Kallis,34,,GC Smith,60,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",1,South Africa
+102,16.4,1,PW Borren,2007-03-16,1st,JH Kallis,34,,GC Smith,61,Netherlands,South Africa,99,Netherlands,"Warner Park, Basseterre",1,South Africa
+103,16.5,4,PW Borren,2007-03-16,1st,GC Smith,61,,JH Kallis,38,Netherlands,South Africa,103,Netherlands,"Warner Park, Basseterre",1,South Africa
+104,16.6,0,PW Borren,2007-03-16,1st,GC Smith,61,,JH Kallis,38,Netherlands,South Africa,103,Netherlands,"Warner Park, Basseterre",1,South Africa
+105,17.1,1,RN ten Doeschate,2007-03-16,1st,JH Kallis,38,,GC Smith,62,Netherlands,South Africa,104,Netherlands,"Warner Park, Basseterre",1,South Africa
+106,17.2,2,RN ten Doeschate,2007-03-16,1st,GC Smith,62,,JH Kallis,40,Netherlands,South Africa,106,Netherlands,"Warner Park, Basseterre",1,South Africa
+107,17.3,1,RN ten Doeschate,2007-03-16,1st,GC Smith,62,,JH Kallis,41,Netherlands,South Africa,107,Netherlands,"Warner Park, Basseterre",1,South Africa
+108,17.4,2,RN ten Doeschate,2007-03-16,1st,JH Kallis,41,,GC Smith,64,Netherlands,South Africa,109,Netherlands,"Warner Park, Basseterre",1,South Africa
+109,17.5,1,RN ten Doeschate,2007-03-16,1st,JH Kallis,41,,GC Smith,65,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",1,South Africa
+110,17.6,0,RN ten Doeschate,2007-03-16,1st,GC Smith,65,,JH Kallis,41,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",1,South Africa
+111,18.1,0,PW Borren,2007-03-16,1st,JH Kallis,41,,GC Smith,65,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",1,South Africa
+112,18.2,1,PW Borren,2007-03-16,1st,JH Kallis,41,,GC Smith,66,Netherlands,South Africa,111,Netherlands,"Warner Park, Basseterre",1,South Africa
+113,18.3,1,PW Borren,2007-03-16,1st,GC Smith,66,,JH Kallis,42,Netherlands,South Africa,112,Netherlands,"Warner Park, Basseterre",1,South Africa
+114,18.4,1,PW Borren,2007-03-16,1st,JH Kallis,42,,GC Smith,67,Netherlands,South Africa,113,Netherlands,"Warner Park, Basseterre",1,South Africa
+115,18.5,1,PW Borren,2007-03-16,1st,GC Smith,67,,JH Kallis,43,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",1,South Africa
+116,18.6,0,PW Borren,2007-03-16,1st,JH Kallis,43,GC Smith,GC Smith,67,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",2,South Africa
+117,19.1,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,43,,HH Gibbs,0,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",2,South Africa
+118,19.2,1,RN ten Doeschate,2007-03-16,1st,JH Kallis,43,,HH Gibbs,1,Netherlands,South Africa,115,Netherlands,"Warner Park, Basseterre",2,South Africa
+119,19.3,0,RN ten Doeschate,2007-03-16,1st,HH Gibbs,1,,JH Kallis,43,Netherlands,South Africa,115,Netherlands,"Warner Park, Basseterre",2,South Africa
+120,19.4,1,RN ten Doeschate,2007-03-16,1st,HH Gibbs,1,,JH Kallis,44,Netherlands,South Africa,116,Netherlands,"Warner Park, Basseterre",2,South Africa
+121,19.5,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,44,,HH Gibbs,1,Netherlands,South Africa,116,Netherlands,"Warner Park, Basseterre",2,South Africa
+122,19.6,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,44,,HH Gibbs,1,Netherlands,South Africa,116,Netherlands,"Warner Park, Basseterre",2,South Africa
+123,20.1,0,PW Borren,2007-03-16,1st,HH Gibbs,1,,JH Kallis,44,Netherlands,South Africa,116,Netherlands,"Warner Park, Basseterre",2,South Africa
+124,20.2,1,PW Borren,2007-03-16,1st,HH Gibbs,1,,JH Kallis,45,Netherlands,South Africa,117,Netherlands,"Warner Park, Basseterre",2,South Africa
+125,20.3,0,PW Borren,2007-03-16,1st,JH Kallis,45,,HH Gibbs,1,Netherlands,South Africa,117,Netherlands,"Warner Park, Basseterre",2,South Africa
+126,20.4,0,PW Borren,2007-03-16,1st,JH Kallis,45,,HH Gibbs,1,Netherlands,South Africa,117,Netherlands,"Warner Park, Basseterre",2,South Africa
+127,20.5,1,PW Borren,2007-03-16,1st,JH Kallis,45,,HH Gibbs,2,Netherlands,South Africa,118,Netherlands,"Warner Park, Basseterre",2,South Africa
+128,20.6,1,PW Borren,2007-03-16,1st,HH Gibbs,2,,JH Kallis,46,Netherlands,South Africa,119,Netherlands,"Warner Park, Basseterre",2,South Africa
+129,21.1,4,RN ten Doeschate,2007-03-16,1st,HH Gibbs,2,,JH Kallis,50,Netherlands,South Africa,123,Netherlands,"Warner Park, Basseterre",2,South Africa
+130,21.2,0,RN ten Doeschate,2007-03-16,1st,HH Gibbs,2,,JH Kallis,50,Netherlands,South Africa,123,Netherlands,"Warner Park, Basseterre",2,South Africa
+131,21.3,4,RN ten Doeschate,2007-03-16,1st,HH Gibbs,2,,JH Kallis,54,Netherlands,South Africa,127,Netherlands,"Warner Park, Basseterre",2,South Africa
+132,21.4,1,RN ten Doeschate,2007-03-16,1st,HH Gibbs,2,,JH Kallis,55,Netherlands,South Africa,128,Netherlands,"Warner Park, Basseterre",2,South Africa
+133,21.5,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,55,,HH Gibbs,2,Netherlands,South Africa,128,Netherlands,"Warner Park, Basseterre",2,South Africa
+134,21.6,0,RN ten Doeschate,2007-03-16,1st,JH Kallis,55,,HH Gibbs,2,Netherlands,South Africa,128,Netherlands,"Warner Park, Basseterre",2,South Africa
+135,22.1,1,PW Borren,2007-03-16,1st,HH Gibbs,2,,JH Kallis,56,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",2,South Africa
+136,22.2,1,PW Borren,2007-03-16,1st,JH Kallis,56,,HH Gibbs,3,Netherlands,South Africa,130,Netherlands,"Warner Park, Basseterre",2,South Africa
+137,22.3,1,PW Borren,2007-03-16,1st,HH Gibbs,3,,JH Kallis,57,Netherlands,South Africa,131,Netherlands,"Warner Park, Basseterre",2,South Africa
+138,22.4,4,PW Borren,2007-03-16,1st,JH Kallis,57,,HH Gibbs,7,Netherlands,South Africa,135,Netherlands,"Warner Park, Basseterre",2,South Africa
+139,22.5,0,PW Borren,2007-03-16,1st,JH Kallis,57,,HH Gibbs,7,Netherlands,South Africa,135,Netherlands,"Warner Park, Basseterre",2,South Africa
+140,22.6,1,PW Borren,2007-03-16,1st,JH Kallis,57,,HH Gibbs,8,Netherlands,South Africa,136,Netherlands,"Warner Park, Basseterre",2,South Africa
+141,23.1,0,DLS van Bunge,2007-03-16,1st,JH Kallis,57,,HH Gibbs,8,Netherlands,South Africa,136,Netherlands,"Warner Park, Basseterre",2,South Africa
+142,23.2,4,DLS van Bunge,2007-03-16,1st,JH Kallis,57,,HH Gibbs,12,Netherlands,South Africa,140,Netherlands,"Warner Park, Basseterre",2,South Africa
+143,23.3,1,DLS van Bunge,2007-03-16,1st,JH Kallis,57,,HH Gibbs,13,Netherlands,South Africa,141,Netherlands,"Warner Park, Basseterre",2,South Africa
+144,23.4,0,DLS van Bunge,2007-03-16,1st,HH Gibbs,13,,JH Kallis,57,Netherlands,South Africa,141,Netherlands,"Warner Park, Basseterre",2,South Africa
+145,23.5,1,DLS van Bunge,2007-03-16,1st,HH Gibbs,13,,JH Kallis,58,Netherlands,South Africa,142,Netherlands,"Warner Park, Basseterre",2,South Africa
+146,23.6,2,DLS van Bunge,2007-03-16,1st,JH Kallis,58,,HH Gibbs,15,Netherlands,South Africa,144,Netherlands,"Warner Park, Basseterre",2,South Africa
+147,24.1,1,PW Borren,2007-03-16,1st,HH Gibbs,15,,JH Kallis,59,Netherlands,South Africa,145,Netherlands,"Warner Park, Basseterre",2,South Africa
+148,24.2,1,PW Borren,2007-03-16,1st,JH Kallis,59,,HH Gibbs,16,Netherlands,South Africa,146,Netherlands,"Warner Park, Basseterre",2,South Africa
+149,24.3,1,PW Borren,2007-03-16,1st,HH Gibbs,16,,JH Kallis,60,Netherlands,South Africa,147,Netherlands,"Warner Park, Basseterre",2,South Africa
+150,24.4,1,PW Borren,2007-03-16,1st,JH Kallis,60,,HH Gibbs,17,Netherlands,South Africa,148,Netherlands,"Warner Park, Basseterre",2,South Africa
+151,24.5,1,PW Borren,2007-03-16,1st,HH Gibbs,17,,JH Kallis,61,Netherlands,South Africa,149,Netherlands,"Warner Park, Basseterre",2,South Africa
+152,24.6,1,PW Borren,2007-03-16,1st,JH Kallis,61,,HH Gibbs,18,Netherlands,South Africa,150,Netherlands,"Warner Park, Basseterre",2,South Africa
+153,25.1,0,DLS van Bunge,2007-03-16,1st,JH Kallis,61,,HH Gibbs,18,Netherlands,South Africa,150,Netherlands,"Warner Park, Basseterre",2,South Africa
+154,25.2,0,DLS van Bunge,2007-03-16,1st,JH Kallis,61,,HH Gibbs,18,Netherlands,South Africa,150,Netherlands,"Warner Park, Basseterre",2,South Africa
+155,25.3,0,DLS van Bunge,2007-03-16,1st,JH Kallis,61,,HH Gibbs,18,Netherlands,South Africa,150,Netherlands,"Warner Park, Basseterre",2,South Africa
+156,25.4,1,DLS van Bunge,2007-03-16,1st,JH Kallis,61,,HH Gibbs,19,Netherlands,South Africa,151,Netherlands,"Warner Park, Basseterre",2,South Africa
+157,25.5,0,DLS van Bunge,2007-03-16,1st,HH Gibbs,19,,JH Kallis,61,Netherlands,South Africa,151,Netherlands,"Warner Park, Basseterre",2,South Africa
+158,25.6,0,DLS van Bunge,2007-03-16,1st,HH Gibbs,19,,JH Kallis,61,Netherlands,South Africa,151,Netherlands,"Warner Park, Basseterre",2,South Africa
+159,26.1,0,PW Borren,2007-03-16,1st,JH Kallis,61,,HH Gibbs,19,Netherlands,South Africa,151,Netherlands,"Warner Park, Basseterre",2,South Africa
+160,26.2,1,PW Borren,2007-03-16,1st,JH Kallis,61,,HH Gibbs,20,Netherlands,South Africa,152,Netherlands,"Warner Park, Basseterre",2,South Africa
+161,26.3,1,PW Borren,2007-03-16,1st,HH Gibbs,20,,JH Kallis,62,Netherlands,South Africa,153,Netherlands,"Warner Park, Basseterre",2,South Africa
+162,26.4,1,PW Borren,2007-03-16,1st,JH Kallis,62,,HH Gibbs,21,Netherlands,South Africa,154,Netherlands,"Warner Park, Basseterre",2,South Africa
+163,26.5,0,PW Borren,2007-03-16,1st,HH Gibbs,21,,JH Kallis,62,Netherlands,South Africa,154,Netherlands,"Warner Park, Basseterre",2,South Africa
+164,26.6,1,PW Borren,2007-03-16,1st,HH Gibbs,21,,JH Kallis,63,Netherlands,South Africa,155,Netherlands,"Warner Park, Basseterre",2,South Africa
+165,27.1,4,DLS van Bunge,2007-03-16,1st,HH Gibbs,21,,JH Kallis,67,Netherlands,South Africa,159,Netherlands,"Warner Park, Basseterre",2,South Africa
+166,27.2,0,DLS van Bunge,2007-03-16,1st,HH Gibbs,21,,JH Kallis,67,Netherlands,South Africa,159,Netherlands,"Warner Park, Basseterre",2,South Africa
+167,27.3,0,DLS van Bunge,2007-03-16,1st,HH Gibbs,21,,JH Kallis,67,Netherlands,South Africa,159,Netherlands,"Warner Park, Basseterre",2,South Africa
+168,27.4,2,DLS van Bunge,2007-03-16,1st,HH Gibbs,21,,JH Kallis,69,Netherlands,South Africa,161,Netherlands,"Warner Park, Basseterre",2,South Africa
+169,27.5,1,DLS van Bunge,2007-03-16,1st,HH Gibbs,21,,JH Kallis,70,Netherlands,South Africa,162,Netherlands,"Warner Park, Basseterre",2,South Africa
+170,27.6,4,DLS van Bunge,2007-03-16,1st,JH Kallis,70,,HH Gibbs,25,Netherlands,South Africa,166,Netherlands,"Warner Park, Basseterre",2,South Africa
+171,28.1,0,LP van Troost,2007-03-16,1st,HH Gibbs,25,,JH Kallis,70,Netherlands,South Africa,166,Netherlands,"Warner Park, Basseterre",2,South Africa
+172,28.2,4,LP van Troost,2007-03-16,1st,HH Gibbs,25,,JH Kallis,74,Netherlands,South Africa,170,Netherlands,"Warner Park, Basseterre",2,South Africa
+173,28.3,1,LP van Troost,2007-03-16,1st,HH Gibbs,25,,JH Kallis,75,Netherlands,South Africa,171,Netherlands,"Warner Park, Basseterre",2,South Africa
+174,28.4,6,LP van Troost,2007-03-16,1st,JH Kallis,75,,HH Gibbs,31,Netherlands,South Africa,177,Netherlands,"Warner Park, Basseterre",2,South Africa
+175,28.5,1,LP van Troost,2007-03-16,1st,JH Kallis,75,,HH Gibbs,32,Netherlands,South Africa,178,Netherlands,"Warner Park, Basseterre",2,South Africa
+176,28.6,0,LP van Troost,2007-03-16,1st,HH Gibbs,32,,JH Kallis,75,Netherlands,South Africa,178,Netherlands,"Warner Park, Basseterre",2,South Africa
+177,29.1,6,DLS van Bunge,2007-03-16,1st,JH Kallis,75,,HH Gibbs,38,Netherlands,South Africa,184,Netherlands,"Warner Park, Basseterre",2,South Africa
+178,29.2,6,DLS van Bunge,2007-03-16,1st,JH Kallis,75,,HH Gibbs,44,Netherlands,South Africa,190,Netherlands,"Warner Park, Basseterre",2,South Africa
+179,29.3,6,DLS van Bunge,2007-03-16,1st,JH Kallis,75,,HH Gibbs,50,Netherlands,South Africa,196,Netherlands,"Warner Park, Basseterre",2,South Africa
+180,29.4,6,DLS van Bunge,2007-03-16,1st,JH Kallis,75,,HH Gibbs,56,Netherlands,South Africa,202,Netherlands,"Warner Park, Basseterre",2,South Africa
+181,29.5,6,DLS van Bunge,2007-03-16,1st,JH Kallis,75,,HH Gibbs,62,Netherlands,South Africa,208,Netherlands,"Warner Park, Basseterre",2,South Africa
+182,29.6,6,DLS van Bunge,2007-03-16,1st,JH Kallis,75,,HH Gibbs,68,Netherlands,South Africa,214,Netherlands,"Warner Park, Basseterre",2,South Africa
+183,30.1,1,LP van Troost,2007-03-16,1st,HH Gibbs,68,,JH Kallis,76,Netherlands,South Africa,215,Netherlands,"Warner Park, Basseterre",2,South Africa
+184,30.2,0,LP van Troost,2007-03-16,1st,JH Kallis,76,,HH Gibbs,68,Netherlands,South Africa,215,Netherlands,"Warner Park, Basseterre",2,South Africa
+185,30.3,0,LP van Troost,2007-03-16,1st,JH Kallis,76,,HH Gibbs,68,Netherlands,South Africa,215,Netherlands,"Warner Park, Basseterre",2,South Africa
+186,30.4,4,LP van Troost,2007-03-16,1st,JH Kallis,76,,HH Gibbs,72,Netherlands,South Africa,219,Netherlands,"Warner Park, Basseterre",2,South Africa
+187,30.5,0,LP van Troost,2007-03-16,1st,JH Kallis,76,HH Gibbs,HH Gibbs,72,Netherlands,South Africa,219,Netherlands,"Warner Park, Basseterre",3,South Africa
+188,30.6,0,LP van Troost,2007-03-16,1st,JH Kallis,76,,MV Boucher,0,Netherlands,South Africa,219,Netherlands,"Warner Park, Basseterre",3,South Africa
+189,31.1,4,TBM de Leede,2007-03-16,1st,MV Boucher,0,,JH Kallis,80,Netherlands,South Africa,223,Netherlands,"Warner Park, Basseterre",3,South Africa
+190,31.2,2,TBM de Leede,2007-03-16,1st,MV Boucher,0,,JH Kallis,82,Netherlands,South Africa,225,Netherlands,"Warner Park, Basseterre",3,South Africa
+191,31.3,1,TBM de Leede,2007-03-16,1st,MV Boucher,0,,JH Kallis,83,Netherlands,South Africa,226,Netherlands,"Warner Park, Basseterre",3,South Africa
+192,31.4,1,TBM de Leede,2007-03-16,1st,JH Kallis,83,,MV Boucher,1,Netherlands,South Africa,227,Netherlands,"Warner Park, Basseterre",3,South Africa
+193,31.5,1,TBM de Leede,2007-03-16,1st,MV Boucher,1,,JH Kallis,84,Netherlands,South Africa,228,Netherlands,"Warner Park, Basseterre",3,South Africa
+194,31.6,1,TBM de Leede,2007-03-16,1st,JH Kallis,84,,MV Boucher,2,Netherlands,South Africa,229,Netherlands,"Warner Park, Basseterre",3,South Africa
+195,32.1,4,WF Stelling,2007-03-16,1st,JH Kallis,84,,MV Boucher,6,Netherlands,South Africa,233,Netherlands,"Warner Park, Basseterre",3,South Africa
+196,32.2,1,WF Stelling,2007-03-16,1st,JH Kallis,84,,MV Boucher,7,Netherlands,South Africa,234,Netherlands,"Warner Park, Basseterre",3,South Africa
+197,32.3,1,WF Stelling,2007-03-16,1st,MV Boucher,7,,JH Kallis,85,Netherlands,South Africa,235,Netherlands,"Warner Park, Basseterre",3,South Africa
+198,32.4,1,WF Stelling,2007-03-16,1st,JH Kallis,85,,MV Boucher,8,Netherlands,South Africa,236,Netherlands,"Warner Park, Basseterre",3,South Africa
+199,32.5,1,WF Stelling,2007-03-16,1st,MV Boucher,8,,JH Kallis,86,Netherlands,South Africa,237,Netherlands,"Warner Park, Basseterre",3,South Africa
+200,32.6,1,WF Stelling,2007-03-16,1st,JH Kallis,86,,MV Boucher,9,Netherlands,South Africa,238,Netherlands,"Warner Park, Basseterre",3,South Africa
+201,33.1,1,TBM de Leede,2007-03-16,1st,JH Kallis,86,,MV Boucher,10,Netherlands,South Africa,239,Netherlands,"Warner Park, Basseterre",3,South Africa
+202,33.2,1,TBM de Leede,2007-03-16,1st,MV Boucher,10,,JH Kallis,87,Netherlands,South Africa,240,Netherlands,"Warner Park, Basseterre",3,South Africa
+203,33.3,4,TBM de Leede,2007-03-16,1st,JH Kallis,87,,MV Boucher,14,Netherlands,South Africa,244,Netherlands,"Warner Park, Basseterre",3,South Africa
+204,33.4,1,TBM de Leede,2007-03-16,1st,JH Kallis,87,,MV Boucher,15,Netherlands,South Africa,245,Netherlands,"Warner Park, Basseterre",3,South Africa
+205,33.5,4,TBM de Leede,2007-03-16,1st,MV Boucher,15,,JH Kallis,91,Netherlands,South Africa,249,Netherlands,"Warner Park, Basseterre",3,South Africa
+206,33.6,1,TBM de Leede,2007-03-16,1st,MV Boucher,15,,JH Kallis,92,Netherlands,South Africa,250,Netherlands,"Warner Park, Basseterre",3,South Africa
+207,34.1,1,WF Stelling,2007-03-16,1st,MV Boucher,15,,JH Kallis,93,Netherlands,South Africa,251,Netherlands,"Warner Park, Basseterre",3,South Africa
+208,34.2,6,WF Stelling,2007-03-16,1st,JH Kallis,93,,MV Boucher,21,Netherlands,South Africa,257,Netherlands,"Warner Park, Basseterre",3,South Africa
+209,34.3,4,WF Stelling,2007-03-16,1st,JH Kallis,93,,MV Boucher,25,Netherlands,South Africa,261,Netherlands,"Warner Park, Basseterre",3,South Africa
+210,34.4,6,WF Stelling,2007-03-16,1st,JH Kallis,93,,MV Boucher,31,Netherlands,South Africa,267,Netherlands,"Warner Park, Basseterre",3,South Africa
+211,34.5,1,WF Stelling,2007-03-16,1st,JH Kallis,93,,MV Boucher,32,Netherlands,South Africa,268,Netherlands,"Warner Park, Basseterre",3,South Africa
+212,34.6,0,WF Stelling,2007-03-16,1st,MV Boucher,32,,JH Kallis,93,Netherlands,South Africa,269,Netherlands,"Warner Park, Basseterre",3,South Africa
+213,34.7,1,WF Stelling,2007-03-16,1st,MV Boucher,32,,JH Kallis,94,Netherlands,South Africa,270,Netherlands,"Warner Park, Basseterre",3,South Africa
+214,35.1,6,LP van Troost,2007-03-16,1st,MV Boucher,32,,JH Kallis,100,Netherlands,South Africa,276,Netherlands,"Warner Park, Basseterre",3,South Africa
+215,35.2,0,LP van Troost,2007-03-16,1st,MV Boucher,32,,JH Kallis,100,Netherlands,South Africa,277,Netherlands,"Warner Park, Basseterre",3,South Africa
+216,35.3,1,LP van Troost,2007-03-16,1st,JH Kallis,100,,MV Boucher,33,Netherlands,South Africa,278,Netherlands,"Warner Park, Basseterre",3,South Africa
+217,35.4,0,LP van Troost,2007-03-16,1st,MV Boucher,33,,JH Kallis,100,Netherlands,South Africa,278,Netherlands,"Warner Park, Basseterre",3,South Africa
+218,35.5,1,LP van Troost,2007-03-16,1st,MV Boucher,33,,JH Kallis,101,Netherlands,South Africa,279,Netherlands,"Warner Park, Basseterre",3,South Africa
+219,35.6,4,LP van Troost,2007-03-16,1st,JH Kallis,101,,MV Boucher,37,Netherlands,South Africa,283,Netherlands,"Warner Park, Basseterre",3,South Africa
+220,36.1,1,PW Borren,2007-03-16,1st,MV Boucher,37,,JH Kallis,102,Netherlands,South Africa,284,Netherlands,"Warner Park, Basseterre",3,South Africa
+221,36.2,1,PW Borren,2007-03-16,1st,JH Kallis,102,,MV Boucher,38,Netherlands,South Africa,285,Netherlands,"Warner Park, Basseterre",3,South Africa
+222,36.3,0,PW Borren,2007-03-16,1st,MV Boucher,38,,JH Kallis,102,Netherlands,South Africa,285,Netherlands,"Warner Park, Basseterre",3,South Africa
+223,36.4,1,PW Borren,2007-03-16,1st,MV Boucher,38,,JH Kallis,103,Netherlands,South Africa,286,Netherlands,"Warner Park, Basseterre",3,South Africa
+224,36.5,4,PW Borren,2007-03-16,1st,JH Kallis,103,,MV Boucher,42,Netherlands,South Africa,290,Netherlands,"Warner Park, Basseterre",3,South Africa
+225,36.6,1,PW Borren,2007-03-16,1st,JH Kallis,103,,MV Boucher,43,Netherlands,South Africa,291,Netherlands,"Warner Park, Basseterre",3,South Africa
+226,37.1,4,RN ten Doeschate,2007-03-16,1st,JH Kallis,103,,MV Boucher,47,Netherlands,South Africa,295,Netherlands,"Warner Park, Basseterre",3,South Africa
+227,37.2,4,RN ten Doeschate,2007-03-16,1st,JH Kallis,103,,MV Boucher,51,Netherlands,South Africa,299,Netherlands,"Warner Park, Basseterre",3,South Africa
+228,37.3,4,RN ten Doeschate,2007-03-16,1st,JH Kallis,103,,MV Boucher,55,Netherlands,South Africa,303,Netherlands,"Warner Park, Basseterre",3,South Africa
+229,37.4,6,RN ten Doeschate,2007-03-16,1st,JH Kallis,103,,MV Boucher,61,Netherlands,South Africa,309,Netherlands,"Warner Park, Basseterre",3,South Africa
+230,37.5,1,RN ten Doeschate,2007-03-16,1st,JH Kallis,103,,MV Boucher,62,Netherlands,South Africa,310,Netherlands,"Warner Park, Basseterre",3,South Africa
+231,37.6,4,RN ten Doeschate,2007-03-16,1st,MV Boucher,62,,JH Kallis,107,Netherlands,South Africa,314,Netherlands,"Warner Park, Basseterre",3,South Africa
+232,38.1,6,PW Borren,2007-03-16,1st,JH Kallis,107,,MV Boucher,68,Netherlands,South Africa,320,Netherlands,"Warner Park, Basseterre",3,South Africa
+233,38.2,0,PW Borren,2007-03-16,1st,JH Kallis,107,,MV Boucher,68,Netherlands,South Africa,320,Netherlands,"Warner Park, Basseterre",3,South Africa
+234,38.3,1,PW Borren,2007-03-16,1st,JH Kallis,107,,MV Boucher,69,Netherlands,South Africa,321,Netherlands,"Warner Park, Basseterre",3,South Africa
+235,38.4,1,PW Borren,2007-03-16,1st,MV Boucher,69,,JH Kallis,108,Netherlands,South Africa,322,Netherlands,"Warner Park, Basseterre",3,South Africa
+236,38.5,0,PW Borren,2007-03-16,1st,JH Kallis,108,,MV Boucher,69,Netherlands,South Africa,322,Netherlands,"Warner Park, Basseterre",3,South Africa
+237,38.6,1,PW Borren,2007-03-16,1st,JH Kallis,108,,MV Boucher,70,Netherlands,South Africa,323,Netherlands,"Warner Park, Basseterre",3,South Africa
+238,39.1,4,LP van Troost,2007-03-16,1st,JH Kallis,108,,MV Boucher,74,Netherlands,South Africa,327,Netherlands,"Warner Park, Basseterre",3,South Africa
+239,39.2,1,LP van Troost,2007-03-16,1st,JH Kallis,108,,MV Boucher,75,Netherlands,South Africa,328,Netherlands,"Warner Park, Basseterre",3,South Africa
+240,39.3,2,LP van Troost,2007-03-16,1st,MV Boucher,75,,JH Kallis,110,Netherlands,South Africa,330,Netherlands,"Warner Park, Basseterre",3,South Africa
+241,39.4,0,LP van Troost,2007-03-16,1st,MV Boucher,75,,JH Kallis,110,Netherlands,South Africa,335,Netherlands,"Warner Park, Basseterre",3,South Africa
+242,39.5,6,LP van Troost,2007-03-16,1st,MV Boucher,75,,JH Kallis,116,Netherlands,South Africa,341,Netherlands,"Warner Park, Basseterre",3,South Africa
+243,39.6,6,LP van Troost,2007-03-16,1st,MV Boucher,75,,JH Kallis,122,Netherlands,South Africa,347,Netherlands,"Warner Park, Basseterre",3,South Africa
+244,39.7,6,LP van Troost,2007-03-16,1st,MV Boucher,75,,JH Kallis,128,Netherlands,South Africa,353,Netherlands,"Warner Park, Basseterre",3,South Africa
+245,0.1,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",0,South Africa
+246,0.2,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",0,South Africa
+247,0.3,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",0,South Africa
+248,0.4,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,0,Netherlands,"Warner Park, Basseterre",0,South Africa
+249,0.5,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",0,South Africa
+250,0.6,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",0,South Africa
+251,0.7,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",0,South Africa
+252,1.1,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,DJ Reekers,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",0,South Africa
+253,1.2,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,DJ Reekers,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",0,South Africa
+254,1.3,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,DJ Reekers,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",0,South Africa
+255,1.4,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,DJ Reekers,0,Netherlands,South Africa,1,Netherlands,"Warner Park, Basseterre",0,South Africa
+256,1.5,4,A Nel,2007-03-16,2nd,B Zuiderent,0,,DJ Reekers,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",0,South Africa
+257,1.6,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,DJ Reekers,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",0,South Africa
+258,2.1,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",0,South Africa
+259,2.2,0,SM Pollock,2007-03-16,2nd,DJ Reekers,0,,B Zuiderent,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",1,South Africa
+260,2.3,0,SM Pollock,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",1,South Africa
+261,2.4,0,SM Pollock,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",1,South Africa
+262,2.5,0,SM Pollock,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",1,South Africa
+263,2.6,0,SM Pollock,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,5,Netherlands,"Warner Park, Basseterre",1,South Africa
+264,3.1,1,A Nel,2007-03-16,2nd,AN Kervezee,0,,B Zuiderent,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",1,South Africa
+265,3.2,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",1,South Africa
+266,3.3,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",1,South Africa
+267,3.4,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",1,South Africa
+268,3.5,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",1,South Africa
+269,3.6,0,A Nel,2007-03-16,2nd,B Zuiderent,0,,AN Kervezee,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",1,South Africa
+270,4.1,0,SM Pollock,2007-03-16,2nd,AN Kervezee,0,,B Zuiderent,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",2,South Africa
+271,4.2,0,SM Pollock,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,6,Netherlands,"Warner Park, Basseterre",2,South Africa
+272,4.3,0,SM Pollock,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,7,Netherlands,"Warner Park, Basseterre",2,South Africa
+273,4.4,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,7,Netherlands,"Warner Park, Basseterre",2,South Africa
+274,4.5,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,7,Netherlands,"Warner Park, Basseterre",2,South Africa
+275,4.6,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,7,Netherlands,"Warner Park, Basseterre",2,South Africa
+276,5.1,1,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,8,Netherlands,"Warner Park, Basseterre",2,South Africa
+277,5.2,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,8,Netherlands,"Warner Park, Basseterre",2,South Africa
+278,5.3,1,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+279,5.4,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+280,5.5,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+281,5.6,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+282,6.1,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+283,6.2,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+284,6.3,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+285,6.4,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+286,6.5,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,9,Netherlands,"Warner Park, Basseterre",2,South Africa
+287,6.6,1,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,10,Netherlands,"Warner Park, Basseterre",2,South Africa
+288,7.1,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,10,Netherlands,"Warner Park, Basseterre",2,South Africa
+289,7.2,1,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,11,Netherlands,"Warner Park, Basseterre",2,South Africa
+290,7.3,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,11,Netherlands,"Warner Park, Basseterre",2,South Africa
+291,7.4,4,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+292,7.5,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+293,7.6,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+294,8.1,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+295,8.2,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+296,8.3,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+297,8.4,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+298,8.5,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,15,Netherlands,"Warner Park, Basseterre",2,South Africa
+299,8.6,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+300,9.1,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+301,9.2,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+302,9.3,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+303,9.4,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+304,9.5,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+305,9.6,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+306,10.1,0,SM Pollock,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+307,10.2,0,SM Pollock,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+308,10.3,0,SM Pollock,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,16,Netherlands,"Warner Park, Basseterre",2,South Africa
+309,10.4,1,SM Pollock,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,17,Netherlands,"Warner Park, Basseterre",2,South Africa
+310,10.5,0,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,17,Netherlands,"Warner Park, Basseterre",2,South Africa
+311,10.6,1,SM Pollock,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,18,Netherlands,"Warner Park, Basseterre",2,South Africa
+312,11.1,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,18,Netherlands,"Warner Park, Basseterre",2,South Africa
+313,11.2,4,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,22,Netherlands,"Warner Park, Basseterre",2,South Africa
+314,11.3,0,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,22,Netherlands,"Warner Park, Basseterre",2,South Africa
+315,11.4,3,A Nel,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,25,Netherlands,"Warner Park, Basseterre",2,South Africa
+316,11.5,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,25,Netherlands,"Warner Park, Basseterre",2,South Africa
+317,11.6,0,A Nel,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,25,Netherlands,"Warner Park, Basseterre",2,South Africa
+318,12.1,1,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,26,Netherlands,"Warner Park, Basseterre",2,South Africa
+319,12.2,1,CK Langeveldt,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,27,Netherlands,"Warner Park, Basseterre",2,South Africa
+320,12.3,4,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,31,Netherlands,"Warner Park, Basseterre",2,South Africa
+321,12.4,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,31,Netherlands,"Warner Park, Basseterre",2,South Africa
+322,12.5,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,31,Netherlands,"Warner Park, Basseterre",2,South Africa
+323,12.6,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,31,Netherlands,"Warner Park, Basseterre",2,South Africa
+324,13.1,1,AJ Hall,2007-03-16,2nd,AN Kervezee,0,,RN ten Doeschate,0,Netherlands,South Africa,32,Netherlands,"Warner Park, Basseterre",2,South Africa
+325,13.2,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,32,Netherlands,"Warner Park, Basseterre",2,South Africa
+326,13.3,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,32,Netherlands,"Warner Park, Basseterre",2,South Africa
+327,13.4,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,32,Netherlands,"Warner Park, Basseterre",2,South Africa
+328,13.5,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,32,Netherlands,"Warner Park, Basseterre",2,South Africa
+329,13.6,1,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,33,Netherlands,"Warner Park, Basseterre",2,South Africa
+330,14.1,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,33,Netherlands,"Warner Park, Basseterre",2,South Africa
+331,14.2,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,AN Kervezee,0,Netherlands,South Africa,33,Netherlands,"Warner Park, Basseterre",3,South Africa
+332,14.3,0,CK Langeveldt,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,33,Netherlands,"Warner Park, Basseterre",3,South Africa
+333,14.4,0,CK Langeveldt,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,33,Netherlands,"Warner Park, Basseterre",3,South Africa
+334,14.5,0,CK Langeveldt,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,33,Netherlands,"Warner Park, Basseterre",3,South Africa
+335,14.6,1,CK Langeveldt,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,34,Netherlands,"Warner Park, Basseterre",3,South Africa
+336,15.1,0,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,35,Netherlands,"Warner Park, Basseterre",3,South Africa
+337,15.2,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,35,Netherlands,"Warner Park, Basseterre",3,South Africa
+338,15.3,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,35,Netherlands,"Warner Park, Basseterre",3,South Africa
+339,15.4,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,35,Netherlands,"Warner Park, Basseterre",3,South Africa
+340,15.5,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,35,Netherlands,"Warner Park, Basseterre",3,South Africa
+341,15.6,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,35,Netherlands,"Warner Park, Basseterre",3,South Africa
+342,16.1,1,CK Langeveldt,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,36,Netherlands,"Warner Park, Basseterre",3,South Africa
+343,16.2,1,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,37,Netherlands,"Warner Park, Basseterre",3,South Africa
+344,16.3,1,CK Langeveldt,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,38,Netherlands,"Warner Park, Basseterre",3,South Africa
+345,16.4,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,38,Netherlands,"Warner Park, Basseterre",3,South Africa
+346,16.5,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,38,Netherlands,"Warner Park, Basseterre",3,South Africa
+347,16.6,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,38,Netherlands,"Warner Park, Basseterre",3,South Africa
+348,17.1,0,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,38,Netherlands,"Warner Park, Basseterre",3,South Africa
+349,17.2,4,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,42,Netherlands,"Warner Park, Basseterre",3,South Africa
+350,17.3,0,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,42,Netherlands,"Warner Park, Basseterre",3,South Africa
+351,17.4,0,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,42,Netherlands,"Warner Park, Basseterre",3,South Africa
+352,17.5,0,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,42,Netherlands,"Warner Park, Basseterre",3,South Africa
+353,17.6,0,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,42,Netherlands,"Warner Park, Basseterre",3,South Africa
+354,18.1,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,42,Netherlands,"Warner Park, Basseterre",3,South Africa
+355,18.2,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,42,Netherlands,"Warner Park, Basseterre",3,South Africa
+356,18.3,4,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,46,Netherlands,"Warner Park, Basseterre",3,South Africa
+357,18.4,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,46,Netherlands,"Warner Park, Basseterre",3,South Africa
+358,18.5,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,46,Netherlands,"Warner Park, Basseterre",3,South Africa
+359,18.6,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,46,Netherlands,"Warner Park, Basseterre",3,South Africa
+360,19.1,1,AJ Hall,2007-03-16,2nd,DLS van Bunge,0,,RN ten Doeschate,0,Netherlands,South Africa,47,Netherlands,"Warner Park, Basseterre",3,South Africa
+361,19.2,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,DLS van Bunge,0,Netherlands,South Africa,47,Netherlands,"Warner Park, Basseterre",4,South Africa
+362,19.3,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,47,Netherlands,"Warner Park, Basseterre",4,South Africa
+363,19.4,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,47,Netherlands,"Warner Park, Basseterre",4,South Africa
+364,19.5,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,47,Netherlands,"Warner Park, Basseterre",4,South Africa
+365,19.6,1,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,48,Netherlands,"Warner Park, Basseterre",4,South Africa
+366,20.1,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,48,Netherlands,"Warner Park, Basseterre",4,South Africa
+367,20.2,4,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",4,South Africa
+368,20.3,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",4,South Africa
+369,20.4,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",4,South Africa
+370,20.5,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",4,South Africa
+371,20.6,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,52,Netherlands,"Warner Park, Basseterre",4,South Africa
+372,21.1,4,AJ Hall,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,56,Netherlands,"Warner Park, Basseterre",4,South Africa
+373,21.2,0,AJ Hall,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,56,Netherlands,"Warner Park, Basseterre",4,South Africa
+374,21.3,1,AJ Hall,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,57,Netherlands,"Warner Park, Basseterre",4,South Africa
+375,21.4,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,57,Netherlands,"Warner Park, Basseterre",4,South Africa
+376,21.5,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,57,Netherlands,"Warner Park, Basseterre",4,South Africa
+377,21.6,1,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,58,Netherlands,"Warner Park, Basseterre",4,South Africa
+378,22.1,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,58,Netherlands,"Warner Park, Basseterre",4,South Africa
+379,22.2,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,58,Netherlands,"Warner Park, Basseterre",4,South Africa
+380,22.3,4,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,62,Netherlands,"Warner Park, Basseterre",4,South Africa
+381,22.4,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,62,Netherlands,"Warner Park, Basseterre",4,South Africa
+382,22.5,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,62,Netherlands,"Warner Park, Basseterre",4,South Africa
+383,22.6,0,CK Langeveldt,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,62,Netherlands,"Warner Park, Basseterre",4,South Africa
+384,23.1,0,AJ Hall,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,62,Netherlands,"Warner Park, Basseterre",4,South Africa
+385,23.2,0,AJ Hall,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,62,Netherlands,"Warner Park, Basseterre",4,South Africa
+386,23.3,1,AJ Hall,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,63,Netherlands,"Warner Park, Basseterre",4,South Africa
+387,23.4,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,63,Netherlands,"Warner Park, Basseterre",4,South Africa
+388,23.5,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,63,Netherlands,"Warner Park, Basseterre",4,South Africa
+389,23.6,0,AJ Hall,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,63,Netherlands,"Warner Park, Basseterre",4,South Africa
+390,24.1,0,GC Smith,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,63,Netherlands,"Warner Park, Basseterre",4,South Africa
+391,24.2,0,GC Smith,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,63,Netherlands,"Warner Park, Basseterre",4,South Africa
+392,24.3,1,GC Smith,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,64,Netherlands,"Warner Park, Basseterre",4,South Africa
+393,24.4,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,64,Netherlands,"Warner Park, Basseterre",4,South Africa
+394,24.5,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,64,Netherlands,"Warner Park, Basseterre",4,South Africa
+395,24.6,1,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,65,Netherlands,"Warner Park, Basseterre",4,South Africa
+396,25.1,1,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,66,Netherlands,"Warner Park, Basseterre",4,South Africa
+397,25.2,0,JH Kallis,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,66,Netherlands,"Warner Park, Basseterre",4,South Africa
+398,25.3,0,JH Kallis,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,66,Netherlands,"Warner Park, Basseterre",4,South Africa
+399,25.4,4,JH Kallis,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,70,Netherlands,"Warner Park, Basseterre",4,South Africa
+400,25.5,0,JH Kallis,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,71,Netherlands,"Warner Park, Basseterre",4,South Africa
+401,25.6,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,71,Netherlands,"Warner Park, Basseterre",4,South Africa
+402,26.1,1,GC Smith,2007-03-16,2nd,ES Szwarczynski,0,,RN ten Doeschate,0,Netherlands,South Africa,72,Netherlands,"Warner Park, Basseterre",4,South Africa
+403,26.2,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,72,Netherlands,"Warner Park, Basseterre",4,South Africa
+404,26.3,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,72,Netherlands,"Warner Park, Basseterre",4,South Africa
+405,26.4,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,72,Netherlands,"Warner Park, Basseterre",4,South Africa
+406,26.5,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,ES Szwarczynski,0,Netherlands,South Africa,72,Netherlands,"Warner Park, Basseterre",5,South Africa
+407,26.6,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,72,Netherlands,"Warner Park, Basseterre",5,South Africa
+408,27.1,4,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,76,Netherlands,"Warner Park, Basseterre",5,South Africa
+409,27.2,1,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,77,Netherlands,"Warner Park, Basseterre",5,South Africa
+410,27.3,1,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,78,Netherlands,"Warner Park, Basseterre",5,South Africa
+411,27.4,1,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,79,Netherlands,"Warner Park, Basseterre",5,South Africa
+412,27.5,1,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,80,Netherlands,"Warner Park, Basseterre",5,South Africa
+413,27.6,0,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,80,Netherlands,"Warner Park, Basseterre",5,South Africa
+414,28.1,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,80,Netherlands,"Warner Park, Basseterre",5,South Africa
+415,28.2,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,80,Netherlands,"Warner Park, Basseterre",5,South Africa
+416,28.3,2,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,82,Netherlands,"Warner Park, Basseterre",5,South Africa
+417,28.4,1,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,83,Netherlands,"Warner Park, Basseterre",5,South Africa
+418,28.5,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,83,Netherlands,"Warner Park, Basseterre",5,South Africa
+419,28.6,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,83,Netherlands,"Warner Park, Basseterre",5,South Africa
+420,29.1,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,83,Netherlands,"Warner Park, Basseterre",5,South Africa
+421,29.2,1,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,84,Netherlands,"Warner Park, Basseterre",5,South Africa
+422,29.3,0,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,84,Netherlands,"Warner Park, Basseterre",5,South Africa
+423,29.4,0,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,84,Netherlands,"Warner Park, Basseterre",5,South Africa
+424,29.5,1,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,86,Netherlands,"Warner Park, Basseterre",5,South Africa
+425,29.6,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,86,Netherlands,"Warner Park, Basseterre",5,South Africa
+426,29.7,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,86,Netherlands,"Warner Park, Basseterre",5,South Africa
+427,30.1,4,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,90,Netherlands,"Warner Park, Basseterre",5,South Africa
+428,30.2,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,90,Netherlands,"Warner Park, Basseterre",5,South Africa
+429,30.3,1,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,91,Netherlands,"Warner Park, Basseterre",5,South Africa
+430,30.4,1,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,92,Netherlands,"Warner Park, Basseterre",5,South Africa
+431,30.5,4,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,96,Netherlands,"Warner Park, Basseterre",5,South Africa
+432,30.6,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,96,Netherlands,"Warner Park, Basseterre",5,South Africa
+433,31.1,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,96,Netherlands,"Warner Park, Basseterre",5,South Africa
+434,31.2,1,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,97,Netherlands,"Warner Park, Basseterre",5,South Africa
+435,31.3,1,JH Kallis,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",5,South Africa
+436,31.4,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",5,South Africa
+437,31.5,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",5,South Africa
+438,31.6,0,JH Kallis,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",5,South Africa
+439,32.1,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",5,South Africa
+440,32.2,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",5,South Africa
+441,32.3,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,98,Netherlands,"Warner Park, Basseterre",5,South Africa
+442,32.4,1,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,99,Netherlands,"Warner Park, Basseterre",5,South Africa
+443,32.5,0,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,99,Netherlands,"Warner Park, Basseterre",5,South Africa
+444,32.6,4,GC Smith,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,103,Netherlands,"Warner Park, Basseterre",5,South Africa
+445,33.1,0,JM Kemp,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,103,Netherlands,"Warner Park, Basseterre",5,South Africa
+446,33.2,6,JM Kemp,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,109,Netherlands,"Warner Park, Basseterre",5,South Africa
+447,33.3,1,JM Kemp,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+448,33.4,0,JM Kemp,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+449,33.5,0,JM Kemp,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+450,33.6,0,JM Kemp,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+451,34.1,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+452,34.2,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+453,34.3,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+454,34.4,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,110,Netherlands,"Warner Park, Basseterre",5,South Africa
+455,34.5,4,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",5,South Africa
+456,34.6,0,GC Smith,2007-03-16,2nd,TBM de Leede,0,,RN ten Doeschate,0,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",5,South Africa
+457,35.1,0,JM Kemp,2007-03-16,2nd,RN ten Doeschate,0,,TBM de Leede,0,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",6,South Africa
+458,35.2,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",6,South Africa
+459,35.3,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,114,Netherlands,"Warner Park, Basseterre",6,South Africa
+460,35.4,4,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,118,Netherlands,"Warner Park, Basseterre",6,South Africa
+461,35.5,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,118,Netherlands,"Warner Park, Basseterre",6,South Africa
+462,35.6,1,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,119,Netherlands,"Warner Park, Basseterre",6,South Africa
+463,36.1,1,GC Smith,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,120,Netherlands,"Warner Park, Basseterre",6,South Africa
+464,36.2,1,GC Smith,2007-03-16,2nd,TBM de Leede,0,,PW Borren,0,Netherlands,South Africa,121,Netherlands,"Warner Park, Basseterre",6,South Africa
+465,36.3,2,GC Smith,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,123,Netherlands,"Warner Park, Basseterre",6,South Africa
+466,36.4,0,GC Smith,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,123,Netherlands,"Warner Park, Basseterre",6,South Africa
+467,36.5,0,GC Smith,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,123,Netherlands,"Warner Park, Basseterre",6,South Africa
+468,36.6,1,GC Smith,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,124,Netherlands,"Warner Park, Basseterre",6,South Africa
+469,37.1,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,124,Netherlands,"Warner Park, Basseterre",6,South Africa
+470,37.2,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,124,Netherlands,"Warner Park, Basseterre",6,South Africa
+471,37.3,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,TBM de Leede,0,Netherlands,South Africa,124,Netherlands,"Warner Park, Basseterre",7,South Africa
+472,37.4,4,JM Kemp,2007-03-16,2nd,PW Borren,0,,LP van Troost,0,Netherlands,South Africa,128,Netherlands,"Warner Park, Basseterre",7,South Africa
+473,37.5,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,LP van Troost,0,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",7,South Africa
+474,37.6,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,LP van Troost,0,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",7,South Africa
+475,37.7,0,JM Kemp,2007-03-16,2nd,PW Borren,0,,LP van Troost,0,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",7,South Africa
+476,38.1,0,GC Smith,2007-03-16,2nd,LP van Troost,0,,PW Borren,0,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",7,South Africa
+477,38.2,0,GC Smith,2007-03-16,2nd,LP van Troost,0,,PW Borren,0,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",7,South Africa
+478,38.3,0,GC Smith,2007-03-16,2nd,LP van Troost,0,,PW Borren,0,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",7,South Africa
+479,38.4,0,GC Smith,2007-03-16,2nd,LP van Troost,0,,PW Borren,0,Netherlands,South Africa,129,Netherlands,"Warner Park, Basseterre",7,South Africa
+480,38.5,1,GC Smith,2007-03-16,2nd,LP van Troost,0,,PW Borren,0,Netherlands,South Africa,130,Netherlands,"Warner Park, Basseterre",7,South Africa
+481,38.6,1,GC Smith,2007-03-16,2nd,PW Borren,0,,LP van Troost,0,Netherlands,South Africa,131,Netherlands,"Warner Park, Basseterre",8,South Africa
+482,39.1,0,JM Kemp,2007-03-16,2nd,LP van Troost,0,,WF Stelling,0,Netherlands,South Africa,131,Netherlands,"Warner Park, Basseterre",8,South Africa
+483,39.2,0,JM Kemp,2007-03-16,2nd,LP van Troost,0,,WF Stelling,0,Netherlands,South Africa,131,Netherlands,"Warner Park, Basseterre",8,South Africa
+484,39.3,0,JM Kemp,2007-03-16,2nd,LP van Troost,0,,WF Stelling,0,Netherlands,South Africa,131,Netherlands,"Warner Park, Basseterre",8,South Africa
+485,39.4,1,JM Kemp,2007-03-16,2nd,LP van Troost,0,,WF Stelling,0,Netherlands,South Africa,132,Netherlands,"Warner Park, Basseterre",8,South Africa
+486,39.5,0,JM Kemp,2007-03-16,2nd,WF Stelling,0,,LP van Troost,0,Netherlands,South Africa,132,Netherlands,"Warner Park, Basseterre",8,South Africa
+487,39.6,0,JM Kemp,2007-03-16,2nd,WF Stelling,0,,LP van Troost,0,Netherlands,South Africa,132,Netherlands,"Warner Park, Basseterre",9,South Africa

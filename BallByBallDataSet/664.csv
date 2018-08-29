@@ -1,0 +1,382 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,P Kumar,2012-02-05,1st,DA Warner,0,,MS Wade,1,Australia,India,1,India,Melbourne Cricket Ground,0,Australia
+1,0.2,0,P Kumar,2012-02-05,1st,MS Wade,1,,DA Warner,0,Australia,India,2,India,Melbourne Cricket Ground,0,Australia
+2,0.3,1,P Kumar,2012-02-05,1st,MS Wade,1,,DA Warner,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+3,0.4,0,P Kumar,2012-02-05,1st,DA Warner,1,,MS Wade,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+4,0.5,0,P Kumar,2012-02-05,1st,DA Warner,1,,MS Wade,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+5,0.6,0,P Kumar,2012-02-05,1st,DA Warner,1,,MS Wade,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+6,0.7,0,P Kumar,2012-02-05,1st,DA Warner,1,,MS Wade,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+7,1.1,0,R Vinay Kumar,2012-02-05,1st,MS Wade,1,,DA Warner,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+8,1.2,0,R Vinay Kumar,2012-02-05,1st,MS Wade,1,,DA Warner,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+9,1.3,0,R Vinay Kumar,2012-02-05,1st,MS Wade,1,,DA Warner,1,Australia,India,3,India,Melbourne Cricket Ground,0,Australia
+10,1.4,1,R Vinay Kumar,2012-02-05,1st,MS Wade,1,,DA Warner,2,Australia,India,4,India,Melbourne Cricket Ground,0,Australia
+11,1.5,0,R Vinay Kumar,2012-02-05,1st,DA Warner,2,,MS Wade,1,Australia,India,4,India,Melbourne Cricket Ground,0,Australia
+12,1.6,0,R Vinay Kumar,2012-02-05,1st,DA Warner,2,,MS Wade,1,Australia,India,4,India,Melbourne Cricket Ground,0,Australia
+13,2.1,3,P Kumar,2012-02-05,1st,MS Wade,1,,DA Warner,5,Australia,India,7,India,Melbourne Cricket Ground,0,Australia
+14,2.2,1,P Kumar,2012-02-05,1st,DA Warner,5,,MS Wade,2,Australia,India,8,India,Melbourne Cricket Ground,0,Australia
+15,2.3,0,P Kumar,2012-02-05,1st,MS Wade,2,,DA Warner,5,Australia,India,8,India,Melbourne Cricket Ground,0,Australia
+16,2.4,0,P Kumar,2012-02-05,1st,MS Wade,2,,DA Warner,5,Australia,India,8,India,Melbourne Cricket Ground,0,Australia
+17,2.5,0,P Kumar,2012-02-05,1st,MS Wade,2,,DA Warner,5,Australia,India,8,India,Melbourne Cricket Ground,0,Australia
+18,2.6,0,P Kumar,2012-02-05,1st,MS Wade,2,,DA Warner,5,Australia,India,8,India,Melbourne Cricket Ground,0,Australia
+19,3.1,1,R Vinay Kumar,2012-02-05,1st,DA Warner,5,,MS Wade,3,Australia,India,9,India,Melbourne Cricket Ground,0,Australia
+20,3.2,0,R Vinay Kumar,2012-02-05,1st,MS Wade,3,,DA Warner,5,Australia,India,9,India,Melbourne Cricket Ground,0,Australia
+21,3.3,1,R Vinay Kumar,2012-02-05,1st,MS Wade,3,,DA Warner,6,Australia,India,10,India,Melbourne Cricket Ground,0,Australia
+22,3.4,0,R Vinay Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,3,Australia,India,10,India,Melbourne Cricket Ground,0,Australia
+23,3.5,1,R Vinay Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,4,Australia,India,11,India,Melbourne Cricket Ground,0,Australia
+24,3.6,0,R Vinay Kumar,2012-02-05,1st,MS Wade,4,,DA Warner,6,Australia,India,11,India,Melbourne Cricket Ground,0,Australia
+25,4.1,0,P Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,4,Australia,India,11,India,Melbourne Cricket Ground,0,Australia
+26,4.2,0,P Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,4,Australia,India,11,India,Melbourne Cricket Ground,0,Australia
+27,4.3,4,P Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,8,Australia,India,15,India,Melbourne Cricket Ground,0,Australia
+28,4.4,0,P Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,8,Australia,India,15,India,Melbourne Cricket Ground,0,Australia
+29,4.5,0,P Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,8,Australia,India,15,India,Melbourne Cricket Ground,0,Australia
+30,4.6,0,P Kumar,2012-02-05,1st,DA Warner,6,,MS Wade,8,Australia,India,15,India,Melbourne Cricket Ground,0,Australia
+31,5.1,0,R Vinay Kumar,2012-02-05,1st,MS Wade,8,DA Warner,DA Warner,6,Australia,India,15,India,Melbourne Cricket Ground,1,Australia
+32,5.2,0,R Vinay Kumar,2012-02-05,1st,MS Wade,8,,RT Ponting,0,Australia,India,15,India,Melbourne Cricket Ground,1,Australia
+33,5.3,0,R Vinay Kumar,2012-02-05,1st,MS Wade,8,,RT Ponting,0,Australia,India,15,India,Melbourne Cricket Ground,1,Australia
+34,5.4,0,R Vinay Kumar,2012-02-05,1st,MS Wade,8,,RT Ponting,0,Australia,India,15,India,Melbourne Cricket Ground,1,Australia
+35,5.5,1,R Vinay Kumar,2012-02-05,1st,MS Wade,8,,RT Ponting,1,Australia,India,16,India,Melbourne Cricket Ground,1,Australia
+36,5.6,0,R Vinay Kumar,2012-02-05,1st,RT Ponting,1,,MS Wade,8,Australia,India,16,India,Melbourne Cricket Ground,1,Australia
+37,6.1,0,P Kumar,2012-02-05,1st,MS Wade,8,,RT Ponting,1,Australia,India,16,India,Melbourne Cricket Ground,1,Australia
+38,6.2,1,P Kumar,2012-02-05,1st,MS Wade,8,,RT Ponting,2,Australia,India,17,India,Melbourne Cricket Ground,1,Australia
+39,6.3,0,P Kumar,2012-02-05,1st,RT Ponting,2,,MS Wade,8,Australia,India,17,India,Melbourne Cricket Ground,1,Australia
+40,6.4,1,P Kumar,2012-02-05,1st,RT Ponting,2,,MS Wade,9,Australia,India,18,India,Melbourne Cricket Ground,1,Australia
+41,6.5,0,P Kumar,2012-02-05,1st,MS Wade,9,,RT Ponting,2,Australia,India,18,India,Melbourne Cricket Ground,1,Australia
+42,6.6,0,P Kumar,2012-02-05,1st,MS Wade,9,,RT Ponting,2,Australia,India,18,India,Melbourne Cricket Ground,1,Australia
+43,7.1,1,R Vinay Kumar,2012-02-05,1st,RT Ponting,2,,MS Wade,10,Australia,India,19,India,Melbourne Cricket Ground,1,Australia
+44,7.2,0,R Vinay Kumar,2012-02-05,1st,MS Wade,10,,RT Ponting,2,Australia,India,19,India,Melbourne Cricket Ground,1,Australia
+45,7.3,0,R Vinay Kumar,2012-02-05,1st,MS Wade,10,,RT Ponting,2,Australia,India,19,India,Melbourne Cricket Ground,1,Australia
+46,7.4,0,R Vinay Kumar,2012-02-05,1st,MS Wade,10,,RT Ponting,2,Australia,India,19,India,Melbourne Cricket Ground,1,Australia
+47,7.5,0,R Vinay Kumar,2012-02-05,1st,MS Wade,10,RT Ponting,RT Ponting,2,Australia,India,19,India,Melbourne Cricket Ground,2,Australia
+48,7.6,0,R Vinay Kumar,2012-02-05,1st,MS Wade,10,,MJ Clarke,0,Australia,India,19,India,Melbourne Cricket Ground,2,Australia
+49,8.1,1,P Kumar,2012-02-05,1st,MJ Clarke,0,,MS Wade,11,Australia,India,20,India,Melbourne Cricket Ground,2,Australia
+50,8.2,0,P Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,0,Australia,India,20,India,Melbourne Cricket Ground,2,Australia
+51,8.3,0,P Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,0,Australia,India,20,India,Melbourne Cricket Ground,2,Australia
+52,8.4,2,P Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,2,Australia,India,22,India,Melbourne Cricket Ground,2,Australia
+53,8.5,0,P Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,2,Australia,India,22,India,Melbourne Cricket Ground,2,Australia
+54,8.6,1,P Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,3,Australia,India,23,India,Melbourne Cricket Ground,2,Australia
+55,9.1,0,R Vinay Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,3,Australia,India,23,India,Melbourne Cricket Ground,2,Australia
+56,9.2,0,R Vinay Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,3,Australia,India,23,India,Melbourne Cricket Ground,2,Australia
+57,9.3,0,R Vinay Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,3,Australia,India,23,India,Melbourne Cricket Ground,2,Australia
+58,9.4,0,R Vinay Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,3,Australia,India,23,India,Melbourne Cricket Ground,2,Australia
+59,9.5,0,R Vinay Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,3,Australia,India,23,India,Melbourne Cricket Ground,2,Australia
+60,9.6,2,R Vinay Kumar,2012-02-05,1st,MS Wade,11,,MJ Clarke,5,Australia,India,25,India,Melbourne Cricket Ground,2,Australia
+61,10.1,0,P Kumar,2012-02-05,1st,MJ Clarke,5,,MS Wade,11,Australia,India,25,India,Melbourne Cricket Ground,2,Australia
+62,10.2,0,P Kumar,2012-02-05,1st,MJ Clarke,5,,MS Wade,11,Australia,India,25,India,Melbourne Cricket Ground,2,Australia
+63,10.3,0,P Kumar,2012-02-05,1st,MJ Clarke,5,,MS Wade,11,Australia,India,25,India,Melbourne Cricket Ground,2,Australia
+64,10.4,0,P Kumar,2012-02-05,1st,MJ Clarke,5,,MS Wade,11,Australia,India,25,India,Melbourne Cricket Ground,2,Australia
+65,10.5,6,P Kumar,2012-02-05,1st,MJ Clarke,5,,MS Wade,17,Australia,India,31,India,Melbourne Cricket Ground,2,Australia
+66,10.6,4,P Kumar,2012-02-05,1st,MJ Clarke,5,,MS Wade,21,Australia,India,35,India,Melbourne Cricket Ground,2,Australia
+67,11.1,0,V Kohli,2012-02-05,1st,MS Wade,21,,MJ Clarke,5,Australia,India,35,India,Melbourne Cricket Ground,2,Australia
+68,11.2,0,V Kohli,2012-02-05,1st,MS Wade,21,,MJ Clarke,5,Australia,India,35,India,Melbourne Cricket Ground,2,Australia
+69,11.3,1,V Kohli,2012-02-05,1st,MS Wade,21,,MJ Clarke,6,Australia,India,36,India,Melbourne Cricket Ground,2,Australia
+70,11.4,0,V Kohli,2012-02-05,1st,MJ Clarke,6,,MS Wade,21,Australia,India,37,India,Melbourne Cricket Ground,2,Australia
+71,11.5,0,V Kohli,2012-02-05,1st,MJ Clarke,6,,MS Wade,21,Australia,India,37,India,Melbourne Cricket Ground,2,Australia
+72,11.6,0,V Kohli,2012-02-05,1st,MJ Clarke,6,,MS Wade,21,Australia,India,37,India,Melbourne Cricket Ground,2,Australia
+73,11.7,2,V Kohli,2012-02-05,1st,MJ Clarke,6,,MS Wade,23,Australia,India,39,India,Melbourne Cricket Ground,2,Australia
+74,12.1,1,SK Raina,2012-02-05,1st,MS Wade,23,,MJ Clarke,7,Australia,India,40,India,Melbourne Cricket Ground,2,Australia
+75,12.2,0,SK Raina,2012-02-05,1st,MJ Clarke,7,,MS Wade,23,Australia,India,40,India,Melbourne Cricket Ground,2,Australia
+76,12.3,1,SK Raina,2012-02-05,1st,MJ Clarke,7,,MS Wade,24,Australia,India,41,India,Melbourne Cricket Ground,2,Australia
+77,12.4,1,SK Raina,2012-02-05,1st,MS Wade,24,,MJ Clarke,8,Australia,India,42,India,Melbourne Cricket Ground,2,Australia
+78,12.5,1,SK Raina,2012-02-05,1st,MJ Clarke,8,,MS Wade,25,Australia,India,43,India,Melbourne Cricket Ground,2,Australia
+79,12.6,0,SK Raina,2012-02-05,1st,MS Wade,25,,MJ Clarke,8,Australia,India,43,India,Melbourne Cricket Ground,2,Australia
+80,13.1,0,R Ashwin,2012-02-05,1st,MJ Clarke,8,,MS Wade,25,Australia,India,43,India,Melbourne Cricket Ground,2,Australia
+81,13.2,2,R Ashwin,2012-02-05,1st,MJ Clarke,8,,MS Wade,27,Australia,India,45,India,Melbourne Cricket Ground,2,Australia
+82,13.3,0,R Ashwin,2012-02-05,1st,MJ Clarke,8,,MS Wade,27,Australia,India,45,India,Melbourne Cricket Ground,2,Australia
+83,13.4,0,R Ashwin,2012-02-05,1st,MJ Clarke,8,,MS Wade,27,Australia,India,45,India,Melbourne Cricket Ground,2,Australia
+84,13.5,1,R Ashwin,2012-02-05,1st,MJ Clarke,8,,MS Wade,28,Australia,India,46,India,Melbourne Cricket Ground,2,Australia
+85,13.6,0,R Ashwin,2012-02-05,1st,MS Wade,28,,MJ Clarke,8,Australia,India,46,India,Melbourne Cricket Ground,2,Australia
+86,14.1,0,RG Sharma,2012-02-05,1st,MJ Clarke,8,,MS Wade,28,Australia,India,46,India,Melbourne Cricket Ground,2,Australia
+87,14.2,1,RG Sharma,2012-02-05,1st,MJ Clarke,8,,MS Wade,29,Australia,India,47,India,Melbourne Cricket Ground,2,Australia
+88,14.3,2,RG Sharma,2012-02-05,1st,MS Wade,29,,MJ Clarke,10,Australia,India,49,India,Melbourne Cricket Ground,2,Australia
+89,14.4,0,RG Sharma,2012-02-05,1st,MS Wade,29,MJ Clarke,MJ Clarke,10,Australia,India,49,India,Melbourne Cricket Ground,3,Australia
+90,14.5,0,RG Sharma,2012-02-05,1st,MS Wade,29,,MEK Hussey,0,Australia,India,49,India,Melbourne Cricket Ground,3,Australia
+91,14.6,1,RG Sharma,2012-02-05,1st,MS Wade,29,,MEK Hussey,1,Australia,India,50,India,Melbourne Cricket Ground,3,Australia
+92,15.1,0,R Ashwin,2012-02-05,1st,MS Wade,29,,MEK Hussey,1,Australia,India,50,India,Melbourne Cricket Ground,3,Australia
+93,15.2,2,R Ashwin,2012-02-05,1st,MS Wade,29,,MEK Hussey,3,Australia,India,52,India,Melbourne Cricket Ground,3,Australia
+94,15.3,1,R Ashwin,2012-02-05,1st,MS Wade,29,,MEK Hussey,4,Australia,India,53,India,Melbourne Cricket Ground,3,Australia
+95,15.4,3,R Ashwin,2012-02-05,1st,MEK Hussey,4,,MS Wade,32,Australia,India,56,India,Melbourne Cricket Ground,3,Australia
+96,15.5,1,R Ashwin,2012-02-05,1st,MS Wade,32,,MEK Hussey,5,Australia,India,57,India,Melbourne Cricket Ground,3,Australia
+97,15.6,1,R Ashwin,2012-02-05,1st,MEK Hussey,5,,MS Wade,33,Australia,India,58,India,Melbourne Cricket Ground,3,Australia
+98,16.1,0,RG Sharma,2012-02-05,1st,MEK Hussey,5,,MS Wade,33,Australia,India,58,India,Melbourne Cricket Ground,3,Australia
+99,16.2,2,RG Sharma,2012-02-05,1st,MEK Hussey,5,,MS Wade,35,Australia,India,60,India,Melbourne Cricket Ground,3,Australia
+100,16.3,4,RG Sharma,2012-02-05,1st,MEK Hussey,5,,MS Wade,39,Australia,India,64,India,Melbourne Cricket Ground,3,Australia
+101,16.4,1,RG Sharma,2012-02-05,1st,MEK Hussey,5,,MS Wade,40,Australia,India,65,India,Melbourne Cricket Ground,3,Australia
+102,16.5,2,RG Sharma,2012-02-05,1st,MS Wade,40,,MEK Hussey,7,Australia,India,67,India,Melbourne Cricket Ground,3,Australia
+103,16.6,4,RG Sharma,2012-02-05,1st,MS Wade,40,,MEK Hussey,11,Australia,India,71,India,Melbourne Cricket Ground,3,Australia
+104,17.1,0,R Ashwin,2012-02-05,1st,MEK Hussey,11,,MS Wade,40,Australia,India,71,India,Melbourne Cricket Ground,3,Australia
+105,17.2,1,R Ashwin,2012-02-05,1st,MEK Hussey,11,,MS Wade,41,Australia,India,72,India,Melbourne Cricket Ground,3,Australia
+106,17.3,1,R Ashwin,2012-02-05,1st,MS Wade,41,,MEK Hussey,12,Australia,India,73,India,Melbourne Cricket Ground,3,Australia
+107,17.4,2,R Ashwin,2012-02-05,1st,MEK Hussey,12,,MS Wade,43,Australia,India,75,India,Melbourne Cricket Ground,3,Australia
+108,17.5,4,R Ashwin,2012-02-05,1st,MEK Hussey,12,,MS Wade,47,Australia,India,79,India,Melbourne Cricket Ground,3,Australia
+109,17.6,1,R Ashwin,2012-02-05,1st,MEK Hussey,12,,MS Wade,48,Australia,India,80,India,Melbourne Cricket Ground,3,Australia
+110,18.1,1,R Sharma,2012-02-05,1st,MEK Hussey,12,,MS Wade,49,Australia,India,81,India,Melbourne Cricket Ground,3,Australia
+111,18.2,2,R Sharma,2012-02-05,1st,MS Wade,49,,MEK Hussey,14,Australia,India,83,India,Melbourne Cricket Ground,3,Australia
+112,18.3,2,R Sharma,2012-02-05,1st,MS Wade,49,,MEK Hussey,16,Australia,India,85,India,Melbourne Cricket Ground,3,Australia
+113,18.4,0,R Sharma,2012-02-05,1st,MS Wade,49,,MEK Hussey,16,Australia,India,85,India,Melbourne Cricket Ground,3,Australia
+114,18.5,1,R Sharma,2012-02-05,1st,MS Wade,49,,MEK Hussey,17,Australia,India,86,India,Melbourne Cricket Ground,3,Australia
+115,18.6,0,R Sharma,2012-02-05,1st,MEK Hussey,17,,MS Wade,49,Australia,India,86,India,Melbourne Cricket Ground,3,Australia
+116,19.1,4,R Ashwin,2012-02-05,1st,MS Wade,49,,MEK Hussey,21,Australia,India,90,India,Melbourne Cricket Ground,3,Australia
+117,19.2,2,R Ashwin,2012-02-05,1st,MS Wade,49,,MEK Hussey,23,Australia,India,92,India,Melbourne Cricket Ground,3,Australia
+118,19.3,1,R Ashwin,2012-02-05,1st,MS Wade,49,,MEK Hussey,24,Australia,India,93,India,Melbourne Cricket Ground,3,Australia
+119,19.4,1,R Ashwin,2012-02-05,1st,MEK Hussey,24,,MS Wade,50,Australia,India,94,India,Melbourne Cricket Ground,3,Australia
+120,19.5,4,R Ashwin,2012-02-05,1st,MS Wade,50,,MEK Hussey,28,Australia,India,98,India,Melbourne Cricket Ground,3,Australia
+121,19.6,2,R Ashwin,2012-02-05,1st,MS Wade,50,,MEK Hussey,30,Australia,India,100,India,Melbourne Cricket Ground,3,Australia
+122,20.1,1,R Sharma,2012-02-05,1st,MEK Hussey,30,,MS Wade,51,Australia,India,101,India,Melbourne Cricket Ground,3,Australia
+123,20.2,1,R Sharma,2012-02-05,1st,MS Wade,51,,MEK Hussey,31,Australia,India,102,India,Melbourne Cricket Ground,3,Australia
+124,20.3,0,R Sharma,2012-02-05,1st,MEK Hussey,31,,MS Wade,51,Australia,India,102,India,Melbourne Cricket Ground,3,Australia
+125,20.4,0,R Sharma,2012-02-05,1st,MEK Hussey,31,,MS Wade,51,Australia,India,102,India,Melbourne Cricket Ground,3,Australia
+126,20.5,1,R Sharma,2012-02-05,1st,MEK Hussey,31,,MS Wade,52,Australia,India,103,India,Melbourne Cricket Ground,3,Australia
+127,20.6,2,R Sharma,2012-02-05,1st,MS Wade,52,,MEK Hussey,33,Australia,India,105,India,Melbourne Cricket Ground,3,Australia
+128,21.1,0,RA Jadeja,2012-02-05,1st,MEK Hussey,33,,MS Wade,52,Australia,India,105,India,Melbourne Cricket Ground,3,Australia
+129,21.2,2,RA Jadeja,2012-02-05,1st,MEK Hussey,33,,MS Wade,54,Australia,India,107,India,Melbourne Cricket Ground,3,Australia
+130,21.3,6,RA Jadeja,2012-02-05,1st,MEK Hussey,33,,MS Wade,60,Australia,India,113,India,Melbourne Cricket Ground,3,Australia
+131,21.4,2,RA Jadeja,2012-02-05,1st,MEK Hussey,33,,MS Wade,62,Australia,India,115,India,Melbourne Cricket Ground,3,Australia
+132,21.5,1,RA Jadeja,2012-02-05,1st,MEK Hussey,33,,MS Wade,63,Australia,India,116,India,Melbourne Cricket Ground,3,Australia
+133,21.6,1,RA Jadeja,2012-02-05,1st,MS Wade,63,,MEK Hussey,34,Australia,India,117,India,Melbourne Cricket Ground,3,Australia
+134,22.1,1,R Sharma,2012-02-05,1st,MS Wade,63,,MEK Hussey,35,Australia,India,118,India,Melbourne Cricket Ground,3,Australia
+135,22.2,2,R Sharma,2012-02-05,1st,MEK Hussey,35,,MS Wade,65,Australia,India,120,India,Melbourne Cricket Ground,3,Australia
+136,22.3,2,R Sharma,2012-02-05,1st,MEK Hussey,35,,MS Wade,67,Australia,India,122,India,Melbourne Cricket Ground,3,Australia
+137,22.4,0,R Sharma,2012-02-05,1st,MEK Hussey,35,,MS Wade,67,Australia,India,122,India,Melbourne Cricket Ground,3,Australia
+138,22.5,0,R Sharma,2012-02-05,1st,MEK Hussey,35,,MS Wade,67,Australia,India,122,India,Melbourne Cricket Ground,3,Australia
+139,22.6,0,R Sharma,2012-02-05,1st,MEK Hussey,35,MS Wade,MS Wade,67,Australia,India,122,India,Melbourne Cricket Ground,4,Australia
+140,23.1,1,RA Jadeja,2012-02-05,1st,DJ Hussey,0,,MEK Hussey,36,Australia,India,123,India,Melbourne Cricket Ground,4,Australia
+141,23.2,3,RA Jadeja,2012-02-05,1st,MEK Hussey,36,,DJ Hussey,3,Australia,India,126,India,Melbourne Cricket Ground,4,Australia
+142,23.3,1,RA Jadeja,2012-02-05,1st,DJ Hussey,3,,MEK Hussey,37,Australia,India,127,India,Melbourne Cricket Ground,4,Australia
+143,23.4,0,RA Jadeja,2012-02-05,1st,MEK Hussey,37,,DJ Hussey,3,Australia,India,127,India,Melbourne Cricket Ground,4,Australia
+144,23.5,1,RA Jadeja,2012-02-05,1st,MEK Hussey,37,,DJ Hussey,4,Australia,India,129,India,Melbourne Cricket Ground,4,Australia
+145,23.6,4,RA Jadeja,2012-02-05,1st,DJ Hussey,4,,MEK Hussey,41,Australia,India,133,India,Melbourne Cricket Ground,4,Australia
+146,23.7,1,RA Jadeja,2012-02-05,1st,DJ Hussey,4,,MEK Hussey,42,Australia,India,134,India,Melbourne Cricket Ground,4,Australia
+147,24.1,1,R Sharma,2012-02-05,1st,DJ Hussey,4,,MEK Hussey,43,Australia,India,135,India,Melbourne Cricket Ground,4,Australia
+148,24.2,1,R Sharma,2012-02-05,1st,MEK Hussey,43,,DJ Hussey,5,Australia,India,136,India,Melbourne Cricket Ground,4,Australia
+149,24.3,0,R Sharma,2012-02-05,1st,DJ Hussey,5,,MEK Hussey,43,Australia,India,136,India,Melbourne Cricket Ground,4,Australia
+150,24.4,1,R Sharma,2012-02-05,1st,DJ Hussey,5,,MEK Hussey,44,Australia,India,137,India,Melbourne Cricket Ground,4,Australia
+151,24.5,0,R Sharma,2012-02-05,1st,MEK Hussey,44,,DJ Hussey,5,Australia,India,137,India,Melbourne Cricket Ground,4,Australia
+152,24.6,3,R Sharma,2012-02-05,1st,MEK Hussey,44,,DJ Hussey,8,Australia,India,140,India,Melbourne Cricket Ground,4,Australia
+153,25.1,6,R Ashwin,2012-02-05,1st,MEK Hussey,44,,DJ Hussey,14,Australia,India,146,India,Melbourne Cricket Ground,4,Australia
+154,25.2,4,R Ashwin,2012-02-05,1st,MEK Hussey,44,,DJ Hussey,18,Australia,India,150,India,Melbourne Cricket Ground,4,Australia
+155,25.3,1,R Ashwin,2012-02-05,1st,MEK Hussey,44,,DJ Hussey,19,Australia,India,151,India,Melbourne Cricket Ground,4,Australia
+156,25.4,0,R Ashwin,2012-02-05,1st,DJ Hussey,19,,MEK Hussey,44,Australia,India,151,India,Melbourne Cricket Ground,4,Australia
+157,25.5,1,R Ashwin,2012-02-05,1st,DJ Hussey,19,,MEK Hussey,45,Australia,India,152,India,Melbourne Cricket Ground,4,Australia
+158,25.6,2,R Ashwin,2012-02-05,1st,MEK Hussey,45,,DJ Hussey,21,Australia,India,154,India,Melbourne Cricket Ground,4,Australia
+159,26.1,0,R Vinay Kumar,2012-02-05,1st,DJ Hussey,21,MEK Hussey,MEK Hussey,45,Australia,India,154,India,Melbourne Cricket Ground,5,Australia
+160,26.2,1,R Vinay Kumar,2012-02-05,1st,DT Christian,0,,DJ Hussey,22,Australia,India,155,India,Melbourne Cricket Ground,5,Australia
+161,26.3,1,R Vinay Kumar,2012-02-05,1st,DJ Hussey,22,,DT Christian,1,Australia,India,156,India,Melbourne Cricket Ground,5,Australia
+162,26.4,4,R Vinay Kumar,2012-02-05,1st,DT Christian,1,,DJ Hussey,26,Australia,India,160,India,Melbourne Cricket Ground,5,Australia
+163,26.5,1,R Vinay Kumar,2012-02-05,1st,DT Christian,1,,DJ Hussey,27,Australia,India,161,India,Melbourne Cricket Ground,5,Australia
+164,26.6,0,R Vinay Kumar,2012-02-05,1st,DJ Hussey,27,,DT Christian,1,Australia,India,161,India,Melbourne Cricket Ground,5,Australia
+165,27.1,1,R Sharma,2012-02-05,1st,DT Christian,1,,DJ Hussey,28,Australia,India,162,India,Melbourne Cricket Ground,5,Australia
+166,27.2,1,R Sharma,2012-02-05,1st,DJ Hussey,28,,DT Christian,2,Australia,India,163,India,Melbourne Cricket Ground,5,Australia
+167,27.3,1,R Sharma,2012-02-05,1st,DT Christian,2,,DJ Hussey,29,Australia,India,164,India,Melbourne Cricket Ground,5,Australia
+168,27.4,1,R Sharma,2012-02-05,1st,DJ Hussey,29,,DT Christian,3,Australia,India,165,India,Melbourne Cricket Ground,5,Australia
+169,27.5,0,R Sharma,2012-02-05,1st,DT Christian,3,,DJ Hussey,29,Australia,India,166,India,Melbourne Cricket Ground,5,Australia
+170,27.6,2,R Sharma,2012-02-05,1st,DT Christian,3,,DJ Hussey,31,Australia,India,168,India,Melbourne Cricket Ground,5,Australia
+171,27.7,2,R Sharma,2012-02-05,1st,DT Christian,3,,DJ Hussey,33,Australia,India,170,India,Melbourne Cricket Ground,5,Australia
+172,28.1,0,R Vinay Kumar,2012-02-05,1st,DJ Hussey,33,,DT Christian,3,Australia,India,170,India,Melbourne Cricket Ground,5,Australia
+173,28.2,0,R Vinay Kumar,2012-02-05,1st,DJ Hussey,33,,DT Christian,3,Australia,India,170,India,Melbourne Cricket Ground,5,Australia
+174,28.3,1,R Vinay Kumar,2012-02-05,1st,DJ Hussey,33,,DT Christian,4,Australia,India,171,India,Melbourne Cricket Ground,5,Australia
+175,28.4,1,R Vinay Kumar,2012-02-05,1st,DT Christian,4,,DJ Hussey,34,Australia,India,172,India,Melbourne Cricket Ground,5,Australia
+176,28.5,3,R Vinay Kumar,2012-02-05,1st,DJ Hussey,34,,DT Christian,7,Australia,India,175,India,Melbourne Cricket Ground,5,Australia
+177,28.6,1,R Vinay Kumar,2012-02-05,1st,DT Christian,7,,DJ Hussey,35,Australia,India,176,India,Melbourne Cricket Ground,5,Australia
+178,29.1,1,R Sharma,2012-02-05,1st,DT Christian,7,,DJ Hussey,36,Australia,India,177,India,Melbourne Cricket Ground,5,Australia
+179,29.2,3,R Sharma,2012-02-05,1st,DJ Hussey,36,,DT Christian,10,Australia,India,180,India,Melbourne Cricket Ground,5,Australia
+180,29.3,4,R Sharma,2012-02-05,1st,DT Christian,10,,DJ Hussey,40,Australia,India,184,India,Melbourne Cricket Ground,5,Australia
+181,29.4,1,R Sharma,2012-02-05,1st,DT Christian,10,,DJ Hussey,41,Australia,India,185,India,Melbourne Cricket Ground,5,Australia
+182,29.5,1,R Sharma,2012-02-05,1st,DJ Hussey,41,,DT Christian,11,Australia,India,186,India,Melbourne Cricket Ground,5,Australia
+183,29.6,1,R Sharma,2012-02-05,1st,DT Christian,11,,DJ Hussey,42,Australia,India,187,India,Melbourne Cricket Ground,5,Australia
+184,30.1,4,P Kumar,2012-02-05,1st,DT Christian,11,,DJ Hussey,46,Australia,India,191,India,Melbourne Cricket Ground,5,Australia
+185,30.2,0,P Kumar,2012-02-05,1st,DT Christian,11,,DJ Hussey,46,Australia,India,192,India,Melbourne Cricket Ground,5,Australia
+186,30.3,1,P Kumar,2012-02-05,1st,DJ Hussey,46,,DT Christian,12,Australia,India,193,India,Melbourne Cricket Ground,5,Australia
+187,30.4,2,P Kumar,2012-02-05,1st,DT Christian,12,,DJ Hussey,48,Australia,India,195,India,Melbourne Cricket Ground,5,Australia
+188,30.5,0,P Kumar,2012-02-05,1st,DT Christian,12,,DJ Hussey,48,Australia,India,196,India,Melbourne Cricket Ground,5,Australia
+189,30.6,1,P Kumar,2012-02-05,1st,DJ Hussey,48,,DT Christian,13,Australia,India,197,India,Melbourne Cricket Ground,5,Australia
+190,31.1,0,R Sharma,2012-02-05,1st,DJ Hussey,48,,DT Christian,13,Australia,India,197,India,Melbourne Cricket Ground,5,Australia
+191,31.2,2,R Sharma,2012-02-05,1st,DJ Hussey,48,,DT Christian,15,Australia,India,199,India,Melbourne Cricket Ground,5,Australia
+192,31.3,1,RA Jadeja,2012-02-05,1st,DJ Hussey,48,,DT Christian,16,Australia,India,200,India,Melbourne Cricket Ground,5,Australia
+193,31.4,6,RA Jadeja,2012-02-05,1st,DT Christian,16,,DJ Hussey,54,Australia,India,206,India,Melbourne Cricket Ground,5,Australia
+194,31.5,1,RA Jadeja,2012-02-05,1st,DT Christian,16,,DJ Hussey,55,Australia,India,207,India,Melbourne Cricket Ground,5,Australia
+195,31.6,0,RA Jadeja,2012-02-05,1st,DJ Hussey,55,,DT Christian,16,Australia,India,208,India,Melbourne Cricket Ground,5,Australia
+196,31.7,1,RA Jadeja,2012-02-05,1st,DJ Hussey,55,,DT Christian,17,Australia,India,210,India,Melbourne Cricket Ground,5,Australia
+197,31.8,6,RA Jadeja,2012-02-05,1st,DT Christian,17,,DJ Hussey,61,Australia,India,216,India,Melbourne Cricket Ground,5,Australia
+198,0.1,0,RJ Harris,2012-02-05,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,0,India,Melbourne Cricket Ground,0,Australia
+199,0.2,0,RJ Harris,2012-02-05,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,1,India,Melbourne Cricket Ground,0,Australia
+200,0.3,0,RJ Harris,2012-02-05,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,1,India,Melbourne Cricket Ground,0,Australia
+201,0.4,0,RJ Harris,2012-02-05,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,1,India,Melbourne Cricket Ground,0,Australia
+202,0.5,3,RJ Harris,2012-02-05,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,4,India,Melbourne Cricket Ground,0,Australia
+203,0.6,0,RJ Harris,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,4,India,Melbourne Cricket Ground,0,Australia
+204,0.7,0,RJ Harris,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,4,India,Melbourne Cricket Ground,0,Australia
+205,1.1,1,MA Starc,2012-02-05,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,5,India,Melbourne Cricket Ground,0,Australia
+206,1.2,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,5,India,Melbourne Cricket Ground,0,Australia
+207,1.3,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,6,India,Melbourne Cricket Ground,0,Australia
+208,1.4,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,6,India,Melbourne Cricket Ground,0,Australia
+209,1.5,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,7,India,Melbourne Cricket Ground,0,Australia
+210,1.6,2,MA Starc,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,9,India,Melbourne Cricket Ground,0,Australia
+211,1.7,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,9,India,Melbourne Cricket Ground,1,Australia
+212,1.8,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,V Kohli,0,Australia,India,9,India,Melbourne Cricket Ground,1,Australia
+213,2.1,0,RJ Harris,2012-02-05,2nd,V Kohli,0,,G Gambhir,0,Australia,India,10,India,Melbourne Cricket Ground,1,Australia
+214,2.2,0,RJ Harris,2012-02-05,2nd,V Kohli,0,,G Gambhir,0,Australia,India,10,India,Melbourne Cricket Ground,1,Australia
+215,2.3,1,RJ Harris,2012-02-05,2nd,V Kohli,0,,G Gambhir,0,Australia,India,11,India,Melbourne Cricket Ground,1,Australia
+216,2.4,0,RJ Harris,2012-02-05,2nd,G Gambhir,0,,V Kohli,0,Australia,India,11,India,Melbourne Cricket Ground,1,Australia
+217,2.5,0,RJ Harris,2012-02-05,2nd,G Gambhir,0,,V Kohli,0,Australia,India,11,India,Melbourne Cricket Ground,1,Australia
+218,2.6,0,RJ Harris,2012-02-05,2nd,G Gambhir,0,,V Kohli,0,Australia,India,11,India,Melbourne Cricket Ground,1,Australia
+219,2.7,1,RJ Harris,2012-02-05,2nd,G Gambhir,0,,V Kohli,0,Australia,India,12,India,Melbourne Cricket Ground,1,Australia
+220,3.1,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,V Kohli,0,Australia,India,12,India,Melbourne Cricket Ground,1,Australia
+221,3.2,0,MA Starc,2012-02-05,2nd,G Gambhir,0,,V Kohli,0,Australia,India,13,India,Melbourne Cricket Ground,1,Australia
+222,3.3,0,MA Starc,2012-02-05,2nd,V Kohli,0,,G Gambhir,0,Australia,India,13,India,Melbourne Cricket Ground,2,Australia
+223,3.4,0,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,13,India,Melbourne Cricket Ground,2,Australia
+224,3.5,0,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,13,India,Melbourne Cricket Ground,2,Australia
+225,3.6,2,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,15,India,Melbourne Cricket Ground,2,Australia
+226,4.1,0,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,15,India,Melbourne Cricket Ground,2,Australia
+227,4.2,0,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,15,India,Melbourne Cricket Ground,2,Australia
+228,4.3,1,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,16,India,Melbourne Cricket Ground,2,Australia
+229,4.4,0,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,16,India,Melbourne Cricket Ground,2,Australia
+230,4.5,0,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,16,India,Melbourne Cricket Ground,2,Australia
+231,4.6,2,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,18,India,Melbourne Cricket Ground,2,Australia
+232,5.1,0,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,18,India,Melbourne Cricket Ground,2,Australia
+233,5.2,3,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,21,India,Melbourne Cricket Ground,2,Australia
+234,5.3,0,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,21,India,Melbourne Cricket Ground,2,Australia
+235,5.4,1,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,22,India,Melbourne Cricket Ground,2,Australia
+236,5.5,0,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,22,India,Melbourne Cricket Ground,2,Australia
+237,5.6,0,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,22,India,Melbourne Cricket Ground,2,Australia
+238,6.1,1,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,23,India,Melbourne Cricket Ground,2,Australia
+239,6.2,4,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,27,India,Melbourne Cricket Ground,2,Australia
+240,6.3,1,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,28,India,Melbourne Cricket Ground,2,Australia
+241,6.4,4,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,32,India,Melbourne Cricket Ground,2,Australia
+242,6.5,0,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,32,India,Melbourne Cricket Ground,2,Australia
+243,6.6,0,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,32,India,Melbourne Cricket Ground,2,Australia
+244,7.1,2,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,34,India,Melbourne Cricket Ground,2,Australia
+245,7.2,0,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,34,India,Melbourne Cricket Ground,2,Australia
+246,7.3,2,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,36,India,Melbourne Cricket Ground,2,Australia
+247,7.4,0,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,36,India,Melbourne Cricket Ground,2,Australia
+248,7.5,1,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,37,India,Melbourne Cricket Ground,2,Australia
+249,7.6,1,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,38,India,Melbourne Cricket Ground,2,Australia
+250,8.1,1,RJ Harris,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,39,India,Melbourne Cricket Ground,2,Australia
+251,8.2,4,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,43,India,Melbourne Cricket Ground,2,Australia
+252,8.3,2,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,45,India,Melbourne Cricket Ground,2,Australia
+253,8.4,0,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,45,India,Melbourne Cricket Ground,2,Australia
+254,8.5,0,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,45,India,Melbourne Cricket Ground,2,Australia
+255,8.6,1,RJ Harris,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,46,India,Melbourne Cricket Ground,2,Australia
+256,9.1,0,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,46,India,Melbourne Cricket Ground,2,Australia
+257,9.2,1,MA Starc,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,47,India,Melbourne Cricket Ground,2,Australia
+258,9.3,0,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,47,India,Melbourne Cricket Ground,2,Australia
+259,9.4,2,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,49,India,Melbourne Cricket Ground,2,Australia
+260,9.5,4,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,53,India,Melbourne Cricket Ground,2,Australia
+261,9.6,1,MA Starc,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,54,India,Melbourne Cricket Ground,2,Australia
+262,10.1,1,DT Christian,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,55,India,Melbourne Cricket Ground,2,Australia
+263,10.2,4,DT Christian,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,59,India,Melbourne Cricket Ground,2,Australia
+264,10.3,0,DT Christian,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,59,India,Melbourne Cricket Ground,2,Australia
+265,10.4,1,DT Christian,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,60,India,Melbourne Cricket Ground,2,Australia
+266,10.5,1,DT Christian,2012-02-05,2nd,V Kohli,0,,RG Sharma,0,Australia,India,61,India,Melbourne Cricket Ground,2,Australia
+267,10.6,1,DT Christian,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,62,India,Melbourne Cricket Ground,2,Australia
+268,11.1,2,CJ McKay,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,64,India,Melbourne Cricket Ground,2,Australia
+269,11.2,0,CJ McKay,2012-02-05,2nd,RG Sharma,0,,V Kohli,0,Australia,India,64,India,Melbourne Cricket Ground,3,Australia
+270,11.3,1,CJ McKay,2012-02-05,2nd,RG Sharma,0,,SK Raina,0,Australia,India,65,India,Melbourne Cricket Ground,3,Australia
+271,11.4,0,CJ McKay,2012-02-05,2nd,SK Raina,0,,RG Sharma,0,Australia,India,65,India,Melbourne Cricket Ground,4,Australia
+272,11.5,1,CJ McKay,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,66,India,Melbourne Cricket Ground,4,Australia
+273,11.6,1,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,67,India,Melbourne Cricket Ground,4,Australia
+274,12.1,0,DT Christian,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,67,India,Melbourne Cricket Ground,4,Australia
+275,12.2,0,DT Christian,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,67,India,Melbourne Cricket Ground,4,Australia
+276,12.3,0,DT Christian,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,67,India,Melbourne Cricket Ground,4,Australia
+277,12.4,1,DT Christian,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,68,India,Melbourne Cricket Ground,4,Australia
+278,12.5,0,DT Christian,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,68,India,Melbourne Cricket Ground,4,Australia
+279,12.6,1,DT Christian,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,69,India,Melbourne Cricket Ground,4,Australia
+280,13.1,4,CJ McKay,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,73,India,Melbourne Cricket Ground,4,Australia
+281,13.2,0,CJ McKay,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,73,India,Melbourne Cricket Ground,4,Australia
+282,13.3,1,CJ McKay,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,74,India,Melbourne Cricket Ground,4,Australia
+283,13.4,1,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,75,India,Melbourne Cricket Ground,4,Australia
+284,13.5,0,CJ McKay,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,76,India,Melbourne Cricket Ground,4,Australia
+285,13.6,0,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,76,India,Melbourne Cricket Ground,4,Australia
+286,14.1,1,DT Christian,2012-02-05,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,77,India,Melbourne Cricket Ground,4,Australia
+287,14.2,0,DT Christian,2012-02-05,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,77,India,Melbourne Cricket Ground,5,Australia
+288,14.3,0,DT Christian,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,77,India,Melbourne Cricket Ground,5,Australia
+289,14.4,1,DT Christian,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,78,India,Melbourne Cricket Ground,5,Australia
+290,14.5,0,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,78,India,Melbourne Cricket Ground,5,Australia
+291,14.6,1,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,79,India,Melbourne Cricket Ground,5,Australia
+292,15.1,1,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,80,India,Melbourne Cricket Ground,5,Australia
+293,15.2,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,81,India,Melbourne Cricket Ground,5,Australia
+294,15.3,1,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,82,India,Melbourne Cricket Ground,5,Australia
+295,15.4,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,83,India,Melbourne Cricket Ground,5,Australia
+296,15.5,1,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,84,India,Melbourne Cricket Ground,5,Australia
+297,15.6,0,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,84,India,Melbourne Cricket Ground,5,Australia
+298,16.1,0,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,84,India,Melbourne Cricket Ground,5,Australia
+299,16.2,0,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,84,India,Melbourne Cricket Ground,5,Australia
+300,16.3,0,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,84,India,Melbourne Cricket Ground,5,Australia
+301,16.4,1,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,85,India,Melbourne Cricket Ground,5,Australia
+302,16.5,1,DT Christian,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,86,India,Melbourne Cricket Ground,5,Australia
+303,16.6,1,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,87,India,Melbourne Cricket Ground,5,Australia
+304,17.1,2,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,89,India,Melbourne Cricket Ground,5,Australia
+305,17.2,2,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,91,India,Melbourne Cricket Ground,5,Australia
+306,17.3,1,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,92,India,Melbourne Cricket Ground,5,Australia
+307,17.4,0,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,92,India,Melbourne Cricket Ground,5,Australia
+308,17.5,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,India,Melbourne Cricket Ground,5,Australia
+309,17.6,0,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,93,India,Melbourne Cricket Ground,5,Australia
+310,18.1,0,DT Christian,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,India,Melbourne Cricket Ground,5,Australia
+311,18.2,1,DT Christian,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,94,India,Melbourne Cricket Ground,5,Australia
+312,18.3,0,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,94,India,Melbourne Cricket Ground,5,Australia
+313,18.4,1,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,95,India,Melbourne Cricket Ground,5,Australia
+314,18.5,1,DT Christian,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,96,India,Melbourne Cricket Ground,5,Australia
+315,18.6,2,DT Christian,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,98,India,Melbourne Cricket Ground,5,Australia
+316,19.1,0,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,98,India,Melbourne Cricket Ground,5,Australia
+317,19.2,2,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,100,India,Melbourne Cricket Ground,5,Australia
+318,19.3,2,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,102,India,Melbourne Cricket Ground,5,Australia
+319,19.4,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,103,India,Melbourne Cricket Ground,5,Australia
+320,19.5,1,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,104,India,Melbourne Cricket Ground,5,Australia
+321,19.6,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,105,India,Melbourne Cricket Ground,5,Australia
+322,20.1,0,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,105,India,Melbourne Cricket Ground,5,Australia
+323,20.2,0,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,105,India,Melbourne Cricket Ground,5,Australia
+324,20.3,2,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,107,India,Melbourne Cricket Ground,5,Australia
+325,20.4,0,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,107,India,Melbourne Cricket Ground,5,Australia
+326,20.5,1,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,108,India,Melbourne Cricket Ground,5,Australia
+327,20.6,0,CJ McKay,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,108,India,Melbourne Cricket Ground,5,Australia
+328,21.1,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,109,India,Melbourne Cricket Ground,5,Australia
+329,21.2,0,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,109,India,Melbourne Cricket Ground,5,Australia
+330,21.3,0,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,109,India,Melbourne Cricket Ground,5,Australia
+331,21.4,1,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,110,India,Melbourne Cricket Ground,5,Australia
+332,21.5,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,111,India,Melbourne Cricket Ground,5,Australia
+333,21.6,0,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,112,India,Melbourne Cricket Ground,5,Australia
+334,21.7,0,XJ Doherty,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,112,India,Melbourne Cricket Ground,5,Australia
+335,22.1,1,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,113,India,Melbourne Cricket Ground,5,Australia
+336,22.2,1,CJ McKay,2012-02-05,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,114,India,Melbourne Cricket Ground,5,Australia
+337,22.3,0,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,114,India,Melbourne Cricket Ground,6,Australia
+338,22.4,1,CJ McKay,2012-02-05,2nd,R Ashwin,0,,MS Dhoni,0,Australia,India,115,India,Melbourne Cricket Ground,6,Australia
+339,22.5,2,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,R Ashwin,0,Australia,India,117,India,Melbourne Cricket Ground,6,Australia
+340,22.6,1,CJ McKay,2012-02-05,2nd,MS Dhoni,0,,R Ashwin,0,Australia,India,118,India,Melbourne Cricket Ground,6,Australia
+341,23.1,2,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,R Ashwin,0,Australia,India,120,India,Melbourne Cricket Ground,7,Australia
+342,23.2,1,XJ Doherty,2012-02-05,2nd,R Sharma,0,,MS Dhoni,0,Australia,India,121,India,Melbourne Cricket Ground,7,Australia
+343,23.3,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,R Sharma,0,Australia,India,122,India,Melbourne Cricket Ground,7,Australia
+344,23.4,1,XJ Doherty,2012-02-05,2nd,R Sharma,0,,MS Dhoni,0,Australia,India,123,India,Melbourne Cricket Ground,7,Australia
+345,23.5,0,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,R Sharma,0,Australia,India,123,India,Melbourne Cricket Ground,8,Australia
+346,23.6,1,XJ Doherty,2012-02-05,2nd,MS Dhoni,0,,P Kumar,0,Australia,India,124,India,Melbourne Cricket Ground,8,Australia
+347,24.1,0,MJ Clarke,2012-02-05,2nd,MS Dhoni,0,,P Kumar,0,Australia,India,124,India,Melbourne Cricket Ground,8,Australia
+348,24.2,0,MJ Clarke,2012-02-05,2nd,MS Dhoni,0,,P Kumar,0,Australia,India,124,India,Melbourne Cricket Ground,8,Australia
+349,24.3,0,MJ Clarke,2012-02-05,2nd,MS Dhoni,0,,P Kumar,0,Australia,India,124,India,Melbourne Cricket Ground,8,Australia
+350,24.4,1,MJ Clarke,2012-02-05,2nd,MS Dhoni,0,,P Kumar,0,Australia,India,125,India,Melbourne Cricket Ground,8,Australia
+351,24.5,1,MJ Clarke,2012-02-05,2nd,P Kumar,0,,MS Dhoni,0,Australia,India,126,India,Melbourne Cricket Ground,8,Australia
+352,24.6,2,MJ Clarke,2012-02-05,2nd,MS Dhoni,0,,P Kumar,0,Australia,India,128,India,Melbourne Cricket Ground,8,Australia
+353,25.1,0,XJ Doherty,2012-02-05,2nd,P Kumar,0,,MS Dhoni,0,Australia,India,128,India,Melbourne Cricket Ground,8,Australia
+354,25.2,0,XJ Doherty,2012-02-05,2nd,P Kumar,0,,MS Dhoni,0,Australia,India,128,India,Melbourne Cricket Ground,9,Australia
+355,25.3,0,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,128,India,Melbourne Cricket Ground,9,Australia
+356,25.4,0,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,128,India,Melbourne Cricket Ground,9,Australia
+357,25.5,0,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,128,India,Melbourne Cricket Ground,9,Australia
+358,25.6,1,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,129,India,Melbourne Cricket Ground,9,Australia
+359,26.1,0,MJ Clarke,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,129,India,Melbourne Cricket Ground,9,Australia
+360,26.2,1,MJ Clarke,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,130,India,Melbourne Cricket Ground,9,Australia
+361,26.3,0,MJ Clarke,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,130,India,Melbourne Cricket Ground,9,Australia
+362,26.4,4,MJ Clarke,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,134,India,Melbourne Cricket Ground,9,Australia
+363,26.5,1,MJ Clarke,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,135,India,Melbourne Cricket Ground,9,Australia
+364,26.6,1,MJ Clarke,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,136,India,Melbourne Cricket Ground,9,Australia
+365,27.1,0,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,136,India,Melbourne Cricket Ground,9,Australia
+366,27.2,0,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,136,India,Melbourne Cricket Ground,9,Australia
+367,27.3,2,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,138,India,Melbourne Cricket Ground,9,Australia
+368,27.4,1,XJ Doherty,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,139,India,Melbourne Cricket Ground,9,Australia
+369,27.5,0,XJ Doherty,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,139,India,Melbourne Cricket Ground,9,Australia
+370,27.6,4,XJ Doherty,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,143,India,Melbourne Cricket Ground,9,Australia
+371,28.1,4,MA Starc,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,147,India,Melbourne Cricket Ground,9,Australia
+372,28.2,1,MA Starc,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,148,India,Melbourne Cricket Ground,9,Australia
+373,28.3,1,MA Starc,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,149,India,Melbourne Cricket Ground,9,Australia
+374,28.4,0,MA Starc,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,149,India,Melbourne Cricket Ground,9,Australia
+375,28.5,1,MA Starc,2012-02-05,2nd,P Kumar,0,,R Vinay Kumar,0,Australia,India,150,India,Melbourne Cricket Ground,9,Australia
+376,28.6,1,MA Starc,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,151,India,Melbourne Cricket Ground,9,Australia
+377,29.1,0,CJ McKay,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,151,India,Melbourne Cricket Ground,9,Australia
+378,29.2,0,CJ McKay,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,151,India,Melbourne Cricket Ground,9,Australia
+379,29.3,0,CJ McKay,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,151,India,Melbourne Cricket Ground,9,Australia
+380,29.4,0,CJ McKay,2012-02-05,2nd,R Vinay Kumar,0,,P Kumar,0,Australia,India,151,India,Melbourne Cricket Ground,10,Australia

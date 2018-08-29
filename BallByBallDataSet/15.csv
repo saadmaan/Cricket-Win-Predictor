@@ -1,0 +1,582 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,0,,WU Tharanga,1,Sri Lanka,Pakistan,1,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+1,0.2,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,1,,CK Kapugedera,0,Sri Lanka,Pakistan,1,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+2,0.3,1,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,1,,CK Kapugedera,1,Sri Lanka,Pakistan,2,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+3,0.4,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,1,Sri Lanka,Pakistan,2,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+4,0.5,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,1,Sri Lanka,Pakistan,3,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+5,0.6,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,1,,CK Kapugedera,1,Sri Lanka,Pakistan,3,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+6,1.1,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,1,Sri Lanka,Pakistan,3,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+7,1.2,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,1,Sri Lanka,Pakistan,4,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+8,1.3,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,1,Sri Lanka,Pakistan,4,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+9,1.4,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,1,Sri Lanka,Pakistan,4,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+10,1.5,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,1,Sri Lanka,Pakistan,6,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+11,1.6,1,Mohammad Asif,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,2,Sri Lanka,Pakistan,7,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+12,1.7,0,Mohammad Asif,2006-03-22,1st,WU Tharanga,2,,CK Kapugedera,1,Sri Lanka,Pakistan,7,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+13,2.1,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,2,Sri Lanka,Pakistan,7,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+14,2.2,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,2,Sri Lanka,Pakistan,7,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+15,2.3,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,2,Sri Lanka,Pakistan,7,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+16,2.4,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,2,Sri Lanka,Pakistan,7,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+17,2.5,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,2,Sri Lanka,Pakistan,7,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+18,2.6,4,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,1,,WU Tharanga,6,Sri Lanka,Pakistan,11,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+19,3.1,1,Mohammad Asif,2006-03-22,1st,WU Tharanga,6,,CK Kapugedera,2,Sri Lanka,Pakistan,12,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+20,3.2,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,2,,WU Tharanga,6,Sri Lanka,Pakistan,12,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+21,3.3,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,2,,WU Tharanga,6,Sri Lanka,Pakistan,13,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+22,3.4,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,2,,WU Tharanga,6,Sri Lanka,Pakistan,13,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+23,3.5,2,Mohammad Asif,2006-03-22,1st,CK Kapugedera,2,,WU Tharanga,8,Sri Lanka,Pakistan,15,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+24,3.6,4,Mohammad Asif,2006-03-22,1st,CK Kapugedera,2,,WU Tharanga,12,Sri Lanka,Pakistan,19,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+25,3.7,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,2,,WU Tharanga,12,Sri Lanka,Pakistan,19,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+26,4.1,4,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,12,,CK Kapugedera,6,Sri Lanka,Pakistan,23,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+27,4.2,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,12,,CK Kapugedera,6,Sri Lanka,Pakistan,23,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+28,4.3,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,12,,CK Kapugedera,6,Sri Lanka,Pakistan,23,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+29,4.4,4,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,12,,CK Kapugedera,10,Sri Lanka,Pakistan,27,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+30,4.5,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,12,,CK Kapugedera,10,Sri Lanka,Pakistan,27,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+31,4.6,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,12,,CK Kapugedera,10,Sri Lanka,Pakistan,27,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+32,5.1,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,10,,WU Tharanga,12,Sri Lanka,Pakistan,27,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+33,5.2,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,10,,WU Tharanga,12,Sri Lanka,Pakistan,27,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+34,5.3,2,Mohammad Asif,2006-03-22,1st,CK Kapugedera,10,,WU Tharanga,14,Sri Lanka,Pakistan,29,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+35,5.4,0,Mohammad Asif,2006-03-22,1st,CK Kapugedera,10,,WU Tharanga,14,Sri Lanka,Pakistan,29,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+36,5.5,1,Mohammad Asif,2006-03-22,1st,CK Kapugedera,10,,WU Tharanga,15,Sri Lanka,Pakistan,30,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+37,5.6,0,Mohammad Asif,2006-03-22,1st,WU Tharanga,15,,CK Kapugedera,10,Sri Lanka,Pakistan,30,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+38,6.1,1,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,10,,WU Tharanga,16,Sri Lanka,Pakistan,31,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+39,6.2,1,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,16,,CK Kapugedera,11,Sri Lanka,Pakistan,32,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+40,6.3,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,11,,WU Tharanga,16,Sri Lanka,Pakistan,32,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+41,6.4,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,11,,WU Tharanga,16,Sri Lanka,Pakistan,32,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+42,6.5,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,11,,WU Tharanga,16,Sri Lanka,Pakistan,32,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+43,6.6,0,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,11,,WU Tharanga,16,Sri Lanka,Pakistan,32,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+44,7.1,0,Mohammad Asif,2006-03-22,1st,WU Tharanga,16,,CK Kapugedera,11,Sri Lanka,Pakistan,32,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+45,7.2,4,Mohammad Asif,2006-03-22,1st,WU Tharanga,16,,CK Kapugedera,15,Sri Lanka,Pakistan,36,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+46,7.3,2,Mohammad Asif,2006-03-22,1st,WU Tharanga,16,,CK Kapugedera,17,Sri Lanka,Pakistan,38,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+47,7.4,0,Mohammad Asif,2006-03-22,1st,WU Tharanga,16,,CK Kapugedera,17,Sri Lanka,Pakistan,38,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+48,7.5,0,Mohammad Asif,2006-03-22,1st,WU Tharanga,16,,CK Kapugedera,17,Sri Lanka,Pakistan,38,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+49,7.6,0,Mohammad Asif,2006-03-22,1st,WU Tharanga,16,,CK Kapugedera,17,Sri Lanka,Pakistan,38,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+50,8.1,1,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,17,,WU Tharanga,17,Sri Lanka,Pakistan,39,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+51,8.2,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,17,,CK Kapugedera,17,Sri Lanka,Pakistan,39,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+52,8.3,3,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,17,,CK Kapugedera,20,Sri Lanka,Pakistan,43,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+53,8.4,1,Naved-ul-Hasan,2006-03-22,1st,CK Kapugedera,20,,WU Tharanga,18,Sri Lanka,Pakistan,44,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+54,8.5,4,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,18,,CK Kapugedera,24,Sri Lanka,Pakistan,48,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+55,8.6,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,18,,CK Kapugedera,24,Sri Lanka,Pakistan,48,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+56,8.7,0,Naved-ul-Hasan,2006-03-22,1st,WU Tharanga,18,,CK Kapugedera,24,Sri Lanka,Pakistan,48,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+57,9.1,1,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,24,,WU Tharanga,19,Sri Lanka,Pakistan,49,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+58,9.2,2,Iftikhar Anjum,2006-03-22,1st,WU Tharanga,19,,CK Kapugedera,26,Sri Lanka,Pakistan,51,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+59,9.3,0,Iftikhar Anjum,2006-03-22,1st,WU Tharanga,19,,CK Kapugedera,26,Sri Lanka,Pakistan,51,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+60,9.4,0,Iftikhar Anjum,2006-03-22,1st,WU Tharanga,19,,CK Kapugedera,26,Sri Lanka,Pakistan,51,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+61,9.5,0,Iftikhar Anjum,2006-03-22,1st,WU Tharanga,19,,CK Kapugedera,26,Sri Lanka,Pakistan,51,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+62,9.6,0,Iftikhar Anjum,2006-03-22,1st,WU Tharanga,19,,CK Kapugedera,26,Sri Lanka,Pakistan,51,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+63,10.1,2,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,26,,WU Tharanga,21,Sri Lanka,Pakistan,53,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+64,10.2,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,26,,WU Tharanga,21,Sri Lanka,Pakistan,53,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+65,10.3,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,26,,WU Tharanga,21,Sri Lanka,Pakistan,53,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+66,10.4,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,26,,WU Tharanga,21,Sri Lanka,Pakistan,53,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+67,10.5,1,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,26,,WU Tharanga,22,Sri Lanka,Pakistan,54,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+68,10.6,0,Abdul Razzaq,2006-03-22,1st,WU Tharanga,22,,CK Kapugedera,26,Sri Lanka,Pakistan,54,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+69,11.1,0,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,26,,WU Tharanga,22,Sri Lanka,Pakistan,54,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+70,11.2,1,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,26,,WU Tharanga,23,Sri Lanka,Pakistan,55,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+71,11.3,0,Iftikhar Anjum,2006-03-22,1st,WU Tharanga,23,,CK Kapugedera,26,Sri Lanka,Pakistan,55,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+72,11.4,1,Iftikhar Anjum,2006-03-22,1st,WU Tharanga,23,,CK Kapugedera,27,Sri Lanka,Pakistan,56,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+73,11.5,0,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,27,,WU Tharanga,23,Sri Lanka,Pakistan,56,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+74,11.6,0,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,27,,WU Tharanga,23,Sri Lanka,Pakistan,56,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+75,12.1,0,Abdul Razzaq,2006-03-22,1st,WU Tharanga,23,,CK Kapugedera,27,Sri Lanka,Pakistan,56,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+76,12.2,0,Abdul Razzaq,2006-03-22,1st,WU Tharanga,23,,CK Kapugedera,27,Sri Lanka,Pakistan,56,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+77,12.3,0,Abdul Razzaq,2006-03-22,1st,WU Tharanga,23,,CK Kapugedera,27,Sri Lanka,Pakistan,56,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+78,12.4,1,Abdul Razzaq,2006-03-22,1st,WU Tharanga,23,,CK Kapugedera,28,Sri Lanka,Pakistan,57,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+79,12.5,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,28,,WU Tharanga,23,Sri Lanka,Pakistan,57,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+80,12.6,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,28,WU Tharanga,WU Tharanga,23,Sri Lanka,Pakistan,57,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+81,13.1,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,28,Sri Lanka,Pakistan,57,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+82,13.2,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,28,Sri Lanka,Pakistan,57,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+83,13.3,4,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,32,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+84,13.4,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,32,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+85,13.5,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,32,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+86,13.6,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,32,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+87,14.1,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,32,,KC Sangakkara,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+88,14.2,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,32,,KC Sangakkara,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+89,14.3,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,32,,KC Sangakkara,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+90,14.4,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,32,,KC Sangakkara,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+91,14.5,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,32,,KC Sangakkara,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+92,14.6,0,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,32,,KC Sangakkara,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+93,15.1,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,32,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+94,15.2,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,32,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+95,15.3,1,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,0,,CK Kapugedera,33,Sri Lanka,Pakistan,62,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+96,15.4,1,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,33,,KC Sangakkara,1,Sri Lanka,Pakistan,63,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+97,15.5,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,33,Sri Lanka,Pakistan,63,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+98,15.6,1,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,34,Sri Lanka,Pakistan,64,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+99,16.1,0,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,34,Sri Lanka,Pakistan,64,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+100,16.2,0,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,34,Sri Lanka,Pakistan,64,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+101,16.3,0,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,34,Sri Lanka,Pakistan,64,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+102,16.4,4,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,38,Sri Lanka,Pakistan,68,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+103,16.5,0,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,38,Sri Lanka,Pakistan,68,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+104,16.6,1,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,39,Sri Lanka,Pakistan,69,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+105,17.1,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,39,Sri Lanka,Pakistan,69,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+106,17.2,1,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,1,,CK Kapugedera,40,Sri Lanka,Pakistan,70,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+107,17.3,0,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,40,,KC Sangakkara,1,Sri Lanka,Pakistan,70,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+108,17.4,1,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,40,,KC Sangakkara,2,Sri Lanka,Pakistan,71,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+109,17.5,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,2,,CK Kapugedera,40,Sri Lanka,Pakistan,71,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+110,17.6,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,2,,CK Kapugedera,40,Sri Lanka,Pakistan,71,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+111,18.1,4,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,40,,KC Sangakkara,6,Sri Lanka,Pakistan,75,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+112,18.2,1,Abdul Razzaq,2006-03-22,1st,CK Kapugedera,40,,KC Sangakkara,7,Sri Lanka,Pakistan,76,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+113,18.3,0,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,7,,CK Kapugedera,40,Sri Lanka,Pakistan,76,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+114,18.4,0,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,7,,CK Kapugedera,40,Sri Lanka,Pakistan,76,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+115,18.5,0,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,7,,CK Kapugedera,40,Sri Lanka,Pakistan,76,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+116,18.6,4,Abdul Razzaq,2006-03-22,1st,KC Sangakkara,7,,CK Kapugedera,44,Sri Lanka,Pakistan,80,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+117,19.1,4,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,44,,KC Sangakkara,11,Sri Lanka,Pakistan,84,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+118,19.2,0,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,44,,KC Sangakkara,11,Sri Lanka,Pakistan,84,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+119,19.3,1,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,44,,KC Sangakkara,12,Sri Lanka,Pakistan,85,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+120,19.4,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,12,,CK Kapugedera,44,Sri Lanka,Pakistan,85,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+121,19.5,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,12,,CK Kapugedera,44,Sri Lanka,Pakistan,85,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+122,19.6,1,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,12,,CK Kapugedera,45,Sri Lanka,Pakistan,86,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+123,20.1,2,Shahid Afridi,2006-03-22,1st,KC Sangakkara,12,,CK Kapugedera,47,Sri Lanka,Pakistan,88,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+124,20.2,1,Shahid Afridi,2006-03-22,1st,KC Sangakkara,12,,CK Kapugedera,48,Sri Lanka,Pakistan,89,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+125,20.3,1,Shahid Afridi,2006-03-22,1st,CK Kapugedera,48,,KC Sangakkara,13,Sri Lanka,Pakistan,90,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+126,20.4,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,48,Sri Lanka,Pakistan,90,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+127,20.5,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,48,Sri Lanka,Pakistan,90,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+128,20.6,1,Shahid Afridi,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,49,Sri Lanka,Pakistan,91,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+129,21.1,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,49,Sri Lanka,Pakistan,91,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+130,21.2,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,49,Sri Lanka,Pakistan,91,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+131,21.3,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,49,Sri Lanka,Pakistan,91,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+132,21.4,0,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,49,Sri Lanka,Pakistan,91,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+133,21.5,1,Iftikhar Anjum,2006-03-22,1st,KC Sangakkara,13,,CK Kapugedera,50,Sri Lanka,Pakistan,92,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+134,21.6,1,Iftikhar Anjum,2006-03-22,1st,CK Kapugedera,50,,KC Sangakkara,14,Sri Lanka,Pakistan,93,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+135,22.1,0,Shahid Afridi,2006-03-22,1st,CK Kapugedera,50,,KC Sangakkara,14,Sri Lanka,Pakistan,93,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+136,22.2,0,Shahid Afridi,2006-03-22,1st,CK Kapugedera,50,CK Kapugedera,KC Sangakkara,14,Sri Lanka,Pakistan,93,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+137,22.3,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,0,,KC Sangakkara,15,Sri Lanka,Pakistan,94,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+138,22.4,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,15,,DPMD Jayawardene,0,Sri Lanka,Pakistan,94,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+139,22.5,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,15,,DPMD Jayawardene,0,Sri Lanka,Pakistan,94,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+140,22.6,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,15,,DPMD Jayawardene,0,Sri Lanka,Pakistan,94,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+141,23.1,0,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,0,,KC Sangakkara,15,Sri Lanka,Pakistan,94,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+142,23.2,0,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,0,,KC Sangakkara,15,Sri Lanka,Pakistan,94,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+143,23.3,0,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,0,,KC Sangakkara,15,Sri Lanka,Pakistan,94,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+144,23.4,1,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,0,,KC Sangakkara,16,Sri Lanka,Pakistan,95,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+145,23.5,0,Mohammad Asif,2006-03-22,1st,KC Sangakkara,16,,DPMD Jayawardene,0,Sri Lanka,Pakistan,95,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+146,23.6,0,Mohammad Asif,2006-03-22,1st,KC Sangakkara,16,,DPMD Jayawardene,0,Sri Lanka,Pakistan,95,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+147,24.1,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,0,,KC Sangakkara,17,Sri Lanka,Pakistan,96,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+148,24.2,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,17,,DPMD Jayawardene,0,Sri Lanka,Pakistan,96,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+149,24.3,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,17,,DPMD Jayawardene,0,Sri Lanka,Pakistan,96,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+150,24.4,1,Shahid Afridi,2006-03-22,1st,KC Sangakkara,17,,DPMD Jayawardene,1,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+151,24.5,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,1,,KC Sangakkara,18,Sri Lanka,Pakistan,98,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+152,24.6,1,Shahid Afridi,2006-03-22,1st,KC Sangakkara,18,,DPMD Jayawardene,2,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+153,25.1,0,Mohammad Asif,2006-03-22,1st,KC Sangakkara,18,,DPMD Jayawardene,2,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+154,25.2,0,Mohammad Asif,2006-03-22,1st,KC Sangakkara,18,,DPMD Jayawardene,2,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+155,25.3,0,Mohammad Asif,2006-03-22,1st,KC Sangakkara,18,,DPMD Jayawardene,2,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+156,25.4,0,Mohammad Asif,2006-03-22,1st,KC Sangakkara,18,,DPMD Jayawardene,2,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+157,25.5,1,Mohammad Asif,2006-03-22,1st,KC Sangakkara,18,,DPMD Jayawardene,3,Sri Lanka,Pakistan,100,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+158,25.6,4,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,3,,KC Sangakkara,22,Sri Lanka,Pakistan,104,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+159,26.1,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,22,,DPMD Jayawardene,3,Sri Lanka,Pakistan,104,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+160,26.2,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,22,,DPMD Jayawardene,3,Sri Lanka,Pakistan,104,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+161,26.3,0,Shahid Afridi,2006-03-22,1st,KC Sangakkara,22,,DPMD Jayawardene,3,Sri Lanka,Pakistan,104,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+162,26.4,1,Shahid Afridi,2006-03-22,1st,KC Sangakkara,22,,DPMD Jayawardene,4,Sri Lanka,Pakistan,105,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+163,26.5,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,4,KC Sangakkara,KC Sangakkara,22,Sri Lanka,Pakistan,105,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+164,26.6,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,4,,KS Lokuarachchi,0,Sri Lanka,Pakistan,105,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+165,27.1,0,Mohammad Asif,2006-03-22,1st,KS Lokuarachchi,0,,DPMD Jayawardene,4,Sri Lanka,Pakistan,105,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+166,27.2,0,Mohammad Asif,2006-03-22,1st,KS Lokuarachchi,0,,DPMD Jayawardene,4,Sri Lanka,Pakistan,105,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+167,27.3,1,Mohammad Asif,2006-03-22,1st,KS Lokuarachchi,0,,DPMD Jayawardene,5,Sri Lanka,Pakistan,106,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+168,27.4,2,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,5,,KS Lokuarachchi,2,Sri Lanka,Pakistan,108,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+169,27.5,0,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,5,,KS Lokuarachchi,2,Sri Lanka,Pakistan,108,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+170,27.6,0,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,5,,KS Lokuarachchi,2,Sri Lanka,Pakistan,108,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+171,28.1,0,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,2,,DPMD Jayawardene,5,Sri Lanka,Pakistan,108,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+172,28.2,1,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,2,,DPMD Jayawardene,6,Sri Lanka,Pakistan,109,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+173,28.3,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,6,,KS Lokuarachchi,3,Sri Lanka,Pakistan,110,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+174,28.4,1,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,3,,DPMD Jayawardene,7,Sri Lanka,Pakistan,111,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+175,28.5,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,7,,KS Lokuarachchi,4,Sri Lanka,Pakistan,112,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+176,28.6,1,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,4,,DPMD Jayawardene,8,Sri Lanka,Pakistan,113,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+177,29.1,0,Mohammad Asif,2006-03-22,1st,KS Lokuarachchi,4,,DPMD Jayawardene,8,Sri Lanka,Pakistan,113,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+178,29.2,0,Mohammad Asif,2006-03-22,1st,KS Lokuarachchi,4,,DPMD Jayawardene,8,Sri Lanka,Pakistan,113,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+179,29.3,1,Mohammad Asif,2006-03-22,1st,KS Lokuarachchi,4,,DPMD Jayawardene,9,Sri Lanka,Pakistan,114,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+180,29.4,1,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,9,,KS Lokuarachchi,5,Sri Lanka,Pakistan,115,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+181,29.5,1,Mohammad Asif,2006-03-22,1st,KS Lokuarachchi,5,,DPMD Jayawardene,10,Sri Lanka,Pakistan,116,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+182,29.6,1,Mohammad Asif,2006-03-22,1st,DPMD Jayawardene,10,,KS Lokuarachchi,6,Sri Lanka,Pakistan,117,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+183,30.1,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,10,,KS Lokuarachchi,7,Sri Lanka,Pakistan,118,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+184,30.2,2,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,7,,DPMD Jayawardene,12,Sri Lanka,Pakistan,120,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+185,30.3,1,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,7,,DPMD Jayawardene,13,Sri Lanka,Pakistan,121,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+186,30.4,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,13,,KS Lokuarachchi,7,Sri Lanka,Pakistan,121,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+187,30.5,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,13,,KS Lokuarachchi,7,Sri Lanka,Pakistan,121,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+188,30.6,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,13,,KS Lokuarachchi,7,Sri Lanka,Pakistan,121,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+189,31.1,1,Abdul Razzaq,2006-03-22,1st,KS Lokuarachchi,7,,DPMD Jayawardene,14,Sri Lanka,Pakistan,122,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+190,31.2,1,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,14,,KS Lokuarachchi,8,Sri Lanka,Pakistan,123,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+191,31.3,1,Abdul Razzaq,2006-03-22,1st,KS Lokuarachchi,8,,DPMD Jayawardene,15,Sri Lanka,Pakistan,124,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+192,31.4,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,15,,KS Lokuarachchi,8,Sri Lanka,Pakistan,124,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+193,31.5,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,15,,KS Lokuarachchi,8,Sri Lanka,Pakistan,124,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+194,31.6,4,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,15,,KS Lokuarachchi,12,Sri Lanka,Pakistan,128,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+195,32.1,0,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,12,,DPMD Jayawardene,15,Sri Lanka,Pakistan,128,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+196,32.2,1,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,12,,DPMD Jayawardene,16,Sri Lanka,Pakistan,129,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+197,32.3,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,16,,KS Lokuarachchi,13,Sri Lanka,Pakistan,130,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+198,32.4,1,Shahid Afridi,2006-03-22,1st,KS Lokuarachchi,13,,DPMD Jayawardene,17,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+199,32.5,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,17,KS Lokuarachchi,KS Lokuarachchi,13,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+200,32.6,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,17,,RP Arnold,0,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+201,33.1,0,Abdul Razzaq,2006-03-22,1st,RP Arnold,0,,DPMD Jayawardene,17,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+202,33.2,0,Abdul Razzaq,2006-03-22,1st,RP Arnold,0,,DPMD Jayawardene,17,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+203,33.3,0,Abdul Razzaq,2006-03-22,1st,RP Arnold,0,,DPMD Jayawardene,17,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+204,33.4,0,Abdul Razzaq,2006-03-22,1st,RP Arnold,0,,DPMD Jayawardene,17,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+205,33.5,0,Abdul Razzaq,2006-03-22,1st,RP Arnold,0,,DPMD Jayawardene,17,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+206,33.6,2,Abdul Razzaq,2006-03-22,1st,RP Arnold,0,,DPMD Jayawardene,19,Sri Lanka,Pakistan,133,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+207,34.1,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,19,RP Arnold,RP Arnold,0,Sri Lanka,Pakistan,133,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+208,34.2,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,19,,TM Dilshan,1,Sri Lanka,Pakistan,134,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+209,34.3,2,Shahid Afridi,2006-03-22,1st,TM Dilshan,1,,DPMD Jayawardene,21,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+210,34.4,0,Shahid Afridi,2006-03-22,1st,TM Dilshan,1,,DPMD Jayawardene,21,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+211,34.5,0,Shahid Afridi,2006-03-22,1st,TM Dilshan,1,,DPMD Jayawardene,21,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+212,34.6,0,Shahid Afridi,2006-03-22,1st,TM Dilshan,1,,DPMD Jayawardene,21,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+213,35.1,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,21,,TM Dilshan,1,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+214,35.2,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,21,,TM Dilshan,1,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+215,35.3,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,21,,TM Dilshan,1,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+216,35.4,1,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,21,,TM Dilshan,2,Sri Lanka,Pakistan,137,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+217,35.5,4,Abdul Razzaq,2006-03-22,1st,TM Dilshan,2,,DPMD Jayawardene,25,Sri Lanka,Pakistan,141,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+218,35.6,0,Abdul Razzaq,2006-03-22,1st,TM Dilshan,2,,DPMD Jayawardene,25,Sri Lanka,Pakistan,141,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+219,36.1,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,25,,TM Dilshan,3,Sri Lanka,Pakistan,142,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+220,36.2,0,Shahid Afridi,2006-03-22,1st,TM Dilshan,3,,DPMD Jayawardene,25,Sri Lanka,Pakistan,142,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+221,36.3,2,Shahid Afridi,2006-03-22,1st,TM Dilshan,3,,DPMD Jayawardene,27,Sri Lanka,Pakistan,144,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+222,36.4,1,Shahid Afridi,2006-03-22,1st,TM Dilshan,3,,DPMD Jayawardene,28,Sri Lanka,Pakistan,145,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+223,36.5,2,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,5,Sri Lanka,Pakistan,147,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+224,36.6,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,6,Sri Lanka,Pakistan,148,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+225,37.1,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,6,Sri Lanka,Pakistan,148,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+226,37.2,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,6,Sri Lanka,Pakistan,148,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+227,37.3,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,6,Sri Lanka,Pakistan,148,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+228,37.4,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,6,Sri Lanka,Pakistan,148,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+229,37.5,1,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,7,Sri Lanka,Pakistan,149,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+230,37.6,0,Abdul Razzaq,2006-03-22,1st,TM Dilshan,7,,DPMD Jayawardene,28,Sri Lanka,Pakistan,149,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+231,38.1,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,28,,TM Dilshan,8,Sri Lanka,Pakistan,150,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+232,38.2,0,Shahid Afridi,2006-03-22,1st,TM Dilshan,8,,DPMD Jayawardene,28,Sri Lanka,Pakistan,150,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+233,38.3,1,Shahid Afridi,2006-03-22,1st,TM Dilshan,8,,DPMD Jayawardene,29,Sri Lanka,Pakistan,151,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+234,38.4,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,8,Sri Lanka,Pakistan,152,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+235,38.5,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,8,Sri Lanka,Pakistan,152,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+236,38.6,0,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,8,Sri Lanka,Pakistan,152,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+237,38.7,1,Shahid Afridi,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,9,Sri Lanka,Pakistan,153,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+238,39.1,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,9,Sri Lanka,Pakistan,153,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+239,39.2,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,9,Sri Lanka,Pakistan,153,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+240,39.3,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,9,Sri Lanka,Pakistan,153,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+241,39.4,0,Abdul Razzaq,2006-03-22,1st,DPMD Jayawardene,29,,TM Dilshan,9,Sri Lanka,Pakistan,154,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+242,39.5,0,Abdul Razzaq,2006-03-22,1st,TM Dilshan,9,,DPMD Jayawardene,29,Sri Lanka,Pakistan,154,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+243,39.6,2,Abdul Razzaq,2006-03-22,1st,TM Dilshan,9,,DPMD Jayawardene,31,Sri Lanka,Pakistan,156,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+244,40.1,0,Naved-ul-Hasan,2006-03-22,1st,DPMD Jayawardene,31,DPMD Jayawardene,TM Dilshan,9,Sri Lanka,Pakistan,156,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+245,40.2,0,Naved-ul-Hasan,2006-03-22,1st,TM Dilshan,9,,MF Maharoof,0,Sri Lanka,Pakistan,156,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+246,40.3,0,Naved-ul-Hasan,2006-03-22,1st,TM Dilshan,9,,MF Maharoof,0,Sri Lanka,Pakistan,156,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+247,40.4,0,Naved-ul-Hasan,2006-03-22,1st,TM Dilshan,9,,MF Maharoof,0,Sri Lanka,Pakistan,156,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+248,40.5,1,Naved-ul-Hasan,2006-03-22,1st,TM Dilshan,9,,MF Maharoof,1,Sri Lanka,Pakistan,157,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+249,40.6,1,Naved-ul-Hasan,2006-03-22,1st,MF Maharoof,1,,TM Dilshan,10,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+250,41.1,4,Iftikhar Anjum,2006-03-22,1st,MF Maharoof,1,,TM Dilshan,14,Sri Lanka,Pakistan,162,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+251,41.2,1,Iftikhar Anjum,2006-03-22,1st,MF Maharoof,1,,TM Dilshan,15,Sri Lanka,Pakistan,163,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+252,41.3,1,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,15,,MF Maharoof,2,Sri Lanka,Pakistan,164,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+253,41.4,1,Iftikhar Anjum,2006-03-22,1st,MF Maharoof,2,,TM Dilshan,16,Sri Lanka,Pakistan,165,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+254,41.5,0,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,16,,MF Maharoof,2,Sri Lanka,Pakistan,165,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+255,41.6,0,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,16,,MF Maharoof,2,Sri Lanka,Pakistan,165,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+256,42.1,0,Naved-ul-Hasan,2006-03-22,1st,MF Maharoof,2,,TM Dilshan,16,Sri Lanka,Pakistan,165,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+257,42.2,2,Naved-ul-Hasan,2006-03-22,1st,MF Maharoof,2,,TM Dilshan,18,Sri Lanka,Pakistan,167,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+258,42.3,2,Naved-ul-Hasan,2006-03-22,1st,MF Maharoof,2,,TM Dilshan,20,Sri Lanka,Pakistan,169,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+259,42.4,1,Naved-ul-Hasan,2006-03-22,1st,MF Maharoof,2,,TM Dilshan,21,Sri Lanka,Pakistan,170,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+260,42.5,4,Naved-ul-Hasan,2006-03-22,1st,TM Dilshan,21,,MF Maharoof,6,Sri Lanka,Pakistan,174,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+261,42.6,1,Naved-ul-Hasan,2006-03-22,1st,TM Dilshan,21,,MF Maharoof,7,Sri Lanka,Pakistan,175,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+262,43.1,0,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,21,,MF Maharoof,7,Sri Lanka,Pakistan,175,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+263,43.2,4,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,21,,MF Maharoof,11,Sri Lanka,Pakistan,179,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+264,43.3,4,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,21,,MF Maharoof,15,Sri Lanka,Pakistan,183,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+265,43.4,1,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,21,,MF Maharoof,16,Sri Lanka,Pakistan,184,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+266,43.5,1,Iftikhar Anjum,2006-03-22,1st,MF Maharoof,16,,TM Dilshan,22,Sri Lanka,Pakistan,185,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+267,43.6,1,Iftikhar Anjum,2006-03-22,1st,TM Dilshan,22,,MF Maharoof,17,Sri Lanka,Pakistan,186,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+268,44.1,1,Shoaib Malik,2006-03-22,1st,TM Dilshan,22,,MF Maharoof,18,Sri Lanka,Pakistan,187,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+269,44.2,4,Shoaib Malik,2006-03-22,1st,MF Maharoof,18,,TM Dilshan,26,Sri Lanka,Pakistan,191,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+270,44.3,1,Shoaib Malik,2006-03-22,1st,MF Maharoof,18,,TM Dilshan,27,Sri Lanka,Pakistan,192,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+271,44.4,0,Shoaib Malik,2006-03-22,1st,TM Dilshan,27,,MF Maharoof,18,Sri Lanka,Pakistan,192,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+272,44.5,0,Shoaib Malik,2006-03-22,1st,TM Dilshan,27,,MF Maharoof,18,Sri Lanka,Pakistan,192,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+273,44.6,1,Shoaib Malik,2006-03-22,1st,TM Dilshan,27,,MF Maharoof,19,Sri Lanka,Pakistan,193,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+274,45.1,0,Mohammad Asif,2006-03-22,1st,TM Dilshan,27,MF Maharoof,MF Maharoof,19,Sri Lanka,Pakistan,193,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+275,45.2,4,Mohammad Asif,2006-03-22,1st,KTGD Prasad,0,,TM Dilshan,31,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+276,45.3,0,Mohammad Asif,2006-03-22,1st,KTGD Prasad,0,,TM Dilshan,31,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+277,45.4,0,Mohammad Asif,2006-03-22,1st,KTGD Prasad,0,,TM Dilshan,31,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+278,45.5,2,Mohammad Asif,2006-03-22,1st,KTGD Prasad,0,,TM Dilshan,33,Sri Lanka,Pakistan,199,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+279,45.6,1,Mohammad Asif,2006-03-22,1st,KTGD Prasad,0,,TM Dilshan,34,Sri Lanka,Pakistan,200,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+280,46.1,1,Shoaib Malik,2006-03-22,1st,KTGD Prasad,0,,TM Dilshan,35,Sri Lanka,Pakistan,201,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+281,46.2,1,Shoaib Malik,2006-03-22,1st,TM Dilshan,35,,KTGD Prasad,1,Sri Lanka,Pakistan,202,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+282,46.3,1,Shoaib Malik,2006-03-22,1st,KTGD Prasad,1,,TM Dilshan,36,Sri Lanka,Pakistan,203,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+283,46.4,1,Shoaib Malik,2006-03-22,1st,TM Dilshan,36,,KTGD Prasad,2,Sri Lanka,Pakistan,204,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+284,46.5,1,Shoaib Malik,2006-03-22,1st,KTGD Prasad,2,,TM Dilshan,37,Sri Lanka,Pakistan,205,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+285,46.6,0,Shoaib Malik,2006-03-22,1st,TM Dilshan,37,,KTGD Prasad,2,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+286,47.1,1,Mohammad Asif,2006-03-22,1st,KTGD Prasad,2,,TM Dilshan,38,Sri Lanka,Pakistan,208,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+287,47.2,1,Mohammad Asif,2006-03-22,1st,TM Dilshan,38,,KTGD Prasad,3,Sri Lanka,Pakistan,209,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+288,47.3,1,Mohammad Asif,2006-03-22,1st,KTGD Prasad,3,,TM Dilshan,39,Sri Lanka,Pakistan,210,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+289,47.4,1,Mohammad Asif,2006-03-22,1st,TM Dilshan,39,,KTGD Prasad,4,Sri Lanka,Pakistan,211,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+290,47.5,4,Mohammad Asif,2006-03-22,1st,KTGD Prasad,4,,TM Dilshan,43,Sri Lanka,Pakistan,215,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+291,47.6,1,Mohammad Asif,2006-03-22,1st,KTGD Prasad,4,,TM Dilshan,44,Sri Lanka,Pakistan,216,Pakistan,Sinhalese Sports Club Ground,7,Pakistan
+292,48.1,0,Shoaib Malik,2006-03-22,1st,KTGD Prasad,4,TM Dilshan,TM Dilshan,44,Sri Lanka,Pakistan,216,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+293,48.2,1,Shoaib Malik,2006-03-22,1st,KTGD Prasad,4,,M Muralitharan,1,Sri Lanka,Pakistan,217,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+294,48.3,3,Shoaib Malik,2006-03-22,1st,M Muralitharan,1,,KTGD Prasad,7,Sri Lanka,Pakistan,220,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+295,48.4,1,Shoaib Malik,2006-03-22,1st,KTGD Prasad,7,,M Muralitharan,2,Sri Lanka,Pakistan,221,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+296,48.5,0,Shoaib Malik,2006-03-22,1st,M Muralitharan,2,,KTGD Prasad,7,Sri Lanka,Pakistan,221,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+297,48.6,0,Shoaib Malik,2006-03-22,1st,M Muralitharan,2,,KTGD Prasad,7,Sri Lanka,Pakistan,222,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+298,49.1,0,Naved-ul-Hasan,2006-03-22,1st,M Muralitharan,2,,KTGD Prasad,7,Sri Lanka,Pakistan,223,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+299,49.2,1,Naved-ul-Hasan,2006-03-22,1st,M Muralitharan,2,,KTGD Prasad,8,Sri Lanka,Pakistan,224,Pakistan,Sinhalese Sports Club Ground,8,Pakistan
+300,49.3,0,Naved-ul-Hasan,2006-03-22,1st,KTGD Prasad,8,M Muralitharan,M Muralitharan,2,Sri Lanka,Pakistan,224,Pakistan,Sinhalese Sports Club Ground,9,Pakistan
+301,49.4,0,Naved-ul-Hasan,2006-03-22,1st,SL Malinga,0,,KTGD Prasad,8,Sri Lanka,Pakistan,224,Pakistan,Sinhalese Sports Club Ground,9,Pakistan
+302,49.5,0,Naved-ul-Hasan,2006-03-22,1st,SL Malinga,0,KTGD Prasad,KTGD Prasad,8,Sri Lanka,Pakistan,224,Pakistan,Sinhalese Sports Club Ground,10,Pakistan
+303,0.1,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,0,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+304,0.2,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,4,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+305,0.3,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,4,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+306,0.4,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,4,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+307,0.5,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,4,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+308,0.6,1,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,5,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+309,1.1,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,5,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+310,1.2,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,5,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+311,1.3,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,5,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+312,1.4,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,5,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+313,1.5,4,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,9,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+314,1.6,4,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,13,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+315,2.1,0,SL Malinga,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,13,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+316,2.2,1,SL Malinga,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,14,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+317,2.3,4,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,18,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+318,2.4,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,18,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+319,2.5,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,18,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+320,2.6,4,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,22,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+321,3.1,0,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,22,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+322,3.2,0,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,22,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+323,3.3,0,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,22,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+324,3.4,1,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,23,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+325,3.5,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,23,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+326,3.6,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,23,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+327,4.1,0,KTGD Prasad,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,23,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+328,4.2,0,KTGD Prasad,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,24,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+329,4.3,4,KTGD Prasad,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,28,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+330,4.4,1,KTGD Prasad,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,29,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+331,4.5,4,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,33,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+332,4.6,0,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,33,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+333,4.7,3,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,36,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+334,5.1,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,36,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+335,5.2,1,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,37,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+336,5.3,0,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,37,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+337,5.4,0,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,37,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+338,5.5,2,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,39,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+339,5.6,0,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,39,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+340,6.1,0,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,39,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+341,6.2,0,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,39,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+342,6.3,4,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,43,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+343,6.4,2,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,45,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+344,6.5,0,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,45,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+345,6.6,0,KTGD Prasad,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,45,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+346,7.1,1,MF Maharoof,2006-03-22,2nd,Shoaib Malik,0,,Imran Farhat,0,Sri Lanka,Pakistan,46,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+347,7.2,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,46,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+348,7.3,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,46,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+349,7.4,0,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,46,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+350,7.5,4,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,50,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+351,7.6,1,MF Maharoof,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,51,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+352,8.1,4,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,55,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+353,8.2,4,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,59,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+354,8.3,2,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,0,Pakistan
+355,8.4,0,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Shoaib Malik,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+356,8.5,0,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+357,8.6,0,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+358,9.1,0,MF Maharoof,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,61,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+359,9.2,4,MF Maharoof,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,65,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+360,9.3,0,MF Maharoof,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,65,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+361,9.4,0,MF Maharoof,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,65,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+362,9.5,0,MF Maharoof,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,65,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+363,9.6,1,MF Maharoof,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,66,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+364,10.1,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,66,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+365,10.2,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,66,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+366,10.3,4,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,70,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+367,10.4,1,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,71,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+368,10.5,1,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,72,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+369,10.6,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,72,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+370,11.1,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,72,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+371,11.2,4,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,76,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+372,11.3,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,76,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+373,11.4,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,76,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+374,11.5,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,77,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+375,11.6,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,77,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+376,11.7,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,77,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+377,12.1,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,77,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+378,12.2,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,77,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+379,12.3,1,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,78,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+380,12.4,1,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,79,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+381,12.5,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,79,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+382,12.6,4,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,83,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+383,13.1,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,83,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+384,13.2,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,83,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+385,13.3,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,83,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+386,13.4,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,83,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+387,13.5,4,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,87,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+388,13.6,0,SL Malinga,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,87,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+389,14.1,4,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,91,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+390,14.2,1,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,92,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+391,14.3,1,M Muralitharan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,93,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+392,14.4,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,93,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+393,14.5,0,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,93,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+394,14.6,4,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+395,15.1,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+396,15.2,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+397,15.3,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+398,15.4,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+399,15.5,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+400,15.6,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+401,16.1,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,97,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+402,16.2,1,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,98,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+403,16.3,1,TM Dilshan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+404,16.4,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+405,16.5,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,99,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+406,16.6,1,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,100,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+407,17.1,0,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,100,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+408,17.2,1,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,101,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+409,17.3,2,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,103,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+410,17.4,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,103,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+411,17.5,1,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,104,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+412,17.6,4,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,108,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+413,18.1,1,TM Dilshan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,109,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+414,18.2,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,109,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+415,18.3,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,109,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+416,18.4,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,109,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+417,18.5,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,109,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+418,18.6,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,109,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+419,19.1,1,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,110,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+420,19.2,4,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,114,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+421,19.3,1,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,115,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+422,19.4,0,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,115,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+423,19.5,1,KS Lokuarachchi,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,116,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+424,19.6,0,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,116,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+425,20.1,1,TM Dilshan,2006-03-22,2nd,Imran Farhat,0,,Younis Khan,0,Sri Lanka,Pakistan,117,Pakistan,Sinhalese Sports Club Ground,1,Pakistan
+426,20.2,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Imran Farhat,0,Sri Lanka,Pakistan,117,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+427,20.3,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,117,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+428,20.4,2,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,119,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+429,20.5,1,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,120,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+430,20.6,1,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,121,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+431,21.1,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,121,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+432,21.2,1,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,122,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+433,21.3,0,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,122,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+434,21.4,4,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,126,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+435,21.5,0,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,126,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+436,21.6,1,KS Lokuarachchi,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,127,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+437,22.1,1,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,128,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+438,22.2,0,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,128,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+439,22.3,1,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,129,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+440,22.4,1,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,130,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+441,22.5,0,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,130,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+442,22.6,1,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+443,23.1,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+444,23.2,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+445,23.3,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,131,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+446,23.4,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,132,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+447,23.5,1,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,133,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+448,23.6,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,133,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+449,24.1,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,133,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+450,24.2,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,133,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+451,24.3,1,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,134,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+452,24.4,1,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,135,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+453,24.5,0,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,135,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+454,24.6,1,TM Dilshan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,136,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+455,25.1,1,M Muralitharan,2006-03-22,2nd,Younis Khan,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,137,Pakistan,Sinhalese Sports Club Ground,2,Pakistan
+456,25.2,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Younis Khan,0,Sri Lanka,Pakistan,137,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+457,25.3,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,137,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+458,25.4,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,138,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+459,25.5,0,M Muralitharan,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,138,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+460,25.6,0,M Muralitharan,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,138,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+461,26.1,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,138,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+462,26.2,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,138,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+463,26.3,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,138,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+464,26.4,1,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,139,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+465,26.5,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,139,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+466,26.6,1,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,140,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+467,27.1,0,M Muralitharan,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,140,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+468,27.2,0,M Muralitharan,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,140,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+469,27.3,1,M Muralitharan,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,141,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+470,27.4,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,142,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+471,27.5,1,M Muralitharan,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,143,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+472,27.6,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,144,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+473,28.1,2,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,146,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+474,28.2,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,146,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+475,28.3,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,146,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+476,28.4,1,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,147,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+477,28.5,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,147,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+478,28.6,1,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,148,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+479,29.1,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,148,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+480,29.2,1,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,149,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+481,29.3,0,KTGD Prasad,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,149,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+482,29.4,1,KTGD Prasad,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,150,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+483,29.5,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,150,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+484,29.6,2,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,152,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+485,30.1,1,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,153,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+486,30.2,4,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,157,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+487,30.3,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,157,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+488,30.4,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,157,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+489,30.5,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,157,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+490,30.6,1,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+491,31.1,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+492,31.2,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+493,31.3,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+494,31.4,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+495,31.5,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+496,31.6,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+497,32.1,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,158,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+498,32.2,1,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,159,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+499,32.3,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,159,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+500,32.4,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,159,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+501,32.5,0,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,159,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+502,32.6,1,KS Lokuarachchi,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,160,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+503,33.1,1,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,161,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+504,33.2,1,KTGD Prasad,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,162,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+505,33.3,4,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,166,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+506,33.4,4,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,170,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+507,33.5,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,170,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+508,33.6,0,KTGD Prasad,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,170,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+509,34.1,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,175,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+510,34.2,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,175,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+511,34.3,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,175,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+512,34.4,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,176,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+513,34.5,1,M Muralitharan,2006-03-22,2nd,Inzamam-ul-Haq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,177,Pakistan,Sinhalese Sports Club Ground,3,Pakistan
+514,34.6,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Inzamam-ul-Haq,0,Sri Lanka,Pakistan,177,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+515,34.7,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,178,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+516,35.1,1,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,179,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+517,35.2,1,TM Dilshan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,180,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+518,35.3,0,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,180,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+519,35.4,1,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,181,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+520,35.5,1,TM Dilshan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,182,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+521,35.6,0,TM Dilshan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,182,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+522,36.1,1,M Muralitharan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,183,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+523,36.2,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,183,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+524,36.3,0,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,183,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+525,36.4,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,184,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+526,36.5,0,M Muralitharan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,184,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+527,36.6,1,M Muralitharan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,185,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+528,37.1,0,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,186,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+529,37.2,0,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,186,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+530,37.3,1,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,187,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+531,37.4,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,187,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+532,37.5,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,187,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+533,37.6,2,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,189,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+534,37.7,1,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,190,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+535,38.1,4,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,194,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+536,38.2,1,M Muralitharan,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,195,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+537,38.3,2,M Muralitharan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+538,38.4,0,M Muralitharan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+539,38.5,0,M Muralitharan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+540,38.6,0,M Muralitharan,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+541,39.1,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+542,39.2,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+543,39.3,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+544,39.4,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+545,39.5,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,197,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+546,39.6,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,198,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+547,39.7,0,SL Malinga,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,198,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+548,40.1,0,KS Lokuarachchi,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,198,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+549,40.2,4,KS Lokuarachchi,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,202,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+550,40.3,0,KS Lokuarachchi,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,202,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+551,40.4,4,KS Lokuarachchi,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,206,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+552,40.5,1,KS Lokuarachchi,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+553,40.6,0,KS Lokuarachchi,2006-03-22,2nd,Mohammad Yousuf,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+554,41.1,0,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+555,41.2,0,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+556,41.3,0,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+557,41.4,0,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+558,41.5,0,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,4,Pakistan
+559,41.6,0,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Mohammad Yousuf,0,Sri Lanka,Pakistan,207,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+560,42.1,1,KS Lokuarachchi,2006-03-22,2nd,Shahid Afridi,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,208,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+561,42.2,1,KS Lokuarachchi,2006-03-22,2nd,Abdul Razzaq,0,,Shahid Afridi,0,Sri Lanka,Pakistan,209,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+562,42.3,0,KS Lokuarachchi,2006-03-22,2nd,Shahid Afridi,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,209,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+563,42.4,0,KS Lokuarachchi,2006-03-22,2nd,Shahid Afridi,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,209,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+564,42.5,1,KS Lokuarachchi,2006-03-22,2nd,Shahid Afridi,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,210,Pakistan,Sinhalese Sports Club Ground,5,Pakistan
+565,42.6,0,KS Lokuarachchi,2006-03-22,2nd,Abdul Razzaq,0,,Shahid Afridi,0,Sri Lanka,Pakistan,210,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+566,43.1,0,MF Maharoof,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,210,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+567,43.2,0,MF Maharoof,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,210,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+568,43.3,0,MF Maharoof,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,210,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+569,43.4,1,MF Maharoof,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,211,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+570,43.5,0,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Kamran Akmal,0,Sri Lanka,Pakistan,211,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+571,43.6,1,MF Maharoof,2006-03-22,2nd,Abdul Razzaq,0,,Kamran Akmal,0,Sri Lanka,Pakistan,213,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+572,43.7,1,MF Maharoof,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,214,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+573,44.1,1,SL Malinga,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,215,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+574,44.2,4,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Kamran Akmal,0,Sri Lanka,Pakistan,219,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+575,44.3,0,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Kamran Akmal,0,Sri Lanka,Pakistan,219,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+576,44.4,0,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Kamran Akmal,0,Sri Lanka,Pakistan,219,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+577,44.5,4,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Kamran Akmal,0,Sri Lanka,Pakistan,223,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+578,44.6,0,SL Malinga,2006-03-22,2nd,Abdul Razzaq,0,,Kamran Akmal,0,Sri Lanka,Pakistan,223,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+579,45.1,0,MF Maharoof,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,223,Pakistan,Sinhalese Sports Club Ground,6,Pakistan
+580,45.2,6,MF Maharoof,2006-03-22,2nd,Kamran Akmal,0,,Abdul Razzaq,0,Sri Lanka,Pakistan,229,Pakistan,Sinhalese Sports Club Ground,6,Pakistan

@@ -1,0 +1,592 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Sri Lanka,0,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+1,0.2,3,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,0,,Tamim Iqbal,3,Bangladesh,Sri Lanka,3,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+2,0.3,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,3,,Imrul Kayes,0,Bangladesh,Sri Lanka,3,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+3,0.4,4,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,3,,Imrul Kayes,4,Bangladesh,Sri Lanka,7,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+4,0.5,1,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,3,,Imrul Kayes,5,Bangladesh,Sri Lanka,8,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+5,0.6,1,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,5,,Tamim Iqbal,4,Bangladesh,Sri Lanka,9,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+6,1.1,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,5,,Tamim Iqbal,4,Bangladesh,Sri Lanka,10,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+7,1.2,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,5,,Tamim Iqbal,4,Bangladesh,Sri Lanka,10,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+8,1.3,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,5,,Tamim Iqbal,4,Bangladesh,Sri Lanka,10,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+9,1.4,1,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,5,,Tamim Iqbal,5,Bangladesh,Sri Lanka,11,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+10,1.5,0,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,5,,Imrul Kayes,5,Bangladesh,Sri Lanka,11,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+11,1.6,1,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,5,,Imrul Kayes,6,Bangladesh,Sri Lanka,12,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+12,1.7,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,6,,Tamim Iqbal,5,Bangladesh,Sri Lanka,12,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+13,2.1,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,5,,Imrul Kayes,6,Bangladesh,Sri Lanka,12,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+14,2.2,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,5,,Imrul Kayes,6,Bangladesh,Sri Lanka,12,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+15,2.3,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,5,,Imrul Kayes,6,Bangladesh,Sri Lanka,12,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+16,2.4,2,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,5,,Imrul Kayes,8,Bangladesh,Sri Lanka,14,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+17,2.5,1,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,5,,Imrul Kayes,9,Bangladesh,Sri Lanka,15,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+18,2.6,1,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,9,,Tamim Iqbal,6,Bangladesh,Sri Lanka,16,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+19,3.1,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,9,,Tamim Iqbal,6,Bangladesh,Sri Lanka,16,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+20,3.2,1,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,9,,Tamim Iqbal,7,Bangladesh,Sri Lanka,17,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+21,3.3,0,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,9,Bangladesh,Sri Lanka,17,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+22,3.4,0,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,9,Bangladesh,Sri Lanka,17,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+23,3.5,4,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,13,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+24,3.6,0,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,13,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+25,4.1,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,13,,Tamim Iqbal,7,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+26,4.2,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,13,,Tamim Iqbal,7,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+27,4.3,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,13,,Tamim Iqbal,7,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+28,4.4,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,13,,Tamim Iqbal,7,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+29,4.5,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,13,,Tamim Iqbal,7,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+30,4.6,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,13,,Tamim Iqbal,7,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+31,5.1,0,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,13,Bangladesh,Sri Lanka,21,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+32,5.2,2,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,15,Bangladesh,Sri Lanka,23,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+33,5.3,0,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,15,Bangladesh,Sri Lanka,23,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+34,5.4,1,UWMBCA Welegedara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,16,Bangladesh,Sri Lanka,24,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+35,5.5,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,16,,Tamim Iqbal,7,Bangladesh,Sri Lanka,24,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+36,5.6,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,16,,Tamim Iqbal,7,Bangladesh,Sri Lanka,24,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+37,6.1,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,16,Bangladesh,Sri Lanka,24,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+38,6.2,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,16,Bangladesh,Sri Lanka,26,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+39,6.3,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,16,Bangladesh,Sri Lanka,26,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+40,6.4,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,16,Bangladesh,Sri Lanka,26,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+41,6.5,2,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,18,Bangladesh,Sri Lanka,28,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+42,6.6,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,7,,Imrul Kayes,18,Bangladesh,Sri Lanka,28,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+43,7.1,4,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,18,,Tamim Iqbal,11,Bangladesh,Sri Lanka,32,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+44,7.2,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,18,,Tamim Iqbal,11,Bangladesh,Sri Lanka,32,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+45,7.3,0,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,18,,Tamim Iqbal,11,Bangladesh,Sri Lanka,32,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+46,7.4,4,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,18,,Tamim Iqbal,15,Bangladesh,Sri Lanka,36,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+47,7.5,4,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,18,,Tamim Iqbal,19,Bangladesh,Sri Lanka,40,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+48,7.6,4,UWMBCA Welegedara,2010-01-04,1st,Imrul Kayes,18,,Tamim Iqbal,23,Bangladesh,Sri Lanka,44,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+49,8.1,1,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,23,,Imrul Kayes,19,Bangladesh,Sri Lanka,45,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+50,8.2,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,19,,Tamim Iqbal,23,Bangladesh,Sri Lanka,45,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+51,8.3,1,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,19,,Tamim Iqbal,24,Bangladesh,Sri Lanka,46,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+52,8.4,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,24,,Imrul Kayes,19,Bangladesh,Sri Lanka,46,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+53,8.5,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,24,,Imrul Kayes,19,Bangladesh,Sri Lanka,46,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+54,8.6,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,24,,Imrul Kayes,19,Bangladesh,Sri Lanka,46,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+55,9.1,1,TM Dilshan,2010-01-04,1st,Imrul Kayes,19,,Tamim Iqbal,25,Bangladesh,Sri Lanka,47,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+56,9.2,1,TM Dilshan,2010-01-04,1st,Tamim Iqbal,25,,Imrul Kayes,20,Bangladesh,Sri Lanka,48,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+57,9.3,0,TM Dilshan,2010-01-04,1st,Imrul Kayes,20,,Tamim Iqbal,25,Bangladesh,Sri Lanka,48,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+58,9.4,0,TM Dilshan,2010-01-04,1st,Imrul Kayes,20,,Tamim Iqbal,25,Bangladesh,Sri Lanka,48,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+59,9.5,1,TM Dilshan,2010-01-04,1st,Imrul Kayes,20,,Tamim Iqbal,26,Bangladesh,Sri Lanka,49,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+60,9.6,0,TM Dilshan,2010-01-04,1st,Tamim Iqbal,26,,Imrul Kayes,20,Bangladesh,Sri Lanka,49,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+61,10.1,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,20,,Tamim Iqbal,26,Bangladesh,Sri Lanka,49,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+62,10.2,1,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,20,,Tamim Iqbal,27,Bangladesh,Sri Lanka,50,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+63,10.3,1,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,27,,Imrul Kayes,21,Bangladesh,Sri Lanka,51,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+64,10.4,1,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,21,,Tamim Iqbal,28,Bangladesh,Sri Lanka,52,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+65,10.5,1,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,28,,Imrul Kayes,22,Bangladesh,Sri Lanka,53,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+66,10.6,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,22,,Tamim Iqbal,28,Bangladesh,Sri Lanka,53,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+67,11.1,1,TM Dilshan,2010-01-04,1st,Tamim Iqbal,28,,Imrul Kayes,23,Bangladesh,Sri Lanka,54,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+68,11.2,0,TM Dilshan,2010-01-04,1st,Imrul Kayes,23,,Tamim Iqbal,28,Bangladesh,Sri Lanka,54,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+69,11.3,1,TM Dilshan,2010-01-04,1st,Imrul Kayes,23,,Tamim Iqbal,29,Bangladesh,Sri Lanka,55,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+70,11.4,0,TM Dilshan,2010-01-04,1st,Tamim Iqbal,29,,Imrul Kayes,23,Bangladesh,Sri Lanka,60,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+71,11.5,0,TM Dilshan,2010-01-04,1st,Tamim Iqbal,29,,Imrul Kayes,23,Bangladesh,Sri Lanka,60,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+72,11.6,0,TM Dilshan,2010-01-04,1st,Tamim Iqbal,29,,Imrul Kayes,23,Bangladesh,Sri Lanka,60,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+73,11.7,0,TM Dilshan,2010-01-04,1st,Tamim Iqbal,29,,Imrul Kayes,23,Bangladesh,Sri Lanka,60,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+74,12.1,2,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,23,,Tamim Iqbal,31,Bangladesh,Sri Lanka,62,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+75,12.2,0,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,23,,Tamim Iqbal,31,Bangladesh,Sri Lanka,62,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+76,12.3,2,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,23,,Tamim Iqbal,33,Bangladesh,Sri Lanka,64,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+77,12.4,1,KMDN Kulasekara,2010-01-04,1st,Imrul Kayes,23,,Tamim Iqbal,34,Bangladesh,Sri Lanka,65,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+78,12.5,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,34,Imrul Kayes,Imrul Kayes,23,Bangladesh,Sri Lanka,65,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+79,12.6,0,KMDN Kulasekara,2010-01-04,1st,Tamim Iqbal,34,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,65,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+80,13.1,0,TM Dilshan,2010-01-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,34,Bangladesh,Sri Lanka,65,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+81,13.2,0,TM Dilshan,2010-01-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,34,Bangladesh,Sri Lanka,65,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+82,13.3,0,TM Dilshan,2010-01-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,34,Bangladesh,Sri Lanka,65,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+83,13.4,2,TM Dilshan,2010-01-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,36,Bangladesh,Sri Lanka,67,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+84,13.5,4,TM Dilshan,2010-01-04,1st,Mohammad Ashraful,0,,Tamim Iqbal,40,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+85,13.6,0,TM Dilshan,2010-01-04,1st,Mohammad Ashraful,0,Tamim Iqbal,Tamim Iqbal,40,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+86,14.1,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+87,14.2,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+88,14.3,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+89,14.4,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+90,14.5,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+91,14.6,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,0,Raqibul Hasan,Raqibul Hasan,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+92,15.1,0,UWMBCA Welegedara,2010-01-04,1st,Shakib Al Hasan,0,,Mohammad Ashraful,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+93,15.2,1,UWMBCA Welegedara,2010-01-04,1st,Shakib Al Hasan,0,,Mohammad Ashraful,1,Bangladesh,Sri Lanka,72,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+94,15.3,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,1,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,72,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+95,15.4,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,1,,Shakib Al Hasan,0,Bangladesh,Sri Lanka,72,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+96,15.5,1,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,1,,Shakib Al Hasan,1,Bangladesh,Sri Lanka,73,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+97,15.6,0,UWMBCA Welegedara,2010-01-04,1st,Shakib Al Hasan,1,,Mohammad Ashraful,1,Bangladesh,Sri Lanka,73,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+98,16.1,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,1,,Shakib Al Hasan,1,Bangladesh,Sri Lanka,73,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+99,16.2,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,1,,Shakib Al Hasan,1,Bangladesh,Sri Lanka,74,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+100,16.3,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,1,,Shakib Al Hasan,1,Bangladesh,Sri Lanka,74,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+101,16.4,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,1,,Shakib Al Hasan,1,Bangladesh,Sri Lanka,74,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+102,16.5,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,1,Shakib Al Hasan,Shakib Al Hasan,1,Bangladesh,Sri Lanka,74,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+103,16.6,1,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,1,,Mushfiqur Rahim,1,Bangladesh,Sri Lanka,75,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+104,16.7,0,RAS Lakmal,2010-01-04,1st,Mushfiqur Rahim,1,,Mohammad Ashraful,1,Bangladesh,Sri Lanka,76,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+105,16.8,0,RAS Lakmal,2010-01-04,1st,Mushfiqur Rahim,1,,Mohammad Ashraful,1,Bangladesh,Sri Lanka,76,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+106,17.1,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,1,,Mushfiqur Rahim,1,Bangladesh,Sri Lanka,76,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+107,17.2,1,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,1,,Mushfiqur Rahim,2,Bangladesh,Sri Lanka,77,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+108,17.3,1,UWMBCA Welegedara,2010-01-04,1st,Mushfiqur Rahim,2,,Mohammad Ashraful,2,Bangladesh,Sri Lanka,78,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+109,17.4,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,2,Bangladesh,Sri Lanka,78,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+110,17.5,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,2,Bangladesh,Sri Lanka,78,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+111,17.6,1,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,3,Bangladesh,Sri Lanka,79,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+112,18.1,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,3,Bangladesh,Sri Lanka,79,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+113,18.2,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,3,Bangladesh,Sri Lanka,79,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+114,18.3,4,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,7,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+115,18.4,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,7,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+116,18.5,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,7,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+117,18.6,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,2,,Mushfiqur Rahim,7,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+118,19.1,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,7,,Mohammad Ashraful,3,Bangladesh,Sri Lanka,84,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+119,19.2,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,7,Bangladesh,Sri Lanka,84,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+120,19.3,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,7,Bangladesh,Sri Lanka,84,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+121,19.4,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,8,Bangladesh,Sri Lanka,85,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+122,19.5,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,8,,Mohammad Ashraful,3,Bangladesh,Sri Lanka,85,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+123,19.6,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,8,,Mohammad Ashraful,3,Bangladesh,Sri Lanka,85,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+124,20.1,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,8,Bangladesh,Sri Lanka,85,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+125,20.2,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,8,Bangladesh,Sri Lanka,85,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+126,20.3,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,8,Bangladesh,Sri Lanka,85,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+127,20.4,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,8,Bangladesh,Sri Lanka,85,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+128,20.5,4,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,12,Bangladesh,Sri Lanka,89,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+129,20.6,1,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,13,Bangladesh,Sri Lanka,90,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+130,21.1,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,13,Bangladesh,Sri Lanka,90,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+131,21.2,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,13,Bangladesh,Sri Lanka,90,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+132,21.3,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,13,Bangladesh,Sri Lanka,90,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+133,21.4,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,13,Bangladesh,Sri Lanka,91,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+134,21.5,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,13,Bangladesh,Sri Lanka,91,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+135,21.6,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,14,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+136,21.7,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,14,,Mohammad Ashraful,3,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+137,22.1,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,14,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+138,22.2,4,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,18,Bangladesh,Sri Lanka,96,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+139,22.3,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,18,Bangladesh,Sri Lanka,96,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+140,22.4,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,18,Bangladesh,Sri Lanka,97,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+141,22.5,1,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,3,,Mushfiqur Rahim,19,Bangladesh,Sri Lanka,98,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+142,22.6,0,RAS Lakmal,2010-01-04,1st,Mushfiqur Rahim,19,,Mohammad Ashraful,3,Bangladesh,Sri Lanka,98,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+143,22.7,1,RAS Lakmal,2010-01-04,1st,Mushfiqur Rahim,19,,Mohammad Ashraful,4,Bangladesh,Sri Lanka,99,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+144,23.1,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,19,,Mohammad Ashraful,4,Bangladesh,Sri Lanka,99,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+145,23.2,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,19,,Mohammad Ashraful,5,Bangladesh,Sri Lanka,100,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+146,23.3,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,5,,Mushfiqur Rahim,19,Bangladesh,Sri Lanka,100,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+147,23.4,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,5,,Mushfiqur Rahim,20,Bangladesh,Sri Lanka,101,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+148,23.5,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,20,,Mohammad Ashraful,6,Bangladesh,Sri Lanka,102,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+149,23.6,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,6,,Mushfiqur Rahim,21,Bangladesh,Sri Lanka,103,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+150,24.1,0,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,6,,Mushfiqur Rahim,21,Bangladesh,Sri Lanka,103,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+151,24.2,1,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,6,,Mushfiqur Rahim,22,Bangladesh,Sri Lanka,104,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+152,24.3,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,22,,Mohammad Ashraful,6,Bangladesh,Sri Lanka,104,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+153,24.4,1,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,22,,Mohammad Ashraful,7,Bangladesh,Sri Lanka,105,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+154,24.5,0,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,7,,Mushfiqur Rahim,22,Bangladesh,Sri Lanka,105,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+155,24.6,3,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,7,,Mushfiqur Rahim,25,Bangladesh,Sri Lanka,108,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+156,25.1,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,7,,Mushfiqur Rahim,26,Bangladesh,Sri Lanka,109,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+157,25.2,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,7,Bangladesh,Sri Lanka,109,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+158,25.3,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,7,Bangladesh,Sri Lanka,109,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+159,25.4,2,S Randiv,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,9,Bangladesh,Sri Lanka,111,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+160,25.5,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,9,Bangladesh,Sri Lanka,111,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+161,25.6,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,10,Bangladesh,Sri Lanka,112,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+162,26.1,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,10,Bangladesh,Sri Lanka,112,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+163,26.2,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,10,Bangladesh,Sri Lanka,112,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+164,26.3,1,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,26,,Mohammad Ashraful,11,Bangladesh,Sri Lanka,113,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+165,26.4,1,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,11,,Mushfiqur Rahim,27,Bangladesh,Sri Lanka,114,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+166,26.5,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,27,,Mohammad Ashraful,11,Bangladesh,Sri Lanka,114,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+167,26.6,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,27,,Mohammad Ashraful,11,Bangladesh,Sri Lanka,114,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+168,27.1,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,11,,Mushfiqur Rahim,27,Bangladesh,Sri Lanka,114,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+169,27.2,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,11,,Mushfiqur Rahim,27,Bangladesh,Sri Lanka,114,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+170,27.3,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,11,,Mushfiqur Rahim,28,Bangladesh,Sri Lanka,115,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+171,27.4,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,28,,Mohammad Ashraful,12,Bangladesh,Sri Lanka,116,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+172,27.5,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,12,,Mushfiqur Rahim,29,Bangladesh,Sri Lanka,117,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+173,27.6,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,29,,Mohammad Ashraful,12,Bangladesh,Sri Lanka,117,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+174,28.1,2,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,12,,Mushfiqur Rahim,31,Bangladesh,Sri Lanka,119,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+175,28.2,1,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,12,,Mushfiqur Rahim,32,Bangladesh,Sri Lanka,120,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+176,28.3,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,32,,Mohammad Ashraful,12,Bangladesh,Sri Lanka,120,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+177,28.4,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,32,,Mohammad Ashraful,12,Bangladesh,Sri Lanka,120,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+178,28.5,1,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,32,,Mohammad Ashraful,13,Bangladesh,Sri Lanka,121,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+179,28.6,0,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,13,,Mushfiqur Rahim,32,Bangladesh,Sri Lanka,121,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+180,29.1,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,32,,Mohammad Ashraful,14,Bangladesh,Sri Lanka,122,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+181,29.2,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,14,,Mushfiqur Rahim,33,Bangladesh,Sri Lanka,123,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+182,29.3,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,33,,Mohammad Ashraful,14,Bangladesh,Sri Lanka,123,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+183,29.4,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,33,,Mohammad Ashraful,15,Bangladesh,Sri Lanka,124,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+184,29.5,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,15,,Mushfiqur Rahim,33,Bangladesh,Sri Lanka,124,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+185,29.6,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,15,,Mushfiqur Rahim,33,Bangladesh,Sri Lanka,124,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+186,30.1,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,33,,Mohammad Ashraful,15,Bangladesh,Sri Lanka,124,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+187,30.2,4,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,33,,Mohammad Ashraful,19,Bangladesh,Sri Lanka,128,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+188,30.3,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,33,,Mohammad Ashraful,19,Bangladesh,Sri Lanka,128,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+189,30.4,0,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,33,,Mohammad Ashraful,19,Bangladesh,Sri Lanka,128,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+190,30.5,1,SHT Kandamby,2010-01-04,1st,Mushfiqur Rahim,33,,Mohammad Ashraful,20,Bangladesh,Sri Lanka,129,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+191,30.6,1,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,20,,Mushfiqur Rahim,34,Bangladesh,Sri Lanka,130,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+192,31.1,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,20,,Mushfiqur Rahim,35,Bangladesh,Sri Lanka,131,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+193,31.2,0,S Randiv,2010-01-04,1st,Mushfiqur Rahim,35,,Mohammad Ashraful,20,Bangladesh,Sri Lanka,131,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+194,31.3,1,S Randiv,2010-01-04,1st,Mushfiqur Rahim,35,,Mohammad Ashraful,21,Bangladesh,Sri Lanka,132,Sri Lanka,Shere Bangla National Stadium,4,Sri Lanka
+195,31.4,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,21,Mushfiqur Rahim,Mushfiqur Rahim,35,Bangladesh,Sri Lanka,132,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+196,31.5,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,21,,Mahmudullah,0,Bangladesh,Sri Lanka,132,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+197,31.6,2,S Randiv,2010-01-04,1st,Mohammad Ashraful,21,,Mahmudullah,2,Bangladesh,Sri Lanka,134,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+198,32.1,1,SHT Kandamby,2010-01-04,1st,Mahmudullah,2,,Mohammad Ashraful,22,Bangladesh,Sri Lanka,135,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+199,32.2,0,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,22,,Mahmudullah,2,Bangladesh,Sri Lanka,135,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+200,32.3,0,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,22,,Mahmudullah,2,Bangladesh,Sri Lanka,135,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+201,32.4,1,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,22,,Mahmudullah,3,Bangladesh,Sri Lanka,136,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+202,32.5,1,SHT Kandamby,2010-01-04,1st,Mahmudullah,3,,Mohammad Ashraful,23,Bangladesh,Sri Lanka,137,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+203,32.6,1,SHT Kandamby,2010-01-04,1st,Mohammad Ashraful,23,,Mahmudullah,4,Bangladesh,Sri Lanka,138,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+204,33.1,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,23,,Mahmudullah,5,Bangladesh,Sri Lanka,139,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+205,33.2,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,5,,Mohammad Ashraful,24,Bangladesh,Sri Lanka,140,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+206,33.3,0,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,24,,Mahmudullah,5,Bangladesh,Sri Lanka,140,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+207,33.4,0,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,24,,Mahmudullah,5,Bangladesh,Sri Lanka,140,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+208,33.5,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,24,,Mahmudullah,6,Bangladesh,Sri Lanka,141,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+209,33.6,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,6,,Mohammad Ashraful,25,Bangladesh,Sri Lanka,142,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+210,34.1,1,RAS Lakmal,2010-01-04,1st,Mahmudullah,6,,Mohammad Ashraful,26,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+211,34.2,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,26,,Mahmudullah,6,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+212,34.3,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,26,,Mahmudullah,6,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+213,34.4,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,26,,Mahmudullah,6,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+214,34.5,4,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,26,,Mahmudullah,10,Bangladesh,Sri Lanka,147,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+215,34.6,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,26,,Mahmudullah,10,Bangladesh,Sri Lanka,147,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+216,35.1,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,10,,Mohammad Ashraful,26,Bangladesh,Sri Lanka,147,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+217,35.2,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,10,,Mohammad Ashraful,26,Bangladesh,Sri Lanka,147,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+218,35.3,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,10,,Mohammad Ashraful,27,Bangladesh,Sri Lanka,148,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+219,35.4,0,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,27,,Mahmudullah,10,Bangladesh,Sri Lanka,148,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+220,35.5,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,27,,Mahmudullah,11,Bangladesh,Sri Lanka,149,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+221,35.6,2,M Pushpakumara,2010-01-04,1st,Mahmudullah,11,,Mohammad Ashraful,29,Bangladesh,Sri Lanka,151,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+222,36.1,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,29,,Mahmudullah,11,Bangladesh,Sri Lanka,151,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+223,36.2,1,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,29,,Mahmudullah,12,Bangladesh,Sri Lanka,152,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+224,36.3,0,RAS Lakmal,2010-01-04,1st,Mahmudullah,12,,Mohammad Ashraful,29,Bangladesh,Sri Lanka,152,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+225,36.4,0,RAS Lakmal,2010-01-04,1st,Mahmudullah,12,,Mohammad Ashraful,29,Bangladesh,Sri Lanka,152,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+226,36.5,1,RAS Lakmal,2010-01-04,1st,Mahmudullah,12,,Mohammad Ashraful,30,Bangladesh,Sri Lanka,153,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+227,36.6,0,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,30,,Mahmudullah,12,Bangladesh,Sri Lanka,154,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+228,36.7,1,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,30,,Mahmudullah,13,Bangladesh,Sri Lanka,155,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+229,37.1,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,30,,Mahmudullah,14,Bangladesh,Sri Lanka,156,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+230,37.2,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,14,,Mohammad Ashraful,30,Bangladesh,Sri Lanka,156,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+231,37.3,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,14,,Mohammad Ashraful,30,Bangladesh,Sri Lanka,156,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+232,37.4,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,14,,Mohammad Ashraful,30,Bangladesh,Sri Lanka,156,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+233,37.5,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,14,,Mohammad Ashraful,31,Bangladesh,Sri Lanka,157,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+234,37.6,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,31,,Mahmudullah,15,Bangladesh,Sri Lanka,158,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+235,38.1,1,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,31,,Mahmudullah,16,Bangladesh,Sri Lanka,159,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+236,38.2,0,UWMBCA Welegedara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,31,Bangladesh,Sri Lanka,159,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+237,38.3,0,UWMBCA Welegedara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,31,Bangladesh,Sri Lanka,159,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+238,38.4,0,UWMBCA Welegedara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,31,Bangladesh,Sri Lanka,159,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+239,38.5,2,UWMBCA Welegedara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,33,Bangladesh,Sri Lanka,161,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+240,38.6,1,UWMBCA Welegedara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,34,Bangladesh,Sri Lanka,162,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+241,39.1,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,34,Bangladesh,Sri Lanka,163,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+242,39.2,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,34,Bangladesh,Sri Lanka,163,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+243,39.3,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,16,,Mohammad Ashraful,35,Bangladesh,Sri Lanka,164,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+244,39.4,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,35,,Mahmudullah,17,Bangladesh,Sri Lanka,165,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+245,39.5,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,17,,Mohammad Ashraful,36,Bangladesh,Sri Lanka,166,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+246,39.6,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,36,,Mahmudullah,18,Bangladesh,Sri Lanka,167,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+247,39.7,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,18,,Mohammad Ashraful,37,Bangladesh,Sri Lanka,168,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+248,40.1,1,UWMBCA Welegedara,2010-01-04,1st,Mahmudullah,18,,Mohammad Ashraful,38,Bangladesh,Sri Lanka,169,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+249,40.2,1,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,38,,Mahmudullah,19,Bangladesh,Sri Lanka,170,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+250,40.3,1,UWMBCA Welegedara,2010-01-04,1st,Mahmudullah,19,,Mohammad Ashraful,39,Bangladesh,Sri Lanka,171,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+251,40.4,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,39,,Mahmudullah,19,Bangladesh,Sri Lanka,171,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+252,40.5,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,39,,Mahmudullah,19,Bangladesh,Sri Lanka,171,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+253,40.6,0,UWMBCA Welegedara,2010-01-04,1st,Mohammad Ashraful,39,,Mahmudullah,19,Bangladesh,Sri Lanka,171,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+254,41.1,1,S Randiv,2010-01-04,1st,Mahmudullah,19,,Mohammad Ashraful,40,Bangladesh,Sri Lanka,172,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+255,41.2,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,40,,Mahmudullah,19,Bangladesh,Sri Lanka,172,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+256,41.3,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,40,,Mahmudullah,20,Bangladesh,Sri Lanka,173,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+257,41.4,4,S Randiv,2010-01-04,1st,Mahmudullah,20,,Mohammad Ashraful,44,Bangladesh,Sri Lanka,177,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+258,41.5,1,S Randiv,2010-01-04,1st,Mahmudullah,20,,Mohammad Ashraful,45,Bangladesh,Sri Lanka,178,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+259,41.6,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,45,,Mahmudullah,20,Bangladesh,Sri Lanka,178,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+260,42.1,2,M Pushpakumara,2010-01-04,1st,Mahmudullah,20,,Mohammad Ashraful,47,Bangladesh,Sri Lanka,180,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+261,42.2,0,M Pushpakumara,2010-01-04,1st,Mahmudullah,20,,Mohammad Ashraful,47,Bangladesh,Sri Lanka,180,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+262,42.3,1,M Pushpakumara,2010-01-04,1st,Mahmudullah,20,,Mohammad Ashraful,48,Bangladesh,Sri Lanka,181,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+263,42.4,0,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,48,,Mahmudullah,20,Bangladesh,Sri Lanka,181,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+264,42.5,0,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,48,,Mahmudullah,20,Bangladesh,Sri Lanka,181,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+265,42.6,1,M Pushpakumara,2010-01-04,1st,Mohammad Ashraful,48,,Mahmudullah,21,Bangladesh,Sri Lanka,182,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+266,43.1,1,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,48,,Mahmudullah,22,Bangladesh,Sri Lanka,183,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+267,43.2,0,RAS Lakmal,2010-01-04,1st,Mahmudullah,22,,Mohammad Ashraful,48,Bangladesh,Sri Lanka,183,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+268,43.3,4,RAS Lakmal,2010-01-04,1st,Mahmudullah,22,,Mohammad Ashraful,52,Bangladesh,Sri Lanka,187,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+269,43.4,0,RAS Lakmal,2010-01-04,1st,Mahmudullah,22,,Mohammad Ashraful,52,Bangladesh,Sri Lanka,188,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+270,43.5,4,RAS Lakmal,2010-01-04,1st,Mahmudullah,22,,Mohammad Ashraful,56,Bangladesh,Sri Lanka,192,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+271,43.6,1,RAS Lakmal,2010-01-04,1st,Mahmudullah,22,,Mohammad Ashraful,57,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+272,43.7,4,RAS Lakmal,2010-01-04,1st,Mohammad Ashraful,57,,Mahmudullah,26,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+273,44.1,1,KMDN Kulasekara,2010-01-04,1st,Mahmudullah,26,,Mohammad Ashraful,58,Bangladesh,Sri Lanka,198,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+274,44.2,1,KMDN Kulasekara,2010-01-04,1st,Mohammad Ashraful,58,,Mahmudullah,27,Bangladesh,Sri Lanka,199,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+275,44.3,1,KMDN Kulasekara,2010-01-04,1st,Mahmudullah,27,,Mohammad Ashraful,59,Bangladesh,Sri Lanka,200,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+276,44.4,2,KMDN Kulasekara,2010-01-04,1st,Mohammad Ashraful,59,,Mahmudullah,29,Bangladesh,Sri Lanka,202,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+277,44.5,0,KMDN Kulasekara,2010-01-04,1st,Mohammad Ashraful,59,,Mahmudullah,29,Bangladesh,Sri Lanka,203,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+278,44.6,1,KMDN Kulasekara,2010-01-04,1st,Mohammad Ashraful,59,,Mahmudullah,30,Bangladesh,Sri Lanka,204,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+279,44.7,1,KMDN Kulasekara,2010-01-04,1st,Mahmudullah,30,,Mohammad Ashraful,60,Bangladesh,Sri Lanka,205,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+280,45.1,1,S Randiv,2010-01-04,1st,Mahmudullah,30,,Mohammad Ashraful,61,Bangladesh,Sri Lanka,206,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+281,45.2,4,S Randiv,2010-01-04,1st,Mohammad Ashraful,61,,Mahmudullah,34,Bangladesh,Sri Lanka,210,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+282,45.3,2,S Randiv,2010-01-04,1st,Mohammad Ashraful,61,,Mahmudullah,36,Bangladesh,Sri Lanka,212,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+283,45.4,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,61,,Mahmudullah,37,Bangladesh,Sri Lanka,213,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+284,45.5,0,S Randiv,2010-01-04,1st,Mahmudullah,37,,Mohammad Ashraful,61,Bangladesh,Sri Lanka,214,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+285,45.6,0,S Randiv,2010-01-04,1st,Mahmudullah,37,,Mohammad Ashraful,61,Bangladesh,Sri Lanka,214,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+286,45.7,0,S Randiv,2010-01-04,1st,Mahmudullah,37,,Mohammad Ashraful,61,Bangladesh,Sri Lanka,215,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+287,46.1,0,KMDN Kulasekara,2010-01-04,1st,Mahmudullah,37,,Mohammad Ashraful,61,Bangladesh,Sri Lanka,215,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+288,46.2,1,KMDN Kulasekara,2010-01-04,1st,Mahmudullah,37,,Mohammad Ashraful,62,Bangladesh,Sri Lanka,216,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+289,46.3,1,KMDN Kulasekara,2010-01-04,1st,Mohammad Ashraful,62,,Mahmudullah,38,Bangladesh,Sri Lanka,217,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+290,46.4,1,KMDN Kulasekara,2010-01-04,1st,Mahmudullah,38,,Mohammad Ashraful,63,Bangladesh,Sri Lanka,218,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+291,46.5,1,KMDN Kulasekara,2010-01-04,1st,Mohammad Ashraful,63,,Mahmudullah,39,Bangladesh,Sri Lanka,219,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+292,46.6,1,KMDN Kulasekara,2010-01-04,1st,Mahmudullah,39,,Mohammad Ashraful,64,Bangladesh,Sri Lanka,220,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+293,47.1,1,S Randiv,2010-01-04,1st,Mahmudullah,39,,Mohammad Ashraful,65,Bangladesh,Sri Lanka,221,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+294,47.2,6,S Randiv,2010-01-04,1st,Mohammad Ashraful,65,,Mahmudullah,45,Bangladesh,Sri Lanka,227,Sri Lanka,Shere Bangla National Stadium,5,Sri Lanka
+295,47.3,0,S Randiv,2010-01-04,1st,Mohammad Ashraful,65,Mahmudullah,Mahmudullah,45,Bangladesh,Sri Lanka,227,Sri Lanka,Shere Bangla National Stadium,6,Sri Lanka
+296,47.4,1,S Randiv,2010-01-04,1st,Mohammad Ashraful,65,,Naeem Islam,1,Bangladesh,Sri Lanka,228,Sri Lanka,Shere Bangla National Stadium,6,Sri Lanka
+297,47.5,4,S Randiv,2010-01-04,1st,Naeem Islam,1,,Mohammad Ashraful,69,Bangladesh,Sri Lanka,232,Sri Lanka,Shere Bangla National Stadium,6,Sri Lanka
+298,47.6,1,S Randiv,2010-01-04,1st,Naeem Islam,1,,Mohammad Ashraful,70,Bangladesh,Sri Lanka,233,Sri Lanka,Shere Bangla National Stadium,6,Sri Lanka
+299,48.1,4,KMDN Kulasekara,2010-01-04,1st,Naeem Islam,1,,Mohammad Ashraful,74,Bangladesh,Sri Lanka,237,Sri Lanka,Shere Bangla National Stadium,6,Sri Lanka
+300,48.2,1,KMDN Kulasekara,2010-01-04,1st,Naeem Islam,1,,Mohammad Ashraful,75,Bangladesh,Sri Lanka,238,Sri Lanka,Shere Bangla National Stadium,6,Sri Lanka
+301,48.3,0,KMDN Kulasekara,2010-01-04,1st,Mohammad Ashraful,75,Mohammad Ashraful,Naeem Islam,1,Bangladesh,Sri Lanka,238,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+302,48.4,0,KMDN Kulasekara,2010-01-04,1st,Naeem Islam,1,,Abdur Razzak,0,Bangladesh,Sri Lanka,238,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+303,48.5,1,KMDN Kulasekara,2010-01-04,1st,Naeem Islam,1,,Abdur Razzak,1,Bangladesh,Sri Lanka,239,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+304,48.6,1,KMDN Kulasekara,2010-01-04,1st,Abdur Razzak,1,,Naeem Islam,2,Bangladesh,Sri Lanka,240,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+305,49.1,4,RAS Lakmal,2010-01-04,1st,Abdur Razzak,1,,Naeem Islam,6,Bangladesh,Sri Lanka,244,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+306,49.2,6,RAS Lakmal,2010-01-04,1st,Abdur Razzak,1,,Naeem Islam,12,Bangladesh,Sri Lanka,250,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+307,49.3,6,RAS Lakmal,2010-01-04,1st,Abdur Razzak,1,,Naeem Islam,18,Bangladesh,Sri Lanka,256,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+308,49.4,2,RAS Lakmal,2010-01-04,1st,Abdur Razzak,1,,Naeem Islam,20,Bangladesh,Sri Lanka,258,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+309,49.5,0,RAS Lakmal,2010-01-04,1st,Abdur Razzak,1,,Naeem Islam,20,Bangladesh,Sri Lanka,258,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+310,49.6,2,RAS Lakmal,2010-01-04,1st,Abdur Razzak,1,,Naeem Islam,22,Bangladesh,Sri Lanka,260,Sri Lanka,Shere Bangla National Stadium,7,Sri Lanka
+311,0.1,0,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,0,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+312,0.2,4,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,4,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+313,0.3,0,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,4,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+314,0.4,4,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,9,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+315,0.5,1,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,10,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+316,0.6,0,Shafiul Islam,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,10,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+317,0.7,0,Shafiul Islam,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,10,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+318,1.1,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,10,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+319,1.2,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,11,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+320,1.3,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,15,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+321,1.4,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,15,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+322,1.5,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,15,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+323,1.6,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,15,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+324,1.7,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,15,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+325,2.1,4,Shafiul Islam,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,19,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+326,2.2,1,Shafiul Islam,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,20,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+327,2.3,0,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,24,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+328,2.4,1,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,25,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+329,2.5,4,Shafiul Islam,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,29,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+330,2.6,1,Shafiul Islam,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,30,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+331,3.1,0,Rubel Hossain,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,30,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+332,3.2,0,Rubel Hossain,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,30,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+333,3.3,1,Rubel Hossain,2010-01-04,2nd,WU Tharanga,0,,TM Dilshan,0,Bangladesh,Sri Lanka,31,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+334,3.4,4,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,35,Sri Lanka,Shere Bangla National Stadium,0,Sri Lanka
+335,3.5,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,WU Tharanga,0,Bangladesh,Sri Lanka,35,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+336,3.6,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,35,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+337,4.1,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,35,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+338,4.2,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,35,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+339,4.3,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,35,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+340,4.4,4,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,39,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+341,4.5,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,39,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+342,4.6,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,39,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+343,5.1,4,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,43,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+344,5.2,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,43,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+345,5.3,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,47,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+346,5.4,4,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,51,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+347,5.5,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,51,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+348,5.6,1,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,52,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+349,6.1,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,52,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+350,6.2,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,53,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+351,6.3,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,53,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+352,6.4,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,54,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+353,6.5,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,54,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+354,6.6,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,54,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+355,7.1,1,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,55,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+356,7.2,4,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,59,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+357,7.3,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,59,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+358,7.4,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,59,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+359,7.5,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,60,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+360,7.6,4,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,64,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+361,7.7,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,64,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+362,8.1,2,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,66,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+363,8.2,1,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,67,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+364,8.3,2,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,69,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+365,8.4,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,70,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+366,8.5,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+367,8.6,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,71,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+368,8.7,1,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,72,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+369,9.1,4,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,76,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+370,9.2,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,76,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+371,9.3,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,77,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+372,9.4,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,77,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+373,9.5,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,77,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+374,9.6,4,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,81,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+375,10.1,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,81,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+376,10.2,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,81,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+377,10.3,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,81,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+378,10.4,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,81,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+379,10.5,1,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,82,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+380,10.6,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,82,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+381,11.1,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+382,11.2,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+383,11.3,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+384,11.4,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+385,11.5,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+386,11.6,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,83,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+387,12.1,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,84,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+388,12.2,2,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,86,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+389,12.3,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,86,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+390,12.4,1,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,87,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+391,12.5,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,88,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+392,12.6,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,88,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+393,12.7,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,88,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+394,13.1,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,89,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+395,13.2,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,90,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+396,13.3,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,91,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+397,13.4,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,91,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+398,13.5,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,91,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+399,13.6,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,91,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+400,14.1,1,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+401,14.2,0,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+402,14.3,0,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+403,14.4,0,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+404,14.5,0,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,92,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+405,14.6,1,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,93,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+406,15.1,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,94,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+407,15.2,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,94,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+408,15.3,4,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,98,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+409,15.4,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,99,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+410,15.5,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,100,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+411,15.6,4,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,104,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+412,16.1,4,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,108,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+413,16.2,1,Rubel Hossain,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,109,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+414,16.3,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,110,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+415,16.4,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,110,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+416,16.5,0,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,110,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+417,16.6,4,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,114,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+418,16.7,2,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,116,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+419,17.1,0,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,116,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+420,17.2,1,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,117,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+421,17.3,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,117,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+422,17.4,1,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,118,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+423,17.5,1,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,119,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+424,17.6,2,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,121,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+425,18.1,2,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,123,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+426,18.2,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,123,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+427,18.3,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,123,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+428,18.4,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,123,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+429,18.5,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,123,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+430,18.6,1,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,124,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+431,19.1,0,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,124,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+432,19.2,1,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,125,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+433,19.3,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,125,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+434,19.4,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,125,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+435,19.5,1,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,126,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+436,19.6,4,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,130,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+437,20.1,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,131,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+438,20.2,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,131,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+439,20.3,1,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,132,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+440,20.4,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,132,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+441,20.5,2,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,134,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+442,20.6,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,135,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+443,21.1,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,135,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+444,21.2,1,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,136,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+445,21.3,4,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,140,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+446,21.4,0,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,140,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+447,21.5,1,Mahmudullah,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,141,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+448,21.6,1,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,142,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+449,22.1,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+450,22.2,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+451,22.3,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+452,22.4,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,143,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+453,22.5,4,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,147,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+454,22.6,0,Abdur Razzak,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,147,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+455,23.1,0,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,147,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+456,23.2,1,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,148,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+457,23.3,0,Naeem Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,148,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+458,23.4,0,Naeem Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,148,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+459,23.5,1,Naeem Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,149,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+460,23.6,3,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,152,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+461,24.1,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,153,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+462,24.2,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,154,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+463,24.3,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,154,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+464,24.4,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,155,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+465,24.5,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,156,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+466,24.6,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,156,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+467,24.7,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,156,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+468,25.1,4,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,160,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+469,25.2,0,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,160,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+470,25.3,1,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,161,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+471,25.4,0,Naeem Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,162,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+472,25.5,1,Naeem Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,163,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+473,25.6,4,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,167,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+474,25.7,0,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,167,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+475,26.1,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,167,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+476,26.2,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,168,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+477,26.3,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,168,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+478,26.4,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,169,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+479,26.5,0,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,169,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+480,26.6,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,170,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+481,27.1,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,170,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+482,27.2,4,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,174,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+483,27.3,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,174,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+484,27.4,0,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,174,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+485,27.5,1,Shafiul Islam,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,175,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+486,27.6,1,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,176,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+487,28.1,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,176,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+488,28.2,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,177,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+489,28.3,1,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,178,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+490,28.4,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,178,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+491,28.5,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,179,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+492,28.6,4,Shakib Al Hasan,2010-01-04,2nd,KC Sangakkara,0,,TM Dilshan,0,Bangladesh,Sri Lanka,183,Sri Lanka,Shere Bangla National Stadium,1,Sri Lanka
+493,29.1,0,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,KC Sangakkara,0,Bangladesh,Sri Lanka,183,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+494,29.2,0,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,183,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+495,29.3,4,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,187,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+496,29.4,2,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,189,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+497,29.5,1,Shafiul Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,190,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+498,29.6,1,Shafiul Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,191,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+499,30.1,0,Shakib Al Hasan,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,191,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+500,30.2,1,Shakib Al Hasan,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,192,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+501,30.3,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,192,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+502,30.4,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,192,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+503,30.5,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,192,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+504,30.6,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,192,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+505,31.1,1,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+506,31.2,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+507,31.3,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+508,31.4,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+509,31.5,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+510,31.6,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+511,32.1,0,Shakib Al Hasan,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,193,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+512,32.2,1,Shakib Al Hasan,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,194,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+513,32.3,1,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,195,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+514,32.4,0,Shakib Al Hasan,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,195,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+515,32.5,1,Shakib Al Hasan,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,196,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+516,32.6,0,Shakib Al Hasan,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,196,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+517,33.1,1,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+518,33.2,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+519,33.3,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+520,33.4,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+521,33.5,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+522,33.6,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+523,34.1,0,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+524,34.2,0,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,197,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+525,34.3,1,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,198,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+526,34.4,1,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,199,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+527,34.5,1,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,200,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+528,34.6,0,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,200,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+529,35.1,0,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,200,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+530,35.2,1,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,201,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+531,35.3,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,201,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+532,35.4,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,202,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+533,35.5,0,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,202,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+534,35.6,1,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,203,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+535,36.1,1,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,204,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+536,36.2,0,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,204,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+537,36.3,0,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,205,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+538,36.4,1,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,206,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+539,36.5,1,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,207,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+540,36.6,1,Naeem Islam,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,208,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+541,36.7,1,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,209,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+542,37.1,1,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,210,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+543,37.2,0,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,210,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+544,37.3,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,211,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+545,37.4,1,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,212,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+546,37.5,1,Abdur Razzak,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,213,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+547,37.6,1,Abdur Razzak,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,214,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+548,38.1,0,Rubel Hossain,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,214,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+549,38.2,0,Rubel Hossain,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,214,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+550,38.3,1,Rubel Hossain,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,215,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+551,38.4,1,Rubel Hossain,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,216,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+552,38.5,4,Rubel Hossain,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,220,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+553,38.6,2,Rubel Hossain,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,222,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+554,39.1,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,222,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+555,39.2,4,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,226,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+556,39.3,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,226,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+557,39.4,1,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,227,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+558,39.5,1,Mahmudullah,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,228,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+559,39.6,1,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,229,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+560,40.1,0,Mohammad Ashraful,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,229,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+561,40.2,1,Mohammad Ashraful,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,230,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+562,40.3,4,Mohammad Ashraful,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,234,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+563,40.4,0,Mohammad Ashraful,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,235,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+564,40.5,1,Mohammad Ashraful,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,236,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+565,40.6,0,Mohammad Ashraful,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,236,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+566,40.7,4,Mohammad Ashraful,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,240,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+567,41.1,1,Mahmudullah,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,241,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+568,41.2,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,241,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+569,41.3,0,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,241,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+570,41.4,1,Mahmudullah,2010-01-04,2nd,TM Dilshan,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,242,Sri Lanka,Shere Bangla National Stadium,2,Sri Lanka
+571,41.5,0,Mahmudullah,2010-01-04,2nd,TT Samaraweera,0,,TM Dilshan,0,Bangladesh,Sri Lanka,242,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+572,41.6,0,Mahmudullah,2010-01-04,2nd,TT Samaraweera,0,,LPC Silva,0,Bangladesh,Sri Lanka,242,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+573,42.1,0,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,242,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+574,42.2,4,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,246,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+575,42.3,1,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,247,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+576,42.4,1,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,LPC Silva,0,Bangladesh,Sri Lanka,248,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+577,42.5,1,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,249,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+578,42.6,0,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,LPC Silva,0,Bangladesh,Sri Lanka,249,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+579,43.1,1,Mahmudullah,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,250,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+580,43.2,1,Mahmudullah,2010-01-04,2nd,TT Samaraweera,0,,LPC Silva,0,Bangladesh,Sri Lanka,251,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+581,43.3,1,Mahmudullah,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,252,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+582,43.4,1,Mahmudullah,2010-01-04,2nd,TT Samaraweera,0,,LPC Silva,0,Bangladesh,Sri Lanka,253,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+583,43.5,1,Mahmudullah,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,254,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+584,43.6,0,Mahmudullah,2010-01-04,2nd,TT Samaraweera,0,,LPC Silva,0,Bangladesh,Sri Lanka,254,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+585,44.1,1,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,255,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+586,44.2,1,Naeem Islam,2010-01-04,2nd,TT Samaraweera,0,,LPC Silva,0,Bangladesh,Sri Lanka,256,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+587,44.3,0,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,256,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+588,44.4,0,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,257,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+589,44.5,0,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,257,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka
+590,44.6,4,Naeem Islam,2010-01-04,2nd,LPC Silva,0,,TT Samaraweera,0,Bangladesh,Sri Lanka,261,Sri Lanka,Shere Bangla National Stadium,3,Sri Lanka

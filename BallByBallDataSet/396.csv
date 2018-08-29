@@ -1,0 +1,604 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,0,,KOA Powell,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",0,Bangladesh
+1,0.2,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,0,KOA Powell,KOA Powell,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+2,0.3,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,0,,DS Smith,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+3,0.4,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,0,,DS Smith,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+4,0.5,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,0,,DS Smith,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+5,0.6,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,0,,DS Smith,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+6,0.7,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,0,,DS Smith,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+7,1.1,0,Nazmul Hossain,2009-07-31,1st,DS Smith,0,,ADS Fletcher,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+8,1.2,0,Nazmul Hossain,2009-07-31,1st,DS Smith,0,,ADS Fletcher,0,West Indies,Bangladesh,1,West Indies,"Warner Park, Basseterre",1,Bangladesh
+9,1.3,1,Nazmul Hossain,2009-07-31,1st,DS Smith,0,,ADS Fletcher,1,West Indies,Bangladesh,2,West Indies,"Warner Park, Basseterre",1,Bangladesh
+10,1.4,4,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,1,,DS Smith,4,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+11,1.5,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,1,,DS Smith,4,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+12,1.6,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,1,,DS Smith,4,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+13,2.1,0,Mahbubul Alam,2009-07-31,1st,DS Smith,4,,ADS Fletcher,1,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+14,2.2,0,Mahbubul Alam,2009-07-31,1st,DS Smith,4,,ADS Fletcher,1,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+15,2.3,0,Mahbubul Alam,2009-07-31,1st,DS Smith,4,,ADS Fletcher,1,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+16,2.4,0,Mahbubul Alam,2009-07-31,1st,DS Smith,4,,ADS Fletcher,1,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+17,2.5,0,Mahbubul Alam,2009-07-31,1st,DS Smith,4,,ADS Fletcher,1,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",1,Bangladesh
+18,2.6,4,Mahbubul Alam,2009-07-31,1st,DS Smith,4,,ADS Fletcher,5,West Indies,Bangladesh,10,West Indies,"Warner Park, Basseterre",1,Bangladesh
+19,3.1,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,5,DS Smith,DS Smith,4,West Indies,Bangladesh,10,West Indies,"Warner Park, Basseterre",2,Bangladesh
+20,3.2,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,5,,TM Dowlin,0,West Indies,Bangladesh,11,West Indies,"Warner Park, Basseterre",2,Bangladesh
+21,3.3,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,5,,TM Dowlin,0,West Indies,Bangladesh,11,West Indies,"Warner Park, Basseterre",2,Bangladesh
+22,3.4,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,5,,TM Dowlin,0,West Indies,Bangladesh,11,West Indies,"Warner Park, Basseterre",2,Bangladesh
+23,3.5,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,5,,TM Dowlin,0,West Indies,Bangladesh,11,West Indies,"Warner Park, Basseterre",2,Bangladesh
+24,3.6,1,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,5,,TM Dowlin,1,West Indies,Bangladesh,12,West Indies,"Warner Park, Basseterre",2,Bangladesh
+25,3.7,4,Nazmul Hossain,2009-07-31,1st,TM Dowlin,1,,ADS Fletcher,9,West Indies,Bangladesh,16,West Indies,"Warner Park, Basseterre",2,Bangladesh
+26,4.1,0,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,9,,TM Dowlin,1,West Indies,Bangladesh,16,West Indies,"Warner Park, Basseterre",2,Bangladesh
+27,4.2,1,Mahbubul Alam,2009-07-31,1st,ADS Fletcher,9,,TM Dowlin,2,West Indies,Bangladesh,17,West Indies,"Warner Park, Basseterre",2,Bangladesh
+28,4.3,0,Mahbubul Alam,2009-07-31,1st,TM Dowlin,2,,ADS Fletcher,9,West Indies,Bangladesh,17,West Indies,"Warner Park, Basseterre",2,Bangladesh
+29,4.4,0,Mahbubul Alam,2009-07-31,1st,TM Dowlin,2,,ADS Fletcher,9,West Indies,Bangladesh,18,West Indies,"Warner Park, Basseterre",2,Bangladesh
+30,4.5,6,Mahbubul Alam,2009-07-31,1st,TM Dowlin,2,,ADS Fletcher,15,West Indies,Bangladesh,24,West Indies,"Warner Park, Basseterre",2,Bangladesh
+31,4.6,0,Mahbubul Alam,2009-07-31,1st,TM Dowlin,2,,ADS Fletcher,15,West Indies,Bangladesh,24,West Indies,"Warner Park, Basseterre",2,Bangladesh
+32,4.7,6,Mahbubul Alam,2009-07-31,1st,TM Dowlin,2,,ADS Fletcher,21,West Indies,Bangladesh,30,West Indies,"Warner Park, Basseterre",2,Bangladesh
+33,5.1,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,21,,TM Dowlin,2,West Indies,Bangladesh,30,West Indies,"Warner Park, Basseterre",2,Bangladesh
+34,5.2,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,21,,TM Dowlin,2,West Indies,Bangladesh,30,West Indies,"Warner Park, Basseterre",2,Bangladesh
+35,5.3,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,21,,TM Dowlin,2,West Indies,Bangladesh,30,West Indies,"Warner Park, Basseterre",2,Bangladesh
+36,5.4,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,21,,TM Dowlin,2,West Indies,Bangladesh,30,West Indies,"Warner Park, Basseterre",2,Bangladesh
+37,5.5,4,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,21,,TM Dowlin,6,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",2,Bangladesh
+38,5.6,0,Nazmul Hossain,2009-07-31,1st,ADS Fletcher,21,,TM Dowlin,6,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",2,Bangladesh
+39,6.1,0,Mahbubul Alam,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,21,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",2,Bangladesh
+40,6.2,0,Mahbubul Alam,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,21,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",2,Bangladesh
+41,6.3,4,Mahbubul Alam,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,25,West Indies,Bangladesh,38,West Indies,"Warner Park, Basseterre",2,Bangladesh
+42,6.4,0,Mahbubul Alam,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,25,West Indies,Bangladesh,38,West Indies,"Warner Park, Basseterre",2,Bangladesh
+43,6.5,4,Mahbubul Alam,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,29,West Indies,Bangladesh,42,West Indies,"Warner Park, Basseterre",2,Bangladesh
+44,6.6,4,Mahbubul Alam,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,33,West Indies,Bangladesh,46,West Indies,"Warner Park, Basseterre",2,Bangladesh
+45,7.1,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,6,West Indies,Bangladesh,47,West Indies,"Warner Park, Basseterre",2,Bangladesh
+46,7.2,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,33,West Indies,Bangladesh,47,West Indies,"Warner Park, Basseterre",2,Bangladesh
+47,7.3,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,33,West Indies,Bangladesh,47,West Indies,"Warner Park, Basseterre",2,Bangladesh
+48,7.4,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,33,West Indies,Bangladesh,47,West Indies,"Warner Park, Basseterre",2,Bangladesh
+49,7.5,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,33,West Indies,Bangladesh,47,West Indies,"Warner Park, Basseterre",2,Bangladesh
+50,7.6,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,33,West Indies,Bangladesh,48,West Indies,"Warner Park, Basseterre",2,Bangladesh
+51,7.7,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,6,,ADS Fletcher,33,West Indies,Bangladesh,48,West Indies,"Warner Park, Basseterre",2,Bangladesh
+52,8.1,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,6,West Indies,Bangladesh,48,West Indies,"Warner Park, Basseterre",2,Bangladesh
+53,8.2,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,6,West Indies,Bangladesh,48,West Indies,"Warner Park, Basseterre",2,Bangladesh
+54,8.3,1,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,7,West Indies,Bangladesh,49,West Indies,"Warner Park, Basseterre",2,Bangladesh
+55,8.4,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,7,,ADS Fletcher,33,West Indies,Bangladesh,49,West Indies,"Warner Park, Basseterre",2,Bangladesh
+56,8.5,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,7,,ADS Fletcher,33,West Indies,Bangladesh,49,West Indies,"Warner Park, Basseterre",2,Bangladesh
+57,8.6,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,7,,ADS Fletcher,33,West Indies,Bangladesh,49,West Indies,"Warner Park, Basseterre",2,Bangladesh
+58,9.1,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,7,West Indies,Bangladesh,49,West Indies,"Warner Park, Basseterre",2,Bangladesh
+59,9.2,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,7,West Indies,Bangladesh,49,West Indies,"Warner Park, Basseterre",2,Bangladesh
+60,9.3,4,Abdur Razzak,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,11,West Indies,Bangladesh,53,West Indies,"Warner Park, Basseterre",2,Bangladesh
+61,9.4,4,Abdur Razzak,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,15,West Indies,Bangladesh,57,West Indies,"Warner Park, Basseterre",2,Bangladesh
+62,9.5,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,15,West Indies,Bangladesh,57,West Indies,"Warner Park, Basseterre",2,Bangladesh
+63,9.6,1,Abdur Razzak,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,16,West Indies,Bangladesh,58,West Indies,"Warner Park, Basseterre",2,Bangladesh
+64,10.1,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,16,West Indies,Bangladesh,58,West Indies,"Warner Park, Basseterre",2,Bangladesh
+65,10.2,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,16,West Indies,Bangladesh,58,West Indies,"Warner Park, Basseterre",2,Bangladesh
+66,10.3,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,16,West Indies,Bangladesh,58,West Indies,"Warner Park, Basseterre",2,Bangladesh
+67,10.4,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,16,West Indies,Bangladesh,58,West Indies,"Warner Park, Basseterre",2,Bangladesh
+68,10.5,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,16,West Indies,Bangladesh,58,West Indies,"Warner Park, Basseterre",2,Bangladesh
+69,10.6,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,33,,TM Dowlin,16,West Indies,Bangladesh,58,West Indies,"Warner Park, Basseterre",2,Bangladesh
+70,11.1,4,Abdur Razzak,2009-07-31,1st,TM Dowlin,16,,ADS Fletcher,37,West Indies,Bangladesh,62,West Indies,"Warner Park, Basseterre",2,Bangladesh
+71,11.2,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,16,,ADS Fletcher,37,West Indies,Bangladesh,62,West Indies,"Warner Park, Basseterre",2,Bangladesh
+72,11.3,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,16,,ADS Fletcher,37,West Indies,Bangladesh,64,West Indies,"Warner Park, Basseterre",2,Bangladesh
+73,11.4,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,37,,TM Dowlin,16,West Indies,Bangladesh,65,West Indies,"Warner Park, Basseterre",2,Bangladesh
+74,11.5,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,37,,TM Dowlin,16,West Indies,Bangladesh,65,West Indies,"Warner Park, Basseterre",2,Bangladesh
+75,11.6,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,37,,TM Dowlin,16,West Indies,Bangladesh,65,West Indies,"Warner Park, Basseterre",2,Bangladesh
+76,11.7,4,Abdur Razzak,2009-07-31,1st,ADS Fletcher,37,,TM Dowlin,20,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+77,11.8,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,37,,TM Dowlin,20,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+78,12.1,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,20,,ADS Fletcher,37,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+79,12.2,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,20,,ADS Fletcher,37,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+80,12.3,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,20,,ADS Fletcher,37,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+81,12.4,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,20,,ADS Fletcher,37,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+82,12.5,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,20,,ADS Fletcher,37,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+83,12.6,0,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,20,,ADS Fletcher,37,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+84,13.1,0,Abdur Razzak,2009-07-31,1st,ADS Fletcher,37,,TM Dowlin,20,West Indies,Bangladesh,69,West Indies,"Warner Park, Basseterre",2,Bangladesh
+85,13.2,1,Abdur Razzak,2009-07-31,1st,ADS Fletcher,37,,TM Dowlin,21,West Indies,Bangladesh,70,West Indies,"Warner Park, Basseterre",2,Bangladesh
+86,13.3,4,Abdur Razzak,2009-07-31,1st,TM Dowlin,21,,ADS Fletcher,41,West Indies,Bangladesh,74,West Indies,"Warner Park, Basseterre",2,Bangladesh
+87,13.4,6,Abdur Razzak,2009-07-31,1st,TM Dowlin,21,,ADS Fletcher,47,West Indies,Bangladesh,80,West Indies,"Warner Park, Basseterre",2,Bangladesh
+88,13.5,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,21,,ADS Fletcher,47,West Indies,Bangladesh,80,West Indies,"Warner Park, Basseterre",2,Bangladesh
+89,13.6,4,Abdur Razzak,2009-07-31,1st,TM Dowlin,21,,ADS Fletcher,51,West Indies,Bangladesh,84,West Indies,"Warner Park, Basseterre",2,Bangladesh
+90,14.1,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,51,,TM Dowlin,21,West Indies,Bangladesh,84,West Indies,"Warner Park, Basseterre",2,Bangladesh
+91,14.2,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,51,,TM Dowlin,21,West Indies,Bangladesh,84,West Indies,"Warner Park, Basseterre",2,Bangladesh
+92,14.3,1,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,51,,TM Dowlin,22,West Indies,Bangladesh,85,West Indies,"Warner Park, Basseterre",2,Bangladesh
+93,14.4,1,Shakib Al Hasan,2009-07-31,1st,TM Dowlin,22,,ADS Fletcher,52,West Indies,Bangladesh,86,West Indies,"Warner Park, Basseterre",2,Bangladesh
+94,14.5,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,52,,TM Dowlin,22,West Indies,Bangladesh,86,West Indies,"Warner Park, Basseterre",2,Bangladesh
+95,14.6,0,Shakib Al Hasan,2009-07-31,1st,ADS Fletcher,52,,TM Dowlin,22,West Indies,Bangladesh,86,West Indies,"Warner Park, Basseterre",2,Bangladesh
+96,15.1,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,22,ADS Fletcher,ADS Fletcher,52,West Indies,Bangladesh,86,West Indies,"Warner Park, Basseterre",3,Bangladesh
+97,15.2,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,22,,FL Reifer,0,West Indies,Bangladesh,86,West Indies,"Warner Park, Basseterre",3,Bangladesh
+98,15.3,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,22,,FL Reifer,0,West Indies,Bangladesh,86,West Indies,"Warner Park, Basseterre",3,Bangladesh
+99,15.4,1,Abdur Razzak,2009-07-31,1st,TM Dowlin,22,,FL Reifer,1,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+100,15.5,0,Abdur Razzak,2009-07-31,1st,FL Reifer,1,,TM Dowlin,22,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+101,15.6,0,Abdur Razzak,2009-07-31,1st,FL Reifer,1,,TM Dowlin,22,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+102,16.1,0,Naeem Islam,2009-07-31,1st,TM Dowlin,22,,FL Reifer,1,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+103,16.2,0,Naeem Islam,2009-07-31,1st,TM Dowlin,22,,FL Reifer,1,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+104,16.3,0,Naeem Islam,2009-07-31,1st,TM Dowlin,22,,FL Reifer,1,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+105,16.4,0,Naeem Islam,2009-07-31,1st,TM Dowlin,22,,FL Reifer,1,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+106,16.5,0,Naeem Islam,2009-07-31,1st,TM Dowlin,22,,FL Reifer,1,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+107,16.6,0,Naeem Islam,2009-07-31,1st,TM Dowlin,22,,FL Reifer,1,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",3,Bangladesh
+108,17.1,1,Abdur Razzak,2009-07-31,1st,FL Reifer,1,,TM Dowlin,23,West Indies,Bangladesh,88,West Indies,"Warner Park, Basseterre",3,Bangladesh
+109,17.2,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,23,,FL Reifer,1,West Indies,Bangladesh,88,West Indies,"Warner Park, Basseterre",3,Bangladesh
+110,17.3,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,23,,FL Reifer,1,West Indies,Bangladesh,88,West Indies,"Warner Park, Basseterre",3,Bangladesh
+111,17.4,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,23,,FL Reifer,1,West Indies,Bangladesh,88,West Indies,"Warner Park, Basseterre",3,Bangladesh
+112,17.5,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,23,,FL Reifer,1,West Indies,Bangladesh,89,West Indies,"Warner Park, Basseterre",3,Bangladesh
+113,17.6,1,Abdur Razzak,2009-07-31,1st,FL Reifer,1,,TM Dowlin,24,West Indies,Bangladesh,90,West Indies,"Warner Park, Basseterre",3,Bangladesh
+114,18.1,0,Naeem Islam,2009-07-31,1st,FL Reifer,1,,TM Dowlin,24,West Indies,Bangladesh,91,West Indies,"Warner Park, Basseterre",3,Bangladesh
+115,18.2,1,Naeem Islam,2009-07-31,1st,FL Reifer,1,,TM Dowlin,25,West Indies,Bangladesh,92,West Indies,"Warner Park, Basseterre",3,Bangladesh
+116,18.3,0,Naeem Islam,2009-07-31,1st,TM Dowlin,25,,FL Reifer,1,West Indies,Bangladesh,92,West Indies,"Warner Park, Basseterre",3,Bangladesh
+117,18.4,0,Naeem Islam,2009-07-31,1st,TM Dowlin,25,,FL Reifer,1,West Indies,Bangladesh,92,West Indies,"Warner Park, Basseterre",3,Bangladesh
+118,18.5,0,Naeem Islam,2009-07-31,1st,TM Dowlin,25,,FL Reifer,1,West Indies,Bangladesh,92,West Indies,"Warner Park, Basseterre",3,Bangladesh
+119,18.6,0,Naeem Islam,2009-07-31,1st,TM Dowlin,25,,FL Reifer,1,West Indies,Bangladesh,92,West Indies,"Warner Park, Basseterre",3,Bangladesh
+120,18.7,0,Naeem Islam,2009-07-31,1st,TM Dowlin,25,,FL Reifer,1,West Indies,Bangladesh,92,West Indies,"Warner Park, Basseterre",3,Bangladesh
+121,19.1,1,Abdur Razzak,2009-07-31,1st,FL Reifer,1,,TM Dowlin,26,West Indies,Bangladesh,93,West Indies,"Warner Park, Basseterre",3,Bangladesh
+122,19.2,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,26,,FL Reifer,1,West Indies,Bangladesh,93,West Indies,"Warner Park, Basseterre",3,Bangladesh
+123,19.3,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,26,,FL Reifer,1,West Indies,Bangladesh,93,West Indies,"Warner Park, Basseterre",3,Bangladesh
+124,19.4,1,Abdur Razzak,2009-07-31,1st,TM Dowlin,26,,FL Reifer,2,West Indies,Bangladesh,94,West Indies,"Warner Park, Basseterre",3,Bangladesh
+125,19.5,1,Abdur Razzak,2009-07-31,1st,FL Reifer,2,,TM Dowlin,27,West Indies,Bangladesh,95,West Indies,"Warner Park, Basseterre",3,Bangladesh
+126,19.6,0,Abdur Razzak,2009-07-31,1st,TM Dowlin,27,,FL Reifer,2,West Indies,Bangladesh,95,West Indies,"Warner Park, Basseterre",3,Bangladesh
+127,20.1,0,Naeem Islam,2009-07-31,1st,FL Reifer,2,,TM Dowlin,27,West Indies,Bangladesh,95,West Indies,"Warner Park, Basseterre",3,Bangladesh
+128,20.2,0,Naeem Islam,2009-07-31,1st,FL Reifer,2,,TM Dowlin,27,West Indies,Bangladesh,95,West Indies,"Warner Park, Basseterre",3,Bangladesh
+129,20.3,1,Naeem Islam,2009-07-31,1st,FL Reifer,2,,TM Dowlin,28,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",3,Bangladesh
+130,20.4,0,Naeem Islam,2009-07-31,1st,TM Dowlin,28,,FL Reifer,2,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",3,Bangladesh
+131,20.5,0,Naeem Islam,2009-07-31,1st,TM Dowlin,28,,FL Reifer,2,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",3,Bangladesh
+132,20.6,1,Naeem Islam,2009-07-31,1st,TM Dowlin,28,,FL Reifer,3,West Indies,Bangladesh,97,West Indies,"Warner Park, Basseterre",3,Bangladesh
+133,21.1,0,Nazmul Hossain,2009-07-31,1st,TM Dowlin,28,,FL Reifer,3,West Indies,Bangladesh,97,West Indies,"Warner Park, Basseterre",3,Bangladesh
+134,21.2,4,Nazmul Hossain,2009-07-31,1st,TM Dowlin,28,,FL Reifer,7,West Indies,Bangladesh,101,West Indies,"Warner Park, Basseterre",3,Bangladesh
+135,21.3,1,Nazmul Hossain,2009-07-31,1st,TM Dowlin,28,,FL Reifer,8,West Indies,Bangladesh,102,West Indies,"Warner Park, Basseterre",3,Bangladesh
+136,21.4,0,Nazmul Hossain,2009-07-31,1st,FL Reifer,8,,TM Dowlin,28,West Indies,Bangladesh,102,West Indies,"Warner Park, Basseterre",3,Bangladesh
+137,21.5,0,Nazmul Hossain,2009-07-31,1st,FL Reifer,8,,TM Dowlin,28,West Indies,Bangladesh,102,West Indies,"Warner Park, Basseterre",3,Bangladesh
+138,21.6,4,Nazmul Hossain,2009-07-31,1st,FL Reifer,8,,TM Dowlin,32,West Indies,Bangladesh,106,West Indies,"Warner Park, Basseterre",3,Bangladesh
+139,22.1,0,Naeem Islam,2009-07-31,1st,TM Dowlin,32,,FL Reifer,8,West Indies,Bangladesh,106,West Indies,"Warner Park, Basseterre",3,Bangladesh
+140,22.2,0,Naeem Islam,2009-07-31,1st,TM Dowlin,32,,FL Reifer,8,West Indies,Bangladesh,106,West Indies,"Warner Park, Basseterre",3,Bangladesh
+141,22.3,1,Naeem Islam,2009-07-31,1st,TM Dowlin,32,,FL Reifer,9,West Indies,Bangladesh,107,West Indies,"Warner Park, Basseterre",3,Bangladesh
+142,22.4,1,Naeem Islam,2009-07-31,1st,FL Reifer,9,,TM Dowlin,33,West Indies,Bangladesh,108,West Indies,"Warner Park, Basseterre",3,Bangladesh
+143,22.5,0,Naeem Islam,2009-07-31,1st,TM Dowlin,33,,FL Reifer,9,West Indies,Bangladesh,108,West Indies,"Warner Park, Basseterre",3,Bangladesh
+144,22.6,0,Naeem Islam,2009-07-31,1st,TM Dowlin,33,,FL Reifer,9,West Indies,Bangladesh,108,West Indies,"Warner Park, Basseterre",3,Bangladesh
+145,23.1,1,Mahmudullah,2009-07-31,1st,FL Reifer,9,,TM Dowlin,34,West Indies,Bangladesh,109,West Indies,"Warner Park, Basseterre",3,Bangladesh
+146,23.2,0,Mahmudullah,2009-07-31,1st,TM Dowlin,34,,FL Reifer,9,West Indies,Bangladesh,109,West Indies,"Warner Park, Basseterre",3,Bangladesh
+147,23.3,0,Mahmudullah,2009-07-31,1st,TM Dowlin,34,,FL Reifer,9,West Indies,Bangladesh,109,West Indies,"Warner Park, Basseterre",3,Bangladesh
+148,23.4,0,Mahmudullah,2009-07-31,1st,TM Dowlin,34,,FL Reifer,9,West Indies,Bangladesh,109,West Indies,"Warner Park, Basseterre",3,Bangladesh
+149,23.5,0,Mahmudullah,2009-07-31,1st,TM Dowlin,34,,FL Reifer,9,West Indies,Bangladesh,109,West Indies,"Warner Park, Basseterre",3,Bangladesh
+150,23.6,0,Mahmudullah,2009-07-31,1st,TM Dowlin,34,,FL Reifer,9,West Indies,Bangladesh,109,West Indies,"Warner Park, Basseterre",3,Bangladesh
+151,24.1,2,Naeem Islam,2009-07-31,1st,FL Reifer,9,,TM Dowlin,36,West Indies,Bangladesh,111,West Indies,"Warner Park, Basseterre",3,Bangladesh
+152,24.2,0,Naeem Islam,2009-07-31,1st,FL Reifer,9,,TM Dowlin,36,West Indies,Bangladesh,111,West Indies,"Warner Park, Basseterre",3,Bangladesh
+153,24.3,1,Naeem Islam,2009-07-31,1st,FL Reifer,9,,TM Dowlin,37,West Indies,Bangladesh,112,West Indies,"Warner Park, Basseterre",3,Bangladesh
+154,24.4,1,Naeem Islam,2009-07-31,1st,TM Dowlin,37,,FL Reifer,10,West Indies,Bangladesh,113,West Indies,"Warner Park, Basseterre",3,Bangladesh
+155,24.5,0,Naeem Islam,2009-07-31,1st,FL Reifer,10,,TM Dowlin,37,West Indies,Bangladesh,114,West Indies,"Warner Park, Basseterre",3,Bangladesh
+156,24.6,1,Naeem Islam,2009-07-31,1st,FL Reifer,10,,TM Dowlin,38,West Indies,Bangladesh,115,West Indies,"Warner Park, Basseterre",3,Bangladesh
+157,24.7,0,Naeem Islam,2009-07-31,1st,TM Dowlin,38,TM Dowlin,FL Reifer,10,West Indies,Bangladesh,115,West Indies,"Warner Park, Basseterre",4,Bangladesh
+158,25.1,2,Mahmudullah,2009-07-31,1st,DE Bernard,0,,FL Reifer,12,West Indies,Bangladesh,117,West Indies,"Warner Park, Basseterre",4,Bangladesh
+159,25.2,0,Mahmudullah,2009-07-31,1st,DE Bernard,0,,FL Reifer,12,West Indies,Bangladesh,117,West Indies,"Warner Park, Basseterre",4,Bangladesh
+160,25.3,0,Mahmudullah,2009-07-31,1st,DE Bernard,0,,FL Reifer,12,West Indies,Bangladesh,117,West Indies,"Warner Park, Basseterre",4,Bangladesh
+161,25.4,0,Mahmudullah,2009-07-31,1st,DE Bernard,0,,FL Reifer,12,West Indies,Bangladesh,117,West Indies,"Warner Park, Basseterre",4,Bangladesh
+162,25.5,4,Mahmudullah,2009-07-31,1st,DE Bernard,0,,FL Reifer,16,West Indies,Bangladesh,121,West Indies,"Warner Park, Basseterre",4,Bangladesh
+163,25.6,1,Mahmudullah,2009-07-31,1st,DE Bernard,0,,FL Reifer,17,West Indies,Bangladesh,122,West Indies,"Warner Park, Basseterre",4,Bangladesh
+164,26.1,1,Shakib Al Hasan,2009-07-31,1st,DE Bernard,0,,FL Reifer,18,West Indies,Bangladesh,123,West Indies,"Warner Park, Basseterre",4,Bangladesh
+165,26.2,0,Shakib Al Hasan,2009-07-31,1st,FL Reifer,18,,DE Bernard,0,West Indies,Bangladesh,123,West Indies,"Warner Park, Basseterre",4,Bangladesh
+166,26.3,0,Shakib Al Hasan,2009-07-31,1st,FL Reifer,18,,DE Bernard,0,West Indies,Bangladesh,123,West Indies,"Warner Park, Basseterre",4,Bangladesh
+167,26.4,0,Shakib Al Hasan,2009-07-31,1st,FL Reifer,18,,DE Bernard,0,West Indies,Bangladesh,123,West Indies,"Warner Park, Basseterre",4,Bangladesh
+168,26.5,1,Shakib Al Hasan,2009-07-31,1st,FL Reifer,18,,DE Bernard,1,West Indies,Bangladesh,124,West Indies,"Warner Park, Basseterre",4,Bangladesh
+169,26.6,0,Shakib Al Hasan,2009-07-31,1st,DE Bernard,1,,FL Reifer,18,West Indies,Bangladesh,124,West Indies,"Warner Park, Basseterre",4,Bangladesh
+170,27.1,0,Mahmudullah,2009-07-31,1st,FL Reifer,18,DE Bernard,DE Bernard,1,West Indies,Bangladesh,124,West Indies,"Warner Park, Basseterre",5,Bangladesh
+171,27.2,0,Mahmudullah,2009-07-31,1st,FL Reifer,18,,DJG Sammy,0,West Indies,Bangladesh,124,West Indies,"Warner Park, Basseterre",5,Bangladesh
+172,27.3,1,Mahmudullah,2009-07-31,1st,FL Reifer,18,,DJG Sammy,1,West Indies,Bangladesh,125,West Indies,"Warner Park, Basseterre",5,Bangladesh
+173,27.4,0,Mahmudullah,2009-07-31,1st,DJG Sammy,1,,FL Reifer,18,West Indies,Bangladesh,125,West Indies,"Warner Park, Basseterre",5,Bangladesh
+174,27.5,0,Mahmudullah,2009-07-31,1st,DJG Sammy,1,,FL Reifer,18,West Indies,Bangladesh,125,West Indies,"Warner Park, Basseterre",5,Bangladesh
+175,27.6,0,Mahmudullah,2009-07-31,1st,DJG Sammy,1,,FL Reifer,18,West Indies,Bangladesh,125,West Indies,"Warner Park, Basseterre",5,Bangladesh
+176,28.1,0,Shakib Al Hasan,2009-07-31,1st,FL Reifer,18,,DJG Sammy,1,West Indies,Bangladesh,125,West Indies,"Warner Park, Basseterre",5,Bangladesh
+177,28.2,0,Shakib Al Hasan,2009-07-31,1st,FL Reifer,18,,DJG Sammy,1,West Indies,Bangladesh,125,West Indies,"Warner Park, Basseterre",5,Bangladesh
+178,28.3,1,Shakib Al Hasan,2009-07-31,1st,FL Reifer,18,,DJG Sammy,2,West Indies,Bangladesh,126,West Indies,"Warner Park, Basseterre",5,Bangladesh
+179,28.4,6,Shakib Al Hasan,2009-07-31,1st,DJG Sammy,2,,FL Reifer,24,West Indies,Bangladesh,132,West Indies,"Warner Park, Basseterre",5,Bangladesh
+180,28.5,1,Shakib Al Hasan,2009-07-31,1st,DJG Sammy,2,,FL Reifer,25,West Indies,Bangladesh,133,West Indies,"Warner Park, Basseterre",5,Bangladesh
+181,28.6,0,Shakib Al Hasan,2009-07-31,1st,FL Reifer,25,,DJG Sammy,2,West Indies,Bangladesh,133,West Indies,"Warner Park, Basseterre",5,Bangladesh
+182,29.1,0,Mahmudullah,2009-07-31,1st,DJG Sammy,2,,FL Reifer,25,West Indies,Bangladesh,133,West Indies,"Warner Park, Basseterre",5,Bangladesh
+183,29.2,0,Mahmudullah,2009-07-31,1st,DJG Sammy,2,,FL Reifer,25,West Indies,Bangladesh,133,West Indies,"Warner Park, Basseterre",5,Bangladesh
+184,29.3,1,Mahmudullah,2009-07-31,1st,DJG Sammy,2,,FL Reifer,26,West Indies,Bangladesh,134,West Indies,"Warner Park, Basseterre",5,Bangladesh
+185,29.4,1,Mahmudullah,2009-07-31,1st,FL Reifer,26,,DJG Sammy,3,West Indies,Bangladesh,135,West Indies,"Warner Park, Basseterre",5,Bangladesh
+186,29.5,0,Mahmudullah,2009-07-31,1st,DJG Sammy,3,,FL Reifer,26,West Indies,Bangladesh,135,West Indies,"Warner Park, Basseterre",5,Bangladesh
+187,29.6,1,Mahmudullah,2009-07-31,1st,DJG Sammy,3,,FL Reifer,27,West Indies,Bangladesh,136,West Indies,"Warner Park, Basseterre",5,Bangladesh
+188,30.1,0,Naeem Islam,2009-07-31,1st,DJG Sammy,3,,FL Reifer,27,West Indies,Bangladesh,136,West Indies,"Warner Park, Basseterre",5,Bangladesh
+189,30.2,0,Naeem Islam,2009-07-31,1st,DJG Sammy,3,,FL Reifer,27,West Indies,Bangladesh,136,West Indies,"Warner Park, Basseterre",5,Bangladesh
+190,30.3,0,Naeem Islam,2009-07-31,1st,DJG Sammy,3,,FL Reifer,27,West Indies,Bangladesh,136,West Indies,"Warner Park, Basseterre",5,Bangladesh
+191,30.4,1,Naeem Islam,2009-07-31,1st,DJG Sammy,3,,FL Reifer,28,West Indies,Bangladesh,137,West Indies,"Warner Park, Basseterre",5,Bangladesh
+192,30.5,1,Naeem Islam,2009-07-31,1st,FL Reifer,28,,DJG Sammy,4,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+193,30.6,0,Naeem Islam,2009-07-31,1st,DJG Sammy,4,,FL Reifer,28,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+194,31.1,0,Mahmudullah,2009-07-31,1st,FL Reifer,28,,DJG Sammy,4,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+195,31.2,0,Mahmudullah,2009-07-31,1st,FL Reifer,28,,DJG Sammy,4,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+196,31.3,0,Mahmudullah,2009-07-31,1st,FL Reifer,28,,DJG Sammy,4,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+197,31.4,0,Mahmudullah,2009-07-31,1st,FL Reifer,28,,DJG Sammy,4,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+198,31.5,0,Mahmudullah,2009-07-31,1st,FL Reifer,28,,DJG Sammy,4,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+199,31.6,4,Mahmudullah,2009-07-31,1st,FL Reifer,28,,DJG Sammy,8,West Indies,Bangladesh,142,West Indies,"Warner Park, Basseterre",5,Bangladesh
+200,32.1,2,Naeem Islam,2009-07-31,1st,DJG Sammy,8,,FL Reifer,30,West Indies,Bangladesh,144,West Indies,"Warner Park, Basseterre",5,Bangladesh
+201,32.2,1,Naeem Islam,2009-07-31,1st,DJG Sammy,8,,FL Reifer,31,West Indies,Bangladesh,145,West Indies,"Warner Park, Basseterre",5,Bangladesh
+202,32.3,0,Naeem Islam,2009-07-31,1st,FL Reifer,31,,DJG Sammy,8,West Indies,Bangladesh,145,West Indies,"Warner Park, Basseterre",5,Bangladesh
+203,32.4,4,Naeem Islam,2009-07-31,1st,FL Reifer,31,,DJG Sammy,12,West Indies,Bangladesh,149,West Indies,"Warner Park, Basseterre",5,Bangladesh
+204,32.5,4,Naeem Islam,2009-07-31,1st,FL Reifer,31,,DJG Sammy,16,West Indies,Bangladesh,153,West Indies,"Warner Park, Basseterre",5,Bangladesh
+205,32.6,1,Naeem Islam,2009-07-31,1st,FL Reifer,31,,DJG Sammy,17,West Indies,Bangladesh,154,West Indies,"Warner Park, Basseterre",5,Bangladesh
+206,33.1,6,Mahmudullah,2009-07-31,1st,FL Reifer,31,,DJG Sammy,23,West Indies,Bangladesh,160,West Indies,"Warner Park, Basseterre",5,Bangladesh
+207,33.2,6,Mahmudullah,2009-07-31,1st,FL Reifer,31,,DJG Sammy,29,West Indies,Bangladesh,166,West Indies,"Warner Park, Basseterre",5,Bangladesh
+208,33.3,0,Mahmudullah,2009-07-31,1st,FL Reifer,31,,DJG Sammy,29,West Indies,Bangladesh,168,West Indies,"Warner Park, Basseterre",5,Bangladesh
+209,33.4,0,Mahmudullah,2009-07-31,1st,DJG Sammy,29,,FL Reifer,31,West Indies,Bangladesh,168,West Indies,"Warner Park, Basseterre",5,Bangladesh
+210,33.5,0,Mahmudullah,2009-07-31,1st,DJG Sammy,29,,FL Reifer,31,West Indies,Bangladesh,168,West Indies,"Warner Park, Basseterre",5,Bangladesh
+211,33.6,0,Mahmudullah,2009-07-31,1st,DJG Sammy,29,,FL Reifer,31,West Indies,Bangladesh,168,West Indies,"Warner Park, Basseterre",5,Bangladesh
+212,33.7,1,Mahmudullah,2009-07-31,1st,DJG Sammy,29,,FL Reifer,32,West Indies,Bangladesh,169,West Indies,"Warner Park, Basseterre",5,Bangladesh
+213,34.1,2,Naeem Islam,2009-07-31,1st,DJG Sammy,29,,FL Reifer,34,West Indies,Bangladesh,171,West Indies,"Warner Park, Basseterre",5,Bangladesh
+214,34.2,0,Naeem Islam,2009-07-31,1st,DJG Sammy,29,,FL Reifer,34,West Indies,Bangladesh,171,West Indies,"Warner Park, Basseterre",5,Bangladesh
+215,34.3,4,Naeem Islam,2009-07-31,1st,DJG Sammy,29,,FL Reifer,38,West Indies,Bangladesh,175,West Indies,"Warner Park, Basseterre",5,Bangladesh
+216,34.4,1,Naeem Islam,2009-07-31,1st,DJG Sammy,29,,FL Reifer,39,West Indies,Bangladesh,176,West Indies,"Warner Park, Basseterre",5,Bangladesh
+217,34.5,0,Naeem Islam,2009-07-31,1st,FL Reifer,39,,DJG Sammy,29,West Indies,Bangladesh,176,West Indies,"Warner Park, Basseterre",5,Bangladesh
+218,34.6,4,Naeem Islam,2009-07-31,1st,FL Reifer,39,,DJG Sammy,33,West Indies,Bangladesh,180,West Indies,"Warner Park, Basseterre",5,Bangladesh
+219,35.1,0,Shakib Al Hasan,2009-07-31,1st,DJG Sammy,33,,FL Reifer,39,West Indies,Bangladesh,180,West Indies,"Warner Park, Basseterre",5,Bangladesh
+220,35.2,0,Shakib Al Hasan,2009-07-31,1st,DJG Sammy,33,,FL Reifer,39,West Indies,Bangladesh,180,West Indies,"Warner Park, Basseterre",5,Bangladesh
+221,35.3,0,Shakib Al Hasan,2009-07-31,1st,DJG Sammy,33,,FL Reifer,39,West Indies,Bangladesh,180,West Indies,"Warner Park, Basseterre",5,Bangladesh
+222,35.4,1,Shakib Al Hasan,2009-07-31,1st,DJG Sammy,33,,FL Reifer,40,West Indies,Bangladesh,181,West Indies,"Warner Park, Basseterre",5,Bangladesh
+223,35.5,0,Shakib Al Hasan,2009-07-31,1st,FL Reifer,40,,DJG Sammy,33,West Indies,Bangladesh,181,West Indies,"Warner Park, Basseterre",5,Bangladesh
+224,35.6,1,Shakib Al Hasan,2009-07-31,1st,FL Reifer,40,,DJG Sammy,34,West Indies,Bangladesh,182,West Indies,"Warner Park, Basseterre",5,Bangladesh
+225,36.1,0,Mahbubul Alam,2009-07-31,1st,FL Reifer,40,,DJG Sammy,34,West Indies,Bangladesh,182,West Indies,"Warner Park, Basseterre",5,Bangladesh
+226,36.2,0,Mahbubul Alam,2009-07-31,1st,FL Reifer,40,,DJG Sammy,34,West Indies,Bangladesh,183,West Indies,"Warner Park, Basseterre",5,Bangladesh
+227,36.3,0,Mahbubul Alam,2009-07-31,1st,FL Reifer,40,,DJG Sammy,34,West Indies,Bangladesh,183,West Indies,"Warner Park, Basseterre",5,Bangladesh
+228,36.4,4,Mahbubul Alam,2009-07-31,1st,FL Reifer,40,,DJG Sammy,38,West Indies,Bangladesh,187,West Indies,"Warner Park, Basseterre",5,Bangladesh
+229,36.5,1,Mahbubul Alam,2009-07-31,1st,FL Reifer,40,,DJG Sammy,39,West Indies,Bangladesh,188,West Indies,"Warner Park, Basseterre",5,Bangladesh
+230,36.6,0,Mahbubul Alam,2009-07-31,1st,DJG Sammy,39,,FL Reifer,40,West Indies,Bangladesh,188,West Indies,"Warner Park, Basseterre",5,Bangladesh
+231,36.7,0,Mahbubul Alam,2009-07-31,1st,DJG Sammy,39,FL Reifer,FL Reifer,40,West Indies,Bangladesh,188,West Indies,"Warner Park, Basseterre",6,Bangladesh
+232,37.1,0,Abdur Razzak,2009-07-31,1st,DC Thomas,0,,DJG Sammy,39,West Indies,Bangladesh,188,West Indies,"Warner Park, Basseterre",6,Bangladesh
+233,37.2,0,Abdur Razzak,2009-07-31,1st,DC Thomas,0,,DJG Sammy,39,West Indies,Bangladesh,188,West Indies,"Warner Park, Basseterre",6,Bangladesh
+234,37.3,1,Abdur Razzak,2009-07-31,1st,DC Thomas,0,,DJG Sammy,40,West Indies,Bangladesh,189,West Indies,"Warner Park, Basseterre",6,Bangladesh
+235,37.4,1,Abdur Razzak,2009-07-31,1st,DJG Sammy,40,,DC Thomas,1,West Indies,Bangladesh,190,West Indies,"Warner Park, Basseterre",6,Bangladesh
+236,37.5,0,Abdur Razzak,2009-07-31,1st,DC Thomas,1,,DJG Sammy,40,West Indies,Bangladesh,190,West Indies,"Warner Park, Basseterre",6,Bangladesh
+237,37.6,0,Abdur Razzak,2009-07-31,1st,DC Thomas,1,DJG Sammy,DJG Sammy,40,West Indies,Bangladesh,190,West Indies,"Warner Park, Basseterre",7,Bangladesh
+238,38.1,0,Mahbubul Alam,2009-07-31,1st,NO Miller,0,,DC Thomas,1,West Indies,Bangladesh,190,West Indies,"Warner Park, Basseterre",7,Bangladesh
+239,38.2,0,Mahbubul Alam,2009-07-31,1st,NO Miller,0,,DC Thomas,1,West Indies,Bangladesh,191,West Indies,"Warner Park, Basseterre",7,Bangladesh
+240,38.3,0,Mahbubul Alam,2009-07-31,1st,NO Miller,0,,DC Thomas,1,West Indies,Bangladesh,191,West Indies,"Warner Park, Basseterre",7,Bangladesh
+241,38.4,1,Mahbubul Alam,2009-07-31,1st,NO Miller,0,,DC Thomas,2,West Indies,Bangladesh,192,West Indies,"Warner Park, Basseterre",7,Bangladesh
+242,38.5,0,Mahbubul Alam,2009-07-31,1st,DC Thomas,2,,NO Miller,0,West Indies,Bangladesh,192,West Indies,"Warner Park, Basseterre",7,Bangladesh
+243,38.6,1,Mahbubul Alam,2009-07-31,1st,DC Thomas,2,,NO Miller,1,West Indies,Bangladesh,193,West Indies,"Warner Park, Basseterre",7,Bangladesh
+244,38.7,0,Mahbubul Alam,2009-07-31,1st,NO Miller,1,,DC Thomas,2,West Indies,Bangladesh,194,West Indies,"Warner Park, Basseterre",7,Bangladesh
+245,38.8,1,Mahbubul Alam,2009-07-31,1st,NO Miller,1,,DC Thomas,3,West Indies,Bangladesh,195,West Indies,"Warner Park, Basseterre",7,Bangladesh
+246,39.1,0,Abdur Razzak,2009-07-31,1st,NO Miller,1,,DC Thomas,3,West Indies,Bangladesh,196,West Indies,"Warner Park, Basseterre",7,Bangladesh
+247,39.2,1,Abdur Razzak,2009-07-31,1st,NO Miller,1,,DC Thomas,4,West Indies,Bangladesh,197,West Indies,"Warner Park, Basseterre",7,Bangladesh
+248,39.3,0,Abdur Razzak,2009-07-31,1st,DC Thomas,4,,NO Miller,1,West Indies,Bangladesh,198,West Indies,"Warner Park, Basseterre",7,Bangladesh
+249,39.4,0,Abdur Razzak,2009-07-31,1st,DC Thomas,4,,NO Miller,1,West Indies,Bangladesh,198,West Indies,"Warner Park, Basseterre",7,Bangladesh
+250,39.5,4,Abdur Razzak,2009-07-31,1st,DC Thomas,4,,NO Miller,5,West Indies,Bangladesh,202,West Indies,"Warner Park, Basseterre",7,Bangladesh
+251,39.6,0,Abdur Razzak,2009-07-31,1st,DC Thomas,4,,NO Miller,5,West Indies,Bangladesh,202,West Indies,"Warner Park, Basseterre",7,Bangladesh
+252,39.7,1,Abdur Razzak,2009-07-31,1st,DC Thomas,4,,NO Miller,6,West Indies,Bangladesh,203,West Indies,"Warner Park, Basseterre",7,Bangladesh
+253,39.8,1,Abdur Razzak,2009-07-31,1st,NO Miller,6,,DC Thomas,5,West Indies,Bangladesh,204,West Indies,"Warner Park, Basseterre",7,Bangladesh
+254,40.1,0,Nazmul Hossain,2009-07-31,1st,NO Miller,6,,DC Thomas,5,West Indies,Bangladesh,204,West Indies,"Warner Park, Basseterre",7,Bangladesh
+255,40.2,1,Nazmul Hossain,2009-07-31,1st,NO Miller,6,,DC Thomas,6,West Indies,Bangladesh,205,West Indies,"Warner Park, Basseterre",7,Bangladesh
+256,40.3,1,Nazmul Hossain,2009-07-31,1st,DC Thomas,6,,NO Miller,7,West Indies,Bangladesh,206,West Indies,"Warner Park, Basseterre",7,Bangladesh
+257,40.4,1,Nazmul Hossain,2009-07-31,1st,NO Miller,7,,DC Thomas,7,West Indies,Bangladesh,207,West Indies,"Warner Park, Basseterre",7,Bangladesh
+258,40.5,0,Nazmul Hossain,2009-07-31,1st,DC Thomas,7,,NO Miller,7,West Indies,Bangladesh,207,West Indies,"Warner Park, Basseterre",7,Bangladesh
+259,40.6,0,Nazmul Hossain,2009-07-31,1st,DC Thomas,7,,NO Miller,7,West Indies,Bangladesh,207,West Indies,"Warner Park, Basseterre",7,Bangladesh
+260,41.1,2,Abdur Razzak,2009-07-31,1st,NO Miller,7,,DC Thomas,9,West Indies,Bangladesh,209,West Indies,"Warner Park, Basseterre",7,Bangladesh
+261,41.2,1,Abdur Razzak,2009-07-31,1st,NO Miller,7,,DC Thomas,10,West Indies,Bangladesh,210,West Indies,"Warner Park, Basseterre",7,Bangladesh
+262,41.3,2,Abdur Razzak,2009-07-31,1st,DC Thomas,10,,NO Miller,9,West Indies,Bangladesh,212,West Indies,"Warner Park, Basseterre",7,Bangladesh
+263,41.4,1,Abdur Razzak,2009-07-31,1st,DC Thomas,10,,NO Miller,10,West Indies,Bangladesh,213,West Indies,"Warner Park, Basseterre",7,Bangladesh
+264,41.5,4,Abdur Razzak,2009-07-31,1st,NO Miller,10,,DC Thomas,14,West Indies,Bangladesh,217,West Indies,"Warner Park, Basseterre",7,Bangladesh
+265,41.6,0,Abdur Razzak,2009-07-31,1st,NO Miller,10,,DC Thomas,14,West Indies,Bangladesh,217,West Indies,"Warner Park, Basseterre",7,Bangladesh
+266,42.1,0,Naeem Islam,2009-07-31,1st,DC Thomas,14,,NO Miller,10,West Indies,Bangladesh,217,West Indies,"Warner Park, Basseterre",7,Bangladesh
+267,42.2,2,Naeem Islam,2009-07-31,1st,DC Thomas,14,,NO Miller,12,West Indies,Bangladesh,219,West Indies,"Warner Park, Basseterre",7,Bangladesh
+268,42.3,1,Naeem Islam,2009-07-31,1st,DC Thomas,14,,NO Miller,13,West Indies,Bangladesh,220,West Indies,"Warner Park, Basseterre",7,Bangladesh
+269,42.4,1,Naeem Islam,2009-07-31,1st,NO Miller,13,,DC Thomas,15,West Indies,Bangladesh,221,West Indies,"Warner Park, Basseterre",7,Bangladesh
+270,42.5,0,Naeem Islam,2009-07-31,1st,DC Thomas,15,NO Miller,NO Miller,13,West Indies,Bangladesh,221,West Indies,"Warner Park, Basseterre",8,Bangladesh
+271,42.6,0,Naeem Islam,2009-07-31,1st,KAJ Roach,0,,DC Thomas,15,West Indies,Bangladesh,221,West Indies,"Warner Park, Basseterre",8,Bangladesh
+272,43.1,1,Shakib Al Hasan,2009-07-31,1st,DC Thomas,15,,KAJ Roach,1,West Indies,Bangladesh,222,West Indies,"Warner Park, Basseterre",8,Bangladesh
+273,43.2,0,Shakib Al Hasan,2009-07-31,1st,KAJ Roach,1,,DC Thomas,15,West Indies,Bangladesh,222,West Indies,"Warner Park, Basseterre",8,Bangladesh
+274,43.3,1,Shakib Al Hasan,2009-07-31,1st,KAJ Roach,1,,DC Thomas,16,West Indies,Bangladesh,223,West Indies,"Warner Park, Basseterre",8,Bangladesh
+275,43.4,0,Shakib Al Hasan,2009-07-31,1st,DC Thomas,16,,KAJ Roach,1,West Indies,Bangladesh,223,West Indies,"Warner Park, Basseterre",8,Bangladesh
+276,43.5,0,Shakib Al Hasan,2009-07-31,1st,DC Thomas,16,,KAJ Roach,1,West Indies,Bangladesh,223,West Indies,"Warner Park, Basseterre",8,Bangladesh
+277,43.6,0,Shakib Al Hasan,2009-07-31,1st,DC Thomas,16,,KAJ Roach,1,West Indies,Bangladesh,223,West Indies,"Warner Park, Basseterre",8,Bangladesh
+278,44.1,0,Naeem Islam,2009-07-31,1st,KAJ Roach,1,,DC Thomas,16,West Indies,Bangladesh,224,West Indies,"Warner Park, Basseterre",8,Bangladesh
+279,44.2,0,Naeem Islam,2009-07-31,1st,KAJ Roach,1,,DC Thomas,16,West Indies,Bangladesh,225,West Indies,"Warner Park, Basseterre",8,Bangladesh
+280,44.3,0,Naeem Islam,2009-07-31,1st,KAJ Roach,1,,DC Thomas,16,West Indies,Bangladesh,225,West Indies,"Warner Park, Basseterre",8,Bangladesh
+281,44.4,0,Naeem Islam,2009-07-31,1st,KAJ Roach,1,,DC Thomas,16,West Indies,Bangladesh,225,West Indies,"Warner Park, Basseterre",8,Bangladesh
+282,44.5,1,Naeem Islam,2009-07-31,1st,KAJ Roach,1,,DC Thomas,17,West Indies,Bangladesh,226,West Indies,"Warner Park, Basseterre",8,Bangladesh
+283,44.6,1,Naeem Islam,2009-07-31,1st,DC Thomas,17,,KAJ Roach,2,West Indies,Bangladesh,227,West Indies,"Warner Park, Basseterre",8,Bangladesh
+284,44.7,2,Naeem Islam,2009-07-31,1st,KAJ Roach,2,,DC Thomas,19,West Indies,Bangladesh,229,West Indies,"Warner Park, Basseterre",8,Bangladesh
+285,44.8,1,Naeem Islam,2009-07-31,1st,KAJ Roach,2,,DC Thomas,20,West Indies,Bangladesh,230,West Indies,"Warner Park, Basseterre",8,Bangladesh
+286,45.1,1,Shakib Al Hasan,2009-07-31,1st,KAJ Roach,2,,DC Thomas,21,West Indies,Bangladesh,231,West Indies,"Warner Park, Basseterre",8,Bangladesh
+287,45.2,2,Shakib Al Hasan,2009-07-31,1st,DC Thomas,21,,KAJ Roach,4,West Indies,Bangladesh,233,West Indies,"Warner Park, Basseterre",8,Bangladesh
+288,45.3,1,Shakib Al Hasan,2009-07-31,1st,DC Thomas,21,,KAJ Roach,5,West Indies,Bangladesh,234,West Indies,"Warner Park, Basseterre",8,Bangladesh
+289,45.4,0,Shakib Al Hasan,2009-07-31,1st,KAJ Roach,5,,DC Thomas,21,West Indies,Bangladesh,234,West Indies,"Warner Park, Basseterre",8,Bangladesh
+290,45.5,0,Shakib Al Hasan,2009-07-31,1st,KAJ Roach,5,,DC Thomas,21,West Indies,Bangladesh,234,West Indies,"Warner Park, Basseterre",8,Bangladesh
+291,45.6,4,Shakib Al Hasan,2009-07-31,1st,KAJ Roach,5,,DC Thomas,25,West Indies,Bangladesh,238,West Indies,"Warner Park, Basseterre",8,Bangladesh
+292,46.1,4,Mahmudullah,2009-07-31,1st,DC Thomas,25,,KAJ Roach,9,West Indies,Bangladesh,242,West Indies,"Warner Park, Basseterre",8,Bangladesh
+293,46.2,1,Mahmudullah,2009-07-31,1st,DC Thomas,25,,KAJ Roach,10,West Indies,Bangladesh,243,West Indies,"Warner Park, Basseterre",8,Bangladesh
+294,46.3,1,Mahmudullah,2009-07-31,1st,KAJ Roach,10,,DC Thomas,26,West Indies,Bangladesh,244,West Indies,"Warner Park, Basseterre",8,Bangladesh
+295,46.4,0,Mahmudullah,2009-07-31,1st,DC Thomas,26,,KAJ Roach,10,West Indies,Bangladesh,244,West Indies,"Warner Park, Basseterre",8,Bangladesh
+296,46.5,0,Mahmudullah,2009-07-31,1st,DC Thomas,26,KAJ Roach,KAJ Roach,10,West Indies,Bangladesh,244,West Indies,"Warner Park, Basseterre",9,Bangladesh
+297,46.6,1,Mahmudullah,2009-07-31,1st,GC Tonge,0,,DC Thomas,27,West Indies,Bangladesh,245,West Indies,"Warner Park, Basseterre",9,Bangladesh
+298,47.1,0,Shakib Al Hasan,2009-07-31,1st,GC Tonge,0,,DC Thomas,27,West Indies,Bangladesh,245,West Indies,"Warner Park, Basseterre",9,Bangladesh
+299,47.2,1,Shakib Al Hasan,2009-07-31,1st,GC Tonge,0,,DC Thomas,28,West Indies,Bangladesh,246,West Indies,"Warner Park, Basseterre",9,Bangladesh
+300,47.3,1,Shakib Al Hasan,2009-07-31,1st,DC Thomas,28,,GC Tonge,1,West Indies,Bangladesh,247,West Indies,"Warner Park, Basseterre",9,Bangladesh
+301,47.4,1,Shakib Al Hasan,2009-07-31,1st,GC Tonge,1,GC Tonge,DC Thomas,29,West Indies,Bangladesh,248,West Indies,"Warner Park, Basseterre",10,Bangladesh
+302,0.1,2,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,2,West Indies,"Warner Park, Basseterre",0,Bangladesh
+303,0.2,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,2,West Indies,"Warner Park, Basseterre",0,Bangladesh
+304,0.3,4,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",0,Bangladesh
+305,0.4,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,6,West Indies,"Warner Park, Basseterre",0,Bangladesh
+306,0.5,4,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,10,West Indies,"Warner Park, Basseterre",0,Bangladesh
+307,0.6,4,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,14,West Indies,"Warner Park, Basseterre",0,Bangladesh
+308,1.1,0,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,14,West Indies,"Warner Park, Basseterre",0,Bangladesh
+309,1.2,1,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,15,West Indies,"Warner Park, Basseterre",0,Bangladesh
+310,1.3,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,15,West Indies,"Warner Park, Basseterre",0,Bangladesh
+311,1.4,1,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,16,West Indies,"Warner Park, Basseterre",0,Bangladesh
+312,1.5,4,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,20,West Indies,"Warner Park, Basseterre",0,Bangladesh
+313,1.6,0,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,20,West Indies,"Warner Park, Basseterre",0,Bangladesh
+314,2.1,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,20,West Indies,"Warner Park, Basseterre",0,Bangladesh
+315,2.2,4,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,24,West Indies,"Warner Park, Basseterre",0,Bangladesh
+316,2.3,4,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,28,West Indies,"Warner Park, Basseterre",0,Bangladesh
+317,2.4,1,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,29,West Indies,"Warner Park, Basseterre",0,Bangladesh
+318,2.5,0,KAJ Roach,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,29,West Indies,"Warner Park, Basseterre",0,Bangladesh
+319,2.6,4,KAJ Roach,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,33,West Indies,"Warner Park, Basseterre",0,Bangladesh
+320,3.1,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,33,West Indies,"Warner Park, Basseterre",0,Bangladesh
+321,3.2,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,33,West Indies,"Warner Park, Basseterre",0,Bangladesh
+322,3.3,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,33,West Indies,"Warner Park, Basseterre",0,Bangladesh
+323,3.4,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,33,West Indies,"Warner Park, Basseterre",0,Bangladesh
+324,3.5,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,33,West Indies,"Warner Park, Basseterre",0,Bangladesh
+325,3.6,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,33,West Indies,"Warner Park, Basseterre",0,Bangladesh
+326,4.1,1,DJG Sammy,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",0,Bangladesh
+327,4.2,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",0,Bangladesh
+328,4.3,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",0,Bangladesh
+329,4.4,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",0,Bangladesh
+330,4.5,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",0,Bangladesh
+331,4.6,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",0,Bangladesh
+332,5.1,0,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,34,West Indies,"Warner Park, Basseterre",0,Bangladesh
+333,5.2,4,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,38,West Indies,"Warner Park, Basseterre",0,Bangladesh
+334,5.3,0,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,38,West Indies,"Warner Park, Basseterre",0,Bangladesh
+335,5.4,4,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,42,West Indies,"Warner Park, Basseterre",0,Bangladesh
+336,5.5,0,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,42,West Indies,"Warner Park, Basseterre",0,Bangladesh
+337,5.6,1,GC Tonge,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,43,West Indies,"Warner Park, Basseterre",0,Bangladesh
+338,6.1,0,DJG Sammy,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,43,West Indies,"Warner Park, Basseterre",0,Bangladesh
+339,6.2,0,DJG Sammy,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,43,West Indies,"Warner Park, Basseterre",0,Bangladesh
+340,6.3,0,DJG Sammy,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,43,West Indies,"Warner Park, Basseterre",0,Bangladesh
+341,6.4,1,DJG Sammy,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,44,West Indies,"Warner Park, Basseterre",0,Bangladesh
+342,6.5,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,44,West Indies,"Warner Park, Basseterre",0,Bangladesh
+343,6.6,6,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,50,West Indies,"Warner Park, Basseterre",0,Bangladesh
+344,7.1,0,DE Bernard,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,50,West Indies,"Warner Park, Basseterre",0,Bangladesh
+345,7.2,0,DE Bernard,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,50,West Indies,"Warner Park, Basseterre",0,Bangladesh
+346,7.3,0,DE Bernard,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,50,West Indies,"Warner Park, Basseterre",0,Bangladesh
+347,7.4,4,DE Bernard,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",0,Bangladesh
+348,7.5,0,DE Bernard,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",0,Bangladesh
+349,7.6,0,DE Bernard,2009-07-31,2nd,Tamim Iqbal,0,,Junaid Siddique,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",0,Bangladesh
+350,8.1,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",0,Bangladesh
+351,8.2,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Tamim Iqbal,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",1,Bangladesh
+352,8.3,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",1,Bangladesh
+353,8.4,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",1,Bangladesh
+354,8.5,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",1,Bangladesh
+355,8.6,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",1,Bangladesh
+356,9.1,0,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",1,Bangladesh
+357,9.2,0,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,54,West Indies,"Warner Park, Basseterre",1,Bangladesh
+358,9.3,1,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,55,West Indies,"Warner Park, Basseterre",1,Bangladesh
+359,9.4,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,56,West Indies,"Warner Park, Basseterre",1,Bangladesh
+360,9.5,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,56,West Indies,"Warner Park, Basseterre",1,Bangladesh
+361,9.6,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,56,West Indies,"Warner Park, Basseterre",1,Bangladesh
+362,9.7,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,56,West Indies,"Warner Park, Basseterre",1,Bangladesh
+363,10.1,1,DJG Sammy,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,57,West Indies,"Warner Park, Basseterre",1,Bangladesh
+364,10.2,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,57,West Indies,"Warner Park, Basseterre",1,Bangladesh
+365,10.3,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,57,West Indies,"Warner Park, Basseterre",1,Bangladesh
+366,10.4,2,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,59,West Indies,"Warner Park, Basseterre",1,Bangladesh
+367,10.5,2,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,61,West Indies,"Warner Park, Basseterre",1,Bangladesh
+368,10.6,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,61,West Indies,"Warner Park, Basseterre",1,Bangladesh
+369,11.1,1,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,62,West Indies,"Warner Park, Basseterre",1,Bangladesh
+370,11.2,4,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,66,West Indies,"Warner Park, Basseterre",1,Bangladesh
+371,11.3,1,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,67,West Indies,"Warner Park, Basseterre",1,Bangladesh
+372,11.4,0,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,67,West Indies,"Warner Park, Basseterre",1,Bangladesh
+373,11.5,0,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,67,West Indies,"Warner Park, Basseterre",1,Bangladesh
+374,11.6,0,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,67,West Indies,"Warner Park, Basseterre",1,Bangladesh
+375,12.1,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,67,West Indies,"Warner Park, Basseterre",1,Bangladesh
+376,12.2,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,67,West Indies,"Warner Park, Basseterre",1,Bangladesh
+377,12.3,4,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,71,West Indies,"Warner Park, Basseterre",1,Bangladesh
+378,12.4,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,71,West Indies,"Warner Park, Basseterre",1,Bangladesh
+379,12.5,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,71,West Indies,"Warner Park, Basseterre",1,Bangladesh
+380,12.6,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,71,West Indies,"Warner Park, Basseterre",1,Bangladesh
+381,13.1,1,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,72,West Indies,"Warner Park, Basseterre",1,Bangladesh
+382,13.2,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,73,West Indies,"Warner Park, Basseterre",1,Bangladesh
+383,13.3,1,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,74,West Indies,"Warner Park, Basseterre",1,Bangladesh
+384,13.4,1,DE Bernard,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,75,West Indies,"Warner Park, Basseterre",1,Bangladesh
+385,13.5,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,75,West Indies,"Warner Park, Basseterre",1,Bangladesh
+386,13.6,4,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,79,West Indies,"Warner Park, Basseterre",1,Bangladesh
+387,13.7,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,79,West Indies,"Warner Park, Basseterre",1,Bangladesh
+388,14.1,0,DJG Sammy,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,79,West Indies,"Warner Park, Basseterre",1,Bangladesh
+389,14.2,0,DJG Sammy,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,79,West Indies,"Warner Park, Basseterre",1,Bangladesh
+390,14.3,0,DJG Sammy,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,79,West Indies,"Warner Park, Basseterre",1,Bangladesh
+391,14.4,1,DJG Sammy,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,80,West Indies,"Warner Park, Basseterre",1,Bangladesh
+392,14.5,1,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,81,West Indies,"Warner Park, Basseterre",1,Bangladesh
+393,14.6,2,DJG Sammy,2009-07-31,2nd,Mohammad Ashraful,0,,Junaid Siddique,0,West Indies,Bangladesh,83,West Indies,"Warner Park, Basseterre",1,Bangladesh
+394,15.1,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,83,West Indies,"Warner Park, Basseterre",1,Bangladesh
+395,15.2,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Mohammad Ashraful,0,West Indies,Bangladesh,83,West Indies,"Warner Park, Basseterre",2,Bangladesh
+396,15.3,1,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,84,West Indies,"Warner Park, Basseterre",2,Bangladesh
+397,15.4,2,DE Bernard,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,86,West Indies,"Warner Park, Basseterre",2,Bangladesh
+398,15.5,1,DE Bernard,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,87,West Indies,"Warner Park, Basseterre",2,Bangladesh
+399,15.6,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,88,West Indies,"Warner Park, Basseterre",2,Bangladesh
+400,15.7,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,88,West Indies,"Warner Park, Basseterre",2,Bangladesh
+401,16.1,0,DJG Sammy,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,88,West Indies,"Warner Park, Basseterre",2,Bangladesh
+402,16.2,1,DJG Sammy,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,89,West Indies,"Warner Park, Basseterre",2,Bangladesh
+403,16.3,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,89,West Indies,"Warner Park, Basseterre",2,Bangladesh
+404,16.4,2,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,91,West Indies,"Warner Park, Basseterre",2,Bangladesh
+405,16.5,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,91,West Indies,"Warner Park, Basseterre",2,Bangladesh
+406,16.6,0,DJG Sammy,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,91,West Indies,"Warner Park, Basseterre",2,Bangladesh
+407,17.1,0,DE Bernard,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,91,West Indies,"Warner Park, Basseterre",2,Bangladesh
+408,17.2,0,DE Bernard,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,91,West Indies,"Warner Park, Basseterre",2,Bangladesh
+409,17.3,1,DE Bernard,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,92,West Indies,"Warner Park, Basseterre",2,Bangladesh
+410,17.4,1,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,93,West Indies,"Warner Park, Basseterre",2,Bangladesh
+411,17.5,1,DE Bernard,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,94,West Indies,"Warner Park, Basseterre",2,Bangladesh
+412,17.6,0,DE Bernard,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,94,West Indies,"Warner Park, Basseterre",2,Bangladesh
+413,18.1,0,GC Tonge,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,94,West Indies,"Warner Park, Basseterre",2,Bangladesh
+414,18.2,0,GC Tonge,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,94,West Indies,"Warner Park, Basseterre",2,Bangladesh
+415,18.3,0,GC Tonge,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,94,West Indies,"Warner Park, Basseterre",2,Bangladesh
+416,18.4,1,GC Tonge,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,95,West Indies,"Warner Park, Basseterre",2,Bangladesh
+417,18.5,1,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",2,Bangladesh
+418,18.6,0,GC Tonge,2009-07-31,2nd,Raqibul Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",2,Bangladesh
+419,19.1,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Raqibul Hasan,0,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",3,Bangladesh
+420,19.2,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",3,Bangladesh
+421,19.3,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",3,Bangladesh
+422,19.4,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,96,West Indies,"Warner Park, Basseterre",3,Bangladesh
+423,19.5,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,97,West Indies,"Warner Park, Basseterre",3,Bangladesh
+424,19.6,1,KAJ Roach,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,98,West Indies,"Warner Park, Basseterre",3,Bangladesh
+425,20.1,0,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,98,West Indies,"Warner Park, Basseterre",3,Bangladesh
+426,20.2,2,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,100,West Indies,"Warner Park, Basseterre",3,Bangladesh
+427,20.3,1,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,101,West Indies,"Warner Park, Basseterre",3,Bangladesh
+428,20.4,1,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,102,West Indies,"Warner Park, Basseterre",3,Bangladesh
+429,20.5,2,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,104,West Indies,"Warner Park, Basseterre",3,Bangladesh
+430,20.6,4,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,108,West Indies,"Warner Park, Basseterre",3,Bangladesh
+431,21.1,4,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,112,West Indies,"Warner Park, Basseterre",3,Bangladesh
+432,21.2,1,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,113,West Indies,"Warner Park, Basseterre",3,Bangladesh
+433,21.3,1,KAJ Roach,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,114,West Indies,"Warner Park, Basseterre",3,Bangladesh
+434,21.4,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,114,West Indies,"Warner Park, Basseterre",3,Bangladesh
+435,21.5,2,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,116,West Indies,"Warner Park, Basseterre",3,Bangladesh
+436,21.6,6,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,122,West Indies,"Warner Park, Basseterre",3,Bangladesh
+437,22.1,2,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,124,West Indies,"Warner Park, Basseterre",3,Bangladesh
+438,22.2,1,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,125,West Indies,"Warner Park, Basseterre",3,Bangladesh
+439,22.3,1,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,126,West Indies,"Warner Park, Basseterre",3,Bangladesh
+440,22.4,1,GC Tonge,2009-07-31,2nd,Shakib Al Hasan,0,,Junaid Siddique,0,West Indies,Bangladesh,127,West Indies,"Warner Park, Basseterre",3,Bangladesh
+441,22.5,0,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,127,West Indies,"Warner Park, Basseterre",3,Bangladesh
+442,22.6,1,GC Tonge,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",3,Bangladesh
+443,23.1,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",3,Bangladesh
+444,23.2,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",3,Bangladesh
+445,23.3,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",3,Bangladesh
+446,23.4,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Shakib Al Hasan,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+447,23.5,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+448,23.6,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+449,24.1,0,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+450,24.2,0,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+451,24.3,0,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+452,24.4,0,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+453,24.5,0,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+454,24.6,0,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+455,25.1,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+456,25.2,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,128,West Indies,"Warner Park, Basseterre",4,Bangladesh
+457,25.3,1,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,129,West Indies,"Warner Park, Basseterre",4,Bangladesh
+458,25.4,1,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,130,West Indies,"Warner Park, Basseterre",4,Bangladesh
+459,25.5,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,130,West Indies,"Warner Park, Basseterre",4,Bangladesh
+460,25.6,1,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,131,West Indies,"Warner Park, Basseterre",4,Bangladesh
+461,26.1,0,NO Miller,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,131,West Indies,"Warner Park, Basseterre",4,Bangladesh
+462,26.2,0,NO Miller,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,131,West Indies,"Warner Park, Basseterre",4,Bangladesh
+463,26.3,1,NO Miller,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,132,West Indies,"Warner Park, Basseterre",4,Bangladesh
+464,26.4,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,132,West Indies,"Warner Park, Basseterre",4,Bangladesh
+465,26.5,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,132,West Indies,"Warner Park, Basseterre",4,Bangladesh
+466,26.6,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,132,West Indies,"Warner Park, Basseterre",4,Bangladesh
+467,27.1,0,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,132,West Indies,"Warner Park, Basseterre",4,Bangladesh
+468,27.2,1,KAJ Roach,2009-07-31,2nd,Junaid Siddique,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,133,West Indies,"Warner Park, Basseterre",4,Bangladesh
+469,27.3,0,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,133,West Indies,"Warner Park, Basseterre",4,Bangladesh
+470,27.4,0,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Junaid Siddique,0,West Indies,Bangladesh,133,West Indies,"Warner Park, Basseterre",5,Bangladesh
+471,27.5,0,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,134,West Indies,"Warner Park, Basseterre",5,Bangladesh
+472,27.6,0,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,134,West Indies,"Warner Park, Basseterre",5,Bangladesh
+473,27.7,0,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,134,West Indies,"Warner Park, Basseterre",5,Bangladesh
+474,28.1,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,135,West Indies,"Warner Park, Basseterre",5,Bangladesh
+475,28.2,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,135,West Indies,"Warner Park, Basseterre",5,Bangladesh
+476,28.3,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,135,West Indies,"Warner Park, Basseterre",5,Bangladesh
+477,28.4,1,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,136,West Indies,"Warner Park, Basseterre",5,Bangladesh
+478,28.5,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,137,West Indies,"Warner Park, Basseterre",5,Bangladesh
+479,28.6,1,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+480,29.1,0,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+481,29.2,0,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,138,West Indies,"Warner Park, Basseterre",5,Bangladesh
+482,29.3,1,KAJ Roach,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,139,West Indies,"Warner Park, Basseterre",5,Bangladesh
+483,29.4,0,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,139,West Indies,"Warner Park, Basseterre",5,Bangladesh
+484,29.5,0,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,139,West Indies,"Warner Park, Basseterre",5,Bangladesh
+485,29.6,0,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,139,West Indies,"Warner Park, Basseterre",5,Bangladesh
+486,30.1,4,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,143,West Indies,"Warner Park, Basseterre",5,Bangladesh
+487,30.2,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,143,West Indies,"Warner Park, Basseterre",5,Bangladesh
+488,30.3,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,143,West Indies,"Warner Park, Basseterre",5,Bangladesh
+489,30.4,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,143,West Indies,"Warner Park, Basseterre",5,Bangladesh
+490,30.5,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,143,West Indies,"Warner Park, Basseterre",5,Bangladesh
+491,30.6,1,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,144,West Indies,"Warner Park, Basseterre",5,Bangladesh
+492,31.1,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,144,West Indies,"Warner Park, Basseterre",5,Bangladesh
+493,31.2,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,144,West Indies,"Warner Park, Basseterre",5,Bangladesh
+494,31.3,1,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,145,West Indies,"Warner Park, Basseterre",5,Bangladesh
+495,31.4,1,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,146,West Indies,"Warner Park, Basseterre",5,Bangladesh
+496,31.5,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,146,West Indies,"Warner Park, Basseterre",5,Bangladesh
+497,31.6,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,146,West Indies,"Warner Park, Basseterre",5,Bangladesh
+498,32.1,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,147,West Indies,"Warner Park, Basseterre",5,Bangladesh
+499,32.2,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,147,West Indies,"Warner Park, Basseterre",5,Bangladesh
+500,32.3,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,147,West Indies,"Warner Park, Basseterre",5,Bangladesh
+501,32.4,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,147,West Indies,"Warner Park, Basseterre",5,Bangladesh
+502,32.5,1,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,148,West Indies,"Warner Park, Basseterre",5,Bangladesh
+503,32.6,0,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,148,West Indies,"Warner Park, Basseterre",5,Bangladesh
+504,33.1,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,149,West Indies,"Warner Park, Basseterre",5,Bangladesh
+505,33.2,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,149,West Indies,"Warner Park, Basseterre",5,Bangladesh
+506,33.3,1,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,150,West Indies,"Warner Park, Basseterre",5,Bangladesh
+507,33.4,0,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,150,West Indies,"Warner Park, Basseterre",5,Bangladesh
+508,33.5,0,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,150,West Indies,"Warner Park, Basseterre",5,Bangladesh
+509,33.6,4,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,154,West Indies,"Warner Park, Basseterre",5,Bangladesh
+510,33.7,0,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,154,West Indies,"Warner Park, Basseterre",5,Bangladesh
+511,34.1,1,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,155,West Indies,"Warner Park, Basseterre",5,Bangladesh
+512,34.2,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,156,West Indies,"Warner Park, Basseterre",5,Bangladesh
+513,34.3,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,156,West Indies,"Warner Park, Basseterre",5,Bangladesh
+514,34.4,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,156,West Indies,"Warner Park, Basseterre",5,Bangladesh
+515,34.5,1,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,157,West Indies,"Warner Park, Basseterre",5,Bangladesh
+516,34.6,0,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,157,West Indies,"Warner Park, Basseterre",5,Bangladesh
+517,35.1,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,157,West Indies,"Warner Park, Basseterre",5,Bangladesh
+518,35.2,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,157,West Indies,"Warner Park, Basseterre",5,Bangladesh
+519,35.3,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,157,West Indies,"Warner Park, Basseterre",5,Bangladesh
+520,35.4,0,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,157,West Indies,"Warner Park, Basseterre",5,Bangladesh
+521,35.5,1,DE Bernard,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,158,West Indies,"Warner Park, Basseterre",5,Bangladesh
+522,35.6,1,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,159,West Indies,"Warner Park, Basseterre",5,Bangladesh
+523,36.1,0,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,159,West Indies,"Warner Park, Basseterre",5,Bangladesh
+524,36.2,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,160,West Indies,"Warner Park, Basseterre",5,Bangladesh
+525,36.3,1,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,161,West Indies,"Warner Park, Basseterre",5,Bangladesh
+526,36.4,4,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,165,West Indies,"Warner Park, Basseterre",5,Bangladesh
+527,36.5,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,166,West Indies,"Warner Park, Basseterre",5,Bangladesh
+528,36.6,0,NO Miller,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,166,West Indies,"Warner Park, Basseterre",5,Bangladesh
+529,37.1,0,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,166,West Indies,"Warner Park, Basseterre",5,Bangladesh
+530,37.2,0,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,166,West Indies,"Warner Park, Basseterre",5,Bangladesh
+531,37.3,4,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,170,West Indies,"Warner Park, Basseterre",5,Bangladesh
+532,37.4,0,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,170,West Indies,"Warner Park, Basseterre",5,Bangladesh
+533,37.5,4,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,174,West Indies,"Warner Park, Basseterre",5,Bangladesh
+534,37.6,1,DE Bernard,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,175,West Indies,"Warner Park, Basseterre",5,Bangladesh
+535,38.1,0,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,175,West Indies,"Warner Park, Basseterre",5,Bangladesh
+536,38.2,1,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,176,West Indies,"Warner Park, Basseterre",5,Bangladesh
+537,38.3,0,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,177,West Indies,"Warner Park, Basseterre",5,Bangladesh
+538,38.4,2,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,179,West Indies,"Warner Park, Basseterre",5,Bangladesh
+539,38.5,1,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,180,West Indies,"Warner Park, Basseterre",5,Bangladesh
+540,38.6,1,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,181,West Indies,"Warner Park, Basseterre",5,Bangladesh
+541,38.7,1,GC Tonge,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,182,West Indies,"Warner Park, Basseterre",5,Bangladesh
+542,39.1,0,DJG Sammy,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,182,West Indies,"Warner Park, Basseterre",5,Bangladesh
+543,39.2,1,DJG Sammy,2009-07-31,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,West Indies,Bangladesh,183,West Indies,"Warner Park, Basseterre",5,Bangladesh
+544,39.3,0,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,183,West Indies,"Warner Park, Basseterre",5,Bangladesh
+545,39.4,0,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,West Indies,Bangladesh,183,West Indies,"Warner Park, Basseterre",6,Bangladesh
+546,39.5,0,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,183,West Indies,"Warner Park, Basseterre",6,Bangladesh
+547,39.6,0,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,183,West Indies,"Warner Park, Basseterre",6,Bangladesh
+548,40.1,1,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,184,West Indies,"Warner Park, Basseterre",6,Bangladesh
+549,40.2,0,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,184,West Indies,"Warner Park, Basseterre",6,Bangladesh
+550,40.3,0,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,184,West Indies,"Warner Park, Basseterre",6,Bangladesh
+551,40.4,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,185,West Indies,"Warner Park, Basseterre",6,Bangladesh
+552,40.5,1,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,186,West Indies,"Warner Park, Basseterre",6,Bangladesh
+553,40.6,0,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,186,West Indies,"Warner Park, Basseterre",6,Bangladesh
+554,41.1,0,GC Tonge,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,186,West Indies,"Warner Park, Basseterre",6,Bangladesh
+555,41.2,0,GC Tonge,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,186,West Indies,"Warner Park, Basseterre",6,Bangladesh
+556,41.3,1,GC Tonge,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,187,West Indies,"Warner Park, Basseterre",6,Bangladesh
+557,41.4,1,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,188,West Indies,"Warner Park, Basseterre",6,Bangladesh
+558,41.5,1,GC Tonge,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,189,West Indies,"Warner Park, Basseterre",6,Bangladesh
+559,41.6,1,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,190,West Indies,"Warner Park, Basseterre",6,Bangladesh
+560,42.1,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,191,West Indies,"Warner Park, Basseterre",6,Bangladesh
+561,42.2,2,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,193,West Indies,"Warner Park, Basseterre",6,Bangladesh
+562,42.3,0,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,193,West Indies,"Warner Park, Basseterre",6,Bangladesh
+563,42.4,1,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,194,West Indies,"Warner Park, Basseterre",6,Bangladesh
+564,42.5,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,195,West Indies,"Warner Park, Basseterre",6,Bangladesh
+565,42.6,1,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,196,West Indies,"Warner Park, Basseterre",6,Bangladesh
+566,43.1,1,GC Tonge,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,197,West Indies,"Warner Park, Basseterre",6,Bangladesh
+567,43.2,4,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,201,West Indies,"Warner Park, Basseterre",6,Bangladesh
+568,43.3,4,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,205,West Indies,"Warner Park, Basseterre",6,Bangladesh
+569,43.4,1,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,206,West Indies,"Warner Park, Basseterre",6,Bangladesh
+570,43.5,1,GC Tonge,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,207,West Indies,"Warner Park, Basseterre",6,Bangladesh
+571,43.6,4,GC Tonge,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,211,West Indies,"Warner Park, Basseterre",6,Bangladesh
+572,44.1,1,DJG Sammy,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,212,West Indies,"Warner Park, Basseterre",6,Bangladesh
+573,44.2,1,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,213,West Indies,"Warner Park, Basseterre",6,Bangladesh
+574,44.3,0,DJG Sammy,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,213,West Indies,"Warner Park, Basseterre",6,Bangladesh
+575,44.4,0,DJG Sammy,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,213,West Indies,"Warner Park, Basseterre",6,Bangladesh
+576,44.5,1,DJG Sammy,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,214,West Indies,"Warner Park, Basseterre",6,Bangladesh
+577,44.6,0,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,214,West Indies,"Warner Park, Basseterre",6,Bangladesh
+578,45.1,6,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,220,West Indies,"Warner Park, Basseterre",6,Bangladesh
+579,45.2,1,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,221,West Indies,"Warner Park, Basseterre",6,Bangladesh
+580,45.3,0,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,222,West Indies,"Warner Park, Basseterre",6,Bangladesh
+581,45.4,1,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,223,West Indies,"Warner Park, Basseterre",6,Bangladesh
+582,45.5,1,NO Miller,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,224,West Indies,"Warner Park, Basseterre",6,Bangladesh
+583,45.6,1,NO Miller,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,225,West Indies,"Warner Park, Basseterre",6,Bangladesh
+584,46.1,1,KAJ Roach,2009-07-31,2nd,Naeem Islam,0,,Mahmudullah,0,West Indies,Bangladesh,226,West Indies,"Warner Park, Basseterre",6,Bangladesh
+585,46.2,0,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,226,West Indies,"Warner Park, Basseterre",6,Bangladesh
+586,46.3,0,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,226,West Indies,"Warner Park, Basseterre",6,Bangladesh
+587,46.4,6,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,232,West Indies,"Warner Park, Basseterre",6,Bangladesh
+588,46.5,0,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Naeem Islam,0,West Indies,Bangladesh,232,West Indies,"Warner Park, Basseterre",7,Bangladesh
+589,46.6,0,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Abdur Razzak,0,West Indies,Bangladesh,232,West Indies,"Warner Park, Basseterre",7,Bangladesh
+590,47.1,0,DJG Sammy,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,233,West Indies,"Warner Park, Basseterre",7,Bangladesh
+591,47.2,1,DJG Sammy,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,234,West Indies,"Warner Park, Basseterre",7,Bangladesh
+592,47.3,1,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Abdur Razzak,0,West Indies,Bangladesh,235,West Indies,"Warner Park, Basseterre",7,Bangladesh
+593,47.4,1,DJG Sammy,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,236,West Indies,"Warner Park, Basseterre",7,Bangladesh
+594,47.5,3,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Abdur Razzak,0,West Indies,Bangladesh,239,West Indies,"Warner Park, Basseterre",7,Bangladesh
+595,47.6,1,DJG Sammy,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,240,West Indies,"Warner Park, Basseterre",7,Bangladesh
+596,47.7,1,DJG Sammy,2009-07-31,2nd,Mahmudullah,0,,Abdur Razzak,0,West Indies,Bangladesh,241,West Indies,"Warner Park, Basseterre",7,Bangladesh
+597,48.1,1,KAJ Roach,2009-07-31,2nd,Mahmudullah,0,,Abdur Razzak,0,West Indies,Bangladesh,242,West Indies,"Warner Park, Basseterre",7,Bangladesh
+598,48.2,0,KAJ Roach,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,242,West Indies,"Warner Park, Basseterre",7,Bangladesh
+599,48.3,0,KAJ Roach,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,243,West Indies,"Warner Park, Basseterre",7,Bangladesh
+600,48.4,4,KAJ Roach,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,247,West Indies,"Warner Park, Basseterre",7,Bangladesh
+601,48.5,0,KAJ Roach,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,247,West Indies,"Warner Park, Basseterre",7,Bangladesh
+602,48.6,2,KAJ Roach,2009-07-31,2nd,Abdur Razzak,0,,Mahmudullah,0,West Indies,Bangladesh,249,West Indies,"Warner Park, Basseterre",7,Bangladesh

@@ -1,0 +1,515 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,B Lee,2006-03-03,1st,HH Dippenaar,0,,GC Smith,0,South Africa,Australia,0,South Africa,Newlands,0,South Africa
+1,0.2,1,B Lee,2006-03-03,1st,HH Dippenaar,0,,GC Smith,1,South Africa,Australia,1,South Africa,Newlands,0,South Africa
+2,0.3,0,B Lee,2006-03-03,1st,GC Smith,1,,HH Dippenaar,0,South Africa,Australia,1,South Africa,Newlands,0,South Africa
+3,0.4,0,B Lee,2006-03-03,1st,GC Smith,1,,HH Dippenaar,0,South Africa,Australia,1,South Africa,Newlands,0,South Africa
+4,0.5,0,B Lee,2006-03-03,1st,GC Smith,1,,HH Dippenaar,0,South Africa,Australia,1,South Africa,Newlands,0,South Africa
+5,0.6,0,B Lee,2006-03-03,1st,GC Smith,1,,HH Dippenaar,0,South Africa,Australia,1,South Africa,Newlands,0,South Africa
+6,1.1,0,NW Bracken,2006-03-03,1st,HH Dippenaar,0,,GC Smith,1,South Africa,Australia,2,South Africa,Newlands,0,South Africa
+7,1.2,2,NW Bracken,2006-03-03,1st,HH Dippenaar,0,,GC Smith,3,South Africa,Australia,4,South Africa,Newlands,0,South Africa
+8,1.3,0,NW Bracken,2006-03-03,1st,HH Dippenaar,0,,GC Smith,3,South Africa,Australia,4,South Africa,Newlands,0,South Africa
+9,1.4,2,NW Bracken,2006-03-03,1st,HH Dippenaar,0,,GC Smith,5,South Africa,Australia,6,South Africa,Newlands,0,South Africa
+10,1.5,4,NW Bracken,2006-03-03,1st,HH Dippenaar,0,,GC Smith,9,South Africa,Australia,10,South Africa,Newlands,0,South Africa
+11,1.6,1,NW Bracken,2006-03-03,1st,HH Dippenaar,0,,GC Smith,10,South Africa,Australia,11,South Africa,Newlands,0,South Africa
+12,1.7,0,NW Bracken,2006-03-03,1st,GC Smith,10,,HH Dippenaar,0,South Africa,Australia,11,South Africa,Newlands,0,South Africa
+13,2.1,0,B Lee,2006-03-03,1st,HH Dippenaar,0,,GC Smith,10,South Africa,Australia,11,South Africa,Newlands,0,South Africa
+14,2.2,1,B Lee,2006-03-03,1st,HH Dippenaar,0,,GC Smith,11,South Africa,Australia,12,South Africa,Newlands,0,South Africa
+15,2.3,0,B Lee,2006-03-03,1st,GC Smith,11,,HH Dippenaar,0,South Africa,Australia,12,South Africa,Newlands,0,South Africa
+16,2.4,0,B Lee,2006-03-03,1st,GC Smith,11,,HH Dippenaar,0,South Africa,Australia,12,South Africa,Newlands,0,South Africa
+17,2.5,1,B Lee,2006-03-03,1st,GC Smith,11,,HH Dippenaar,1,South Africa,Australia,13,South Africa,Newlands,0,South Africa
+18,2.6,0,B Lee,2006-03-03,1st,HH Dippenaar,1,,GC Smith,11,South Africa,Australia,13,South Africa,Newlands,0,South Africa
+19,3.1,0,NW Bracken,2006-03-03,1st,GC Smith,11,,HH Dippenaar,1,South Africa,Australia,13,South Africa,Newlands,0,South Africa
+20,3.2,1,NW Bracken,2006-03-03,1st,GC Smith,11,,HH Dippenaar,2,South Africa,Australia,14,South Africa,Newlands,0,South Africa
+21,3.3,0,NW Bracken,2006-03-03,1st,HH Dippenaar,2,,GC Smith,11,South Africa,Australia,14,South Africa,Newlands,0,South Africa
+22,3.4,1,NW Bracken,2006-03-03,1st,HH Dippenaar,2,,GC Smith,12,South Africa,Australia,15,South Africa,Newlands,0,South Africa
+23,3.5,0,NW Bracken,2006-03-03,1st,GC Smith,12,,HH Dippenaar,2,South Africa,Australia,15,South Africa,Newlands,0,South Africa
+24,3.6,0,NW Bracken,2006-03-03,1st,GC Smith,12,,HH Dippenaar,2,South Africa,Australia,15,South Africa,Newlands,0,South Africa
+25,4.1,0,B Lee,2006-03-03,1st,HH Dippenaar,2,,GC Smith,12,South Africa,Australia,15,South Africa,Newlands,0,South Africa
+26,4.2,0,B Lee,2006-03-03,1st,HH Dippenaar,2,,GC Smith,12,South Africa,Australia,15,South Africa,Newlands,0,South Africa
+27,4.3,1,B Lee,2006-03-03,1st,HH Dippenaar,2,,GC Smith,13,South Africa,Australia,16,South Africa,Newlands,0,South Africa
+28,4.4,4,B Lee,2006-03-03,1st,GC Smith,13,,HH Dippenaar,6,South Africa,Australia,20,South Africa,Newlands,0,South Africa
+29,4.5,4,B Lee,2006-03-03,1st,GC Smith,13,,HH Dippenaar,10,South Africa,Australia,24,South Africa,Newlands,0,South Africa
+30,4.6,1,B Lee,2006-03-03,1st,GC Smith,13,,HH Dippenaar,11,South Africa,Australia,25,South Africa,Newlands,0,South Africa
+31,5.1,1,NW Bracken,2006-03-03,1st,GC Smith,13,,HH Dippenaar,12,South Africa,Australia,26,South Africa,Newlands,0,South Africa
+32,5.2,0,NW Bracken,2006-03-03,1st,HH Dippenaar,12,,GC Smith,13,South Africa,Australia,26,South Africa,Newlands,0,South Africa
+33,5.3,0,NW Bracken,2006-03-03,1st,HH Dippenaar,12,,GC Smith,13,South Africa,Australia,26,South Africa,Newlands,0,South Africa
+34,5.4,0,NW Bracken,2006-03-03,1st,HH Dippenaar,12,,GC Smith,13,South Africa,Australia,26,South Africa,Newlands,0,South Africa
+35,5.5,1,NW Bracken,2006-03-03,1st,HH Dippenaar,12,,GC Smith,14,South Africa,Australia,27,South Africa,Newlands,0,South Africa
+36,5.6,0,NW Bracken,2006-03-03,1st,GC Smith,14,,HH Dippenaar,12,South Africa,Australia,27,South Africa,Newlands,0,South Africa
+37,6.1,4,B Lee,2006-03-03,1st,HH Dippenaar,12,,GC Smith,18,South Africa,Australia,31,South Africa,Newlands,0,South Africa
+38,6.2,1,B Lee,2006-03-03,1st,HH Dippenaar,12,,GC Smith,19,South Africa,Australia,32,South Africa,Newlands,0,South Africa
+39,6.3,4,B Lee,2006-03-03,1st,GC Smith,19,,HH Dippenaar,16,South Africa,Australia,36,South Africa,Newlands,0,South Africa
+40,6.4,0,B Lee,2006-03-03,1st,GC Smith,19,,HH Dippenaar,16,South Africa,Australia,36,South Africa,Newlands,0,South Africa
+41,6.5,0,B Lee,2006-03-03,1st,GC Smith,19,,HH Dippenaar,16,South Africa,Australia,36,South Africa,Newlands,0,South Africa
+42,6.6,4,B Lee,2006-03-03,1st,GC Smith,19,,HH Dippenaar,20,South Africa,Australia,40,South Africa,Newlands,0,South Africa
+43,7.1,0,NW Bracken,2006-03-03,1st,HH Dippenaar,20,,GC Smith,19,South Africa,Australia,40,South Africa,Newlands,0,South Africa
+44,7.2,4,NW Bracken,2006-03-03,1st,HH Dippenaar,20,,GC Smith,23,South Africa,Australia,44,South Africa,Newlands,0,South Africa
+45,7.3,0,NW Bracken,2006-03-03,1st,HH Dippenaar,20,,GC Smith,23,South Africa,Australia,44,South Africa,Newlands,0,South Africa
+46,7.4,0,NW Bracken,2006-03-03,1st,HH Dippenaar,20,,GC Smith,23,South Africa,Australia,44,South Africa,Newlands,0,South Africa
+47,7.5,1,NW Bracken,2006-03-03,1st,HH Dippenaar,20,,GC Smith,24,South Africa,Australia,45,South Africa,Newlands,0,South Africa
+48,7.6,0,NW Bracken,2006-03-03,1st,GC Smith,24,,HH Dippenaar,20,South Africa,Australia,45,South Africa,Newlands,0,South Africa
+49,8.1,0,SR Clark,2006-03-03,1st,HH Dippenaar,20,,GC Smith,24,South Africa,Australia,45,South Africa,Newlands,0,South Africa
+50,8.2,0,SR Clark,2006-03-03,1st,HH Dippenaar,20,,GC Smith,24,South Africa,Australia,45,South Africa,Newlands,0,South Africa
+51,8.3,0,SR Clark,2006-03-03,1st,HH Dippenaar,20,GC Smith,GC Smith,24,South Africa,Australia,45,South Africa,Newlands,1,South Africa
+52,8.4,0,SR Clark,2006-03-03,1st,HH Dippenaar,20,,HH Gibbs,0,South Africa,Australia,45,South Africa,Newlands,1,South Africa
+53,8.5,0,SR Clark,2006-03-03,1st,HH Dippenaar,20,,HH Gibbs,0,South Africa,Australia,45,South Africa,Newlands,1,South Africa
+54,8.6,0,SR Clark,2006-03-03,1st,HH Dippenaar,20,,HH Gibbs,0,South Africa,Australia,45,South Africa,Newlands,1,South Africa
+55,9.1,0,NW Bracken,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,20,South Africa,Australia,45,South Africa,Newlands,1,South Africa
+56,9.2,0,NW Bracken,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,20,South Africa,Australia,45,South Africa,Newlands,1,South Africa
+57,9.3,1,NW Bracken,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,21,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+58,9.4,0,NW Bracken,2006-03-03,1st,HH Dippenaar,21,,HH Gibbs,0,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+59,9.5,0,NW Bracken,2006-03-03,1st,HH Dippenaar,21,,HH Gibbs,0,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+60,9.6,0,NW Bracken,2006-03-03,1st,HH Dippenaar,21,,HH Gibbs,0,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+61,10.1,0,SR Clark,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,21,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+62,10.2,0,SR Clark,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,21,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+63,10.3,0,SR Clark,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,21,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+64,10.4,0,SR Clark,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,21,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+65,10.5,0,SR Clark,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,21,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+66,10.6,0,SR Clark,2006-03-03,1st,HH Gibbs,0,,HH Dippenaar,21,South Africa,Australia,46,South Africa,Newlands,1,South Africa
+67,11.1,1,NW Bracken,2006-03-03,1st,HH Dippenaar,21,,HH Gibbs,1,South Africa,Australia,47,South Africa,Newlands,1,South Africa
+68,11.2,0,NW Bracken,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,21,South Africa,Australia,47,South Africa,Newlands,1,South Africa
+69,11.3,1,NW Bracken,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,22,South Africa,Australia,48,South Africa,Newlands,1,South Africa
+70,11.4,0,NW Bracken,2006-03-03,1st,HH Dippenaar,22,,HH Gibbs,1,South Africa,Australia,48,South Africa,Newlands,1,South Africa
+71,11.5,0,NW Bracken,2006-03-03,1st,HH Dippenaar,22,,HH Gibbs,1,South Africa,Australia,48,South Africa,Newlands,1,South Africa
+72,11.6,0,NW Bracken,2006-03-03,1st,HH Dippenaar,22,,HH Gibbs,1,South Africa,Australia,48,South Africa,Newlands,1,South Africa
+73,12.1,0,SR Clark,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,22,South Africa,Australia,48,South Africa,Newlands,1,South Africa
+74,12.2,0,SR Clark,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,22,South Africa,Australia,48,South Africa,Newlands,1,South Africa
+75,12.3,4,SR Clark,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,26,South Africa,Australia,52,South Africa,Newlands,1,South Africa
+76,12.4,0,SR Clark,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,26,South Africa,Australia,52,South Africa,Newlands,1,South Africa
+77,12.5,1,SR Clark,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,27,South Africa,Australia,53,South Africa,Newlands,1,South Africa
+78,12.6,0,SR Clark,2006-03-03,1st,HH Dippenaar,27,,HH Gibbs,1,South Africa,Australia,53,South Africa,Newlands,1,South Africa
+79,13.1,4,SR Watson,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,31,South Africa,Australia,57,South Africa,Newlands,1,South Africa
+80,13.2,0,SR Watson,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,31,South Africa,Australia,57,South Africa,Newlands,1,South Africa
+81,13.3,0,SR Watson,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,31,South Africa,Australia,57,South Africa,Newlands,1,South Africa
+82,13.4,0,SR Watson,2006-03-03,1st,HH Gibbs,1,,HH Dippenaar,31,South Africa,Australia,57,South Africa,Newlands,1,South Africa
+83,13.5,0,SR Watson,2006-03-03,1st,HH Gibbs,1,HH Dippenaar,HH Dippenaar,31,South Africa,Australia,57,South Africa,Newlands,2,South Africa
+84,13.6,0,SR Watson,2006-03-03,1st,HH Gibbs,1,,AB de Villiers,0,South Africa,Australia,57,South Africa,Newlands,2,South Africa
+85,14.1,0,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,1,South Africa,Australia,57,South Africa,Newlands,2,South Africa
+86,14.2,0,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,1,South Africa,Australia,57,South Africa,Newlands,2,South Africa
+87,14.3,2,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,3,South Africa,Australia,59,South Africa,Newlands,2,South Africa
+88,14.4,0,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,3,South Africa,Australia,59,South Africa,Newlands,2,South Africa
+89,14.5,1,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,4,South Africa,Australia,60,South Africa,Newlands,2,South Africa
+90,14.6,0,SR Clark,2006-03-03,1st,HH Gibbs,4,,AB de Villiers,0,South Africa,Australia,60,South Africa,Newlands,2,South Africa
+91,15.1,0,SR Watson,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,4,South Africa,Australia,60,South Africa,Newlands,2,South Africa
+92,15.2,0,SR Watson,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,4,South Africa,Australia,60,South Africa,Newlands,2,South Africa
+93,15.3,4,SR Watson,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,8,South Africa,Australia,64,South Africa,Newlands,2,South Africa
+94,15.4,0,SR Watson,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,8,South Africa,Australia,64,South Africa,Newlands,2,South Africa
+95,15.5,1,SR Watson,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,9,South Africa,Australia,65,South Africa,Newlands,2,South Africa
+96,15.6,0,SR Watson,2006-03-03,1st,HH Gibbs,9,,AB de Villiers,0,South Africa,Australia,65,South Africa,Newlands,2,South Africa
+97,16.1,0,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,9,South Africa,Australia,65,South Africa,Newlands,2,South Africa
+98,16.2,4,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,13,South Africa,Australia,69,South Africa,Newlands,2,South Africa
+99,16.3,0,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,13,South Africa,Australia,69,South Africa,Newlands,2,South Africa
+100,16.4,1,SR Clark,2006-03-03,1st,AB de Villiers,0,,HH Gibbs,14,South Africa,Australia,70,South Africa,Newlands,2,South Africa
+101,16.5,0,SR Clark,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,0,South Africa,Australia,70,South Africa,Newlands,2,South Africa
+102,16.6,1,SR Clark,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,1,South Africa,Australia,71,South Africa,Newlands,2,South Africa
+103,17.1,0,SR Watson,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,1,South Africa,Australia,71,South Africa,Newlands,2,South Africa
+104,17.2,4,SR Watson,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,5,South Africa,Australia,75,South Africa,Newlands,2,South Africa
+105,17.3,0,SR Watson,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,5,South Africa,Australia,75,South Africa,Newlands,2,South Africa
+106,17.4,4,SR Watson,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,9,South Africa,Australia,79,South Africa,Newlands,2,South Africa
+107,17.5,0,SR Watson,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,9,South Africa,Australia,79,South Africa,Newlands,2,South Africa
+108,17.6,0,SR Watson,2006-03-03,1st,HH Gibbs,14,,AB de Villiers,9,South Africa,Australia,79,South Africa,Newlands,2,South Africa
+109,18.1,0,SR Clark,2006-03-03,1st,AB de Villiers,9,,HH Gibbs,14,South Africa,Australia,79,South Africa,Newlands,2,South Africa
+110,18.2,4,SR Clark,2006-03-03,1st,AB de Villiers,9,,HH Gibbs,18,South Africa,Australia,83,South Africa,Newlands,2,South Africa
+111,18.3,1,SR Clark,2006-03-03,1st,AB de Villiers,9,,HH Gibbs,19,South Africa,Australia,84,South Africa,Newlands,2,South Africa
+112,18.4,0,SR Clark,2006-03-03,1st,HH Gibbs,19,,AB de Villiers,9,South Africa,Australia,84,South Africa,Newlands,2,South Africa
+113,18.5,0,SR Clark,2006-03-03,1st,HH Gibbs,19,,AB de Villiers,9,South Africa,Australia,84,South Africa,Newlands,2,South Africa
+114,18.6,1,SR Clark,2006-03-03,1st,HH Gibbs,19,,AB de Villiers,10,South Africa,Australia,85,South Africa,Newlands,2,South Africa
+115,19.1,1,SR Watson,2006-03-03,1st,HH Gibbs,19,,AB de Villiers,11,South Africa,Australia,86,South Africa,Newlands,2,South Africa
+116,19.2,0,SR Watson,2006-03-03,1st,AB de Villiers,11,,HH Gibbs,19,South Africa,Australia,86,South Africa,Newlands,2,South Africa
+117,19.3,1,SR Watson,2006-03-03,1st,AB de Villiers,11,,HH Gibbs,20,South Africa,Australia,87,South Africa,Newlands,2,South Africa
+118,19.4,0,SR Watson,2006-03-03,1st,HH Gibbs,20,,AB de Villiers,11,South Africa,Australia,87,South Africa,Newlands,2,South Africa
+119,19.5,0,SR Watson,2006-03-03,1st,HH Gibbs,20,,AB de Villiers,11,South Africa,Australia,87,South Africa,Newlands,2,South Africa
+120,19.6,0,SR Watson,2006-03-03,1st,HH Gibbs,20,,AB de Villiers,11,South Africa,Australia,87,South Africa,Newlands,2,South Africa
+121,20.1,0,B Lee,2006-03-03,1st,AB de Villiers,11,,HH Gibbs,20,South Africa,Australia,87,South Africa,Newlands,2,South Africa
+122,20.2,0,B Lee,2006-03-03,1st,AB de Villiers,11,,HH Gibbs,20,South Africa,Australia,87,South Africa,Newlands,2,South Africa
+123,20.3,1,B Lee,2006-03-03,1st,AB de Villiers,11,,HH Gibbs,21,South Africa,Australia,88,South Africa,Newlands,2,South Africa
+124,20.4,4,B Lee,2006-03-03,1st,HH Gibbs,21,,AB de Villiers,15,South Africa,Australia,92,South Africa,Newlands,2,South Africa
+125,20.5,1,B Lee,2006-03-03,1st,HH Gibbs,21,,AB de Villiers,16,South Africa,Australia,93,South Africa,Newlands,2,South Africa
+126,20.6,0,B Lee,2006-03-03,1st,AB de Villiers,16,,HH Gibbs,21,South Africa,Australia,93,South Africa,Newlands,2,South Africa
+127,21.1,2,SR Watson,2006-03-03,1st,HH Gibbs,21,,AB de Villiers,18,South Africa,Australia,95,South Africa,Newlands,2,South Africa
+128,21.2,0,SR Watson,2006-03-03,1st,HH Gibbs,21,,AB de Villiers,18,South Africa,Australia,95,South Africa,Newlands,2,South Africa
+129,21.3,0,SR Watson,2006-03-03,1st,HH Gibbs,21,AB de Villiers,AB de Villiers,18,South Africa,Australia,95,South Africa,Newlands,3,South Africa
+130,21.4,0,SR Watson,2006-03-03,1st,HH Gibbs,21,,MV Boucher,0,South Africa,Australia,95,South Africa,Newlands,3,South Africa
+131,21.5,0,SR Watson,2006-03-03,1st,HH Gibbs,21,,MV Boucher,0,South Africa,Australia,95,South Africa,Newlands,3,South Africa
+132,21.6,0,SR Watson,2006-03-03,1st,HH Gibbs,21,,MV Boucher,0,South Africa,Australia,95,South Africa,Newlands,3,South Africa
+133,22.1,0,B Lee,2006-03-03,1st,MV Boucher,0,,HH Gibbs,21,South Africa,Australia,95,South Africa,Newlands,3,South Africa
+134,22.2,4,B Lee,2006-03-03,1st,MV Boucher,0,,HH Gibbs,25,South Africa,Australia,99,South Africa,Newlands,3,South Africa
+135,22.3,1,B Lee,2006-03-03,1st,MV Boucher,0,,HH Gibbs,26,South Africa,Australia,100,South Africa,Newlands,3,South Africa
+136,22.4,0,B Lee,2006-03-03,1st,HH Gibbs,26,,MV Boucher,0,South Africa,Australia,100,South Africa,Newlands,3,South Africa
+137,22.5,0,B Lee,2006-03-03,1st,HH Gibbs,26,,MV Boucher,0,South Africa,Australia,100,South Africa,Newlands,3,South Africa
+138,22.6,1,B Lee,2006-03-03,1st,HH Gibbs,26,,MV Boucher,1,South Africa,Australia,101,South Africa,Newlands,3,South Africa
+139,23.1,0,SR Watson,2006-03-03,1st,HH Gibbs,26,,MV Boucher,1,South Africa,Australia,101,South Africa,Newlands,3,South Africa
+140,23.2,0,SR Watson,2006-03-03,1st,HH Gibbs,26,,MV Boucher,1,South Africa,Australia,101,South Africa,Newlands,3,South Africa
+141,23.3,0,SR Watson,2006-03-03,1st,HH Gibbs,26,,MV Boucher,1,South Africa,Australia,101,South Africa,Newlands,3,South Africa
+142,23.4,1,SR Watson,2006-03-03,1st,HH Gibbs,26,,MV Boucher,2,South Africa,Australia,102,South Africa,Newlands,3,South Africa
+143,23.5,1,SR Watson,2006-03-03,1st,MV Boucher,2,,HH Gibbs,27,South Africa,Australia,103,South Africa,Newlands,3,South Africa
+144,23.6,0,SR Watson,2006-03-03,1st,HH Gibbs,27,,MV Boucher,2,South Africa,Australia,103,South Africa,Newlands,3,South Africa
+145,24.1,0,GB Hogg,2006-03-03,1st,MV Boucher,2,,HH Gibbs,27,South Africa,Australia,103,South Africa,Newlands,3,South Africa
+146,24.2,1,GB Hogg,2006-03-03,1st,MV Boucher,2,,HH Gibbs,28,South Africa,Australia,104,South Africa,Newlands,3,South Africa
+147,24.3,2,GB Hogg,2006-03-03,1st,HH Gibbs,28,,MV Boucher,4,South Africa,Australia,106,South Africa,Newlands,3,South Africa
+148,24.4,1,GB Hogg,2006-03-03,1st,HH Gibbs,28,,MV Boucher,5,South Africa,Australia,107,South Africa,Newlands,3,South Africa
+149,24.5,2,GB Hogg,2006-03-03,1st,MV Boucher,5,,HH Gibbs,30,South Africa,Australia,109,South Africa,Newlands,3,South Africa
+150,24.6,2,GB Hogg,2006-03-03,1st,MV Boucher,5,,HH Gibbs,32,South Africa,Australia,111,South Africa,Newlands,3,South Africa
+151,25.1,1,SR Watson,2006-03-03,1st,HH Gibbs,32,,MV Boucher,6,South Africa,Australia,112,South Africa,Newlands,3,South Africa
+152,25.2,4,SR Watson,2006-03-03,1st,MV Boucher,6,,HH Gibbs,36,South Africa,Australia,116,South Africa,Newlands,3,South Africa
+153,25.3,0,SR Watson,2006-03-03,1st,MV Boucher,6,,HH Gibbs,36,South Africa,Australia,116,South Africa,Newlands,3,South Africa
+154,25.4,1,SR Watson,2006-03-03,1st,MV Boucher,6,,HH Gibbs,37,South Africa,Australia,117,South Africa,Newlands,3,South Africa
+155,25.5,0,SR Watson,2006-03-03,1st,HH Gibbs,37,,MV Boucher,6,South Africa,Australia,117,South Africa,Newlands,3,South Africa
+156,25.6,0,SR Watson,2006-03-03,1st,HH Gibbs,37,,MV Boucher,6,South Africa,Australia,117,South Africa,Newlands,3,South Africa
+157,26.1,1,GB Hogg,2006-03-03,1st,MV Boucher,6,,HH Gibbs,38,South Africa,Australia,118,South Africa,Newlands,3,South Africa
+158,26.2,0,GB Hogg,2006-03-03,1st,HH Gibbs,38,,MV Boucher,6,South Africa,Australia,118,South Africa,Newlands,3,South Africa
+159,26.3,2,GB Hogg,2006-03-03,1st,HH Gibbs,38,,MV Boucher,8,South Africa,Australia,120,South Africa,Newlands,3,South Africa
+160,26.4,0,GB Hogg,2006-03-03,1st,HH Gibbs,38,,MV Boucher,8,South Africa,Australia,120,South Africa,Newlands,3,South Africa
+161,26.5,0,GB Hogg,2006-03-03,1st,HH Gibbs,38,,MV Boucher,8,South Africa,Australia,120,South Africa,Newlands,3,South Africa
+162,26.6,0,GB Hogg,2006-03-03,1st,HH Gibbs,38,,MV Boucher,8,South Africa,Australia,120,South Africa,Newlands,3,South Africa
+163,27.1,0,SR Watson,2006-03-03,1st,MV Boucher,8,,HH Gibbs,38,South Africa,Australia,120,South Africa,Newlands,3,South Africa
+164,27.2,0,SR Watson,2006-03-03,1st,MV Boucher,8,,HH Gibbs,38,South Africa,Australia,120,South Africa,Newlands,3,South Africa
+165,27.3,4,SR Watson,2006-03-03,1st,MV Boucher,8,,HH Gibbs,42,South Africa,Australia,124,South Africa,Newlands,3,South Africa
+166,27.4,4,SR Watson,2006-03-03,1st,MV Boucher,8,,HH Gibbs,46,South Africa,Australia,128,South Africa,Newlands,3,South Africa
+167,27.5,1,SR Watson,2006-03-03,1st,MV Boucher,8,,HH Gibbs,47,South Africa,Australia,129,South Africa,Newlands,3,South Africa
+168,27.6,0,SR Watson,2006-03-03,1st,HH Gibbs,47,,MV Boucher,8,South Africa,Australia,129,South Africa,Newlands,3,South Africa
+169,28.1,1,GB Hogg,2006-03-03,1st,MV Boucher,8,,HH Gibbs,48,South Africa,Australia,130,South Africa,Newlands,3,South Africa
+170,28.2,2,GB Hogg,2006-03-03,1st,HH Gibbs,48,,MV Boucher,10,South Africa,Australia,132,South Africa,Newlands,3,South Africa
+171,28.3,0,GB Hogg,2006-03-03,1st,HH Gibbs,48,,MV Boucher,10,South Africa,Australia,133,South Africa,Newlands,3,South Africa
+172,28.4,1,GB Hogg,2006-03-03,1st,HH Gibbs,48,,MV Boucher,11,South Africa,Australia,134,South Africa,Newlands,3,South Africa
+173,28.5,0,GB Hogg,2006-03-03,1st,MV Boucher,11,,HH Gibbs,48,South Africa,Australia,135,South Africa,Newlands,3,South Africa
+174,28.6,0,GB Hogg,2006-03-03,1st,HH Gibbs,48,,MV Boucher,11,South Africa,Australia,135,South Africa,Newlands,3,South Africa
+175,28.7,2,GB Hogg,2006-03-03,1st,HH Gibbs,48,,MV Boucher,13,South Africa,Australia,137,South Africa,Newlands,3,South Africa
+176,29.1,2,MJ Clarke,2006-03-03,1st,MV Boucher,13,,HH Gibbs,50,South Africa,Australia,139,South Africa,Newlands,3,South Africa
+177,29.2,0,MJ Clarke,2006-03-03,1st,MV Boucher,13,,HH Gibbs,50,South Africa,Australia,139,South Africa,Newlands,3,South Africa
+178,29.3,0,MJ Clarke,2006-03-03,1st,MV Boucher,13,,HH Gibbs,50,South Africa,Australia,139,South Africa,Newlands,3,South Africa
+179,29.4,2,MJ Clarke,2006-03-03,1st,MV Boucher,13,,HH Gibbs,52,South Africa,Australia,141,South Africa,Newlands,3,South Africa
+180,29.5,1,MJ Clarke,2006-03-03,1st,MV Boucher,13,,HH Gibbs,53,South Africa,Australia,142,South Africa,Newlands,3,South Africa
+181,29.6,0,MJ Clarke,2006-03-03,1st,HH Gibbs,53,,MV Boucher,13,South Africa,Australia,142,South Africa,Newlands,3,South Africa
+182,30.1,1,GB Hogg,2006-03-03,1st,MV Boucher,13,,HH Gibbs,54,South Africa,Australia,143,South Africa,Newlands,3,South Africa
+183,30.2,0,GB Hogg,2006-03-03,1st,HH Gibbs,54,,MV Boucher,13,South Africa,Australia,143,South Africa,Newlands,3,South Africa
+184,30.3,0,GB Hogg,2006-03-03,1st,HH Gibbs,54,,MV Boucher,13,South Africa,Australia,143,South Africa,Newlands,3,South Africa
+185,30.4,0,GB Hogg,2006-03-03,1st,HH Gibbs,54,,MV Boucher,13,South Africa,Australia,143,South Africa,Newlands,3,South Africa
+186,30.5,1,GB Hogg,2006-03-03,1st,HH Gibbs,54,,MV Boucher,14,South Africa,Australia,144,South Africa,Newlands,3,South Africa
+187,30.6,1,GB Hogg,2006-03-03,1st,MV Boucher,14,,HH Gibbs,55,South Africa,Australia,145,South Africa,Newlands,3,South Africa
+188,31.1,1,MJ Clarke,2006-03-03,1st,MV Boucher,14,,HH Gibbs,56,South Africa,Australia,146,South Africa,Newlands,3,South Africa
+189,31.2,0,MJ Clarke,2006-03-03,1st,HH Gibbs,56,,MV Boucher,14,South Africa,Australia,148,South Africa,Newlands,3,South Africa
+190,31.3,0,MJ Clarke,2006-03-03,1st,HH Gibbs,56,,MV Boucher,14,South Africa,Australia,148,South Africa,Newlands,3,South Africa
+191,31.4,0,MJ Clarke,2006-03-03,1st,HH Gibbs,56,,MV Boucher,14,South Africa,Australia,148,South Africa,Newlands,3,South Africa
+192,31.5,6,MJ Clarke,2006-03-03,1st,HH Gibbs,56,,MV Boucher,20,South Africa,Australia,154,South Africa,Newlands,3,South Africa
+193,31.6,1,MJ Clarke,2006-03-03,1st,HH Gibbs,56,,MV Boucher,21,South Africa,Australia,155,South Africa,Newlands,3,South Africa
+194,32.1,0,GB Hogg,2006-03-03,1st,HH Gibbs,56,,MV Boucher,21,South Africa,Australia,155,South Africa,Newlands,3,South Africa
+195,32.2,1,GB Hogg,2006-03-03,1st,HH Gibbs,56,,MV Boucher,22,South Africa,Australia,156,South Africa,Newlands,3,South Africa
+196,32.3,0,GB Hogg,2006-03-03,1st,MV Boucher,22,,HH Gibbs,56,South Africa,Australia,156,South Africa,Newlands,3,South Africa
+197,32.4,0,GB Hogg,2006-03-03,1st,MV Boucher,22,,HH Gibbs,56,South Africa,Australia,156,South Africa,Newlands,3,South Africa
+198,32.5,0,GB Hogg,2006-03-03,1st,MV Boucher,22,,HH Gibbs,56,South Africa,Australia,156,South Africa,Newlands,3,South Africa
+199,32.6,1,GB Hogg,2006-03-03,1st,MV Boucher,22,,HH Gibbs,57,South Africa,Australia,157,South Africa,Newlands,3,South Africa
+200,33.1,1,MJ Clarke,2006-03-03,1st,MV Boucher,22,,HH Gibbs,58,South Africa,Australia,158,South Africa,Newlands,3,South Africa
+201,33.2,1,MJ Clarke,2006-03-03,1st,HH Gibbs,58,,MV Boucher,23,South Africa,Australia,159,South Africa,Newlands,3,South Africa
+202,33.3,0,MJ Clarke,2006-03-03,1st,MV Boucher,23,,HH Gibbs,58,South Africa,Australia,159,South Africa,Newlands,3,South Africa
+203,33.4,2,MJ Clarke,2006-03-03,1st,MV Boucher,23,,HH Gibbs,60,South Africa,Australia,161,South Africa,Newlands,3,South Africa
+204,33.5,2,MJ Clarke,2006-03-03,1st,MV Boucher,23,,HH Gibbs,62,South Africa,Australia,163,South Africa,Newlands,3,South Africa
+205,33.6,0,MJ Clarke,2006-03-03,1st,MV Boucher,23,,HH Gibbs,62,South Africa,Australia,164,South Africa,Newlands,3,South Africa
+206,33.7,4,MJ Clarke,2006-03-03,1st,MV Boucher,23,,HH Gibbs,66,South Africa,Australia,168,South Africa,Newlands,3,South Africa
+207,34.1,6,GB Hogg,2006-03-03,1st,HH Gibbs,66,,MV Boucher,29,South Africa,Australia,174,South Africa,Newlands,3,South Africa
+208,34.2,0,GB Hogg,2006-03-03,1st,HH Gibbs,66,,MV Boucher,29,South Africa,Australia,174,South Africa,Newlands,3,South Africa
+209,34.3,1,GB Hogg,2006-03-03,1st,HH Gibbs,66,,MV Boucher,30,South Africa,Australia,175,South Africa,Newlands,3,South Africa
+210,34.4,0,GB Hogg,2006-03-03,1st,MV Boucher,30,HH Gibbs,HH Gibbs,66,South Africa,Australia,175,South Africa,Newlands,4,South Africa
+211,34.5,0,GB Hogg,2006-03-03,1st,MV Boucher,30,,JM Kemp,0,South Africa,Australia,175,South Africa,Newlands,4,South Africa
+212,34.6,1,GB Hogg,2006-03-03,1st,MV Boucher,30,,JM Kemp,1,South Africa,Australia,176,South Africa,Newlands,4,South Africa
+213,35.1,0,NW Bracken,2006-03-03,1st,MV Boucher,30,,JM Kemp,1,South Africa,Australia,176,South Africa,Newlands,4,South Africa
+214,35.2,1,NW Bracken,2006-03-03,1st,MV Boucher,30,,JM Kemp,2,South Africa,Australia,177,South Africa,Newlands,4,South Africa
+215,35.3,0,NW Bracken,2006-03-03,1st,JM Kemp,2,,MV Boucher,30,South Africa,Australia,177,South Africa,Newlands,4,South Africa
+216,35.4,0,NW Bracken,2006-03-03,1st,JM Kemp,2,,MV Boucher,30,South Africa,Australia,177,South Africa,Newlands,4,South Africa
+217,35.5,0,NW Bracken,2006-03-03,1st,JM Kemp,2,,MV Boucher,30,South Africa,Australia,177,South Africa,Newlands,4,South Africa
+218,35.6,1,NW Bracken,2006-03-03,1st,JM Kemp,2,,MV Boucher,31,South Africa,Australia,178,South Africa,Newlands,4,South Africa
+219,36.1,0,GB Hogg,2006-03-03,1st,JM Kemp,2,,MV Boucher,31,South Africa,Australia,178,South Africa,Newlands,4,South Africa
+220,36.2,0,GB Hogg,2006-03-03,1st,JM Kemp,2,,MV Boucher,31,South Africa,Australia,178,South Africa,Newlands,4,South Africa
+221,36.3,0,GB Hogg,2006-03-03,1st,JM Kemp,2,,MV Boucher,31,South Africa,Australia,178,South Africa,Newlands,4,South Africa
+222,36.4,0,GB Hogg,2006-03-03,1st,JM Kemp,2,,MV Boucher,31,South Africa,Australia,178,South Africa,Newlands,4,South Africa
+223,36.5,0,GB Hogg,2006-03-03,1st,JM Kemp,2,,MV Boucher,31,South Africa,Australia,178,South Africa,Newlands,4,South Africa
+224,36.6,0,GB Hogg,2006-03-03,1st,JM Kemp,2,,MV Boucher,31,South Africa,Australia,178,South Africa,Newlands,4,South Africa
+225,37.1,1,NW Bracken,2006-03-03,1st,MV Boucher,31,,JM Kemp,3,South Africa,Australia,179,South Africa,Newlands,4,South Africa
+226,37.2,0,NW Bracken,2006-03-03,1st,JM Kemp,3,,MV Boucher,31,South Africa,Australia,179,South Africa,Newlands,4,South Africa
+227,37.3,1,NW Bracken,2006-03-03,1st,JM Kemp,3,,MV Boucher,32,South Africa,Australia,180,South Africa,Newlands,4,South Africa
+228,37.4,0,NW Bracken,2006-03-03,1st,MV Boucher,32,,JM Kemp,3,South Africa,Australia,180,South Africa,Newlands,4,South Africa
+229,37.5,1,NW Bracken,2006-03-03,1st,MV Boucher,32,,JM Kemp,4,South Africa,Australia,181,South Africa,Newlands,4,South Africa
+230,37.6,0,NW Bracken,2006-03-03,1st,JM Kemp,4,,MV Boucher,32,South Africa,Australia,181,South Africa,Newlands,4,South Africa
+231,38.1,1,GB Hogg,2006-03-03,1st,MV Boucher,32,,JM Kemp,5,South Africa,Australia,182,South Africa,Newlands,4,South Africa
+232,38.2,6,GB Hogg,2006-03-03,1st,JM Kemp,5,,MV Boucher,38,South Africa,Australia,188,South Africa,Newlands,4,South Africa
+233,38.3,4,GB Hogg,2006-03-03,1st,JM Kemp,5,,MV Boucher,42,South Africa,Australia,192,South Africa,Newlands,4,South Africa
+234,38.4,0,GB Hogg,2006-03-03,1st,JM Kemp,5,,MV Boucher,42,South Africa,Australia,192,South Africa,Newlands,4,South Africa
+235,38.5,0,GB Hogg,2006-03-03,1st,JM Kemp,5,MV Boucher,MV Boucher,42,South Africa,Australia,192,South Africa,Newlands,5,South Africa
+236,38.6,0,GB Hogg,2006-03-03,1st,JM Kemp,5,,SM Pollock,0,South Africa,Australia,193,South Africa,Newlands,5,South Africa
+237,39.1,1,SR Watson,2006-03-03,1st,JM Kemp,5,,SM Pollock,1,South Africa,Australia,194,South Africa,Newlands,5,South Africa
+238,39.2,0,SR Watson,2006-03-03,1st,SM Pollock,1,,JM Kemp,5,South Africa,Australia,194,South Africa,Newlands,5,South Africa
+239,39.3,0,SR Watson,2006-03-03,1st,SM Pollock,1,,JM Kemp,5,South Africa,Australia,194,South Africa,Newlands,5,South Africa
+240,39.4,2,SR Watson,2006-03-03,1st,SM Pollock,1,,JM Kemp,7,South Africa,Australia,196,South Africa,Newlands,5,South Africa
+241,39.5,0,SR Watson,2006-03-03,1st,SM Pollock,1,,JM Kemp,7,South Africa,Australia,196,South Africa,Newlands,5,South Africa
+242,39.6,0,SR Watson,2006-03-03,1st,SM Pollock,1,,JM Kemp,7,South Africa,Australia,196,South Africa,Newlands,5,South Africa
+243,40.1,2,GB Hogg,2006-03-03,1st,JM Kemp,7,,SM Pollock,3,South Africa,Australia,198,South Africa,Newlands,5,South Africa
+244,40.2,0,GB Hogg,2006-03-03,1st,JM Kemp,7,,SM Pollock,3,South Africa,Australia,198,South Africa,Newlands,5,South Africa
+245,40.3,1,GB Hogg,2006-03-03,1st,JM Kemp,7,,SM Pollock,4,South Africa,Australia,199,South Africa,Newlands,5,South Africa
+246,40.4,2,GB Hogg,2006-03-03,1st,SM Pollock,4,,JM Kemp,9,South Africa,Australia,201,South Africa,Newlands,5,South Africa
+247,40.5,0,GB Hogg,2006-03-03,1st,SM Pollock,4,,JM Kemp,9,South Africa,Australia,202,South Africa,Newlands,5,South Africa
+248,40.6,1,GB Hogg,2006-03-03,1st,JM Kemp,9,,SM Pollock,5,South Africa,Australia,203,South Africa,Newlands,5,South Africa
+249,41.1,0,SR Watson,2006-03-03,1st,JM Kemp,9,,SM Pollock,5,South Africa,Australia,203,South Africa,Newlands,5,South Africa
+250,41.2,0,SR Watson,2006-03-03,1st,JM Kemp,9,,SM Pollock,5,South Africa,Australia,203,South Africa,Newlands,5,South Africa
+251,41.3,0,SR Watson,2006-03-03,1st,JM Kemp,9,,SM Pollock,5,South Africa,Australia,203,South Africa,Newlands,5,South Africa
+252,41.4,0,SR Watson,2006-03-03,1st,JM Kemp,9,,SM Pollock,5,South Africa,Australia,203,South Africa,Newlands,5,South Africa
+253,41.5,4,SR Watson,2006-03-03,1st,JM Kemp,9,,SM Pollock,9,South Africa,Australia,207,South Africa,Newlands,5,South Africa
+254,41.6,1,SR Watson,2006-03-03,1st,JM Kemp,9,,SM Pollock,10,South Africa,Australia,208,South Africa,Newlands,5,South Africa
+255,42.1,0,SR Clark,2006-03-03,1st,JM Kemp,9,,SM Pollock,10,South Africa,Australia,208,South Africa,Newlands,5,South Africa
+256,42.2,0,SR Clark,2006-03-03,1st,JM Kemp,9,,SM Pollock,10,South Africa,Australia,208,South Africa,Newlands,5,South Africa
+257,42.3,2,SR Clark,2006-03-03,1st,JM Kemp,9,,SM Pollock,12,South Africa,Australia,210,South Africa,Newlands,5,South Africa
+258,42.4,1,SR Clark,2006-03-03,1st,JM Kemp,9,,SM Pollock,13,South Africa,Australia,211,South Africa,Newlands,5,South Africa
+259,42.5,1,SR Clark,2006-03-03,1st,SM Pollock,13,,JM Kemp,10,South Africa,Australia,212,South Africa,Newlands,5,South Africa
+260,42.6,1,SR Clark,2006-03-03,1st,JM Kemp,10,,SM Pollock,14,South Africa,Australia,213,South Africa,Newlands,5,South Africa
+261,43.1,1,NW Bracken,2006-03-03,1st,JM Kemp,10,,SM Pollock,15,South Africa,Australia,214,South Africa,Newlands,5,South Africa
+262,43.2,1,NW Bracken,2006-03-03,1st,SM Pollock,15,,JM Kemp,11,South Africa,Australia,215,South Africa,Newlands,5,South Africa
+263,43.3,1,NW Bracken,2006-03-03,1st,JM Kemp,11,,SM Pollock,16,South Africa,Australia,216,South Africa,Newlands,5,South Africa
+264,43.4,0,NW Bracken,2006-03-03,1st,SM Pollock,16,,JM Kemp,11,South Africa,Australia,216,South Africa,Newlands,5,South Africa
+265,43.5,1,NW Bracken,2006-03-03,1st,SM Pollock,16,,JM Kemp,12,South Africa,Australia,217,South Africa,Newlands,5,South Africa
+266,43.6,1,NW Bracken,2006-03-03,1st,JM Kemp,12,,SM Pollock,17,South Africa,Australia,218,South Africa,Newlands,5,South Africa
+267,44.1,1,SR Clark,2006-03-03,1st,JM Kemp,12,,SM Pollock,18,South Africa,Australia,219,South Africa,Newlands,5,South Africa
+268,44.2,1,SR Clark,2006-03-03,1st,SM Pollock,18,,JM Kemp,13,South Africa,Australia,220,South Africa,Newlands,5,South Africa
+269,44.3,6,SR Clark,2006-03-03,1st,JM Kemp,13,,SM Pollock,24,South Africa,Australia,226,South Africa,Newlands,5,South Africa
+270,44.4,4,SR Clark,2006-03-03,1st,JM Kemp,13,,SM Pollock,28,South Africa,Australia,230,South Africa,Newlands,5,South Africa
+271,44.5,4,SR Clark,2006-03-03,1st,JM Kemp,13,,SM Pollock,32,South Africa,Australia,234,South Africa,Newlands,5,South Africa
+272,44.6,6,SR Clark,2006-03-03,1st,JM Kemp,13,,SM Pollock,38,South Africa,Australia,240,South Africa,Newlands,5,South Africa
+273,45.1,6,NW Bracken,2006-03-03,1st,SM Pollock,38,,JM Kemp,19,South Africa,Australia,246,South Africa,Newlands,5,South Africa
+274,45.2,0,NW Bracken,2006-03-03,1st,SM Pollock,38,,JM Kemp,19,South Africa,Australia,246,South Africa,Newlands,5,South Africa
+275,45.3,6,NW Bracken,2006-03-03,1st,SM Pollock,38,,JM Kemp,25,South Africa,Australia,252,South Africa,Newlands,5,South Africa
+276,45.4,0,NW Bracken,2006-03-03,1st,SM Pollock,38,,JM Kemp,25,South Africa,Australia,252,South Africa,Newlands,5,South Africa
+277,45.5,0,NW Bracken,2006-03-03,1st,SM Pollock,38,,JM Kemp,25,South Africa,Australia,252,South Africa,Newlands,5,South Africa
+278,45.6,1,NW Bracken,2006-03-03,1st,SM Pollock,38,,JM Kemp,26,South Africa,Australia,253,South Africa,Newlands,5,South Africa
+279,46.1,1,B Lee,2006-03-03,1st,SM Pollock,38,,JM Kemp,27,South Africa,Australia,254,South Africa,Newlands,5,South Africa
+280,46.2,0,B Lee,2006-03-03,1st,JM Kemp,27,,SM Pollock,38,South Africa,Australia,254,South Africa,Newlands,5,South Africa
+281,46.3,0,B Lee,2006-03-03,1st,JM Kemp,27,SM Pollock,SM Pollock,38,South Africa,Australia,254,South Africa,Newlands,6,South Africa
+282,46.4,2,B Lee,2006-03-03,1st,RJ Peterson,0,,JM Kemp,29,South Africa,Australia,256,South Africa,Newlands,6,South Africa
+283,46.5,2,B Lee,2006-03-03,1st,RJ Peterson,0,,JM Kemp,31,South Africa,Australia,258,South Africa,Newlands,6,South Africa
+284,46.6,0,B Lee,2006-03-03,1st,RJ Peterson,0,,JM Kemp,31,South Africa,Australia,258,South Africa,Newlands,6,South Africa
+285,47.1,4,SR Clark,2006-03-03,1st,JM Kemp,31,,RJ Peterson,4,South Africa,Australia,262,South Africa,Newlands,6,South Africa
+286,47.2,0,SR Clark,2006-03-03,1st,JM Kemp,31,,RJ Peterson,4,South Africa,Australia,262,South Africa,Newlands,6,South Africa
+287,47.3,0,SR Clark,2006-03-03,1st,JM Kemp,31,RJ Peterson,RJ Peterson,4,South Africa,Australia,262,South Africa,Newlands,7,South Africa
+288,47.4,1,SR Clark,2006-03-03,1st,JM Kemp,31,,AJ Hall,1,South Africa,Australia,263,South Africa,Newlands,7,South Africa
+289,47.5,6,SR Clark,2006-03-03,1st,AJ Hall,1,,JM Kemp,37,South Africa,Australia,269,South Africa,Newlands,7,South Africa
+290,47.6,1,SR Clark,2006-03-03,1st,AJ Hall,1,,JM Kemp,38,South Africa,Australia,270,South Africa,Newlands,7,South Africa
+291,48.1,0,B Lee,2006-03-03,1st,AJ Hall,1,,JM Kemp,38,South Africa,Australia,271,South Africa,Newlands,7,South Africa
+292,48.2,6,B Lee,2006-03-03,1st,AJ Hall,1,,JM Kemp,44,South Africa,Australia,277,South Africa,Newlands,7,South Africa
+293,48.3,0,B Lee,2006-03-03,1st,AJ Hall,1,,JM Kemp,44,South Africa,Australia,277,South Africa,Newlands,7,South Africa
+294,48.4,0,B Lee,2006-03-03,1st,AJ Hall,1,,JM Kemp,44,South Africa,Australia,277,South Africa,Newlands,7,South Africa
+295,48.5,0,B Lee,2006-03-03,1st,AJ Hall,1,,JM Kemp,44,South Africa,Australia,277,South Africa,Newlands,7,South Africa
+296,48.6,0,B Lee,2006-03-03,1st,AJ Hall,1,,JM Kemp,44,South Africa,Australia,278,South Africa,Newlands,7,South Africa
+297,48.7,1,B Lee,2006-03-03,1st,JM Kemp,44,,AJ Hall,2,South Africa,Australia,279,South Africa,Newlands,7,South Africa
+298,49.1,1,SR Clark,2006-03-03,1st,JM Kemp,44,,AJ Hall,3,South Africa,Australia,280,South Africa,Newlands,7,South Africa
+299,49.2,0,SR Clark,2006-03-03,1st,AJ Hall,3,,JM Kemp,44,South Africa,Australia,281,South Africa,Newlands,7,South Africa
+300,49.3,2,SR Clark,2006-03-03,1st,AJ Hall,3,,JM Kemp,46,South Africa,Australia,283,South Africa,Newlands,7,South Africa
+301,49.4,1,SR Clark,2006-03-03,1st,AJ Hall,3,,JM Kemp,47,South Africa,Australia,284,South Africa,Newlands,7,South Africa
+302,49.5,1,SR Clark,2006-03-03,1st,JM Kemp,47,,AJ Hall,4,South Africa,Australia,285,South Africa,Newlands,7,South Africa
+303,49.6,0,SR Clark,2006-03-03,1st,AJ Hall,4,,JM Kemp,47,South Africa,Australia,285,South Africa,Newlands,7,South Africa
+304,49.7,4,SR Clark,2006-03-03,1st,AJ Hall,4,,JM Kemp,51,South Africa,Australia,289,South Africa,Newlands,7,South Africa
+305,0.1,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,AC Gilchrist,0,South Africa,Australia,0,South Africa,Newlands,0,South Africa
+306,0.2,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,AC Gilchrist,0,South Africa,Australia,0,South Africa,Newlands,0,South Africa
+307,0.3,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,AC Gilchrist,0,South Africa,Australia,0,South Africa,Newlands,0,South Africa
+308,0.4,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,AC Gilchrist,0,South Africa,Australia,0,South Africa,Newlands,0,South Africa
+309,0.5,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,AC Gilchrist,0,South Africa,Australia,0,South Africa,Newlands,0,South Africa
+310,0.6,1,SM Pollock,2006-03-03,2nd,SM Katich,0,,AC Gilchrist,0,South Africa,Australia,1,South Africa,Newlands,0,South Africa
+311,1.1,0,M Ntini,2006-03-03,2nd,SM Katich,0,,AC Gilchrist,0,South Africa,Australia,1,South Africa,Newlands,1,South Africa
+312,1.2,0,M Ntini,2006-03-03,2nd,SM Katich,0,,PA Jaques,0,South Africa,Australia,1,South Africa,Newlands,1,South Africa
+313,1.3,0,M Ntini,2006-03-03,2nd,SM Katich,0,,PA Jaques,0,South Africa,Australia,1,South Africa,Newlands,1,South Africa
+314,1.4,0,M Ntini,2006-03-03,2nd,SM Katich,0,,PA Jaques,0,South Africa,Australia,1,South Africa,Newlands,1,South Africa
+315,1.5,0,M Ntini,2006-03-03,2nd,SM Katich,0,,PA Jaques,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+316,1.6,0,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+317,2.1,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+318,2.2,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+319,2.3,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+320,2.4,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+321,2.5,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+322,2.6,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+323,3.1,0,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,1,South Africa,Newlands,2,South Africa
+324,3.2,2,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,3,South Africa,Newlands,2,South Africa
+325,3.3,0,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,3,South Africa,Newlands,2,South Africa
+326,3.4,0,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,3,South Africa,Newlands,2,South Africa
+327,3.5,2,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+328,3.6,0,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+329,4.1,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+330,4.2,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+331,4.3,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+332,4.4,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+333,4.5,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+334,4.6,0,SM Pollock,2006-03-03,2nd,DR Martyn,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+335,5.1,0,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,5,South Africa,Newlands,2,South Africa
+336,5.2,0,M Ntini,2006-03-03,2nd,SM Katich,0,,DR Martyn,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+337,5.3,0,M Ntini,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+338,5.4,0,M Ntini,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+339,5.5,0,M Ntini,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+340,5.6,0,M Ntini,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+341,6.1,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+342,6.2,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+343,6.3,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,5,South Africa,Newlands,3,South Africa
+344,6.4,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,6,South Africa,Newlands,3,South Africa
+345,6.5,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,6,South Africa,Newlands,3,South Africa
+346,6.6,0,SM Pollock,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,6,South Africa,Newlands,3,South Africa
+347,6.7,1,SM Pollock,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+348,7.1,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+349,7.2,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+350,7.3,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+351,7.4,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+352,7.5,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+353,7.6,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+354,8.1,0,SM Pollock,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+355,8.2,0,SM Pollock,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+356,8.3,0,SM Pollock,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+357,8.4,0,SM Pollock,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+358,8.5,0,SM Pollock,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+359,8.6,0,SM Pollock,2006-03-03,2nd,MJ Clarke,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+360,9.1,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+361,9.2,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,3,South Africa
+362,9.3,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MJ Clarke,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+363,9.4,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+364,9.5,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+365,9.6,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+366,10.1,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+367,10.2,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+368,10.3,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+369,10.4,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+370,10.5,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+371,10.6,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+372,11.1,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+373,11.2,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+374,11.3,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,7,South Africa,Newlands,4,South Africa
+375,11.4,3,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,10,South Africa,Newlands,4,South Africa
+376,11.5,1,M Ntini,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,11,South Africa,Newlands,4,South Africa
+377,11.6,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,11,South Africa,Newlands,4,South Africa
+378,12.1,4,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,15,South Africa,Newlands,4,South Africa
+379,12.2,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,15,South Africa,Newlands,4,South Africa
+380,12.3,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,15,South Africa,Newlands,4,South Africa
+381,12.4,0,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,15,South Africa,Newlands,4,South Africa
+382,12.5,1,SM Pollock,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,16,South Africa,Newlands,4,South Africa
+383,12.6,1,SM Pollock,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,17,South Africa,Newlands,4,South Africa
+384,13.1,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,17,South Africa,Newlands,4,South Africa
+385,13.2,4,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,21,South Africa,Newlands,4,South Africa
+386,13.3,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,21,South Africa,Newlands,4,South Africa
+387,13.4,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,21,South Africa,Newlands,4,South Africa
+388,13.5,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,21,South Africa,Newlands,4,South Africa
+389,13.6,0,M Ntini,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,21,South Africa,Newlands,4,South Africa
+390,14.1,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,21,South Africa,Newlands,4,South Africa
+391,14.2,4,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,25,South Africa,Newlands,4,South Africa
+392,14.3,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,25,South Africa,Newlands,4,South Africa
+393,14.4,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,25,South Africa,Newlands,4,South Africa
+394,14.5,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,25,South Africa,Newlands,4,South Africa
+395,14.6,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,25,South Africa,Newlands,4,South Africa
+396,15.1,1,AJ Hall,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,26,South Africa,Newlands,4,South Africa
+397,15.2,0,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,26,South Africa,Newlands,4,South Africa
+398,15.3,1,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,27,South Africa,Newlands,4,South Africa
+399,15.4,0,AJ Hall,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,27,South Africa,Newlands,4,South Africa
+400,15.5,0,AJ Hall,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,27,South Africa,Newlands,4,South Africa
+401,15.6,1,AJ Hall,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+402,16.1,0,A Nel,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+403,16.2,0,A Nel,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+404,16.3,0,A Nel,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+405,16.4,0,A Nel,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+406,16.5,0,A Nel,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+407,16.6,0,A Nel,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+408,17.1,0,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+409,17.2,0,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+410,17.3,0,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,28,South Africa,Newlands,4,South Africa
+411,17.4,1,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,29,South Africa,Newlands,4,South Africa
+412,17.5,0,AJ Hall,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,29,South Africa,Newlands,4,South Africa
+413,17.6,0,AJ Hall,2006-03-03,2nd,SM Katich,0,,MEK Hussey,0,South Africa,Australia,29,South Africa,Newlands,4,South Africa
+414,18.1,4,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,33,South Africa,Newlands,4,South Africa
+415,18.2,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SM Katich,0,South Africa,Australia,33,South Africa,Newlands,5,South Africa
+416,18.3,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,34,South Africa,Newlands,5,South Africa
+417,18.4,4,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,38,South Africa,Newlands,5,South Africa
+418,18.5,2,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,40,South Africa,Newlands,5,South Africa
+419,18.6,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,40,South Africa,Newlands,5,South Africa
+420,18.7,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,40,South Africa,Newlands,5,South Africa
+421,19.1,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,40,South Africa,Newlands,5,South Africa
+422,19.2,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,40,South Africa,Newlands,5,South Africa
+423,19.3,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,40,South Africa,Newlands,5,South Africa
+424,19.4,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,40,South Africa,Newlands,5,South Africa
+425,19.5,2,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+426,19.6,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+427,20.1,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+428,20.2,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+429,20.3,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+430,20.4,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+431,20.5,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+432,20.6,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+433,21.1,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+434,21.2,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+435,21.3,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+436,21.4,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+437,21.5,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+438,21.6,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+439,22.1,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,42,South Africa,Newlands,5,South Africa
+440,22.2,1,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,43,South Africa,Newlands,5,South Africa
+441,22.3,0,A Nel,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,43,South Africa,Newlands,5,South Africa
+442,22.4,0,A Nel,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,43,South Africa,Newlands,5,South Africa
+443,22.5,4,A Nel,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,47,South Africa,Newlands,5,South Africa
+444,22.6,0,A Nel,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,47,South Africa,Newlands,5,South Africa
+445,23.1,0,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,47,South Africa,Newlands,5,South Africa
+446,23.2,2,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,49,South Africa,Newlands,5,South Africa
+447,23.3,1,AJ Hall,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,50,South Africa,Newlands,5,South Africa
+448,23.4,6,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,56,South Africa,Newlands,5,South Africa
+449,23.5,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,56,South Africa,Newlands,5,South Africa
+450,23.6,0,AJ Hall,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,56,South Africa,Newlands,5,South Africa
+451,24.1,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,56,South Africa,Newlands,5,South Africa
+452,24.2,0,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,56,South Africa,Newlands,5,South Africa
+453,24.3,1,A Nel,2006-03-03,2nd,MEK Hussey,0,,SR Watson,0,South Africa,Australia,57,South Africa,Newlands,5,South Africa
+454,24.4,0,A Nel,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,57,South Africa,Newlands,5,South Africa
+455,24.5,0,A Nel,2006-03-03,2nd,SR Watson,0,,MEK Hussey,0,South Africa,Australia,57,South Africa,Newlands,6,South Africa
+456,24.6,0,A Nel,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,57,South Africa,Newlands,6,South Africa
+457,25.1,4,RJ Peterson,2006-03-03,2nd,GB Hogg,0,,SR Watson,0,South Africa,Australia,61,South Africa,Newlands,6,South Africa
+458,25.2,0,RJ Peterson,2006-03-03,2nd,GB Hogg,0,,SR Watson,0,South Africa,Australia,61,South Africa,Newlands,6,South Africa
+459,25.3,1,RJ Peterson,2006-03-03,2nd,GB Hogg,0,,SR Watson,0,South Africa,Australia,62,South Africa,Newlands,6,South Africa
+460,25.4,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,62,South Africa,Newlands,6,South Africa
+461,25.5,1,RJ Peterson,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,63,South Africa,Newlands,6,South Africa
+462,25.6,0,RJ Peterson,2006-03-03,2nd,GB Hogg,0,,SR Watson,0,South Africa,Australia,63,South Africa,Newlands,6,South Africa
+463,26.1,1,A Nel,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,64,South Africa,Newlands,6,South Africa
+464,26.2,0,A Nel,2006-03-03,2nd,GB Hogg,0,,SR Watson,0,South Africa,Australia,64,South Africa,Newlands,6,South Africa
+465,26.3,1,A Nel,2006-03-03,2nd,GB Hogg,0,,SR Watson,0,South Africa,Australia,65,South Africa,Newlands,6,South Africa
+466,26.4,0,A Nel,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,65,South Africa,Newlands,6,South Africa
+467,26.5,0,A Nel,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,65,South Africa,Newlands,6,South Africa
+468,26.6,4,A Nel,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,69,South Africa,Newlands,6,South Africa
+469,27.1,0,RJ Peterson,2006-03-03,2nd,GB Hogg,0,,SR Watson,0,South Africa,Australia,70,South Africa,Newlands,6,South Africa
+470,27.2,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,GB Hogg,0,South Africa,Australia,70,South Africa,Newlands,7,South Africa
+471,27.3,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,B Lee,0,South Africa,Australia,70,South Africa,Newlands,7,South Africa
+472,27.4,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,B Lee,0,South Africa,Australia,70,South Africa,Newlands,7,South Africa
+473,27.5,1,RJ Peterson,2006-03-03,2nd,SR Watson,0,,B Lee,0,South Africa,Australia,71,South Africa,Newlands,7,South Africa
+474,27.6,0,RJ Peterson,2006-03-03,2nd,B Lee,0,,SR Watson,0,South Africa,Australia,71,South Africa,Newlands,7,South Africa
+475,28.1,0,A Nel,2006-03-03,2nd,SR Watson,0,,B Lee,0,South Africa,Australia,71,South Africa,Newlands,8,South Africa
+476,28.2,0,A Nel,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,71,South Africa,Newlands,8,South Africa
+477,28.3,1,A Nel,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,72,South Africa,Newlands,8,South Africa
+478,28.4,0,A Nel,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,72,South Africa,Newlands,8,South Africa
+479,28.5,0,A Nel,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,72,South Africa,Newlands,8,South Africa
+480,28.6,2,A Nel,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,74,South Africa,Newlands,8,South Africa
+481,29.1,1,RJ Peterson,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,75,South Africa,Newlands,8,South Africa
+482,29.2,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,75,South Africa,Newlands,8,South Africa
+483,29.3,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,75,South Africa,Newlands,8,South Africa
+484,29.4,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,75,South Africa,Newlands,8,South Africa
+485,29.5,1,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,76,South Africa,Newlands,8,South Africa
+486,29.6,1,RJ Peterson,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,77,South Africa,Newlands,8,South Africa
+487,30.1,1,M Ntini,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,78,South Africa,Newlands,8,South Africa
+488,30.2,4,M Ntini,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,82,South Africa,Newlands,8,South Africa
+489,30.3,0,M Ntini,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,82,South Africa,Newlands,8,South Africa
+490,30.4,1,M Ntini,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+491,30.5,0,M Ntini,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+492,30.6,0,M Ntini,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+493,31.1,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+494,31.2,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+495,31.3,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+496,31.4,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+497,31.5,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+498,31.6,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+499,32.1,0,M Ntini,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,83,South Africa,Newlands,8,South Africa
+500,32.2,1,M Ntini,2006-03-03,2nd,NW Bracken,0,,SR Watson,0,South Africa,Australia,84,South Africa,Newlands,8,South Africa
+501,32.3,0,M Ntini,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,84,South Africa,Newlands,8,South Africa
+502,32.4,0,M Ntini,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,84,South Africa,Newlands,8,South Africa
+503,32.5,2,M Ntini,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,86,South Africa,Newlands,8,South Africa
+504,32.6,0,M Ntini,2006-03-03,2nd,SR Watson,0,,NW Bracken,0,South Africa,Australia,86,South Africa,Newlands,9,South Africa
+505,33.1,0,RJ Peterson,2006-03-03,2nd,SR Clark,0,,SR Watson,0,South Africa,Australia,86,South Africa,Newlands,9,South Africa
+506,33.2,4,RJ Peterson,2006-03-03,2nd,SR Clark,0,,SR Watson,0,South Africa,Australia,90,South Africa,Newlands,9,South Africa
+507,33.3,1,RJ Peterson,2006-03-03,2nd,SR Clark,0,,SR Watson,0,South Africa,Australia,91,South Africa,Newlands,9,South Africa
+508,33.4,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,SR Clark,0,South Africa,Australia,91,South Africa,Newlands,9,South Africa
+509,33.5,0,RJ Peterson,2006-03-03,2nd,SR Watson,0,,SR Clark,0,South Africa,Australia,91,South Africa,Newlands,9,South Africa
+510,33.6,1,RJ Peterson,2006-03-03,2nd,SR Watson,0,,SR Clark,0,South Africa,Australia,92,South Africa,Newlands,9,South Africa
+511,34.1,0,M Ntini,2006-03-03,2nd,SR Watson,0,,SR Clark,0,South Africa,Australia,92,South Africa,Newlands,9,South Africa
+512,34.2,1,M Ntini,2006-03-03,2nd,SR Watson,0,,SR Clark,0,South Africa,Australia,93,South Africa,Newlands,9,South Africa
+513,34.3,0,M Ntini,2006-03-03,2nd,SR Clark,0,,SR Watson,0,South Africa,Australia,93,South Africa,Newlands,10,South Africa

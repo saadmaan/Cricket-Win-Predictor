@@ -1,0 +1,489 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,0,,SE Marsh,0,Australia,Bangladesh,0,Australia,Marrara Cricket Ground,0,Australia
+1,0.2,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,0,,SE Marsh,0,Australia,Bangladesh,0,Australia,Marrara Cricket Ground,0,Australia
+2,0.3,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,0,,SE Marsh,0,Australia,Bangladesh,0,Australia,Marrara Cricket Ground,0,Australia
+3,0.4,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,0,,SE Marsh,0,Australia,Bangladesh,0,Australia,Marrara Cricket Ground,0,Australia
+4,0.5,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,0,,SE Marsh,0,Australia,Bangladesh,0,Australia,Marrara Cricket Ground,0,Australia
+5,0.6,4,Mashrafe Mortaza,2008-09-06,1st,SR Watson,0,,SE Marsh,4,Australia,Bangladesh,4,Australia,Marrara Cricket Ground,0,Australia
+6,1.1,0,Shahadat Hossain,2008-09-06,1st,SE Marsh,4,,SR Watson,0,Australia,Bangladesh,4,Australia,Marrara Cricket Ground,0,Australia
+7,1.2,0,Shahadat Hossain,2008-09-06,1st,SE Marsh,4,,SR Watson,0,Australia,Bangladesh,4,Australia,Marrara Cricket Ground,0,Australia
+8,1.3,0,Shahadat Hossain,2008-09-06,1st,SE Marsh,4,,SR Watson,0,Australia,Bangladesh,4,Australia,Marrara Cricket Ground,0,Australia
+9,1.4,0,Shahadat Hossain,2008-09-06,1st,SE Marsh,4,,SR Watson,0,Australia,Bangladesh,4,Australia,Marrara Cricket Ground,0,Australia
+10,1.5,4,Shahadat Hossain,2008-09-06,1st,SE Marsh,4,,SR Watson,4,Australia,Bangladesh,8,Australia,Marrara Cricket Ground,0,Australia
+11,1.6,0,Shahadat Hossain,2008-09-06,1st,SE Marsh,4,,SR Watson,4,Australia,Bangladesh,8,Australia,Marrara Cricket Ground,0,Australia
+12,2.1,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,4,,SE Marsh,4,Australia,Bangladesh,8,Australia,Marrara Cricket Ground,0,Australia
+13,2.2,3,Mashrafe Mortaza,2008-09-06,1st,SR Watson,4,,SE Marsh,7,Australia,Bangladesh,11,Australia,Marrara Cricket Ground,0,Australia
+14,2.3,1,Mashrafe Mortaza,2008-09-06,1st,SE Marsh,7,,SR Watson,5,Australia,Bangladesh,12,Australia,Marrara Cricket Ground,0,Australia
+15,2.4,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,5,,SE Marsh,7,Australia,Bangladesh,12,Australia,Marrara Cricket Ground,0,Australia
+16,2.5,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,5,,SE Marsh,7,Australia,Bangladesh,12,Australia,Marrara Cricket Ground,0,Australia
+17,2.6,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,5,,SE Marsh,7,Australia,Bangladesh,13,Australia,Marrara Cricket Ground,0,Australia
+18,3.1,0,Shahadat Hossain,2008-09-06,1st,SR Watson,5,,SE Marsh,7,Australia,Bangladesh,13,Australia,Marrara Cricket Ground,0,Australia
+19,3.2,4,Shahadat Hossain,2008-09-06,1st,SR Watson,5,,SE Marsh,11,Australia,Bangladesh,17,Australia,Marrara Cricket Ground,0,Australia
+20,3.3,0,Shahadat Hossain,2008-09-06,1st,SR Watson,5,,SE Marsh,11,Australia,Bangladesh,17,Australia,Marrara Cricket Ground,0,Australia
+21,3.4,0,Shahadat Hossain,2008-09-06,1st,SR Watson,5,,SE Marsh,11,Australia,Bangladesh,17,Australia,Marrara Cricket Ground,0,Australia
+22,3.5,0,Shahadat Hossain,2008-09-06,1st,SR Watson,5,,SE Marsh,11,Australia,Bangladesh,17,Australia,Marrara Cricket Ground,0,Australia
+23,3.6,1,Shahadat Hossain,2008-09-06,1st,SR Watson,5,,SE Marsh,12,Australia,Bangladesh,18,Australia,Marrara Cricket Ground,0,Australia
+24,4.1,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,5,,SE Marsh,12,Australia,Bangladesh,18,Australia,Marrara Cricket Ground,0,Australia
+25,4.2,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,5,,SE Marsh,12,Australia,Bangladesh,18,Australia,Marrara Cricket Ground,0,Australia
+26,4.3,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,5,,SE Marsh,12,Australia,Bangladesh,18,Australia,Marrara Cricket Ground,0,Australia
+27,4.4,1,Mashrafe Mortaza,2008-09-06,1st,SR Watson,5,,SE Marsh,13,Australia,Bangladesh,19,Australia,Marrara Cricket Ground,0,Australia
+28,4.5,0,Mashrafe Mortaza,2008-09-06,1st,SE Marsh,13,,SR Watson,5,Australia,Bangladesh,19,Australia,Marrara Cricket Ground,0,Australia
+29,4.6,2,Mashrafe Mortaza,2008-09-06,1st,SE Marsh,13,,SR Watson,7,Australia,Bangladesh,21,Australia,Marrara Cricket Ground,0,Australia
+30,5.1,4,Shahadat Hossain,2008-09-06,1st,SR Watson,7,,SE Marsh,17,Australia,Bangladesh,25,Australia,Marrara Cricket Ground,0,Australia
+31,5.2,0,Shahadat Hossain,2008-09-06,1st,SR Watson,7,,SE Marsh,17,Australia,Bangladesh,25,Australia,Marrara Cricket Ground,0,Australia
+32,5.3,2,Shahadat Hossain,2008-09-06,1st,SR Watson,7,,SE Marsh,19,Australia,Bangladesh,27,Australia,Marrara Cricket Ground,0,Australia
+33,5.4,0,Shahadat Hossain,2008-09-06,1st,SR Watson,7,,SE Marsh,19,Australia,Bangladesh,28,Australia,Marrara Cricket Ground,0,Australia
+34,5.5,1,Shahadat Hossain,2008-09-06,1st,SR Watson,7,,SE Marsh,20,Australia,Bangladesh,29,Australia,Marrara Cricket Ground,0,Australia
+35,5.6,0,Shahadat Hossain,2008-09-06,1st,SE Marsh,20,,SR Watson,7,Australia,Bangladesh,29,Australia,Marrara Cricket Ground,0,Australia
+36,5.7,0,Shahadat Hossain,2008-09-06,1st,SE Marsh,20,,SR Watson,7,Australia,Bangladesh,29,Australia,Marrara Cricket Ground,0,Australia
+37,6.1,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,7,,SE Marsh,20,Australia,Bangladesh,29,Australia,Marrara Cricket Ground,0,Australia
+38,6.2,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,7,,SE Marsh,20,Australia,Bangladesh,29,Australia,Marrara Cricket Ground,0,Australia
+39,6.3,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,7,,SE Marsh,20,Australia,Bangladesh,29,Australia,Marrara Cricket Ground,0,Australia
+40,6.4,1,Mashrafe Mortaza,2008-09-06,1st,SR Watson,7,,SE Marsh,21,Australia,Bangladesh,30,Australia,Marrara Cricket Ground,0,Australia
+41,6.5,1,Mashrafe Mortaza,2008-09-06,1st,SE Marsh,21,,SR Watson,8,Australia,Bangladesh,31,Australia,Marrara Cricket Ground,0,Australia
+42,6.6,1,Mashrafe Mortaza,2008-09-06,1st,SR Watson,8,,SE Marsh,22,Australia,Bangladesh,32,Australia,Marrara Cricket Ground,0,Australia
+43,7.1,4,Shahadat Hossain,2008-09-06,1st,SR Watson,8,,SE Marsh,26,Australia,Bangladesh,36,Australia,Marrara Cricket Ground,0,Australia
+44,7.2,0,Shahadat Hossain,2008-09-06,1st,SR Watson,8,,SE Marsh,26,Australia,Bangladesh,36,Australia,Marrara Cricket Ground,0,Australia
+45,7.3,0,Shahadat Hossain,2008-09-06,1st,SR Watson,8,,SE Marsh,26,Australia,Bangladesh,36,Australia,Marrara Cricket Ground,0,Australia
+46,7.4,1,Shahadat Hossain,2008-09-06,1st,SR Watson,8,,SE Marsh,27,Australia,Bangladesh,37,Australia,Marrara Cricket Ground,0,Australia
+47,7.5,1,Shahadat Hossain,2008-09-06,1st,SE Marsh,27,,SR Watson,9,Australia,Bangladesh,38,Australia,Marrara Cricket Ground,0,Australia
+48,7.6,3,Shahadat Hossain,2008-09-06,1st,SR Watson,9,,SE Marsh,30,Australia,Bangladesh,41,Australia,Marrara Cricket Ground,0,Australia
+49,8.1,0,Farhad Reza,2008-09-06,1st,SR Watson,9,SE Marsh,SE Marsh,30,Australia,Bangladesh,41,Australia,Marrara Cricket Ground,1,Australia
+50,8.2,0,Farhad Reza,2008-09-06,1st,SR Watson,9,,MJ Clarke,0,Australia,Bangladesh,41,Australia,Marrara Cricket Ground,1,Australia
+51,8.3,0,Farhad Reza,2008-09-06,1st,SR Watson,9,,MJ Clarke,0,Australia,Bangladesh,41,Australia,Marrara Cricket Ground,1,Australia
+52,8.4,0,Farhad Reza,2008-09-06,1st,SR Watson,9,,MJ Clarke,0,Australia,Bangladesh,41,Australia,Marrara Cricket Ground,1,Australia
+53,8.5,0,Farhad Reza,2008-09-06,1st,SR Watson,9,,MJ Clarke,0,Australia,Bangladesh,42,Australia,Marrara Cricket Ground,1,Australia
+54,8.6,0,Farhad Reza,2008-09-06,1st,SR Watson,9,,MJ Clarke,0,Australia,Bangladesh,42,Australia,Marrara Cricket Ground,1,Australia
+55,8.7,0,Farhad Reza,2008-09-06,1st,SR Watson,9,,MJ Clarke,0,Australia,Bangladesh,42,Australia,Marrara Cricket Ground,1,Australia
+56,9.1,0,Shahadat Hossain,2008-09-06,1st,MJ Clarke,0,,SR Watson,9,Australia,Bangladesh,42,Australia,Marrara Cricket Ground,1,Australia
+57,9.2,0,Shahadat Hossain,2008-09-06,1st,MJ Clarke,0,,SR Watson,9,Australia,Bangladesh,42,Australia,Marrara Cricket Ground,1,Australia
+58,9.3,1,Shahadat Hossain,2008-09-06,1st,MJ Clarke,0,,SR Watson,10,Australia,Bangladesh,43,Australia,Marrara Cricket Ground,1,Australia
+59,9.4,0,Shahadat Hossain,2008-09-06,1st,SR Watson,10,,MJ Clarke,0,Australia,Bangladesh,43,Australia,Marrara Cricket Ground,1,Australia
+60,9.5,1,Shahadat Hossain,2008-09-06,1st,SR Watson,10,,MJ Clarke,1,Australia,Bangladesh,44,Australia,Marrara Cricket Ground,1,Australia
+61,9.6,0,Shahadat Hossain,2008-09-06,1st,MJ Clarke,1,,SR Watson,10,Australia,Bangladesh,44,Australia,Marrara Cricket Ground,1,Australia
+62,10.1,2,Farhad Reza,2008-09-06,1st,SR Watson,10,,MJ Clarke,3,Australia,Bangladesh,46,Australia,Marrara Cricket Ground,1,Australia
+63,10.2,0,Farhad Reza,2008-09-06,1st,SR Watson,10,,MJ Clarke,3,Australia,Bangladesh,46,Australia,Marrara Cricket Ground,1,Australia
+64,10.3,0,Farhad Reza,2008-09-06,1st,SR Watson,10,,MJ Clarke,3,Australia,Bangladesh,46,Australia,Marrara Cricket Ground,1,Australia
+65,10.4,0,Farhad Reza,2008-09-06,1st,SR Watson,10,,MJ Clarke,3,Australia,Bangladesh,46,Australia,Marrara Cricket Ground,1,Australia
+66,10.5,0,Farhad Reza,2008-09-06,1st,SR Watson,10,,MJ Clarke,3,Australia,Bangladesh,47,Australia,Marrara Cricket Ground,1,Australia
+67,10.6,2,Farhad Reza,2008-09-06,1st,SR Watson,10,,MJ Clarke,5,Australia,Bangladesh,49,Australia,Marrara Cricket Ground,1,Australia
+68,10.7,0,Farhad Reza,2008-09-06,1st,SR Watson,10,,MJ Clarke,5,Australia,Bangladesh,49,Australia,Marrara Cricket Ground,1,Australia
+69,11.1,0,Mashrafe Mortaza,2008-09-06,1st,MJ Clarke,5,,SR Watson,10,Australia,Bangladesh,49,Australia,Marrara Cricket Ground,1,Australia
+70,11.2,1,Mashrafe Mortaza,2008-09-06,1st,MJ Clarke,5,,SR Watson,11,Australia,Bangladesh,50,Australia,Marrara Cricket Ground,1,Australia
+71,11.3,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,11,,MJ Clarke,5,Australia,Bangladesh,50,Australia,Marrara Cricket Ground,1,Australia
+72,11.4,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,11,,MJ Clarke,5,Australia,Bangladesh,50,Australia,Marrara Cricket Ground,1,Australia
+73,11.5,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,11,,MJ Clarke,5,Australia,Bangladesh,50,Australia,Marrara Cricket Ground,1,Australia
+74,11.6,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,11,,MJ Clarke,5,Australia,Bangladesh,50,Australia,Marrara Cricket Ground,1,Australia
+75,12.1,1,Farhad Reza,2008-09-06,1st,MJ Clarke,5,,SR Watson,12,Australia,Bangladesh,51,Australia,Marrara Cricket Ground,1,Australia
+76,12.2,0,Farhad Reza,2008-09-06,1st,SR Watson,12,,MJ Clarke,5,Australia,Bangladesh,51,Australia,Marrara Cricket Ground,1,Australia
+77,12.3,0,Farhad Reza,2008-09-06,1st,SR Watson,12,,MJ Clarke,5,Australia,Bangladesh,51,Australia,Marrara Cricket Ground,1,Australia
+78,12.4,0,Farhad Reza,2008-09-06,1st,SR Watson,12,,MJ Clarke,5,Australia,Bangladesh,51,Australia,Marrara Cricket Ground,1,Australia
+79,12.5,0,Farhad Reza,2008-09-06,1st,SR Watson,12,,MJ Clarke,5,Australia,Bangladesh,51,Australia,Marrara Cricket Ground,1,Australia
+80,12.6,0,Farhad Reza,2008-09-06,1st,SR Watson,12,,MJ Clarke,5,Australia,Bangladesh,51,Australia,Marrara Cricket Ground,1,Australia
+81,13.1,0,Mashrafe Mortaza,2008-09-06,1st,MJ Clarke,5,,SR Watson,12,Australia,Bangladesh,51,Australia,Marrara Cricket Ground,1,Australia
+82,13.2,4,Mashrafe Mortaza,2008-09-06,1st,MJ Clarke,5,,SR Watson,16,Australia,Bangladesh,55,Australia,Marrara Cricket Ground,1,Australia
+83,13.3,0,Mashrafe Mortaza,2008-09-06,1st,MJ Clarke,5,,SR Watson,16,Australia,Bangladesh,55,Australia,Marrara Cricket Ground,1,Australia
+84,13.4,1,Mashrafe Mortaza,2008-09-06,1st,MJ Clarke,5,,SR Watson,17,Australia,Bangladesh,56,Australia,Marrara Cricket Ground,1,Australia
+85,13.5,0,Mashrafe Mortaza,2008-09-06,1st,SR Watson,17,,MJ Clarke,5,Australia,Bangladesh,56,Australia,Marrara Cricket Ground,1,Australia
+86,13.6,1,Mashrafe Mortaza,2008-09-06,1st,SR Watson,17,,MJ Clarke,6,Australia,Bangladesh,57,Australia,Marrara Cricket Ground,1,Australia
+87,14.1,0,Farhad Reza,2008-09-06,1st,SR Watson,17,,MJ Clarke,6,Australia,Bangladesh,57,Australia,Marrara Cricket Ground,1,Australia
+88,14.2,0,Farhad Reza,2008-09-06,1st,SR Watson,17,,MJ Clarke,6,Australia,Bangladesh,57,Australia,Marrara Cricket Ground,1,Australia
+89,14.3,1,Farhad Reza,2008-09-06,1st,SR Watson,17,,MJ Clarke,7,Australia,Bangladesh,58,Australia,Marrara Cricket Ground,1,Australia
+90,14.4,1,Farhad Reza,2008-09-06,1st,MJ Clarke,7,,SR Watson,18,Australia,Bangladesh,59,Australia,Marrara Cricket Ground,1,Australia
+91,14.5,0,Farhad Reza,2008-09-06,1st,SR Watson,18,,MJ Clarke,7,Australia,Bangladesh,59,Australia,Marrara Cricket Ground,1,Australia
+92,14.6,0,Farhad Reza,2008-09-06,1st,SR Watson,18,,MJ Clarke,7,Australia,Bangladesh,59,Australia,Marrara Cricket Ground,1,Australia
+93,15.1,1,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,7,,SR Watson,19,Australia,Bangladesh,60,Australia,Marrara Cricket Ground,1,Australia
+94,15.2,1,Shakib Al Hasan,2008-09-06,1st,SR Watson,19,,MJ Clarke,8,Australia,Bangladesh,61,Australia,Marrara Cricket Ground,1,Australia
+95,15.3,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,8,,SR Watson,19,Australia,Bangladesh,61,Australia,Marrara Cricket Ground,1,Australia
+96,15.4,2,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,8,,SR Watson,21,Australia,Bangladesh,63,Australia,Marrara Cricket Ground,1,Australia
+97,15.5,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,8,,SR Watson,21,Australia,Bangladesh,63,Australia,Marrara Cricket Ground,1,Australia
+98,15.6,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,8,,SR Watson,21,Australia,Bangladesh,63,Australia,Marrara Cricket Ground,1,Australia
+99,16.1,2,Farhad Reza,2008-09-06,1st,SR Watson,21,,MJ Clarke,10,Australia,Bangladesh,65,Australia,Marrara Cricket Ground,1,Australia
+100,16.2,0,Farhad Reza,2008-09-06,1st,SR Watson,21,,MJ Clarke,10,Australia,Bangladesh,65,Australia,Marrara Cricket Ground,1,Australia
+101,16.3,0,Farhad Reza,2008-09-06,1st,SR Watson,21,,MJ Clarke,10,Australia,Bangladesh,65,Australia,Marrara Cricket Ground,1,Australia
+102,16.4,0,Farhad Reza,2008-09-06,1st,SR Watson,21,,MJ Clarke,10,Australia,Bangladesh,65,Australia,Marrara Cricket Ground,1,Australia
+103,16.5,3,Farhad Reza,2008-09-06,1st,SR Watson,21,,MJ Clarke,13,Australia,Bangladesh,68,Australia,Marrara Cricket Ground,1,Australia
+104,16.6,1,Farhad Reza,2008-09-06,1st,MJ Clarke,13,,SR Watson,22,Australia,Bangladesh,69,Australia,Marrara Cricket Ground,1,Australia
+105,17.1,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,13,,SR Watson,22,Australia,Bangladesh,69,Australia,Marrara Cricket Ground,1,Australia
+106,17.2,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,13,,SR Watson,22,Australia,Bangladesh,69,Australia,Marrara Cricket Ground,1,Australia
+107,17.3,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,13,,SR Watson,22,Australia,Bangladesh,69,Australia,Marrara Cricket Ground,1,Australia
+108,17.4,1,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,13,,SR Watson,23,Australia,Bangladesh,70,Australia,Marrara Cricket Ground,1,Australia
+109,17.5,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,23,,MJ Clarke,13,Australia,Bangladesh,70,Australia,Marrara Cricket Ground,1,Australia
+110,17.6,1,Shakib Al Hasan,2008-09-06,1st,SR Watson,23,,MJ Clarke,14,Australia,Bangladesh,71,Australia,Marrara Cricket Ground,1,Australia
+111,18.1,0,Abdur Razzak,2008-09-06,1st,SR Watson,23,,MJ Clarke,14,Australia,Bangladesh,71,Australia,Marrara Cricket Ground,1,Australia
+112,18.2,0,Abdur Razzak,2008-09-06,1st,SR Watson,23,,MJ Clarke,14,Australia,Bangladesh,71,Australia,Marrara Cricket Ground,1,Australia
+113,18.3,0,Abdur Razzak,2008-09-06,1st,SR Watson,23,,MJ Clarke,14,Australia,Bangladesh,71,Australia,Marrara Cricket Ground,1,Australia
+114,18.4,0,Abdur Razzak,2008-09-06,1st,SR Watson,23,,MJ Clarke,14,Australia,Bangladesh,71,Australia,Marrara Cricket Ground,1,Australia
+115,18.5,1,Abdur Razzak,2008-09-06,1st,SR Watson,23,,MJ Clarke,15,Australia,Bangladesh,72,Australia,Marrara Cricket Ground,1,Australia
+116,18.6,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,15,,SR Watson,23,Australia,Bangladesh,72,Australia,Marrara Cricket Ground,1,Australia
+117,19.1,1,Shakib Al Hasan,2008-09-06,1st,SR Watson,23,,MJ Clarke,16,Australia,Bangladesh,73,Australia,Marrara Cricket Ground,1,Australia
+118,19.2,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,16,,SR Watson,23,Australia,Bangladesh,73,Australia,Marrara Cricket Ground,1,Australia
+119,19.3,1,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,16,,SR Watson,24,Australia,Bangladesh,74,Australia,Marrara Cricket Ground,1,Australia
+120,19.4,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,24,,MJ Clarke,16,Australia,Bangladesh,74,Australia,Marrara Cricket Ground,1,Australia
+121,19.5,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,24,,MJ Clarke,16,Australia,Bangladesh,74,Australia,Marrara Cricket Ground,1,Australia
+122,19.6,1,Shakib Al Hasan,2008-09-06,1st,SR Watson,24,,MJ Clarke,17,Australia,Bangladesh,75,Australia,Marrara Cricket Ground,1,Australia
+123,20.1,0,Abdur Razzak,2008-09-06,1st,SR Watson,24,,MJ Clarke,17,Australia,Bangladesh,75,Australia,Marrara Cricket Ground,1,Australia
+124,20.2,1,Abdur Razzak,2008-09-06,1st,SR Watson,24,,MJ Clarke,18,Australia,Bangladesh,76,Australia,Marrara Cricket Ground,1,Australia
+125,20.3,1,Abdur Razzak,2008-09-06,1st,MJ Clarke,18,,SR Watson,25,Australia,Bangladesh,77,Australia,Marrara Cricket Ground,1,Australia
+126,20.4,0,Abdur Razzak,2008-09-06,1st,SR Watson,25,,MJ Clarke,18,Australia,Bangladesh,77,Australia,Marrara Cricket Ground,1,Australia
+127,20.5,0,Abdur Razzak,2008-09-06,1st,SR Watson,25,,MJ Clarke,18,Australia,Bangladesh,77,Australia,Marrara Cricket Ground,1,Australia
+128,20.6,1,Abdur Razzak,2008-09-06,1st,SR Watson,25,,MJ Clarke,19,Australia,Bangladesh,78,Australia,Marrara Cricket Ground,1,Australia
+129,21.1,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,25,,MJ Clarke,19,Australia,Bangladesh,78,Australia,Marrara Cricket Ground,1,Australia
+130,21.2,1,Shakib Al Hasan,2008-09-06,1st,SR Watson,25,,MJ Clarke,20,Australia,Bangladesh,79,Australia,Marrara Cricket Ground,1,Australia
+131,21.3,0,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,20,,SR Watson,25,Australia,Bangladesh,79,Australia,Marrara Cricket Ground,1,Australia
+132,21.4,1,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,20,,SR Watson,26,Australia,Bangladesh,80,Australia,Marrara Cricket Ground,1,Australia
+133,21.5,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,26,,MJ Clarke,20,Australia,Bangladesh,80,Australia,Marrara Cricket Ground,1,Australia
+134,21.6,1,Shakib Al Hasan,2008-09-06,1st,SR Watson,26,,MJ Clarke,21,Australia,Bangladesh,81,Australia,Marrara Cricket Ground,1,Australia
+135,22.1,1,Abdur Razzak,2008-09-06,1st,SR Watson,26,,MJ Clarke,22,Australia,Bangladesh,82,Australia,Marrara Cricket Ground,1,Australia
+136,22.2,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,22,,SR Watson,26,Australia,Bangladesh,82,Australia,Marrara Cricket Ground,1,Australia
+137,22.3,1,Abdur Razzak,2008-09-06,1st,MJ Clarke,22,,SR Watson,27,Australia,Bangladesh,83,Australia,Marrara Cricket Ground,1,Australia
+138,22.4,0,Abdur Razzak,2008-09-06,1st,SR Watson,27,,MJ Clarke,22,Australia,Bangladesh,83,Australia,Marrara Cricket Ground,1,Australia
+139,22.5,1,Abdur Razzak,2008-09-06,1st,SR Watson,27,,MJ Clarke,23,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,1,Australia
+140,22.6,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,23,,SR Watson,27,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,1,Australia
+141,23.1,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,27,,MJ Clarke,23,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,1,Australia
+142,23.2,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,27,,MJ Clarke,23,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,1,Australia
+143,23.3,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,27,,MJ Clarke,23,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,1,Australia
+144,23.4,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,27,,MJ Clarke,23,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,1,Australia
+145,23.5,0,Shakib Al Hasan,2008-09-06,1st,SR Watson,27,SR Watson,MJ Clarke,23,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,2,Australia
+146,23.6,1,Shakib Al Hasan,2008-09-06,1st,MJ Clarke,23,,MEK Hussey,1,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,2,Australia
+147,24.1,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,23,,MEK Hussey,1,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,2,Australia
+148,24.2,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,23,,MEK Hussey,1,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,2,Australia
+149,24.3,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,23,,MEK Hussey,1,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,2,Australia
+150,24.4,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,23,,MEK Hussey,1,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,2,Australia
+151,24.5,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,23,,MEK Hussey,1,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,2,Australia
+152,24.6,0,Abdur Razzak,2008-09-06,1st,MJ Clarke,23,,MEK Hussey,1,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,2,Australia
+153,25.1,2,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,1,,MJ Clarke,25,Australia,Bangladesh,87,Australia,Marrara Cricket Ground,2,Australia
+154,25.2,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,1,,MJ Clarke,25,Australia,Bangladesh,87,Australia,Marrara Cricket Ground,2,Australia
+155,25.3,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,1,MJ Clarke,MJ Clarke,25,Australia,Bangladesh,87,Australia,Marrara Cricket Ground,3,Australia
+156,25.4,0,Shakib Al Hasan,2008-09-06,1st,DJ Hussey,0,,MEK Hussey,1,Australia,Bangladesh,87,Australia,Marrara Cricket Ground,3,Australia
+157,25.5,1,Shakib Al Hasan,2008-09-06,1st,DJ Hussey,0,,MEK Hussey,2,Australia,Bangladesh,88,Australia,Marrara Cricket Ground,3,Australia
+158,25.6,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,2,,DJ Hussey,0,Australia,Bangladesh,88,Australia,Marrara Cricket Ground,3,Australia
+159,26.1,1,Abdur Razzak,2008-09-06,1st,DJ Hussey,0,,MEK Hussey,3,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,3,Australia
+160,26.2,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,3,,DJ Hussey,0,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,3,Australia
+161,26.3,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,3,,DJ Hussey,0,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,3,Australia
+162,26.4,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,3,,DJ Hussey,0,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,3,Australia
+163,26.5,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,3,,DJ Hussey,0,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,3,Australia
+164,26.6,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,3,,DJ Hussey,0,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,3,Australia
+165,27.1,0,Shakib Al Hasan,2008-09-06,1st,DJ Hussey,0,,MEK Hussey,3,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,3,Australia
+166,27.2,1,Shakib Al Hasan,2008-09-06,1st,DJ Hussey,0,,MEK Hussey,4,Australia,Bangladesh,90,Australia,Marrara Cricket Ground,3,Australia
+167,27.3,1,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,4,,DJ Hussey,1,Australia,Bangladesh,91,Australia,Marrara Cricket Ground,3,Australia
+168,27.4,0,Shakib Al Hasan,2008-09-06,1st,DJ Hussey,1,,MEK Hussey,4,Australia,Bangladesh,91,Australia,Marrara Cricket Ground,3,Australia
+169,27.5,0,Shakib Al Hasan,2008-09-06,1st,DJ Hussey,1,,MEK Hussey,4,Australia,Bangladesh,91,Australia,Marrara Cricket Ground,3,Australia
+170,27.6,0,Shakib Al Hasan,2008-09-06,1st,DJ Hussey,1,,MEK Hussey,4,Australia,Bangladesh,91,Australia,Marrara Cricket Ground,3,Australia
+171,28.1,1,Abdur Razzak,2008-09-06,1st,MEK Hussey,4,,DJ Hussey,2,Australia,Bangladesh,92,Australia,Marrara Cricket Ground,3,Australia
+172,28.2,1,Abdur Razzak,2008-09-06,1st,DJ Hussey,2,,MEK Hussey,5,Australia,Bangladesh,93,Australia,Marrara Cricket Ground,3,Australia
+173,28.3,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,5,,DJ Hussey,2,Australia,Bangladesh,93,Australia,Marrara Cricket Ground,3,Australia
+174,28.4,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,5,,DJ Hussey,2,Australia,Bangladesh,93,Australia,Marrara Cricket Ground,3,Australia
+175,28.5,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,5,,DJ Hussey,2,Australia,Bangladesh,93,Australia,Marrara Cricket Ground,3,Australia
+176,28.6,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,5,,DJ Hussey,2,Australia,Bangladesh,93,Australia,Marrara Cricket Ground,3,Australia
+177,29.1,0,Mahmudullah,2008-09-06,1st,DJ Hussey,2,,MEK Hussey,5,Australia,Bangladesh,93,Australia,Marrara Cricket Ground,3,Australia
+178,29.2,1,Mahmudullah,2008-09-06,1st,DJ Hussey,2,,MEK Hussey,6,Australia,Bangladesh,94,Australia,Marrara Cricket Ground,3,Australia
+179,29.3,0,Mahmudullah,2008-09-06,1st,MEK Hussey,6,,DJ Hussey,2,Australia,Bangladesh,94,Australia,Marrara Cricket Ground,3,Australia
+180,29.4,1,Mahmudullah,2008-09-06,1st,MEK Hussey,6,,DJ Hussey,3,Australia,Bangladesh,95,Australia,Marrara Cricket Ground,3,Australia
+181,29.5,1,Mahmudullah,2008-09-06,1st,DJ Hussey,3,,MEK Hussey,7,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,3,Australia
+182,29.6,1,Mahmudullah,2008-09-06,1st,MEK Hussey,7,,DJ Hussey,4,Australia,Bangladesh,97,Australia,Marrara Cricket Ground,3,Australia
+183,30.1,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,7,,DJ Hussey,4,Australia,Bangladesh,97,Australia,Marrara Cricket Ground,3,Australia
+184,30.2,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,7,,DJ Hussey,4,Australia,Bangladesh,97,Australia,Marrara Cricket Ground,3,Australia
+185,30.3,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,7,,DJ Hussey,4,Australia,Bangladesh,97,Australia,Marrara Cricket Ground,3,Australia
+186,30.4,1,Abdur Razzak,2008-09-06,1st,MEK Hussey,7,,DJ Hussey,5,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,3,Australia
+187,30.5,0,Abdur Razzak,2008-09-06,1st,DJ Hussey,5,,MEK Hussey,7,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,3,Australia
+188,30.6,0,Abdur Razzak,2008-09-06,1st,DJ Hussey,5,,MEK Hussey,7,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,3,Australia
+189,31.1,1,Mahmudullah,2008-09-06,1st,MEK Hussey,7,,DJ Hussey,6,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,3,Australia
+190,31.2,0,Mahmudullah,2008-09-06,1st,DJ Hussey,6,,MEK Hussey,7,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,3,Australia
+191,31.3,0,Mahmudullah,2008-09-06,1st,DJ Hussey,6,,MEK Hussey,7,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,3,Australia
+192,31.4,2,Mahmudullah,2008-09-06,1st,DJ Hussey,6,,MEK Hussey,9,Australia,Bangladesh,101,Australia,Marrara Cricket Ground,3,Australia
+193,31.5,0,Mahmudullah,2008-09-06,1st,DJ Hussey,6,,MEK Hussey,9,Australia,Bangladesh,101,Australia,Marrara Cricket Ground,3,Australia
+194,31.6,0,Mahmudullah,2008-09-06,1st,DJ Hussey,6,,MEK Hussey,9,Australia,Bangladesh,101,Australia,Marrara Cricket Ground,3,Australia
+195,32.1,1,Farhad Reza,2008-09-06,1st,MEK Hussey,9,,DJ Hussey,7,Australia,Bangladesh,102,Australia,Marrara Cricket Ground,3,Australia
+196,32.2,0,Farhad Reza,2008-09-06,1st,DJ Hussey,7,,MEK Hussey,9,Australia,Bangladesh,102,Australia,Marrara Cricket Ground,3,Australia
+197,32.3,2,Farhad Reza,2008-09-06,1st,DJ Hussey,7,,MEK Hussey,11,Australia,Bangladesh,104,Australia,Marrara Cricket Ground,3,Australia
+198,32.4,0,Farhad Reza,2008-09-06,1st,DJ Hussey,7,,MEK Hussey,11,Australia,Bangladesh,104,Australia,Marrara Cricket Ground,3,Australia
+199,32.5,1,Farhad Reza,2008-09-06,1st,DJ Hussey,7,,MEK Hussey,12,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,3,Australia
+200,32.6,1,Farhad Reza,2008-09-06,1st,MEK Hussey,12,,DJ Hussey,8,Australia,Bangladesh,106,Australia,Marrara Cricket Ground,3,Australia
+201,33.1,0,Mahmudullah,2008-09-06,1st,MEK Hussey,12,,DJ Hussey,8,Australia,Bangladesh,106,Australia,Marrara Cricket Ground,3,Australia
+202,33.2,1,Mahmudullah,2008-09-06,1st,MEK Hussey,12,,DJ Hussey,9,Australia,Bangladesh,107,Australia,Marrara Cricket Ground,3,Australia
+203,33.3,1,Mahmudullah,2008-09-06,1st,DJ Hussey,9,,MEK Hussey,13,Australia,Bangladesh,108,Australia,Marrara Cricket Ground,3,Australia
+204,33.4,1,Mahmudullah,2008-09-06,1st,MEK Hussey,13,,DJ Hussey,10,Australia,Bangladesh,109,Australia,Marrara Cricket Ground,3,Australia
+205,33.5,0,Mahmudullah,2008-09-06,1st,DJ Hussey,10,,MEK Hussey,13,Australia,Bangladesh,109,Australia,Marrara Cricket Ground,3,Australia
+206,33.6,0,Mahmudullah,2008-09-06,1st,DJ Hussey,10,,MEK Hussey,13,Australia,Bangladesh,109,Australia,Marrara Cricket Ground,3,Australia
+207,34.1,1,Farhad Reza,2008-09-06,1st,MEK Hussey,13,,DJ Hussey,11,Australia,Bangladesh,110,Australia,Marrara Cricket Ground,3,Australia
+208,34.2,0,Farhad Reza,2008-09-06,1st,DJ Hussey,11,,MEK Hussey,13,Australia,Bangladesh,110,Australia,Marrara Cricket Ground,3,Australia
+209,34.3,1,Farhad Reza,2008-09-06,1st,DJ Hussey,11,,MEK Hussey,14,Australia,Bangladesh,111,Australia,Marrara Cricket Ground,3,Australia
+210,34.4,0,Farhad Reza,2008-09-06,1st,MEK Hussey,14,DJ Hussey,DJ Hussey,11,Australia,Bangladesh,111,Australia,Marrara Cricket Ground,4,Australia
+211,34.5,0,Farhad Reza,2008-09-06,1st,BJ Haddin,0,,MEK Hussey,14,Australia,Bangladesh,111,Australia,Marrara Cricket Ground,4,Australia
+212,34.6,1,Farhad Reza,2008-09-06,1st,BJ Haddin,0,,MEK Hussey,15,Australia,Bangladesh,112,Australia,Marrara Cricket Ground,4,Australia
+213,35.1,2,Shahadat Hossain,2008-09-06,1st,BJ Haddin,0,,MEK Hussey,17,Australia,Bangladesh,114,Australia,Marrara Cricket Ground,4,Australia
+214,35.2,0,Shahadat Hossain,2008-09-06,1st,BJ Haddin,0,,MEK Hussey,17,Australia,Bangladesh,114,Australia,Marrara Cricket Ground,4,Australia
+215,35.3,1,Shahadat Hossain,2008-09-06,1st,BJ Haddin,0,,MEK Hussey,18,Australia,Bangladesh,115,Australia,Marrara Cricket Ground,4,Australia
+216,35.4,0,Shahadat Hossain,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,0,Australia,Bangladesh,115,Australia,Marrara Cricket Ground,4,Australia
+217,35.5,0,Shahadat Hossain,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,0,Australia,Bangladesh,120,Australia,Marrara Cricket Ground,4,Australia
+218,35.6,1,Shahadat Hossain,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,1,Australia,Bangladesh,121,Australia,Marrara Cricket Ground,4,Australia
+219,35.7,0,Shahadat Hossain,2008-09-06,1st,BJ Haddin,1,,MEK Hussey,18,Australia,Bangladesh,121,Australia,Marrara Cricket Ground,4,Australia
+220,36.1,0,Farhad Reza,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,1,Australia,Bangladesh,121,Australia,Marrara Cricket Ground,4,Australia
+221,36.2,0,Farhad Reza,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,1,Australia,Bangladesh,121,Australia,Marrara Cricket Ground,4,Australia
+222,36.3,0,Farhad Reza,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,1,Australia,Bangladesh,121,Australia,Marrara Cricket Ground,4,Australia
+223,36.4,0,Farhad Reza,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,1,Australia,Bangladesh,121,Australia,Marrara Cricket Ground,4,Australia
+224,36.5,1,Farhad Reza,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,2,Australia,Bangladesh,122,Australia,Marrara Cricket Ground,4,Australia
+225,36.6,0,Farhad Reza,2008-09-06,1st,BJ Haddin,2,,MEK Hussey,18,Australia,Bangladesh,122,Australia,Marrara Cricket Ground,4,Australia
+226,37.1,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,2,Australia,Bangladesh,122,Australia,Marrara Cricket Ground,4,Australia
+227,37.2,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,2,Australia,Bangladesh,122,Australia,Marrara Cricket Ground,4,Australia
+228,37.3,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,2,Australia,Bangladesh,122,Australia,Marrara Cricket Ground,4,Australia
+229,37.4,1,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,18,,BJ Haddin,3,Australia,Bangladesh,123,Australia,Marrara Cricket Ground,4,Australia
+230,37.5,1,Shakib Al Hasan,2008-09-06,1st,BJ Haddin,3,,MEK Hussey,19,Australia,Bangladesh,124,Australia,Marrara Cricket Ground,4,Australia
+231,37.6,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,19,,BJ Haddin,3,Australia,Bangladesh,124,Australia,Marrara Cricket Ground,4,Australia
+232,38.1,1,Mahmudullah,2008-09-06,1st,BJ Haddin,3,,MEK Hussey,20,Australia,Bangladesh,125,Australia,Marrara Cricket Ground,4,Australia
+233,38.2,1,Mahmudullah,2008-09-06,1st,MEK Hussey,20,,BJ Haddin,4,Australia,Bangladesh,126,Australia,Marrara Cricket Ground,4,Australia
+234,38.3,1,Mahmudullah,2008-09-06,1st,BJ Haddin,4,,MEK Hussey,21,Australia,Bangladesh,127,Australia,Marrara Cricket Ground,4,Australia
+235,38.4,1,Mahmudullah,2008-09-06,1st,MEK Hussey,21,,BJ Haddin,5,Australia,Bangladesh,128,Australia,Marrara Cricket Ground,4,Australia
+236,38.5,1,Mahmudullah,2008-09-06,1st,BJ Haddin,5,,MEK Hussey,22,Australia,Bangladesh,129,Australia,Marrara Cricket Ground,4,Australia
+237,38.6,0,Mahmudullah,2008-09-06,1st,MEK Hussey,22,,BJ Haddin,5,Australia,Bangladesh,129,Australia,Marrara Cricket Ground,4,Australia
+238,39.1,1,Shakib Al Hasan,2008-09-06,1st,BJ Haddin,5,,MEK Hussey,23,Australia,Bangladesh,130,Australia,Marrara Cricket Ground,4,Australia
+239,39.2,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,23,,BJ Haddin,5,Australia,Bangladesh,130,Australia,Marrara Cricket Ground,4,Australia
+240,39.3,1,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,23,,BJ Haddin,6,Australia,Bangladesh,131,Australia,Marrara Cricket Ground,4,Australia
+241,39.4,1,Shakib Al Hasan,2008-09-06,1st,BJ Haddin,6,,MEK Hussey,24,Australia,Bangladesh,132,Australia,Marrara Cricket Ground,4,Australia
+242,39.5,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,24,,BJ Haddin,6,Australia,Bangladesh,132,Australia,Marrara Cricket Ground,4,Australia
+243,39.6,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,24,,BJ Haddin,6,Australia,Bangladesh,132,Australia,Marrara Cricket Ground,4,Australia
+244,40.1,0,Mashrafe Mortaza,2008-09-06,1st,BJ Haddin,6,,MEK Hussey,24,Australia,Bangladesh,132,Australia,Marrara Cricket Ground,4,Australia
+245,40.2,1,Mashrafe Mortaza,2008-09-06,1st,BJ Haddin,6,,MEK Hussey,25,Australia,Bangladesh,133,Australia,Marrara Cricket Ground,4,Australia
+246,40.3,0,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,25,,BJ Haddin,6,Australia,Bangladesh,133,Australia,Marrara Cricket Ground,4,Australia
+247,40.4,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,25,,BJ Haddin,7,Australia,Bangladesh,134,Australia,Marrara Cricket Ground,4,Australia
+248,40.5,1,Mashrafe Mortaza,2008-09-06,1st,BJ Haddin,7,,MEK Hussey,26,Australia,Bangladesh,135,Australia,Marrara Cricket Ground,4,Australia
+249,40.6,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,26,,BJ Haddin,8,Australia,Bangladesh,136,Australia,Marrara Cricket Ground,4,Australia
+250,41.1,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,26,,BJ Haddin,8,Australia,Bangladesh,136,Australia,Marrara Cricket Ground,4,Australia
+251,41.2,1,Abdur Razzak,2008-09-06,1st,MEK Hussey,26,,BJ Haddin,9,Australia,Bangladesh,137,Australia,Marrara Cricket Ground,4,Australia
+252,41.3,4,Abdur Razzak,2008-09-06,1st,BJ Haddin,9,,MEK Hussey,30,Australia,Bangladesh,141,Australia,Marrara Cricket Ground,4,Australia
+253,41.4,1,Abdur Razzak,2008-09-06,1st,BJ Haddin,9,,MEK Hussey,31,Australia,Bangladesh,142,Australia,Marrara Cricket Ground,4,Australia
+254,41.5,1,Abdur Razzak,2008-09-06,1st,MEK Hussey,31,,BJ Haddin,10,Australia,Bangladesh,143,Australia,Marrara Cricket Ground,4,Australia
+255,41.6,0,Abdur Razzak,2008-09-06,1st,BJ Haddin,10,,MEK Hussey,31,Australia,Bangladesh,143,Australia,Marrara Cricket Ground,4,Australia
+256,42.1,4,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,31,,BJ Haddin,14,Australia,Bangladesh,147,Australia,Marrara Cricket Ground,4,Australia
+257,42.2,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,31,,BJ Haddin,15,Australia,Bangladesh,148,Australia,Marrara Cricket Ground,4,Australia
+258,42.3,1,Mashrafe Mortaza,2008-09-06,1st,BJ Haddin,15,,MEK Hussey,32,Australia,Bangladesh,149,Australia,Marrara Cricket Ground,4,Australia
+259,42.4,0,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,32,,BJ Haddin,15,Australia,Bangladesh,149,Australia,Marrara Cricket Ground,4,Australia
+260,42.5,0,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,32,,BJ Haddin,15,Australia,Bangladesh,149,Australia,Marrara Cricket Ground,4,Australia
+261,42.6,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,32,,BJ Haddin,16,Australia,Bangladesh,150,Australia,Marrara Cricket Ground,4,Australia
+262,43.1,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,32,BJ Haddin,BJ Haddin,16,Australia,Bangladesh,150,Australia,Marrara Cricket Ground,5,Australia
+263,43.2,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,32,,CL White,0,Australia,Bangladesh,150,Australia,Marrara Cricket Ground,5,Australia
+264,43.3,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,32,,CL White,0,Australia,Bangladesh,150,Australia,Marrara Cricket Ground,5,Australia
+265,43.4,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,32,,CL White,0,Australia,Bangladesh,150,Australia,Marrara Cricket Ground,5,Australia
+266,43.5,1,Abdur Razzak,2008-09-06,1st,MEK Hussey,32,,CL White,1,Australia,Bangladesh,151,Australia,Marrara Cricket Ground,5,Australia
+267,43.6,1,Abdur Razzak,2008-09-06,1st,CL White,1,,MEK Hussey,33,Australia,Bangladesh,152,Australia,Marrara Cricket Ground,5,Australia
+268,44.1,1,Shakib Al Hasan,2008-09-06,1st,CL White,1,,MEK Hussey,34,Australia,Bangladesh,153,Australia,Marrara Cricket Ground,5,Australia
+269,44.2,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,34,,CL White,1,Australia,Bangladesh,153,Australia,Marrara Cricket Ground,5,Australia
+270,44.3,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,34,,CL White,1,Australia,Bangladesh,153,Australia,Marrara Cricket Ground,5,Australia
+271,44.4,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,34,,CL White,1,Australia,Bangladesh,153,Australia,Marrara Cricket Ground,5,Australia
+272,44.5,0,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,34,,CL White,1,Australia,Bangladesh,153,Australia,Marrara Cricket Ground,5,Australia
+273,44.6,1,Shakib Al Hasan,2008-09-06,1st,MEK Hussey,34,,CL White,2,Australia,Bangladesh,154,Australia,Marrara Cricket Ground,5,Australia
+274,45.1,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,34,,CL White,2,Australia,Bangladesh,154,Australia,Marrara Cricket Ground,5,Australia
+275,45.2,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,34,,CL White,2,Australia,Bangladesh,154,Australia,Marrara Cricket Ground,5,Australia
+276,45.3,1,Abdur Razzak,2008-09-06,1st,MEK Hussey,34,,CL White,3,Australia,Bangladesh,155,Australia,Marrara Cricket Ground,5,Australia
+277,45.4,1,Abdur Razzak,2008-09-06,1st,CL White,3,,MEK Hussey,35,Australia,Bangladesh,156,Australia,Marrara Cricket Ground,5,Australia
+278,45.5,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,35,,CL White,3,Australia,Bangladesh,156,Australia,Marrara Cricket Ground,5,Australia
+279,45.6,0,Abdur Razzak,2008-09-06,1st,MEK Hussey,35,,CL White,3,Australia,Bangladesh,156,Australia,Marrara Cricket Ground,5,Australia
+280,46.1,1,Farhad Reza,2008-09-06,1st,CL White,3,,MEK Hussey,36,Australia,Bangladesh,157,Australia,Marrara Cricket Ground,5,Australia
+281,46.2,6,Farhad Reza,2008-09-06,1st,MEK Hussey,36,,CL White,9,Australia,Bangladesh,163,Australia,Marrara Cricket Ground,5,Australia
+282,46.3,4,Farhad Reza,2008-09-06,1st,MEK Hussey,36,,CL White,13,Australia,Bangladesh,167,Australia,Marrara Cricket Ground,5,Australia
+283,46.4,1,Farhad Reza,2008-09-06,1st,MEK Hussey,36,,CL White,14,Australia,Bangladesh,168,Australia,Marrara Cricket Ground,5,Australia
+284,46.5,0,Farhad Reza,2008-09-06,1st,CL White,14,,MEK Hussey,36,Australia,Bangladesh,168,Australia,Marrara Cricket Ground,5,Australia
+285,46.6,1,Farhad Reza,2008-09-06,1st,CL White,14,,MEK Hussey,37,Australia,Bangladesh,169,Australia,Marrara Cricket Ground,5,Australia
+286,47.1,1,Mashrafe Mortaza,2008-09-06,1st,CL White,14,,MEK Hussey,38,Australia,Bangladesh,170,Australia,Marrara Cricket Ground,5,Australia
+287,47.2,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,38,,CL White,15,Australia,Bangladesh,171,Australia,Marrara Cricket Ground,5,Australia
+288,47.3,1,Mashrafe Mortaza,2008-09-06,1st,CL White,15,,MEK Hussey,39,Australia,Bangladesh,172,Australia,Marrara Cricket Ground,5,Australia
+289,47.4,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,39,,CL White,16,Australia,Bangladesh,173,Australia,Marrara Cricket Ground,5,Australia
+290,47.5,1,Mashrafe Mortaza,2008-09-06,1st,CL White,16,,MEK Hussey,40,Australia,Bangladesh,174,Australia,Marrara Cricket Ground,5,Australia
+291,47.6,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,40,,CL White,17,Australia,Bangladesh,175,Australia,Marrara Cricket Ground,5,Australia
+292,48.1,1,Farhad Reza,2008-09-06,1st,MEK Hussey,40,,CL White,18,Australia,Bangladesh,176,Australia,Marrara Cricket Ground,5,Australia
+293,48.2,1,Farhad Reza,2008-09-06,1st,CL White,18,,MEK Hussey,41,Australia,Bangladesh,177,Australia,Marrara Cricket Ground,5,Australia
+294,48.3,2,Farhad Reza,2008-09-06,1st,MEK Hussey,41,,CL White,20,Australia,Bangladesh,179,Australia,Marrara Cricket Ground,5,Australia
+295,48.4,1,Farhad Reza,2008-09-06,1st,MEK Hussey,41,,CL White,21,Australia,Bangladesh,180,Australia,Marrara Cricket Ground,5,Australia
+296,48.5,0,Farhad Reza,2008-09-06,1st,CL White,21,,MEK Hussey,41,Australia,Bangladesh,180,Australia,Marrara Cricket Ground,5,Australia
+297,48.6,1,Farhad Reza,2008-09-06,1st,CL White,21,,MEK Hussey,42,Australia,Bangladesh,181,Australia,Marrara Cricket Ground,5,Australia
+298,49.1,2,Mashrafe Mortaza,2008-09-06,1st,CL White,21,,MEK Hussey,44,Australia,Bangladesh,183,Australia,Marrara Cricket Ground,5,Australia
+299,49.2,1,Mashrafe Mortaza,2008-09-06,1st,CL White,21,,MEK Hussey,45,Australia,Bangladesh,184,Australia,Marrara Cricket Ground,5,Australia
+300,49.3,1,Mashrafe Mortaza,2008-09-06,1st,MEK Hussey,45,,CL White,22,Australia,Bangladesh,185,Australia,Marrara Cricket Ground,5,Australia
+301,49.4,6,Mashrafe Mortaza,2008-09-06,1st,CL White,22,,MEK Hussey,51,Australia,Bangladesh,191,Australia,Marrara Cricket Ground,5,Australia
+302,49.5,0,Mashrafe Mortaza,2008-09-06,1st,CL White,22,,MEK Hussey,51,Australia,Bangladesh,192,Australia,Marrara Cricket Ground,5,Australia
+303,49.6,2,Mashrafe Mortaza,2008-09-06,1st,CL White,22,,MEK Hussey,53,Australia,Bangladesh,194,Australia,Marrara Cricket Ground,5,Australia
+304,49.7,4,Mashrafe Mortaza,2008-09-06,1st,CL White,22,,MEK Hussey,57,Australia,Bangladesh,198,Australia,Marrara Cricket Ground,5,Australia
+305,0.1,0,NW Bracken,2008-09-06,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Australia,Bangladesh,0,Australia,Marrara Cricket Ground,0,Australia
+306,0.2,0,NW Bracken,2008-09-06,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Australia,Bangladesh,0,Australia,Marrara Cricket Ground,0,Australia
+307,0.3,2,NW Bracken,2008-09-06,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+308,0.4,0,NW Bracken,2008-09-06,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+309,0.5,0,NW Bracken,2008-09-06,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+310,0.6,0,NW Bracken,2008-09-06,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+311,1.1,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+312,1.2,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+313,1.3,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+314,1.4,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+315,1.5,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,0,Australia
+316,1.6,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,1,Australia
+317,2.1,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,1,Australia
+318,2.2,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,2,Australia,Marrara Cricket Ground,1,Australia
+319,2.3,1,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,3,Australia,Marrara Cricket Ground,1,Australia
+320,2.4,0,NW Bracken,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,3,Australia,Marrara Cricket Ground,1,Australia
+321,2.5,1,NW Bracken,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,4,Australia,Marrara Cricket Ground,1,Australia
+322,2.6,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,5,Australia,Marrara Cricket Ground,1,Australia
+323,2.7,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,5,Australia,Marrara Cricket Ground,1,Australia
+324,3.1,2,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,7,Australia,Marrara Cricket Ground,1,Australia
+325,3.2,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,7,Australia,Marrara Cricket Ground,1,Australia
+326,3.3,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,7,Australia,Marrara Cricket Ground,1,Australia
+327,3.4,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,7,Australia,Marrara Cricket Ground,1,Australia
+328,3.5,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,7,Australia,Marrara Cricket Ground,1,Australia
+329,3.6,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,7,Australia,Marrara Cricket Ground,1,Australia
+330,4.1,4,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,11,Australia,Marrara Cricket Ground,1,Australia
+331,4.2,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,11,Australia,Marrara Cricket Ground,1,Australia
+332,4.3,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,11,Australia,Marrara Cricket Ground,1,Australia
+333,4.4,2,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,13,Australia,Marrara Cricket Ground,1,Australia
+334,4.5,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,13,Australia,Marrara Cricket Ground,1,Australia
+335,4.6,0,NW Bracken,2008-09-06,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Australia,Bangladesh,13,Australia,Marrara Cricket Ground,1,Australia
+336,5.1,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Australia,Bangladesh,13,Australia,Marrara Cricket Ground,2,Australia
+337,5.2,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Alok Kapali,0,Australia,Bangladesh,13,Australia,Marrara Cricket Ground,2,Australia
+338,5.3,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Alok Kapali,0,Australia,Bangladesh,14,Australia,Marrara Cricket Ground,2,Australia
+339,5.4,2,SR Clark,2008-09-06,2nd,Alok Kapali,0,,Tamim Iqbal,0,Australia,Bangladesh,16,Australia,Marrara Cricket Ground,2,Australia
+340,5.5,0,SR Clark,2008-09-06,2nd,Alok Kapali,0,,Tamim Iqbal,0,Australia,Bangladesh,16,Australia,Marrara Cricket Ground,2,Australia
+341,5.6,1,SR Clark,2008-09-06,2nd,Alok Kapali,0,,Tamim Iqbal,0,Australia,Bangladesh,17,Australia,Marrara Cricket Ground,2,Australia
+342,6.1,4,MG Johnson,2008-09-06,2nd,Alok Kapali,0,,Tamim Iqbal,0,Australia,Bangladesh,21,Australia,Marrara Cricket Ground,2,Australia
+343,6.2,1,MG Johnson,2008-09-06,2nd,Alok Kapali,0,,Tamim Iqbal,0,Australia,Bangladesh,22,Australia,Marrara Cricket Ground,2,Australia
+344,6.3,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Alok Kapali,0,Australia,Bangladesh,22,Australia,Marrara Cricket Ground,3,Australia
+345,6.4,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,22,Australia,Marrara Cricket Ground,3,Australia
+346,6.5,4,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,26,Australia,Marrara Cricket Ground,3,Australia
+347,6.6,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,26,Australia,Marrara Cricket Ground,3,Australia
+348,7.1,0,SR Clark,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,26,Australia,Marrara Cricket Ground,3,Australia
+349,7.2,0,SR Clark,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,26,Australia,Marrara Cricket Ground,3,Australia
+350,7.3,0,SR Clark,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,26,Australia,Marrara Cricket Ground,3,Australia
+351,7.4,1,SR Clark,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,27,Australia,Marrara Cricket Ground,3,Australia
+352,7.5,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,27,Australia,Marrara Cricket Ground,3,Australia
+353,7.6,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,28,Australia,Marrara Cricket Ground,3,Australia
+354,7.7,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,28,Australia,Marrara Cricket Ground,3,Australia
+355,8.1,2,MG Johnson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,30,Australia,Marrara Cricket Ground,3,Australia
+356,8.2,1,MG Johnson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,31,Australia,Marrara Cricket Ground,3,Australia
+357,8.3,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,31,Australia,Marrara Cricket Ground,3,Australia
+358,8.4,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,32,Australia,Marrara Cricket Ground,3,Australia
+359,8.5,4,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,36,Australia,Marrara Cricket Ground,3,Australia
+360,8.6,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,36,Australia,Marrara Cricket Ground,3,Australia
+361,8.7,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,36,Australia,Marrara Cricket Ground,3,Australia
+362,9.1,0,SR Clark,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,36,Australia,Marrara Cricket Ground,3,Australia
+363,9.2,2,SR Clark,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,38,Australia,Marrara Cricket Ground,3,Australia
+364,9.3,1,SR Clark,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,39,Australia,Marrara Cricket Ground,3,Australia
+365,9.4,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,39,Australia,Marrara Cricket Ground,3,Australia
+366,9.5,0,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,39,Australia,Marrara Cricket Ground,3,Australia
+367,9.6,2,SR Clark,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,41,Australia,Marrara Cricket Ground,3,Australia
+368,10.1,0,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,41,Australia,Marrara Cricket Ground,3,Australia
+369,10.2,2,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,43,Australia,Marrara Cricket Ground,3,Australia
+370,10.3,0,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,43,Australia,Marrara Cricket Ground,3,Australia
+371,10.4,0,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,43,Australia,Marrara Cricket Ground,3,Australia
+372,10.5,0,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,43,Australia,Marrara Cricket Ground,3,Australia
+373,10.6,0,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,43,Australia,Marrara Cricket Ground,3,Australia
+374,11.1,4,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,47,Australia,Marrara Cricket Ground,3,Australia
+375,11.2,1,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,48,Australia,Marrara Cricket Ground,3,Australia
+376,11.3,1,MG Johnson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,49,Australia,Marrara Cricket Ground,3,Australia
+377,11.4,4,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,53,Australia,Marrara Cricket Ground,3,Australia
+378,11.5,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,53,Australia,Marrara Cricket Ground,3,Australia
+379,11.6,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,53,Australia,Marrara Cricket Ground,3,Australia
+380,12.1,0,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,53,Australia,Marrara Cricket Ground,3,Australia
+381,12.2,1,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,54,Australia,Marrara Cricket Ground,3,Australia
+382,12.3,1,DJ Hussey,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,55,Australia,Marrara Cricket Ground,3,Australia
+383,12.4,1,DJ Hussey,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,56,Australia,Marrara Cricket Ground,3,Australia
+384,12.5,0,DJ Hussey,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,56,Australia,Marrara Cricket Ground,3,Australia
+385,12.6,0,DJ Hussey,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,56,Australia,Marrara Cricket Ground,3,Australia
+386,13.1,1,MG Johnson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,57,Australia,Marrara Cricket Ground,3,Australia
+387,13.2,1,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,58,Australia,Marrara Cricket Ground,3,Australia
+388,13.3,0,MG Johnson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,58,Australia,Marrara Cricket Ground,3,Australia
+389,13.4,4,MG Johnson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,62,Australia,Marrara Cricket Ground,3,Australia
+390,13.5,3,MG Johnson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,65,Australia,Marrara Cricket Ground,3,Australia
+391,13.6,0,MG Johnson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,65,Australia,Marrara Cricket Ground,3,Australia
+392,14.1,4,JR Hopes,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,69,Australia,Marrara Cricket Ground,3,Australia
+393,14.2,2,JR Hopes,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,71,Australia,Marrara Cricket Ground,3,Australia
+394,14.3,0,JR Hopes,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,71,Australia,Marrara Cricket Ground,3,Australia
+395,14.4,1,JR Hopes,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,72,Australia,Marrara Cricket Ground,3,Australia
+396,14.5,4,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,76,Australia,Marrara Cricket Ground,3,Australia
+397,14.6,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,76,Australia,Marrara Cricket Ground,3,Australia
+398,15.1,2,SR Watson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,78,Australia,Marrara Cricket Ground,3,Australia
+399,15.2,0,SR Watson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,78,Australia,Marrara Cricket Ground,3,Australia
+400,15.3,1,SR Watson,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,79,Australia,Marrara Cricket Ground,3,Australia
+401,15.4,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,79,Australia,Marrara Cricket Ground,3,Australia
+402,15.5,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,79,Australia,Marrara Cricket Ground,3,Australia
+403,15.6,1,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,80,Australia,Marrara Cricket Ground,3,Australia
+404,16.1,1,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,81,Australia,Marrara Cricket Ground,3,Australia
+405,16.2,0,JR Hopes,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,81,Australia,Marrara Cricket Ground,3,Australia
+406,16.3,1,JR Hopes,2008-09-06,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Australia,Bangladesh,82,Australia,Marrara Cricket Ground,3,Australia
+407,16.4,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Australia,Bangladesh,82,Australia,Marrara Cricket Ground,4,Australia
+408,16.5,1,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Mahmudullah,0,Australia,Bangladesh,83,Australia,Marrara Cricket Ground,4,Australia
+409,16.6,1,JR Hopes,2008-09-06,2nd,Mahmudullah,0,,Tamim Iqbal,0,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,4,Australia
+410,17.1,0,SR Watson,2008-09-06,2nd,Mahmudullah,0,,Tamim Iqbal,0,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,4,Australia
+411,17.2,0,SR Watson,2008-09-06,2nd,Mahmudullah,0,,Tamim Iqbal,0,Australia,Bangladesh,84,Australia,Marrara Cricket Ground,4,Australia
+412,17.3,1,SR Watson,2008-09-06,2nd,Mahmudullah,0,,Tamim Iqbal,0,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,4,Australia
+413,17.4,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Mahmudullah,0,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,4,Australia
+414,17.5,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Mahmudullah,0,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,4,Australia
+415,17.6,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Mahmudullah,0,Australia,Bangladesh,85,Australia,Marrara Cricket Ground,4,Australia
+416,18.1,4,JR Hopes,2008-09-06,2nd,Mahmudullah,0,,Tamim Iqbal,0,Australia,Bangladesh,89,Australia,Marrara Cricket Ground,4,Australia
+417,18.2,6,JR Hopes,2008-09-06,2nd,Mahmudullah,0,,Tamim Iqbal,0,Australia,Bangladesh,95,Australia,Marrara Cricket Ground,4,Australia
+418,18.3,1,JR Hopes,2008-09-06,2nd,Mahmudullah,0,,Tamim Iqbal,0,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,4,Australia
+419,18.4,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Mahmudullah,0,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,4,Australia
+420,18.5,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Mahmudullah,0,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,5,Australia
+421,18.6,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Dhiman Ghosh,0,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,5,Australia
+422,19.1,0,SR Watson,2008-09-06,2nd,Dhiman Ghosh,0,,Tamim Iqbal,0,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,5,Australia
+423,19.2,0,SR Watson,2008-09-06,2nd,Dhiman Ghosh,0,,Tamim Iqbal,0,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,5,Australia
+424,19.3,0,SR Watson,2008-09-06,2nd,Dhiman Ghosh,0,,Tamim Iqbal,0,Australia,Bangladesh,96,Australia,Marrara Cricket Ground,5,Australia
+425,19.4,0,SR Watson,2008-09-06,2nd,Dhiman Ghosh,0,,Tamim Iqbal,0,Australia,Bangladesh,97,Australia,Marrara Cricket Ground,5,Australia
+426,19.5,1,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Dhiman Ghosh,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,5,Australia
+427,19.6,0,SR Watson,2008-09-06,2nd,Dhiman Ghosh,0,,Tamim Iqbal,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,5,Australia
+428,20.1,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Dhiman Ghosh,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,5,Australia
+429,20.2,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Dhiman Ghosh,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,6,Australia
+430,20.3,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Farhad Reza,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,6,Australia
+431,20.4,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Farhad Reza,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,6,Australia
+432,20.5,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Farhad Reza,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,6,Australia
+433,20.6,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Farhad Reza,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,6,Australia
+434,21.1,0,SR Watson,2008-09-06,2nd,Farhad Reza,0,,Tamim Iqbal,0,Australia,Bangladesh,98,Australia,Marrara Cricket Ground,6,Australia
+435,21.2,1,SR Watson,2008-09-06,2nd,Farhad Reza,0,,Tamim Iqbal,0,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,6,Australia
+436,21.3,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Farhad Reza,0,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,6,Australia
+437,21.4,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Farhad Reza,0,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,7,Australia
+438,21.5,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,7,Australia
+439,21.6,0,SR Watson,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,99,Australia,Marrara Cricket Ground,7,Australia
+440,22.1,1,JR Hopes,2008-09-06,2nd,Abdur Razzak,0,,Tamim Iqbal,0,Australia,Bangladesh,100,Australia,Marrara Cricket Ground,7,Australia
+441,22.2,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,100,Australia,Marrara Cricket Ground,7,Australia
+442,22.3,2,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,102,Australia,Marrara Cricket Ground,7,Australia
+443,22.4,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,102,Australia,Marrara Cricket Ground,7,Australia
+444,22.5,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,102,Australia,Marrara Cricket Ground,7,Australia
+445,22.6,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,103,Australia,Marrara Cricket Ground,7,Australia
+446,22.7,0,JR Hopes,2008-09-06,2nd,Tamim Iqbal,0,,Abdur Razzak,0,Australia,Bangladesh,103,Australia,Marrara Cricket Ground,7,Australia
+447,23.1,0,SR Watson,2008-09-06,2nd,Abdur Razzak,0,,Tamim Iqbal,0,Australia,Bangladesh,103,Australia,Marrara Cricket Ground,8,Australia
+448,23.2,0,SR Watson,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,103,Australia,Marrara Cricket Ground,8,Australia
+449,23.3,0,SR Watson,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,103,Australia,Marrara Cricket Ground,8,Australia
+450,23.4,0,SR Watson,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,103,Australia,Marrara Cricket Ground,8,Australia
+451,23.5,0,SR Watson,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,103,Australia,Marrara Cricket Ground,8,Australia
+452,23.6,1,SR Watson,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,104,Australia,Marrara Cricket Ground,8,Australia
+453,24.1,1,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+454,24.2,0,NW Bracken,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+455,24.3,0,NW Bracken,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+456,24.4,0,NW Bracken,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+457,24.5,0,NW Bracken,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+458,24.6,0,NW Bracken,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+459,25.1,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+460,25.2,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,105,Australia,Marrara Cricket Ground,8,Australia
+461,25.3,2,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,107,Australia,Marrara Cricket Ground,8,Australia
+462,25.4,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,107,Australia,Marrara Cricket Ground,8,Australia
+463,25.5,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,107,Australia,Marrara Cricket Ground,8,Australia
+464,25.6,1,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,108,Australia,Marrara Cricket Ground,8,Australia
+465,26.1,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,108,Australia,Marrara Cricket Ground,8,Australia
+466,26.2,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,110,Australia,Marrara Cricket Ground,8,Australia
+467,26.3,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,110,Australia,Marrara Cricket Ground,8,Australia
+468,26.4,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,110,Australia,Marrara Cricket Ground,8,Australia
+469,26.5,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,110,Australia,Marrara Cricket Ground,8,Australia
+470,26.6,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,110,Australia,Marrara Cricket Ground,8,Australia
+471,27.1,1,DJ Hussey,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,111,Australia,Marrara Cricket Ground,8,Australia
+472,27.2,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,111,Australia,Marrara Cricket Ground,8,Australia
+473,27.3,1,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,112,Australia,Marrara Cricket Ground,8,Australia
+474,27.4,0,DJ Hussey,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,112,Australia,Marrara Cricket Ground,8,Australia
+475,27.5,4,DJ Hussey,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,116,Australia,Marrara Cricket Ground,8,Australia
+476,27.6,1,DJ Hussey,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,117,Australia,Marrara Cricket Ground,8,Australia
+477,28.1,1,NW Bracken,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,118,Australia,Marrara Cricket Ground,8,Australia
+478,28.2,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,118,Australia,Marrara Cricket Ground,8,Australia
+479,28.3,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,118,Australia,Marrara Cricket Ground,8,Australia
+480,28.4,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,118,Australia,Marrara Cricket Ground,8,Australia
+481,28.5,6,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,124,Australia,Marrara Cricket Ground,8,Australia
+482,28.6,0,NW Bracken,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,124,Australia,Marrara Cricket Ground,8,Australia
+483,29.1,1,DJ Hussey,2008-09-06,2nd,Abdur Razzak,0,,Mashrafe Mortaza,0,Australia,Bangladesh,125,Australia,Marrara Cricket Ground,8,Australia
+484,29.2,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,125,Australia,Marrara Cricket Ground,8,Australia
+485,29.3,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,125,Australia,Marrara Cricket Ground,8,Australia
+486,29.4,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,125,Australia,Marrara Cricket Ground,8,Australia
+487,29.5,0,DJ Hussey,2008-09-06,2nd,Mashrafe Mortaza,0,,Abdur Razzak,0,Australia,Bangladesh,125,Australia,Marrara Cricket Ground,9,Australia

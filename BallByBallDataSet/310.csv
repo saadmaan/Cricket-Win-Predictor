@@ -1,0 +1,496 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,0,,Salman Butt,1,Bangladesh,Pakistan,1,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+1,0.2,0,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,1,,Kamran Akmal,0,Bangladesh,Pakistan,1,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+2,0.3,1,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,1,,Kamran Akmal,1,Bangladesh,Pakistan,2,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+3,0.4,1,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,2,Bangladesh,Pakistan,3,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+4,0.5,0,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,2,,Kamran Akmal,1,Bangladesh,Pakistan,3,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+5,0.6,0,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,2,,Kamran Akmal,1,Bangladesh,Pakistan,3,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+6,1.1,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,2,Bangladesh,Pakistan,3,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+7,1.2,4,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,6,Bangladesh,Pakistan,7,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+8,1.3,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,6,Bangladesh,Pakistan,7,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+9,1.4,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,6,Bangladesh,Pakistan,7,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+10,1.5,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,6,Bangladesh,Pakistan,7,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+11,1.6,1,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,7,Bangladesh,Pakistan,8,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+12,2.1,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,7,Bangladesh,Pakistan,8,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+13,2.2,2,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,9,Bangladesh,Pakistan,10,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+14,2.3,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,9,Bangladesh,Pakistan,10,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+15,2.4,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,9,Bangladesh,Pakistan,10,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+16,2.5,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,9,Bangladesh,Pakistan,10,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+17,2.6,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,1,,Salman Butt,9,Bangladesh,Pakistan,10,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+18,3.1,0,Shahadat Hossain,2008-06-08,1st,Salman Butt,9,,Kamran Akmal,1,Bangladesh,Pakistan,10,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+19,3.2,1,Shahadat Hossain,2008-06-08,1st,Salman Butt,9,,Kamran Akmal,2,Bangladesh,Pakistan,11,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+20,3.3,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,2,,Salman Butt,9,Bangladesh,Pakistan,11,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+21,3.4,4,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,2,,Salman Butt,13,Bangladesh,Pakistan,15,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+22,3.5,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,2,,Salman Butt,13,Bangladesh,Pakistan,15,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+23,3.6,4,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,2,,Salman Butt,17,Bangladesh,Pakistan,19,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+24,4.1,0,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,17,,Kamran Akmal,2,Bangladesh,Pakistan,19,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+25,4.2,1,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,17,,Kamran Akmal,3,Bangladesh,Pakistan,20,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+26,4.3,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,17,Bangladesh,Pakistan,20,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+27,4.4,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,17,Bangladesh,Pakistan,20,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+28,4.5,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,17,Bangladesh,Pakistan,20,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+29,4.6,1,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,18,Bangladesh,Pakistan,21,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+30,5.1,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,18,Bangladesh,Pakistan,21,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+31,5.2,4,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,22,Bangladesh,Pakistan,25,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+32,5.3,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,22,Bangladesh,Pakistan,25,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+33,5.4,1,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,3,,Salman Butt,23,Bangladesh,Pakistan,26,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+34,5.5,0,Shahadat Hossain,2008-06-08,1st,Salman Butt,23,,Kamran Akmal,3,Bangladesh,Pakistan,26,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+35,5.6,2,Shahadat Hossain,2008-06-08,1st,Salman Butt,23,,Kamran Akmal,5,Bangladesh,Pakistan,28,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+36,6.1,4,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,27,Bangladesh,Pakistan,32,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+37,6.2,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,27,Bangladesh,Pakistan,32,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+38,6.3,4,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,31,Bangladesh,Pakistan,36,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+39,6.4,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,31,Bangladesh,Pakistan,36,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+40,6.5,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,31,Bangladesh,Pakistan,36,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+41,6.6,1,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,32,Bangladesh,Pakistan,37,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+42,7.1,4,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,36,Bangladesh,Pakistan,41,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+43,7.2,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,36,Bangladesh,Pakistan,42,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+44,7.3,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,36,Bangladesh,Pakistan,42,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+45,7.4,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,36,Bangladesh,Pakistan,42,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+46,7.5,4,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,40,Bangladesh,Pakistan,46,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+47,7.6,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,40,Bangladesh,Pakistan,46,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+48,7.7,0,Shahadat Hossain,2008-06-08,1st,Kamran Akmal,5,,Salman Butt,40,Bangladesh,Pakistan,46,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+49,8.1,0,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,5,Bangladesh,Pakistan,46,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+50,8.2,4,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,9,Bangladesh,Pakistan,50,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+51,8.3,0,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,9,Bangladesh,Pakistan,50,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+52,8.4,0,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,9,Bangladesh,Pakistan,50,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+53,8.5,1,Mashrafe Mortaza,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,10,Bangladesh,Pakistan,51,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+54,8.6,0,Mashrafe Mortaza,2008-06-08,1st,Kamran Akmal,10,,Salman Butt,40,Bangladesh,Pakistan,51,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+55,9.1,4,Dolar Mahmud,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,14,Bangladesh,Pakistan,55,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+56,9.2,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,14,Bangladesh,Pakistan,55,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+57,9.3,2,Dolar Mahmud,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,16,Bangladesh,Pakistan,57,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+58,9.4,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,16,Bangladesh,Pakistan,57,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+59,9.5,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,16,Bangladesh,Pakistan,57,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+60,9.6,1,Dolar Mahmud,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,17,Bangladesh,Pakistan,58,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+61,10.1,0,Abdur Razzak,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,17,Bangladesh,Pakistan,58,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+62,10.2,6,Abdur Razzak,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,23,Bangladesh,Pakistan,64,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+63,10.3,1,Abdur Razzak,2008-06-08,1st,Salman Butt,40,,Kamran Akmal,24,Bangladesh,Pakistan,65,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+64,10.4,4,Abdur Razzak,2008-06-08,1st,Kamran Akmal,24,,Salman Butt,44,Bangladesh,Pakistan,69,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+65,10.5,0,Abdur Razzak,2008-06-08,1st,Kamran Akmal,24,,Salman Butt,44,Bangladesh,Pakistan,69,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+66,10.6,0,Abdur Razzak,2008-06-08,1st,Kamran Akmal,24,,Salman Butt,44,Bangladesh,Pakistan,69,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+67,11.1,1,Dolar Mahmud,2008-06-08,1st,Salman Butt,44,,Kamran Akmal,25,Bangladesh,Pakistan,70,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+68,11.2,4,Dolar Mahmud,2008-06-08,1st,Kamran Akmal,25,,Salman Butt,48,Bangladesh,Pakistan,74,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+69,11.3,0,Dolar Mahmud,2008-06-08,1st,Kamran Akmal,25,,Salman Butt,48,Bangladesh,Pakistan,74,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+70,11.4,1,Dolar Mahmud,2008-06-08,1st,Kamran Akmal,25,,Salman Butt,49,Bangladesh,Pakistan,75,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+71,11.5,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,49,,Kamran Akmal,25,Bangladesh,Pakistan,75,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+72,11.6,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,49,Kamran Akmal,Kamran Akmal,25,Bangladesh,Pakistan,75,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+73,12.1,0,Abdur Razzak,2008-06-08,1st,Younis Khan,0,Younis Khan,Salman Butt,49,Bangladesh,Pakistan,75,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+74,12.2,1,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,0,,Salman Butt,50,Bangladesh,Pakistan,76,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+75,12.3,0,Abdur Razzak,2008-06-08,1st,Salman Butt,50,,Mohammad Yousuf,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+76,12.4,0,Abdur Razzak,2008-06-08,1st,Salman Butt,50,,Mohammad Yousuf,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+77,12.5,0,Abdur Razzak,2008-06-08,1st,Salman Butt,50,,Mohammad Yousuf,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+78,12.6,0,Abdur Razzak,2008-06-08,1st,Salman Butt,50,,Mohammad Yousuf,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+79,12.7,0,Abdur Razzak,2008-06-08,1st,Salman Butt,50,,Mohammad Yousuf,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+80,13.1,1,Dolar Mahmud,2008-06-08,1st,Mohammad Yousuf,0,,Salman Butt,51,Bangladesh,Pakistan,78,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+81,13.2,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,51,,Mohammad Yousuf,0,Bangladesh,Pakistan,78,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+82,13.3,4,Dolar Mahmud,2008-06-08,1st,Salman Butt,51,,Mohammad Yousuf,4,Bangladesh,Pakistan,82,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+83,13.4,4,Dolar Mahmud,2008-06-08,1st,Salman Butt,51,,Mohammad Yousuf,8,Bangladesh,Pakistan,86,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+84,13.5,2,Dolar Mahmud,2008-06-08,1st,Salman Butt,51,,Mohammad Yousuf,10,Bangladesh,Pakistan,88,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+85,13.6,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,51,,Mohammad Yousuf,10,Bangladesh,Pakistan,88,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+86,14.1,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,10,,Salman Butt,51,Bangladesh,Pakistan,88,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+87,14.2,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,10,,Salman Butt,51,Bangladesh,Pakistan,88,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+88,14.3,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,10,,Salman Butt,51,Bangladesh,Pakistan,88,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+89,14.4,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,10,,Salman Butt,51,Bangladesh,Pakistan,88,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+90,14.5,1,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,10,,Salman Butt,52,Bangladesh,Pakistan,89,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+91,14.6,4,Abdur Razzak,2008-06-08,1st,Salman Butt,52,,Mohammad Yousuf,14,Bangladesh,Pakistan,93,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+92,15.1,1,Dolar Mahmud,2008-06-08,1st,Mohammad Yousuf,14,,Salman Butt,53,Bangladesh,Pakistan,94,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+93,15.2,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,53,,Mohammad Yousuf,14,Bangladesh,Pakistan,94,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+94,15.3,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,53,,Mohammad Yousuf,14,Bangladesh,Pakistan,94,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+95,15.4,0,Dolar Mahmud,2008-06-08,1st,Salman Butt,53,,Mohammad Yousuf,14,Bangladesh,Pakistan,94,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+96,15.5,1,Dolar Mahmud,2008-06-08,1st,Salman Butt,53,,Mohammad Yousuf,15,Bangladesh,Pakistan,95,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+97,15.6,1,Dolar Mahmud,2008-06-08,1st,Mohammad Yousuf,15,,Salman Butt,54,Bangladesh,Pakistan,96,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+98,16.1,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,15,,Salman Butt,54,Bangladesh,Pakistan,96,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+99,16.2,1,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,15,,Salman Butt,55,Bangladesh,Pakistan,97,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+100,16.3,1,Abdur Razzak,2008-06-08,1st,Salman Butt,55,,Mohammad Yousuf,16,Bangladesh,Pakistan,98,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+101,16.4,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,16,,Salman Butt,55,Bangladesh,Pakistan,98,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+102,16.5,1,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,16,,Salman Butt,56,Bangladesh,Pakistan,99,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+103,16.6,0,Abdur Razzak,2008-06-08,1st,Salman Butt,56,,Mohammad Yousuf,16,Bangladesh,Pakistan,99,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+104,17.1,0,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,16,,Salman Butt,56,Bangladesh,Pakistan,99,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+105,17.2,0,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,16,,Salman Butt,56,Bangladesh,Pakistan,99,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+106,17.3,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,16,,Salman Butt,57,Bangladesh,Pakistan,100,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+107,17.4,0,Mahmudullah,2008-06-08,1st,Salman Butt,57,,Mohammad Yousuf,16,Bangladesh,Pakistan,100,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+108,17.5,0,Mahmudullah,2008-06-08,1st,Salman Butt,57,,Mohammad Yousuf,16,Bangladesh,Pakistan,100,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+109,17.6,4,Mahmudullah,2008-06-08,1st,Salman Butt,57,,Mohammad Yousuf,20,Bangladesh,Pakistan,104,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+110,18.1,1,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,20,,Salman Butt,58,Bangladesh,Pakistan,105,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+111,18.2,0,Abdur Razzak,2008-06-08,1st,Salman Butt,58,,Mohammad Yousuf,20,Bangladesh,Pakistan,105,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+112,18.3,1,Abdur Razzak,2008-06-08,1st,Salman Butt,58,,Mohammad Yousuf,21,Bangladesh,Pakistan,106,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+113,18.4,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,21,,Salman Butt,58,Bangladesh,Pakistan,106,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+114,18.5,1,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,21,,Salman Butt,59,Bangladesh,Pakistan,107,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+115,18.6,1,Abdur Razzak,2008-06-08,1st,Salman Butt,59,,Mohammad Yousuf,22,Bangladesh,Pakistan,108,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+116,19.1,1,Mahmudullah,2008-06-08,1st,Salman Butt,59,,Mohammad Yousuf,23,Bangladesh,Pakistan,109,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+117,19.2,0,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,23,,Salman Butt,59,Bangladesh,Pakistan,110,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+118,19.3,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,23,,Salman Butt,60,Bangladesh,Pakistan,111,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+119,19.4,1,Mahmudullah,2008-06-08,1st,Salman Butt,60,,Mohammad Yousuf,24,Bangladesh,Pakistan,112,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+120,19.5,0,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,24,,Salman Butt,60,Bangladesh,Pakistan,112,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+121,19.6,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,24,,Salman Butt,61,Bangladesh,Pakistan,113,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+122,19.7,1,Mahmudullah,2008-06-08,1st,Salman Butt,61,,Mohammad Yousuf,25,Bangladesh,Pakistan,114,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+123,20.1,0,Alok Kapali,2008-06-08,1st,Salman Butt,61,,Mohammad Yousuf,25,Bangladesh,Pakistan,114,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+124,20.2,0,Alok Kapali,2008-06-08,1st,Salman Butt,61,,Mohammad Yousuf,25,Bangladesh,Pakistan,115,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+125,20.3,0,Alok Kapali,2008-06-08,1st,Salman Butt,61,,Mohammad Yousuf,25,Bangladesh,Pakistan,115,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+126,20.4,4,Alok Kapali,2008-06-08,1st,Salman Butt,61,,Mohammad Yousuf,29,Bangladesh,Pakistan,119,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+127,20.5,1,Alok Kapali,2008-06-08,1st,Salman Butt,61,,Mohammad Yousuf,30,Bangladesh,Pakistan,120,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+128,20.6,0,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,30,,Salman Butt,61,Bangladesh,Pakistan,120,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+129,20.7,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,30,,Salman Butt,62,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+130,21.1,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,30,,Salman Butt,63,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+131,21.2,1,Mahmudullah,2008-06-08,1st,Salman Butt,63,,Mohammad Yousuf,31,Bangladesh,Pakistan,123,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+132,21.3,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,31,,Salman Butt,64,Bangladesh,Pakistan,124,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+133,21.4,1,Mahmudullah,2008-06-08,1st,Salman Butt,64,,Mohammad Yousuf,32,Bangladesh,Pakistan,125,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+134,21.5,0,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,32,,Salman Butt,64,Bangladesh,Pakistan,125,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+135,21.6,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,32,,Salman Butt,65,Bangladesh,Pakistan,126,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+136,22.1,0,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,32,,Salman Butt,65,Bangladesh,Pakistan,126,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+137,22.2,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,32,,Salman Butt,66,Bangladesh,Pakistan,127,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+138,22.3,1,Alok Kapali,2008-06-08,1st,Salman Butt,66,,Mohammad Yousuf,33,Bangladesh,Pakistan,128,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+139,22.4,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,33,,Salman Butt,67,Bangladesh,Pakistan,129,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+140,22.5,0,Alok Kapali,2008-06-08,1st,Salman Butt,67,,Mohammad Yousuf,33,Bangladesh,Pakistan,129,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+141,22.6,4,Alok Kapali,2008-06-08,1st,Salman Butt,67,,Mohammad Yousuf,37,Bangladesh,Pakistan,133,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+142,23.1,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,37,,Salman Butt,68,Bangladesh,Pakistan,134,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+143,23.2,0,Mahmudullah,2008-06-08,1st,Salman Butt,68,,Mohammad Yousuf,37,Bangladesh,Pakistan,134,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+144,23.3,1,Mahmudullah,2008-06-08,1st,Salman Butt,68,,Mohammad Yousuf,38,Bangladesh,Pakistan,135,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+145,23.4,0,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,38,,Salman Butt,68,Bangladesh,Pakistan,135,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+146,23.5,1,Mahmudullah,2008-06-08,1st,Mohammad Yousuf,38,,Salman Butt,69,Bangladesh,Pakistan,136,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+147,23.6,1,Mahmudullah,2008-06-08,1st,Salman Butt,69,,Mohammad Yousuf,39,Bangladesh,Pakistan,137,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+148,24.1,1,Alok Kapali,2008-06-08,1st,Salman Butt,69,,Mohammad Yousuf,40,Bangladesh,Pakistan,138,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+149,24.2,0,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,40,,Salman Butt,69,Bangladesh,Pakistan,138,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+150,24.3,0,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,40,,Salman Butt,69,Bangladesh,Pakistan,138,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+151,24.4,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,40,,Salman Butt,70,Bangladesh,Pakistan,139,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+152,24.5,1,Alok Kapali,2008-06-08,1st,Salman Butt,70,,Mohammad Yousuf,41,Bangladesh,Pakistan,140,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+153,24.6,0,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,41,Salman Butt,Salman Butt,70,Bangladesh,Pakistan,140,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+154,25.1,0,Shahadat Hossain,2008-06-08,1st,Shahid Afridi,0,,Mohammad Yousuf,41,Bangladesh,Pakistan,140,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+155,25.2,2,Shahadat Hossain,2008-06-08,1st,Shahid Afridi,0,,Mohammad Yousuf,43,Bangladesh,Pakistan,142,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+156,25.3,0,Shahadat Hossain,2008-06-08,1st,Shahid Afridi,0,,Mohammad Yousuf,43,Bangladesh,Pakistan,142,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+157,25.4,3,Shahadat Hossain,2008-06-08,1st,Shahid Afridi,0,,Mohammad Yousuf,46,Bangladesh,Pakistan,145,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+158,25.5,0,Shahadat Hossain,2008-06-08,1st,Mohammad Yousuf,46,,Shahid Afridi,0,Bangladesh,Pakistan,145,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+159,25.6,1,Shahadat Hossain,2008-06-08,1st,Mohammad Yousuf,46,,Shahid Afridi,1,Bangladesh,Pakistan,146,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+160,26.1,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,46,,Shahid Afridi,2,Bangladesh,Pakistan,147,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+161,26.2,1,Alok Kapali,2008-06-08,1st,Shahid Afridi,2,,Mohammad Yousuf,47,Bangladesh,Pakistan,148,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+162,26.3,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,47,,Shahid Afridi,3,Bangladesh,Pakistan,149,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+163,26.4,1,Alok Kapali,2008-06-08,1st,Shahid Afridi,3,,Mohammad Yousuf,48,Bangladesh,Pakistan,150,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+164,26.5,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,48,,Shahid Afridi,4,Bangladesh,Pakistan,151,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+165,26.6,1,Alok Kapali,2008-06-08,1st,Shahid Afridi,4,,Mohammad Yousuf,49,Bangladesh,Pakistan,152,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+166,27.1,1,Shahadat Hossain,2008-06-08,1st,Shahid Afridi,4,,Mohammad Yousuf,50,Bangladesh,Pakistan,153,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+167,27.2,0,Shahadat Hossain,2008-06-08,1st,Mohammad Yousuf,50,,Shahid Afridi,4,Bangladesh,Pakistan,154,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+168,27.3,2,Shahadat Hossain,2008-06-08,1st,Mohammad Yousuf,50,,Shahid Afridi,6,Bangladesh,Pakistan,156,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+169,27.4,0,Shahadat Hossain,2008-06-08,1st,Mohammad Yousuf,50,,Shahid Afridi,6,Bangladesh,Pakistan,156,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+170,27.5,1,Shahadat Hossain,2008-06-08,1st,Mohammad Yousuf,50,,Shahid Afridi,7,Bangladesh,Pakistan,157,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+171,27.6,1,Shahadat Hossain,2008-06-08,1st,Shahid Afridi,7,,Mohammad Yousuf,51,Bangladesh,Pakistan,158,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+172,27.7,4,Shahadat Hossain,2008-06-08,1st,Mohammad Yousuf,51,,Shahid Afridi,11,Bangladesh,Pakistan,162,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+173,28.1,0,Alok Kapali,2008-06-08,1st,Shahid Afridi,11,,Mohammad Yousuf,51,Bangladesh,Pakistan,162,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+174,28.2,1,Alok Kapali,2008-06-08,1st,Shahid Afridi,11,,Mohammad Yousuf,52,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+175,28.3,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,52,,Shahid Afridi,12,Bangladesh,Pakistan,164,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+176,28.4,4,Alok Kapali,2008-06-08,1st,Shahid Afridi,12,,Mohammad Yousuf,56,Bangladesh,Pakistan,168,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+177,28.5,1,Alok Kapali,2008-06-08,1st,Shahid Afridi,12,,Mohammad Yousuf,57,Bangladesh,Pakistan,169,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+178,28.6,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,57,,Shahid Afridi,13,Bangladesh,Pakistan,170,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+179,29.1,2,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,57,,Shahid Afridi,15,Bangladesh,Pakistan,172,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+180,29.2,1,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,57,,Shahid Afridi,16,Bangladesh,Pakistan,173,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+181,29.3,1,Abdur Razzak,2008-06-08,1st,Shahid Afridi,16,,Mohammad Yousuf,58,Bangladesh,Pakistan,174,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+182,29.4,2,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,58,,Shahid Afridi,18,Bangladesh,Pakistan,176,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+183,29.5,0,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,58,,Shahid Afridi,18,Bangladesh,Pakistan,176,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+184,29.6,2,Abdur Razzak,2008-06-08,1st,Mohammad Yousuf,58,,Shahid Afridi,20,Bangladesh,Pakistan,178,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+185,30.1,1,Alok Kapali,2008-06-08,1st,Shahid Afridi,20,,Mohammad Yousuf,59,Bangladesh,Pakistan,179,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+186,30.2,0,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,59,Shahid Afridi,Shahid Afridi,20,Bangladesh,Pakistan,179,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+187,30.3,0,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,59,,Shoaib Malik,0,Bangladesh,Pakistan,179,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+188,30.4,1,Alok Kapali,2008-06-08,1st,Mohammad Yousuf,59,,Shoaib Malik,1,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+189,30.5,0,Alok Kapali,2008-06-08,1st,Shoaib Malik,1,,Mohammad Yousuf,59,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+190,30.6,0,Alok Kapali,2008-06-08,1st,Shoaib Malik,1,Mohammad Yousuf,Mohammad Yousuf,59,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+191,31.1,0,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,1,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+192,31.2,0,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,1,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+193,31.3,0,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,1,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+194,31.4,0,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,1,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+195,31.5,0,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,1,Bangladesh,Pakistan,180,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+196,31.6,0,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,1,Bangladesh,Pakistan,181,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+197,31.7,1,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,2,Bangladesh,Pakistan,182,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+198,32.1,0,Alok Kapali,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,2,Bangladesh,Pakistan,182,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+199,32.2,2,Alok Kapali,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,4,Bangladesh,Pakistan,184,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+200,32.3,1,Alok Kapali,2008-06-08,1st,Misbah-ul-Haq,0,,Shoaib Malik,5,Bangladesh,Pakistan,185,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+201,32.4,1,Alok Kapali,2008-06-08,1st,Shoaib Malik,5,,Misbah-ul-Haq,1,Bangladesh,Pakistan,186,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+202,32.5,1,Alok Kapali,2008-06-08,1st,Misbah-ul-Haq,1,,Shoaib Malik,6,Bangladesh,Pakistan,187,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+203,32.6,0,Alok Kapali,2008-06-08,1st,Shoaib Malik,6,,Misbah-ul-Haq,1,Bangladesh,Pakistan,187,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+204,33.1,0,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,1,,Shoaib Malik,6,Bangladesh,Pakistan,187,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+205,33.2,1,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,1,,Shoaib Malik,7,Bangladesh,Pakistan,188,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+206,33.3,0,Mahmudullah,2008-06-08,1st,Shoaib Malik,7,,Misbah-ul-Haq,1,Bangladesh,Pakistan,188,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+207,33.4,1,Mahmudullah,2008-06-08,1st,Shoaib Malik,7,,Misbah-ul-Haq,2,Bangladesh,Pakistan,189,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+208,33.5,1,Mahmudullah,2008-06-08,1st,Misbah-ul-Haq,2,,Shoaib Malik,8,Bangladesh,Pakistan,190,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+209,33.6,1,Mahmudullah,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,3,Bangladesh,Pakistan,191,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+210,34.1,6,Alok Kapali,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,9,Bangladesh,Pakistan,197,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+211,34.2,2,Alok Kapali,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,11,Bangladesh,Pakistan,199,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+212,34.3,2,Alok Kapali,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,13,Bangladesh,Pakistan,201,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+213,34.4,0,Alok Kapali,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,13,Bangladesh,Pakistan,201,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+214,34.5,1,Alok Kapali,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,14,Bangladesh,Pakistan,202,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+215,34.6,0,Alok Kapali,2008-06-08,1st,Misbah-ul-Haq,14,,Shoaib Malik,8,Bangladesh,Pakistan,202,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+216,35.1,0,Mahmudullah,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,14,Bangladesh,Pakistan,202,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+217,35.2,4,Mahmudullah,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,18,Bangladesh,Pakistan,206,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+218,35.3,0,Mahmudullah,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,18,Bangladesh,Pakistan,206,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+219,35.4,6,Mahmudullah,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,24,Bangladesh,Pakistan,212,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+220,35.5,2,Mahmudullah,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,26,Bangladesh,Pakistan,214,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+221,35.6,1,Mahmudullah,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,27,Bangladesh,Pakistan,215,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+222,36.1,2,Mashrafe Mortaza,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,29,Bangladesh,Pakistan,217,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+223,36.2,4,Mashrafe Mortaza,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,33,Bangladesh,Pakistan,221,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+224,36.3,1,Mashrafe Mortaza,2008-06-08,1st,Shoaib Malik,8,,Misbah-ul-Haq,34,Bangladesh,Pakistan,222,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+225,36.4,0,Mashrafe Mortaza,2008-06-08,1st,Misbah-ul-Haq,34,,Shoaib Malik,8,Bangladesh,Pakistan,222,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+226,36.5,1,Mashrafe Mortaza,2008-06-08,1st,Misbah-ul-Haq,34,,Shoaib Malik,9,Bangladesh,Pakistan,223,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+227,36.6,4,Mashrafe Mortaza,2008-06-08,1st,Shoaib Malik,9,,Misbah-ul-Haq,38,Bangladesh,Pakistan,227,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+228,37.1,0,Abdur Razzak,2008-06-08,1st,Misbah-ul-Haq,38,Shoaib Malik,Shoaib Malik,9,Bangladesh,Pakistan,227,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+229,37.2,0,Abdur Razzak,2008-06-08,1st,Misbah-ul-Haq,38,,Fawad Alam,0,Bangladesh,Pakistan,227,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+230,37.3,0,Abdur Razzak,2008-06-08,1st,Misbah-ul-Haq,38,,Fawad Alam,0,Bangladesh,Pakistan,227,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+231,37.4,0,Abdur Razzak,2008-06-08,1st,Misbah-ul-Haq,38,,Fawad Alam,0,Bangladesh,Pakistan,227,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+232,37.5,1,Abdur Razzak,2008-06-08,1st,Misbah-ul-Haq,38,,Fawad Alam,1,Bangladesh,Pakistan,228,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+233,37.6,1,Abdur Razzak,2008-06-08,1st,Fawad Alam,1,,Misbah-ul-Haq,39,Bangladesh,Pakistan,229,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+234,38.1,0,Mashrafe Mortaza,2008-06-08,1st,Fawad Alam,1,Misbah-ul-Haq,Misbah-ul-Haq,39,Bangladesh,Pakistan,229,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+235,38.2,1,Mashrafe Mortaza,2008-06-08,1st,Fawad Alam,1,,Sohail Tanvir,1,Bangladesh,Pakistan,230,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+236,38.3,0,Mashrafe Mortaza,2008-06-08,1st,Sohail Tanvir,1,,Fawad Alam,1,Bangladesh,Pakistan,230,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+237,38.4,1,Mashrafe Mortaza,2008-06-08,1st,Sohail Tanvir,1,,Fawad Alam,2,Bangladesh,Pakistan,231,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+238,38.5,1,Mashrafe Mortaza,2008-06-08,1st,Fawad Alam,2,,Sohail Tanvir,2,Bangladesh,Pakistan,232,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+239,38.6,0,Mashrafe Mortaza,2008-06-08,1st,Sohail Tanvir,2,Fawad Alam,Fawad Alam,2,Bangladesh,Pakistan,232,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+240,39.1,0,Abdur Razzak,2008-06-08,1st,Sohail Tanvir,2,,Umar Gul,0,Bangladesh,Pakistan,233,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+241,39.2,0,Abdur Razzak,2008-06-08,1st,Umar Gul,0,Sohail Tanvir,Sohail Tanvir,2,Bangladesh,Pakistan,233,Bangladesh,Shere Bangla National Stadium,9,Pakistan
+242,39.3,0,Abdur Razzak,2008-06-08,1st,Umar Gul,0,Wahab Riaz,Wahab Riaz,0,Bangladesh,Pakistan,233,Bangladesh,Shere Bangla National Stadium,10,Pakistan
+243,0.1,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,0,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+244,0.2,1,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,1,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+245,0.3,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,1,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+246,0.4,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,1,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+247,0.5,2,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,3,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+248,0.6,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,3,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+249,1.1,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,3,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+250,1.2,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+251,1.3,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+252,1.4,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+253,1.5,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+254,1.6,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+255,1.7,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+256,2.1,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+257,2.2,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+258,2.3,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+259,2.4,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+260,2.5,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+261,2.6,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+262,3.1,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,4,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+263,3.2,2,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,6,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+264,3.3,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,7,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+265,3.4,4,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,11,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+266,3.5,1,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,12,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+267,3.6,0,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,12,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+268,3.7,0,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,12,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+269,4.1,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,12,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+270,4.2,3,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,15,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+271,4.3,4,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,19,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+272,4.4,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,20,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+273,4.5,1,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,21,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+274,4.6,1,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,22,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+275,4.7,0,Umar Gul,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,22,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+276,5.1,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,22,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+277,5.2,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,22,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+278,5.3,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,22,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+279,5.4,4,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,26,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+280,5.5,0,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,26,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+281,5.6,1,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,27,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+282,6.1,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,28,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+283,6.2,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,28,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+284,6.3,4,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,32,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+285,6.4,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,32,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+286,6.5,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,32,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+287,6.6,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,32,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+288,6.7,0,Umar Gul,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,32,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+289,7.1,1,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,33,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+290,7.2,1,Sohail Tanvir,2008-06-08,2nd,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,Pakistan,34,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+291,7.3,0,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,34,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+292,7.4,0,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,34,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+293,7.5,0,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,34,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+294,7.6,1,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+295,8.1,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+296,8.2,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,0,Pakistan
+297,8.3,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Shahriar Nafees,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+298,8.4,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+299,8.5,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+300,8.6,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+301,9.1,0,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+302,9.2,0,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,35,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+303,9.3,1,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,36,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+304,9.4,0,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,36,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+305,9.5,0,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,36,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+306,9.6,1,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,37,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+307,10.1,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,37,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+308,10.2,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,37,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+309,10.3,0,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,37,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+310,10.4,1,Wahab Riaz,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,38,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+311,10.5,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,38,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+312,10.6,4,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,42,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+313,11.1,1,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,43,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+314,11.2,0,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,43,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+315,11.3,1,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,44,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+316,11.4,1,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,45,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+317,11.5,1,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,46,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+318,11.6,1,Sohail Tanvir,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,47,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+319,12.1,0,Shahid Afridi,2008-06-08,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,49,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+320,12.2,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,49,Bangladesh,Shere Bangla National Stadium,1,Pakistan
+321,12.3,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Bangladesh,Pakistan,49,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+322,12.4,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,49,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+323,12.5,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,49,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+324,12.6,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,49,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+325,12.7,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,49,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+326,13.1,0,Wahab Riaz,2008-06-08,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,50,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+327,13.2,1,Wahab Riaz,2008-06-08,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,51,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+328,13.3,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,51,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+329,13.4,1,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,52,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+330,13.5,0,Wahab Riaz,2008-06-08,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,52,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+331,13.6,0,Wahab Riaz,2008-06-08,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,52,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+332,13.7,0,Wahab Riaz,2008-06-08,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,52,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+333,14.1,1,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,53,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+334,14.2,1,Shahid Afridi,2008-06-08,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,54,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+335,14.3,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,54,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+336,14.4,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,54,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+337,14.5,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,54,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+338,14.6,1,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,55,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+339,15.1,4,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,59,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+340,15.2,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,59,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+341,15.3,1,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,60,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+342,15.4,1,Wahab Riaz,2008-06-08,2nd,Raqibul Hasan,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,61,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+343,15.5,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,61,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+344,15.6,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,62,Bangladesh,Shere Bangla National Stadium,2,Pakistan
+345,15.7,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Raqibul Hasan,0,Bangladesh,Pakistan,62,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+346,16.1,0,Shahid Afridi,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,62,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+347,16.2,0,Shahid Afridi,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,62,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+348,16.3,0,Shahid Afridi,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,62,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+349,16.4,0,Shahid Afridi,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,62,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+350,16.5,1,Shahid Afridi,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,63,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+351,16.6,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Alok Kapali,0,Bangladesh,Pakistan,63,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+352,17.1,0,Fawad Alam,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,63,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+353,17.2,2,Fawad Alam,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,65,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+354,17.3,0,Fawad Alam,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,65,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+355,17.4,2,Fawad Alam,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+356,17.5,0,Fawad Alam,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+357,17.6,0,Fawad Alam,2008-06-08,2nd,Alok Kapali,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+358,18.1,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Alok Kapali,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,3,Pakistan
+359,18.2,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Alok Kapali,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+360,18.3,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+361,18.4,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+362,18.5,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+363,18.6,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,67,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+364,19.1,1,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,68,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+365,19.2,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,68,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+366,19.3,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,68,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+367,19.4,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,69,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+368,19.5,0,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,69,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+369,19.6,2,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,71,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+370,20.1,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,71,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+371,20.2,1,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,72,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+372,20.3,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,72,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+373,20.4,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,72,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+374,20.5,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,73,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+375,20.6,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,73,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+376,20.7,2,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,75,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+377,21.1,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,75,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+378,21.2,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,76,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+379,21.3,1,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+380,21.4,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+381,21.5,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,77,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+382,21.6,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,78,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+383,22.1,1,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,79,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+384,22.2,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,79,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+385,22.3,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,79,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+386,22.4,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,79,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+387,22.5,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,79,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+388,22.6,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,79,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+389,23.1,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,79,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+390,23.2,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,80,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+391,23.3,1,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,81,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+392,23.4,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,82,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+393,23.5,4,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,86,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+394,23.6,1,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,87,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+395,24.1,1,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,88,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+396,24.2,2,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,90,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+397,24.3,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,90,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+398,24.4,1,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,91,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+399,24.5,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,91,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+400,24.6,0,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,91,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+401,25.1,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,92,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+402,25.2,1,Fawad Alam,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,93,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+403,25.3,2,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,95,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+404,25.4,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,95,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+405,25.5,0,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,95,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+406,25.6,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,96,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+407,26.1,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,96,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+408,26.2,1,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,97,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+409,26.3,1,Shahid Afridi,2008-06-08,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,98,Bangladesh,Shere Bangla National Stadium,4,Pakistan
+410,26.4,0,Shahid Afridi,2008-06-08,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,Bangladesh,Pakistan,98,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+411,26.5,2,Shahid Afridi,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,100,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+412,26.6,0,Shahid Afridi,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,100,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+413,27.1,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,101,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+414,27.2,1,Fawad Alam,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,102,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+415,27.3,1,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,103,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+416,27.4,4,Fawad Alam,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,107,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+417,27.5,1,Fawad Alam,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,108,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+418,27.6,2,Fawad Alam,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,110,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+419,28.1,0,Wahab Riaz,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,111,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+420,28.2,0,Wahab Riaz,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,111,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+421,28.3,1,Wahab Riaz,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,112,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+422,28.4,1,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,113,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+423,28.5,0,Wahab Riaz,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,113,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+424,28.6,1,Wahab Riaz,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,114,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+425,28.7,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,114,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+426,29.1,1,Umar Gul,2008-06-08,2nd,Mahmudullah,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,115,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+427,29.2,2,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,117,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+428,29.3,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,118,Bangladesh,Shere Bangla National Stadium,5,Pakistan
+429,29.4,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Mahmudullah,0,Bangladesh,Pakistan,118,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+430,29.5,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Pakistan,118,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+431,29.6,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Pakistan,118,Bangladesh,Shere Bangla National Stadium,6,Pakistan
+432,29.7,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Mashrafe Mortaza,0,Bangladesh,Pakistan,118,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+433,30.1,2,Wahab Riaz,2008-06-08,2nd,Dolar Mahmud,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,120,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+434,30.2,1,Wahab Riaz,2008-06-08,2nd,Dolar Mahmud,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+435,30.3,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Dolar Mahmud,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+436,30.4,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Dolar Mahmud,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+437,30.5,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Dolar Mahmud,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,7,Pakistan
+438,30.6,0,Wahab Riaz,2008-06-08,2nd,Mohammad Ashraful,0,,Dolar Mahmud,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+439,31.1,0,Umar Gul,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+440,31.2,0,Umar Gul,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+441,31.3,0,Umar Gul,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,121,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+442,31.4,1,Umar Gul,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+443,31.5,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+444,31.6,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+445,32.1,0,Wahab Riaz,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+446,32.2,0,Wahab Riaz,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+447,32.3,0,Wahab Riaz,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+448,32.4,0,Wahab Riaz,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+449,32.5,0,Wahab Riaz,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+450,32.6,0,Wahab Riaz,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+451,33.1,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+452,33.2,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+453,33.3,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+454,33.4,0,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,122,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+455,33.5,4,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,126,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+456,33.6,1,Umar Gul,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,127,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+457,34.1,2,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,129,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+458,34.2,1,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,130,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+459,34.3,1,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,132,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+460,34.4,0,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,132,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+461,34.5,0,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,132,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+462,34.6,1,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,133,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+463,34.7,0,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,133,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+464,35.1,2,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,135,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+465,35.2,0,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,136,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+466,35.3,1,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,137,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+467,35.4,0,Sohail Tanvir,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,137,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+468,35.5,4,Sohail Tanvir,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,141,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+469,35.6,1,Sohail Tanvir,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,142,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+470,35.7,1,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,143,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+471,36.1,2,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,145,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+472,36.2,1,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,146,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+473,36.3,0,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,146,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+474,36.4,1,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,147,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+475,36.5,1,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,148,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+476,36.6,1,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,149,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+477,37.1,0,Sohail Tanvir,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,149,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+478,37.2,2,Sohail Tanvir,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,151,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+479,37.3,1,Sohail Tanvir,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,152,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+480,37.4,0,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,152,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+481,37.5,0,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,152,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+482,37.6,4,Sohail Tanvir,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,156,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+483,38.1,0,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,156,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+484,38.2,1,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,157,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+485,38.3,0,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,157,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+486,38.4,1,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,158,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+487,38.5,1,Salman Butt,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,159,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+488,38.6,4,Salman Butt,2008-06-08,2nd,Mohammad Ashraful,0,,Abdur Razzak,0,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+489,39.1,0,Younis Khan,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+490,39.2,0,Younis Khan,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+491,39.3,0,Younis Khan,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+492,39.4,0,Younis Khan,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+493,39.5,0,Younis Khan,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,8,Pakistan
+494,39.6,0,Younis Khan,2008-06-08,2nd,Abdur Razzak,0,,Mohammad Ashraful,0,Bangladesh,Pakistan,163,Bangladesh,Shere Bangla National Stadium,8,Pakistan

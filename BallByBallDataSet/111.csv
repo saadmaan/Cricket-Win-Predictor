@@ -1,0 +1,549 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,0,,GC Smith,0,South Africa,Sri Lanka,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+1,0.2,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,0,,GC Smith,0,South Africa,Sri Lanka,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+2,0.3,1,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,0,,GC Smith,1,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+3,0.4,0,WPUJC Vaas,2006-10-24,1st,GC Smith,1,,HH Dippenaar,0,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+4,0.5,0,WPUJC Vaas,2006-10-24,1st,GC Smith,1,,HH Dippenaar,0,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+5,0.6,0,WPUJC Vaas,2006-10-24,1st,GC Smith,1,,HH Dippenaar,0,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+6,1.1,2,SL Malinga,2006-10-24,1st,HH Dippenaar,0,,GC Smith,3,South Africa,Sri Lanka,3,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+7,1.2,4,SL Malinga,2006-10-24,1st,HH Dippenaar,0,,GC Smith,7,South Africa,Sri Lanka,7,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+8,1.3,0,SL Malinga,2006-10-24,1st,HH Dippenaar,0,,GC Smith,7,South Africa,Sri Lanka,7,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+9,1.4,0,SL Malinga,2006-10-24,1st,HH Dippenaar,0,,GC Smith,7,South Africa,Sri Lanka,7,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+10,1.5,0,SL Malinga,2006-10-24,1st,HH Dippenaar,0,,GC Smith,7,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+11,1.6,0,SL Malinga,2006-10-24,1st,HH Dippenaar,0,,GC Smith,7,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+12,1.7,0,SL Malinga,2006-10-24,1st,HH Dippenaar,0,,GC Smith,7,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+13,2.1,0,WPUJC Vaas,2006-10-24,1st,GC Smith,7,,HH Dippenaar,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+14,2.2,0,WPUJC Vaas,2006-10-24,1st,GC Smith,7,,HH Dippenaar,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+15,2.3,1,WPUJC Vaas,2006-10-24,1st,GC Smith,7,,HH Dippenaar,1,South Africa,Sri Lanka,9,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+16,2.4,1,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,1,,GC Smith,8,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+17,2.5,0,WPUJC Vaas,2006-10-24,1st,GC Smith,8,,HH Dippenaar,1,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+18,2.6,0,WPUJC Vaas,2006-10-24,1st,GC Smith,8,,HH Dippenaar,1,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+19,3.1,0,SL Malinga,2006-10-24,1st,HH Dippenaar,1,,GC Smith,8,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+20,3.2,0,SL Malinga,2006-10-24,1st,HH Dippenaar,1,,GC Smith,8,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+21,3.3,1,SL Malinga,2006-10-24,1st,HH Dippenaar,1,,GC Smith,9,South Africa,Sri Lanka,11,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+22,3.4,0,SL Malinga,2006-10-24,1st,GC Smith,9,,HH Dippenaar,1,South Africa,Sri Lanka,11,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+23,3.5,1,SL Malinga,2006-10-24,1st,GC Smith,9,,HH Dippenaar,2,South Africa,Sri Lanka,12,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+24,3.6,1,SL Malinga,2006-10-24,1st,HH Dippenaar,2,,GC Smith,10,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+25,4.1,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,2,GC Smith,GC Smith,10,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+26,4.2,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,2,,HH Gibbs,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+27,4.3,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,2,,HH Gibbs,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+28,4.4,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,2,,HH Gibbs,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+29,4.5,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,2,,HH Gibbs,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+30,4.6,2,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,2,,HH Gibbs,2,South Africa,Sri Lanka,15,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+31,5.1,1,SL Malinga,2006-10-24,1st,HH Gibbs,2,,HH Dippenaar,3,South Africa,Sri Lanka,16,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+32,5.2,0,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,2,South Africa,Sri Lanka,16,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+33,5.3,4,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,6,South Africa,Sri Lanka,20,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+34,5.4,1,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,7,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+35,5.5,0,SL Malinga,2006-10-24,1st,HH Gibbs,7,,HH Dippenaar,3,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+36,5.6,0,SL Malinga,2006-10-24,1st,HH Gibbs,7,,HH Dippenaar,3,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+37,6.1,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,7,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+38,6.2,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,7,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+39,6.3,0,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,7,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+40,6.4,1,WPUJC Vaas,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,8,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+41,6.5,0,WPUJC Vaas,2006-10-24,1st,HH Gibbs,8,,HH Dippenaar,3,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+42,6.6,0,WPUJC Vaas,2006-10-24,1st,HH Gibbs,8,,HH Dippenaar,3,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+43,7.1,4,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,12,South Africa,Sri Lanka,26,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+44,7.2,0,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,12,South Africa,Sri Lanka,26,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+45,7.3,0,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,12,South Africa,Sri Lanka,26,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+46,7.4,0,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,12,South Africa,Sri Lanka,26,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+47,7.5,4,SL Malinga,2006-10-24,1st,HH Dippenaar,3,,HH Gibbs,16,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+48,7.6,0,SL Malinga,2006-10-24,1st,HH Dippenaar,3,HH Gibbs,HH Gibbs,16,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+49,8.1,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,0,,HH Dippenaar,3,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+50,8.2,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,0,,HH Dippenaar,3,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+51,8.3,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,0,,HH Dippenaar,3,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+52,8.4,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,0,HH Dippenaar,HH Dippenaar,3,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+53,8.5,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,0,,AB de Villiers,0,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+54,8.6,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,0,,AB de Villiers,0,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+55,9.1,0,SL Malinga,2006-10-24,1st,AB de Villiers,0,,JH Kallis,0,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+56,9.2,1,SL Malinga,2006-10-24,1st,AB de Villiers,0,,JH Kallis,1,South Africa,Sri Lanka,31,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+57,9.3,0,SL Malinga,2006-10-24,1st,JH Kallis,1,,AB de Villiers,0,South Africa,Sri Lanka,31,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+58,9.4,0,SL Malinga,2006-10-24,1st,JH Kallis,1,,AB de Villiers,0,South Africa,Sri Lanka,31,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+59,9.5,0,SL Malinga,2006-10-24,1st,JH Kallis,1,,AB de Villiers,0,South Africa,Sri Lanka,31,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+60,9.6,0,SL Malinga,2006-10-24,1st,JH Kallis,1,,AB de Villiers,0,South Africa,Sri Lanka,31,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+61,10.1,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,0,,JH Kallis,1,South Africa,Sri Lanka,31,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+62,10.2,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,0,,JH Kallis,1,South Africa,Sri Lanka,31,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+63,10.3,1,WPUJC Vaas,2006-10-24,1st,AB de Villiers,0,,JH Kallis,2,South Africa,Sri Lanka,32,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+64,10.4,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,2,,AB de Villiers,0,South Africa,Sri Lanka,32,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+65,10.5,1,WPUJC Vaas,2006-10-24,1st,JH Kallis,2,,AB de Villiers,1,South Africa,Sri Lanka,33,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+66,10.6,1,WPUJC Vaas,2006-10-24,1st,AB de Villiers,1,,JH Kallis,3,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+67,11.1,0,SL Malinga,2006-10-24,1st,AB de Villiers,1,,JH Kallis,3,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+68,11.2,0,SL Malinga,2006-10-24,1st,AB de Villiers,1,,JH Kallis,3,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+69,11.3,4,SL Malinga,2006-10-24,1st,AB de Villiers,1,,JH Kallis,7,South Africa,Sri Lanka,38,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+70,11.4,0,SL Malinga,2006-10-24,1st,AB de Villiers,1,,JH Kallis,7,South Africa,Sri Lanka,40,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+71,11.5,0,SL Malinga,2006-10-24,1st,JH Kallis,7,,AB de Villiers,1,South Africa,Sri Lanka,40,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+72,11.6,0,SL Malinga,2006-10-24,1st,JH Kallis,7,,AB de Villiers,1,South Africa,Sri Lanka,40,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+73,11.7,4,SL Malinga,2006-10-24,1st,JH Kallis,7,,AB de Villiers,5,South Africa,Sri Lanka,44,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+74,12.1,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,5,,JH Kallis,7,South Africa,Sri Lanka,44,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+75,12.2,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,5,,JH Kallis,7,South Africa,Sri Lanka,44,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+76,12.3,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,5,,JH Kallis,7,South Africa,Sri Lanka,44,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+77,12.4,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,5,,JH Kallis,7,South Africa,Sri Lanka,44,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+78,12.5,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,5,,JH Kallis,7,South Africa,Sri Lanka,44,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+79,12.6,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,5,,JH Kallis,7,South Africa,Sri Lanka,44,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+80,13.1,1,CRD Fernando,2006-10-24,1st,JH Kallis,7,,AB de Villiers,6,South Africa,Sri Lanka,45,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+81,13.2,0,CRD Fernando,2006-10-24,1st,AB de Villiers,6,,JH Kallis,7,South Africa,Sri Lanka,45,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+82,13.3,1,CRD Fernando,2006-10-24,1st,AB de Villiers,6,,JH Kallis,8,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+83,13.4,0,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,6,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+84,13.5,0,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,6,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+85,13.6,4,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,10,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+86,14.1,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,10,,JH Kallis,8,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+87,14.2,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,10,,JH Kallis,8,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+88,14.3,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,10,,JH Kallis,8,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+89,14.4,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,10,,JH Kallis,8,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+90,14.5,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,10,,JH Kallis,8,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+91,14.6,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,10,,JH Kallis,8,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+92,15.1,0,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,10,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+93,15.2,0,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,10,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+94,15.3,0,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,10,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+95,15.4,0,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,10,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+96,15.5,0,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,10,South Africa,Sri Lanka,50,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+97,15.6,1,CRD Fernando,2006-10-24,1st,JH Kallis,8,,AB de Villiers,11,South Africa,Sri Lanka,51,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+98,16.1,1,WPUJC Vaas,2006-10-24,1st,JH Kallis,8,,AB de Villiers,12,South Africa,Sri Lanka,52,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+99,16.2,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,12,,JH Kallis,8,South Africa,Sri Lanka,52,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+100,16.3,1,WPUJC Vaas,2006-10-24,1st,AB de Villiers,12,,JH Kallis,9,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+101,16.4,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,9,,AB de Villiers,12,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+102,16.5,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,9,,AB de Villiers,12,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+103,16.6,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,9,,AB de Villiers,12,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+104,17.1,0,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,9,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+105,17.2,0,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,9,South Africa,Sri Lanka,54,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+106,17.3,0,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,9,South Africa,Sri Lanka,54,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+107,17.4,2,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,11,South Africa,Sri Lanka,56,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+108,17.5,0,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,11,South Africa,Sri Lanka,56,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+109,17.6,1,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,12,South Africa,Sri Lanka,57,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+110,17.7,0,CRD Fernando,2006-10-24,1st,JH Kallis,12,,AB de Villiers,12,South Africa,Sri Lanka,57,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+111,18.1,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,12,,JH Kallis,12,South Africa,Sri Lanka,57,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+112,18.2,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,12,,JH Kallis,12,South Africa,Sri Lanka,57,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+113,18.3,4,WPUJC Vaas,2006-10-24,1st,AB de Villiers,12,,JH Kallis,16,South Africa,Sri Lanka,61,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+114,18.4,0,WPUJC Vaas,2006-10-24,1st,AB de Villiers,12,,JH Kallis,16,South Africa,Sri Lanka,61,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+115,18.5,1,WPUJC Vaas,2006-10-24,1st,AB de Villiers,12,,JH Kallis,17,South Africa,Sri Lanka,62,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+116,18.6,0,WPUJC Vaas,2006-10-24,1st,JH Kallis,17,,AB de Villiers,12,South Africa,Sri Lanka,62,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+117,19.1,0,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,17,South Africa,Sri Lanka,62,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+118,19.2,6,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,23,South Africa,Sri Lanka,68,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+119,19.3,1,CRD Fernando,2006-10-24,1st,AB de Villiers,12,,JH Kallis,24,South Africa,Sri Lanka,69,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+120,19.4,0,CRD Fernando,2006-10-24,1st,JH Kallis,24,,AB de Villiers,12,South Africa,Sri Lanka,69,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+121,19.5,1,CRD Fernando,2006-10-24,1st,JH Kallis,24,,AB de Villiers,13,South Africa,Sri Lanka,70,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+122,19.6,1,CRD Fernando,2006-10-24,1st,AB de Villiers,13,,JH Kallis,25,South Africa,Sri Lanka,71,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+123,20.1,0,M Muralitharan,2006-10-24,1st,AB de Villiers,13,,JH Kallis,25,South Africa,Sri Lanka,71,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+124,20.2,0,M Muralitharan,2006-10-24,1st,AB de Villiers,13,,JH Kallis,25,South Africa,Sri Lanka,71,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+125,20.3,1,M Muralitharan,2006-10-24,1st,AB de Villiers,13,,JH Kallis,26,South Africa,Sri Lanka,72,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+126,20.4,1,M Muralitharan,2006-10-24,1st,JH Kallis,26,,AB de Villiers,14,South Africa,Sri Lanka,73,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+127,20.5,0,M Muralitharan,2006-10-24,1st,AB de Villiers,14,,JH Kallis,26,South Africa,Sri Lanka,73,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+128,20.6,1,M Muralitharan,2006-10-24,1st,AB de Villiers,14,,JH Kallis,27,South Africa,Sri Lanka,74,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+129,21.1,1,CRD Fernando,2006-10-24,1st,AB de Villiers,14,,JH Kallis,28,South Africa,Sri Lanka,75,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+130,21.2,1,CRD Fernando,2006-10-24,1st,JH Kallis,28,,AB de Villiers,15,South Africa,Sri Lanka,76,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+131,21.3,0,CRD Fernando,2006-10-24,1st,AB de Villiers,15,,JH Kallis,28,South Africa,Sri Lanka,76,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+132,21.4,1,CRD Fernando,2006-10-24,1st,AB de Villiers,15,,JH Kallis,29,South Africa,Sri Lanka,77,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+133,21.5,0,CRD Fernando,2006-10-24,1st,JH Kallis,29,,AB de Villiers,15,South Africa,Sri Lanka,77,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+134,21.6,1,CRD Fernando,2006-10-24,1st,JH Kallis,29,,AB de Villiers,16,South Africa,Sri Lanka,78,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+135,22.1,0,M Muralitharan,2006-10-24,1st,JH Kallis,29,,AB de Villiers,16,South Africa,Sri Lanka,78,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+136,22.2,1,M Muralitharan,2006-10-24,1st,JH Kallis,29,,AB de Villiers,17,South Africa,Sri Lanka,79,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+137,22.3,0,M Muralitharan,2006-10-24,1st,AB de Villiers,17,,JH Kallis,29,South Africa,Sri Lanka,79,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+138,22.4,1,M Muralitharan,2006-10-24,1st,AB de Villiers,17,,JH Kallis,30,South Africa,Sri Lanka,80,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+139,22.5,0,M Muralitharan,2006-10-24,1st,JH Kallis,30,,AB de Villiers,17,South Africa,Sri Lanka,80,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+140,22.6,1,M Muralitharan,2006-10-24,1st,JH Kallis,30,,AB de Villiers,18,South Africa,Sri Lanka,81,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+141,23.1,0,ST Jayasuriya,2006-10-24,1st,JH Kallis,30,,AB de Villiers,18,South Africa,Sri Lanka,81,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+142,23.2,0,ST Jayasuriya,2006-10-24,1st,JH Kallis,30,,AB de Villiers,18,South Africa,Sri Lanka,81,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+143,23.3,0,ST Jayasuriya,2006-10-24,1st,JH Kallis,30,,AB de Villiers,18,South Africa,Sri Lanka,81,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+144,23.4,0,ST Jayasuriya,2006-10-24,1st,JH Kallis,30,,AB de Villiers,18,South Africa,Sri Lanka,81,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+145,23.5,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,30,,AB de Villiers,19,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+146,23.6,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,19,,JH Kallis,30,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+147,24.1,3,M Muralitharan,2006-10-24,1st,JH Kallis,30,,AB de Villiers,22,South Africa,Sri Lanka,85,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+148,24.2,0,M Muralitharan,2006-10-24,1st,AB de Villiers,22,,JH Kallis,30,South Africa,Sri Lanka,85,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+149,24.3,0,M Muralitharan,2006-10-24,1st,AB de Villiers,22,,JH Kallis,30,South Africa,Sri Lanka,85,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+150,24.4,1,M Muralitharan,2006-10-24,1st,AB de Villiers,22,,JH Kallis,31,South Africa,Sri Lanka,86,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+151,24.5,0,M Muralitharan,2006-10-24,1st,JH Kallis,31,,AB de Villiers,22,South Africa,Sri Lanka,86,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+152,24.6,0,M Muralitharan,2006-10-24,1st,JH Kallis,31,,AB de Villiers,22,South Africa,Sri Lanka,86,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+153,25.1,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,22,,JH Kallis,31,South Africa,Sri Lanka,86,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+154,25.2,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,22,,JH Kallis,32,South Africa,Sri Lanka,87,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+155,25.3,0,ST Jayasuriya,2006-10-24,1st,JH Kallis,32,,AB de Villiers,22,South Africa,Sri Lanka,87,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+156,25.4,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,32,,AB de Villiers,23,South Africa,Sri Lanka,88,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+157,25.5,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,23,,JH Kallis,33,South Africa,Sri Lanka,89,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+158,25.6,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,33,,AB de Villiers,24,South Africa,Sri Lanka,90,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+159,26.1,0,M Muralitharan,2006-10-24,1st,JH Kallis,33,,AB de Villiers,24,South Africa,Sri Lanka,90,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+160,26.2,1,M Muralitharan,2006-10-24,1st,JH Kallis,33,,AB de Villiers,25,South Africa,Sri Lanka,91,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+161,26.3,1,M Muralitharan,2006-10-24,1st,AB de Villiers,25,,JH Kallis,34,South Africa,Sri Lanka,92,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+162,26.4,1,M Muralitharan,2006-10-24,1st,JH Kallis,34,,AB de Villiers,26,South Africa,Sri Lanka,93,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+163,26.5,1,M Muralitharan,2006-10-24,1st,AB de Villiers,26,,JH Kallis,35,South Africa,Sri Lanka,94,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+164,26.6,0,M Muralitharan,2006-10-24,1st,JH Kallis,35,,AB de Villiers,26,South Africa,Sri Lanka,94,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+165,27.1,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,26,,JH Kallis,36,South Africa,Sri Lanka,95,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+166,27.2,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,36,,AB de Villiers,27,South Africa,Sri Lanka,96,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+167,27.3,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,27,,JH Kallis,36,South Africa,Sri Lanka,96,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+168,27.4,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,27,,JH Kallis,37,South Africa,Sri Lanka,97,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+169,27.5,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,37,,AB de Villiers,28,South Africa,Sri Lanka,98,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+170,27.6,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,28,,JH Kallis,38,South Africa,Sri Lanka,99,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+171,28.1,1,M Muralitharan,2006-10-24,1st,AB de Villiers,28,,JH Kallis,39,South Africa,Sri Lanka,100,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+172,28.2,1,M Muralitharan,2006-10-24,1st,JH Kallis,39,,AB de Villiers,29,South Africa,Sri Lanka,101,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+173,28.3,1,M Muralitharan,2006-10-24,1st,AB de Villiers,29,,JH Kallis,40,South Africa,Sri Lanka,102,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+174,28.4,0,M Muralitharan,2006-10-24,1st,JH Kallis,40,,AB de Villiers,29,South Africa,Sri Lanka,102,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+175,28.5,0,M Muralitharan,2006-10-24,1st,JH Kallis,40,,AB de Villiers,29,South Africa,Sri Lanka,102,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+176,28.6,0,M Muralitharan,2006-10-24,1st,JH Kallis,40,,AB de Villiers,29,South Africa,Sri Lanka,102,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+177,29.1,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,29,,JH Kallis,41,South Africa,Sri Lanka,103,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+178,29.2,0,ST Jayasuriya,2006-10-24,1st,JH Kallis,41,,AB de Villiers,29,South Africa,Sri Lanka,103,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+179,29.3,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,41,,AB de Villiers,30,South Africa,Sri Lanka,104,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+180,29.4,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,30,,JH Kallis,41,South Africa,Sri Lanka,104,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+181,29.5,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,30,,JH Kallis,42,South Africa,Sri Lanka,105,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+182,29.6,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,42,,AB de Villiers,31,South Africa,Sri Lanka,106,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+183,30.1,1,MF Maharoof,2006-10-24,1st,JH Kallis,42,,AB de Villiers,32,South Africa,Sri Lanka,107,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+184,30.2,0,MF Maharoof,2006-10-24,1st,AB de Villiers,32,,JH Kallis,42,South Africa,Sri Lanka,107,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+185,30.3,1,MF Maharoof,2006-10-24,1st,AB de Villiers,32,,JH Kallis,43,South Africa,Sri Lanka,108,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+186,30.4,0,MF Maharoof,2006-10-24,1st,JH Kallis,43,,AB de Villiers,32,South Africa,Sri Lanka,108,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+187,30.5,0,MF Maharoof,2006-10-24,1st,JH Kallis,43,,AB de Villiers,32,South Africa,Sri Lanka,108,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+188,30.6,1,MF Maharoof,2006-10-24,1st,JH Kallis,43,,AB de Villiers,33,South Africa,Sri Lanka,109,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+189,31.1,1,ST Jayasuriya,2006-10-24,1st,JH Kallis,43,,AB de Villiers,34,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+190,31.2,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,34,JH Kallis,JH Kallis,43,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+191,31.3,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,34,,MV Boucher,0,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+192,31.4,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,34,,MV Boucher,0,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+193,31.5,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,34,,MV Boucher,0,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+194,31.6,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,34,,MV Boucher,0,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+195,32.1,0,MF Maharoof,2006-10-24,1st,MV Boucher,0,,AB de Villiers,34,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+196,32.2,0,MF Maharoof,2006-10-24,1st,MV Boucher,0,,AB de Villiers,34,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+197,32.3,2,MF Maharoof,2006-10-24,1st,MV Boucher,0,,AB de Villiers,36,South Africa,Sri Lanka,112,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+198,32.4,2,MF Maharoof,2006-10-24,1st,MV Boucher,0,,AB de Villiers,38,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+199,32.5,0,MF Maharoof,2006-10-24,1st,MV Boucher,0,,AB de Villiers,38,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+200,32.6,0,MF Maharoof,2006-10-24,1st,MV Boucher,0,,AB de Villiers,38,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+201,33.1,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,38,,MV Boucher,1,South Africa,Sri Lanka,115,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+202,33.2,1,ST Jayasuriya,2006-10-24,1st,MV Boucher,1,,AB de Villiers,39,South Africa,Sri Lanka,116,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+203,33.3,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,39,,MV Boucher,1,South Africa,Sri Lanka,117,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+204,33.4,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,39,,MV Boucher,2,South Africa,Sri Lanka,118,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+205,33.5,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,2,,AB de Villiers,39,South Africa,Sri Lanka,118,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+206,33.6,1,ST Jayasuriya,2006-10-24,1st,MV Boucher,2,,AB de Villiers,40,South Africa,Sri Lanka,119,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+207,33.7,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,40,,MV Boucher,3,South Africa,Sri Lanka,120,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+208,34.1,0,MF Maharoof,2006-10-24,1st,AB de Villiers,40,,MV Boucher,3,South Africa,Sri Lanka,120,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+209,34.2,0,MF Maharoof,2006-10-24,1st,AB de Villiers,40,,MV Boucher,3,South Africa,Sri Lanka,120,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+210,34.3,1,MF Maharoof,2006-10-24,1st,AB de Villiers,40,,MV Boucher,4,South Africa,Sri Lanka,121,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+211,34.4,0,MF Maharoof,2006-10-24,1st,MV Boucher,4,,AB de Villiers,40,South Africa,Sri Lanka,122,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+212,34.5,1,MF Maharoof,2006-10-24,1st,AB de Villiers,40,,MV Boucher,5,South Africa,Sri Lanka,123,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+213,34.6,0,MF Maharoof,2006-10-24,1st,MV Boucher,5,,AB de Villiers,40,South Africa,Sri Lanka,123,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+214,35.1,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,40,,MV Boucher,6,South Africa,Sri Lanka,124,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+215,35.2,1,ST Jayasuriya,2006-10-24,1st,MV Boucher,6,,AB de Villiers,41,South Africa,Sri Lanka,125,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+216,35.3,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,41,,MV Boucher,7,South Africa,Sri Lanka,126,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+217,35.4,1,ST Jayasuriya,2006-10-24,1st,MV Boucher,7,,AB de Villiers,42,South Africa,Sri Lanka,127,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+218,35.5,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,42,,MV Boucher,8,South Africa,Sri Lanka,128,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+219,35.6,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,8,,AB de Villiers,42,South Africa,Sri Lanka,128,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+220,36.1,1,M Muralitharan,2006-10-24,1st,AB de Villiers,42,,MV Boucher,9,South Africa,Sri Lanka,129,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+221,36.2,1,M Muralitharan,2006-10-24,1st,MV Boucher,9,,AB de Villiers,43,South Africa,Sri Lanka,130,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+222,36.3,1,M Muralitharan,2006-10-24,1st,AB de Villiers,43,,MV Boucher,10,South Africa,Sri Lanka,131,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+223,36.4,1,M Muralitharan,2006-10-24,1st,MV Boucher,10,,AB de Villiers,44,South Africa,Sri Lanka,132,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+224,36.5,1,M Muralitharan,2006-10-24,1st,AB de Villiers,44,,MV Boucher,11,South Africa,Sri Lanka,133,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+225,36.6,1,M Muralitharan,2006-10-24,1st,MV Boucher,11,,AB de Villiers,45,South Africa,Sri Lanka,134,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+226,37.1,3,ST Jayasuriya,2006-10-24,1st,MV Boucher,11,,AB de Villiers,48,South Africa,Sri Lanka,137,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+227,37.2,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,48,,MV Boucher,11,South Africa,Sri Lanka,137,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+228,37.3,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,48,,MV Boucher,11,South Africa,Sri Lanka,137,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+229,37.4,1,ST Jayasuriya,2006-10-24,1st,AB de Villiers,48,,MV Boucher,12,South Africa,Sri Lanka,138,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+230,37.5,1,ST Jayasuriya,2006-10-24,1st,MV Boucher,12,,AB de Villiers,49,South Africa,Sri Lanka,139,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+231,37.6,0,ST Jayasuriya,2006-10-24,1st,AB de Villiers,49,,MV Boucher,12,South Africa,Sri Lanka,139,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+232,38.1,4,M Muralitharan,2006-10-24,1st,MV Boucher,12,,AB de Villiers,53,South Africa,Sri Lanka,143,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+233,38.2,1,M Muralitharan,2006-10-24,1st,MV Boucher,12,,AB de Villiers,54,South Africa,Sri Lanka,144,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+234,38.3,1,M Muralitharan,2006-10-24,1st,AB de Villiers,54,,MV Boucher,13,South Africa,Sri Lanka,145,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+235,38.4,0,M Muralitharan,2006-10-24,1st,MV Boucher,13,AB de Villiers,AB de Villiers,54,South Africa,Sri Lanka,145,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+236,38.5,1,M Muralitharan,2006-10-24,1st,JM Kemp,0,,MV Boucher,14,South Africa,Sri Lanka,146,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+237,38.6,0,M Muralitharan,2006-10-24,1st,MV Boucher,14,,JM Kemp,0,South Africa,Sri Lanka,146,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+238,39.1,0,ST Jayasuriya,2006-10-24,1st,JM Kemp,0,,MV Boucher,14,South Africa,Sri Lanka,147,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+239,39.2,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,14,,JM Kemp,0,South Africa,Sri Lanka,147,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+240,39.3,1,ST Jayasuriya,2006-10-24,1st,MV Boucher,14,,JM Kemp,1,South Africa,Sri Lanka,148,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+241,39.4,0,ST Jayasuriya,2006-10-24,1st,JM Kemp,1,,MV Boucher,14,South Africa,Sri Lanka,148,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+242,39.5,1,ST Jayasuriya,2006-10-24,1st,JM Kemp,1,,MV Boucher,15,South Africa,Sri Lanka,149,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+243,39.6,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,15,,JM Kemp,1,South Africa,Sri Lanka,149,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+244,40.1,1,M Muralitharan,2006-10-24,1st,JM Kemp,1,,MV Boucher,16,South Africa,Sri Lanka,150,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+245,40.2,1,M Muralitharan,2006-10-24,1st,MV Boucher,16,,JM Kemp,2,South Africa,Sri Lanka,151,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+246,40.3,0,M Muralitharan,2006-10-24,1st,JM Kemp,2,,MV Boucher,16,South Africa,Sri Lanka,151,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+247,40.4,0,M Muralitharan,2006-10-24,1st,JM Kemp,2,,MV Boucher,16,South Africa,Sri Lanka,151,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+248,40.5,1,M Muralitharan,2006-10-24,1st,JM Kemp,2,,MV Boucher,17,South Africa,Sri Lanka,152,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+249,40.6,0,M Muralitharan,2006-10-24,1st,MV Boucher,17,,JM Kemp,2,South Africa,Sri Lanka,152,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+250,41.1,1,TM Dilshan,2006-10-24,1st,JM Kemp,2,,MV Boucher,18,South Africa,Sri Lanka,153,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+251,41.2,1,TM Dilshan,2006-10-24,1st,MV Boucher,18,,JM Kemp,3,South Africa,Sri Lanka,154,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+252,41.3,0,TM Dilshan,2006-10-24,1st,JM Kemp,3,,MV Boucher,18,South Africa,Sri Lanka,154,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+253,41.4,0,TM Dilshan,2006-10-24,1st,JM Kemp,3,,MV Boucher,18,South Africa,Sri Lanka,154,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+254,41.5,0,TM Dilshan,2006-10-24,1st,JM Kemp,3,,MV Boucher,18,South Africa,Sri Lanka,154,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+255,41.6,6,TM Dilshan,2006-10-24,1st,JM Kemp,3,,MV Boucher,24,South Africa,Sri Lanka,160,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+256,42.1,0,M Muralitharan,2006-10-24,1st,MV Boucher,24,,JM Kemp,3,South Africa,Sri Lanka,160,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+257,42.2,1,M Muralitharan,2006-10-24,1st,MV Boucher,24,,JM Kemp,4,South Africa,Sri Lanka,161,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+258,42.3,3,M Muralitharan,2006-10-24,1st,JM Kemp,4,,MV Boucher,27,South Africa,Sri Lanka,164,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+259,42.4,0,M Muralitharan,2006-10-24,1st,MV Boucher,27,,JM Kemp,4,South Africa,Sri Lanka,164,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+260,42.5,0,M Muralitharan,2006-10-24,1st,MV Boucher,27,,JM Kemp,4,South Africa,Sri Lanka,164,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+261,42.6,0,M Muralitharan,2006-10-24,1st,MV Boucher,27,,JM Kemp,4,South Africa,Sri Lanka,165,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+262,42.7,1,M Muralitharan,2006-10-24,1st,MV Boucher,27,,JM Kemp,5,South Africa,Sri Lanka,166,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+263,43.1,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,27,,JM Kemp,5,South Africa,Sri Lanka,166,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+264,43.2,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,27,,JM Kemp,5,South Africa,Sri Lanka,166,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+265,43.3,2,ST Jayasuriya,2006-10-24,1st,MV Boucher,27,,JM Kemp,7,South Africa,Sri Lanka,168,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+266,43.4,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,27,,JM Kemp,7,South Africa,Sri Lanka,169,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+267,43.5,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,27,JM Kemp,JM Kemp,7,South Africa,Sri Lanka,169,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+268,43.6,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,27,,SM Pollock,0,South Africa,Sri Lanka,169,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+269,43.7,0,ST Jayasuriya,2006-10-24,1st,MV Boucher,27,,SM Pollock,0,South Africa,Sri Lanka,169,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+270,44.1,1,MF Maharoof,2006-10-24,1st,SM Pollock,0,,MV Boucher,28,South Africa,Sri Lanka,170,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+271,44.2,2,MF Maharoof,2006-10-24,1st,MV Boucher,28,,SM Pollock,2,South Africa,Sri Lanka,172,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+272,44.3,1,MF Maharoof,2006-10-24,1st,MV Boucher,28,,SM Pollock,3,South Africa,Sri Lanka,173,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+273,44.4,1,MF Maharoof,2006-10-24,1st,SM Pollock,3,,MV Boucher,29,South Africa,Sri Lanka,174,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+274,44.5,0,MF Maharoof,2006-10-24,1st,MV Boucher,29,,SM Pollock,3,South Africa,Sri Lanka,174,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+275,44.6,2,MF Maharoof,2006-10-24,1st,MV Boucher,29,,SM Pollock,5,South Africa,Sri Lanka,176,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+276,45.1,0,SL Malinga,2006-10-24,1st,SM Pollock,5,MV Boucher,MV Boucher,29,South Africa,Sri Lanka,176,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+277,45.2,0,SL Malinga,2006-10-24,1st,SM Pollock,5,,RJ Peterson,0,South Africa,Sri Lanka,176,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+278,45.3,0,SL Malinga,2006-10-24,1st,SM Pollock,5,,RJ Peterson,0,South Africa,Sri Lanka,176,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+279,45.4,1,SL Malinga,2006-10-24,1st,SM Pollock,5,,RJ Peterson,1,South Africa,Sri Lanka,177,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+280,45.5,1,SL Malinga,2006-10-24,1st,RJ Peterson,1,,SM Pollock,6,South Africa,Sri Lanka,178,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+281,45.6,0,SL Malinga,2006-10-24,1st,SM Pollock,6,,RJ Peterson,1,South Africa,Sri Lanka,178,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+282,46.1,0,M Muralitharan,2006-10-24,1st,RJ Peterson,1,,SM Pollock,6,South Africa,Sri Lanka,178,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+283,46.2,1,M Muralitharan,2006-10-24,1st,RJ Peterson,1,,SM Pollock,7,South Africa,Sri Lanka,179,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+284,46.3,0,M Muralitharan,2006-10-24,1st,SM Pollock,7,,RJ Peterson,1,South Africa,Sri Lanka,179,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+285,46.4,0,M Muralitharan,2006-10-24,1st,SM Pollock,7,,RJ Peterson,1,South Africa,Sri Lanka,179,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+286,46.5,1,M Muralitharan,2006-10-24,1st,SM Pollock,7,,RJ Peterson,2,South Africa,Sri Lanka,180,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+287,46.6,1,M Muralitharan,2006-10-24,1st,RJ Peterson,2,,SM Pollock,8,South Africa,Sri Lanka,181,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+288,47.1,2,SL Malinga,2006-10-24,1st,RJ Peterson,2,,SM Pollock,10,South Africa,Sri Lanka,183,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+289,47.2,1,SL Malinga,2006-10-24,1st,RJ Peterson,2,,SM Pollock,11,South Africa,Sri Lanka,184,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+290,47.3,1,SL Malinga,2006-10-24,1st,SM Pollock,11,,RJ Peterson,3,South Africa,Sri Lanka,185,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+291,47.4,0,SL Malinga,2006-10-24,1st,RJ Peterson,3,,SM Pollock,11,South Africa,Sri Lanka,185,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+292,47.5,1,SL Malinga,2006-10-24,1st,RJ Peterson,3,,SM Pollock,12,South Africa,Sri Lanka,186,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+293,47.6,1,SL Malinga,2006-10-24,1st,SM Pollock,12,,RJ Peterson,4,South Africa,Sri Lanka,187,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+294,48.1,4,MF Maharoof,2006-10-24,1st,SM Pollock,12,,RJ Peterson,8,South Africa,Sri Lanka,191,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+295,48.2,0,MF Maharoof,2006-10-24,1st,SM Pollock,12,,RJ Peterson,8,South Africa,Sri Lanka,195,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+296,48.3,0,MF Maharoof,2006-10-24,1st,SM Pollock,12,,RJ Peterson,8,South Africa,Sri Lanka,195,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+297,48.4,6,MF Maharoof,2006-10-24,1st,SM Pollock,12,,RJ Peterson,14,South Africa,Sri Lanka,201,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+298,48.5,4,MF Maharoof,2006-10-24,1st,SM Pollock,12,,RJ Peterson,18,South Africa,Sri Lanka,205,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+299,48.6,4,MF Maharoof,2006-10-24,1st,SM Pollock,12,,RJ Peterson,22,South Africa,Sri Lanka,209,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+300,49.1,2,SL Malinga,2006-10-24,1st,RJ Peterson,22,,SM Pollock,14,South Africa,Sri Lanka,211,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+301,49.2,6,SL Malinga,2006-10-24,1st,RJ Peterson,22,,SM Pollock,20,South Africa,Sri Lanka,217,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+302,49.3,1,SL Malinga,2006-10-24,1st,RJ Peterson,22,,SM Pollock,21,South Africa,Sri Lanka,218,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+303,49.4,0,SL Malinga,2006-10-24,1st,SM Pollock,21,RJ Peterson,RJ Peterson,22,South Africa,Sri Lanka,218,Sri Lanka,"Sardar Patel Stadium, Motera",8,South Africa
+304,49.5,0,SL Malinga,2006-10-24,1st,SM Pollock,21,A Nel,A Nel,0,South Africa,Sri Lanka,218,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+305,49.6,1,SL Malinga,2006-10-24,1st,SM Pollock,21,,M Ntini,1,South Africa,Sri Lanka,219,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+306,0.1,0,SM Pollock,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+307,0.2,0,SM Pollock,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+308,0.3,0,SM Pollock,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+309,0.4,0,SM Pollock,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+310,0.5,0,SM Pollock,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,0,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+311,0.6,0,SM Pollock,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+312,0.7,0,SM Pollock,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+313,1.1,0,M Ntini,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+314,1.2,0,M Ntini,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,1,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+315,1.3,1,M Ntini,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,2,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+316,1.4,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,2,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+317,1.5,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,2,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+318,1.6,4,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,6,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+319,2.1,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,6,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+320,2.2,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,6,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+321,2.3,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,6,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+322,2.4,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,6,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+323,2.5,2,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+324,2.6,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+325,3.1,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+326,3.2,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+327,3.3,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+328,3.4,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,8,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+329,3.5,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,9,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+330,3.6,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,9,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+331,3.7,0,M Ntini,2006-10-24,2nd,ST Jayasuriya,0,,WU Tharanga,0,South Africa,Sri Lanka,9,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+332,4.1,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,9,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+333,4.2,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,9,Sri Lanka,"Sardar Patel Stadium, Motera",0,South Africa
+334,4.3,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,ST Jayasuriya,0,South Africa,Sri Lanka,9,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+335,4.4,1,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+336,4.5,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+337,4.6,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+338,5.1,0,M Ntini,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,10,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+339,5.2,1,M Ntini,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,11,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+340,5.3,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,11,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+341,5.4,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,11,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+342,5.5,1,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,12,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+343,5.6,0,M Ntini,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,12,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+344,6.1,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,12,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+345,6.2,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,12,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+346,6.3,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,12,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+347,6.4,1,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+348,6.5,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+349,6.6,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+350,7.1,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,13,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+351,7.2,2,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,15,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+352,7.3,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,15,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+353,7.4,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,15,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+354,7.5,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,15,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+355,7.6,2,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,17,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+356,8.1,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,17,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+357,8.2,1,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,18,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+358,8.3,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,18,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+359,8.4,1,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,19,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+360,8.5,2,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+361,8.6,0,SM Pollock,2006-10-24,2nd,WU Tharanga,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",1,South Africa
+362,9.1,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,WU Tharanga,0,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+363,9.2,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+364,9.3,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,21,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+365,9.4,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+366,9.5,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+367,9.6,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+368,9.7,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+369,10.1,0,SM Pollock,2006-10-24,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+370,10.2,0,SM Pollock,2006-10-24,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,22,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+371,10.3,1,SM Pollock,2006-10-24,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,23,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+372,10.4,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,23,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+373,10.5,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,23,Sri Lanka,"Sardar Patel Stadium, Motera",2,South Africa
+374,10.6,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,South Africa,Sri Lanka,23,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+375,11.1,0,A Nel,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,23,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+376,11.2,0,A Nel,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,23,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+377,11.3,4,A Nel,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,27,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+378,11.4,0,A Nel,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,28,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+379,11.5,1,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,MS Atapattu,0,South Africa,Sri Lanka,29,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+380,11.6,0,A Nel,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,29,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+381,12.1,1,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,MS Atapattu,0,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+382,12.2,0,SM Pollock,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+383,12.3,0,SM Pollock,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,30,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+384,12.4,4,SM Pollock,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+385,12.5,0,SM Pollock,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+386,12.6,0,SM Pollock,2006-10-24,2nd,MS Atapattu,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+387,13.1,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,MS Atapattu,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+388,13.2,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,MS Atapattu,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",3,South Africa
+389,13.3,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,MS Atapattu,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+390,13.4,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+391,13.5,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+392,13.6,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,34,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+393,14.1,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,35,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+394,14.2,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,35,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+395,14.3,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,35,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+396,14.4,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,35,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+397,14.5,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,35,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+398,14.6,2,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,37,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+399,14.7,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,37,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+400,15.1,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,37,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+401,15.2,4,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,41,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+402,15.3,1,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,42,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+403,15.4,0,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,42,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+404,15.5,0,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,42,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+405,15.6,4,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+406,16.1,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+407,16.2,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+408,16.3,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+409,16.4,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+410,16.5,0,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,46,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+411,16.6,1,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,47,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+412,17.1,2,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,49,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+413,17.2,4,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+414,17.3,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+415,17.4,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+416,17.5,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+417,17.6,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+418,18.1,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+419,18.2,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,53,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+420,18.3,1,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,54,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+421,18.4,1,SM Pollock,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,55,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+422,18.5,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,55,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+423,18.6,0,SM Pollock,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,55,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+424,19.1,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,55,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+425,19.2,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,55,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+426,19.3,0,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,55,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+427,19.4,1,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,56,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+428,19.5,4,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,60,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+429,19.6,0,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,60,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+430,20.1,0,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,60,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+431,20.2,1,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,61,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+432,20.3,1,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,62,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+433,20.4,2,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,64,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+434,20.5,0,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,64,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+435,20.6,0,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,64,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+436,21.1,0,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,64,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+437,21.2,1,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,65,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+438,21.3,1,A Nel,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,66,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+439,21.4,0,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,66,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+440,21.5,2,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,68,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+441,21.6,1,A Nel,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,69,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+442,22.1,2,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,71,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+443,22.2,1,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,72,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+444,22.3,0,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,72,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+445,22.4,1,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,73,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+446,22.5,1,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,74,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+447,22.6,1,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,75,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+448,23.1,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,75,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+449,23.2,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,75,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+450,23.3,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,75,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+451,23.4,0,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,75,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+452,23.5,1,M Ntini,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,76,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+453,23.6,1,M Ntini,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,77,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+454,24.1,1,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,DPMD Jayawardene,0,South Africa,Sri Lanka,78,Sri Lanka,"Sardar Patel Stadium, Motera",4,South Africa
+455,24.2,0,JH Kallis,2006-10-24,2nd,DPMD Jayawardene,0,,TM Dilshan,0,South Africa,Sri Lanka,78,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+456,24.3,0,JH Kallis,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+457,24.4,0,JH Kallis,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+458,24.5,0,JH Kallis,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+459,24.6,0,JH Kallis,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+460,25.1,0,M Ntini,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+461,25.2,0,M Ntini,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+462,25.3,0,M Ntini,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+463,25.4,0,M Ntini,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+464,25.5,0,M Ntini,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+465,25.6,0,M Ntini,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+466,26.1,0,JH Kallis,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+467,26.2,0,JH Kallis,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,82,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+468,26.3,1,JH Kallis,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,83,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+469,26.4,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,83,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+470,26.5,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,83,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+471,26.6,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,83,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+472,27.1,0,JM Kemp,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,83,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+473,27.2,0,JM Kemp,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,84,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+474,27.3,0,JM Kemp,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,85,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+475,27.4,2,JM Kemp,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,87,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+476,27.5,1,JM Kemp,2006-10-24,2nd,MF Maharoof,0,,TM Dilshan,0,South Africa,Sri Lanka,88,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+477,27.6,0,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,88,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+478,27.7,0,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,88,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+479,27.8,1,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,89,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+480,28.1,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,89,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+481,28.2,2,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,91,Sri Lanka,"Sardar Patel Stadium, Motera",5,South Africa
+482,28.3,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,MF Maharoof,0,South Africa,Sri Lanka,91,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+483,28.4,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,91,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+484,28.5,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,91,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+485,28.6,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,91,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+486,29.1,1,JM Kemp,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,92,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+487,29.2,0,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,92,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+488,29.3,0,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,92,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+489,29.4,0,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,92,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+490,29.5,0,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,92,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+491,29.6,2,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,94,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+492,30.1,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,94,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+493,30.2,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,94,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+494,30.3,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,94,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+495,30.4,1,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,95,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+496,30.5,4,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,99,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+497,30.6,4,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,103,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+498,31.1,1,JM Kemp,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,104,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+499,31.2,0,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,104,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+500,31.3,1,JM Kemp,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,105,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+501,31.4,0,JM Kemp,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,105,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+502,31.5,4,JM Kemp,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,109,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+503,31.6,1,JM Kemp,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+504,32.1,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+505,32.2,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,110,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+506,32.3,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,111,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+507,32.4,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,111,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+508,32.5,0,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,111,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+509,32.6,3,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+510,32.7,0,JH Kallis,2006-10-24,2nd,TM Dilshan,0,,WPUJC Vaas,0,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",6,South Africa
+511,33.1,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,TM Dilshan,0,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+512,33.2,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,SL Malinga,0,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+513,33.3,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,SL Malinga,0,South Africa,Sri Lanka,114,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+514,33.4,1,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,SL Malinga,0,South Africa,Sri Lanka,115,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+515,33.5,0,A Nel,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,115,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+516,33.6,1,A Nel,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,116,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+517,34.1,1,JH Kallis,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,117,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+518,34.2,1,JH Kallis,2006-10-24,2nd,WPUJC Vaas,0,,SL Malinga,0,South Africa,Sri Lanka,118,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+519,34.3,0,JH Kallis,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,118,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+520,34.4,4,JH Kallis,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,122,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+521,34.5,0,JH Kallis,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,122,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+522,34.6,1,JH Kallis,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,123,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+523,35.1,0,A Nel,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,123,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+524,35.2,0,A Nel,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,123,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+525,35.3,1,A Nel,2006-10-24,2nd,SL Malinga,0,,WPUJC Vaas,0,South Africa,Sri Lanka,124,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+526,35.4,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,SL Malinga,0,South Africa,Sri Lanka,124,Sri Lanka,"Sardar Patel Stadium, Motera",7,South Africa
+527,35.5,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,SL Malinga,0,South Africa,Sri Lanka,124,Sri Lanka,"Sardar Patel Stadium, Motera",8,South Africa
+528,35.6,3,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,M Muralitharan,0,South Africa,Sri Lanka,127,Sri Lanka,"Sardar Patel Stadium, Motera",8,South Africa
+529,36.1,0,M Ntini,2006-10-24,2nd,WPUJC Vaas,0,,M Muralitharan,0,South Africa,Sri Lanka,127,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+530,36.2,0,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,127,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+531,36.3,0,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,127,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+532,36.4,1,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,128,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+533,36.5,0,M Ntini,2006-10-24,2nd,WPUJC Vaas,0,,CRD Fernando,0,South Africa,Sri Lanka,128,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+534,36.6,0,M Ntini,2006-10-24,2nd,WPUJC Vaas,0,,CRD Fernando,0,South Africa,Sri Lanka,128,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+535,37.1,0,A Nel,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,128,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+536,37.2,1,A Nel,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,129,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+537,37.3,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,CRD Fernando,0,South Africa,Sri Lanka,129,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+538,37.4,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,CRD Fernando,0,South Africa,Sri Lanka,129,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+539,37.5,0,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,CRD Fernando,0,South Africa,Sri Lanka,129,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+540,37.6,4,A Nel,2006-10-24,2nd,WPUJC Vaas,0,,CRD Fernando,0,South Africa,Sri Lanka,133,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+541,38.1,0,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,133,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+542,38.2,0,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,133,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+543,38.3,2,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,135,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+544,38.4,0,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,135,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+545,38.5,4,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,139,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+546,38.6,2,M Ntini,2006-10-24,2nd,CRD Fernando,0,,WPUJC Vaas,0,South Africa,Sri Lanka,141,Sri Lanka,"Sardar Patel Stadium, Motera",9,South Africa
+547,39.1,0,JM Kemp,2006-10-24,2nd,WPUJC Vaas,0,,CRD Fernando,0,South Africa,Sri Lanka,141,Sri Lanka,"Sardar Patel Stadium, Motera",10,South Africa

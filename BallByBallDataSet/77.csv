@@ -1,0 +1,577 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,Syed Rasel,2006-08-06,1st,V Sibanda,0,,T Duffin,1,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+1,0.2,4,Syed Rasel,2006-08-06,1st,T Duffin,1,,V Sibanda,4,Zimbabwe,Bangladesh,5,Zimbabwe,Harare Sports Club,0,Bangladesh
+2,0.3,0,Syed Rasel,2006-08-06,1st,T Duffin,1,,V Sibanda,4,Zimbabwe,Bangladesh,5,Zimbabwe,Harare Sports Club,0,Bangladesh
+3,0.4,0,Syed Rasel,2006-08-06,1st,T Duffin,1,,V Sibanda,4,Zimbabwe,Bangladesh,5,Zimbabwe,Harare Sports Club,0,Bangladesh
+4,0.5,0,Syed Rasel,2006-08-06,1st,T Duffin,1,,V Sibanda,4,Zimbabwe,Bangladesh,5,Zimbabwe,Harare Sports Club,0,Bangladesh
+5,0.6,0,Syed Rasel,2006-08-06,1st,T Duffin,1,,V Sibanda,4,Zimbabwe,Bangladesh,6,Zimbabwe,Harare Sports Club,0,Bangladesh
+6,1.1,1,Farhad Reza,2006-08-06,1st,T Duffin,1,,V Sibanda,5,Zimbabwe,Bangladesh,7,Zimbabwe,Harare Sports Club,0,Bangladesh
+7,1.2,4,Farhad Reza,2006-08-06,1st,V Sibanda,5,,T Duffin,5,Zimbabwe,Bangladesh,11,Zimbabwe,Harare Sports Club,0,Bangladesh
+8,1.3,1,Farhad Reza,2006-08-06,1st,V Sibanda,5,,T Duffin,6,Zimbabwe,Bangladesh,12,Zimbabwe,Harare Sports Club,0,Bangladesh
+9,1.4,0,Farhad Reza,2006-08-06,1st,T Duffin,6,,V Sibanda,5,Zimbabwe,Bangladesh,12,Zimbabwe,Harare Sports Club,0,Bangladesh
+10,1.5,4,Farhad Reza,2006-08-06,1st,T Duffin,6,,V Sibanda,9,Zimbabwe,Bangladesh,16,Zimbabwe,Harare Sports Club,0,Bangladesh
+11,1.6,1,Farhad Reza,2006-08-06,1st,T Duffin,6,,V Sibanda,10,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+12,2.1,0,Syed Rasel,2006-08-06,1st,T Duffin,6,,V Sibanda,10,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+13,2.2,0,Syed Rasel,2006-08-06,1st,T Duffin,6,,V Sibanda,10,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+14,2.3,0,Syed Rasel,2006-08-06,1st,T Duffin,6,,V Sibanda,10,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+15,2.4,0,Syed Rasel,2006-08-06,1st,T Duffin,6,,V Sibanda,10,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+16,2.5,0,Syed Rasel,2006-08-06,1st,T Duffin,6,,V Sibanda,10,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+17,2.6,0,Syed Rasel,2006-08-06,1st,T Duffin,6,,V Sibanda,10,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+18,3.1,0,Farhad Reza,2006-08-06,1st,V Sibanda,10,,T Duffin,6,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+19,3.2,0,Farhad Reza,2006-08-06,1st,V Sibanda,10,,T Duffin,6,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+20,3.3,0,Farhad Reza,2006-08-06,1st,V Sibanda,10,,T Duffin,6,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+21,3.4,0,Farhad Reza,2006-08-06,1st,V Sibanda,10,,T Duffin,6,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+22,3.5,1,Farhad Reza,2006-08-06,1st,V Sibanda,10,,T Duffin,7,Zimbabwe,Bangladesh,19,Zimbabwe,Harare Sports Club,0,Bangladesh
+23,3.6,4,Farhad Reza,2006-08-06,1st,T Duffin,7,,V Sibanda,14,Zimbabwe,Bangladesh,23,Zimbabwe,Harare Sports Club,0,Bangladesh
+24,3.7,0,Farhad Reza,2006-08-06,1st,T Duffin,7,,V Sibanda,14,Zimbabwe,Bangladesh,23,Zimbabwe,Harare Sports Club,0,Bangladesh
+25,4.1,0,Syed Rasel,2006-08-06,1st,V Sibanda,14,,T Duffin,7,Zimbabwe,Bangladesh,23,Zimbabwe,Harare Sports Club,0,Bangladesh
+26,4.2,0,Syed Rasel,2006-08-06,1st,V Sibanda,14,,T Duffin,7,Zimbabwe,Bangladesh,23,Zimbabwe,Harare Sports Club,0,Bangladesh
+27,4.3,1,Syed Rasel,2006-08-06,1st,V Sibanda,14,,T Duffin,8,Zimbabwe,Bangladesh,24,Zimbabwe,Harare Sports Club,0,Bangladesh
+28,4.4,1,Syed Rasel,2006-08-06,1st,T Duffin,8,,V Sibanda,15,Zimbabwe,Bangladesh,25,Zimbabwe,Harare Sports Club,0,Bangladesh
+29,4.5,3,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,11,Zimbabwe,Bangladesh,28,Zimbabwe,Harare Sports Club,0,Bangladesh
+30,4.6,0,Syed Rasel,2006-08-06,1st,T Duffin,11,,V Sibanda,15,Zimbabwe,Bangladesh,28,Zimbabwe,Harare Sports Club,0,Bangladesh
+31,5.1,0,Farhad Reza,2006-08-06,1st,V Sibanda,15,,T Duffin,11,Zimbabwe,Bangladesh,28,Zimbabwe,Harare Sports Club,0,Bangladesh
+32,5.2,0,Farhad Reza,2006-08-06,1st,V Sibanda,15,,T Duffin,11,Zimbabwe,Bangladesh,28,Zimbabwe,Harare Sports Club,0,Bangladesh
+33,5.3,0,Farhad Reza,2006-08-06,1st,V Sibanda,15,,T Duffin,11,Zimbabwe,Bangladesh,28,Zimbabwe,Harare Sports Club,0,Bangladesh
+34,5.4,1,Farhad Reza,2006-08-06,1st,V Sibanda,15,,T Duffin,12,Zimbabwe,Bangladesh,29,Zimbabwe,Harare Sports Club,0,Bangladesh
+35,5.5,0,Farhad Reza,2006-08-06,1st,T Duffin,12,,V Sibanda,15,Zimbabwe,Bangladesh,29,Zimbabwe,Harare Sports Club,0,Bangladesh
+36,5.6,0,Farhad Reza,2006-08-06,1st,T Duffin,12,,V Sibanda,15,Zimbabwe,Bangladesh,29,Zimbabwe,Harare Sports Club,0,Bangladesh
+37,6.1,0,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,12,Zimbabwe,Bangladesh,29,Zimbabwe,Harare Sports Club,0,Bangladesh
+38,6.2,0,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,12,Zimbabwe,Bangladesh,30,Zimbabwe,Harare Sports Club,0,Bangladesh
+39,6.3,0,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,12,Zimbabwe,Bangladesh,30,Zimbabwe,Harare Sports Club,0,Bangladesh
+40,6.4,4,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,16,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+41,6.5,0,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,16,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+42,6.6,0,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,16,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+43,6.7,0,Syed Rasel,2006-08-06,1st,V Sibanda,15,,T Duffin,16,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+44,7.1,0,Farhad Reza,2006-08-06,1st,T Duffin,16,,V Sibanda,15,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+45,7.2,0,Farhad Reza,2006-08-06,1st,T Duffin,16,,V Sibanda,15,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+46,7.3,0,Farhad Reza,2006-08-06,1st,T Duffin,16,,V Sibanda,15,Zimbabwe,Bangladesh,35,Zimbabwe,Harare Sports Club,0,Bangladesh
+47,7.4,0,Farhad Reza,2006-08-06,1st,V Sibanda,15,,T Duffin,16,Zimbabwe,Bangladesh,35,Zimbabwe,Harare Sports Club,0,Bangladesh
+48,7.5,4,Farhad Reza,2006-08-06,1st,V Sibanda,15,,T Duffin,20,Zimbabwe,Bangladesh,39,Zimbabwe,Harare Sports Club,0,Bangladesh
+49,7.6,4,Farhad Reza,2006-08-06,1st,V Sibanda,15,,T Duffin,24,Zimbabwe,Bangladesh,43,Zimbabwe,Harare Sports Club,0,Bangladesh
+50,8.1,2,Syed Rasel,2006-08-06,1st,T Duffin,24,,V Sibanda,17,Zimbabwe,Bangladesh,45,Zimbabwe,Harare Sports Club,0,Bangladesh
+51,8.2,0,Syed Rasel,2006-08-06,1st,T Duffin,24,V Sibanda,V Sibanda,17,Zimbabwe,Bangladesh,45,Zimbabwe,Harare Sports Club,1,Bangladesh
+52,8.3,0,Syed Rasel,2006-08-06,1st,T Duffin,24,,H Masakadza,0,Zimbabwe,Bangladesh,46,Zimbabwe,Harare Sports Club,1,Bangladesh
+53,8.4,0,Syed Rasel,2006-08-06,1st,T Duffin,24,,H Masakadza,0,Zimbabwe,Bangladesh,46,Zimbabwe,Harare Sports Club,1,Bangladesh
+54,8.5,0,Syed Rasel,2006-08-06,1st,T Duffin,24,,H Masakadza,0,Zimbabwe,Bangladesh,46,Zimbabwe,Harare Sports Club,1,Bangladesh
+55,8.6,4,Syed Rasel,2006-08-06,1st,T Duffin,24,,H Masakadza,4,Zimbabwe,Bangladesh,50,Zimbabwe,Harare Sports Club,1,Bangladesh
+56,8.7,1,Syed Rasel,2006-08-06,1st,T Duffin,24,,H Masakadza,5,Zimbabwe,Bangladesh,51,Zimbabwe,Harare Sports Club,1,Bangladesh
+57,9.1,0,Farhad Reza,2006-08-06,1st,T Duffin,24,,H Masakadza,5,Zimbabwe,Bangladesh,51,Zimbabwe,Harare Sports Club,1,Bangladesh
+58,9.2,0,Farhad Reza,2006-08-06,1st,T Duffin,24,,H Masakadza,5,Zimbabwe,Bangladesh,51,Zimbabwe,Harare Sports Club,1,Bangladesh
+59,9.3,1,Farhad Reza,2006-08-06,1st,T Duffin,24,,H Masakadza,6,Zimbabwe,Bangladesh,52,Zimbabwe,Harare Sports Club,1,Bangladesh
+60,9.4,0,Farhad Reza,2006-08-06,1st,H Masakadza,6,,T Duffin,24,Zimbabwe,Bangladesh,52,Zimbabwe,Harare Sports Club,1,Bangladesh
+61,9.5,1,Farhad Reza,2006-08-06,1st,H Masakadza,6,,T Duffin,25,Zimbabwe,Bangladesh,53,Zimbabwe,Harare Sports Club,1,Bangladesh
+62,9.6,0,Farhad Reza,2006-08-06,1st,T Duffin,25,,H Masakadza,6,Zimbabwe,Bangladesh,53,Zimbabwe,Harare Sports Club,1,Bangladesh
+63,10.1,0,Syed Rasel,2006-08-06,1st,H Masakadza,6,,T Duffin,25,Zimbabwe,Bangladesh,53,Zimbabwe,Harare Sports Club,1,Bangladesh
+64,10.2,4,Syed Rasel,2006-08-06,1st,H Masakadza,6,,T Duffin,29,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,1,Bangladesh
+65,10.3,0,Syed Rasel,2006-08-06,1st,H Masakadza,6,,T Duffin,29,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,1,Bangladesh
+66,10.4,1,Syed Rasel,2006-08-06,1st,H Masakadza,6,,T Duffin,30,Zimbabwe,Bangladesh,58,Zimbabwe,Harare Sports Club,1,Bangladesh
+67,10.5,0,Syed Rasel,2006-08-06,1st,T Duffin,30,,H Masakadza,6,Zimbabwe,Bangladesh,58,Zimbabwe,Harare Sports Club,1,Bangladesh
+68,10.6,1,Syed Rasel,2006-08-06,1st,T Duffin,30,,H Masakadza,7,Zimbabwe,Bangladesh,59,Zimbabwe,Harare Sports Club,1,Bangladesh
+69,11.1,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,7,Zimbabwe,Bangladesh,59,Zimbabwe,Harare Sports Club,1,Bangladesh
+70,11.2,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,7,Zimbabwe,Bangladesh,59,Zimbabwe,Harare Sports Club,1,Bangladesh
+71,11.3,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,7,Zimbabwe,Bangladesh,59,Zimbabwe,Harare Sports Club,1,Bangladesh
+72,11.4,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,7,Zimbabwe,Bangladesh,59,Zimbabwe,Harare Sports Club,1,Bangladesh
+73,11.5,1,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,8,Zimbabwe,Bangladesh,60,Zimbabwe,Harare Sports Club,1,Bangladesh
+74,11.6,0,Abdur Razzak,2006-08-06,1st,H Masakadza,8,,T Duffin,30,Zimbabwe,Bangladesh,60,Zimbabwe,Harare Sports Club,1,Bangladesh
+75,12.1,0,Syed Rasel,2006-08-06,1st,T Duffin,30,,H Masakadza,8,Zimbabwe,Bangladesh,60,Zimbabwe,Harare Sports Club,1,Bangladesh
+76,12.2,1,Syed Rasel,2006-08-06,1st,T Duffin,30,,H Masakadza,9,Zimbabwe,Bangladesh,61,Zimbabwe,Harare Sports Club,1,Bangladesh
+77,12.3,0,Syed Rasel,2006-08-06,1st,H Masakadza,9,,T Duffin,30,Zimbabwe,Bangladesh,61,Zimbabwe,Harare Sports Club,1,Bangladesh
+78,12.4,0,Syed Rasel,2006-08-06,1st,H Masakadza,9,,T Duffin,30,Zimbabwe,Bangladesh,61,Zimbabwe,Harare Sports Club,1,Bangladesh
+79,12.5,0,Syed Rasel,2006-08-06,1st,H Masakadza,9,,T Duffin,30,Zimbabwe,Bangladesh,61,Zimbabwe,Harare Sports Club,1,Bangladesh
+80,12.6,0,Syed Rasel,2006-08-06,1st,H Masakadza,9,,T Duffin,30,Zimbabwe,Bangladesh,61,Zimbabwe,Harare Sports Club,1,Bangladesh
+81,13.1,2,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,11,Zimbabwe,Bangladesh,63,Zimbabwe,Harare Sports Club,1,Bangladesh
+82,13.2,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,11,Zimbabwe,Bangladesh,63,Zimbabwe,Harare Sports Club,1,Bangladesh
+83,13.3,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,11,Zimbabwe,Bangladesh,63,Zimbabwe,Harare Sports Club,1,Bangladesh
+84,13.4,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,11,Zimbabwe,Bangladesh,63,Zimbabwe,Harare Sports Club,1,Bangladesh
+85,13.5,2,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,13,Zimbabwe,Bangladesh,65,Zimbabwe,Harare Sports Club,1,Bangladesh
+86,13.6,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,13,Zimbabwe,Bangladesh,66,Zimbabwe,Harare Sports Club,1,Bangladesh
+87,13.7,0,Abdur Razzak,2006-08-06,1st,T Duffin,30,,H Masakadza,13,Zimbabwe,Bangladesh,66,Zimbabwe,Harare Sports Club,1,Bangladesh
+88,14.1,4,Syed Rasel,2006-08-06,1st,H Masakadza,13,,T Duffin,34,Zimbabwe,Bangladesh,70,Zimbabwe,Harare Sports Club,1,Bangladesh
+89,14.2,0,Syed Rasel,2006-08-06,1st,H Masakadza,13,,T Duffin,34,Zimbabwe,Bangladesh,70,Zimbabwe,Harare Sports Club,1,Bangladesh
+90,14.3,0,Syed Rasel,2006-08-06,1st,H Masakadza,13,,T Duffin,34,Zimbabwe,Bangladesh,70,Zimbabwe,Harare Sports Club,1,Bangladesh
+91,14.4,0,Syed Rasel,2006-08-06,1st,H Masakadza,13,,T Duffin,34,Zimbabwe,Bangladesh,70,Zimbabwe,Harare Sports Club,1,Bangladesh
+92,14.5,4,Syed Rasel,2006-08-06,1st,H Masakadza,13,,T Duffin,38,Zimbabwe,Bangladesh,74,Zimbabwe,Harare Sports Club,1,Bangladesh
+93,14.6,0,Syed Rasel,2006-08-06,1st,H Masakadza,13,,T Duffin,38,Zimbabwe,Bangladesh,74,Zimbabwe,Harare Sports Club,1,Bangladesh
+94,15.1,0,Abdur Razzak,2006-08-06,1st,T Duffin,38,,H Masakadza,13,Zimbabwe,Bangladesh,74,Zimbabwe,Harare Sports Club,1,Bangladesh
+95,15.2,0,Abdur Razzak,2006-08-06,1st,T Duffin,38,,H Masakadza,13,Zimbabwe,Bangladesh,74,Zimbabwe,Harare Sports Club,1,Bangladesh
+96,15.3,0,Abdur Razzak,2006-08-06,1st,T Duffin,38,,H Masakadza,13,Zimbabwe,Bangladesh,74,Zimbabwe,Harare Sports Club,1,Bangladesh
+97,15.4,0,Abdur Razzak,2006-08-06,1st,T Duffin,38,,H Masakadza,13,Zimbabwe,Bangladesh,74,Zimbabwe,Harare Sports Club,1,Bangladesh
+98,15.5,1,Abdur Razzak,2006-08-06,1st,T Duffin,38,,H Masakadza,14,Zimbabwe,Bangladesh,75,Zimbabwe,Harare Sports Club,1,Bangladesh
+99,15.6,1,Abdur Razzak,2006-08-06,1st,H Masakadza,14,,T Duffin,39,Zimbabwe,Bangladesh,76,Zimbabwe,Harare Sports Club,1,Bangladesh
+100,16.1,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,14,,T Duffin,40,Zimbabwe,Bangladesh,77,Zimbabwe,Harare Sports Club,1,Bangladesh
+101,16.2,0,Mohammad Rafique,2006-08-06,1st,T Duffin,40,,H Masakadza,14,Zimbabwe,Bangladesh,77,Zimbabwe,Harare Sports Club,1,Bangladesh
+102,16.3,0,Mohammad Rafique,2006-08-06,1st,T Duffin,40,,H Masakadza,14,Zimbabwe,Bangladesh,77,Zimbabwe,Harare Sports Club,1,Bangladesh
+103,16.4,2,Mohammad Rafique,2006-08-06,1st,T Duffin,40,,H Masakadza,16,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,1,Bangladesh
+104,16.5,0,Mohammad Rafique,2006-08-06,1st,T Duffin,40,,H Masakadza,16,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,1,Bangladesh
+105,16.6,0,Mohammad Rafique,2006-08-06,1st,T Duffin,40,,H Masakadza,16,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,1,Bangladesh
+106,17.1,0,Abdur Razzak,2006-08-06,1st,H Masakadza,16,,T Duffin,40,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,1,Bangladesh
+107,17.2,0,Abdur Razzak,2006-08-06,1st,H Masakadza,16,,T Duffin,40,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,1,Bangladesh
+108,17.3,0,Abdur Razzak,2006-08-06,1st,H Masakadza,16,,T Duffin,40,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,1,Bangladesh
+109,17.4,0,Abdur Razzak,2006-08-06,1st,H Masakadza,16,T Duffin,T Duffin,40,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,2,Bangladesh
+110,17.5,0,Abdur Razzak,2006-08-06,1st,H Masakadza,16,,BRM Taylor,0,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,2,Bangladesh
+111,17.6,0,Abdur Razzak,2006-08-06,1st,H Masakadza,16,,BRM Taylor,0,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,2,Bangladesh
+112,18.1,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,0,,H Masakadza,16,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,2,Bangladesh
+113,18.2,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,0,,H Masakadza,16,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,2,Bangladesh
+114,18.3,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,0,,H Masakadza,17,Zimbabwe,Bangladesh,80,Zimbabwe,Harare Sports Club,2,Bangladesh
+115,18.4,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,17,,BRM Taylor,0,Zimbabwe,Bangladesh,80,Zimbabwe,Harare Sports Club,2,Bangladesh
+116,18.5,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,17,,BRM Taylor,1,Zimbabwe,Bangladesh,81,Zimbabwe,Harare Sports Club,2,Bangladesh
+117,18.6,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,1,,H Masakadza,17,Zimbabwe,Bangladesh,84,Zimbabwe,Harare Sports Club,2,Bangladesh
+118,19.1,0,Abdur Razzak,2006-08-06,1st,BRM Taylor,1,,H Masakadza,17,Zimbabwe,Bangladesh,84,Zimbabwe,Harare Sports Club,2,Bangladesh
+119,19.2,0,Abdur Razzak,2006-08-06,1st,BRM Taylor,1,,H Masakadza,17,Zimbabwe,Bangladesh,84,Zimbabwe,Harare Sports Club,2,Bangladesh
+120,19.3,2,Abdur Razzak,2006-08-06,1st,BRM Taylor,1,,H Masakadza,19,Zimbabwe,Bangladesh,86,Zimbabwe,Harare Sports Club,2,Bangladesh
+121,19.4,0,Abdur Razzak,2006-08-06,1st,BRM Taylor,1,,H Masakadza,19,Zimbabwe,Bangladesh,87,Zimbabwe,Harare Sports Club,2,Bangladesh
+122,19.5,0,Abdur Razzak,2006-08-06,1st,H Masakadza,19,,BRM Taylor,1,Zimbabwe,Bangladesh,87,Zimbabwe,Harare Sports Club,2,Bangladesh
+123,19.6,0,Abdur Razzak,2006-08-06,1st,H Masakadza,19,,BRM Taylor,1,Zimbabwe,Bangladesh,87,Zimbabwe,Harare Sports Club,2,Bangladesh
+124,20.1,6,Mohammad Rafique,2006-08-06,1st,BRM Taylor,1,,H Masakadza,25,Zimbabwe,Bangladesh,93,Zimbabwe,Harare Sports Club,2,Bangladesh
+125,20.2,6,Mohammad Rafique,2006-08-06,1st,BRM Taylor,1,,H Masakadza,31,Zimbabwe,Bangladesh,99,Zimbabwe,Harare Sports Club,2,Bangladesh
+126,20.3,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,1,,H Masakadza,32,Zimbabwe,Bangladesh,100,Zimbabwe,Harare Sports Club,2,Bangladesh
+127,20.4,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,32,,BRM Taylor,1,Zimbabwe,Bangladesh,100,Zimbabwe,Harare Sports Club,2,Bangladesh
+128,20.5,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,32,,BRM Taylor,1,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,2,Bangladesh
+129,20.6,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,1,,H Masakadza,32,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,2,Bangladesh
+130,21.1,0,Abdur Razzak,2006-08-06,1st,H Masakadza,32,,BRM Taylor,1,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,2,Bangladesh
+131,21.2,0,Abdur Razzak,2006-08-06,1st,H Masakadza,32,,BRM Taylor,1,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,2,Bangladesh
+132,21.3,1,Abdur Razzak,2006-08-06,1st,H Masakadza,32,,BRM Taylor,2,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+133,21.4,0,Abdur Razzak,2006-08-06,1st,BRM Taylor,2,,H Masakadza,32,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+134,21.5,0,Abdur Razzak,2006-08-06,1st,BRM Taylor,2,,H Masakadza,32,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+135,21.6,0,Abdur Razzak,2006-08-06,1st,BRM Taylor,2,,H Masakadza,32,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+136,22.1,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,32,,BRM Taylor,2,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+137,22.2,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,32,,BRM Taylor,2,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+138,22.3,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,32,,BRM Taylor,2,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+139,22.4,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,32,,BRM Taylor,2,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,2,Bangladesh
+140,22.5,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,32,,BRM Taylor,3,Zimbabwe,Bangladesh,103,Zimbabwe,Harare Sports Club,2,Bangladesh
+141,22.6,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,3,,H Masakadza,33,Zimbabwe,Bangladesh,104,Zimbabwe,Harare Sports Club,2,Bangladesh
+142,23.1,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,3,,H Masakadza,33,Zimbabwe,Bangladesh,104,Zimbabwe,Harare Sports Club,2,Bangladesh
+143,23.2,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,3,,H Masakadza,34,Zimbabwe,Bangladesh,105,Zimbabwe,Harare Sports Club,2,Bangladesh
+144,23.3,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,34,,BRM Taylor,3,Zimbabwe,Bangladesh,105,Zimbabwe,Harare Sports Club,2,Bangladesh
+145,23.4,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,34,,BRM Taylor,3,Zimbabwe,Bangladesh,105,Zimbabwe,Harare Sports Club,2,Bangladesh
+146,23.5,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,34,,BRM Taylor,3,Zimbabwe,Bangladesh,105,Zimbabwe,Harare Sports Club,2,Bangladesh
+147,23.6,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,34,,BRM Taylor,4,Zimbabwe,Bangladesh,106,Zimbabwe,Harare Sports Club,2,Bangladesh
+148,24.1,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,34,,BRM Taylor,4,Zimbabwe,Bangladesh,106,Zimbabwe,Harare Sports Club,2,Bangladesh
+149,24.2,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,34,,BRM Taylor,4,Zimbabwe,Bangladesh,106,Zimbabwe,Harare Sports Club,2,Bangladesh
+150,24.3,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,34,,BRM Taylor,4,Zimbabwe,Bangladesh,106,Zimbabwe,Harare Sports Club,2,Bangladesh
+151,24.4,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,34,,BRM Taylor,5,Zimbabwe,Bangladesh,107,Zimbabwe,Harare Sports Club,2,Bangladesh
+152,24.5,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,5,,H Masakadza,35,Zimbabwe,Bangladesh,108,Zimbabwe,Harare Sports Club,2,Bangladesh
+153,24.6,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,35,,BRM Taylor,5,Zimbabwe,Bangladesh,108,Zimbabwe,Harare Sports Club,2,Bangladesh
+154,25.1,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,5,,H Masakadza,35,Zimbabwe,Bangladesh,108,Zimbabwe,Harare Sports Club,2,Bangladesh
+155,25.2,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,5,,H Masakadza,36,Zimbabwe,Bangladesh,109,Zimbabwe,Harare Sports Club,2,Bangladesh
+156,25.3,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,36,,BRM Taylor,5,Zimbabwe,Bangladesh,109,Zimbabwe,Harare Sports Club,2,Bangladesh
+157,25.4,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,36,,BRM Taylor,5,Zimbabwe,Bangladesh,109,Zimbabwe,Harare Sports Club,2,Bangladesh
+158,25.5,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,36,,BRM Taylor,6,Zimbabwe,Bangladesh,110,Zimbabwe,Harare Sports Club,2,Bangladesh
+159,25.6,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,6,,H Masakadza,37,Zimbabwe,Bangladesh,111,Zimbabwe,Harare Sports Club,2,Bangladesh
+160,26.1,2,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,6,,H Masakadza,39,Zimbabwe,Bangladesh,113,Zimbabwe,Harare Sports Club,2,Bangladesh
+161,26.2,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,6,,H Masakadza,40,Zimbabwe,Bangladesh,114,Zimbabwe,Harare Sports Club,2,Bangladesh
+162,26.3,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,40,,BRM Taylor,7,Zimbabwe,Bangladesh,115,Zimbabwe,Harare Sports Club,2,Bangladesh
+163,26.4,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,7,,H Masakadza,40,Zimbabwe,Bangladesh,115,Zimbabwe,Harare Sports Club,2,Bangladesh
+164,26.5,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,7,,H Masakadza,40,Zimbabwe,Bangladesh,115,Zimbabwe,Harare Sports Club,2,Bangladesh
+165,26.6,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,7,,H Masakadza,41,Zimbabwe,Bangladesh,116,Zimbabwe,Harare Sports Club,2,Bangladesh
+166,27.1,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,7,,H Masakadza,41,Zimbabwe,Bangladesh,116,Zimbabwe,Harare Sports Club,2,Bangladesh
+167,27.2,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,7,,H Masakadza,41,Zimbabwe,Bangladesh,116,Zimbabwe,Harare Sports Club,2,Bangladesh
+168,27.3,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,7,,H Masakadza,41,Zimbabwe,Bangladesh,116,Zimbabwe,Harare Sports Club,2,Bangladesh
+169,27.4,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,7,,H Masakadza,42,Zimbabwe,Bangladesh,117,Zimbabwe,Harare Sports Club,2,Bangladesh
+170,27.5,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,42,,BRM Taylor,7,Zimbabwe,Bangladesh,117,Zimbabwe,Harare Sports Club,2,Bangladesh
+171,27.6,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,42,,BRM Taylor,7,Zimbabwe,Bangladesh,117,Zimbabwe,Harare Sports Club,2,Bangladesh
+172,28.1,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,7,,H Masakadza,43,Zimbabwe,Bangladesh,118,Zimbabwe,Harare Sports Club,2,Bangladesh
+173,28.2,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,43,,BRM Taylor,7,Zimbabwe,Bangladesh,118,Zimbabwe,Harare Sports Club,2,Bangladesh
+174,28.3,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,43,,BRM Taylor,7,Zimbabwe,Bangladesh,118,Zimbabwe,Harare Sports Club,2,Bangladesh
+175,28.4,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,43,,BRM Taylor,8,Zimbabwe,Bangladesh,119,Zimbabwe,Harare Sports Club,2,Bangladesh
+176,28.5,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,8,,H Masakadza,44,Zimbabwe,Bangladesh,120,Zimbabwe,Harare Sports Club,2,Bangladesh
+177,28.6,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,121,Zimbabwe,Harare Sports Club,2,Bangladesh
+178,29.1,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,121,Zimbabwe,Harare Sports Club,2,Bangladesh
+179,29.2,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,121,Zimbabwe,Harare Sports Club,2,Bangladesh
+180,29.3,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,121,Zimbabwe,Harare Sports Club,2,Bangladesh
+181,29.4,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,121,Zimbabwe,Harare Sports Club,2,Bangladesh
+182,29.5,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,121,Zimbabwe,Harare Sports Club,2,Bangladesh
+183,29.6,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,122,Zimbabwe,Harare Sports Club,2,Bangladesh
+184,30.1,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,44,,BRM Taylor,9,Zimbabwe,Bangladesh,122,Zimbabwe,Harare Sports Club,2,Bangladesh
+185,30.2,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,44,,BRM Taylor,10,Zimbabwe,Bangladesh,123,Zimbabwe,Harare Sports Club,2,Bangladesh
+186,30.3,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,10,,H Masakadza,45,Zimbabwe,Bangladesh,124,Zimbabwe,Harare Sports Club,2,Bangladesh
+187,30.4,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,45,,BRM Taylor,10,Zimbabwe,Bangladesh,124,Zimbabwe,Harare Sports Club,2,Bangladesh
+188,30.5,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,45,,BRM Taylor,11,Zimbabwe,Bangladesh,125,Zimbabwe,Harare Sports Club,2,Bangladesh
+189,30.6,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,11,,H Masakadza,45,Zimbabwe,Bangladesh,125,Zimbabwe,Harare Sports Club,2,Bangladesh
+190,31.1,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,45,,BRM Taylor,12,Zimbabwe,Bangladesh,126,Zimbabwe,Harare Sports Club,2,Bangladesh
+191,31.2,0,Mohammad Rafique,2006-08-06,1st,BRM Taylor,12,,H Masakadza,45,Zimbabwe,Bangladesh,126,Zimbabwe,Harare Sports Club,2,Bangladesh
+192,31.3,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,12,,H Masakadza,46,Zimbabwe,Bangladesh,127,Zimbabwe,Harare Sports Club,2,Bangladesh
+193,31.4,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,46,,BRM Taylor,13,Zimbabwe,Bangladesh,128,Zimbabwe,Harare Sports Club,2,Bangladesh
+194,31.5,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,13,,H Masakadza,47,Zimbabwe,Bangladesh,129,Zimbabwe,Harare Sports Club,2,Bangladesh
+195,31.6,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,47,,BRM Taylor,13,Zimbabwe,Bangladesh,129,Zimbabwe,Harare Sports Club,2,Bangladesh
+196,32.1,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,13,,H Masakadza,47,Zimbabwe,Bangladesh,129,Zimbabwe,Harare Sports Club,2,Bangladesh
+197,32.2,2,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,13,,H Masakadza,49,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+198,32.3,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,13,,H Masakadza,49,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+199,32.4,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,13,,H Masakadza,49,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+200,32.5,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,13,,H Masakadza,49,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+201,32.6,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,13,,H Masakadza,50,Zimbabwe,Bangladesh,132,Zimbabwe,Harare Sports Club,2,Bangladesh
+202,33.1,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,13,,H Masakadza,51,Zimbabwe,Bangladesh,133,Zimbabwe,Harare Sports Club,2,Bangladesh
+203,33.2,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,51,,BRM Taylor,14,Zimbabwe,Bangladesh,134,Zimbabwe,Harare Sports Club,2,Bangladesh
+204,33.3,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,14,,H Masakadza,52,Zimbabwe,Bangladesh,135,Zimbabwe,Harare Sports Club,2,Bangladesh
+205,33.4,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,52,,BRM Taylor,14,Zimbabwe,Bangladesh,135,Zimbabwe,Harare Sports Club,2,Bangladesh
+206,33.5,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,52,,BRM Taylor,15,Zimbabwe,Bangladesh,136,Zimbabwe,Harare Sports Club,2,Bangladesh
+207,33.6,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,15,,H Masakadza,53,Zimbabwe,Bangladesh,137,Zimbabwe,Harare Sports Club,2,Bangladesh
+208,34.1,2,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,15,,H Masakadza,55,Zimbabwe,Bangladesh,139,Zimbabwe,Harare Sports Club,2,Bangladesh
+209,34.2,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,15,,H Masakadza,56,Zimbabwe,Bangladesh,140,Zimbabwe,Harare Sports Club,2,Bangladesh
+210,34.3,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,56,,BRM Taylor,15,Zimbabwe,Bangladesh,140,Zimbabwe,Harare Sports Club,2,Bangladesh
+211,34.4,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,56,,BRM Taylor,15,Zimbabwe,Bangladesh,140,Zimbabwe,Harare Sports Club,2,Bangladesh
+212,34.5,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,56,,BRM Taylor,15,Zimbabwe,Bangladesh,140,Zimbabwe,Harare Sports Club,2,Bangladesh
+213,34.6,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,56,,BRM Taylor,16,Zimbabwe,Bangladesh,141,Zimbabwe,Harare Sports Club,2,Bangladesh
+214,35.1,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,56,,BRM Taylor,16,Zimbabwe,Bangladesh,141,Zimbabwe,Harare Sports Club,2,Bangladesh
+215,35.2,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,56,,BRM Taylor,16,Zimbabwe,Bangladesh,141,Zimbabwe,Harare Sports Club,2,Bangladesh
+216,35.3,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,56,,BRM Taylor,16,Zimbabwe,Bangladesh,141,Zimbabwe,Harare Sports Club,2,Bangladesh
+217,35.4,0,Mohammad Rafique,2006-08-06,1st,H Masakadza,56,,BRM Taylor,16,Zimbabwe,Bangladesh,141,Zimbabwe,Harare Sports Club,2,Bangladesh
+218,35.5,1,Mohammad Rafique,2006-08-06,1st,H Masakadza,56,,BRM Taylor,17,Zimbabwe,Bangladesh,142,Zimbabwe,Harare Sports Club,2,Bangladesh
+219,35.6,1,Mohammad Rafique,2006-08-06,1st,BRM Taylor,17,,H Masakadza,57,Zimbabwe,Bangladesh,143,Zimbabwe,Harare Sports Club,2,Bangladesh
+220,36.1,2,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,17,,H Masakadza,59,Zimbabwe,Bangladesh,145,Zimbabwe,Harare Sports Club,2,Bangladesh
+221,36.2,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,17,,H Masakadza,60,Zimbabwe,Bangladesh,146,Zimbabwe,Harare Sports Club,2,Bangladesh
+222,36.3,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,60,,BRM Taylor,17,Zimbabwe,Bangladesh,146,Zimbabwe,Harare Sports Club,2,Bangladesh
+223,36.4,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,60,,BRM Taylor,18,Zimbabwe,Bangladesh,147,Zimbabwe,Harare Sports Club,2,Bangladesh
+224,36.5,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,18,,H Masakadza,61,Zimbabwe,Bangladesh,148,Zimbabwe,Harare Sports Club,2,Bangladesh
+225,36.6,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,61,,BRM Taylor,19,Zimbabwe,Bangladesh,149,Zimbabwe,Harare Sports Club,2,Bangladesh
+226,37.1,0,Abdur Razzak,2006-08-06,1st,H Masakadza,61,,BRM Taylor,19,Zimbabwe,Bangladesh,149,Zimbabwe,Harare Sports Club,2,Bangladesh
+227,37.2,2,Abdur Razzak,2006-08-06,1st,H Masakadza,61,,BRM Taylor,21,Zimbabwe,Bangladesh,151,Zimbabwe,Harare Sports Club,2,Bangladesh
+228,37.3,2,Abdur Razzak,2006-08-06,1st,H Masakadza,61,,BRM Taylor,23,Zimbabwe,Bangladesh,153,Zimbabwe,Harare Sports Club,2,Bangladesh
+229,37.4,0,Abdur Razzak,2006-08-06,1st,H Masakadza,61,,BRM Taylor,23,Zimbabwe,Bangladesh,153,Zimbabwe,Harare Sports Club,2,Bangladesh
+230,37.5,0,Abdur Razzak,2006-08-06,1st,H Masakadza,61,,BRM Taylor,23,Zimbabwe,Bangladesh,153,Zimbabwe,Harare Sports Club,2,Bangladesh
+231,37.6,0,Abdur Razzak,2006-08-06,1st,H Masakadza,61,,BRM Taylor,23,Zimbabwe,Bangladesh,153,Zimbabwe,Harare Sports Club,2,Bangladesh
+232,38.1,4,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,23,,H Masakadza,65,Zimbabwe,Bangladesh,157,Zimbabwe,Harare Sports Club,2,Bangladesh
+233,38.2,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,23,,H Masakadza,65,Zimbabwe,Bangladesh,157,Zimbabwe,Harare Sports Club,2,Bangladesh
+234,38.3,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,23,,H Masakadza,66,Zimbabwe,Bangladesh,158,Zimbabwe,Harare Sports Club,2,Bangladesh
+235,38.4,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,66,,BRM Taylor,24,Zimbabwe,Bangladesh,159,Zimbabwe,Harare Sports Club,2,Bangladesh
+236,38.5,0,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,24,,H Masakadza,66,Zimbabwe,Bangladesh,159,Zimbabwe,Harare Sports Club,2,Bangladesh
+237,38.6,1,Shakib Al Hasan,2006-08-06,1st,BRM Taylor,24,,H Masakadza,67,Zimbabwe,Bangladesh,160,Zimbabwe,Harare Sports Club,2,Bangladesh
+238,39.1,0,Abdur Razzak,2006-08-06,1st,BRM Taylor,24,,H Masakadza,67,Zimbabwe,Bangladesh,160,Zimbabwe,Harare Sports Club,2,Bangladesh
+239,39.2,2,Abdur Razzak,2006-08-06,1st,BRM Taylor,24,,H Masakadza,69,Zimbabwe,Bangladesh,162,Zimbabwe,Harare Sports Club,2,Bangladesh
+240,39.3,2,Abdur Razzak,2006-08-06,1st,BRM Taylor,24,,H Masakadza,71,Zimbabwe,Bangladesh,164,Zimbabwe,Harare Sports Club,2,Bangladesh
+241,39.4,1,Abdur Razzak,2006-08-06,1st,BRM Taylor,24,,H Masakadza,72,Zimbabwe,Bangladesh,165,Zimbabwe,Harare Sports Club,2,Bangladesh
+242,39.5,0,Abdur Razzak,2006-08-06,1st,H Masakadza,72,BRM Taylor,BRM Taylor,24,Zimbabwe,Bangladesh,165,Zimbabwe,Harare Sports Club,3,Bangladesh
+243,39.6,0,Abdur Razzak,2006-08-06,1st,H Masakadza,72,,E Chigumbura,0,Zimbabwe,Bangladesh,165,Zimbabwe,Harare Sports Club,3,Bangladesh
+244,40.1,1,Shakib Al Hasan,2006-08-06,1st,E Chigumbura,0,,H Masakadza,73,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,3,Bangladesh
+245,40.2,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,73,,E Chigumbura,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,3,Bangladesh
+246,40.3,0,Shakib Al Hasan,2006-08-06,1st,H Masakadza,73,E Chigumbura,E Chigumbura,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,4,Bangladesh
+247,40.4,1,Shakib Al Hasan,2006-08-06,1st,H Masakadza,73,,S Matsikenyeri,1,Zimbabwe,Bangladesh,167,Zimbabwe,Harare Sports Club,4,Bangladesh
+248,40.5,0,Shakib Al Hasan,2006-08-06,1st,S Matsikenyeri,1,,H Masakadza,73,Zimbabwe,Bangladesh,167,Zimbabwe,Harare Sports Club,4,Bangladesh
+249,40.6,1,Shakib Al Hasan,2006-08-06,1st,S Matsikenyeri,1,,H Masakadza,74,Zimbabwe,Bangladesh,168,Zimbabwe,Harare Sports Club,4,Bangladesh
+250,41.1,1,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,1,,H Masakadza,75,Zimbabwe,Bangladesh,169,Zimbabwe,Harare Sports Club,4,Bangladesh
+251,41.2,2,Rajin Saleh,2006-08-06,1st,H Masakadza,75,,S Matsikenyeri,3,Zimbabwe,Bangladesh,171,Zimbabwe,Harare Sports Club,4,Bangladesh
+252,41.3,1,Rajin Saleh,2006-08-06,1st,H Masakadza,75,,S Matsikenyeri,4,Zimbabwe,Bangladesh,172,Zimbabwe,Harare Sports Club,4,Bangladesh
+253,41.4,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,4,H Masakadza,H Masakadza,75,Zimbabwe,Bangladesh,172,Zimbabwe,Harare Sports Club,5,Bangladesh
+254,41.5,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,4,,TV Mufambisi,0,Zimbabwe,Bangladesh,174,Zimbabwe,Harare Sports Club,5,Bangladesh
+255,41.6,1,Rajin Saleh,2006-08-06,1st,TV Mufambisi,0,,S Matsikenyeri,5,Zimbabwe,Bangladesh,175,Zimbabwe,Harare Sports Club,5,Bangladesh
+256,41.7,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,5,,TV Mufambisi,0,Zimbabwe,Bangladesh,175,Zimbabwe,Harare Sports Club,5,Bangladesh
+257,42.1,0,Syed Rasel,2006-08-06,1st,TV Mufambisi,0,,S Matsikenyeri,5,Zimbabwe,Bangladesh,175,Zimbabwe,Harare Sports Club,5,Bangladesh
+258,42.2,1,Syed Rasel,2006-08-06,1st,TV Mufambisi,0,,S Matsikenyeri,6,Zimbabwe,Bangladesh,176,Zimbabwe,Harare Sports Club,5,Bangladesh
+259,42.3,1,Syed Rasel,2006-08-06,1st,S Matsikenyeri,6,,TV Mufambisi,1,Zimbabwe,Bangladesh,177,Zimbabwe,Harare Sports Club,5,Bangladesh
+260,42.4,1,Syed Rasel,2006-08-06,1st,TV Mufambisi,1,,S Matsikenyeri,7,Zimbabwe,Bangladesh,178,Zimbabwe,Harare Sports Club,5,Bangladesh
+261,42.5,0,Syed Rasel,2006-08-06,1st,S Matsikenyeri,7,,TV Mufambisi,1,Zimbabwe,Bangladesh,178,Zimbabwe,Harare Sports Club,5,Bangladesh
+262,42.6,0,Syed Rasel,2006-08-06,1st,S Matsikenyeri,7,TV Mufambisi,TV Mufambisi,1,Zimbabwe,Bangladesh,178,Zimbabwe,Harare Sports Club,6,Bangladesh
+263,43.1,1,Rajin Saleh,2006-08-06,1st,P Utseya,0,,S Matsikenyeri,8,Zimbabwe,Bangladesh,179,Zimbabwe,Harare Sports Club,6,Bangladesh
+264,43.2,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,8,,P Utseya,0,Zimbabwe,Bangladesh,179,Zimbabwe,Harare Sports Club,6,Bangladesh
+265,43.3,1,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,8,,P Utseya,1,Zimbabwe,Bangladesh,180,Zimbabwe,Harare Sports Club,6,Bangladesh
+266,43.4,1,Rajin Saleh,2006-08-06,1st,P Utseya,1,,S Matsikenyeri,9,Zimbabwe,Bangladesh,181,Zimbabwe,Harare Sports Club,6,Bangladesh
+267,43.5,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,1,Zimbabwe,Bangladesh,182,Zimbabwe,Harare Sports Club,6,Bangladesh
+268,43.6,0,Rajin Saleh,2006-08-06,1st,P Utseya,1,,S Matsikenyeri,9,Zimbabwe,Bangladesh,182,Zimbabwe,Harare Sports Club,6,Bangladesh
+269,44.1,0,Syed Rasel,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,1,Zimbabwe,Bangladesh,182,Zimbabwe,Harare Sports Club,6,Bangladesh
+270,44.2,0,Syed Rasel,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,1,Zimbabwe,Bangladesh,182,Zimbabwe,Harare Sports Club,6,Bangladesh
+271,44.3,0,Syed Rasel,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,1,Zimbabwe,Bangladesh,182,Zimbabwe,Harare Sports Club,6,Bangladesh
+272,44.4,0,Syed Rasel,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,1,Zimbabwe,Bangladesh,182,Zimbabwe,Harare Sports Club,6,Bangladesh
+273,44.5,4,Syed Rasel,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,5,Zimbabwe,Bangladesh,186,Zimbabwe,Harare Sports Club,6,Bangladesh
+274,44.6,1,Syed Rasel,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,6,Zimbabwe,Bangladesh,187,Zimbabwe,Harare Sports Club,6,Bangladesh
+275,45.1,1,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,9,,P Utseya,7,Zimbabwe,Bangladesh,188,Zimbabwe,Harare Sports Club,6,Bangladesh
+276,45.2,1,Rajin Saleh,2006-08-06,1st,P Utseya,7,,S Matsikenyeri,10,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,6,Bangladesh
+277,45.3,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,10,,P Utseya,7,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,6,Bangladesh
+278,45.4,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,10,,P Utseya,7,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,6,Bangladesh
+279,45.5,0,Rajin Saleh,2006-08-06,1st,S Matsikenyeri,10,P Utseya,P Utseya,7,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,7,Bangladesh
+280,45.6,0,Rajin Saleh,2006-08-06,1st,NB Mahwire,0,S Matsikenyeri,S Matsikenyeri,10,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+281,46.1,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,0,,NB Mahwire,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+282,46.2,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,0,,NB Mahwire,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+283,46.3,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,0,,NB Mahwire,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+284,46.4,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,0,,NB Mahwire,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+285,46.5,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,0,,NB Mahwire,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+286,46.6,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,0,,NB Mahwire,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+287,47.1,0,Rajin Saleh,2006-08-06,1st,NB Mahwire,0,,AJ Ireland,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+288,47.2,0,Rajin Saleh,2006-08-06,1st,NB Mahwire,0,,AJ Ireland,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+289,47.3,0,Rajin Saleh,2006-08-06,1st,NB Mahwire,0,,AJ Ireland,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,8,Bangladesh
+290,47.4,1,Rajin Saleh,2006-08-06,1st,NB Mahwire,0,,AJ Ireland,1,Zimbabwe,Bangladesh,190,Zimbabwe,Harare Sports Club,8,Bangladesh
+291,47.5,1,Rajin Saleh,2006-08-06,1st,AJ Ireland,1,,NB Mahwire,1,Zimbabwe,Bangladesh,191,Zimbabwe,Harare Sports Club,8,Bangladesh
+292,47.6,0,Rajin Saleh,2006-08-06,1st,NB Mahwire,1,,AJ Ireland,1,Zimbabwe,Bangladesh,191,Zimbabwe,Harare Sports Club,8,Bangladesh
+293,48.1,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,1,,NB Mahwire,1,Zimbabwe,Bangladesh,191,Zimbabwe,Harare Sports Club,8,Bangladesh
+294,48.2,2,Abdur Razzak,2006-08-06,1st,AJ Ireland,1,,NB Mahwire,3,Zimbabwe,Bangladesh,193,Zimbabwe,Harare Sports Club,8,Bangladesh
+295,48.3,1,Abdur Razzak,2006-08-06,1st,AJ Ireland,1,,NB Mahwire,4,Zimbabwe,Bangladesh,194,Zimbabwe,Harare Sports Club,8,Bangladesh
+296,48.4,0,Abdur Razzak,2006-08-06,1st,NB Mahwire,4,,AJ Ireland,1,Zimbabwe,Bangladesh,194,Zimbabwe,Harare Sports Club,8,Bangladesh
+297,48.5,1,Abdur Razzak,2006-08-06,1st,NB Mahwire,4,,AJ Ireland,2,Zimbabwe,Bangladesh,195,Zimbabwe,Harare Sports Club,8,Bangladesh
+298,48.6,0,Abdur Razzak,2006-08-06,1st,AJ Ireland,2,,NB Mahwire,4,Zimbabwe,Bangladesh,195,Zimbabwe,Harare Sports Club,8,Bangladesh
+299,49.1,1,Rajin Saleh,2006-08-06,1st,NB Mahwire,4,AJ Ireland,AJ Ireland,3,Zimbabwe,Bangladesh,196,Zimbabwe,Harare Sports Club,9,Bangladesh
+300,49.2,1,Rajin Saleh,2006-08-06,1st,NB Mahwire,4,,EC Rainsford,1,Zimbabwe,Bangladesh,197,Zimbabwe,Harare Sports Club,9,Bangladesh
+301,49.3,0,Rajin Saleh,2006-08-06,1st,EC Rainsford,1,NB Mahwire,NB Mahwire,4,Zimbabwe,Bangladesh,197,Zimbabwe,Harare Sports Club,10,Bangladesh
+302,0.1,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,0,Zimbabwe,Harare Sports Club,0,Bangladesh
+303,0.2,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,0,Zimbabwe,Harare Sports Club,0,Bangladesh
+304,0.3,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,0,Zimbabwe,Harare Sports Club,0,Bangladesh
+305,0.4,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,0,Zimbabwe,Harare Sports Club,0,Bangladesh
+306,0.5,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,0,Zimbabwe,Harare Sports Club,0,Bangladesh
+307,0.6,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,0,Zimbabwe,Harare Sports Club,0,Bangladesh
+308,1.1,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,0,Zimbabwe,Harare Sports Club,0,Bangladesh
+309,1.2,1,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+310,1.3,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+311,1.4,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+312,1.5,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+313,1.6,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+314,2.1,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+315,2.2,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,1,Zimbabwe,Harare Sports Club,0,Bangladesh
+316,2.3,1,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,2,Zimbabwe,Harare Sports Club,0,Bangladesh
+317,2.4,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,2,Zimbabwe,Harare Sports Club,0,Bangladesh
+318,2.5,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,2,Zimbabwe,Harare Sports Club,0,Bangladesh
+319,2.6,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,2,Zimbabwe,Harare Sports Club,0,Bangladesh
+320,3.1,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,2,Zimbabwe,Harare Sports Club,0,Bangladesh
+321,3.2,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,2,Zimbabwe,Harare Sports Club,0,Bangladesh
+322,3.3,4,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,6,Zimbabwe,Harare Sports Club,0,Bangladesh
+323,3.4,1,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,7,Zimbabwe,Harare Sports Club,0,Bangladesh
+324,3.5,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,7,Zimbabwe,Harare Sports Club,0,Bangladesh
+325,3.6,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,7,Zimbabwe,Harare Sports Club,0,Bangladesh
+326,4.1,4,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,11,Zimbabwe,Harare Sports Club,0,Bangladesh
+327,4.2,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,11,Zimbabwe,Harare Sports Club,0,Bangladesh
+328,4.3,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,11,Zimbabwe,Harare Sports Club,0,Bangladesh
+329,4.4,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,11,Zimbabwe,Harare Sports Club,0,Bangladesh
+330,4.5,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,11,Zimbabwe,Harare Sports Club,0,Bangladesh
+331,4.6,2,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,13,Zimbabwe,Harare Sports Club,0,Bangladesh
+332,5.1,4,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,17,Zimbabwe,Harare Sports Club,0,Bangladesh
+333,5.2,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,18,Zimbabwe,Harare Sports Club,0,Bangladesh
+334,5.3,4,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,22,Zimbabwe,Harare Sports Club,0,Bangladesh
+335,5.4,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,22,Zimbabwe,Harare Sports Club,0,Bangladesh
+336,5.5,1,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,23,Zimbabwe,Harare Sports Club,0,Bangladesh
+337,5.6,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,23,Zimbabwe,Harare Sports Club,0,Bangladesh
+338,5.7,1,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,24,Zimbabwe,Harare Sports Club,0,Bangladesh
+339,6.1,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,24,Zimbabwe,Harare Sports Club,0,Bangladesh
+340,6.2,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,24,Zimbabwe,Harare Sports Club,0,Bangladesh
+341,6.3,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,24,Zimbabwe,Harare Sports Club,0,Bangladesh
+342,6.4,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,24,Zimbabwe,Harare Sports Club,0,Bangladesh
+343,6.5,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,24,Zimbabwe,Harare Sports Club,0,Bangladesh
+344,6.6,1,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,25,Zimbabwe,Harare Sports Club,0,Bangladesh
+345,7.1,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,25,Zimbabwe,Harare Sports Club,0,Bangladesh
+346,7.2,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,26,Zimbabwe,Harare Sports Club,0,Bangladesh
+347,7.3,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,26,Zimbabwe,Harare Sports Club,0,Bangladesh
+348,7.4,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,26,Zimbabwe,Harare Sports Club,0,Bangladesh
+349,7.5,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,26,Zimbabwe,Harare Sports Club,0,Bangladesh
+350,7.6,4,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,30,Zimbabwe,Harare Sports Club,0,Bangladesh
+351,7.7,4,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+352,8.1,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+353,8.2,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+354,8.3,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,34,Zimbabwe,Harare Sports Club,0,Bangladesh
+355,8.4,1,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,35,Zimbabwe,Harare Sports Club,0,Bangladesh
+356,8.5,1,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,36,Zimbabwe,Harare Sports Club,0,Bangladesh
+357,8.6,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,37,Zimbabwe,Harare Sports Club,0,Bangladesh
+358,8.7,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,37,Zimbabwe,Harare Sports Club,0,Bangladesh
+359,9.1,4,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,41,Zimbabwe,Harare Sports Club,0,Bangladesh
+360,9.2,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,41,Zimbabwe,Harare Sports Club,0,Bangladesh
+361,9.3,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,41,Zimbabwe,Harare Sports Club,0,Bangladesh
+362,9.4,0,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,41,Zimbabwe,Harare Sports Club,0,Bangladesh
+363,9.5,1,NB Mahwire,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,42,Zimbabwe,Harare Sports Club,0,Bangladesh
+364,9.6,0,NB Mahwire,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,43,Zimbabwe,Harare Sports Club,0,Bangladesh
+365,9.7,0,NB Mahwire,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,43,Zimbabwe,Harare Sports Club,0,Bangladesh
+366,10.1,2,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,45,Zimbabwe,Harare Sports Club,0,Bangladesh
+367,10.2,0,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,45,Zimbabwe,Harare Sports Club,0,Bangladesh
+368,10.3,3,EC Rainsford,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,48,Zimbabwe,Harare Sports Club,0,Bangladesh
+369,10.4,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,48,Zimbabwe,Harare Sports Club,0,Bangladesh
+370,10.5,2,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,50,Zimbabwe,Harare Sports Club,0,Bangladesh
+371,10.6,4,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,54,Zimbabwe,Harare Sports Club,0,Bangladesh
+372,11.1,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,54,Zimbabwe,Harare Sports Club,0,Bangladesh
+373,11.2,2,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,56,Zimbabwe,Harare Sports Club,0,Bangladesh
+374,11.3,1,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+375,11.4,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+376,11.5,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+377,11.6,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+378,12.1,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+379,12.2,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+380,12.3,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+381,12.4,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+382,12.5,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+383,12.6,0,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,57,Zimbabwe,Harare Sports Club,0,Bangladesh
+384,13.1,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,58,Zimbabwe,Harare Sports Club,0,Bangladesh
+385,13.2,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,58,Zimbabwe,Harare Sports Club,0,Bangladesh
+386,13.3,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,58,Zimbabwe,Harare Sports Club,0,Bangladesh
+387,13.4,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,58,Zimbabwe,Harare Sports Club,0,Bangladesh
+388,13.5,2,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,60,Zimbabwe,Harare Sports Club,0,Bangladesh
+389,13.6,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,60,Zimbabwe,Harare Sports Club,0,Bangladesh
+390,14.1,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,60,Zimbabwe,Harare Sports Club,0,Bangladesh
+391,14.2,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,60,Zimbabwe,Harare Sports Club,0,Bangladesh
+392,14.3,4,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,64,Zimbabwe,Harare Sports Club,0,Bangladesh
+393,14.4,1,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,65,Zimbabwe,Harare Sports Club,0,Bangladesh
+394,14.5,1,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,66,Zimbabwe,Harare Sports Club,0,Bangladesh
+395,14.6,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,66,Zimbabwe,Harare Sports Club,0,Bangladesh
+396,15.1,2,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,68,Zimbabwe,Harare Sports Club,0,Bangladesh
+397,15.2,4,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,72,Zimbabwe,Harare Sports Club,0,Bangladesh
+398,15.3,1,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,73,Zimbabwe,Harare Sports Club,0,Bangladesh
+399,15.4,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,73,Zimbabwe,Harare Sports Club,0,Bangladesh
+400,15.5,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,74,Zimbabwe,Harare Sports Club,0,Bangladesh
+401,15.6,1,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,75,Zimbabwe,Harare Sports Club,0,Bangladesh
+402,16.1,1,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,76,Zimbabwe,Harare Sports Club,0,Bangladesh
+403,16.2,1,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,77,Zimbabwe,Harare Sports Club,0,Bangladesh
+404,16.3,1,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,78,Zimbabwe,Harare Sports Club,0,Bangladesh
+405,16.4,1,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,79,Zimbabwe,Harare Sports Club,0,Bangladesh
+406,16.5,1,AJ Ireland,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,80,Zimbabwe,Harare Sports Club,0,Bangladesh
+407,16.6,1,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,81,Zimbabwe,Harare Sports Club,0,Bangladesh
+408,17.1,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,81,Zimbabwe,Harare Sports Club,0,Bangladesh
+409,17.2,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,82,Zimbabwe,Harare Sports Club,0,Bangladesh
+410,17.3,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,82,Zimbabwe,Harare Sports Club,0,Bangladesh
+411,17.4,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,82,Zimbabwe,Harare Sports Club,0,Bangladesh
+412,17.5,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,82,Zimbabwe,Harare Sports Club,0,Bangladesh
+413,17.6,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,82,Zimbabwe,Harare Sports Club,0,Bangladesh
+414,18.1,4,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,86,Zimbabwe,Harare Sports Club,0,Bangladesh
+415,18.2,4,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,90,Zimbabwe,Harare Sports Club,0,Bangladesh
+416,18.3,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,90,Zimbabwe,Harare Sports Club,0,Bangladesh
+417,18.4,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,90,Zimbabwe,Harare Sports Club,0,Bangladesh
+418,18.5,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,90,Zimbabwe,Harare Sports Club,0,Bangladesh
+419,18.6,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,90,Zimbabwe,Harare Sports Club,0,Bangladesh
+420,19.1,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,90,Zimbabwe,Harare Sports Club,0,Bangladesh
+421,19.2,1,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,91,Zimbabwe,Harare Sports Club,0,Bangladesh
+422,19.3,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,91,Zimbabwe,Harare Sports Club,0,Bangladesh
+423,19.4,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,91,Zimbabwe,Harare Sports Club,0,Bangladesh
+424,19.5,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,92,Zimbabwe,Harare Sports Club,0,Bangladesh
+425,19.6,0,P Utseya,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,92,Zimbabwe,Harare Sports Club,0,Bangladesh
+426,20.1,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,92,Zimbabwe,Harare Sports Club,0,Bangladesh
+427,20.2,1,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,93,Zimbabwe,Harare Sports Club,0,Bangladesh
+428,20.3,1,H Masakadza,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,94,Zimbabwe,Harare Sports Club,0,Bangladesh
+429,20.4,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,94,Zimbabwe,Harare Sports Club,0,Bangladesh
+430,20.5,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,95,Zimbabwe,Harare Sports Club,0,Bangladesh
+431,20.6,4,H Masakadza,2006-08-06,2nd,Rajin Saleh,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,99,Zimbabwe,Harare Sports Club,0,Bangladesh
+432,21.1,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,99,Zimbabwe,Harare Sports Club,0,Bangladesh
+433,21.2,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Rajin Saleh,0,Zimbabwe,Bangladesh,99,Zimbabwe,Harare Sports Club,1,Bangladesh
+434,21.3,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,99,Zimbabwe,Harare Sports Club,1,Bangladesh
+435,21.4,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,100,Zimbabwe,Harare Sports Club,1,Bangladesh
+436,21.5,0,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,100,Zimbabwe,Harare Sports Club,1,Bangladesh
+437,21.6,1,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,1,Bangladesh
+438,22.1,0,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,1,Bangladesh
+439,22.2,0,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,1,Bangladesh
+440,22.3,0,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,101,Zimbabwe,Harare Sports Club,1,Bangladesh
+441,22.4,1,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,1,Bangladesh
+442,22.5,0,NB Mahwire,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,102,Zimbabwe,Harare Sports Club,1,Bangladesh
+443,22.6,1,NB Mahwire,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,103,Zimbabwe,Harare Sports Club,1,Bangladesh
+444,23.1,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,104,Zimbabwe,Harare Sports Club,1,Bangladesh
+445,23.2,0,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,104,Zimbabwe,Harare Sports Club,1,Bangladesh
+446,23.3,0,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,104,Zimbabwe,Harare Sports Club,1,Bangladesh
+447,23.4,0,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,104,Zimbabwe,Harare Sports Club,1,Bangladesh
+448,23.5,0,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,104,Zimbabwe,Harare Sports Club,1,Bangladesh
+449,23.6,1,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,105,Zimbabwe,Harare Sports Club,1,Bangladesh
+450,24.1,0,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,105,Zimbabwe,Harare Sports Club,1,Bangladesh
+451,24.2,2,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,107,Zimbabwe,Harare Sports Club,1,Bangladesh
+452,24.3,4,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,111,Zimbabwe,Harare Sports Club,1,Bangladesh
+453,24.4,0,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,111,Zimbabwe,Harare Sports Club,1,Bangladesh
+454,24.5,0,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,111,Zimbabwe,Harare Sports Club,1,Bangladesh
+455,24.6,1,NB Mahwire,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,112,Zimbabwe,Harare Sports Club,1,Bangladesh
+456,25.1,1,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,113,Zimbabwe,Harare Sports Club,1,Bangladesh
+457,25.2,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,115,Zimbabwe,Harare Sports Club,1,Bangladesh
+458,25.3,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,116,Zimbabwe,Harare Sports Club,1,Bangladesh
+459,25.4,1,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,117,Zimbabwe,Harare Sports Club,1,Bangladesh
+460,25.5,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,117,Zimbabwe,Harare Sports Club,1,Bangladesh
+461,25.6,2,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,119,Zimbabwe,Harare Sports Club,1,Bangladesh
+462,26.1,4,H Masakadza,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,123,Zimbabwe,Harare Sports Club,1,Bangladesh
+463,26.2,0,H Masakadza,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,123,Zimbabwe,Harare Sports Club,1,Bangladesh
+464,26.3,1,H Masakadza,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,124,Zimbabwe,Harare Sports Club,1,Bangladesh
+465,26.4,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,125,Zimbabwe,Harare Sports Club,1,Bangladesh
+466,26.5,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,126,Zimbabwe,Harare Sports Club,1,Bangladesh
+467,26.6,1,H Masakadza,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,127,Zimbabwe,Harare Sports Club,1,Bangladesh
+468,26.7,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,127,Zimbabwe,Harare Sports Club,1,Bangladesh
+469,27.1,1,P Utseya,2006-08-06,2nd,Aftab Ahmed,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,128,Zimbabwe,Harare Sports Club,1,Bangladesh
+470,27.2,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,128,Zimbabwe,Harare Sports Club,1,Bangladesh
+471,27.3,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Aftab Ahmed,0,Zimbabwe,Bangladesh,128,Zimbabwe,Harare Sports Club,2,Bangladesh
+472,27.4,1,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,129,Zimbabwe,Harare Sports Club,2,Bangladesh
+473,27.5,0,P Utseya,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,129,Zimbabwe,Harare Sports Club,2,Bangladesh
+474,27.6,1,P Utseya,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,130,Zimbabwe,Harare Sports Club,2,Bangladesh
+475,28.1,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,130,Zimbabwe,Harare Sports Club,2,Bangladesh
+476,28.2,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,130,Zimbabwe,Harare Sports Club,2,Bangladesh
+477,28.3,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,130,Zimbabwe,Harare Sports Club,2,Bangladesh
+478,28.4,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+479,28.5,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+480,28.6,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+481,29.1,0,P Utseya,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+482,29.2,0,P Utseya,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+483,29.3,0,P Utseya,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+484,29.4,0,P Utseya,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,131,Zimbabwe,Harare Sports Club,2,Bangladesh
+485,29.5,1,P Utseya,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,132,Zimbabwe,Harare Sports Club,2,Bangladesh
+486,29.6,0,P Utseya,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,132,Zimbabwe,Harare Sports Club,2,Bangladesh
+487,30.1,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,133,Zimbabwe,Harare Sports Club,2,Bangladesh
+488,30.2,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,133,Zimbabwe,Harare Sports Club,2,Bangladesh
+489,30.3,1,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,134,Zimbabwe,Harare Sports Club,2,Bangladesh
+490,30.4,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,134,Zimbabwe,Harare Sports Club,2,Bangladesh
+491,30.5,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,134,Zimbabwe,Harare Sports Club,2,Bangladesh
+492,30.6,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,135,Zimbabwe,Harare Sports Club,2,Bangladesh
+493,31.1,1,S Matsikenyeri,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,136,Zimbabwe,Harare Sports Club,2,Bangladesh
+494,31.2,0,S Matsikenyeri,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,136,Zimbabwe,Harare Sports Club,2,Bangladesh
+495,31.3,0,S Matsikenyeri,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,136,Zimbabwe,Harare Sports Club,2,Bangladesh
+496,31.4,1,S Matsikenyeri,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,137,Zimbabwe,Harare Sports Club,2,Bangladesh
+497,31.5,0,S Matsikenyeri,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,137,Zimbabwe,Harare Sports Club,2,Bangladesh
+498,31.6,1,S Matsikenyeri,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,138,Zimbabwe,Harare Sports Club,2,Bangladesh
+499,32.1,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,138,Zimbabwe,Harare Sports Club,2,Bangladesh
+500,32.2,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,138,Zimbabwe,Harare Sports Club,2,Bangladesh
+501,32.3,2,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,140,Zimbabwe,Harare Sports Club,2,Bangladesh
+502,32.4,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,141,Zimbabwe,Harare Sports Club,2,Bangladesh
+503,32.5,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,141,Zimbabwe,Harare Sports Club,2,Bangladesh
+504,32.6,2,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,143,Zimbabwe,Harare Sports Club,2,Bangladesh
+505,33.1,0,S Matsikenyeri,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,143,Zimbabwe,Harare Sports Club,2,Bangladesh
+506,33.2,1,S Matsikenyeri,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,144,Zimbabwe,Harare Sports Club,2,Bangladesh
+507,33.3,0,S Matsikenyeri,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,144,Zimbabwe,Harare Sports Club,2,Bangladesh
+508,33.4,2,S Matsikenyeri,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,146,Zimbabwe,Harare Sports Club,2,Bangladesh
+509,33.5,1,S Matsikenyeri,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,147,Zimbabwe,Harare Sports Club,2,Bangladesh
+510,33.6,0,S Matsikenyeri,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,147,Zimbabwe,Harare Sports Club,2,Bangladesh
+511,34.1,1,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,148,Zimbabwe,Harare Sports Club,2,Bangladesh
+512,34.2,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,149,Zimbabwe,Harare Sports Club,2,Bangladesh
+513,34.3,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,149,Zimbabwe,Harare Sports Club,2,Bangladesh
+514,34.4,1,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,150,Zimbabwe,Harare Sports Club,2,Bangladesh
+515,34.5,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,151,Zimbabwe,Harare Sports Club,2,Bangladesh
+516,34.6,4,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,155,Zimbabwe,Harare Sports Club,2,Bangladesh
+517,35.1,0,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,155,Zimbabwe,Harare Sports Club,2,Bangladesh
+518,35.2,0,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,155,Zimbabwe,Harare Sports Club,2,Bangladesh
+519,35.3,1,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,156,Zimbabwe,Harare Sports Club,2,Bangladesh
+520,35.4,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,156,Zimbabwe,Harare Sports Club,2,Bangladesh
+521,35.5,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,156,Zimbabwe,Harare Sports Club,2,Bangladesh
+522,35.6,1,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,157,Zimbabwe,Harare Sports Club,2,Bangladesh
+523,36.1,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,157,Zimbabwe,Harare Sports Club,2,Bangladesh
+524,36.2,1,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,158,Zimbabwe,Harare Sports Club,2,Bangladesh
+525,36.3,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,158,Zimbabwe,Harare Sports Club,2,Bangladesh
+526,36.4,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,159,Zimbabwe,Harare Sports Club,2,Bangladesh
+527,36.5,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,159,Zimbabwe,Harare Sports Club,2,Bangladesh
+528,36.6,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,159,Zimbabwe,Harare Sports Club,2,Bangladesh
+529,37.1,2,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,161,Zimbabwe,Harare Sports Club,2,Bangladesh
+530,37.2,1,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,162,Zimbabwe,Harare Sports Club,2,Bangladesh
+531,37.3,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,162,Zimbabwe,Harare Sports Club,2,Bangladesh
+532,37.4,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,162,Zimbabwe,Harare Sports Club,2,Bangladesh
+533,37.5,1,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,163,Zimbabwe,Harare Sports Club,2,Bangladesh
+534,37.6,1,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,164,Zimbabwe,Harare Sports Club,2,Bangladesh
+535,38.1,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,165,Zimbabwe,Harare Sports Club,2,Bangladesh
+536,38.2,1,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+537,38.3,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+538,38.4,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+539,38.5,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+540,38.6,0,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+541,39.1,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+542,39.2,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+543,39.3,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+544,39.4,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+545,39.5,0,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,166,Zimbabwe,Harare Sports Club,2,Bangladesh
+546,39.6,1,EC Rainsford,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,167,Zimbabwe,Harare Sports Club,2,Bangladesh
+547,40.1,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,167,Zimbabwe,Harare Sports Club,2,Bangladesh
+548,40.2,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,167,Zimbabwe,Harare Sports Club,2,Bangladesh
+549,40.3,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,167,Zimbabwe,Harare Sports Club,2,Bangladesh
+550,40.4,2,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,169,Zimbabwe,Harare Sports Club,2,Bangladesh
+551,40.5,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,169,Zimbabwe,Harare Sports Club,2,Bangladesh
+552,40.6,2,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,171,Zimbabwe,Harare Sports Club,2,Bangladesh
+553,41.1,2,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,173,Zimbabwe,Harare Sports Club,2,Bangladesh
+554,41.2,0,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,173,Zimbabwe,Harare Sports Club,2,Bangladesh
+555,41.3,4,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,177,Zimbabwe,Harare Sports Club,2,Bangladesh
+556,41.4,0,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,177,Zimbabwe,Harare Sports Club,2,Bangladesh
+557,41.5,4,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,181,Zimbabwe,Harare Sports Club,2,Bangladesh
+558,41.6,0,EC Rainsford,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,181,Zimbabwe,Harare Sports Club,2,Bangladesh
+559,42.1,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,181,Zimbabwe,Harare Sports Club,2,Bangladesh
+560,42.2,1,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,182,Zimbabwe,Harare Sports Club,2,Bangladesh
+561,42.3,1,H Masakadza,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,183,Zimbabwe,Harare Sports Club,2,Bangladesh
+562,42.4,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,183,Zimbabwe,Harare Sports Club,2,Bangladesh
+563,42.5,0,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,183,Zimbabwe,Harare Sports Club,2,Bangladesh
+564,42.6,4,H Masakadza,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,187,Zimbabwe,Harare Sports Club,2,Bangladesh
+565,43.1,1,AJ Ireland,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,188,Zimbabwe,Harare Sports Club,2,Bangladesh
+566,43.2,1,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,189,Zimbabwe,Harare Sports Club,2,Bangladesh
+567,43.3,1,AJ Ireland,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,190,Zimbabwe,Harare Sports Club,2,Bangladesh
+568,43.4,0,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,190,Zimbabwe,Harare Sports Club,2,Bangladesh
+569,43.5,1,AJ Ireland,2006-08-06,2nd,Shahriar Nafees,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,191,Zimbabwe,Harare Sports Club,2,Bangladesh
+570,43.6,1,AJ Ireland,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,192,Zimbabwe,Harare Sports Club,2,Bangladesh
+571,44.1,4,NB Mahwire,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,196,Zimbabwe,Harare Sports Club,2,Bangladesh
+572,44.2,0,NB Mahwire,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,196,Zimbabwe,Harare Sports Club,2,Bangladesh
+573,44.3,0,NB Mahwire,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,196,Zimbabwe,Harare Sports Club,2,Bangladesh
+574,44.4,0,NB Mahwire,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,197,Zimbabwe,Harare Sports Club,2,Bangladesh
+575,44.5,4,NB Mahwire,2006-08-06,2nd,Shakib Al Hasan,0,,Shahriar Nafees,0,Zimbabwe,Bangladesh,201,Zimbabwe,Harare Sports Club,2,Bangladesh

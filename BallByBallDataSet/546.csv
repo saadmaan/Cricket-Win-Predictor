@@ -1,0 +1,607 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,JE Taylor,2010-05-24,1st,HM Amla,0,,GC Smith,0,West Indies,South Africa,0,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+1,0.2,3,JE Taylor,2010-05-24,1st,HM Amla,0,,GC Smith,3,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+2,0.3,0,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+3,0.4,0,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+4,0.5,0,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+5,0.6,1,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,1,West Indies,South Africa,4,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+6,1.1,2,R Rampaul,2010-05-24,1st,GC Smith,3,,HM Amla,3,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+7,1.2,0,R Rampaul,2010-05-24,1st,GC Smith,3,,HM Amla,3,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+8,1.3,0,R Rampaul,2010-05-24,1st,GC Smith,3,,HM Amla,3,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+9,1.4,0,R Rampaul,2010-05-24,1st,GC Smith,3,,HM Amla,3,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+10,1.5,1,R Rampaul,2010-05-24,1st,GC Smith,3,,HM Amla,4,West Indies,South Africa,7,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+11,1.6,0,R Rampaul,2010-05-24,1st,HM Amla,4,,GC Smith,3,West Indies,South Africa,7,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+12,2.1,0,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,4,West Indies,South Africa,7,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+13,2.2,0,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,4,West Indies,South Africa,7,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+14,2.3,2,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,6,West Indies,South Africa,9,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+15,2.4,0,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,6,West Indies,South Africa,9,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+16,2.5,0,JE Taylor,2010-05-24,1st,GC Smith,3,,HM Amla,6,West Indies,South Africa,10,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+17,2.6,1,JE Taylor,2010-05-24,1st,HM Amla,6,,GC Smith,4,West Indies,South Africa,11,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+18,3.1,0,R Rampaul,2010-05-24,1st,HM Amla,6,,GC Smith,4,West Indies,South Africa,11,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+19,3.2,0,R Rampaul,2010-05-24,1st,HM Amla,6,,GC Smith,4,West Indies,South Africa,11,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+20,3.3,0,R Rampaul,2010-05-24,1st,HM Amla,6,,GC Smith,4,West Indies,South Africa,11,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+21,3.4,0,R Rampaul,2010-05-24,1st,HM Amla,6,,GC Smith,4,West Indies,South Africa,11,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+22,3.5,1,R Rampaul,2010-05-24,1st,HM Amla,6,,GC Smith,5,West Indies,South Africa,12,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+23,3.6,2,R Rampaul,2010-05-24,1st,GC Smith,5,,HM Amla,8,West Indies,South Africa,14,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+24,4.1,0,JE Taylor,2010-05-24,1st,HM Amla,8,,GC Smith,5,West Indies,South Africa,14,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+25,4.2,4,JE Taylor,2010-05-24,1st,HM Amla,8,,GC Smith,9,West Indies,South Africa,18,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+26,4.3,0,JE Taylor,2010-05-24,1st,HM Amla,8,,GC Smith,9,West Indies,South Africa,18,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+27,4.4,0,JE Taylor,2010-05-24,1st,HM Amla,8,,GC Smith,9,West Indies,South Africa,18,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+28,4.5,0,JE Taylor,2010-05-24,1st,HM Amla,8,,GC Smith,9,West Indies,South Africa,18,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+29,4.6,0,JE Taylor,2010-05-24,1st,HM Amla,8,,GC Smith,9,West Indies,South Africa,18,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+30,5.1,0,R Rampaul,2010-05-24,1st,GC Smith,9,,HM Amla,8,West Indies,South Africa,18,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+31,5.2,4,R Rampaul,2010-05-24,1st,GC Smith,9,,HM Amla,12,West Indies,South Africa,22,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+32,5.3,4,R Rampaul,2010-05-24,1st,GC Smith,9,,HM Amla,16,West Indies,South Africa,26,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+33,5.4,1,R Rampaul,2010-05-24,1st,GC Smith,9,,HM Amla,17,West Indies,South Africa,27,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+34,5.5,1,R Rampaul,2010-05-24,1st,HM Amla,17,,GC Smith,10,West Indies,South Africa,28,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+35,5.6,1,R Rampaul,2010-05-24,1st,GC Smith,10,,HM Amla,18,West Indies,South Africa,29,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+36,6.1,2,JE Taylor,2010-05-24,1st,GC Smith,10,,HM Amla,20,West Indies,South Africa,31,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+37,6.2,1,JE Taylor,2010-05-24,1st,GC Smith,10,,HM Amla,21,West Indies,South Africa,32,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+38,6.3,0,JE Taylor,2010-05-24,1st,HM Amla,21,,GC Smith,10,West Indies,South Africa,32,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+39,6.4,0,JE Taylor,2010-05-24,1st,HM Amla,21,,GC Smith,10,West Indies,South Africa,32,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+40,6.5,2,JE Taylor,2010-05-24,1st,HM Amla,21,,GC Smith,12,West Indies,South Africa,34,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+41,6.6,1,JE Taylor,2010-05-24,1st,HM Amla,21,,GC Smith,13,West Indies,South Africa,35,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+42,7.1,2,R Rampaul,2010-05-24,1st,HM Amla,21,,GC Smith,15,West Indies,South Africa,37,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+43,7.2,1,R Rampaul,2010-05-24,1st,HM Amla,21,,GC Smith,16,West Indies,South Africa,38,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+44,7.3,1,R Rampaul,2010-05-24,1st,GC Smith,16,,HM Amla,22,West Indies,South Africa,39,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+45,7.4,2,R Rampaul,2010-05-24,1st,HM Amla,22,,GC Smith,18,West Indies,South Africa,41,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+46,7.5,0,R Rampaul,2010-05-24,1st,HM Amla,22,,GC Smith,18,West Indies,South Africa,41,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+47,7.6,0,R Rampaul,2010-05-24,1st,HM Amla,22,,GC Smith,18,West Indies,South Africa,41,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+48,8.1,4,DJ Bravo,2010-05-24,1st,GC Smith,18,,HM Amla,26,West Indies,South Africa,45,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+49,8.2,1,DJ Bravo,2010-05-24,1st,GC Smith,18,,HM Amla,27,West Indies,South Africa,46,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+50,8.3,0,DJ Bravo,2010-05-24,1st,HM Amla,27,,GC Smith,18,West Indies,South Africa,46,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+51,8.4,0,DJ Bravo,2010-05-24,1st,HM Amla,27,,GC Smith,18,West Indies,South Africa,46,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+52,8.5,1,DJ Bravo,2010-05-24,1st,HM Amla,27,,GC Smith,19,West Indies,South Africa,47,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+53,8.6,1,DJ Bravo,2010-05-24,1st,GC Smith,19,,HM Amla,28,West Indies,South Africa,48,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+54,9.1,0,R Rampaul,2010-05-24,1st,GC Smith,19,,HM Amla,28,West Indies,South Africa,48,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+55,9.2,0,R Rampaul,2010-05-24,1st,GC Smith,19,,HM Amla,28,West Indies,South Africa,48,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+56,9.3,1,R Rampaul,2010-05-24,1st,GC Smith,19,,HM Amla,29,West Indies,South Africa,49,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+57,9.4,1,R Rampaul,2010-05-24,1st,HM Amla,29,,GC Smith,20,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+58,9.5,0,R Rampaul,2010-05-24,1st,GC Smith,20,,HM Amla,29,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+59,9.6,4,R Rampaul,2010-05-24,1st,GC Smith,20,,HM Amla,33,West Indies,South Africa,54,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+60,10.1,0,DJ Bravo,2010-05-24,1st,HM Amla,33,,GC Smith,20,West Indies,South Africa,54,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+61,10.2,1,DJ Bravo,2010-05-24,1st,HM Amla,33,,GC Smith,21,West Indies,South Africa,55,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+62,10.3,1,DJ Bravo,2010-05-24,1st,GC Smith,21,,HM Amla,34,West Indies,South Africa,56,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+63,10.4,1,DJ Bravo,2010-05-24,1st,HM Amla,34,,GC Smith,22,West Indies,South Africa,57,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+64,10.5,1,DJ Bravo,2010-05-24,1st,GC Smith,22,,HM Amla,35,West Indies,South Africa,58,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+65,10.6,1,DJ Bravo,2010-05-24,1st,HM Amla,35,,GC Smith,23,West Indies,South Africa,59,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+66,11.1,4,R Rampaul,2010-05-24,1st,HM Amla,35,,GC Smith,27,West Indies,South Africa,63,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+67,11.2,1,R Rampaul,2010-05-24,1st,HM Amla,35,,GC Smith,28,West Indies,South Africa,64,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+68,11.3,0,R Rampaul,2010-05-24,1st,GC Smith,28,,HM Amla,35,West Indies,South Africa,64,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+69,11.4,2,R Rampaul,2010-05-24,1st,GC Smith,28,,HM Amla,37,West Indies,South Africa,66,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+70,11.5,0,R Rampaul,2010-05-24,1st,GC Smith,28,,HM Amla,37,West Indies,South Africa,67,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+71,11.6,1,R Rampaul,2010-05-24,1st,GC Smith,28,,HM Amla,38,West Indies,South Africa,68,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+72,11.7,0,R Rampaul,2010-05-24,1st,HM Amla,38,,GC Smith,28,West Indies,South Africa,68,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+73,12.1,1,DJ Bravo,2010-05-24,1st,GC Smith,28,,HM Amla,39,West Indies,South Africa,69,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+74,12.2,1,DJ Bravo,2010-05-24,1st,HM Amla,39,,GC Smith,29,West Indies,South Africa,70,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+75,12.3,1,DJ Bravo,2010-05-24,1st,GC Smith,29,,HM Amla,40,West Indies,South Africa,71,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+76,12.4,0,DJ Bravo,2010-05-24,1st,HM Amla,40,,GC Smith,29,West Indies,South Africa,71,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+77,12.5,0,DJ Bravo,2010-05-24,1st,HM Amla,40,,GC Smith,29,West Indies,South Africa,71,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+78,12.6,1,DJ Bravo,2010-05-24,1st,HM Amla,40,,GC Smith,30,West Indies,South Africa,72,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+79,13.1,0,NO Miller,2010-05-24,1st,HM Amla,40,,GC Smith,30,West Indies,South Africa,72,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+80,13.2,1,NO Miller,2010-05-24,1st,HM Amla,40,,GC Smith,31,West Indies,South Africa,73,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+81,13.3,4,NO Miller,2010-05-24,1st,GC Smith,31,,HM Amla,44,West Indies,South Africa,77,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+82,13.4,1,NO Miller,2010-05-24,1st,GC Smith,31,,HM Amla,45,West Indies,South Africa,78,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+83,13.5,0,NO Miller,2010-05-24,1st,HM Amla,45,,GC Smith,31,West Indies,South Africa,78,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+84,13.6,1,NO Miller,2010-05-24,1st,HM Amla,45,,GC Smith,32,West Indies,South Africa,79,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+85,14.1,0,DJ Bravo,2010-05-24,1st,HM Amla,45,,GC Smith,32,West Indies,South Africa,79,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+86,14.2,2,DJ Bravo,2010-05-24,1st,HM Amla,45,,GC Smith,34,West Indies,South Africa,81,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+87,14.3,1,DJ Bravo,2010-05-24,1st,HM Amla,45,,GC Smith,35,West Indies,South Africa,82,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+88,14.4,1,DJ Bravo,2010-05-24,1st,GC Smith,35,,HM Amla,46,West Indies,South Africa,83,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+89,14.5,0,DJ Bravo,2010-05-24,1st,HM Amla,46,,GC Smith,35,West Indies,South Africa,83,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+90,14.6,0,DJ Bravo,2010-05-24,1st,HM Amla,46,,GC Smith,35,West Indies,South Africa,83,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+91,15.1,1,NO Miller,2010-05-24,1st,GC Smith,35,,HM Amla,47,West Indies,South Africa,84,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+92,15.2,1,NO Miller,2010-05-24,1st,HM Amla,47,,GC Smith,36,West Indies,South Africa,85,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+93,15.3,0,NO Miller,2010-05-24,1st,GC Smith,36,,HM Amla,47,West Indies,South Africa,86,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+94,15.4,1,NO Miller,2010-05-24,1st,GC Smith,36,,HM Amla,48,West Indies,South Africa,87,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+95,15.5,1,NO Miller,2010-05-24,1st,HM Amla,48,,GC Smith,37,West Indies,South Africa,88,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+96,15.6,1,NO Miller,2010-05-24,1st,GC Smith,37,,HM Amla,49,West Indies,South Africa,89,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+97,15.7,0,NO Miller,2010-05-24,1st,HM Amla,49,GC Smith,GC Smith,37,West Indies,South Africa,89,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+98,16.1,1,DJ Bravo,2010-05-24,1st,JH Kallis,0,,HM Amla,50,West Indies,South Africa,90,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+99,16.2,0,DJ Bravo,2010-05-24,1st,HM Amla,50,,JH Kallis,0,West Indies,South Africa,90,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+100,16.3,1,DJ Bravo,2010-05-24,1st,HM Amla,50,,JH Kallis,1,West Indies,South Africa,91,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+101,16.4,0,DJ Bravo,2010-05-24,1st,JH Kallis,1,,HM Amla,50,West Indies,South Africa,91,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+102,16.5,1,DJ Bravo,2010-05-24,1st,JH Kallis,1,,HM Amla,51,West Indies,South Africa,92,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+103,16.6,0,DJ Bravo,2010-05-24,1st,HM Amla,51,,JH Kallis,1,West Indies,South Africa,92,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+104,17.1,1,NO Miller,2010-05-24,1st,JH Kallis,1,,HM Amla,52,West Indies,South Africa,93,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+105,17.2,4,NO Miller,2010-05-24,1st,HM Amla,52,,JH Kallis,5,West Indies,South Africa,97,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+106,17.3,1,NO Miller,2010-05-24,1st,HM Amla,52,,JH Kallis,6,West Indies,South Africa,98,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+107,17.4,0,NO Miller,2010-05-24,1st,JH Kallis,6,,HM Amla,52,West Indies,South Africa,98,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+108,17.5,0,NO Miller,2010-05-24,1st,JH Kallis,6,,HM Amla,52,West Indies,South Africa,98,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+109,17.6,1,CH Gayle,2010-05-24,1st,JH Kallis,6,,HM Amla,53,West Indies,South Africa,99,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+110,18.1,0,DJ Bravo,2010-05-24,1st,JH Kallis,6,,HM Amla,53,West Indies,South Africa,99,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+111,18.2,0,DJ Bravo,2010-05-24,1st,JH Kallis,6,,HM Amla,53,West Indies,South Africa,99,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+112,18.3,4,DJ Bravo,2010-05-24,1st,JH Kallis,6,,HM Amla,57,West Indies,South Africa,103,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+113,18.4,1,DJ Bravo,2010-05-24,1st,JH Kallis,6,,HM Amla,58,West Indies,South Africa,104,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+114,18.5,1,DJ Bravo,2010-05-24,1st,HM Amla,58,,JH Kallis,7,West Indies,South Africa,105,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+115,18.6,0,DJ Bravo,2010-05-24,1st,JH Kallis,7,,HM Amla,58,West Indies,South Africa,105,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+116,19.1,1,DJG Sammy,2010-05-24,1st,HM Amla,58,,JH Kallis,8,West Indies,South Africa,106,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+117,19.2,1,DJG Sammy,2010-05-24,1st,JH Kallis,8,,HM Amla,59,West Indies,South Africa,107,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+118,19.3,1,DJG Sammy,2010-05-24,1st,HM Amla,59,,JH Kallis,9,West Indies,South Africa,108,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+119,19.4,1,DJG Sammy,2010-05-24,1st,JH Kallis,9,,HM Amla,60,West Indies,South Africa,109,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+120,19.5,0,DJG Sammy,2010-05-24,1st,HM Amla,60,,JH Kallis,9,West Indies,South Africa,109,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+121,19.6,1,DJG Sammy,2010-05-24,1st,HM Amla,60,,JH Kallis,10,West Indies,South Africa,110,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+122,20.1,1,CH Gayle,2010-05-24,1st,HM Amla,60,,JH Kallis,11,West Indies,South Africa,111,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+123,20.2,0,CH Gayle,2010-05-24,1st,JH Kallis,11,,HM Amla,60,West Indies,South Africa,111,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+124,20.3,2,CH Gayle,2010-05-24,1st,JH Kallis,11,,HM Amla,62,West Indies,South Africa,113,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+125,20.4,1,CH Gayle,2010-05-24,1st,JH Kallis,11,,HM Amla,63,West Indies,South Africa,114,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+126,20.5,1,CH Gayle,2010-05-24,1st,HM Amla,63,,JH Kallis,12,West Indies,South Africa,115,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+127,20.6,1,CH Gayle,2010-05-24,1st,JH Kallis,12,,HM Amla,64,West Indies,South Africa,116,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+128,21.1,1,DJG Sammy,2010-05-24,1st,JH Kallis,12,,HM Amla,65,West Indies,South Africa,117,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+129,21.2,0,DJG Sammy,2010-05-24,1st,HM Amla,65,,JH Kallis,12,West Indies,South Africa,117,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+130,21.3,1,DJG Sammy,2010-05-24,1st,HM Amla,65,,JH Kallis,13,West Indies,South Africa,118,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+131,21.4,0,DJG Sammy,2010-05-24,1st,JH Kallis,13,,HM Amla,65,West Indies,South Africa,119,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+132,21.5,1,DJG Sammy,2010-05-24,1st,JH Kallis,13,,HM Amla,66,West Indies,South Africa,120,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+133,21.6,1,DJG Sammy,2010-05-24,1st,HM Amla,66,,JH Kallis,14,West Indies,South Africa,121,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+134,21.7,0,DJG Sammy,2010-05-24,1st,JH Kallis,14,,HM Amla,66,West Indies,South Africa,121,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+135,22.1,1,CH Gayle,2010-05-24,1st,HM Amla,66,,JH Kallis,15,West Indies,South Africa,122,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+136,22.2,1,CH Gayle,2010-05-24,1st,JH Kallis,15,,HM Amla,67,West Indies,South Africa,123,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+137,22.3,0,CH Gayle,2010-05-24,1st,HM Amla,67,,JH Kallis,15,West Indies,South Africa,123,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+138,22.4,0,CH Gayle,2010-05-24,1st,HM Amla,67,,JH Kallis,15,West Indies,South Africa,123,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+139,22.5,1,CH Gayle,2010-05-24,1st,HM Amla,67,,JH Kallis,16,West Indies,South Africa,124,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+140,22.6,0,CH Gayle,2010-05-24,1st,JH Kallis,16,,HM Amla,67,West Indies,South Africa,124,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+141,23.1,2,DJG Sammy,2010-05-24,1st,HM Amla,67,,JH Kallis,18,West Indies,South Africa,126,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+142,23.2,0,DJG Sammy,2010-05-24,1st,HM Amla,67,,JH Kallis,18,West Indies,South Africa,126,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+143,23.3,0,DJG Sammy,2010-05-24,1st,HM Amla,67,,JH Kallis,18,West Indies,South Africa,127,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+144,23.4,1,DJG Sammy,2010-05-24,1st,JH Kallis,18,,HM Amla,68,West Indies,South Africa,128,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+145,23.5,1,DJG Sammy,2010-05-24,1st,HM Amla,68,,JH Kallis,19,West Indies,South Africa,129,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+146,23.6,1,DJG Sammy,2010-05-24,1st,JH Kallis,19,,HM Amla,69,West Indies,South Africa,130,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+147,24.1,1,CH Gayle,2010-05-24,1st,JH Kallis,19,,HM Amla,70,West Indies,South Africa,131,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+148,24.2,0,CH Gayle,2010-05-24,1st,HM Amla,70,,JH Kallis,19,West Indies,South Africa,131,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+149,24.3,0,CH Gayle,2010-05-24,1st,HM Amla,70,,JH Kallis,19,West Indies,South Africa,131,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+150,24.4,0,CH Gayle,2010-05-24,1st,HM Amla,70,,JH Kallis,19,West Indies,South Africa,131,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+151,24.5,2,CH Gayle,2010-05-24,1st,HM Amla,70,,JH Kallis,21,West Indies,South Africa,133,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+152,24.6,0,CH Gayle,2010-05-24,1st,HM Amla,70,,JH Kallis,21,West Indies,South Africa,134,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+153,24.7,0,CH Gayle,2010-05-24,1st,HM Amla,70,,JH Kallis,21,West Indies,South Africa,134,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+154,25.1,2,DJG Sammy,2010-05-24,1st,JH Kallis,21,,HM Amla,72,West Indies,South Africa,136,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+155,25.2,0,DJG Sammy,2010-05-24,1st,JH Kallis,21,,HM Amla,72,West Indies,South Africa,136,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+156,25.3,0,DJG Sammy,2010-05-24,1st,JH Kallis,21,,HM Amla,72,West Indies,South Africa,136,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+157,25.4,1,DJG Sammy,2010-05-24,1st,JH Kallis,21,,HM Amla,73,West Indies,South Africa,137,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+158,25.5,1,DJG Sammy,2010-05-24,1st,HM Amla,73,,JH Kallis,22,West Indies,South Africa,138,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+159,25.6,1,DJG Sammy,2010-05-24,1st,JH Kallis,22,,HM Amla,74,West Indies,South Africa,139,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+160,26.1,1,CH Gayle,2010-05-24,1st,JH Kallis,22,,HM Amla,75,West Indies,South Africa,140,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+161,26.2,1,CH Gayle,2010-05-24,1st,HM Amla,75,,JH Kallis,23,West Indies,South Africa,141,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+162,26.3,1,CH Gayle,2010-05-24,1st,JH Kallis,23,,HM Amla,76,West Indies,South Africa,142,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+163,26.4,1,CH Gayle,2010-05-24,1st,HM Amla,76,,JH Kallis,24,West Indies,South Africa,143,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+164,26.5,1,CH Gayle,2010-05-24,1st,JH Kallis,24,,HM Amla,77,West Indies,South Africa,144,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+165,26.6,0,CH Gayle,2010-05-24,1st,HM Amla,77,,JH Kallis,24,West Indies,South Africa,144,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+166,27.1,1,DJG Sammy,2010-05-24,1st,JH Kallis,24,,HM Amla,78,West Indies,South Africa,145,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+167,27.2,0,DJG Sammy,2010-05-24,1st,HM Amla,78,,JH Kallis,24,West Indies,South Africa,145,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+168,27.3,1,DJG Sammy,2010-05-24,1st,HM Amla,78,,JH Kallis,25,West Indies,South Africa,146,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+169,27.4,1,DJG Sammy,2010-05-24,1st,JH Kallis,25,,HM Amla,79,West Indies,South Africa,147,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+170,27.5,1,DJG Sammy,2010-05-24,1st,HM Amla,79,,JH Kallis,26,West Indies,South Africa,148,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+171,27.6,1,DJG Sammy,2010-05-24,1st,JH Kallis,26,,HM Amla,80,West Indies,South Africa,149,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+172,28.1,4,CH Gayle,2010-05-24,1st,JH Kallis,26,,HM Amla,84,West Indies,South Africa,153,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+173,28.2,1,CH Gayle,2010-05-24,1st,JH Kallis,26,,HM Amla,85,West Indies,South Africa,154,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+174,28.3,1,CH Gayle,2010-05-24,1st,HM Amla,85,,JH Kallis,27,West Indies,South Africa,155,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+175,28.4,0,CH Gayle,2010-05-24,1st,JH Kallis,27,,HM Amla,85,West Indies,South Africa,155,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+176,28.5,0,CH Gayle,2010-05-24,1st,JH Kallis,27,,HM Amla,85,West Indies,South Africa,155,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+177,28.6,1,CH Gayle,2010-05-24,1st,JH Kallis,27,,HM Amla,86,West Indies,South Africa,156,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+178,29.1,1,JE Taylor,2010-05-24,1st,JH Kallis,27,,HM Amla,87,West Indies,South Africa,157,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+179,29.2,1,JE Taylor,2010-05-24,1st,HM Amla,87,,JH Kallis,28,West Indies,South Africa,158,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+180,29.3,1,JE Taylor,2010-05-24,1st,JH Kallis,28,,HM Amla,88,West Indies,South Africa,159,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+181,29.4,1,JE Taylor,2010-05-24,1st,HM Amla,88,,JH Kallis,29,West Indies,South Africa,160,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+182,29.5,0,JE Taylor,2010-05-24,1st,JH Kallis,29,,HM Amla,88,West Indies,South Africa,160,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+183,29.6,1,JE Taylor,2010-05-24,1st,JH Kallis,29,,HM Amla,89,West Indies,South Africa,161,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+184,30.1,1,CH Gayle,2010-05-24,1st,JH Kallis,29,,HM Amla,90,West Indies,South Africa,162,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+185,30.2,1,CH Gayle,2010-05-24,1st,HM Amla,90,,JH Kallis,30,West Indies,South Africa,163,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+186,30.3,1,CH Gayle,2010-05-24,1st,JH Kallis,30,,HM Amla,91,West Indies,South Africa,164,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+187,30.4,1,CH Gayle,2010-05-24,1st,HM Amla,91,,JH Kallis,31,West Indies,South Africa,165,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+188,30.5,1,CH Gayle,2010-05-24,1st,JH Kallis,31,,HM Amla,92,West Indies,South Africa,166,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+189,30.6,1,CH Gayle,2010-05-24,1st,HM Amla,92,,JH Kallis,32,West Indies,South Africa,167,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+190,31.1,1,JE Taylor,2010-05-24,1st,HM Amla,92,,JH Kallis,33,West Indies,South Africa,168,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+191,31.2,0,JE Taylor,2010-05-24,1st,JH Kallis,33,,HM Amla,92,West Indies,South Africa,168,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+192,31.3,0,JE Taylor,2010-05-24,1st,JH Kallis,33,HM Amla,HM Amla,92,West Indies,South Africa,168,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+193,31.4,2,JE Taylor,2010-05-24,1st,JH Kallis,33,,AB de Villiers,2,West Indies,South Africa,170,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+194,31.5,1,JE Taylor,2010-05-24,1st,JH Kallis,33,,AB de Villiers,3,West Indies,South Africa,171,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+195,31.6,0,JE Taylor,2010-05-24,1st,AB de Villiers,3,,JH Kallis,33,West Indies,South Africa,171,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+196,32.1,6,CH Gayle,2010-05-24,1st,JH Kallis,33,,AB de Villiers,9,West Indies,South Africa,177,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+197,32.2,0,CH Gayle,2010-05-24,1st,JH Kallis,33,,AB de Villiers,9,West Indies,South Africa,177,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+198,32.3,0,CH Gayle,2010-05-24,1st,JH Kallis,33,,AB de Villiers,9,West Indies,South Africa,177,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+199,32.4,1,CH Gayle,2010-05-24,1st,JH Kallis,33,,AB de Villiers,10,West Indies,South Africa,178,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+200,32.5,1,CH Gayle,2010-05-24,1st,AB de Villiers,10,,JH Kallis,34,West Indies,South Africa,179,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+201,32.6,1,CH Gayle,2010-05-24,1st,JH Kallis,34,,AB de Villiers,11,West Indies,South Africa,180,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+202,33.1,1,JE Taylor,2010-05-24,1st,JH Kallis,34,,AB de Villiers,12,West Indies,South Africa,181,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+203,33.2,1,JE Taylor,2010-05-24,1st,AB de Villiers,12,,JH Kallis,35,West Indies,South Africa,182,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+204,33.3,2,JE Taylor,2010-05-24,1st,JH Kallis,35,,AB de Villiers,14,West Indies,South Africa,184,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+205,33.4,0,JE Taylor,2010-05-24,1st,JH Kallis,35,,AB de Villiers,14,West Indies,South Africa,184,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+206,33.5,1,JE Taylor,2010-05-24,1st,JH Kallis,35,,AB de Villiers,15,West Indies,South Africa,185,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+207,33.6,1,JE Taylor,2010-05-24,1st,AB de Villiers,15,,JH Kallis,36,West Indies,South Africa,186,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+208,34.1,0,KA Pollard,2010-05-24,1st,AB de Villiers,15,,JH Kallis,36,West Indies,South Africa,186,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+209,34.2,0,KA Pollard,2010-05-24,1st,AB de Villiers,15,,JH Kallis,36,West Indies,South Africa,186,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+210,34.3,1,KA Pollard,2010-05-24,1st,AB de Villiers,15,,JH Kallis,37,West Indies,South Africa,187,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+211,34.4,0,KA Pollard,2010-05-24,1st,JH Kallis,37,,AB de Villiers,15,West Indies,South Africa,187,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+212,34.5,1,KA Pollard,2010-05-24,1st,JH Kallis,37,,AB de Villiers,16,West Indies,South Africa,188,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+213,34.6,1,KA Pollard,2010-05-24,1st,AB de Villiers,16,,JH Kallis,38,West Indies,South Africa,189,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+214,35.1,1,R Rampaul,2010-05-24,1st,AB de Villiers,16,,JH Kallis,39,West Indies,South Africa,190,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+215,35.2,4,R Rampaul,2010-05-24,1st,JH Kallis,39,,AB de Villiers,20,West Indies,South Africa,194,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+216,35.3,0,R Rampaul,2010-05-24,1st,JH Kallis,39,,AB de Villiers,20,West Indies,South Africa,194,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+217,35.4,2,R Rampaul,2010-05-24,1st,JH Kallis,39,,AB de Villiers,22,West Indies,South Africa,196,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+218,35.5,4,R Rampaul,2010-05-24,1st,JH Kallis,39,,AB de Villiers,26,West Indies,South Africa,200,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+219,35.6,0,R Rampaul,2010-05-24,1st,JH Kallis,39,,AB de Villiers,26,West Indies,South Africa,200,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+220,36.1,0,KA Pollard,2010-05-24,1st,AB de Villiers,26,,JH Kallis,39,West Indies,South Africa,200,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+221,36.2,2,KA Pollard,2010-05-24,1st,AB de Villiers,26,,JH Kallis,41,West Indies,South Africa,202,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+222,36.3,2,KA Pollard,2010-05-24,1st,AB de Villiers,26,,JH Kallis,43,West Indies,South Africa,204,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+223,36.4,1,KA Pollard,2010-05-24,1st,AB de Villiers,26,,JH Kallis,44,West Indies,South Africa,205,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+224,36.5,1,KA Pollard,2010-05-24,1st,JH Kallis,44,,AB de Villiers,27,West Indies,South Africa,206,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+225,36.6,1,KA Pollard,2010-05-24,1st,AB de Villiers,27,,JH Kallis,45,West Indies,South Africa,207,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+226,37.1,4,R Rampaul,2010-05-24,1st,AB de Villiers,27,,JH Kallis,49,West Indies,South Africa,211,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+227,37.2,0,R Rampaul,2010-05-24,1st,AB de Villiers,27,,JH Kallis,49,West Indies,South Africa,211,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+228,37.3,1,R Rampaul,2010-05-24,1st,AB de Villiers,27,,JH Kallis,50,West Indies,South Africa,212,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+229,37.4,4,R Rampaul,2010-05-24,1st,JH Kallis,50,,AB de Villiers,31,West Indies,South Africa,216,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+230,37.5,0,R Rampaul,2010-05-24,1st,JH Kallis,50,,AB de Villiers,31,West Indies,South Africa,217,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+231,37.6,0,R Rampaul,2010-05-24,1st,AB de Villiers,31,,JH Kallis,50,West Indies,South Africa,217,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+232,38.1,1,KA Pollard,2010-05-24,1st,JH Kallis,50,,AB de Villiers,32,West Indies,South Africa,218,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+233,38.2,1,KA Pollard,2010-05-24,1st,AB de Villiers,32,,JH Kallis,51,West Indies,South Africa,219,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+234,38.3,0,KA Pollard,2010-05-24,1st,JH Kallis,51,,AB de Villiers,32,West Indies,South Africa,219,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+235,38.4,1,KA Pollard,2010-05-24,1st,JH Kallis,51,,AB de Villiers,33,West Indies,South Africa,220,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+236,38.5,1,KA Pollard,2010-05-24,1st,AB de Villiers,33,,JH Kallis,52,West Indies,South Africa,221,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+237,38.6,1,KA Pollard,2010-05-24,1st,JH Kallis,52,,AB de Villiers,34,West Indies,South Africa,222,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+238,39.1,1,DJ Bravo,2010-05-24,1st,JH Kallis,52,,AB de Villiers,35,West Indies,South Africa,223,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+239,39.2,0,DJ Bravo,2010-05-24,1st,AB de Villiers,35,,JH Kallis,52,West Indies,South Africa,223,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+240,39.3,1,DJ Bravo,2010-05-24,1st,AB de Villiers,35,,JH Kallis,53,West Indies,South Africa,224,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+241,39.4,0,DJ Bravo,2010-05-24,1st,JH Kallis,53,,AB de Villiers,35,West Indies,South Africa,224,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+242,39.5,2,DJ Bravo,2010-05-24,1st,JH Kallis,53,,AB de Villiers,37,West Indies,South Africa,226,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+243,39.6,1,DJ Bravo,2010-05-24,1st,JH Kallis,53,,AB de Villiers,38,West Indies,South Africa,227,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+244,40.1,0,KA Pollard,2010-05-24,1st,JH Kallis,53,,AB de Villiers,38,West Indies,South Africa,227,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+245,40.2,1,KA Pollard,2010-05-24,1st,JH Kallis,53,,AB de Villiers,39,West Indies,South Africa,228,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+246,40.3,1,KA Pollard,2010-05-24,1st,AB de Villiers,39,,JH Kallis,54,West Indies,South Africa,229,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+247,40.4,1,KA Pollard,2010-05-24,1st,JH Kallis,54,,AB de Villiers,40,West Indies,South Africa,230,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+248,40.5,0,KA Pollard,2010-05-24,1st,AB de Villiers,40,,JH Kallis,54,West Indies,South Africa,230,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+249,40.6,1,KA Pollard,2010-05-24,1st,AB de Villiers,40,,JH Kallis,55,West Indies,South Africa,231,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+250,41.1,2,DJ Bravo,2010-05-24,1st,AB de Villiers,40,,JH Kallis,57,West Indies,South Africa,233,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+251,41.2,0,DJ Bravo,2010-05-24,1st,AB de Villiers,40,,JH Kallis,57,West Indies,South Africa,234,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+252,41.3,1,DJ Bravo,2010-05-24,1st,JH Kallis,57,,AB de Villiers,41,West Indies,South Africa,235,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+253,41.4,2,DJ Bravo,2010-05-24,1st,AB de Villiers,41,,JH Kallis,59,West Indies,South Africa,237,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+254,41.5,1,DJ Bravo,2010-05-24,1st,AB de Villiers,41,,JH Kallis,60,West Indies,South Africa,238,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+255,41.6,0,DJ Bravo,2010-05-24,1st,JH Kallis,60,,AB de Villiers,41,West Indies,South Africa,238,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+256,42.1,1,KA Pollard,2010-05-24,1st,AB de Villiers,41,,JH Kallis,61,West Indies,South Africa,239,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+257,42.2,0,KA Pollard,2010-05-24,1st,JH Kallis,61,AB de Villiers,AB de Villiers,41,West Indies,South Africa,239,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+258,42.3,1,KA Pollard,2010-05-24,1st,DA Miller,0,,JH Kallis,62,West Indies,South Africa,240,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+259,42.4,1,KA Pollard,2010-05-24,1st,JH Kallis,62,,DA Miller,1,West Indies,South Africa,241,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+260,42.5,1,KA Pollard,2010-05-24,1st,DA Miller,1,,JH Kallis,63,West Indies,South Africa,242,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+261,42.6,0,KA Pollard,2010-05-24,1st,JH Kallis,63,,DA Miller,1,West Indies,South Africa,242,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+262,43.1,0,DJ Bravo,2010-05-24,1st,DA Miller,1,,JH Kallis,63,West Indies,South Africa,242,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+263,43.2,2,DJ Bravo,2010-05-24,1st,DA Miller,1,,JH Kallis,65,West Indies,South Africa,244,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+264,43.3,1,DJ Bravo,2010-05-24,1st,DA Miller,1,,JH Kallis,66,West Indies,South Africa,245,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+265,43.4,1,DJ Bravo,2010-05-24,1st,JH Kallis,66,,DA Miller,2,West Indies,South Africa,246,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+266,43.5,1,DJ Bravo,2010-05-24,1st,DA Miller,2,,JH Kallis,67,West Indies,South Africa,247,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+267,43.6,1,DJ Bravo,2010-05-24,1st,JH Kallis,67,,DA Miller,3,West Indies,South Africa,248,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+268,44.1,0,KA Pollard,2010-05-24,1st,JH Kallis,67,,DA Miller,3,West Indies,South Africa,248,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+269,44.2,0,KA Pollard,2010-05-24,1st,JH Kallis,67,,DA Miller,3,West Indies,South Africa,249,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+270,44.3,4,KA Pollard,2010-05-24,1st,DA Miller,3,,JH Kallis,71,West Indies,South Africa,253,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+271,44.4,1,KA Pollard,2010-05-24,1st,DA Miller,3,,JH Kallis,72,West Indies,South Africa,254,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+272,44.5,1,KA Pollard,2010-05-24,1st,JH Kallis,72,,DA Miller,4,West Indies,South Africa,255,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+273,44.6,0,KA Pollard,2010-05-24,1st,DA Miller,4,,JH Kallis,72,West Indies,South Africa,255,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+274,45.1,1,DJ Bravo,2010-05-24,1st,JH Kallis,72,,DA Miller,5,West Indies,South Africa,256,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+275,45.2,4,DJ Bravo,2010-05-24,1st,DA Miller,5,,JH Kallis,76,West Indies,South Africa,260,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+276,45.3,2,DJ Bravo,2010-05-24,1st,DA Miller,5,,JH Kallis,78,West Indies,South Africa,262,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+277,45.4,2,DJ Bravo,2010-05-24,1st,DA Miller,5,,JH Kallis,80,West Indies,South Africa,264,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+278,45.5,1,DJ Bravo,2010-05-24,1st,DA Miller,5,,JH Kallis,81,West Indies,South Africa,265,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+279,45.6,0,DJ Bravo,2010-05-24,1st,JH Kallis,81,,DA Miller,5,West Indies,South Africa,266,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+280,45.7,6,DJ Bravo,2010-05-24,1st,JH Kallis,81,,DA Miller,11,West Indies,South Africa,272,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+281,46.1,2,KA Pollard,2010-05-24,1st,DA Miller,11,,JH Kallis,83,West Indies,South Africa,274,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+282,46.2,0,KA Pollard,2010-05-24,1st,DA Miller,11,,JH Kallis,83,West Indies,South Africa,274,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+283,46.3,2,KA Pollard,2010-05-24,1st,DA Miller,11,,JH Kallis,85,West Indies,South Africa,276,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+284,46.4,0,KA Pollard,2010-05-24,1st,DA Miller,11,JH Kallis,JH Kallis,85,West Indies,South Africa,276,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+285,46.5,1,KA Pollard,2010-05-24,1st,AN Petersen,0,,DA Miller,12,West Indies,South Africa,277,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+286,46.6,1,KA Pollard,2010-05-24,1st,DA Miller,12,,AN Petersen,1,West Indies,South Africa,278,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+287,47.1,0,JE Taylor,2010-05-24,1st,DA Miller,12,AN Petersen,AN Petersen,1,West Indies,South Africa,278,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+288,47.2,0,JE Taylor,2010-05-24,1st,DA Miller,12,,R McLaren,0,West Indies,South Africa,278,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+289,47.3,0,JE Taylor,2010-05-24,1st,DA Miller,12,,R McLaren,0,West Indies,South Africa,278,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+290,47.4,0,JE Taylor,2010-05-24,1st,DA Miller,12,,R McLaren,0,West Indies,South Africa,278,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+291,47.5,1,JE Taylor,2010-05-24,1st,DA Miller,12,,R McLaren,1,West Indies,South Africa,279,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+292,47.6,1,JE Taylor,2010-05-24,1st,R McLaren,1,,DA Miller,13,West Indies,South Africa,280,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+293,48.1,1,KA Pollard,2010-05-24,1st,R McLaren,1,,DA Miller,14,West Indies,South Africa,281,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+294,48.2,1,KA Pollard,2010-05-24,1st,DA Miller,14,,R McLaren,2,West Indies,South Africa,282,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+295,48.3,1,KA Pollard,2010-05-24,1st,R McLaren,2,,DA Miller,15,West Indies,South Africa,283,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+296,48.4,1,KA Pollard,2010-05-24,1st,DA Miller,15,,R McLaren,3,West Indies,South Africa,284,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+297,48.5,0,KA Pollard,2010-05-24,1st,R McLaren,3,,DA Miller,15,West Indies,South Africa,284,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+298,48.6,0,KA Pollard,2010-05-24,1st,R McLaren,3,,DA Miller,15,West Indies,South Africa,284,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+299,49.1,1,JE Taylor,2010-05-24,1st,DA Miller,15,,R McLaren,4,West Indies,South Africa,285,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+300,49.2,2,JE Taylor,2010-05-24,1st,R McLaren,4,,DA Miller,17,West Indies,South Africa,287,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+301,49.3,6,JE Taylor,2010-05-24,1st,R McLaren,4,,DA Miller,23,West Indies,South Africa,293,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+302,49.4,2,JE Taylor,2010-05-24,1st,R McLaren,4,,DA Miller,25,West Indies,South Africa,295,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+303,49.5,1,JE Taylor,2010-05-24,1st,R McLaren,4,,DA Miller,26,West Indies,South Africa,296,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+304,49.6,4,JE Taylor,2010-05-24,1st,DA Miller,26,,R McLaren,8,West Indies,South Africa,300,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+305,0.1,0,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,0,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+306,0.2,2,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,2,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+307,0.3,0,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,2,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+308,0.4,0,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,2,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+309,0.5,1,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+310,0.6,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+311,1.1,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+312,1.2,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+313,1.3,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+314,1.4,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+315,1.5,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+316,1.6,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+317,2.1,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,3,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+318,2.2,1,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,4,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+319,2.3,0,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,4,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+320,2.4,2,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+321,2.5,0,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+322,2.6,0,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+323,3.1,0,LL Tsotsobe,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+324,3.2,0,LL Tsotsobe,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,6,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+325,3.3,4,LL Tsotsobe,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,10,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+326,3.4,0,LL Tsotsobe,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,10,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+327,3.5,0,LL Tsotsobe,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,10,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+328,3.6,0,LL Tsotsobe,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,10,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+329,4.1,4,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,14,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+330,4.2,4,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,18,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+331,4.3,1,DW Steyn,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,19,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+332,4.4,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,19,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+333,4.5,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,19,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+334,4.6,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,19,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+335,5.1,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,19,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+336,5.2,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,19,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+337,5.3,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,19,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+338,5.4,2,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,21,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+339,5.5,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,21,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+340,5.6,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,21,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+341,6.1,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,21,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+342,6.2,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,21,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+343,6.3,4,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,25,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+344,6.4,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,26,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+345,6.5,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,26,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+346,6.6,0,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,26,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+347,6.7,1,DW Steyn,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,27,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+348,7.1,1,LL Tsotsobe,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,28,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+349,7.2,4,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,32,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+350,7.3,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,32,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+351,7.4,6,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,38,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+352,7.5,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,39,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+353,7.6,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,39,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+354,7.7,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,39,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+355,8.1,0,M Morkel,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,39,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+356,8.2,0,M Morkel,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+357,8.3,0,M Morkel,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+358,8.4,0,M Morkel,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+359,8.5,0,M Morkel,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+360,8.6,0,M Morkel,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+361,9.1,0,R McLaren,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+362,9.2,0,R McLaren,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+363,9.3,0,R McLaren,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+364,9.4,0,R McLaren,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+365,9.5,0,R McLaren,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+366,9.6,0,R McLaren,2010-05-24,2nd,CH Gayle,0,,DM Richards,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+367,10.1,0,M Morkel,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",0,South Africa
+368,10.2,0,M Morkel,2010-05-24,2nd,DM Richards,0,,CH Gayle,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+369,10.3,0,M Morkel,2010-05-24,2nd,DM Richards,0,,RR Sarwan,0,West Indies,South Africa,40,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+370,10.4,4,M Morkel,2010-05-24,2nd,DM Richards,0,,RR Sarwan,0,West Indies,South Africa,44,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+371,10.5,0,M Morkel,2010-05-24,2nd,DM Richards,0,,RR Sarwan,0,West Indies,South Africa,45,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+372,10.6,0,M Morkel,2010-05-24,2nd,RR Sarwan,0,,DM Richards,0,West Indies,South Africa,45,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+373,11.1,1,R McLaren,2010-05-24,2nd,DM Richards,0,,RR Sarwan,0,West Indies,South Africa,46,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+374,11.2,0,R McLaren,2010-05-24,2nd,RR Sarwan,0,,DM Richards,0,West Indies,South Africa,46,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+375,11.3,2,R McLaren,2010-05-24,2nd,RR Sarwan,0,,DM Richards,0,West Indies,South Africa,48,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+376,11.4,1,R McLaren,2010-05-24,2nd,RR Sarwan,0,,DM Richards,0,West Indies,South Africa,49,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+377,11.5,1,R McLaren,2010-05-24,2nd,DM Richards,0,,RR Sarwan,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+378,11.6,0,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+379,12.1,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+380,12.2,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+381,12.3,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+382,12.4,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+383,12.5,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+384,12.6,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,50,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+385,13.1,4,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,54,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+386,13.2,0,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,54,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+387,13.3,4,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,58,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+388,13.4,0,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,59,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+389,13.5,2,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,61,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+390,13.6,0,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,61,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+391,13.7,0,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,61,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+392,14.1,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,61,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+393,14.2,0,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,61,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+394,14.3,3,M Morkel,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,64,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+395,14.4,0,M Morkel,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,64,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+396,14.5,0,M Morkel,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,65,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+397,14.6,0,M Morkel,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,65,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+398,14.7,1,M Morkel,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,66,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+399,15.1,0,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,66,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+400,15.2,1,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,67,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+401,15.3,2,R McLaren,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,69,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+402,15.4,0,R McLaren,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,69,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+403,15.5,1,R McLaren,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,70,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+404,15.6,4,R McLaren,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,74,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+405,16.1,1,J Botha,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,75,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+406,16.2,0,J Botha,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,75,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+407,16.3,0,J Botha,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,75,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+408,16.4,0,J Botha,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,75,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+409,16.5,0,J Botha,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,75,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+410,16.6,1,J Botha,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,76,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+411,17.1,1,LL Tsotsobe,2010-05-24,2nd,N Deonarine,0,,DM Richards,0,West Indies,South Africa,77,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+412,17.2,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,77,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+413,17.3,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,77,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+414,17.4,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,77,South Africa,"Sir Vivian Richards Stadium, North Sound",1,South Africa
+415,17.5,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,N Deonarine,0,West Indies,South Africa,77,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+416,17.6,1,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,78,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+417,18.1,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,79,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+418,18.2,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,80,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+419,18.3,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,81,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+420,18.4,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,81,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+421,18.5,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,81,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+422,18.6,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,81,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+423,19.1,4,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,85,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+424,19.2,1,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,86,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+425,19.3,0,LL Tsotsobe,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,86,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+426,19.4,2,LL Tsotsobe,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,88,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+427,19.5,1,LL Tsotsobe,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,89,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+428,19.6,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,89,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+429,20.1,2,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,91,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+430,20.2,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,92,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+431,20.3,0,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,92,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+432,20.4,0,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,92,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+433,20.5,2,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,94,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+434,20.6,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,95,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+435,21.1,1,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,96,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+436,21.2,0,LL Tsotsobe,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,96,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+437,21.3,1,LL Tsotsobe,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,97,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+438,21.4,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,97,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+439,21.5,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,97,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+440,21.6,0,LL Tsotsobe,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,97,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+441,22.1,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,97,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+442,22.2,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,97,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+443,22.3,4,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,101,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+444,22.4,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,101,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+445,22.5,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,102,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+446,22.6,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,103,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+447,23.1,1,JH Kallis,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,104,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+448,23.2,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,104,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+449,23.3,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,104,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+450,23.4,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,104,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+451,23.5,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,105,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+452,23.6,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,105,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+453,23.7,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,105,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+454,24.1,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,106,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+455,24.2,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,106,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+456,24.3,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,107,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+457,24.4,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,108,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+458,24.5,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,108,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+459,24.6,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,109,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+460,25.1,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,109,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+461,25.2,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,109,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+462,25.3,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,109,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+463,25.4,1,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,110,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+464,25.5,1,JH Kallis,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,111,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+465,25.6,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,111,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+466,26.1,0,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,111,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+467,26.2,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,112,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+468,26.3,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,113,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+469,26.4,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,114,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+470,26.5,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,115,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+471,26.6,1,J Botha,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,116,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+472,27.1,0,JH Kallis,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,116,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+473,27.2,1,JH Kallis,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,117,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+474,27.3,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,117,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+475,27.4,1,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,118,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+476,27.5,1,JH Kallis,2010-05-24,2nd,DM Richards,0,,DJ Bravo,0,West Indies,South Africa,119,South Africa,"Sir Vivian Richards Stadium, North Sound",2,South Africa
+477,27.6,0,JH Kallis,2010-05-24,2nd,DJ Bravo,0,,DM Richards,0,West Indies,South Africa,119,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+478,28.1,0,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,119,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+479,28.2,1,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,120,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+480,28.3,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,120,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+481,28.4,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,120,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+482,28.5,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,121,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+483,28.6,1,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,122,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+484,29.1,1,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,123,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+485,29.2,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,123,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+486,29.3,1,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,124,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+487,29.4,1,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,125,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+488,29.5,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,125,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+489,29.6,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,125,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+490,30.1,0,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,125,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+491,30.2,1,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,126,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+492,30.3,0,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,127,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+493,30.4,1,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,128,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+494,30.5,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,129,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+495,30.6,1,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,130,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+496,31.1,0,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,130,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+497,31.2,1,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,131,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+498,31.3,1,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,132,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+499,31.4,0,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,132,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+500,31.5,1,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,133,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+501,31.6,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,134,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+502,31.7,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,135,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+503,32.1,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,136,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+504,32.2,6,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,142,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+505,32.3,1,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,143,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+506,32.4,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,144,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+507,32.5,1,J Botha,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,145,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+508,32.6,1,J Botha,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,146,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+509,33.1,2,R McLaren,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,148,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+510,33.2,1,R McLaren,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,149,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+511,33.3,2,R McLaren,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,151,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+512,33.4,1,R McLaren,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,152,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+513,33.5,0,R McLaren,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,153,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+514,33.6,1,R McLaren,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,154,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+515,33.7,0,R McLaren,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,154,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+516,34.1,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,154,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+517,34.2,1,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,155,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+518,34.3,1,M Morkel,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,156,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+519,34.4,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,156,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+520,34.5,1,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,157,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+521,34.6,1,M Morkel,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,158,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+522,35.1,0,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,159,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+523,35.2,1,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,160,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+524,35.3,1,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,161,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+525,35.4,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,163,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+526,35.5,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,164,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+527,35.6,1,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,165,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+528,35.7,0,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,165,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+529,36.1,2,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,167,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+530,36.2,1,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,168,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+531,36.3,1,M Morkel,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,169,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+532,36.4,2,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,171,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+533,36.5,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,172,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+534,36.6,4,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,176,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+535,36.7,1,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,177,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+536,37.1,2,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,179,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+537,37.2,1,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,180,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+538,37.3,1,DW Steyn,2010-05-24,2nd,KA Pollard,0,,DJ Bravo,0,West Indies,South Africa,181,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+539,37.4,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,181,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+540,37.5,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,181,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+541,37.6,1,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,182,South Africa,"Sir Vivian Richards Stadium, North Sound",3,South Africa
+542,38.1,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,KA Pollard,0,West Indies,South Africa,182,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+543,38.2,1,M Morkel,2010-05-24,2nd,JE Taylor,0,,DJ Bravo,0,West Indies,South Africa,183,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+544,38.3,4,M Morkel,2010-05-24,2nd,DJ Bravo,0,,JE Taylor,0,West Indies,South Africa,187,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+545,38.4,2,M Morkel,2010-05-24,2nd,DJ Bravo,0,,JE Taylor,0,West Indies,South Africa,189,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+546,38.5,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,JE Taylor,0,West Indies,South Africa,189,South Africa,"Sir Vivian Richards Stadium, North Sound",4,South Africa
+547,38.6,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,JE Taylor,0,West Indies,South Africa,189,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+548,39.1,4,LL Tsotsobe,2010-05-24,2nd,D Ramdin,0,,DJ Bravo,0,West Indies,South Africa,193,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+549,39.2,1,LL Tsotsobe,2010-05-24,2nd,D Ramdin,0,,DJ Bravo,0,West Indies,South Africa,194,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+550,39.3,1,LL Tsotsobe,2010-05-24,2nd,DJ Bravo,0,,D Ramdin,0,West Indies,South Africa,195,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+551,39.4,0,LL Tsotsobe,2010-05-24,2nd,D Ramdin,0,,DJ Bravo,0,West Indies,South Africa,195,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+552,39.5,2,LL Tsotsobe,2010-05-24,2nd,D Ramdin,0,,DJ Bravo,0,West Indies,South Africa,197,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+553,39.6,0,LL Tsotsobe,2010-05-24,2nd,D Ramdin,0,,DJ Bravo,0,West Indies,South Africa,197,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+554,40.1,1,R McLaren,2010-05-24,2nd,DJ Bravo,0,,D Ramdin,0,West Indies,South Africa,198,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+555,40.2,1,R McLaren,2010-05-24,2nd,D Ramdin,0,,DJ Bravo,0,West Indies,South Africa,199,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+556,40.3,0,R McLaren,2010-05-24,2nd,DJ Bravo,0,,D Ramdin,0,West Indies,South Africa,200,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+557,40.4,0,R McLaren,2010-05-24,2nd,DJ Bravo,0,,D Ramdin,0,West Indies,South Africa,200,South Africa,"Sir Vivian Richards Stadium, North Sound",5,South Africa
+558,40.5,0,R McLaren,2010-05-24,2nd,DJ Bravo,0,,D Ramdin,0,West Indies,South Africa,200,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+559,40.6,0,R McLaren,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,200,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+560,40.7,1,R McLaren,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,201,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+561,41.1,4,LL Tsotsobe,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,205,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+562,41.2,2,LL Tsotsobe,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,207,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+563,41.3,2,LL Tsotsobe,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,209,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+564,41.4,0,LL Tsotsobe,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,209,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+565,41.5,6,LL Tsotsobe,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,215,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+566,41.6,1,LL Tsotsobe,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,216,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+567,42.1,1,M Morkel,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,217,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+568,42.2,2,M Morkel,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,219,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+569,42.3,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,219,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+570,42.4,0,M Morkel,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,220,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+571,42.5,1,M Morkel,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,221,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+572,42.6,1,M Morkel,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,222,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+573,42.7,1,M Morkel,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,223,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+574,43.1,6,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,229,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+575,43.2,6,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,235,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+576,43.3,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,235,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+577,43.4,0,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,235,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+578,43.5,1,DW Steyn,2010-05-24,2nd,DJ Bravo,0,,DJG Sammy,0,West Indies,South Africa,236,South Africa,"Sir Vivian Richards Stadium, North Sound",6,South Africa
+579,43.6,0,DW Steyn,2010-05-24,2nd,DJG Sammy,0,,DJ Bravo,0,West Indies,South Africa,236,South Africa,"Sir Vivian Richards Stadium, North Sound",7,South Africa
+580,44.1,0,J Botha,2010-05-24,2nd,DJG Sammy,0,,RR Sarwan,0,West Indies,South Africa,236,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+581,44.2,0,J Botha,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,236,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+582,44.3,1,J Botha,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,237,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+583,44.4,6,J Botha,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,243,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+584,44.5,6,J Botha,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,249,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+585,44.6,1,J Botha,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,250,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+586,45.1,0,DW Steyn,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,250,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+587,45.2,6,DW Steyn,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,256,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+588,45.3,1,DW Steyn,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,257,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+589,45.4,2,DW Steyn,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,259,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+590,45.5,0,DW Steyn,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,259,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+591,45.6,0,DW Steyn,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,259,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+592,46.1,2,M Morkel,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,261,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+593,46.2,2,M Morkel,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,263,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+594,46.3,4,M Morkel,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,267,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+595,46.4,4,M Morkel,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,271,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+596,46.5,6,M Morkel,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,277,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+597,46.6,1,M Morkel,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,278,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+598,47.1,1,R McLaren,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,279,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+599,47.2,1,R McLaren,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,280,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+600,47.3,1,R McLaren,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,281,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+601,47.4,0,R McLaren,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,281,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+602,47.5,1,R McLaren,2010-05-24,2nd,DJG Sammy,0,,R Rampaul,0,West Indies,South Africa,282,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+603,47.6,0,R McLaren,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,283,South Africa,"Sir Vivian Richards Stadium, North Sound",8,South Africa
+604,47.7,0,R McLaren,2010-05-24,2nd,R Rampaul,0,,DJG Sammy,0,West Indies,South Africa,283,South Africa,"Sir Vivian Richards Stadium, North Sound",9,South Africa
+605,48.1,0,M Morkel,2010-05-24,2nd,DJG Sammy,0,,NO Miller,0,West Indies,South Africa,283,South Africa,"Sir Vivian Richards Stadium, North Sound",10,South Africa

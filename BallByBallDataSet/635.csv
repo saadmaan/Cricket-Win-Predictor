@@ -1,0 +1,612 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+1,0.2,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+2,0.3,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+3,0.4,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+4,0.5,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+5,0.6,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,0,Tamim Iqbal,Tamim Iqbal,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+6,1.1,0,SW Masakadza,2010-12-06,1st,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+7,1.2,0,SW Masakadza,2010-12-06,1st,Junaid Siddique,0,,Imrul Kayes,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+8,1.3,4,SW Masakadza,2010-12-06,1st,Junaid Siddique,0,,Imrul Kayes,4,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+9,1.4,0,SW Masakadza,2010-12-06,1st,Junaid Siddique,0,,Imrul Kayes,4,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+10,1.5,0,SW Masakadza,2010-12-06,1st,Junaid Siddique,0,,Imrul Kayes,4,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+11,1.6,0,SW Masakadza,2010-12-06,1st,Junaid Siddique,0,,Imrul Kayes,4,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+12,2.1,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,4,,Junaid Siddique,0,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+13,2.2,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,4,,Junaid Siddique,0,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+14,2.3,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,4,,Junaid Siddique,0,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+15,2.4,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,4,,Junaid Siddique,0,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+16,2.5,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,4,,Junaid Siddique,0,Bangladesh,Zimbabwe,4,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+17,2.6,1,CB Mpofu,2010-12-06,1st,Imrul Kayes,4,,Junaid Siddique,1,Bangladesh,Zimbabwe,5,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+18,3.1,0,SW Masakadza,2010-12-06,1st,Imrul Kayes,4,Junaid Siddique,Junaid Siddique,1,Bangladesh,Zimbabwe,5,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+19,3.2,1,SW Masakadza,2010-12-06,1st,Imrul Kayes,4,,Raqibul Hasan,1,Bangladesh,Zimbabwe,6,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+20,3.3,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,4,Bangladesh,Zimbabwe,6,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+21,3.4,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,4,Bangladesh,Zimbabwe,6,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+22,3.5,1,SW Masakadza,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,5,Bangladesh,Zimbabwe,7,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+23,3.6,0,SW Masakadza,2010-12-06,1st,Imrul Kayes,5,,Raqibul Hasan,1,Bangladesh,Zimbabwe,7,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+24,4.1,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,5,Bangladesh,Zimbabwe,7,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+25,4.2,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,5,Bangladesh,Zimbabwe,7,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+26,4.3,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,5,Bangladesh,Zimbabwe,11,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+27,4.4,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,5,Bangladesh,Zimbabwe,11,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+28,4.5,4,CB Mpofu,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,9,Bangladesh,Zimbabwe,15,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+29,4.6,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,1,,Imrul Kayes,9,Bangladesh,Zimbabwe,15,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+30,5.1,0,SW Masakadza,2010-12-06,1st,Imrul Kayes,9,,Raqibul Hasan,1,Bangladesh,Zimbabwe,15,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+31,5.2,1,SW Masakadza,2010-12-06,1st,Imrul Kayes,9,,Raqibul Hasan,2,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+32,5.3,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,9,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+33,5.4,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,9,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+34,5.5,1,SW Masakadza,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,10,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+35,5.6,0,SW Masakadza,2010-12-06,1st,Imrul Kayes,10,,Raqibul Hasan,2,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+36,6.1,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,10,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+37,6.2,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,10,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+38,6.3,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,10,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+39,6.4,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,10,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+40,6.5,4,CB Mpofu,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,14,Bangladesh,Zimbabwe,21,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+41,6.6,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,2,,Imrul Kayes,14,Bangladesh,Zimbabwe,21,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+42,7.1,0,SW Masakadza,2010-12-06,1st,Imrul Kayes,14,,Raqibul Hasan,2,Bangladesh,Zimbabwe,21,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+43,7.2,1,SW Masakadza,2010-12-06,1st,Imrul Kayes,14,,Raqibul Hasan,3,Bangladesh,Zimbabwe,22,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+44,7.3,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,3,,Imrul Kayes,14,Bangladesh,Zimbabwe,22,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+45,7.4,4,SW Masakadza,2010-12-06,1st,Raqibul Hasan,3,,Imrul Kayes,18,Bangladesh,Zimbabwe,26,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+46,7.5,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,3,,Imrul Kayes,18,Bangladesh,Zimbabwe,27,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+47,7.6,0,SW Masakadza,2010-12-06,1st,Imrul Kayes,18,,Raqibul Hasan,3,Bangladesh,Zimbabwe,27,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+48,8.1,0,CJ Chibhabha,2010-12-06,1st,Raqibul Hasan,3,,Imrul Kayes,18,Bangladesh,Zimbabwe,27,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+49,8.2,0,CJ Chibhabha,2010-12-06,1st,Raqibul Hasan,3,,Imrul Kayes,18,Bangladesh,Zimbabwe,27,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+50,8.3,1,CJ Chibhabha,2010-12-06,1st,Raqibul Hasan,3,,Imrul Kayes,19,Bangladesh,Zimbabwe,28,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+51,8.4,0,CJ Chibhabha,2010-12-06,1st,Imrul Kayes,19,,Raqibul Hasan,3,Bangladesh,Zimbabwe,28,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+52,8.5,0,CJ Chibhabha,2010-12-06,1st,Imrul Kayes,19,,Raqibul Hasan,3,Bangladesh,Zimbabwe,28,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+53,8.6,4,CJ Chibhabha,2010-12-06,1st,Imrul Kayes,19,,Raqibul Hasan,7,Bangladesh,Zimbabwe,32,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+54,9.1,4,SW Masakadza,2010-12-06,1st,Raqibul Hasan,7,,Imrul Kayes,23,Bangladesh,Zimbabwe,36,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+55,9.2,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,7,,Imrul Kayes,23,Bangladesh,Zimbabwe,36,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+56,9.3,4,SW Masakadza,2010-12-06,1st,Raqibul Hasan,7,,Imrul Kayes,27,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+57,9.4,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,7,,Imrul Kayes,27,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+58,9.5,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,7,,Imrul Kayes,27,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+59,9.6,0,SW Masakadza,2010-12-06,1st,Raqibul Hasan,7,,Imrul Kayes,27,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+60,10.1,0,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,7,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+61,10.2,1,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,8,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+62,10.3,0,RW Price,2010-12-06,1st,Raqibul Hasan,8,,Imrul Kayes,27,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+63,10.4,0,RW Price,2010-12-06,1st,Raqibul Hasan,8,,Imrul Kayes,27,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+64,10.5,0,RW Price,2010-12-06,1st,Raqibul Hasan,8,,Imrul Kayes,27,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+65,10.6,0,RW Price,2010-12-06,1st,Raqibul Hasan,8,,Imrul Kayes,27,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+66,11.1,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,8,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+67,11.2,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,8,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+68,11.3,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,8,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+69,11.4,3,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,11,Bangladesh,Zimbabwe,44,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+70,11.5,0,CB Mpofu,2010-12-06,1st,Raqibul Hasan,11,,Imrul Kayes,27,Bangladesh,Zimbabwe,45,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+71,11.6,1,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,12,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+72,12.1,0,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,12,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+73,12.2,0,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,12,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+74,12.3,0,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,12,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+75,12.4,0,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,12,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+76,12.5,0,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,12,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+77,12.6,0,RW Price,2010-12-06,1st,Imrul Kayes,27,,Raqibul Hasan,12,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+78,13.1,0,P Utseya,2010-12-06,1st,Raqibul Hasan,12,,Imrul Kayes,27,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+79,13.2,0,P Utseya,2010-12-06,1st,Raqibul Hasan,12,,Imrul Kayes,27,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+80,13.3,0,P Utseya,2010-12-06,1st,Imrul Kayes,27,Raqibul Hasan,Raqibul Hasan,12,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+81,13.4,0,P Utseya,2010-12-06,1st,Imrul Kayes,27,,Shakib Al Hasan,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+82,13.5,1,P Utseya,2010-12-06,1st,Imrul Kayes,27,,Shakib Al Hasan,1,Bangladesh,Zimbabwe,48,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+83,13.6,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,1,,Imrul Kayes,27,Bangladesh,Zimbabwe,48,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+84,14.1,0,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Shakib Al Hasan,1,Bangladesh,Zimbabwe,48,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+85,14.2,4,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Shakib Al Hasan,5,Bangladesh,Zimbabwe,52,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+86,14.3,1,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Shakib Al Hasan,6,Bangladesh,Zimbabwe,53,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+87,14.4,0,CB Mpofu,2010-12-06,1st,Shakib Al Hasan,6,,Imrul Kayes,27,Bangladesh,Zimbabwe,54,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+88,14.5,1,CB Mpofu,2010-12-06,1st,Imrul Kayes,27,,Shakib Al Hasan,7,Bangladesh,Zimbabwe,55,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+89,14.6,0,CB Mpofu,2010-12-06,1st,Shakib Al Hasan,7,,Imrul Kayes,27,Bangladesh,Zimbabwe,55,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+90,15.1,1,SW Masakadza,2010-12-06,1st,Imrul Kayes,27,,Shakib Al Hasan,8,Bangladesh,Zimbabwe,56,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+91,15.2,1,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,8,,Imrul Kayes,28,Bangladesh,Zimbabwe,57,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+92,15.3,0,SW Masakadza,2010-12-06,1st,Imrul Kayes,28,,Shakib Al Hasan,8,Bangladesh,Zimbabwe,58,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+93,15.4,1,SW Masakadza,2010-12-06,1st,Imrul Kayes,28,,Shakib Al Hasan,9,Bangladesh,Zimbabwe,59,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+94,15.5,0,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,9,,Imrul Kayes,28,Bangladesh,Zimbabwe,59,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+95,15.6,0,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,9,,Imrul Kayes,28,Bangladesh,Zimbabwe,59,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+96,15.7,1,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,9,,Imrul Kayes,29,Bangladesh,Zimbabwe,60,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+97,16.1,0,RW Price,2010-12-06,1st,Shakib Al Hasan,9,,Imrul Kayes,29,Bangladesh,Zimbabwe,60,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+98,16.2,1,RW Price,2010-12-06,1st,Shakib Al Hasan,9,,Imrul Kayes,30,Bangladesh,Zimbabwe,61,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+99,16.3,0,RW Price,2010-12-06,1st,Imrul Kayes,30,,Shakib Al Hasan,9,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+100,16.4,1,RW Price,2010-12-06,1st,Imrul Kayes,30,,Shakib Al Hasan,10,Bangladesh,Zimbabwe,63,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+101,16.5,0,RW Price,2010-12-06,1st,Shakib Al Hasan,10,,Imrul Kayes,30,Bangladesh,Zimbabwe,63,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+102,16.6,2,RW Price,2010-12-06,1st,Shakib Al Hasan,10,,Imrul Kayes,32,Bangladesh,Zimbabwe,65,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+103,16.7,0,RW Price,2010-12-06,1st,Shakib Al Hasan,10,,Imrul Kayes,32,Bangladesh,Zimbabwe,65,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+104,17.1,0,P Utseya,2010-12-06,1st,Imrul Kayes,32,,Shakib Al Hasan,10,Bangladesh,Zimbabwe,65,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+105,17.2,1,P Utseya,2010-12-06,1st,Imrul Kayes,32,,Shakib Al Hasan,11,Bangladesh,Zimbabwe,66,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+106,17.3,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,11,,Imrul Kayes,32,Bangladesh,Zimbabwe,66,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+107,17.4,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,11,,Imrul Kayes,33,Bangladesh,Zimbabwe,67,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+108,17.5,1,P Utseya,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,12,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+109,17.6,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,12,,Imrul Kayes,33,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+110,18.1,0,RW Price,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,12,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+111,18.2,0,RW Price,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,12,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+112,18.3,0,RW Price,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,12,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+113,18.4,1,RW Price,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,13,Bangladesh,Zimbabwe,69,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+114,18.5,0,RW Price,2010-12-06,1st,Shakib Al Hasan,13,,Imrul Kayes,33,Bangladesh,Zimbabwe,69,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+115,18.6,0,RW Price,2010-12-06,1st,Shakib Al Hasan,13,,Imrul Kayes,33,Bangladesh,Zimbabwe,69,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+116,19.1,0,P Utseya,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,13,Bangladesh,Zimbabwe,69,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+117,19.2,0,P Utseya,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,13,Bangladesh,Zimbabwe,70,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+118,19.3,0,P Utseya,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,13,Bangladesh,Zimbabwe,70,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+119,19.4,1,P Utseya,2010-12-06,1st,Imrul Kayes,33,,Shakib Al Hasan,14,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+120,19.5,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,14,Imrul Kayes,Imrul Kayes,33,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+121,19.6,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,14,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+122,19.7,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,14,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+123,20.1,1,RW Price,2010-12-06,1st,Mushfiqur Rahim,0,,Shakib Al Hasan,15,Bangladesh,Zimbabwe,72,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+124,20.2,0,RW Price,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,72,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+125,20.3,0,RW Price,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,72,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+126,20.4,0,RW Price,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,0,Bangladesh,Zimbabwe,72,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+127,20.5,1,RW Price,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,1,Bangladesh,Zimbabwe,73,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+128,20.6,0,RW Price,2010-12-06,1st,Mushfiqur Rahim,1,,Shakib Al Hasan,15,Bangladesh,Zimbabwe,73,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+129,21.1,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,1,Bangladesh,Zimbabwe,73,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+130,21.2,4,P Utseya,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,5,Bangladesh,Zimbabwe,77,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+131,21.3,4,P Utseya,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,9,Bangladesh,Zimbabwe,81,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+132,21.4,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,9,Bangladesh,Zimbabwe,81,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+133,21.5,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,15,,Mushfiqur Rahim,10,Bangladesh,Zimbabwe,82,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+134,21.6,1,P Utseya,2010-12-06,1st,Mushfiqur Rahim,10,,Shakib Al Hasan,16,Bangladesh,Zimbabwe,83,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+135,22.1,0,RW Price,2010-12-06,1st,Mushfiqur Rahim,10,,Shakib Al Hasan,16,Bangladesh,Zimbabwe,83,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+136,22.2,1,RW Price,2010-12-06,1st,Mushfiqur Rahim,10,,Shakib Al Hasan,17,Bangladesh,Zimbabwe,84,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+137,22.3,2,RW Price,2010-12-06,1st,Shakib Al Hasan,17,,Mushfiqur Rahim,12,Bangladesh,Zimbabwe,86,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+138,22.4,0,RW Price,2010-12-06,1st,Shakib Al Hasan,17,,Mushfiqur Rahim,12,Bangladesh,Zimbabwe,86,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+139,22.5,0,RW Price,2010-12-06,1st,Shakib Al Hasan,17,,Mushfiqur Rahim,12,Bangladesh,Zimbabwe,86,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+140,22.6,0,RW Price,2010-12-06,1st,Shakib Al Hasan,17,,Mushfiqur Rahim,12,Bangladesh,Zimbabwe,86,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+141,23.1,0,P Utseya,2010-12-06,1st,Mushfiqur Rahim,12,,Shakib Al Hasan,17,Bangladesh,Zimbabwe,86,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+142,23.2,1,P Utseya,2010-12-06,1st,Mushfiqur Rahim,12,,Shakib Al Hasan,18,Bangladesh,Zimbabwe,87,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+143,23.3,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,18,,Mushfiqur Rahim,12,Bangladesh,Zimbabwe,87,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+144,23.4,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,18,,Mushfiqur Rahim,13,Bangladesh,Zimbabwe,88,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+145,23.5,0,P Utseya,2010-12-06,1st,Mushfiqur Rahim,13,,Shakib Al Hasan,18,Bangladesh,Zimbabwe,88,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+146,23.6,0,P Utseya,2010-12-06,1st,Mushfiqur Rahim,13,,Shakib Al Hasan,18,Bangladesh,Zimbabwe,88,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+147,24.1,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,18,,Mushfiqur Rahim,14,Bangladesh,Zimbabwe,89,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+148,24.2,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,14,,Shakib Al Hasan,19,Bangladesh,Zimbabwe,90,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+149,24.3,0,AG Cremer,2010-12-06,1st,Shakib Al Hasan,19,,Mushfiqur Rahim,14,Bangladesh,Zimbabwe,90,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+150,24.4,4,AG Cremer,2010-12-06,1st,Shakib Al Hasan,19,,Mushfiqur Rahim,18,Bangladesh,Zimbabwe,94,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+151,24.5,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,19,,Mushfiqur Rahim,19,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+152,24.6,0,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,19,,Shakib Al Hasan,19,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+153,25.1,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,19,,Mushfiqur Rahim,19,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+154,25.2,2,P Utseya,2010-12-06,1st,Shakib Al Hasan,19,,Mushfiqur Rahim,21,Bangladesh,Zimbabwe,97,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+155,25.3,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,19,,Mushfiqur Rahim,22,Bangladesh,Zimbabwe,98,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+156,25.4,0,P Utseya,2010-12-06,1st,Mushfiqur Rahim,22,,Shakib Al Hasan,19,Bangladesh,Zimbabwe,98,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+157,25.5,1,P Utseya,2010-12-06,1st,Mushfiqur Rahim,22,,Shakib Al Hasan,20,Bangladesh,Zimbabwe,99,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+158,25.6,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,20,,Mushfiqur Rahim,22,Bangladesh,Zimbabwe,99,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+159,26.1,0,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,22,,Shakib Al Hasan,20,Bangladesh,Zimbabwe,100,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+160,26.2,2,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,22,,Shakib Al Hasan,22,Bangladesh,Zimbabwe,102,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+161,26.3,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,22,,Shakib Al Hasan,23,Bangladesh,Zimbabwe,103,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+162,26.4,0,AG Cremer,2010-12-06,1st,Shakib Al Hasan,23,,Mushfiqur Rahim,22,Bangladesh,Zimbabwe,103,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+163,26.5,0,AG Cremer,2010-12-06,1st,Shakib Al Hasan,23,,Mushfiqur Rahim,22,Bangladesh,Zimbabwe,103,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+164,26.6,0,AG Cremer,2010-12-06,1st,Shakib Al Hasan,23,,Mushfiqur Rahim,22,Bangladesh,Zimbabwe,103,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+165,26.7,0,AG Cremer,2010-12-06,1st,Shakib Al Hasan,23,,Mushfiqur Rahim,22,Bangladesh,Zimbabwe,103,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+166,27.1,1,P Utseya,2010-12-06,1st,Mushfiqur Rahim,22,,Shakib Al Hasan,24,Bangladesh,Zimbabwe,104,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+167,27.2,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,24,,Mushfiqur Rahim,23,Bangladesh,Zimbabwe,105,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+168,27.3,1,P Utseya,2010-12-06,1st,Mushfiqur Rahim,23,,Shakib Al Hasan,25,Bangladesh,Zimbabwe,106,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+169,27.4,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,25,,Mushfiqur Rahim,24,Bangladesh,Zimbabwe,107,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+170,27.5,1,P Utseya,2010-12-06,1st,Mushfiqur Rahim,24,,Shakib Al Hasan,26,Bangladesh,Zimbabwe,108,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+171,27.6,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,26,,Mushfiqur Rahim,25,Bangladesh,Zimbabwe,109,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+172,28.1,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,26,,Mushfiqur Rahim,26,Bangladesh,Zimbabwe,110,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+173,28.2,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,26,,Shakib Al Hasan,27,Bangladesh,Zimbabwe,111,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+174,28.3,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,27,,Mushfiqur Rahim,27,Bangladesh,Zimbabwe,112,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+175,28.4,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,27,,Shakib Al Hasan,28,Bangladesh,Zimbabwe,113,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+176,28.5,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,28,,Mushfiqur Rahim,28,Bangladesh,Zimbabwe,114,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+177,28.6,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,28,,Shakib Al Hasan,29,Bangladesh,Zimbabwe,115,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+178,29.1,1,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,28,,Shakib Al Hasan,30,Bangladesh,Zimbabwe,116,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+179,29.2,0,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,30,,Mushfiqur Rahim,28,Bangladesh,Zimbabwe,116,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+180,29.3,1,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,30,,Mushfiqur Rahim,29,Bangladesh,Zimbabwe,117,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+181,29.4,1,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,29,,Shakib Al Hasan,31,Bangladesh,Zimbabwe,118,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+182,29.5,1,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,31,,Mushfiqur Rahim,30,Bangladesh,Zimbabwe,119,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+183,29.6,0,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,30,,Shakib Al Hasan,31,Bangladesh,Zimbabwe,119,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+184,30.1,2,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,31,,Mushfiqur Rahim,32,Bangladesh,Zimbabwe,121,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+185,30.2,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,31,,Mushfiqur Rahim,32,Bangladesh,Zimbabwe,121,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+186,30.3,1,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,31,,Mushfiqur Rahim,33,Bangladesh,Zimbabwe,122,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+187,30.4,2,BRM Taylor,2010-12-06,1st,Mushfiqur Rahim,33,,Shakib Al Hasan,33,Bangladesh,Zimbabwe,124,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+188,30.5,0,BRM Taylor,2010-12-06,1st,Mushfiqur Rahim,33,,Shakib Al Hasan,33,Bangladesh,Zimbabwe,124,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+189,30.6,1,BRM Taylor,2010-12-06,1st,Mushfiqur Rahim,33,,Shakib Al Hasan,34,Bangladesh,Zimbabwe,125,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+190,31.1,0,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,33,,Shakib Al Hasan,34,Bangladesh,Zimbabwe,125,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+191,31.2,0,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,33,,Shakib Al Hasan,34,Bangladesh,Zimbabwe,125,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+192,31.3,1,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,33,,Shakib Al Hasan,35,Bangladesh,Zimbabwe,126,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+193,31.4,0,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,35,,Mushfiqur Rahim,33,Bangladesh,Zimbabwe,126,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+194,31.5,1,SW Masakadza,2010-12-06,1st,Shakib Al Hasan,35,,Mushfiqur Rahim,34,Bangladesh,Zimbabwe,127,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+195,31.6,0,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,34,,Shakib Al Hasan,35,Bangladesh,Zimbabwe,128,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+196,31.7,1,SW Masakadza,2010-12-06,1st,Mushfiqur Rahim,34,,Shakib Al Hasan,36,Bangladesh,Zimbabwe,129,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+197,32.1,0,BRM Taylor,2010-12-06,1st,Mushfiqur Rahim,34,,Shakib Al Hasan,36,Bangladesh,Zimbabwe,129,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+198,32.2,1,BRM Taylor,2010-12-06,1st,Mushfiqur Rahim,34,,Shakib Al Hasan,37,Bangladesh,Zimbabwe,130,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+199,32.3,1,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,37,,Mushfiqur Rahim,35,Bangladesh,Zimbabwe,131,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+200,32.4,1,BRM Taylor,2010-12-06,1st,Mushfiqur Rahim,35,,Shakib Al Hasan,38,Bangladesh,Zimbabwe,132,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+201,32.5,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,38,,Mushfiqur Rahim,35,Bangladesh,Zimbabwe,132,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+202,32.6,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,38,,Mushfiqur Rahim,35,Bangladesh,Zimbabwe,132,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+203,33.1,0,CJ Chibhabha,2010-12-06,1st,Mushfiqur Rahim,35,,Shakib Al Hasan,38,Bangladesh,Zimbabwe,132,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+204,33.2,4,CJ Chibhabha,2010-12-06,1st,Mushfiqur Rahim,35,,Shakib Al Hasan,42,Bangladesh,Zimbabwe,136,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+205,33.3,0,CJ Chibhabha,2010-12-06,1st,Mushfiqur Rahim,35,,Shakib Al Hasan,42,Bangladesh,Zimbabwe,136,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+206,33.4,2,CJ Chibhabha,2010-12-06,1st,Mushfiqur Rahim,35,,Shakib Al Hasan,44,Bangladesh,Zimbabwe,138,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+207,33.5,0,CJ Chibhabha,2010-12-06,1st,Mushfiqur Rahim,35,,Shakib Al Hasan,44,Bangladesh,Zimbabwe,138,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+208,33.6,0,CJ Chibhabha,2010-12-06,1st,Mushfiqur Rahim,35,,Shakib Al Hasan,44,Bangladesh,Zimbabwe,138,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+209,34.1,4,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,44,,Mushfiqur Rahim,39,Bangladesh,Zimbabwe,142,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+210,34.2,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,44,,Mushfiqur Rahim,39,Bangladesh,Zimbabwe,142,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+211,34.3,1,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,44,,Mushfiqur Rahim,40,Bangladesh,Zimbabwe,143,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+212,34.4,1,BRM Taylor,2010-12-06,1st,Mushfiqur Rahim,40,,Shakib Al Hasan,45,Bangladesh,Zimbabwe,144,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+213,34.5,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,45,,Mushfiqur Rahim,40,Bangladesh,Zimbabwe,144,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+214,34.6,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,45,,Mushfiqur Rahim,40,Bangladesh,Zimbabwe,144,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+215,35.1,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,40,,Shakib Al Hasan,46,Bangladesh,Zimbabwe,145,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+216,35.2,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,46,,Mushfiqur Rahim,41,Bangladesh,Zimbabwe,146,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+217,35.3,0,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,41,,Shakib Al Hasan,46,Bangladesh,Zimbabwe,146,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+218,35.4,0,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,41,,Shakib Al Hasan,46,Bangladesh,Zimbabwe,146,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+219,35.5,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,41,,Shakib Al Hasan,47,Bangladesh,Zimbabwe,147,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+220,35.6,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,47,,Mushfiqur Rahim,42,Bangladesh,Zimbabwe,148,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+221,36.1,0,RW Price,2010-12-06,1st,Shakib Al Hasan,47,,Mushfiqur Rahim,42,Bangladesh,Zimbabwe,148,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+222,36.2,0,RW Price,2010-12-06,1st,Shakib Al Hasan,47,,Mushfiqur Rahim,42,Bangladesh,Zimbabwe,148,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+223,36.3,1,RW Price,2010-12-06,1st,Shakib Al Hasan,47,,Mushfiqur Rahim,43,Bangladesh,Zimbabwe,149,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+224,36.4,1,RW Price,2010-12-06,1st,Mushfiqur Rahim,43,,Shakib Al Hasan,48,Bangladesh,Zimbabwe,150,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+225,36.5,0,RW Price,2010-12-06,1st,Shakib Al Hasan,48,,Mushfiqur Rahim,43,Bangladesh,Zimbabwe,150,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+226,36.6,1,RW Price,2010-12-06,1st,Shakib Al Hasan,48,,Mushfiqur Rahim,44,Bangladesh,Zimbabwe,151,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+227,37.1,0,AG Cremer,2010-12-06,1st,Shakib Al Hasan,48,,Mushfiqur Rahim,44,Bangladesh,Zimbabwe,151,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+228,37.2,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,48,,Mushfiqur Rahim,45,Bangladesh,Zimbabwe,152,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+229,37.3,0,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,45,,Shakib Al Hasan,48,Bangladesh,Zimbabwe,152,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+230,37.4,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,45,,Shakib Al Hasan,49,Bangladesh,Zimbabwe,153,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+231,37.5,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,49,,Mushfiqur Rahim,46,Bangladesh,Zimbabwe,154,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+232,37.6,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,46,,Shakib Al Hasan,50,Bangladesh,Zimbabwe,155,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+233,38.1,4,RW Price,2010-12-06,1st,Mushfiqur Rahim,46,,Shakib Al Hasan,54,Bangladesh,Zimbabwe,159,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+234,38.2,0,RW Price,2010-12-06,1st,Mushfiqur Rahim,46,,Shakib Al Hasan,54,Bangladesh,Zimbabwe,159,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+235,38.3,1,RW Price,2010-12-06,1st,Mushfiqur Rahim,46,,Shakib Al Hasan,55,Bangladesh,Zimbabwe,160,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+236,38.4,4,RW Price,2010-12-06,1st,Shakib Al Hasan,55,,Mushfiqur Rahim,50,Bangladesh,Zimbabwe,164,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+237,38.5,1,RW Price,2010-12-06,1st,Shakib Al Hasan,55,,Mushfiqur Rahim,51,Bangladesh,Zimbabwe,165,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+238,38.6,0,RW Price,2010-12-06,1st,Mushfiqur Rahim,51,,Shakib Al Hasan,55,Bangladesh,Zimbabwe,165,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+239,39.1,1,CB Mpofu,2010-12-06,1st,Shakib Al Hasan,55,,Mushfiqur Rahim,52,Bangladesh,Zimbabwe,166,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+240,39.2,0,CB Mpofu,2010-12-06,1st,Mushfiqur Rahim,52,,Shakib Al Hasan,55,Bangladesh,Zimbabwe,166,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+241,39.3,0,CB Mpofu,2010-12-06,1st,Mushfiqur Rahim,52,,Shakib Al Hasan,55,Bangladesh,Zimbabwe,166,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+242,39.4,4,CB Mpofu,2010-12-06,1st,Mushfiqur Rahim,52,,Shakib Al Hasan,59,Bangladesh,Zimbabwe,170,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+243,39.5,0,CB Mpofu,2010-12-06,1st,Mushfiqur Rahim,52,,Shakib Al Hasan,59,Bangladesh,Zimbabwe,170,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+244,39.6,1,CB Mpofu,2010-12-06,1st,Mushfiqur Rahim,52,,Shakib Al Hasan,60,Bangladesh,Zimbabwe,171,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+245,40.1,0,P Utseya,2010-12-06,1st,Mushfiqur Rahim,52,,Shakib Al Hasan,60,Bangladesh,Zimbabwe,172,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+246,40.2,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,60,,Mushfiqur Rahim,52,Bangladesh,Zimbabwe,173,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+247,40.3,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,60,,Mushfiqur Rahim,52,Bangladesh,Zimbabwe,173,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+248,40.4,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,60,,Mushfiqur Rahim,53,Bangladesh,Zimbabwe,174,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+249,40.5,1,P Utseya,2010-12-06,1st,Mushfiqur Rahim,53,,Shakib Al Hasan,61,Bangladesh,Zimbabwe,175,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+250,40.6,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,61,,Mushfiqur Rahim,54,Bangladesh,Zimbabwe,176,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+251,40.7,0,P Utseya,2010-12-06,1st,Mushfiqur Rahim,54,,Shakib Al Hasan,61,Bangladesh,Zimbabwe,176,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+252,41.1,6,AG Cremer,2010-12-06,1st,Shakib Al Hasan,61,,Mushfiqur Rahim,60,Bangladesh,Zimbabwe,182,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+253,41.2,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,61,,Mushfiqur Rahim,61,Bangladesh,Zimbabwe,183,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+254,41.3,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,61,,Shakib Al Hasan,62,Bangladesh,Zimbabwe,184,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+255,41.4,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,62,,Mushfiqur Rahim,62,Bangladesh,Zimbabwe,185,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+256,41.5,1,AG Cremer,2010-12-06,1st,Mushfiqur Rahim,62,,Shakib Al Hasan,63,Bangladesh,Zimbabwe,186,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+257,41.6,1,AG Cremer,2010-12-06,1st,Shakib Al Hasan,63,,Mushfiqur Rahim,63,Bangladesh,Zimbabwe,187,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+258,42.1,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,63,,Mushfiqur Rahim,63,Bangladesh,Zimbabwe,187,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+259,42.2,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,63,Mushfiqur Rahim,Mushfiqur Rahim,63,Bangladesh,Zimbabwe,187,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+260,42.3,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,63,,Naeem Islam,0,Bangladesh,Zimbabwe,187,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+261,42.4,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,63,,Naeem Islam,1,Bangladesh,Zimbabwe,188,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+262,42.5,0,P Utseya,2010-12-06,1st,Naeem Islam,1,,Shakib Al Hasan,63,Bangladesh,Zimbabwe,189,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+263,42.6,0,P Utseya,2010-12-06,1st,Naeem Islam,1,,Shakib Al Hasan,63,Bangladesh,Zimbabwe,190,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+264,42.7,1,P Utseya,2010-12-06,1st,Naeem Islam,1,,Shakib Al Hasan,64,Bangladesh,Zimbabwe,191,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+265,42.8,0,P Utseya,2010-12-06,1st,Shakib Al Hasan,64,,Naeem Islam,1,Bangladesh,Zimbabwe,191,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+266,43.1,1,RW Price,2010-12-06,1st,Naeem Islam,1,,Shakib Al Hasan,65,Bangladesh,Zimbabwe,192,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+267,43.2,0,RW Price,2010-12-06,1st,Shakib Al Hasan,65,,Naeem Islam,1,Bangladesh,Zimbabwe,192,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+268,43.3,1,RW Price,2010-12-06,1st,Shakib Al Hasan,65,,Naeem Islam,2,Bangladesh,Zimbabwe,193,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+269,43.4,0,RW Price,2010-12-06,1st,Naeem Islam,2,,Shakib Al Hasan,65,Bangladesh,Zimbabwe,193,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+270,43.5,1,RW Price,2010-12-06,1st,Naeem Islam,2,,Shakib Al Hasan,66,Bangladesh,Zimbabwe,194,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+271,43.6,1,RW Price,2010-12-06,1st,Shakib Al Hasan,66,,Naeem Islam,3,Bangladesh,Zimbabwe,195,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+272,44.1,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,66,,Naeem Islam,3,Bangladesh,Zimbabwe,195,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+273,44.2,0,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,66,,Naeem Islam,3,Bangladesh,Zimbabwe,195,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+274,44.3,1,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,66,,Naeem Islam,4,Bangladesh,Zimbabwe,196,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+275,44.4,1,BRM Taylor,2010-12-06,1st,Naeem Islam,4,,Shakib Al Hasan,67,Bangladesh,Zimbabwe,197,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+276,44.5,1,BRM Taylor,2010-12-06,1st,Shakib Al Hasan,67,,Naeem Islam,5,Bangladesh,Zimbabwe,198,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+277,44.6,4,BRM Taylor,2010-12-06,1st,Naeem Islam,5,,Shakib Al Hasan,71,Bangladesh,Zimbabwe,202,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+278,45.1,0,CB Mpofu,2010-12-06,1st,Shakib Al Hasan,71,,Naeem Islam,5,Bangladesh,Zimbabwe,202,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+279,45.2,1,CB Mpofu,2010-12-06,1st,Shakib Al Hasan,71,,Naeem Islam,6,Bangladesh,Zimbabwe,203,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+280,45.3,1,CB Mpofu,2010-12-06,1st,Naeem Islam,6,,Shakib Al Hasan,72,Bangladesh,Zimbabwe,204,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+281,45.4,1,CB Mpofu,2010-12-06,1st,Shakib Al Hasan,72,,Naeem Islam,7,Bangladesh,Zimbabwe,205,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+282,45.5,1,CB Mpofu,2010-12-06,1st,Naeem Islam,7,,Shakib Al Hasan,73,Bangladesh,Zimbabwe,206,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+283,45.6,1,CB Mpofu,2010-12-06,1st,Shakib Al Hasan,73,,Naeem Islam,8,Bangladesh,Zimbabwe,207,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+284,46.1,1,P Utseya,2010-12-06,1st,Shakib Al Hasan,73,,Naeem Islam,9,Bangladesh,Zimbabwe,208,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+285,46.2,0,P Utseya,2010-12-06,1st,Naeem Islam,9,Shakib Al Hasan,Shakib Al Hasan,73,Bangladesh,Zimbabwe,208,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+286,46.3,0,P Utseya,2010-12-06,1st,Naeem Islam,9,,Suhrawadi Shuvo,0,Bangladesh,Zimbabwe,208,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+287,46.4,1,P Utseya,2010-12-06,1st,Naeem Islam,9,,Suhrawadi Shuvo,1,Bangladesh,Zimbabwe,209,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+288,46.5,0,P Utseya,2010-12-06,1st,Suhrawadi Shuvo,1,,Naeem Islam,9,Bangladesh,Zimbabwe,209,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+289,46.6,0,P Utseya,2010-12-06,1st,Suhrawadi Shuvo,1,,Naeem Islam,9,Bangladesh,Zimbabwe,209,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+290,47.1,0,CB Mpofu,2010-12-06,1st,Naeem Islam,9,,Suhrawadi Shuvo,1,Bangladesh,Zimbabwe,209,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+291,47.2,0,CB Mpofu,2010-12-06,1st,Naeem Islam,9,,Suhrawadi Shuvo,1,Bangladesh,Zimbabwe,209,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+292,47.3,1,CB Mpofu,2010-12-06,1st,Naeem Islam,9,,Suhrawadi Shuvo,2,Bangladesh,Zimbabwe,210,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+293,47.4,1,CB Mpofu,2010-12-06,1st,Suhrawadi Shuvo,2,,Naeem Islam,10,Bangladesh,Zimbabwe,211,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+294,47.5,1,CB Mpofu,2010-12-06,1st,Naeem Islam,10,,Suhrawadi Shuvo,3,Bangladesh,Zimbabwe,212,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+295,47.6,4,CB Mpofu,2010-12-06,1st,Suhrawadi Shuvo,3,,Naeem Islam,14,Bangladesh,Zimbabwe,216,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+296,48.1,1,RW Price,2010-12-06,1st,Naeem Islam,14,,Suhrawadi Shuvo,4,Bangladesh,Zimbabwe,217,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+297,48.2,0,RW Price,2010-12-06,1st,Suhrawadi Shuvo,4,,Naeem Islam,14,Bangladesh,Zimbabwe,217,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+298,48.3,4,RW Price,2010-12-06,1st,Suhrawadi Shuvo,4,,Naeem Islam,18,Bangladesh,Zimbabwe,221,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+299,48.4,3,RW Price,2010-12-06,1st,Suhrawadi Shuvo,4,,Naeem Islam,21,Bangladesh,Zimbabwe,224,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+300,48.5,4,RW Price,2010-12-06,1st,Naeem Islam,21,,Suhrawadi Shuvo,8,Bangladesh,Zimbabwe,228,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+301,48.6,0,RW Price,2010-12-06,1st,Naeem Islam,21,Suhrawadi Shuvo,Suhrawadi Shuvo,8,Bangladesh,Zimbabwe,228,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+302,49.1,0,CB Mpofu,2010-12-06,1st,Mashrafe Mortaza,0,,Naeem Islam,21,Bangladesh,Zimbabwe,233,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+303,49.2,1,CB Mpofu,2010-12-06,1st,Mashrafe Mortaza,0,,Naeem Islam,22,Bangladesh,Zimbabwe,234,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+304,49.3,4,CB Mpofu,2010-12-06,1st,Naeem Islam,22,,Mashrafe Mortaza,4,Bangladesh,Zimbabwe,238,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+305,49.4,1,CB Mpofu,2010-12-06,1st,Naeem Islam,22,,Mashrafe Mortaza,5,Bangladesh,Zimbabwe,239,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+306,49.5,1,CB Mpofu,2010-12-06,1st,Mashrafe Mortaza,5,,Naeem Islam,23,Bangladesh,Zimbabwe,240,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+307,49.6,2,CB Mpofu,2010-12-06,1st,Naeem Islam,23,,Mashrafe Mortaza,7,Bangladesh,Zimbabwe,242,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+308,49.7,4,CB Mpofu,2010-12-06,1st,Naeem Islam,23,,Mashrafe Mortaza,11,Bangladesh,Zimbabwe,246,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+309,0.1,0,Mashrafe Mortaza,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+310,0.2,0,Mashrafe Mortaza,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+311,0.3,0,Mashrafe Mortaza,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,0,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+312,0.4,2,Mashrafe Mortaza,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,2,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+313,0.5,0,Mashrafe Mortaza,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,2,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+314,0.6,0,Mashrafe Mortaza,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,2,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+315,1.1,1,Shafiul Islam,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,3,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+316,1.2,2,Shafiul Islam,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,5,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+317,1.3,0,Shafiul Islam,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,5,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+318,1.4,2,Shafiul Islam,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,7,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+319,1.5,2,Shafiul Islam,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,9,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+320,1.6,0,Shafiul Islam,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,9,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+321,2.1,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,9,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+322,2.2,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,9,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+323,2.3,4,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,13,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+324,2.4,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,13,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+325,2.5,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,13,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+326,2.6,1,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,14,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+327,3.1,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,14,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+328,3.2,1,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,15,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+329,3.3,1,Abdur Razzak,2010-12-06,2nd,CJ Chibhabha,0,,BRM Taylor,0,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,0,Bangladesh
+330,3.4,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,CJ Chibhabha,0,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+331,3.5,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+332,3.6,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+333,4.1,0,Mashrafe Mortaza,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,16,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+334,4.2,1,Mashrafe Mortaza,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+335,4.3,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+336,4.4,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,17,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+337,4.5,1,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,18,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+338,4.6,1,Mashrafe Mortaza,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,19,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+339,5.1,0,Abdur Razzak,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,19,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+340,5.2,1,Abdur Razzak,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,20,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+341,5.3,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,20,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+342,5.4,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,20,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+343,5.5,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,20,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+344,5.6,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,20,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+345,6.1,0,Mashrafe Mortaza,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,20,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+346,6.2,0,Mashrafe Mortaza,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,20,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+347,6.3,1,Mashrafe Mortaza,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,21,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+348,6.4,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,21,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+349,6.5,2,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,23,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+350,6.6,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,23,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+351,7.1,1,Abdur Razzak,2010-12-06,2nd,H Masakadza,0,,BRM Taylor,0,Bangladesh,Zimbabwe,24,Zimbabwe,Shere Bangla National Stadium,1,Bangladesh
+352,7.2,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,H Masakadza,0,Bangladesh,Zimbabwe,24,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+353,7.3,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,24,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+354,7.4,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,24,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+355,7.5,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,24,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+356,7.6,0,Abdur Razzak,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,24,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+357,8.1,1,Mashrafe Mortaza,2010-12-06,2nd,T Taibu,0,,BRM Taylor,0,Bangladesh,Zimbabwe,25,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+358,8.2,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,25,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+359,8.3,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,25,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+360,8.4,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+361,8.5,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+362,8.6,0,Mashrafe Mortaza,2010-12-06,2nd,BRM Taylor,0,,T Taibu,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+363,9.1,0,Abdur Razzak,2010-12-06,2nd,T Taibu,0,,BRM Taylor,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+364,9.2,0,Abdur Razzak,2010-12-06,2nd,T Taibu,0,,BRM Taylor,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+365,9.3,0,Abdur Razzak,2010-12-06,2nd,T Taibu,0,,BRM Taylor,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+366,9.4,0,Abdur Razzak,2010-12-06,2nd,T Taibu,0,,BRM Taylor,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+367,9.5,0,Abdur Razzak,2010-12-06,2nd,T Taibu,0,,BRM Taylor,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,2,Bangladesh
+368,9.6,0,Abdur Razzak,2010-12-06,2nd,T Taibu,0,,BRM Taylor,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+369,10.1,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+370,10.2,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,29,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+371,10.3,2,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,31,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+372,10.4,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,31,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+373,10.5,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,31,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+374,10.6,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,31,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+375,11.1,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,31,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+376,11.2,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,32,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+377,11.3,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,32,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+378,11.4,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,32,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+379,11.5,1,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,33,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+380,11.6,1,Shafiul Islam,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,34,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+381,11.7,4,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,38,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+382,12.1,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,38,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+383,12.2,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,38,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+384,12.3,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+385,12.4,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+386,12.5,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+387,12.6,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+388,12.7,0,Mashrafe Mortaza,2010-12-06,2nd,CR Ervine,0,,T Taibu,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+389,13.1,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,3,Bangladesh
+390,13.2,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,CR Ervine,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+391,13.3,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,RW Chakabva,0,Bangladesh,Zimbabwe,39,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+392,13.4,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,RW Chakabva,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+393,13.5,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,RW Chakabva,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+394,13.6,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,RW Chakabva,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+395,13.7,0,Shafiul Islam,2010-12-06,2nd,T Taibu,0,,RW Chakabva,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,4,Bangladesh
+396,14.1,0,Mashrafe Mortaza,2010-12-06,2nd,RW Chakabva,0,,T Taibu,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+397,14.2,0,Mashrafe Mortaza,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+398,14.3,0,Mashrafe Mortaza,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+399,14.4,0,Mashrafe Mortaza,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+400,14.5,0,Mashrafe Mortaza,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+401,14.6,0,Mashrafe Mortaza,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,40,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+402,15.1,1,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+403,15.2,0,Shafiul Islam,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+404,15.3,0,Shafiul Islam,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,41,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+405,15.4,1,Shafiul Islam,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+406,15.5,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+407,15.6,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+408,16.1,0,Abdur Razzak,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+409,16.2,0,Abdur Razzak,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+410,16.3,0,Abdur Razzak,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+411,16.4,0,Abdur Razzak,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+412,16.5,0,Abdur Razzak,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+413,16.6,0,Abdur Razzak,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+414,17.1,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+415,17.2,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+416,17.3,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+417,17.4,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,42,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+418,17.5,2,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,44,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+419,17.6,2,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,46,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+420,18.1,1,Abdur Razzak,2010-12-06,2nd,RW Chakabva,0,,P Utseya,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+421,18.2,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+422,18.3,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+423,18.4,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+424,18.5,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,5,Bangladesh
+425,18.6,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Chakabva,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+426,19.1,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,47,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+427,19.2,4,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,51,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+428,19.3,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,51,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+429,19.4,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,51,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+430,19.5,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,51,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+431,19.6,6,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,57,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+432,20.1,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,57,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+433,20.2,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,57,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+434,20.3,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,57,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+435,20.4,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,57,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+436,20.5,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,57,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+437,20.6,1,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,58,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+438,21.1,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,58,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+439,21.2,4,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+440,21.3,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+441,21.4,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+442,21.5,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+443,21.6,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+444,22.1,0,Abdur Razzak,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+445,22.2,0,Abdur Razzak,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+446,22.3,0,Abdur Razzak,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+447,22.4,0,Abdur Razzak,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,62,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+448,22.5,1,Abdur Razzak,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,63,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+449,22.6,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,63,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+450,23.1,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,63,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+451,23.2,1,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,64,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+452,23.3,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,64,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+453,23.4,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,64,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+454,23.5,4,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+455,23.6,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+456,24.1,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,68,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+457,24.2,1,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,69,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+458,24.3,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,69,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+459,24.4,1,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,70,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+460,24.5,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,70,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+461,24.6,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,70,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+462,25.1,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+463,25.2,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+464,25.3,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+465,25.4,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+466,25.5,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+467,25.6,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+468,26.1,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+469,26.2,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,71,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+470,26.3,1,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,72,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+471,26.4,1,Shafiul Islam,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,73,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+472,26.5,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,74,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+473,26.6,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,74,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+474,26.7,4,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,78,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+475,27.1,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,78,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+476,27.2,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,78,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+477,27.3,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,78,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+478,27.4,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,78,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+479,27.5,1,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,79,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+480,27.6,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,79,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+481,28.1,2,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,81,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+482,28.2,1,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,82,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+483,28.3,1,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,83,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+484,28.4,1,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,84,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+485,28.5,1,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,85,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+486,28.6,0,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,85,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+487,29.1,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,85,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+488,29.2,4,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,89,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+489,29.3,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,90,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+490,29.4,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,90,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+491,29.5,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,90,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+492,29.6,1,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,91,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+493,30.1,1,Shakib Al Hasan,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,92,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+494,30.2,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,92,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+495,30.3,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,92,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+496,30.4,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,92,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+497,30.5,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,92,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+498,30.6,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,92,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+499,31.1,1,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,93,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+500,31.2,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,93,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+501,31.3,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,93,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+502,31.4,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,93,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+503,31.5,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,94,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+504,31.6,0,Suhrawadi Shuvo,2010-12-06,2nd,AG Cremer,0,,P Utseya,0,Bangladesh,Zimbabwe,94,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+505,32.1,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,6,Bangladesh
+506,32.2,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,AG Cremer,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+507,32.3,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+508,32.4,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+509,32.5,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+510,32.6,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+511,32.7,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+512,33.1,0,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,95,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+513,33.2,4,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,99,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+514,33.3,1,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,100,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+515,33.4,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,101,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+516,33.5,0,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,101,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+517,33.6,1,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,102,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+518,34.1,1,Shakib Al Hasan,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,103,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+519,34.2,4,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,107,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+520,34.3,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,107,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+521,34.4,4,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,111,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+522,34.5,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,111,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+523,34.6,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,111,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+524,35.1,1,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,112,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+525,35.2,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,112,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+526,35.3,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,112,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+527,35.4,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,113,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+528,35.5,0,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,114,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+529,35.6,0,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,114,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+530,35.7,1,Suhrawadi Shuvo,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,115,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+531,36.1,0,Shafiul Islam,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,115,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+532,36.2,0,Shafiul Islam,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,115,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+533,36.3,1,Shafiul Islam,2010-12-06,2nd,SW Masakadza,0,,P Utseya,0,Bangladesh,Zimbabwe,116,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+534,36.4,4,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,120,Zimbabwe,Shere Bangla National Stadium,7,Bangladesh
+535,36.5,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,SW Masakadza,0,Bangladesh,Zimbabwe,120,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+536,36.6,0,Shafiul Islam,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,120,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+537,37.1,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,120,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+538,37.2,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,121,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+539,37.3,0,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,121,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+540,37.4,0,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,121,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+541,37.5,0,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,122,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+542,37.6,1,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,123,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+543,37.7,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,123,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+544,38.1,1,Shafiul Islam,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,124,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+545,38.2,4,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,128,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+546,38.3,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,128,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+547,38.4,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,128,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+548,38.5,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,129,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+549,38.6,1,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,130,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+550,38.7,0,Shafiul Islam,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,131,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+551,39.1,1,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,132,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+552,39.2,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,133,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+553,39.3,1,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,134,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+554,39.4,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,134,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+555,39.5,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,135,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+556,39.6,0,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,136,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+557,39.7,0,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,136,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+558,40.1,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,136,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+559,40.2,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,136,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+560,40.3,1,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,137,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+561,40.4,1,Shakib Al Hasan,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,138,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+562,40.5,1,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,139,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+563,40.6,1,Shakib Al Hasan,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,140,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+564,41.1,2,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,142,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+565,41.2,0,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,143,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+566,41.3,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,144,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+567,41.4,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,144,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+568,41.5,0,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,144,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+569,41.6,1,Suhrawadi Shuvo,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,145,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+570,41.7,1,Suhrawadi Shuvo,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,146,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+571,42.1,0,Mashrafe Mortaza,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,146,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+572,42.2,0,Mashrafe Mortaza,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,146,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+573,42.3,1,Mashrafe Mortaza,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,147,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+574,42.4,1,Mashrafe Mortaza,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,148,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+575,42.5,0,Mashrafe Mortaza,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,148,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+576,42.6,0,Mashrafe Mortaza,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,148,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+577,43.1,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,149,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+578,43.2,1,Abdur Razzak,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,150,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+579,43.3,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,152,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+580,43.4,0,Abdur Razzak,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,152,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+581,43.5,1,Abdur Razzak,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,153,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+582,43.6,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,153,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+583,43.7,1,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,154,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+584,44.1,1,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,155,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+585,44.2,1,Shafiul Islam,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,156,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+586,44.3,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,157,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+587,44.4,1,Shafiul Islam,2010-12-06,2nd,RW Price,0,,P Utseya,0,Bangladesh,Zimbabwe,158,Zimbabwe,Shere Bangla National Stadium,8,Bangladesh
+588,44.5,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,RW Price,0,Bangladesh,Zimbabwe,158,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+589,44.6,0,Shafiul Islam,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,158,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+590,45.1,0,Abdur Razzak,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,158,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+591,45.2,0,Abdur Razzak,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,159,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+592,45.3,0,Abdur Razzak,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,159,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+593,45.4,0,Abdur Razzak,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,159,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+594,45.5,0,Abdur Razzak,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,159,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+595,45.6,1,Abdur Razzak,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,160,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+596,45.7,0,Abdur Razzak,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,160,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+597,46.1,1,Mashrafe Mortaza,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,161,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+598,46.2,0,Mashrafe Mortaza,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,161,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+599,46.3,0,Mashrafe Mortaza,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,161,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+600,46.4,0,Mashrafe Mortaza,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,161,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+601,46.5,0,Mashrafe Mortaza,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,161,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+602,46.6,0,Mashrafe Mortaza,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,161,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+603,47.1,6,Shakib Al Hasan,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,167,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+604,47.2,0,Shakib Al Hasan,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,167,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+605,47.3,6,Shakib Al Hasan,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,173,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+606,47.4,0,Shakib Al Hasan,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,176,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+607,47.5,4,Shakib Al Hasan,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,180,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+608,47.6,1,Shakib Al Hasan,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,181,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+609,47.7,0,Shakib Al Hasan,2010-12-06,2nd,P Utseya,0,,CB Mpofu,0,Bangladesh,Zimbabwe,181,Zimbabwe,Shere Bangla National Stadium,9,Bangladesh
+610,48.1,0,Shafiul Islam,2010-12-06,2nd,CB Mpofu,0,,P Utseya,0,Bangladesh,Zimbabwe,181,Zimbabwe,Shere Bangla National Stadium,10,Bangladesh

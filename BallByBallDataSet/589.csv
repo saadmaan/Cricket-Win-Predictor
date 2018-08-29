@@ -1,0 +1,615 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,0,Pakistan,South Africa,0,Pakistan,Dubai International Cricket Stadium,0,South Africa
+1,0.2,0,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,0,Pakistan,South Africa,0,Pakistan,Dubai International Cricket Stadium,0,South Africa
+2,0.3,0,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,0,Pakistan,South Africa,0,Pakistan,Dubai International Cricket Stadium,0,South Africa
+3,0.4,4,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,4,Pakistan,South Africa,4,Pakistan,Dubai International Cricket Stadium,0,South Africa
+4,0.5,4,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,8,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+5,0.6,0,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,8,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+6,1.1,0,Abdul Razzaq,2010-11-02,1st,HM Amla,8,,JH Kallis,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+7,1.2,0,Abdul Razzaq,2010-11-02,1st,HM Amla,8,,JH Kallis,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+8,1.3,0,Abdul Razzaq,2010-11-02,1st,HM Amla,8,,JH Kallis,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+9,1.4,0,Abdul Razzaq,2010-11-02,1st,HM Amla,8,,JH Kallis,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+10,1.5,0,Abdul Razzaq,2010-11-02,1st,HM Amla,8,,JH Kallis,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+11,1.6,0,Abdul Razzaq,2010-11-02,1st,HM Amla,8,,JH Kallis,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+12,2.1,0,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,8,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+13,2.2,1,Shoaib Akhtar,2010-11-02,1st,JH Kallis,0,,HM Amla,9,Pakistan,South Africa,9,Pakistan,Dubai International Cricket Stadium,0,South Africa
+14,2.3,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,9,,JH Kallis,0,Pakistan,South Africa,9,Pakistan,Dubai International Cricket Stadium,0,South Africa
+15,2.4,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,9,,JH Kallis,0,Pakistan,South Africa,9,Pakistan,Dubai International Cricket Stadium,0,South Africa
+16,2.5,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,9,JH Kallis,JH Kallis,0,Pakistan,South Africa,9,Pakistan,Dubai International Cricket Stadium,1,South Africa
+17,2.6,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,9,,CA Ingram,0,Pakistan,South Africa,9,Pakistan,Dubai International Cricket Stadium,1,South Africa
+18,3.1,1,Abdul Razzaq,2010-11-02,1st,CA Ingram,0,,HM Amla,10,Pakistan,South Africa,10,Pakistan,Dubai International Cricket Stadium,1,South Africa
+19,3.2,0,Abdul Razzaq,2010-11-02,1st,HM Amla,10,,CA Ingram,0,Pakistan,South Africa,10,Pakistan,Dubai International Cricket Stadium,1,South Africa
+20,3.3,2,Abdul Razzaq,2010-11-02,1st,HM Amla,10,,CA Ingram,2,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+21,3.4,0,Abdul Razzaq,2010-11-02,1st,HM Amla,10,,CA Ingram,2,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+22,3.5,0,Abdul Razzaq,2010-11-02,1st,HM Amla,10,,CA Ingram,2,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+23,3.6,2,Abdul Razzaq,2010-11-02,1st,HM Amla,10,,CA Ingram,4,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,1,South Africa
+24,4.1,0,Shoaib Akhtar,2010-11-02,1st,CA Ingram,4,,HM Amla,10,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,1,South Africa
+25,4.2,1,Shoaib Akhtar,2010-11-02,1st,CA Ingram,4,,HM Amla,11,Pakistan,South Africa,15,Pakistan,Dubai International Cricket Stadium,1,South Africa
+26,4.3,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,11,,CA Ingram,4,Pakistan,South Africa,15,Pakistan,Dubai International Cricket Stadium,1,South Africa
+27,4.4,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,11,CA Ingram,CA Ingram,4,Pakistan,South Africa,15,Pakistan,Dubai International Cricket Stadium,2,South Africa
+28,4.5,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,11,,AB de Villiers,0,Pakistan,South Africa,15,Pakistan,Dubai International Cricket Stadium,2,South Africa
+29,4.6,1,Shoaib Akhtar,2010-11-02,1st,HM Amla,11,,AB de Villiers,1,Pakistan,South Africa,16,Pakistan,Dubai International Cricket Stadium,2,South Africa
+30,5.1,0,Abdul Razzaq,2010-11-02,1st,HM Amla,11,,AB de Villiers,1,Pakistan,South Africa,16,Pakistan,Dubai International Cricket Stadium,2,South Africa
+31,5.2,0,Abdul Razzaq,2010-11-02,1st,HM Amla,11,,AB de Villiers,1,Pakistan,South Africa,16,Pakistan,Dubai International Cricket Stadium,2,South Africa
+32,5.3,1,Abdul Razzaq,2010-11-02,1st,HM Amla,11,,AB de Villiers,2,Pakistan,South Africa,17,Pakistan,Dubai International Cricket Stadium,2,South Africa
+33,5.4,0,Abdul Razzaq,2010-11-02,1st,AB de Villiers,2,,HM Amla,11,Pakistan,South Africa,17,Pakistan,Dubai International Cricket Stadium,2,South Africa
+34,5.5,3,Abdul Razzaq,2010-11-02,1st,AB de Villiers,2,,HM Amla,14,Pakistan,South Africa,20,Pakistan,Dubai International Cricket Stadium,2,South Africa
+35,5.6,0,Abdul Razzaq,2010-11-02,1st,HM Amla,14,,AB de Villiers,2,Pakistan,South Africa,20,Pakistan,Dubai International Cricket Stadium,2,South Africa
+36,6.1,0,Shoaib Akhtar,2010-11-02,1st,AB de Villiers,2,,HM Amla,14,Pakistan,South Africa,20,Pakistan,Dubai International Cricket Stadium,2,South Africa
+37,6.2,0,Shoaib Akhtar,2010-11-02,1st,AB de Villiers,2,,HM Amla,14,Pakistan,South Africa,20,Pakistan,Dubai International Cricket Stadium,2,South Africa
+38,6.3,1,Shoaib Akhtar,2010-11-02,1st,AB de Villiers,2,,HM Amla,15,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+39,6.4,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,15,,AB de Villiers,2,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+40,6.5,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,15,,AB de Villiers,2,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+41,6.6,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,15,,AB de Villiers,2,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+42,7.1,0,Abdul Razzaq,2010-11-02,1st,AB de Villiers,2,,HM Amla,15,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+43,7.2,4,Abdul Razzaq,2010-11-02,1st,AB de Villiers,2,,HM Amla,19,Pakistan,South Africa,25,Pakistan,Dubai International Cricket Stadium,2,South Africa
+44,7.3,1,Abdul Razzaq,2010-11-02,1st,AB de Villiers,2,,HM Amla,20,Pakistan,South Africa,26,Pakistan,Dubai International Cricket Stadium,2,South Africa
+45,7.4,0,Abdul Razzaq,2010-11-02,1st,HM Amla,20,,AB de Villiers,2,Pakistan,South Africa,26,Pakistan,Dubai International Cricket Stadium,2,South Africa
+46,7.5,0,Abdul Razzaq,2010-11-02,1st,HM Amla,20,,AB de Villiers,2,Pakistan,South Africa,26,Pakistan,Dubai International Cricket Stadium,2,South Africa
+47,7.6,1,Abdul Razzaq,2010-11-02,1st,HM Amla,20,,AB de Villiers,3,Pakistan,South Africa,27,Pakistan,Dubai International Cricket Stadium,2,South Africa
+48,8.1,2,Shoaib Akhtar,2010-11-02,1st,HM Amla,20,,AB de Villiers,5,Pakistan,South Africa,29,Pakistan,Dubai International Cricket Stadium,2,South Africa
+49,8.2,1,Shoaib Akhtar,2010-11-02,1st,HM Amla,20,,AB de Villiers,6,Pakistan,South Africa,30,Pakistan,Dubai International Cricket Stadium,2,South Africa
+50,8.3,2,Shoaib Akhtar,2010-11-02,1st,AB de Villiers,6,,HM Amla,22,Pakistan,South Africa,32,Pakistan,Dubai International Cricket Stadium,2,South Africa
+51,8.4,0,Shoaib Akhtar,2010-11-02,1st,AB de Villiers,6,,HM Amla,22,Pakistan,South Africa,32,Pakistan,Dubai International Cricket Stadium,2,South Africa
+52,8.5,1,Shoaib Akhtar,2010-11-02,1st,AB de Villiers,6,,HM Amla,23,Pakistan,South Africa,33,Pakistan,Dubai International Cricket Stadium,2,South Africa
+53,8.6,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,23,,AB de Villiers,6,Pakistan,South Africa,33,Pakistan,Dubai International Cricket Stadium,2,South Africa
+54,9.1,1,Abdul Razzaq,2010-11-02,1st,AB de Villiers,6,,HM Amla,24,Pakistan,South Africa,34,Pakistan,Dubai International Cricket Stadium,2,South Africa
+55,9.2,1,Abdul Razzaq,2010-11-02,1st,HM Amla,24,,AB de Villiers,7,Pakistan,South Africa,35,Pakistan,Dubai International Cricket Stadium,2,South Africa
+56,9.3,1,Abdul Razzaq,2010-11-02,1st,AB de Villiers,7,,HM Amla,25,Pakistan,South Africa,36,Pakistan,Dubai International Cricket Stadium,2,South Africa
+57,9.4,0,Abdul Razzaq,2010-11-02,1st,HM Amla,25,,AB de Villiers,7,Pakistan,South Africa,36,Pakistan,Dubai International Cricket Stadium,2,South Africa
+58,9.5,0,Abdul Razzaq,2010-11-02,1st,HM Amla,25,,AB de Villiers,7,Pakistan,South Africa,36,Pakistan,Dubai International Cricket Stadium,2,South Africa
+59,9.6,1,Abdul Razzaq,2010-11-02,1st,HM Amla,25,,AB de Villiers,8,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+60,10.1,0,Wahab Riaz,2010-11-02,1st,HM Amla,25,,AB de Villiers,8,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+61,10.2,0,Wahab Riaz,2010-11-02,1st,HM Amla,25,,AB de Villiers,8,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+62,10.3,0,Wahab Riaz,2010-11-02,1st,HM Amla,25,,AB de Villiers,8,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+63,10.4,0,Wahab Riaz,2010-11-02,1st,HM Amla,25,,AB de Villiers,8,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+64,10.5,0,Wahab Riaz,2010-11-02,1st,HM Amla,25,,AB de Villiers,8,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+65,10.6,0,Wahab Riaz,2010-11-02,1st,HM Amla,25,,AB de Villiers,8,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+66,11.1,1,Saeed Ajmal,2010-11-02,1st,AB de Villiers,8,,HM Amla,26,Pakistan,South Africa,38,Pakistan,Dubai International Cricket Stadium,2,South Africa
+67,11.2,1,Saeed Ajmal,2010-11-02,1st,HM Amla,26,,AB de Villiers,9,Pakistan,South Africa,39,Pakistan,Dubai International Cricket Stadium,2,South Africa
+68,11.3,0,Saeed Ajmal,2010-11-02,1st,AB de Villiers,9,,HM Amla,26,Pakistan,South Africa,39,Pakistan,Dubai International Cricket Stadium,2,South Africa
+69,11.4,1,Saeed Ajmal,2010-11-02,1st,AB de Villiers,9,,HM Amla,27,Pakistan,South Africa,40,Pakistan,Dubai International Cricket Stadium,2,South Africa
+70,11.5,0,Saeed Ajmal,2010-11-02,1st,HM Amla,27,,AB de Villiers,9,Pakistan,South Africa,40,Pakistan,Dubai International Cricket Stadium,2,South Africa
+71,11.6,1,Saeed Ajmal,2010-11-02,1st,HM Amla,27,,AB de Villiers,10,Pakistan,South Africa,41,Pakistan,Dubai International Cricket Stadium,2,South Africa
+72,12.1,0,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,10,Pakistan,South Africa,41,Pakistan,Dubai International Cricket Stadium,2,South Africa
+73,12.2,0,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,10,Pakistan,South Africa,41,Pakistan,Dubai International Cricket Stadium,2,South Africa
+74,12.3,0,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,10,Pakistan,South Africa,41,Pakistan,Dubai International Cricket Stadium,2,South Africa
+75,12.4,0,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,10,Pakistan,South Africa,41,Pakistan,Dubai International Cricket Stadium,2,South Africa
+76,12.5,0,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,10,Pakistan,South Africa,42,Pakistan,Dubai International Cricket Stadium,2,South Africa
+77,12.6,0,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,10,Pakistan,South Africa,42,Pakistan,Dubai International Cricket Stadium,2,South Africa
+78,12.7,1,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,11,Pakistan,South Africa,43,Pakistan,Dubai International Cricket Stadium,2,South Africa
+79,13.1,2,Saeed Ajmal,2010-11-02,1st,HM Amla,27,,AB de Villiers,13,Pakistan,South Africa,45,Pakistan,Dubai International Cricket Stadium,2,South Africa
+80,13.2,4,Saeed Ajmal,2010-11-02,1st,HM Amla,27,,AB de Villiers,17,Pakistan,South Africa,49,Pakistan,Dubai International Cricket Stadium,2,South Africa
+81,13.3,1,Saeed Ajmal,2010-11-02,1st,HM Amla,27,,AB de Villiers,18,Pakistan,South Africa,50,Pakistan,Dubai International Cricket Stadium,2,South Africa
+82,13.4,0,Saeed Ajmal,2010-11-02,1st,AB de Villiers,18,,HM Amla,27,Pakistan,South Africa,50,Pakistan,Dubai International Cricket Stadium,2,South Africa
+83,13.5,0,Saeed Ajmal,2010-11-02,1st,AB de Villiers,18,,HM Amla,27,Pakistan,South Africa,50,Pakistan,Dubai International Cricket Stadium,2,South Africa
+84,13.6,0,Saeed Ajmal,2010-11-02,1st,AB de Villiers,18,,HM Amla,27,Pakistan,South Africa,50,Pakistan,Dubai International Cricket Stadium,2,South Africa
+85,14.1,0,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,18,Pakistan,South Africa,50,Pakistan,Dubai International Cricket Stadium,2,South Africa
+86,14.2,1,Wahab Riaz,2010-11-02,1st,HM Amla,27,,AB de Villiers,19,Pakistan,South Africa,51,Pakistan,Dubai International Cricket Stadium,2,South Africa
+87,14.3,2,Wahab Riaz,2010-11-02,1st,AB de Villiers,19,,HM Amla,29,Pakistan,South Africa,53,Pakistan,Dubai International Cricket Stadium,2,South Africa
+88,14.4,0,Wahab Riaz,2010-11-02,1st,AB de Villiers,19,,HM Amla,29,Pakistan,South Africa,53,Pakistan,Dubai International Cricket Stadium,2,South Africa
+89,14.5,2,Wahab Riaz,2010-11-02,1st,AB de Villiers,19,,HM Amla,31,Pakistan,South Africa,55,Pakistan,Dubai International Cricket Stadium,2,South Africa
+90,14.6,1,Wahab Riaz,2010-11-02,1st,AB de Villiers,19,,HM Amla,32,Pakistan,South Africa,56,Pakistan,Dubai International Cricket Stadium,2,South Africa
+91,15.1,1,Shahid Afridi,2010-11-02,1st,AB de Villiers,19,,HM Amla,33,Pakistan,South Africa,57,Pakistan,Dubai International Cricket Stadium,2,South Africa
+92,15.2,0,Shahid Afridi,2010-11-02,1st,HM Amla,33,AB de Villiers,AB de Villiers,19,Pakistan,South Africa,57,Pakistan,Dubai International Cricket Stadium,3,South Africa
+93,15.3,0,Shahid Afridi,2010-11-02,1st,HM Amla,33,,JP Duminy,0,Pakistan,South Africa,57,Pakistan,Dubai International Cricket Stadium,3,South Africa
+94,15.4,0,Shahid Afridi,2010-11-02,1st,HM Amla,33,,JP Duminy,0,Pakistan,South Africa,57,Pakistan,Dubai International Cricket Stadium,3,South Africa
+95,15.5,2,Shahid Afridi,2010-11-02,1st,HM Amla,33,,JP Duminy,2,Pakistan,South Africa,59,Pakistan,Dubai International Cricket Stadium,3,South Africa
+96,15.6,1,Shahid Afridi,2010-11-02,1st,HM Amla,33,,JP Duminy,3,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,3,South Africa
+97,16.1,0,Wahab Riaz,2010-11-02,1st,HM Amla,33,,JP Duminy,3,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,3,South Africa
+98,16.2,0,Wahab Riaz,2010-11-02,1st,HM Amla,33,,JP Duminy,3,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,3,South Africa
+99,16.3,0,Wahab Riaz,2010-11-02,1st,HM Amla,33,,JP Duminy,3,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,3,South Africa
+100,16.4,1,Wahab Riaz,2010-11-02,1st,HM Amla,33,,JP Duminy,4,Pakistan,South Africa,61,Pakistan,Dubai International Cricket Stadium,3,South Africa
+101,16.5,2,Wahab Riaz,2010-11-02,1st,JP Duminy,4,,HM Amla,35,Pakistan,South Africa,63,Pakistan,Dubai International Cricket Stadium,3,South Africa
+102,16.6,0,Wahab Riaz,2010-11-02,1st,JP Duminy,4,,HM Amla,35,Pakistan,South Africa,63,Pakistan,Dubai International Cricket Stadium,3,South Africa
+103,17.1,0,Shahid Afridi,2010-11-02,1st,HM Amla,35,,JP Duminy,4,Pakistan,South Africa,63,Pakistan,Dubai International Cricket Stadium,3,South Africa
+104,17.2,0,Shahid Afridi,2010-11-02,1st,HM Amla,35,,JP Duminy,4,Pakistan,South Africa,63,Pakistan,Dubai International Cricket Stadium,3,South Africa
+105,17.3,1,Shahid Afridi,2010-11-02,1st,HM Amla,35,,JP Duminy,5,Pakistan,South Africa,64,Pakistan,Dubai International Cricket Stadium,3,South Africa
+106,17.4,0,Shahid Afridi,2010-11-02,1st,JP Duminy,5,,HM Amla,35,Pakistan,South Africa,64,Pakistan,Dubai International Cricket Stadium,3,South Africa
+107,17.5,1,Shahid Afridi,2010-11-02,1st,JP Duminy,5,,HM Amla,36,Pakistan,South Africa,65,Pakistan,Dubai International Cricket Stadium,3,South Africa
+108,17.6,0,Shahid Afridi,2010-11-02,1st,HM Amla,36,,JP Duminy,5,Pakistan,South Africa,66,Pakistan,Dubai International Cricket Stadium,3,South Africa
+109,17.7,0,Shahid Afridi,2010-11-02,1st,HM Amla,36,,JP Duminy,5,Pakistan,South Africa,66,Pakistan,Dubai International Cricket Stadium,3,South Africa
+110,18.1,1,Saeed Ajmal,2010-11-02,1st,JP Duminy,5,,HM Amla,37,Pakistan,South Africa,67,Pakistan,Dubai International Cricket Stadium,3,South Africa
+111,18.2,1,Saeed Ajmal,2010-11-02,1st,HM Amla,37,,JP Duminy,6,Pakistan,South Africa,68,Pakistan,Dubai International Cricket Stadium,3,South Africa
+112,18.3,0,Saeed Ajmal,2010-11-02,1st,JP Duminy,6,,HM Amla,37,Pakistan,South Africa,68,Pakistan,Dubai International Cricket Stadium,3,South Africa
+113,18.4,4,Saeed Ajmal,2010-11-02,1st,JP Duminy,6,,HM Amla,41,Pakistan,South Africa,72,Pakistan,Dubai International Cricket Stadium,3,South Africa
+114,18.5,1,Saeed Ajmal,2010-11-02,1st,JP Duminy,6,,HM Amla,42,Pakistan,South Africa,73,Pakistan,Dubai International Cricket Stadium,3,South Africa
+115,18.6,1,Saeed Ajmal,2010-11-02,1st,HM Amla,42,,JP Duminy,7,Pakistan,South Africa,74,Pakistan,Dubai International Cricket Stadium,3,South Africa
+116,19.1,0,Shahid Afridi,2010-11-02,1st,HM Amla,42,,JP Duminy,7,Pakistan,South Africa,75,Pakistan,Dubai International Cricket Stadium,3,South Africa
+117,19.2,0,Shahid Afridi,2010-11-02,1st,HM Amla,42,,JP Duminy,7,Pakistan,South Africa,75,Pakistan,Dubai International Cricket Stadium,3,South Africa
+118,19.3,1,Shahid Afridi,2010-11-02,1st,HM Amla,42,,JP Duminy,8,Pakistan,South Africa,76,Pakistan,Dubai International Cricket Stadium,3,South Africa
+119,19.4,1,Shahid Afridi,2010-11-02,1st,JP Duminy,8,,HM Amla,43,Pakistan,South Africa,77,Pakistan,Dubai International Cricket Stadium,3,South Africa
+120,19.5,1,Shahid Afridi,2010-11-02,1st,HM Amla,43,,JP Duminy,9,Pakistan,South Africa,78,Pakistan,Dubai International Cricket Stadium,3,South Africa
+121,19.6,0,Shahid Afridi,2010-11-02,1st,JP Duminy,9,,HM Amla,43,Pakistan,South Africa,78,Pakistan,Dubai International Cricket Stadium,3,South Africa
+122,19.7,4,Shahid Afridi,2010-11-02,1st,JP Duminy,9,,HM Amla,47,Pakistan,South Africa,82,Pakistan,Dubai International Cricket Stadium,3,South Africa
+123,20.1,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,47,,JP Duminy,10,Pakistan,South Africa,83,Pakistan,Dubai International Cricket Stadium,3,South Africa
+124,20.2,1,Mohammad Hafeez,2010-11-02,1st,JP Duminy,10,,HM Amla,48,Pakistan,South Africa,84,Pakistan,Dubai International Cricket Stadium,3,South Africa
+125,20.3,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,48,,JP Duminy,10,Pakistan,South Africa,84,Pakistan,Dubai International Cricket Stadium,3,South Africa
+126,20.4,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,48,,JP Duminy,11,Pakistan,South Africa,85,Pakistan,Dubai International Cricket Stadium,3,South Africa
+127,20.5,1,Mohammad Hafeez,2010-11-02,1st,JP Duminy,11,,HM Amla,49,Pakistan,South Africa,86,Pakistan,Dubai International Cricket Stadium,3,South Africa
+128,20.6,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,49,,JP Duminy,12,Pakistan,South Africa,87,Pakistan,Dubai International Cricket Stadium,3,South Africa
+129,21.1,1,Shahid Afridi,2010-11-02,1st,HM Amla,49,,JP Duminy,13,Pakistan,South Africa,88,Pakistan,Dubai International Cricket Stadium,3,South Africa
+130,21.2,1,Shahid Afridi,2010-11-02,1st,JP Duminy,13,,HM Amla,50,Pakistan,South Africa,89,Pakistan,Dubai International Cricket Stadium,3,South Africa
+131,21.3,1,Shahid Afridi,2010-11-02,1st,HM Amla,50,,JP Duminy,14,Pakistan,South Africa,90,Pakistan,Dubai International Cricket Stadium,3,South Africa
+132,21.4,0,Shahid Afridi,2010-11-02,1st,JP Duminy,14,,HM Amla,50,Pakistan,South Africa,91,Pakistan,Dubai International Cricket Stadium,3,South Africa
+133,21.5,1,Shahid Afridi,2010-11-02,1st,JP Duminy,14,,HM Amla,51,Pakistan,South Africa,92,Pakistan,Dubai International Cricket Stadium,3,South Africa
+134,21.6,1,Shahid Afridi,2010-11-02,1st,HM Amla,51,,JP Duminy,15,Pakistan,South Africa,93,Pakistan,Dubai International Cricket Stadium,3,South Africa
+135,21.7,0,Shahid Afridi,2010-11-02,1st,JP Duminy,15,,HM Amla,51,Pakistan,South Africa,93,Pakistan,Dubai International Cricket Stadium,3,South Africa
+136,22.1,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,51,,JP Duminy,16,Pakistan,South Africa,94,Pakistan,Dubai International Cricket Stadium,3,South Africa
+137,22.2,1,Mohammad Hafeez,2010-11-02,1st,JP Duminy,16,,HM Amla,52,Pakistan,South Africa,95,Pakistan,Dubai International Cricket Stadium,3,South Africa
+138,22.3,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,52,,JP Duminy,16,Pakistan,South Africa,96,Pakistan,Dubai International Cricket Stadium,3,South Africa
+139,22.4,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,52,,JP Duminy,17,Pakistan,South Africa,97,Pakistan,Dubai International Cricket Stadium,3,South Africa
+140,22.5,1,Mohammad Hafeez,2010-11-02,1st,JP Duminy,17,,HM Amla,53,Pakistan,South Africa,98,Pakistan,Dubai International Cricket Stadium,3,South Africa
+141,22.6,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,53,,JP Duminy,17,Pakistan,South Africa,98,Pakistan,Dubai International Cricket Stadium,3,South Africa
+142,22.7,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,53,,JP Duminy,17,Pakistan,South Africa,98,Pakistan,Dubai International Cricket Stadium,3,South Africa
+143,23.1,0,Shahid Afridi,2010-11-02,1st,JP Duminy,17,,HM Amla,53,Pakistan,South Africa,98,Pakistan,Dubai International Cricket Stadium,3,South Africa
+144,23.2,2,Shahid Afridi,2010-11-02,1st,JP Duminy,17,,HM Amla,55,Pakistan,South Africa,100,Pakistan,Dubai International Cricket Stadium,3,South Africa
+145,23.3,0,Shahid Afridi,2010-11-02,1st,JP Duminy,17,,HM Amla,55,Pakistan,South Africa,100,Pakistan,Dubai International Cricket Stadium,3,South Africa
+146,23.4,1,Shahid Afridi,2010-11-02,1st,JP Duminy,17,,HM Amla,56,Pakistan,South Africa,101,Pakistan,Dubai International Cricket Stadium,3,South Africa
+147,23.5,2,Shahid Afridi,2010-11-02,1st,HM Amla,56,,JP Duminy,19,Pakistan,South Africa,103,Pakistan,Dubai International Cricket Stadium,3,South Africa
+148,23.6,2,Shahid Afridi,2010-11-02,1st,HM Amla,56,,JP Duminy,21,Pakistan,South Africa,105,Pakistan,Dubai International Cricket Stadium,3,South Africa
+149,24.1,0,Mohammad Hafeez,2010-11-02,1st,JP Duminy,21,,HM Amla,56,Pakistan,South Africa,105,Pakistan,Dubai International Cricket Stadium,3,South Africa
+150,24.2,0,Mohammad Hafeez,2010-11-02,1st,JP Duminy,21,,HM Amla,56,Pakistan,South Africa,105,Pakistan,Dubai International Cricket Stadium,3,South Africa
+151,24.3,1,Mohammad Hafeez,2010-11-02,1st,JP Duminy,21,,HM Amla,57,Pakistan,South Africa,106,Pakistan,Dubai International Cricket Stadium,3,South Africa
+152,24.4,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,57,,JP Duminy,21,Pakistan,South Africa,106,Pakistan,Dubai International Cricket Stadium,3,South Africa
+153,24.5,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,57,,JP Duminy,21,Pakistan,South Africa,106,Pakistan,Dubai International Cricket Stadium,3,South Africa
+154,24.6,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,57,,JP Duminy,22,Pakistan,South Africa,107,Pakistan,Dubai International Cricket Stadium,3,South Africa
+155,25.1,1,Shahid Afridi,2010-11-02,1st,HM Amla,57,,JP Duminy,23,Pakistan,South Africa,108,Pakistan,Dubai International Cricket Stadium,3,South Africa
+156,25.2,0,Shahid Afridi,2010-11-02,1st,JP Duminy,23,,HM Amla,57,Pakistan,South Africa,108,Pakistan,Dubai International Cricket Stadium,3,South Africa
+157,25.3,1,Shahid Afridi,2010-11-02,1st,JP Duminy,23,,HM Amla,58,Pakistan,South Africa,109,Pakistan,Dubai International Cricket Stadium,3,South Africa
+158,25.4,2,Shahid Afridi,2010-11-02,1st,HM Amla,58,,JP Duminy,25,Pakistan,South Africa,111,Pakistan,Dubai International Cricket Stadium,3,South Africa
+159,25.5,1,Shahid Afridi,2010-11-02,1st,HM Amla,58,,JP Duminy,26,Pakistan,South Africa,112,Pakistan,Dubai International Cricket Stadium,3,South Africa
+160,25.6,4,Shahid Afridi,2010-11-02,1st,JP Duminy,26,,HM Amla,62,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,3,South Africa
+161,26.1,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,62,,JP Duminy,26,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,3,South Africa
+162,26.2,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,62,JP Duminy,JP Duminy,26,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,4,South Africa
+163,26.3,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,62,,DA Miller,0,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,4,South Africa
+164,26.4,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,62,,DA Miller,1,Pakistan,South Africa,117,Pakistan,Dubai International Cricket Stadium,4,South Africa
+165,26.5,1,Mohammad Hafeez,2010-11-02,1st,DA Miller,1,,HM Amla,63,Pakistan,South Africa,118,Pakistan,Dubai International Cricket Stadium,4,South Africa
+166,26.6,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,63,,DA Miller,1,Pakistan,South Africa,118,Pakistan,Dubai International Cricket Stadium,4,South Africa
+167,27.1,1,Shahid Afridi,2010-11-02,1st,DA Miller,1,,HM Amla,64,Pakistan,South Africa,119,Pakistan,Dubai International Cricket Stadium,4,South Africa
+168,27.2,0,Shahid Afridi,2010-11-02,1st,HM Amla,64,,DA Miller,1,Pakistan,South Africa,119,Pakistan,Dubai International Cricket Stadium,4,South Africa
+169,27.3,1,Shahid Afridi,2010-11-02,1st,HM Amla,64,,DA Miller,2,Pakistan,South Africa,120,Pakistan,Dubai International Cricket Stadium,4,South Africa
+170,27.4,0,Shahid Afridi,2010-11-02,1st,DA Miller,2,,HM Amla,64,Pakistan,South Africa,120,Pakistan,Dubai International Cricket Stadium,4,South Africa
+171,27.5,1,Shahid Afridi,2010-11-02,1st,DA Miller,2,,HM Amla,65,Pakistan,South Africa,121,Pakistan,Dubai International Cricket Stadium,4,South Africa
+172,27.6,0,Shahid Afridi,2010-11-02,1st,HM Amla,65,,DA Miller,2,Pakistan,South Africa,121,Pakistan,Dubai International Cricket Stadium,4,South Africa
+173,28.1,1,Mohammad Hafeez,2010-11-02,1st,DA Miller,2,,HM Amla,66,Pakistan,South Africa,122,Pakistan,Dubai International Cricket Stadium,4,South Africa
+174,28.2,2,Mohammad Hafeez,2010-11-02,1st,HM Amla,66,,DA Miller,4,Pakistan,South Africa,124,Pakistan,Dubai International Cricket Stadium,4,South Africa
+175,28.3,2,Mohammad Hafeez,2010-11-02,1st,HM Amla,66,,DA Miller,6,Pakistan,South Africa,126,Pakistan,Dubai International Cricket Stadium,4,South Africa
+176,28.4,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,66,,DA Miller,6,Pakistan,South Africa,126,Pakistan,Dubai International Cricket Stadium,4,South Africa
+177,28.5,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,66,DA Miller,DA Miller,6,Pakistan,South Africa,126,Pakistan,Dubai International Cricket Stadium,5,South Africa
+178,28.6,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,66,,JA Morkel,0,Pakistan,South Africa,126,Pakistan,Dubai International Cricket Stadium,5,South Africa
+179,29.1,1,Shahid Afridi,2010-11-02,1st,JA Morkel,0,,HM Amla,67,Pakistan,South Africa,127,Pakistan,Dubai International Cricket Stadium,5,South Africa
+180,29.2,0,Shahid Afridi,2010-11-02,1st,HM Amla,67,,JA Morkel,0,Pakistan,South Africa,127,Pakistan,Dubai International Cricket Stadium,5,South Africa
+181,29.3,1,Shahid Afridi,2010-11-02,1st,HM Amla,67,,JA Morkel,1,Pakistan,South Africa,128,Pakistan,Dubai International Cricket Stadium,5,South Africa
+182,29.4,0,Shahid Afridi,2010-11-02,1st,JA Morkel,1,,HM Amla,67,Pakistan,South Africa,128,Pakistan,Dubai International Cricket Stadium,5,South Africa
+183,29.5,1,Shahid Afridi,2010-11-02,1st,JA Morkel,1,,HM Amla,68,Pakistan,South Africa,129,Pakistan,Dubai International Cricket Stadium,5,South Africa
+184,29.6,1,Shahid Afridi,2010-11-02,1st,HM Amla,68,,JA Morkel,2,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+185,30.1,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,68,,JA Morkel,2,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+186,30.2,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,68,,JA Morkel,2,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+187,30.3,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,68,,JA Morkel,2,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+188,30.4,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,68,,JA Morkel,2,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+189,30.5,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,68,,JA Morkel,2,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+190,30.6,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,68,,JA Morkel,2,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+191,31.1,1,Mohammad Hafeez,2010-11-02,1st,JA Morkel,2,,HM Amla,69,Pakistan,South Africa,131,Pakistan,Dubai International Cricket Stadium,5,South Africa
+192,31.2,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,69,,JA Morkel,2,Pakistan,South Africa,131,Pakistan,Dubai International Cricket Stadium,5,South Africa
+193,31.3,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,69,,JA Morkel,2,Pakistan,South Africa,131,Pakistan,Dubai International Cricket Stadium,5,South Africa
+194,31.4,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,69,,JA Morkel,2,Pakistan,South Africa,131,Pakistan,Dubai International Cricket Stadium,5,South Africa
+195,31.5,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,69,,JA Morkel,3,Pakistan,South Africa,132,Pakistan,Dubai International Cricket Stadium,5,South Africa
+196,31.6,1,Mohammad Hafeez,2010-11-02,1st,JA Morkel,3,,HM Amla,70,Pakistan,South Africa,133,Pakistan,Dubai International Cricket Stadium,5,South Africa
+197,32.1,0,Shoaib Akhtar,2010-11-02,1st,JA Morkel,3,,HM Amla,70,Pakistan,South Africa,133,Pakistan,Dubai International Cricket Stadium,5,South Africa
+198,32.2,0,Shoaib Akhtar,2010-11-02,1st,JA Morkel,3,,HM Amla,70,Pakistan,South Africa,133,Pakistan,Dubai International Cricket Stadium,5,South Africa
+199,32.3,0,Shoaib Akhtar,2010-11-02,1st,JA Morkel,3,,HM Amla,70,Pakistan,South Africa,133,Pakistan,Dubai International Cricket Stadium,5,South Africa
+200,32.4,1,Shoaib Akhtar,2010-11-02,1st,JA Morkel,3,,HM Amla,71,Pakistan,South Africa,134,Pakistan,Dubai International Cricket Stadium,5,South Africa
+201,32.5,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,71,,JA Morkel,3,Pakistan,South Africa,134,Pakistan,Dubai International Cricket Stadium,5,South Africa
+202,32.6,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,71,,JA Morkel,3,Pakistan,South Africa,134,Pakistan,Dubai International Cricket Stadium,5,South Africa
+203,33.1,1,Mohammad Hafeez,2010-11-02,1st,JA Morkel,3,,HM Amla,72,Pakistan,South Africa,135,Pakistan,Dubai International Cricket Stadium,5,South Africa
+204,33.2,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,72,,JA Morkel,3,Pakistan,South Africa,135,Pakistan,Dubai International Cricket Stadium,5,South Africa
+205,33.3,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,72,,JA Morkel,4,Pakistan,South Africa,136,Pakistan,Dubai International Cricket Stadium,5,South Africa
+206,33.4,0,Mohammad Hafeez,2010-11-02,1st,JA Morkel,4,,HM Amla,72,Pakistan,South Africa,136,Pakistan,Dubai International Cricket Stadium,5,South Africa
+207,33.5,1,Mohammad Hafeez,2010-11-02,1st,JA Morkel,4,,HM Amla,73,Pakistan,South Africa,137,Pakistan,Dubai International Cricket Stadium,5,South Africa
+208,33.6,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,73,,JA Morkel,4,Pakistan,South Africa,137,Pakistan,Dubai International Cricket Stadium,5,South Africa
+209,34.1,1,Wahab Riaz,2010-11-02,1st,JA Morkel,4,,HM Amla,74,Pakistan,South Africa,138,Pakistan,Dubai International Cricket Stadium,5,South Africa
+210,34.2,0,Wahab Riaz,2010-11-02,1st,HM Amla,74,,JA Morkel,4,Pakistan,South Africa,138,Pakistan,Dubai International Cricket Stadium,5,South Africa
+211,34.3,4,Wahab Riaz,2010-11-02,1st,HM Amla,74,,JA Morkel,8,Pakistan,South Africa,142,Pakistan,Dubai International Cricket Stadium,5,South Africa
+212,34.4,0,Wahab Riaz,2010-11-02,1st,HM Amla,74,,JA Morkel,8,Pakistan,South Africa,142,Pakistan,Dubai International Cricket Stadium,5,South Africa
+213,34.5,1,Wahab Riaz,2010-11-02,1st,HM Amla,74,,JA Morkel,9,Pakistan,South Africa,143,Pakistan,Dubai International Cricket Stadium,5,South Africa
+214,34.6,0,Wahab Riaz,2010-11-02,1st,JA Morkel,9,,HM Amla,74,Pakistan,South Africa,143,Pakistan,Dubai International Cricket Stadium,5,South Africa
+215,35.1,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,74,,JA Morkel,10,Pakistan,South Africa,144,Pakistan,Dubai International Cricket Stadium,5,South Africa
+216,35.2,1,Mohammad Hafeez,2010-11-02,1st,JA Morkel,10,,HM Amla,75,Pakistan,South Africa,145,Pakistan,Dubai International Cricket Stadium,5,South Africa
+217,35.3,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,75,,JA Morkel,11,Pakistan,South Africa,146,Pakistan,Dubai International Cricket Stadium,5,South Africa
+218,35.4,1,Mohammad Hafeez,2010-11-02,1st,JA Morkel,11,,HM Amla,76,Pakistan,South Africa,147,Pakistan,Dubai International Cricket Stadium,5,South Africa
+219,35.5,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,76,,JA Morkel,11,Pakistan,South Africa,147,Pakistan,Dubai International Cricket Stadium,5,South Africa
+220,35.6,0,Mohammad Hafeez,2010-11-02,1st,HM Amla,76,,JA Morkel,11,Pakistan,South Africa,147,Pakistan,Dubai International Cricket Stadium,5,South Africa
+221,36.1,0,Wahab Riaz,2010-11-02,1st,JA Morkel,11,,HM Amla,76,Pakistan,South Africa,147,Pakistan,Dubai International Cricket Stadium,5,South Africa
+222,36.2,1,Wahab Riaz,2010-11-02,1st,JA Morkel,11,,HM Amla,77,Pakistan,South Africa,148,Pakistan,Dubai International Cricket Stadium,5,South Africa
+223,36.3,0,Wahab Riaz,2010-11-02,1st,HM Amla,77,,JA Morkel,11,Pakistan,South Africa,148,Pakistan,Dubai International Cricket Stadium,5,South Africa
+224,36.4,0,Wahab Riaz,2010-11-02,1st,HM Amla,77,,JA Morkel,11,Pakistan,South Africa,148,Pakistan,Dubai International Cricket Stadium,5,South Africa
+225,36.5,1,Wahab Riaz,2010-11-02,1st,HM Amla,77,,JA Morkel,12,Pakistan,South Africa,149,Pakistan,Dubai International Cricket Stadium,5,South Africa
+226,36.6,0,Wahab Riaz,2010-11-02,1st,JA Morkel,12,,HM Amla,77,Pakistan,South Africa,149,Pakistan,Dubai International Cricket Stadium,5,South Africa
+227,37.1,1,Shahid Afridi,2010-11-02,1st,HM Amla,77,,JA Morkel,13,Pakistan,South Africa,150,Pakistan,Dubai International Cricket Stadium,5,South Africa
+228,37.2,1,Shahid Afridi,2010-11-02,1st,JA Morkel,13,,HM Amla,78,Pakistan,South Africa,151,Pakistan,Dubai International Cricket Stadium,5,South Africa
+229,37.3,1,Shahid Afridi,2010-11-02,1st,HM Amla,78,,JA Morkel,14,Pakistan,South Africa,152,Pakistan,Dubai International Cricket Stadium,5,South Africa
+230,37.4,0,Shahid Afridi,2010-11-02,1st,JA Morkel,14,,HM Amla,78,Pakistan,South Africa,152,Pakistan,Dubai International Cricket Stadium,5,South Africa
+231,37.5,0,Shahid Afridi,2010-11-02,1st,JA Morkel,14,,HM Amla,78,Pakistan,South Africa,152,Pakistan,Dubai International Cricket Stadium,5,South Africa
+232,37.6,1,Shahid Afridi,2010-11-02,1st,JA Morkel,14,,HM Amla,79,Pakistan,South Africa,153,Pakistan,Dubai International Cricket Stadium,5,South Africa
+233,38.1,1,Saeed Ajmal,2010-11-02,1st,JA Morkel,14,,HM Amla,80,Pakistan,South Africa,154,Pakistan,Dubai International Cricket Stadium,5,South Africa
+234,38.2,1,Saeed Ajmal,2010-11-02,1st,HM Amla,80,,JA Morkel,15,Pakistan,South Africa,155,Pakistan,Dubai International Cricket Stadium,5,South Africa
+235,38.3,2,Saeed Ajmal,2010-11-02,1st,JA Morkel,15,,HM Amla,82,Pakistan,South Africa,157,Pakistan,Dubai International Cricket Stadium,5,South Africa
+236,38.4,1,Saeed Ajmal,2010-11-02,1st,JA Morkel,15,,HM Amla,83,Pakistan,South Africa,158,Pakistan,Dubai International Cricket Stadium,5,South Africa
+237,38.5,0,Saeed Ajmal,2010-11-02,1st,HM Amla,83,,JA Morkel,15,Pakistan,South Africa,158,Pakistan,Dubai International Cricket Stadium,5,South Africa
+238,38.6,1,Saeed Ajmal,2010-11-02,1st,HM Amla,83,,JA Morkel,16,Pakistan,South Africa,159,Pakistan,Dubai International Cricket Stadium,5,South Africa
+239,39.1,2,Shahid Afridi,2010-11-02,1st,HM Amla,83,,JA Morkel,18,Pakistan,South Africa,161,Pakistan,Dubai International Cricket Stadium,5,South Africa
+240,39.2,0,Shahid Afridi,2010-11-02,1st,HM Amla,83,,JA Morkel,18,Pakistan,South Africa,161,Pakistan,Dubai International Cricket Stadium,5,South Africa
+241,39.3,1,Shahid Afridi,2010-11-02,1st,HM Amla,83,,JA Morkel,19,Pakistan,South Africa,162,Pakistan,Dubai International Cricket Stadium,5,South Africa
+242,39.4,1,Shahid Afridi,2010-11-02,1st,JA Morkel,19,,HM Amla,84,Pakistan,South Africa,163,Pakistan,Dubai International Cricket Stadium,5,South Africa
+243,39.5,0,Shahid Afridi,2010-11-02,1st,HM Amla,84,JA Morkel,JA Morkel,19,Pakistan,South Africa,163,Pakistan,Dubai International Cricket Stadium,6,South Africa
+244,39.6,1,Shahid Afridi,2010-11-02,1st,J Botha,0,,HM Amla,85,Pakistan,South Africa,164,Pakistan,Dubai International Cricket Stadium,6,South Africa
+245,40.1,1,Saeed Ajmal,2010-11-02,1st,J Botha,0,,HM Amla,86,Pakistan,South Africa,165,Pakistan,Dubai International Cricket Stadium,6,South Africa
+246,40.2,0,Saeed Ajmal,2010-11-02,1st,HM Amla,86,,J Botha,0,Pakistan,South Africa,165,Pakistan,Dubai International Cricket Stadium,6,South Africa
+247,40.3,1,Saeed Ajmal,2010-11-02,1st,HM Amla,86,,J Botha,1,Pakistan,South Africa,166,Pakistan,Dubai International Cricket Stadium,6,South Africa
+248,40.4,1,Saeed Ajmal,2010-11-02,1st,J Botha,1,,HM Amla,87,Pakistan,South Africa,167,Pakistan,Dubai International Cricket Stadium,6,South Africa
+249,40.5,0,Saeed Ajmal,2010-11-02,1st,HM Amla,87,,J Botha,1,Pakistan,South Africa,167,Pakistan,Dubai International Cricket Stadium,6,South Africa
+250,40.6,0,Saeed Ajmal,2010-11-02,1st,HM Amla,87,,J Botha,1,Pakistan,South Africa,167,Pakistan,Dubai International Cricket Stadium,6,South Africa
+251,41.1,1,Mohammad Hafeez,2010-11-02,1st,J Botha,1,,HM Amla,88,Pakistan,South Africa,168,Pakistan,Dubai International Cricket Stadium,6,South Africa
+252,41.2,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,88,,J Botha,2,Pakistan,South Africa,169,Pakistan,Dubai International Cricket Stadium,6,South Africa
+253,41.3,1,Mohammad Hafeez,2010-11-02,1st,J Botha,2,,HM Amla,89,Pakistan,South Africa,170,Pakistan,Dubai International Cricket Stadium,6,South Africa
+254,41.4,1,Mohammad Hafeez,2010-11-02,1st,HM Amla,89,,J Botha,3,Pakistan,South Africa,171,Pakistan,Dubai International Cricket Stadium,6,South Africa
+255,41.5,0,Mohammad Hafeez,2010-11-02,1st,J Botha,3,,HM Amla,89,Pakistan,South Africa,171,Pakistan,Dubai International Cricket Stadium,6,South Africa
+256,41.6,1,Mohammad Hafeez,2010-11-02,1st,J Botha,3,,HM Amla,90,Pakistan,South Africa,172,Pakistan,Dubai International Cricket Stadium,6,South Africa
+257,42.1,2,Saeed Ajmal,2010-11-02,1st,J Botha,3,,HM Amla,92,Pakistan,South Africa,174,Pakistan,Dubai International Cricket Stadium,6,South Africa
+258,42.2,0,Saeed Ajmal,2010-11-02,1st,J Botha,3,,HM Amla,92,Pakistan,South Africa,174,Pakistan,Dubai International Cricket Stadium,6,South Africa
+259,42.3,0,Saeed Ajmal,2010-11-02,1st,J Botha,3,,HM Amla,92,Pakistan,South Africa,174,Pakistan,Dubai International Cricket Stadium,6,South Africa
+260,42.4,2,Saeed Ajmal,2010-11-02,1st,J Botha,3,,HM Amla,94,Pakistan,South Africa,176,Pakistan,Dubai International Cricket Stadium,6,South Africa
+261,42.5,0,Saeed Ajmal,2010-11-02,1st,J Botha,3,,HM Amla,94,Pakistan,South Africa,176,Pakistan,Dubai International Cricket Stadium,6,South Africa
+262,42.6,4,Saeed Ajmal,2010-11-02,1st,J Botha,3,,HM Amla,98,Pakistan,South Africa,180,Pakistan,Dubai International Cricket Stadium,6,South Africa
+263,43.1,0,Wahab Riaz,2010-11-02,1st,HM Amla,98,,J Botha,3,Pakistan,South Africa,180,Pakistan,Dubai International Cricket Stadium,6,South Africa
+264,43.2,2,Wahab Riaz,2010-11-02,1st,HM Amla,98,,J Botha,5,Pakistan,South Africa,182,Pakistan,Dubai International Cricket Stadium,6,South Africa
+265,43.3,0,Wahab Riaz,2010-11-02,1st,HM Amla,98,,J Botha,5,Pakistan,South Africa,182,Pakistan,Dubai International Cricket Stadium,6,South Africa
+266,43.4,0,Wahab Riaz,2010-11-02,1st,HM Amla,98,,J Botha,5,Pakistan,South Africa,182,Pakistan,Dubai International Cricket Stadium,6,South Africa
+267,43.5,1,Wahab Riaz,2010-11-02,1st,HM Amla,98,,J Botha,6,Pakistan,South Africa,183,Pakistan,Dubai International Cricket Stadium,6,South Africa
+268,43.6,1,Wahab Riaz,2010-11-02,1st,J Botha,6,,HM Amla,99,Pakistan,South Africa,184,Pakistan,Dubai International Cricket Stadium,6,South Africa
+269,44.1,1,Shoaib Akhtar,2010-11-02,1st,J Botha,6,,HM Amla,100,Pakistan,South Africa,185,Pakistan,Dubai International Cricket Stadium,6,South Africa
+270,44.2,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,100,,J Botha,6,Pakistan,South Africa,185,Pakistan,Dubai International Cricket Stadium,6,South Africa
+271,44.3,4,Shoaib Akhtar,2010-11-02,1st,HM Amla,100,,J Botha,10,Pakistan,South Africa,189,Pakistan,Dubai International Cricket Stadium,6,South Africa
+272,44.4,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,100,,J Botha,10,Pakistan,South Africa,189,Pakistan,Dubai International Cricket Stadium,6,South Africa
+273,44.5,1,Shoaib Akhtar,2010-11-02,1st,HM Amla,100,,J Botha,11,Pakistan,South Africa,190,Pakistan,Dubai International Cricket Stadium,6,South Africa
+274,44.6,1,Shoaib Akhtar,2010-11-02,1st,J Botha,11,,HM Amla,101,Pakistan,South Africa,191,Pakistan,Dubai International Cricket Stadium,6,South Africa
+275,45.1,0,Wahab Riaz,2010-11-02,1st,J Botha,11,,HM Amla,101,Pakistan,South Africa,191,Pakistan,Dubai International Cricket Stadium,6,South Africa
+276,45.2,1,Wahab Riaz,2010-11-02,1st,J Botha,11,,HM Amla,102,Pakistan,South Africa,192,Pakistan,Dubai International Cricket Stadium,6,South Africa
+277,45.3,3,Wahab Riaz,2010-11-02,1st,HM Amla,102,,J Botha,14,Pakistan,South Africa,195,Pakistan,Dubai International Cricket Stadium,6,South Africa
+278,45.4,4,Wahab Riaz,2010-11-02,1st,J Botha,14,,HM Amla,106,Pakistan,South Africa,199,Pakistan,Dubai International Cricket Stadium,6,South Africa
+279,45.5,1,Wahab Riaz,2010-11-02,1st,J Botha,14,,HM Amla,107,Pakistan,South Africa,200,Pakistan,Dubai International Cricket Stadium,6,South Africa
+280,45.6,1,Wahab Riaz,2010-11-02,1st,HM Amla,107,,J Botha,15,Pakistan,South Africa,201,Pakistan,Dubai International Cricket Stadium,6,South Africa
+281,46.1,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,107,,J Botha,15,Pakistan,South Africa,201,Pakistan,Dubai International Cricket Stadium,6,South Africa
+282,46.2,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,107,J Botha,J Botha,15,Pakistan,South Africa,201,Pakistan,Dubai International Cricket Stadium,7,South Africa
+283,46.3,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,107,,M Morkel,0,Pakistan,South Africa,201,Pakistan,Dubai International Cricket Stadium,7,South Africa
+284,46.4,1,Shoaib Akhtar,2010-11-02,1st,HM Amla,107,,M Morkel,1,Pakistan,South Africa,202,Pakistan,Dubai International Cricket Stadium,7,South Africa
+285,46.5,1,Shoaib Akhtar,2010-11-02,1st,M Morkel,1,,HM Amla,108,Pakistan,South Africa,203,Pakistan,Dubai International Cricket Stadium,7,South Africa
+286,46.6,0,Shoaib Akhtar,2010-11-02,1st,HM Amla,108,,M Morkel,1,Pakistan,South Africa,204,Pakistan,Dubai International Cricket Stadium,7,South Africa
+287,47.1,0,Wahab Riaz,2010-11-02,1st,HM Amla,108,,M Morkel,1,Pakistan,South Africa,204,Pakistan,Dubai International Cricket Stadium,7,South Africa
+288,47.2,0,Wahab Riaz,2010-11-02,1st,HM Amla,108,,M Morkel,1,Pakistan,South Africa,204,Pakistan,Dubai International Cricket Stadium,7,South Africa
+289,47.3,1,Wahab Riaz,2010-11-02,1st,HM Amla,108,,M Morkel,2,Pakistan,South Africa,205,Pakistan,Dubai International Cricket Stadium,7,South Africa
+290,47.4,4,Wahab Riaz,2010-11-02,1st,M Morkel,2,,HM Amla,112,Pakistan,South Africa,209,Pakistan,Dubai International Cricket Stadium,7,South Africa
+291,47.5,0,Wahab Riaz,2010-11-02,1st,M Morkel,2,,HM Amla,112,Pakistan,South Africa,210,Pakistan,Dubai International Cricket Stadium,7,South Africa
+292,47.6,1,Wahab Riaz,2010-11-02,1st,M Morkel,2,,HM Amla,113,Pakistan,South Africa,211,Pakistan,Dubai International Cricket Stadium,7,South Africa
+293,47.7,0,Wahab Riaz,2010-11-02,1st,HM Amla,113,M Morkel,M Morkel,2,Pakistan,South Africa,211,Pakistan,Dubai International Cricket Stadium,8,South Africa
+294,48.1,1,Shoaib Akhtar,2010-11-02,1st,J Theron,0,,HM Amla,114,Pakistan,South Africa,212,Pakistan,Dubai International Cricket Stadium,8,South Africa
+295,48.2,1,Shoaib Akhtar,2010-11-02,1st,HM Amla,114,,J Theron,1,Pakistan,South Africa,213,Pakistan,Dubai International Cricket Stadium,8,South Africa
+296,48.3,0,Shoaib Akhtar,2010-11-02,1st,J Theron,1,,HM Amla,114,Pakistan,South Africa,214,Pakistan,Dubai International Cricket Stadium,8,South Africa
+297,48.4,1,Shoaib Akhtar,2010-11-02,1st,J Theron,1,,HM Amla,115,Pakistan,South Africa,215,Pakistan,Dubai International Cricket Stadium,8,South Africa
+298,48.5,1,Shoaib Akhtar,2010-11-02,1st,HM Amla,115,,J Theron,2,Pakistan,South Africa,216,Pakistan,Dubai International Cricket Stadium,8,South Africa
+299,48.6,0,Shoaib Akhtar,2010-11-02,1st,J Theron,2,,HM Amla,115,Pakistan,South Africa,221,Pakistan,Dubai International Cricket Stadium,8,South Africa
+300,48.7,0,Shoaib Akhtar,2010-11-02,1st,J Theron,2,,HM Amla,115,Pakistan,South Africa,221,Pakistan,Dubai International Cricket Stadium,8,South Africa
+301,48.8,1,Shoaib Akhtar,2010-11-02,1st,J Theron,2,,HM Amla,116,Pakistan,South Africa,222,Pakistan,Dubai International Cricket Stadium,8,South Africa
+302,49.1,2,Wahab Riaz,2010-11-02,1st,J Theron,2,,HM Amla,118,Pakistan,South Africa,224,Pakistan,Dubai International Cricket Stadium,8,South Africa
+303,49.2,0,Wahab Riaz,2010-11-02,1st,J Theron,2,,HM Amla,118,Pakistan,South Africa,224,Pakistan,Dubai International Cricket Stadium,8,South Africa
+304,49.3,1,Wahab Riaz,2010-11-02,1st,J Theron,2,,HM Amla,119,Pakistan,South Africa,225,Pakistan,Dubai International Cricket Stadium,8,South Africa
+305,49.4,2,Wahab Riaz,2010-11-02,1st,HM Amla,119,,J Theron,4,Pakistan,South Africa,227,Pakistan,Dubai International Cricket Stadium,8,South Africa
+306,49.5,0,Wahab Riaz,2010-11-02,1st,HM Amla,119,,J Theron,4,Pakistan,South Africa,227,Pakistan,Dubai International Cricket Stadium,8,South Africa
+307,49.6,1,Wahab Riaz,2010-11-02,1st,HM Amla,119,J Theron,J Theron,5,Pakistan,South Africa,228,Pakistan,Dubai International Cricket Stadium,9,South Africa
+308,0.1,0,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,0,Pakistan,Dubai International Cricket Stadium,0,South Africa
+309,0.2,0,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,0,Pakistan,Dubai International Cricket Stadium,0,South Africa
+310,0.3,0,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,0,Pakistan,Dubai International Cricket Stadium,0,South Africa
+311,0.4,1,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,1,Pakistan,Dubai International Cricket Stadium,0,South Africa
+312,0.5,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+313,0.6,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+314,1.1,0,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+315,1.2,0,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+316,1.3,0,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+317,1.4,0,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+318,1.5,0,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+319,1.6,0,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+320,2.1,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+321,2.2,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+322,2.3,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+323,2.4,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+324,2.5,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,3,Pakistan,Dubai International Cricket Stadium,0,South Africa
+325,2.6,3,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,6,Pakistan,Dubai International Cricket Stadium,0,South Africa
+326,3.1,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,6,Pakistan,Dubai International Cricket Stadium,0,South Africa
+327,3.2,1,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,7,Pakistan,Dubai International Cricket Stadium,0,South Africa
+328,3.3,1,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+329,3.4,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+330,3.5,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+331,3.6,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+332,4.1,0,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,8,Pakistan,Dubai International Cricket Stadium,0,South Africa
+333,4.2,2,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,10,Pakistan,Dubai International Cricket Stadium,0,South Africa
+334,4.3,0,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,10,Pakistan,Dubai International Cricket Stadium,0,South Africa
+335,4.4,0,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,10,Pakistan,Dubai International Cricket Stadium,0,South Africa
+336,4.5,0,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,10,Pakistan,Dubai International Cricket Stadium,0,South Africa
+337,4.6,1,M Morkel,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,11,Pakistan,Dubai International Cricket Stadium,0,South Africa
+338,5.1,1,LL Tsotsobe,2010-11-02,2nd,Mohammad Hafeez,0,,Imran Farhat,0,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,0,South Africa
+339,5.2,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,0,South Africa
+340,5.3,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+341,5.4,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Younis Khan,0,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+342,5.5,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Younis Khan,0,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+343,5.6,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Younis Khan,0,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+344,6.1,0,M Morkel,2010-11-02,2nd,Younis Khan,0,,Imran Farhat,0,Pakistan,South Africa,12,Pakistan,Dubai International Cricket Stadium,1,South Africa
+345,6.2,0,M Morkel,2010-11-02,2nd,Younis Khan,0,,Imran Farhat,0,Pakistan,South Africa,13,Pakistan,Dubai International Cricket Stadium,1,South Africa
+346,6.3,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Younis Khan,0,Pakistan,South Africa,13,Pakistan,Dubai International Cricket Stadium,1,South Africa
+347,6.4,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Younis Khan,0,Pakistan,South Africa,13,Pakistan,Dubai International Cricket Stadium,1,South Africa
+348,6.5,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Younis Khan,0,Pakistan,South Africa,13,Pakistan,Dubai International Cricket Stadium,1,South Africa
+349,6.6,0,M Morkel,2010-11-02,2nd,Imran Farhat,0,,Younis Khan,0,Pakistan,South Africa,13,Pakistan,Dubai International Cricket Stadium,2,South Africa
+350,7.1,0,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,13,Pakistan,Dubai International Cricket Stadium,2,South Africa
+351,7.2,1,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+352,7.3,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+353,7.4,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+354,7.5,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+355,7.6,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+356,8.1,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+357,8.2,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+358,8.3,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+359,8.4,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+360,8.5,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,14,Pakistan,Dubai International Cricket Stadium,2,South Africa
+361,8.6,4,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,18,Pakistan,Dubai International Cricket Stadium,2,South Africa
+362,9.1,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,18,Pakistan,Dubai International Cricket Stadium,2,South Africa
+363,9.2,3,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+364,9.3,0,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+365,9.4,0,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,21,Pakistan,Dubai International Cricket Stadium,2,South Africa
+366,9.5,1,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,22,Pakistan,Dubai International Cricket Stadium,2,South Africa
+367,9.6,1,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,23,Pakistan,Dubai International Cricket Stadium,2,South Africa
+368,10.1,0,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,23,Pakistan,Dubai International Cricket Stadium,2,South Africa
+369,10.2,0,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,23,Pakistan,Dubai International Cricket Stadium,2,South Africa
+370,10.3,1,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,24,Pakistan,Dubai International Cricket Stadium,2,South Africa
+371,10.4,0,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,24,Pakistan,Dubai International Cricket Stadium,2,South Africa
+372,10.5,1,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,25,Pakistan,Dubai International Cricket Stadium,2,South Africa
+373,10.6,0,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,25,Pakistan,Dubai International Cricket Stadium,2,South Africa
+374,11.1,0,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,25,Pakistan,Dubai International Cricket Stadium,2,South Africa
+375,11.2,0,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,25,Pakistan,Dubai International Cricket Stadium,2,South Africa
+376,11.3,0,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,25,Pakistan,Dubai International Cricket Stadium,2,South Africa
+377,11.4,0,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,25,Pakistan,Dubai International Cricket Stadium,2,South Africa
+378,11.5,1,LL Tsotsobe,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,26,Pakistan,Dubai International Cricket Stadium,2,South Africa
+379,11.6,0,LL Tsotsobe,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,26,Pakistan,Dubai International Cricket Stadium,2,South Africa
+380,12.1,0,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,26,Pakistan,Dubai International Cricket Stadium,2,South Africa
+381,12.2,0,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,26,Pakistan,Dubai International Cricket Stadium,2,South Africa
+382,12.3,0,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,27,Pakistan,Dubai International Cricket Stadium,2,South Africa
+383,12.4,0,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,27,Pakistan,Dubai International Cricket Stadium,2,South Africa
+384,12.5,0,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,27,Pakistan,Dubai International Cricket Stadium,2,South Africa
+385,12.6,1,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,28,Pakistan,Dubai International Cricket Stadium,2,South Africa
+386,12.7,1,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,29,Pakistan,Dubai International Cricket Stadium,2,South Africa
+387,13.1,0,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,29,Pakistan,Dubai International Cricket Stadium,2,South Africa
+388,13.2,0,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,29,Pakistan,Dubai International Cricket Stadium,2,South Africa
+389,13.3,1,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,30,Pakistan,Dubai International Cricket Stadium,2,South Africa
+390,13.4,1,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,31,Pakistan,Dubai International Cricket Stadium,2,South Africa
+391,13.5,0,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,31,Pakistan,Dubai International Cricket Stadium,2,South Africa
+392,13.6,0,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,31,Pakistan,Dubai International Cricket Stadium,2,South Africa
+393,14.1,1,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,32,Pakistan,Dubai International Cricket Stadium,2,South Africa
+394,14.2,0,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,32,Pakistan,Dubai International Cricket Stadium,2,South Africa
+395,14.3,1,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,33,Pakistan,Dubai International Cricket Stadium,2,South Africa
+396,14.4,1,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,34,Pakistan,Dubai International Cricket Stadium,2,South Africa
+397,14.5,1,JH Kallis,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,35,Pakistan,Dubai International Cricket Stadium,2,South Africa
+398,14.6,2,JH Kallis,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,37,Pakistan,Dubai International Cricket Stadium,2,South Africa
+399,15.1,4,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,41,Pakistan,Dubai International Cricket Stadium,2,South Africa
+400,15.2,1,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,42,Pakistan,Dubai International Cricket Stadium,2,South Africa
+401,15.3,0,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,42,Pakistan,Dubai International Cricket Stadium,2,South Africa
+402,15.4,1,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,43,Pakistan,Dubai International Cricket Stadium,2,South Africa
+403,15.5,1,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,44,Pakistan,Dubai International Cricket Stadium,2,South Africa
+404,15.6,0,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,44,Pakistan,Dubai International Cricket Stadium,2,South Africa
+405,16.1,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,44,Pakistan,Dubai International Cricket Stadium,2,South Africa
+406,16.2,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,44,Pakistan,Dubai International Cricket Stadium,2,South Africa
+407,16.3,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,44,Pakistan,Dubai International Cricket Stadium,2,South Africa
+408,16.4,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,47,Pakistan,Dubai International Cricket Stadium,2,South Africa
+409,16.5,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,48,Pakistan,Dubai International Cricket Stadium,2,South Africa
+410,16.6,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,48,Pakistan,Dubai International Cricket Stadium,2,South Africa
+411,17.1,2,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,50,Pakistan,Dubai International Cricket Stadium,2,South Africa
+412,17.2,2,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,52,Pakistan,Dubai International Cricket Stadium,2,South Africa
+413,17.3,0,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,52,Pakistan,Dubai International Cricket Stadium,2,South Africa
+414,17.4,1,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,53,Pakistan,Dubai International Cricket Stadium,2,South Africa
+415,17.5,0,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,53,Pakistan,Dubai International Cricket Stadium,2,South Africa
+416,17.6,0,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,53,Pakistan,Dubai International Cricket Stadium,2,South Africa
+417,18.1,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,54,Pakistan,Dubai International Cricket Stadium,2,South Africa
+418,18.2,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,54,Pakistan,Dubai International Cricket Stadium,2,South Africa
+419,18.3,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,54,Pakistan,Dubai International Cricket Stadium,2,South Africa
+420,18.4,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,54,Pakistan,Dubai International Cricket Stadium,2,South Africa
+421,18.5,1,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,55,Pakistan,Dubai International Cricket Stadium,2,South Africa
+422,18.6,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,57,Pakistan,Dubai International Cricket Stadium,2,South Africa
+423,19.1,1,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,58,Pakistan,Dubai International Cricket Stadium,2,South Africa
+424,19.2,0,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,58,Pakistan,Dubai International Cricket Stadium,2,South Africa
+425,19.3,1,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,59,Pakistan,Dubai International Cricket Stadium,2,South Africa
+426,19.4,1,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,2,South Africa
+427,19.5,0,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,2,South Africa
+428,19.6,0,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,2,South Africa
+429,20.1,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,2,South Africa
+430,20.2,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,2,South Africa
+431,20.3,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,60,Pakistan,Dubai International Cricket Stadium,2,South Africa
+432,20.4,1,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,61,Pakistan,Dubai International Cricket Stadium,2,South Africa
+433,20.5,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,61,Pakistan,Dubai International Cricket Stadium,2,South Africa
+434,20.6,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,62,Pakistan,Dubai International Cricket Stadium,2,South Africa
+435,21.1,0,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,62,Pakistan,Dubai International Cricket Stadium,2,South Africa
+436,21.2,1,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,63,Pakistan,Dubai International Cricket Stadium,2,South Africa
+437,21.3,1,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,64,Pakistan,Dubai International Cricket Stadium,2,South Africa
+438,21.4,1,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,65,Pakistan,Dubai International Cricket Stadium,2,South Africa
+439,21.5,1,J Theron,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,66,Pakistan,Dubai International Cricket Stadium,2,South Africa
+440,21.6,1,J Theron,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,67,Pakistan,Dubai International Cricket Stadium,2,South Africa
+441,22.1,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,68,Pakistan,Dubai International Cricket Stadium,2,South Africa
+442,22.2,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,68,Pakistan,Dubai International Cricket Stadium,2,South Africa
+443,22.3,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,68,Pakistan,Dubai International Cricket Stadium,2,South Africa
+444,22.4,4,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,72,Pakistan,Dubai International Cricket Stadium,2,South Africa
+445,22.5,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,72,Pakistan,Dubai International Cricket Stadium,2,South Africa
+446,22.6,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,72,Pakistan,Dubai International Cricket Stadium,2,South Africa
+447,23.1,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,73,Pakistan,Dubai International Cricket Stadium,2,South Africa
+448,23.2,0,JP Duminy,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,73,Pakistan,Dubai International Cricket Stadium,2,South Africa
+449,23.3,1,JP Duminy,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,74,Pakistan,Dubai International Cricket Stadium,2,South Africa
+450,23.4,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,75,Pakistan,Dubai International Cricket Stadium,2,South Africa
+451,23.5,1,JP Duminy,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,76,Pakistan,Dubai International Cricket Stadium,2,South Africa
+452,23.6,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,76,Pakistan,Dubai International Cricket Stadium,2,South Africa
+453,24.1,1,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,77,Pakistan,Dubai International Cricket Stadium,2,South Africa
+454,24.2,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,77,Pakistan,Dubai International Cricket Stadium,2,South Africa
+455,24.3,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,78,Pakistan,Dubai International Cricket Stadium,2,South Africa
+456,24.4,4,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,82,Pakistan,Dubai International Cricket Stadium,2,South Africa
+457,24.5,1,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,83,Pakistan,Dubai International Cricket Stadium,2,South Africa
+458,24.6,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,84,Pakistan,Dubai International Cricket Stadium,2,South Africa
+459,25.1,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,85,Pakistan,Dubai International Cricket Stadium,2,South Africa
+460,25.2,1,JP Duminy,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,86,Pakistan,Dubai International Cricket Stadium,2,South Africa
+461,25.3,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,86,Pakistan,Dubai International Cricket Stadium,2,South Africa
+462,25.4,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,86,Pakistan,Dubai International Cricket Stadium,2,South Africa
+463,25.5,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,86,Pakistan,Dubai International Cricket Stadium,2,South Africa
+464,25.6,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,87,Pakistan,Dubai International Cricket Stadium,2,South Africa
+465,26.1,2,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,89,Pakistan,Dubai International Cricket Stadium,2,South Africa
+466,26.2,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,90,Pakistan,Dubai International Cricket Stadium,2,South Africa
+467,26.3,0,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,90,Pakistan,Dubai International Cricket Stadium,2,South Africa
+468,26.4,1,J Botha,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,91,Pakistan,Dubai International Cricket Stadium,2,South Africa
+469,26.5,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,91,Pakistan,Dubai International Cricket Stadium,2,South Africa
+470,26.6,2,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,93,Pakistan,Dubai International Cricket Stadium,2,South Africa
+471,27.1,0,JP Duminy,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,93,Pakistan,Dubai International Cricket Stadium,2,South Africa
+472,27.2,0,JP Duminy,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,94,Pakistan,Dubai International Cricket Stadium,2,South Africa
+473,27.3,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,95,Pakistan,Dubai International Cricket Stadium,2,South Africa
+474,27.4,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,95,Pakistan,Dubai International Cricket Stadium,2,South Africa
+475,27.5,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,96,Pakistan,Dubai International Cricket Stadium,2,South Africa
+476,27.6,1,JP Duminy,2010-11-02,2nd,Imran Farhat,0,,Asad Shafiq,0,Pakistan,South Africa,97,Pakistan,Dubai International Cricket Stadium,2,South Africa
+477,27.7,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Imran Farhat,0,Pakistan,South Africa,98,Pakistan,Dubai International Cricket Stadium,3,South Africa
+478,28.1,1,J Botha,2010-11-02,2nd,Shahid Afridi,0,,Asad Shafiq,0,Pakistan,South Africa,99,Pakistan,Dubai International Cricket Stadium,3,South Africa
+479,28.2,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Shahid Afridi,0,Pakistan,South Africa,99,Pakistan,Dubai International Cricket Stadium,3,South Africa
+480,28.3,6,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Shahid Afridi,0,Pakistan,South Africa,105,Pakistan,Dubai International Cricket Stadium,3,South Africa
+481,28.4,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Shahid Afridi,0,Pakistan,South Africa,105,Pakistan,Dubai International Cricket Stadium,3,South Africa
+482,28.5,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Shahid Afridi,0,Pakistan,South Africa,106,Pakistan,Dubai International Cricket Stadium,3,South Africa
+483,28.6,1,J Botha,2010-11-02,2nd,Shahid Afridi,0,,Asad Shafiq,0,Pakistan,South Africa,107,Pakistan,Dubai International Cricket Stadium,3,South Africa
+484,29.1,0,M Morkel,2010-11-02,2nd,Shahid Afridi,0,,Asad Shafiq,0,Pakistan,South Africa,107,Pakistan,Dubai International Cricket Stadium,3,South Africa
+485,29.2,1,M Morkel,2010-11-02,2nd,Shahid Afridi,0,,Asad Shafiq,0,Pakistan,South Africa,108,Pakistan,Dubai International Cricket Stadium,3,South Africa
+486,29.3,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Shahid Afridi,0,Pakistan,South Africa,108,Pakistan,Dubai International Cricket Stadium,4,South Africa
+487,29.4,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,108,Pakistan,Dubai International Cricket Stadium,4,South Africa
+488,29.5,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,109,Pakistan,Dubai International Cricket Stadium,4,South Africa
+489,29.6,2,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,111,Pakistan,Dubai International Cricket Stadium,4,South Africa
+490,29.7,0,M Morkel,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,111,Pakistan,Dubai International Cricket Stadium,4,South Africa
+491,30.1,1,J Botha,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,112,Pakistan,Dubai International Cricket Stadium,4,South Africa
+492,30.2,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,113,Pakistan,Dubai International Cricket Stadium,4,South Africa
+493,30.3,0,J Botha,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,113,Pakistan,Dubai International Cricket Stadium,4,South Africa
+494,30.4,0,J Botha,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,113,Pakistan,Dubai International Cricket Stadium,4,South Africa
+495,30.5,0,J Botha,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,113,Pakistan,Dubai International Cricket Stadium,4,South Africa
+496,30.6,0,J Botha,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,113,Pakistan,Dubai International Cricket Stadium,4,South Africa
+497,31.1,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,114,Pakistan,Dubai International Cricket Stadium,4,South Africa
+498,31.2,1,JP Duminy,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,115,Pakistan,Dubai International Cricket Stadium,4,South Africa
+499,31.3,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,115,Pakistan,Dubai International Cricket Stadium,4,South Africa
+500,31.4,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,115,Pakistan,Dubai International Cricket Stadium,4,South Africa
+501,31.5,1,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,4,South Africa
+502,31.6,0,JP Duminy,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,4,South Africa
+503,32.1,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,4,South Africa
+504,32.2,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,116,Pakistan,Dubai International Cricket Stadium,4,South Africa
+505,32.3,2,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,118,Pakistan,Dubai International Cricket Stadium,4,South Africa
+506,32.4,1,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,119,Pakistan,Dubai International Cricket Stadium,4,South Africa
+507,32.5,1,J Botha,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,120,Pakistan,Dubai International Cricket Stadium,4,South Africa
+508,32.6,0,J Botha,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,120,Pakistan,Dubai International Cricket Stadium,4,South Africa
+509,33.1,0,JP Duminy,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,120,Pakistan,Dubai International Cricket Stadium,4,South Africa
+510,33.2,1,JP Duminy,2010-11-02,2nd,Fawad Alam,0,,Asad Shafiq,0,Pakistan,South Africa,121,Pakistan,Dubai International Cricket Stadium,4,South Africa
+511,33.3,0,JP Duminy,2010-11-02,2nd,Asad Shafiq,0,,Fawad Alam,0,Pakistan,South Africa,121,Pakistan,Dubai International Cricket Stadium,5,South Africa
+512,33.4,1,JP Duminy,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,122,Pakistan,Dubai International Cricket Stadium,5,South Africa
+513,33.5,0,JP Duminy,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,122,Pakistan,Dubai International Cricket Stadium,5,South Africa
+514,33.6,1,JP Duminy,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,123,Pakistan,Dubai International Cricket Stadium,5,South Africa
+515,34.1,0,J Botha,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,123,Pakistan,Dubai International Cricket Stadium,5,South Africa
+516,34.2,1,J Botha,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,124,Pakistan,Dubai International Cricket Stadium,5,South Africa
+517,34.3,1,J Botha,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,125,Pakistan,Dubai International Cricket Stadium,5,South Africa
+518,34.4,0,J Botha,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,125,Pakistan,Dubai International Cricket Stadium,5,South Africa
+519,34.5,1,J Botha,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,126,Pakistan,Dubai International Cricket Stadium,5,South Africa
+520,34.6,0,J Botha,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,126,Pakistan,Dubai International Cricket Stadium,5,South Africa
+521,35.1,2,M Morkel,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,128,Pakistan,Dubai International Cricket Stadium,5,South Africa
+522,35.2,1,M Morkel,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,129,Pakistan,Dubai International Cricket Stadium,5,South Africa
+523,35.3,0,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,129,Pakistan,Dubai International Cricket Stadium,5,South Africa
+524,35.4,0,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,129,Pakistan,Dubai International Cricket Stadium,5,South Africa
+525,35.5,1,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,130,Pakistan,Dubai International Cricket Stadium,5,South Africa
+526,35.6,1,M Morkel,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,131,Pakistan,Dubai International Cricket Stadium,5,South Africa
+527,36.1,1,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,132,Pakistan,Dubai International Cricket Stadium,5,South Africa
+528,36.2,1,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,133,Pakistan,Dubai International Cricket Stadium,5,South Africa
+529,36.3,1,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,134,Pakistan,Dubai International Cricket Stadium,5,South Africa
+530,36.4,4,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,138,Pakistan,Dubai International Cricket Stadium,5,South Africa
+531,36.5,0,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,139,Pakistan,Dubai International Cricket Stadium,5,South Africa
+532,36.6,0,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,139,Pakistan,Dubai International Cricket Stadium,5,South Africa
+533,37.1,1,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,140,Pakistan,Dubai International Cricket Stadium,5,South Africa
+534,37.2,0,M Morkel,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,140,Pakistan,Dubai International Cricket Stadium,5,South Africa
+535,37.3,1,M Morkel,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,141,Pakistan,Dubai International Cricket Stadium,5,South Africa
+536,37.4,0,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,141,Pakistan,Dubai International Cricket Stadium,5,South Africa
+537,37.5,0,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,141,Pakistan,Dubai International Cricket Stadium,5,South Africa
+538,37.6,0,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,141,Pakistan,Dubai International Cricket Stadium,5,South Africa
+539,38.1,0,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,141,Pakistan,Dubai International Cricket Stadium,5,South Africa
+540,38.2,0,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,141,Pakistan,Dubai International Cricket Stadium,5,South Africa
+541,38.3,1,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,142,Pakistan,Dubai International Cricket Stadium,5,South Africa
+542,38.4,0,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,142,Pakistan,Dubai International Cricket Stadium,5,South Africa
+543,38.5,1,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,143,Pakistan,Dubai International Cricket Stadium,5,South Africa
+544,38.6,1,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,144,Pakistan,Dubai International Cricket Stadium,5,South Africa
+545,39.1,0,LL Tsotsobe,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,144,Pakistan,Dubai International Cricket Stadium,5,South Africa
+546,39.2,0,LL Tsotsobe,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,144,Pakistan,Dubai International Cricket Stadium,5,South Africa
+547,39.3,0,LL Tsotsobe,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,144,Pakistan,Dubai International Cricket Stadium,5,South Africa
+548,39.4,1,LL Tsotsobe,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,145,Pakistan,Dubai International Cricket Stadium,5,South Africa
+549,39.5,1,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,146,Pakistan,Dubai International Cricket Stadium,5,South Africa
+550,39.6,0,LL Tsotsobe,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,146,Pakistan,Dubai International Cricket Stadium,5,South Africa
+551,40.1,1,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,147,Pakistan,Dubai International Cricket Stadium,5,South Africa
+552,40.2,0,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,147,Pakistan,Dubai International Cricket Stadium,5,South Africa
+553,40.3,0,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,147,Pakistan,Dubai International Cricket Stadium,5,South Africa
+554,40.4,1,JH Kallis,2010-11-02,2nd,Abdul Razzaq,0,,Fawad Alam,0,Pakistan,South Africa,148,Pakistan,Dubai International Cricket Stadium,5,South Africa
+555,40.5,0,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Abdul Razzaq,0,Pakistan,South Africa,148,Pakistan,Dubai International Cricket Stadium,6,South Africa
+556,40.6,0,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,148,Pakistan,Dubai International Cricket Stadium,6,South Africa
+557,41.1,1,LL Tsotsobe,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,149,Pakistan,Dubai International Cricket Stadium,6,South Africa
+558,41.2,0,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,149,Pakistan,Dubai International Cricket Stadium,6,South Africa
+559,41.3,1,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,150,Pakistan,Dubai International Cricket Stadium,6,South Africa
+560,41.4,1,LL Tsotsobe,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,151,Pakistan,Dubai International Cricket Stadium,6,South Africa
+561,41.5,1,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,152,Pakistan,Dubai International Cricket Stadium,6,South Africa
+562,41.6,0,LL Tsotsobe,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,153,Pakistan,Dubai International Cricket Stadium,6,South Africa
+563,42.1,0,JH Kallis,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,153,Pakistan,Dubai International Cricket Stadium,6,South Africa
+564,42.2,1,JH Kallis,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,154,Pakistan,Dubai International Cricket Stadium,6,South Africa
+565,42.3,0,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,154,Pakistan,Dubai International Cricket Stadium,6,South Africa
+566,42.4,1,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,155,Pakistan,Dubai International Cricket Stadium,6,South Africa
+567,42.5,1,JH Kallis,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,156,Pakistan,Dubai International Cricket Stadium,6,South Africa
+568,42.6,4,JH Kallis,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,160,Pakistan,Dubai International Cricket Stadium,6,South Africa
+569,43.1,4,J Theron,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,164,Pakistan,Dubai International Cricket Stadium,6,South Africa
+570,43.2,4,J Theron,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,168,Pakistan,Dubai International Cricket Stadium,6,South Africa
+571,43.3,0,J Theron,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,168,Pakistan,Dubai International Cricket Stadium,6,South Africa
+572,43.4,2,J Theron,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,170,Pakistan,Dubai International Cricket Stadium,6,South Africa
+573,43.5,1,J Theron,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,171,Pakistan,Dubai International Cricket Stadium,6,South Africa
+574,43.6,4,J Theron,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,175,Pakistan,Dubai International Cricket Stadium,6,South Africa
+575,44.1,1,M Morkel,2010-11-02,2nd,Zulqarnain Haider,0,,Fawad Alam,0,Pakistan,South Africa,176,Pakistan,Dubai International Cricket Stadium,6,South Africa
+576,44.2,0,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Zulqarnain Haider,0,Pakistan,South Africa,176,Pakistan,Dubai International Cricket Stadium,7,South Africa
+577,44.3,4,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,180,Pakistan,Dubai International Cricket Stadium,7,South Africa
+578,44.4,1,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,181,Pakistan,Dubai International Cricket Stadium,7,South Africa
+579,44.5,4,M Morkel,2010-11-02,2nd,Wahab Riaz,0,,Fawad Alam,0,Pakistan,South Africa,185,Pakistan,Dubai International Cricket Stadium,7,South Africa
+580,44.6,1,M Morkel,2010-11-02,2nd,Wahab Riaz,0,,Fawad Alam,0,Pakistan,South Africa,186,Pakistan,Dubai International Cricket Stadium,7,South Africa
+581,45.1,1,LL Tsotsobe,2010-11-02,2nd,Wahab Riaz,0,,Fawad Alam,0,Pakistan,South Africa,187,Pakistan,Dubai International Cricket Stadium,7,South Africa
+582,45.2,4,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,191,Pakistan,Dubai International Cricket Stadium,7,South Africa
+583,45.3,1,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,192,Pakistan,Dubai International Cricket Stadium,7,South Africa
+584,45.4,0,LL Tsotsobe,2010-11-02,2nd,Wahab Riaz,0,,Fawad Alam,0,Pakistan,South Africa,193,Pakistan,Dubai International Cricket Stadium,7,South Africa
+585,45.5,1,LL Tsotsobe,2010-11-02,2nd,Wahab Riaz,0,,Fawad Alam,0,Pakistan,South Africa,194,Pakistan,Dubai International Cricket Stadium,7,South Africa
+586,45.6,0,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,194,Pakistan,Dubai International Cricket Stadium,7,South Africa
+587,45.7,0,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,195,Pakistan,Dubai International Cricket Stadium,7,South Africa
+588,46.1,2,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,197,Pakistan,Dubai International Cricket Stadium,7,South Africa
+589,46.2,6,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,203,Pakistan,Dubai International Cricket Stadium,7,South Africa
+590,46.3,2,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,205,Pakistan,Dubai International Cricket Stadium,7,South Africa
+591,46.4,1,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,206,Pakistan,Dubai International Cricket Stadium,7,South Africa
+592,46.5,3,M Morkel,2010-11-02,2nd,Wahab Riaz,0,,Fawad Alam,0,Pakistan,South Africa,209,Pakistan,Dubai International Cricket Stadium,7,South Africa
+593,46.6,0,M Morkel,2010-11-02,2nd,Fawad Alam,0,,Wahab Riaz,0,Pakistan,South Africa,209,Pakistan,Dubai International Cricket Stadium,8,South Africa
+594,47.1,1,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,210,Pakistan,Dubai International Cricket Stadium,8,South Africa
+595,47.2,1,J Theron,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,211,Pakistan,Dubai International Cricket Stadium,8,South Africa
+596,47.3,1,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,212,Pakistan,Dubai International Cricket Stadium,8,South Africa
+597,47.4,0,J Theron,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,212,Pakistan,Dubai International Cricket Stadium,8,South Africa
+598,47.5,0,J Theron,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,213,Pakistan,Dubai International Cricket Stadium,8,South Africa
+599,47.6,0,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,213,Pakistan,Dubai International Cricket Stadium,8,South Africa
+600,48.1,0,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,213,Pakistan,Dubai International Cricket Stadium,8,South Africa
+601,48.2,0,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,214,Pakistan,Dubai International Cricket Stadium,8,South Africa
+602,48.3,1,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,215,Pakistan,Dubai International Cricket Stadium,8,South Africa
+603,48.4,0,LL Tsotsobe,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,215,Pakistan,Dubai International Cricket Stadium,8,South Africa
+604,48.5,2,LL Tsotsobe,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,217,Pakistan,Dubai International Cricket Stadium,8,South Africa
+605,48.6,0,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,217,Pakistan,Dubai International Cricket Stadium,8,South Africa
+606,48.7,0,LL Tsotsobe,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,217,Pakistan,Dubai International Cricket Stadium,8,South Africa
+607,49.1,2,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,220,Pakistan,Dubai International Cricket Stadium,8,South Africa
+608,49.2,0,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,220,Pakistan,Dubai International Cricket Stadium,8,South Africa
+609,49.3,2,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,222,Pakistan,Dubai International Cricket Stadium,8,South Africa
+610,49.4,2,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,224,Pakistan,Dubai International Cricket Stadium,8,South Africa
+611,49.5,1,J Theron,2010-11-02,2nd,Saeed Ajmal,0,,Fawad Alam,0,Pakistan,South Africa,225,Pakistan,Dubai International Cricket Stadium,8,South Africa
+612,49.6,0,J Theron,2010-11-02,2nd,Fawad Alam,0,,Saeed Ajmal,0,Pakistan,South Africa,225,Pakistan,Dubai International Cricket Stadium,9,South Africa
+613,49.7,1,J Theron,2010-11-02,2nd,Fawad Alam,0,,Shoaib Akhtar,0,Pakistan,South Africa,226,Pakistan,Dubai International Cricket Stadium,9,South Africa

@@ -1,0 +1,526 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,P Kumar,2008-06-12,1st,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,0,India
+1,0.2,0,P Kumar,2008-06-12,1st,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,0,India
+2,0.3,0,P Kumar,2008-06-12,1st,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,0,India
+3,0.4,0,P Kumar,2008-06-12,1st,Shahriar Nafees,0,,Tamim Iqbal,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,0,India
+4,0.5,0,P Kumar,2008-06-12,1st,Shahriar Nafees,0,Tamim Iqbal,Tamim Iqbal,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,1,India
+5,0.6,0,P Kumar,2008-06-12,1st,Shahriar Nafees,0,,Mohammad Ashraful,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,1,India
+6,1.1,1,RP Singh,2008-06-12,1st,Mohammad Ashraful,0,,Shahriar Nafees,1,Bangladesh,India,1,Bangladesh,Shere Bangla National Stadium,1,India
+7,1.2,0,RP Singh,2008-06-12,1st,Shahriar Nafees,1,,Mohammad Ashraful,0,Bangladesh,India,2,Bangladesh,Shere Bangla National Stadium,1,India
+8,1.3,0,RP Singh,2008-06-12,1st,Shahriar Nafees,1,,Mohammad Ashraful,0,Bangladesh,India,2,Bangladesh,Shere Bangla National Stadium,1,India
+9,1.4,1,RP Singh,2008-06-12,1st,Shahriar Nafees,1,,Mohammad Ashraful,1,Bangladesh,India,3,Bangladesh,Shere Bangla National Stadium,1,India
+10,1.5,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,1,,Shahriar Nafees,1,Bangladesh,India,3,Bangladesh,Shere Bangla National Stadium,1,India
+11,1.6,1,RP Singh,2008-06-12,1st,Mohammad Ashraful,1,,Shahriar Nafees,2,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,1,India
+12,1.7,0,RP Singh,2008-06-12,1st,Shahriar Nafees,2,,Mohammad Ashraful,1,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,1,India
+13,2.1,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,1,,Shahriar Nafees,2,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,1,India
+14,2.2,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,1,,Shahriar Nafees,2,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,1,India
+15,2.3,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,1,,Shahriar Nafees,2,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,1,India
+16,2.4,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,1,,Shahriar Nafees,2,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,1,India
+17,2.5,1,P Kumar,2008-06-12,1st,Mohammad Ashraful,1,,Shahriar Nafees,3,Bangladesh,India,5,Bangladesh,Shere Bangla National Stadium,1,India
+18,2.6,1,P Kumar,2008-06-12,1st,Shahriar Nafees,3,,Mohammad Ashraful,2,Bangladesh,India,6,Bangladesh,Shere Bangla National Stadium,1,India
+19,3.1,4,RP Singh,2008-06-12,1st,Shahriar Nafees,3,,Mohammad Ashraful,6,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,1,India
+20,3.2,0,RP Singh,2008-06-12,1st,Shahriar Nafees,3,,Mohammad Ashraful,6,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,1,India
+21,3.3,0,RP Singh,2008-06-12,1st,Shahriar Nafees,3,,Mohammad Ashraful,6,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,1,India
+22,3.4,1,RP Singh,2008-06-12,1st,Shahriar Nafees,3,,Mohammad Ashraful,7,Bangladesh,India,11,Bangladesh,Shere Bangla National Stadium,1,India
+23,3.5,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,3,Bangladesh,India,11,Bangladesh,Shere Bangla National Stadium,1,India
+24,3.6,1,RP Singh,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,4,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,1,India
+25,4.1,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,4,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,1,India
+26,4.2,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,4,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,1,India
+27,4.3,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,4,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,1,India
+28,4.4,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,4,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,1,India
+29,4.5,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,4,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,1,India
+30,4.6,1,P Kumar,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,5,Bangladesh,India,13,Bangladesh,Shere Bangla National Stadium,1,India
+31,5.1,4,RP Singh,2008-06-12,1st,Mohammad Ashraful,7,,Shahriar Nafees,9,Bangladesh,India,17,Bangladesh,Shere Bangla National Stadium,1,India
+32,5.2,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,7,Shahriar Nafees,Shahriar Nafees,9,Bangladesh,India,17,Bangladesh,Shere Bangla National Stadium,2,India
+33,5.3,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,7,,Raqibul Hasan,0,Bangladesh,India,17,Bangladesh,Shere Bangla National Stadium,2,India
+34,5.4,1,RP Singh,2008-06-12,1st,Mohammad Ashraful,7,,Raqibul Hasan,1,Bangladesh,India,18,Bangladesh,Shere Bangla National Stadium,2,India
+35,5.5,0,RP Singh,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,7,Bangladesh,India,18,Bangladesh,Shere Bangla National Stadium,2,India
+36,5.6,1,RP Singh,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,8,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+37,6.1,0,P Kumar,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,8,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+38,6.2,0,P Kumar,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,8,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+39,6.3,0,P Kumar,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,8,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+40,6.4,0,P Kumar,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,8,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+41,6.5,0,P Kumar,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,8,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+42,6.6,0,P Kumar,2008-06-12,1st,Raqibul Hasan,1,,Mohammad Ashraful,8,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+43,7.1,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,8,,Raqibul Hasan,1,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,2,India
+44,7.2,1,RP Singh,2008-06-12,1st,Mohammad Ashraful,8,,Raqibul Hasan,2,Bangladesh,India,20,Bangladesh,Shere Bangla National Stadium,2,India
+45,7.3,0,RP Singh,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,8,Bangladesh,India,20,Bangladesh,Shere Bangla National Stadium,2,India
+46,7.4,0,RP Singh,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,8,Bangladesh,India,20,Bangladesh,Shere Bangla National Stadium,2,India
+47,7.5,0,RP Singh,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,8,Bangladesh,India,20,Bangladesh,Shere Bangla National Stadium,2,India
+48,7.6,1,RP Singh,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,9,Bangladesh,India,21,Bangladesh,Shere Bangla National Stadium,2,India
+49,8.1,0,P Kumar,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,9,Bangladesh,India,21,Bangladesh,Shere Bangla National Stadium,2,India
+50,8.2,0,P Kumar,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,9,Bangladesh,India,21,Bangladesh,Shere Bangla National Stadium,2,India
+51,8.3,0,P Kumar,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,9,Bangladesh,India,21,Bangladesh,Shere Bangla National Stadium,2,India
+52,8.4,1,P Kumar,2008-06-12,1st,Raqibul Hasan,2,,Mohammad Ashraful,10,Bangladesh,India,22,Bangladesh,Shere Bangla National Stadium,2,India
+53,8.5,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,2,Bangladesh,India,22,Bangladesh,Shere Bangla National Stadium,2,India
+54,8.6,1,P Kumar,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,3,Bangladesh,India,23,Bangladesh,Shere Bangla National Stadium,2,India
+55,9.1,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,3,Bangladesh,India,23,Bangladesh,Shere Bangla National Stadium,2,India
+56,9.2,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,3,Bangladesh,India,23,Bangladesh,Shere Bangla National Stadium,2,India
+57,9.3,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,3,Bangladesh,India,24,Bangladesh,Shere Bangla National Stadium,2,India
+58,9.4,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,3,Bangladesh,India,25,Bangladesh,Shere Bangla National Stadium,2,India
+59,9.5,1,RP Singh,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,4,Bangladesh,India,26,Bangladesh,Shere Bangla National Stadium,2,India
+60,9.6,0,RP Singh,2008-06-12,1st,Raqibul Hasan,4,,Mohammad Ashraful,10,Bangladesh,India,27,Bangladesh,Shere Bangla National Stadium,2,India
+61,9.7,1,RP Singh,2008-06-12,1st,Raqibul Hasan,4,,Mohammad Ashraful,11,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,2,India
+62,9.8,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,11,,Raqibul Hasan,4,Bangladesh,India,29,Bangladesh,Shere Bangla National Stadium,2,India
+63,9.9,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,11,,Raqibul Hasan,4,Bangladesh,India,29,Bangladesh,Shere Bangla National Stadium,2,India
+64,9.1,0,RP Singh,2008-06-12,1st,Mohammad Ashraful,10,,Raqibul Hasan,3,Bangladesh,India,29,Bangladesh,Shere Bangla National Stadium,2,India
+65,10.1,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,4,,Mohammad Ashraful,11,Bangladesh,India,30,Bangladesh,Shere Bangla National Stadium,2,India
+66,10.2,4,IK Pathan,2008-06-12,1st,Raqibul Hasan,4,,Mohammad Ashraful,15,Bangladesh,India,34,Bangladesh,Shere Bangla National Stadium,2,India
+67,10.3,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,4,,Mohammad Ashraful,15,Bangladesh,India,34,Bangladesh,Shere Bangla National Stadium,2,India
+68,10.4,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,4,,Mohammad Ashraful,16,Bangladesh,India,35,Bangladesh,Shere Bangla National Stadium,2,India
+69,10.5,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,4,Bangladesh,India,35,Bangladesh,Shere Bangla National Stadium,2,India
+70,10.6,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,4,Bangladesh,India,35,Bangladesh,Shere Bangla National Stadium,2,India
+71,10.7,4,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,8,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,2,India
+72,11.1,0,RP Singh,2008-06-12,1st,Raqibul Hasan,8,,Mohammad Ashraful,16,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,2,India
+73,11.2,0,RP Singh,2008-06-12,1st,Raqibul Hasan,8,,Mohammad Ashraful,16,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,2,India
+74,11.3,0,RP Singh,2008-06-12,1st,Raqibul Hasan,8,,Mohammad Ashraful,16,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,2,India
+75,11.4,0,RP Singh,2008-06-12,1st,Raqibul Hasan,8,,Mohammad Ashraful,16,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,2,India
+76,11.5,0,RP Singh,2008-06-12,1st,Raqibul Hasan,8,,Mohammad Ashraful,16,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,2,India
+77,11.6,0,RP Singh,2008-06-12,1st,Raqibul Hasan,8,,Mohammad Ashraful,16,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,2,India
+78,12.1,2,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,10,Bangladesh,India,41,Bangladesh,Shere Bangla National Stadium,2,India
+79,12.2,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,10,Bangladesh,India,41,Bangladesh,Shere Bangla National Stadium,2,India
+80,12.3,2,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,12,Bangladesh,India,43,Bangladesh,Shere Bangla National Stadium,2,India
+81,12.4,4,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,16,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,2,India
+82,12.5,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,16,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,2,India
+83,12.6,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,16,,Raqibul Hasan,16,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,2,India
+84,13.1,1,P Kumar,2008-06-12,1st,Raqibul Hasan,16,,Mohammad Ashraful,17,Bangladesh,India,48,Bangladesh,Shere Bangla National Stadium,2,India
+85,13.2,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,17,,Raqibul Hasan,16,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+86,13.3,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,17,,Raqibul Hasan,16,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+87,13.4,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,17,,Raqibul Hasan,16,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+88,13.5,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,17,,Raqibul Hasan,16,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+89,13.6,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,17,,Raqibul Hasan,16,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+90,13.7,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,17,,Raqibul Hasan,16,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+91,14.1,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,16,,Mohammad Ashraful,17,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+92,14.2,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,16,,Mohammad Ashraful,17,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+93,14.3,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,16,,Mohammad Ashraful,18,Bangladesh,India,50,Bangladesh,Shere Bangla National Stadium,2,India
+94,14.4,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,18,,Raqibul Hasan,16,Bangladesh,India,50,Bangladesh,Shere Bangla National Stadium,2,India
+95,14.5,1,IK Pathan,2008-06-12,1st,Mohammad Ashraful,18,,Raqibul Hasan,17,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,2,India
+96,14.6,2,IK Pathan,2008-06-12,1st,Raqibul Hasan,17,,Mohammad Ashraful,20,Bangladesh,India,53,Bangladesh,Shere Bangla National Stadium,2,India
+97,15.1,1,P Kumar,2008-06-12,1st,Mohammad Ashraful,20,,Raqibul Hasan,18,Bangladesh,India,54,Bangladesh,Shere Bangla National Stadium,2,India
+98,15.2,0,P Kumar,2008-06-12,1st,Raqibul Hasan,18,,Mohammad Ashraful,20,Bangladesh,India,54,Bangladesh,Shere Bangla National Stadium,2,India
+99,15.3,0,P Kumar,2008-06-12,1st,Raqibul Hasan,18,,Mohammad Ashraful,20,Bangladesh,India,54,Bangladesh,Shere Bangla National Stadium,2,India
+100,15.4,0,P Kumar,2008-06-12,1st,Raqibul Hasan,18,,Mohammad Ashraful,20,Bangladesh,India,55,Bangladesh,Shere Bangla National Stadium,2,India
+101,15.5,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,20,,Raqibul Hasan,18,Bangladesh,India,55,Bangladesh,Shere Bangla National Stadium,2,India
+102,15.6,0,P Kumar,2008-06-12,1st,Mohammad Ashraful,20,,Raqibul Hasan,18,Bangladesh,India,55,Bangladesh,Shere Bangla National Stadium,2,India
+103,16.1,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,18,,Mohammad Ashraful,20,Bangladesh,India,55,Bangladesh,Shere Bangla National Stadium,2,India
+104,16.2,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,18,,Mohammad Ashraful,20,Bangladesh,India,55,Bangladesh,Shere Bangla National Stadium,2,India
+105,16.3,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,18,,Mohammad Ashraful,20,Bangladesh,India,55,Bangladesh,Shere Bangla National Stadium,2,India
+106,16.4,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,18,,Mohammad Ashraful,21,Bangladesh,India,56,Bangladesh,Shere Bangla National Stadium,2,India
+107,16.5,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,21,,Raqibul Hasan,18,Bangladesh,India,56,Bangladesh,Shere Bangla National Stadium,2,India
+108,16.6,1,IK Pathan,2008-06-12,1st,Mohammad Ashraful,21,,Raqibul Hasan,19,Bangladesh,India,57,Bangladesh,Shere Bangla National Stadium,2,India
+109,17.1,0,PP Chawla,2008-06-12,1st,Mohammad Ashraful,21,,Raqibul Hasan,19,Bangladesh,India,57,Bangladesh,Shere Bangla National Stadium,2,India
+110,17.2,0,PP Chawla,2008-06-12,1st,Mohammad Ashraful,21,,Raqibul Hasan,19,Bangladesh,India,57,Bangladesh,Shere Bangla National Stadium,2,India
+111,17.3,0,PP Chawla,2008-06-12,1st,Mohammad Ashraful,21,,Raqibul Hasan,19,Bangladesh,India,57,Bangladesh,Shere Bangla National Stadium,2,India
+112,17.4,1,PP Chawla,2008-06-12,1st,Mohammad Ashraful,21,,Raqibul Hasan,20,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,2,India
+113,17.5,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,20,,Mohammad Ashraful,21,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,2,India
+114,17.6,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,20,,Mohammad Ashraful,22,Bangladesh,India,59,Bangladesh,Shere Bangla National Stadium,2,India
+115,18.1,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,20,,Mohammad Ashraful,23,Bangladesh,India,60,Bangladesh,Shere Bangla National Stadium,2,India
+116,18.2,1,IK Pathan,2008-06-12,1st,Mohammad Ashraful,23,,Raqibul Hasan,21,Bangladesh,India,61,Bangladesh,Shere Bangla National Stadium,2,India
+117,18.3,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,21,,Mohammad Ashraful,24,Bangladesh,India,62,Bangladesh,Shere Bangla National Stadium,2,India
+118,18.4,0,IK Pathan,2008-06-12,1st,Mohammad Ashraful,24,,Raqibul Hasan,21,Bangladesh,India,62,Bangladesh,Shere Bangla National Stadium,2,India
+119,18.5,1,IK Pathan,2008-06-12,1st,Mohammad Ashraful,24,,Raqibul Hasan,22,Bangladesh,India,63,Bangladesh,Shere Bangla National Stadium,2,India
+120,18.6,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,22,,Mohammad Ashraful,24,Bangladesh,India,63,Bangladesh,Shere Bangla National Stadium,2,India
+121,19.1,3,PP Chawla,2008-06-12,1st,Mohammad Ashraful,24,,Raqibul Hasan,25,Bangladesh,India,66,Bangladesh,Shere Bangla National Stadium,2,India
+122,19.2,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,25,,Mohammad Ashraful,24,Bangladesh,India,66,Bangladesh,Shere Bangla National Stadium,2,India
+123,19.3,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,25,,Mohammad Ashraful,24,Bangladesh,India,66,Bangladesh,Shere Bangla National Stadium,2,India
+124,19.4,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,25,,Mohammad Ashraful,25,Bangladesh,India,67,Bangladesh,Shere Bangla National Stadium,2,India
+125,19.5,0,PP Chawla,2008-06-12,1st,Mohammad Ashraful,25,,Raqibul Hasan,25,Bangladesh,India,67,Bangladesh,Shere Bangla National Stadium,2,India
+126,19.6,1,PP Chawla,2008-06-12,1st,Mohammad Ashraful,25,,Raqibul Hasan,26,Bangladesh,India,68,Bangladesh,Shere Bangla National Stadium,2,India
+127,20.1,1,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,25,,Raqibul Hasan,27,Bangladesh,India,69,Bangladesh,Shere Bangla National Stadium,2,India
+128,20.2,1,Yuvraj Singh,2008-06-12,1st,Raqibul Hasan,27,,Mohammad Ashraful,26,Bangladesh,India,70,Bangladesh,Shere Bangla National Stadium,2,India
+129,20.3,1,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,26,,Raqibul Hasan,28,Bangladesh,India,71,Bangladesh,Shere Bangla National Stadium,2,India
+130,20.4,1,Yuvraj Singh,2008-06-12,1st,Raqibul Hasan,28,,Mohammad Ashraful,27,Bangladesh,India,72,Bangladesh,Shere Bangla National Stadium,2,India
+131,20.5,1,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,27,,Raqibul Hasan,29,Bangladesh,India,73,Bangladesh,Shere Bangla National Stadium,2,India
+132,20.6,1,Yuvraj Singh,2008-06-12,1st,Raqibul Hasan,29,,Mohammad Ashraful,28,Bangladesh,India,74,Bangladesh,Shere Bangla National Stadium,2,India
+133,21.1,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,29,,Mohammad Ashraful,29,Bangladesh,India,75,Bangladesh,Shere Bangla National Stadium,2,India
+134,21.2,1,PP Chawla,2008-06-12,1st,Mohammad Ashraful,29,,Raqibul Hasan,30,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,2,India
+135,21.3,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,30,,Mohammad Ashraful,29,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,2,India
+136,21.4,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,30,,Mohammad Ashraful,30,Bangladesh,India,77,Bangladesh,Shere Bangla National Stadium,2,India
+137,21.5,0,PP Chawla,2008-06-12,1st,Mohammad Ashraful,30,,Raqibul Hasan,30,Bangladesh,India,77,Bangladesh,Shere Bangla National Stadium,2,India
+138,21.6,1,PP Chawla,2008-06-12,1st,Mohammad Ashraful,30,,Raqibul Hasan,31,Bangladesh,India,78,Bangladesh,Shere Bangla National Stadium,2,India
+139,22.1,0,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,30,,Raqibul Hasan,31,Bangladesh,India,78,Bangladesh,Shere Bangla National Stadium,2,India
+140,22.2,2,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,30,,Raqibul Hasan,33,Bangladesh,India,80,Bangladesh,Shere Bangla National Stadium,2,India
+141,22.3,1,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,30,,Raqibul Hasan,34,Bangladesh,India,81,Bangladesh,Shere Bangla National Stadium,2,India
+142,22.4,1,Yuvraj Singh,2008-06-12,1st,Raqibul Hasan,34,,Mohammad Ashraful,31,Bangladesh,India,82,Bangladesh,Shere Bangla National Stadium,2,India
+143,22.5,0,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,31,,Raqibul Hasan,34,Bangladesh,India,82,Bangladesh,Shere Bangla National Stadium,2,India
+144,22.6,0,Yuvraj Singh,2008-06-12,1st,Mohammad Ashraful,31,,Raqibul Hasan,34,Bangladesh,India,82,Bangladesh,Shere Bangla National Stadium,2,India
+145,23.1,2,PP Chawla,2008-06-12,1st,Raqibul Hasan,34,,Mohammad Ashraful,33,Bangladesh,India,84,Bangladesh,Shere Bangla National Stadium,2,India
+146,23.2,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,34,,Mohammad Ashraful,34,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,2,India
+147,23.3,0,PP Chawla,2008-06-12,1st,Mohammad Ashraful,34,,Raqibul Hasan,34,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,2,India
+148,23.4,2,PP Chawla,2008-06-12,1st,Mohammad Ashraful,34,,Raqibul Hasan,36,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,2,India
+149,23.5,0,PP Chawla,2008-06-12,1st,Mohammad Ashraful,34,,Raqibul Hasan,36,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,2,India
+150,23.6,1,PP Chawla,2008-06-12,1st,Mohammad Ashraful,34,,Raqibul Hasan,37,Bangladesh,India,88,Bangladesh,Shere Bangla National Stadium,2,India
+151,24.1,1,YK Pathan,2008-06-12,1st,Mohammad Ashraful,34,,Raqibul Hasan,38,Bangladesh,India,89,Bangladesh,Shere Bangla National Stadium,2,India
+152,24.2,1,YK Pathan,2008-06-12,1st,Raqibul Hasan,38,,Mohammad Ashraful,35,Bangladesh,India,90,Bangladesh,Shere Bangla National Stadium,2,India
+153,24.3,1,YK Pathan,2008-06-12,1st,Mohammad Ashraful,35,,Raqibul Hasan,39,Bangladesh,India,91,Bangladesh,Shere Bangla National Stadium,2,India
+154,24.4,1,YK Pathan,2008-06-12,1st,Raqibul Hasan,39,,Mohammad Ashraful,36,Bangladesh,India,92,Bangladesh,Shere Bangla National Stadium,2,India
+155,24.5,1,YK Pathan,2008-06-12,1st,Mohammad Ashraful,36,,Raqibul Hasan,40,Bangladesh,India,93,Bangladesh,Shere Bangla National Stadium,2,India
+156,24.6,0,YK Pathan,2008-06-12,1st,Raqibul Hasan,40,Mohammad Ashraful,Mohammad Ashraful,36,Bangladesh,India,93,Bangladesh,Shere Bangla National Stadium,3,India
+157,25.1,0,PP Chawla,2008-06-12,1st,Mushfiqur Rahim,0,,Raqibul Hasan,40,Bangladesh,India,93,Bangladesh,Shere Bangla National Stadium,3,India
+158,25.2,1,PP Chawla,2008-06-12,1st,Mushfiqur Rahim,0,,Raqibul Hasan,41,Bangladesh,India,94,Bangladesh,Shere Bangla National Stadium,3,India
+159,25.3,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,41,,Mushfiqur Rahim,1,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,3,India
+160,25.4,1,PP Chawla,2008-06-12,1st,Mushfiqur Rahim,1,,Raqibul Hasan,42,Bangladesh,India,96,Bangladesh,Shere Bangla National Stadium,3,India
+161,25.5,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,42,,Mushfiqur Rahim,1,Bangladesh,India,96,Bangladesh,Shere Bangla National Stadium,3,India
+162,25.6,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,42,,Mushfiqur Rahim,2,Bangladesh,India,97,Bangladesh,Shere Bangla National Stadium,3,India
+163,26.1,1,YK Pathan,2008-06-12,1st,Raqibul Hasan,42,,Mushfiqur Rahim,3,Bangladesh,India,98,Bangladesh,Shere Bangla National Stadium,3,India
+164,26.2,0,YK Pathan,2008-06-12,1st,Mushfiqur Rahim,3,,Raqibul Hasan,42,Bangladesh,India,98,Bangladesh,Shere Bangla National Stadium,3,India
+165,26.3,1,YK Pathan,2008-06-12,1st,Mushfiqur Rahim,3,,Raqibul Hasan,43,Bangladesh,India,99,Bangladesh,Shere Bangla National Stadium,3,India
+166,26.4,1,YK Pathan,2008-06-12,1st,Raqibul Hasan,43,,Mushfiqur Rahim,4,Bangladesh,India,100,Bangladesh,Shere Bangla National Stadium,3,India
+167,26.5,0,YK Pathan,2008-06-12,1st,Mushfiqur Rahim,4,,Raqibul Hasan,43,Bangladesh,India,100,Bangladesh,Shere Bangla National Stadium,3,India
+168,26.6,1,YK Pathan,2008-06-12,1st,Mushfiqur Rahim,4,,Raqibul Hasan,44,Bangladesh,India,101,Bangladesh,Shere Bangla National Stadium,3,India
+169,27.1,0,PP Chawla,2008-06-12,1st,Mushfiqur Rahim,4,,Raqibul Hasan,44,Bangladesh,India,101,Bangladesh,Shere Bangla National Stadium,3,India
+170,27.2,0,PP Chawla,2008-06-12,1st,Mushfiqur Rahim,4,,Raqibul Hasan,44,Bangladesh,India,101,Bangladesh,Shere Bangla National Stadium,3,India
+171,27.3,1,PP Chawla,2008-06-12,1st,Mushfiqur Rahim,4,,Raqibul Hasan,45,Bangladesh,India,102,Bangladesh,Shere Bangla National Stadium,3,India
+172,27.4,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,45,,Mushfiqur Rahim,5,Bangladesh,India,103,Bangladesh,Shere Bangla National Stadium,3,India
+173,27.5,1,PP Chawla,2008-06-12,1st,Mushfiqur Rahim,5,,Raqibul Hasan,46,Bangladesh,India,104,Bangladesh,Shere Bangla National Stadium,3,India
+174,27.6,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,46,,Mushfiqur Rahim,5,Bangladesh,India,104,Bangladesh,Shere Bangla National Stadium,3,India
+175,28.1,0,V Sehwag,2008-06-12,1st,Mushfiqur Rahim,5,,Raqibul Hasan,46,Bangladesh,India,104,Bangladesh,Shere Bangla National Stadium,3,India
+176,28.2,0,V Sehwag,2008-06-12,1st,Mushfiqur Rahim,5,,Raqibul Hasan,46,Bangladesh,India,104,Bangladesh,Shere Bangla National Stadium,3,India
+177,28.3,1,V Sehwag,2008-06-12,1st,Mushfiqur Rahim,5,,Raqibul Hasan,47,Bangladesh,India,105,Bangladesh,Shere Bangla National Stadium,3,India
+178,28.4,0,V Sehwag,2008-06-12,1st,Raqibul Hasan,47,,Mushfiqur Rahim,5,Bangladesh,India,105,Bangladesh,Shere Bangla National Stadium,3,India
+179,28.5,0,V Sehwag,2008-06-12,1st,Raqibul Hasan,47,,Mushfiqur Rahim,5,Bangladesh,India,105,Bangladesh,Shere Bangla National Stadium,3,India
+180,28.6,1,V Sehwag,2008-06-12,1st,Raqibul Hasan,47,,Mushfiqur Rahim,6,Bangladesh,India,106,Bangladesh,Shere Bangla National Stadium,3,India
+181,29.1,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,47,Mushfiqur Rahim,Mushfiqur Rahim,6,Bangladesh,India,106,Bangladesh,Shere Bangla National Stadium,4,India
+182,29.2,0,PP Chawla,2008-06-12,1st,Alok Kapali,0,,Raqibul Hasan,47,Bangladesh,India,106,Bangladesh,Shere Bangla National Stadium,4,India
+183,29.3,2,PP Chawla,2008-06-12,1st,Alok Kapali,0,,Raqibul Hasan,49,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,4,India
+184,29.4,0,PP Chawla,2008-06-12,1st,Alok Kapali,0,,Raqibul Hasan,49,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,4,India
+185,29.5,1,PP Chawla,2008-06-12,1st,Alok Kapali,0,,Raqibul Hasan,50,Bangladesh,India,109,Bangladesh,Shere Bangla National Stadium,4,India
+186,29.6,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,50,,Alok Kapali,1,Bangladesh,India,110,Bangladesh,Shere Bangla National Stadium,4,India
+187,30.1,0,V Sehwag,2008-06-12,1st,Raqibul Hasan,50,,Alok Kapali,1,Bangladesh,India,110,Bangladesh,Shere Bangla National Stadium,4,India
+188,30.2,1,V Sehwag,2008-06-12,1st,Raqibul Hasan,50,,Alok Kapali,2,Bangladesh,India,111,Bangladesh,Shere Bangla National Stadium,4,India
+189,30.3,0,V Sehwag,2008-06-12,1st,Alok Kapali,2,,Raqibul Hasan,50,Bangladesh,India,111,Bangladesh,Shere Bangla National Stadium,4,India
+190,30.4,0,V Sehwag,2008-06-12,1st,Alok Kapali,2,,Raqibul Hasan,50,Bangladesh,India,111,Bangladesh,Shere Bangla National Stadium,4,India
+191,30.5,1,V Sehwag,2008-06-12,1st,Alok Kapali,2,,Raqibul Hasan,51,Bangladesh,India,112,Bangladesh,Shere Bangla National Stadium,4,India
+192,30.6,0,V Sehwag,2008-06-12,1st,Raqibul Hasan,51,,Alok Kapali,2,Bangladesh,India,112,Bangladesh,Shere Bangla National Stadium,4,India
+193,31.1,4,PP Chawla,2008-06-12,1st,Alok Kapali,2,,Raqibul Hasan,55,Bangladesh,India,116,Bangladesh,Shere Bangla National Stadium,4,India
+194,31.2,1,PP Chawla,2008-06-12,1st,Alok Kapali,2,,Raqibul Hasan,56,Bangladesh,India,117,Bangladesh,Shere Bangla National Stadium,4,India
+195,31.3,2,PP Chawla,2008-06-12,1st,Raqibul Hasan,56,,Alok Kapali,4,Bangladesh,India,119,Bangladesh,Shere Bangla National Stadium,4,India
+196,31.4,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,56,,Alok Kapali,4,Bangladesh,India,119,Bangladesh,Shere Bangla National Stadium,4,India
+197,31.5,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,56,,Alok Kapali,4,Bangladesh,India,119,Bangladesh,Shere Bangla National Stadium,4,India
+198,31.6,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,56,,Alok Kapali,4,Bangladesh,India,119,Bangladesh,Shere Bangla National Stadium,4,India
+199,32.1,0,V Sehwag,2008-06-12,1st,Alok Kapali,4,,Raqibul Hasan,56,Bangladesh,India,119,Bangladesh,Shere Bangla National Stadium,4,India
+200,32.2,1,V Sehwag,2008-06-12,1st,Alok Kapali,4,,Raqibul Hasan,57,Bangladesh,India,120,Bangladesh,Shere Bangla National Stadium,4,India
+201,32.3,0,V Sehwag,2008-06-12,1st,Raqibul Hasan,57,,Alok Kapali,4,Bangladesh,India,120,Bangladesh,Shere Bangla National Stadium,4,India
+202,32.4,1,V Sehwag,2008-06-12,1st,Raqibul Hasan,57,,Alok Kapali,5,Bangladesh,India,121,Bangladesh,Shere Bangla National Stadium,4,India
+203,32.5,1,V Sehwag,2008-06-12,1st,Alok Kapali,5,,Raqibul Hasan,58,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,4,India
+204,32.6,1,V Sehwag,2008-06-12,1st,Raqibul Hasan,58,,Alok Kapali,6,Bangladesh,India,123,Bangladesh,Shere Bangla National Stadium,4,India
+205,33.1,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,58,,Alok Kapali,7,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,4,India
+206,33.2,1,IK Pathan,2008-06-12,1st,Alok Kapali,7,,Raqibul Hasan,59,Bangladesh,India,125,Bangladesh,Shere Bangla National Stadium,4,India
+207,33.3,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,59,,Alok Kapali,8,Bangladesh,India,126,Bangladesh,Shere Bangla National Stadium,4,India
+208,33.4,1,IK Pathan,2008-06-12,1st,Alok Kapali,8,,Raqibul Hasan,60,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,4,India
+209,33.5,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,60,,Alok Kapali,8,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,4,India
+210,33.6,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,60,,Alok Kapali,8,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,4,India
+211,34.1,1,V Sehwag,2008-06-12,1st,Alok Kapali,8,,Raqibul Hasan,61,Bangladesh,India,128,Bangladesh,Shere Bangla National Stadium,4,India
+212,34.2,4,V Sehwag,2008-06-12,1st,Raqibul Hasan,61,,Alok Kapali,12,Bangladesh,India,132,Bangladesh,Shere Bangla National Stadium,4,India
+213,34.3,1,V Sehwag,2008-06-12,1st,Raqibul Hasan,61,,Alok Kapali,13,Bangladesh,India,133,Bangladesh,Shere Bangla National Stadium,4,India
+214,34.4,0,V Sehwag,2008-06-12,1st,Alok Kapali,13,,Raqibul Hasan,61,Bangladesh,India,133,Bangladesh,Shere Bangla National Stadium,4,India
+215,34.5,0,V Sehwag,2008-06-12,1st,Alok Kapali,13,,Raqibul Hasan,61,Bangladesh,India,133,Bangladesh,Shere Bangla National Stadium,4,India
+216,34.6,1,V Sehwag,2008-06-12,1st,Alok Kapali,13,,Raqibul Hasan,62,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,4,India
+217,35.1,0,IK Pathan,2008-06-12,1st,Alok Kapali,13,,Raqibul Hasan,62,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,4,India
+218,35.2,1,IK Pathan,2008-06-12,1st,Alok Kapali,13,,Raqibul Hasan,63,Bangladesh,India,135,Bangladesh,Shere Bangla National Stadium,4,India
+219,35.3,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,63,,Alok Kapali,13,Bangladesh,India,135,Bangladesh,Shere Bangla National Stadium,4,India
+220,35.4,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,63,,Alok Kapali,13,Bangladesh,India,136,Bangladesh,Shere Bangla National Stadium,4,India
+221,35.5,1,IK Pathan,2008-06-12,1st,Raqibul Hasan,63,,Alok Kapali,14,Bangladesh,India,137,Bangladesh,Shere Bangla National Stadium,4,India
+222,35.6,2,IK Pathan,2008-06-12,1st,Alok Kapali,14,,Raqibul Hasan,65,Bangladesh,India,139,Bangladesh,Shere Bangla National Stadium,4,India
+223,35.7,1,IK Pathan,2008-06-12,1st,Alok Kapali,14,,Raqibul Hasan,66,Bangladesh,India,140,Bangladesh,Shere Bangla National Stadium,4,India
+224,36.1,0,RP Singh,2008-06-12,1st,Alok Kapali,14,,Raqibul Hasan,66,Bangladesh,India,140,Bangladesh,Shere Bangla National Stadium,4,India
+225,36.2,1,RP Singh,2008-06-12,1st,Alok Kapali,14,,Raqibul Hasan,67,Bangladesh,India,141,Bangladesh,Shere Bangla National Stadium,4,India
+226,36.3,0,RP Singh,2008-06-12,1st,Raqibul Hasan,67,,Alok Kapali,14,Bangladesh,India,141,Bangladesh,Shere Bangla National Stadium,4,India
+227,36.4,0,RP Singh,2008-06-12,1st,Raqibul Hasan,67,,Alok Kapali,14,Bangladesh,India,141,Bangladesh,Shere Bangla National Stadium,4,India
+228,36.5,0,RP Singh,2008-06-12,1st,Raqibul Hasan,67,,Alok Kapali,14,Bangladesh,India,141,Bangladesh,Shere Bangla National Stadium,4,India
+229,36.6,4,RP Singh,2008-06-12,1st,Raqibul Hasan,67,,Alok Kapali,18,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,4,India
+230,37.1,4,IK Pathan,2008-06-12,1st,Alok Kapali,18,,Raqibul Hasan,71,Bangladesh,India,149,Bangladesh,Shere Bangla National Stadium,4,India
+231,37.2,1,IK Pathan,2008-06-12,1st,Alok Kapali,18,,Raqibul Hasan,72,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,4,India
+232,37.3,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,72,,Alok Kapali,18,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,4,India
+233,37.4,2,IK Pathan,2008-06-12,1st,Raqibul Hasan,72,,Alok Kapali,20,Bangladesh,India,152,Bangladesh,Shere Bangla National Stadium,4,India
+234,37.5,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,72,Alok Kapali,Alok Kapali,20,Bangladesh,India,152,Bangladesh,Shere Bangla National Stadium,5,India
+235,37.6,0,IK Pathan,2008-06-12,1st,Raqibul Hasan,72,,Mahmudullah,0,Bangladesh,India,152,Bangladesh,Shere Bangla National Stadium,5,India
+236,38.1,1,PP Chawla,2008-06-12,1st,Mahmudullah,0,,Raqibul Hasan,73,Bangladesh,India,153,Bangladesh,Shere Bangla National Stadium,5,India
+237,38.2,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,73,,Mahmudullah,0,Bangladesh,India,153,Bangladesh,Shere Bangla National Stadium,5,India
+238,38.3,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,73,,Mahmudullah,1,Bangladesh,India,154,Bangladesh,Shere Bangla National Stadium,5,India
+239,38.4,1,PP Chawla,2008-06-12,1st,Mahmudullah,1,,Raqibul Hasan,74,Bangladesh,India,155,Bangladesh,Shere Bangla National Stadium,5,India
+240,38.5,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,74,,Mahmudullah,1,Bangladesh,India,155,Bangladesh,Shere Bangla National Stadium,5,India
+241,38.6,0,PP Chawla,2008-06-12,1st,Raqibul Hasan,74,,Mahmudullah,1,Bangladesh,India,155,Bangladesh,Shere Bangla National Stadium,5,India
+242,39.1,0,P Kumar,2008-06-12,1st,Mahmudullah,1,,Raqibul Hasan,74,Bangladesh,India,155,Bangladesh,Shere Bangla National Stadium,5,India
+243,39.2,1,P Kumar,2008-06-12,1st,Mahmudullah,1,,Raqibul Hasan,75,Bangladesh,India,156,Bangladesh,Shere Bangla National Stadium,5,India
+244,39.3,0,P Kumar,2008-06-12,1st,Raqibul Hasan,75,,Mahmudullah,1,Bangladesh,India,156,Bangladesh,Shere Bangla National Stadium,5,India
+245,39.4,1,P Kumar,2008-06-12,1st,Raqibul Hasan,75,,Mahmudullah,2,Bangladesh,India,157,Bangladesh,Shere Bangla National Stadium,5,India
+246,39.5,4,P Kumar,2008-06-12,1st,Mahmudullah,2,,Raqibul Hasan,79,Bangladesh,India,161,Bangladesh,Shere Bangla National Stadium,5,India
+247,39.6,1,P Kumar,2008-06-12,1st,Mahmudullah,2,,Raqibul Hasan,80,Bangladesh,India,162,Bangladesh,Shere Bangla National Stadium,5,India
+248,40.1,0,PP Chawla,2008-06-12,1st,Mahmudullah,2,,Raqibul Hasan,80,Bangladesh,India,162,Bangladesh,Shere Bangla National Stadium,5,India
+249,40.2,1,PP Chawla,2008-06-12,1st,Mahmudullah,2,,Raqibul Hasan,81,Bangladesh,India,163,Bangladesh,Shere Bangla National Stadium,5,India
+250,40.3,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,81,,Mahmudullah,3,Bangladesh,India,164,Bangladesh,Shere Bangla National Stadium,5,India
+251,40.4,0,PP Chawla,2008-06-12,1st,Mahmudullah,3,,Raqibul Hasan,81,Bangladesh,India,164,Bangladesh,Shere Bangla National Stadium,5,India
+252,40.5,1,PP Chawla,2008-06-12,1st,Mahmudullah,3,,Raqibul Hasan,82,Bangladesh,India,165,Bangladesh,Shere Bangla National Stadium,5,India
+253,40.6,1,PP Chawla,2008-06-12,1st,Raqibul Hasan,82,,Mahmudullah,4,Bangladesh,India,166,Bangladesh,Shere Bangla National Stadium,5,India
+254,41.1,1,P Kumar,2008-06-12,1st,Raqibul Hasan,82,,Mahmudullah,5,Bangladesh,India,167,Bangladesh,Shere Bangla National Stadium,5,India
+255,41.2,1,P Kumar,2008-06-12,1st,Mahmudullah,5,,Raqibul Hasan,83,Bangladesh,India,168,Bangladesh,Shere Bangla National Stadium,5,India
+256,41.3,1,P Kumar,2008-06-12,1st,Raqibul Hasan,83,,Mahmudullah,6,Bangladesh,India,169,Bangladesh,Shere Bangla National Stadium,5,India
+257,41.4,1,P Kumar,2008-06-12,1st,Mahmudullah,6,,Raqibul Hasan,84,Bangladesh,India,170,Bangladesh,Shere Bangla National Stadium,5,India
+258,41.5,4,P Kumar,2008-06-12,1st,Raqibul Hasan,84,,Mahmudullah,10,Bangladesh,India,174,Bangladesh,Shere Bangla National Stadium,5,India
+259,41.6,0,P Kumar,2008-06-12,1st,Raqibul Hasan,84,,Mahmudullah,10,Bangladesh,India,174,Bangladesh,Shere Bangla National Stadium,5,India
+260,42.1,2,V Sehwag,2008-06-12,1st,Mahmudullah,10,,Raqibul Hasan,86,Bangladesh,India,176,Bangladesh,Shere Bangla National Stadium,5,India
+261,42.2,1,V Sehwag,2008-06-12,1st,Mahmudullah,10,,Raqibul Hasan,87,Bangladesh,India,177,Bangladesh,Shere Bangla National Stadium,5,India
+262,42.3,1,V Sehwag,2008-06-12,1st,Raqibul Hasan,87,,Mahmudullah,11,Bangladesh,India,178,Bangladesh,Shere Bangla National Stadium,5,India
+263,42.4,1,V Sehwag,2008-06-12,1st,Mahmudullah,11,,Raqibul Hasan,88,Bangladesh,India,179,Bangladesh,Shere Bangla National Stadium,5,India
+264,42.5,0,V Sehwag,2008-06-12,1st,Raqibul Hasan,88,,Mahmudullah,11,Bangladesh,India,179,Bangladesh,Shere Bangla National Stadium,5,India
+265,42.6,1,V Sehwag,2008-06-12,1st,Raqibul Hasan,88,,Mahmudullah,12,Bangladesh,India,180,Bangladesh,Shere Bangla National Stadium,5,India
+266,43.1,1,RP Singh,2008-06-12,1st,Raqibul Hasan,88,,Mahmudullah,13,Bangladesh,India,181,Bangladesh,Shere Bangla National Stadium,5,India
+267,43.2,1,RP Singh,2008-06-12,1st,Mahmudullah,13,,Raqibul Hasan,89,Bangladesh,India,182,Bangladesh,Shere Bangla National Stadium,5,India
+268,43.3,4,RP Singh,2008-06-12,1st,Raqibul Hasan,89,,Mahmudullah,17,Bangladesh,India,186,Bangladesh,Shere Bangla National Stadium,5,India
+269,43.4,1,RP Singh,2008-06-12,1st,Raqibul Hasan,89,,Mahmudullah,18,Bangladesh,India,187,Bangladesh,Shere Bangla National Stadium,5,India
+270,43.5,0,RP Singh,2008-06-12,1st,Mahmudullah,18,Raqibul Hasan,Raqibul Hasan,89,Bangladesh,India,187,Bangladesh,Shere Bangla National Stadium,6,India
+271,43.6,0,RP Singh,2008-06-12,1st,Mahmudullah,18,,Farhad Reza,0,Bangladesh,India,187,Bangladesh,Shere Bangla National Stadium,6,India
+272,44.1,0,V Sehwag,2008-06-12,1st,Farhad Reza,0,,Mahmudullah,18,Bangladesh,India,187,Bangladesh,Shere Bangla National Stadium,6,India
+273,44.2,1,V Sehwag,2008-06-12,1st,Farhad Reza,0,,Mahmudullah,19,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,6,India
+274,44.3,1,V Sehwag,2008-06-12,1st,Mahmudullah,19,,Farhad Reza,1,Bangladesh,India,189,Bangladesh,Shere Bangla National Stadium,6,India
+275,44.4,0,V Sehwag,2008-06-12,1st,Farhad Reza,1,,Mahmudullah,19,Bangladesh,India,189,Bangladesh,Shere Bangla National Stadium,6,India
+276,44.5,1,V Sehwag,2008-06-12,1st,Farhad Reza,1,,Mahmudullah,20,Bangladesh,India,190,Bangladesh,Shere Bangla National Stadium,6,India
+277,44.6,0,V Sehwag,2008-06-12,1st,Mahmudullah,20,,Farhad Reza,1,Bangladesh,India,190,Bangladesh,Shere Bangla National Stadium,6,India
+278,45.1,1,RP Singh,2008-06-12,1st,Farhad Reza,1,,Mahmudullah,21,Bangladesh,India,191,Bangladesh,Shere Bangla National Stadium,6,India
+279,45.2,1,RP Singh,2008-06-12,1st,Mahmudullah,21,,Farhad Reza,2,Bangladesh,India,192,Bangladesh,Shere Bangla National Stadium,6,India
+280,45.3,1,RP Singh,2008-06-12,1st,Farhad Reza,2,,Mahmudullah,22,Bangladesh,India,193,Bangladesh,Shere Bangla National Stadium,6,India
+281,45.4,1,RP Singh,2008-06-12,1st,Mahmudullah,22,,Farhad Reza,3,Bangladesh,India,194,Bangladesh,Shere Bangla National Stadium,6,India
+282,45.5,2,RP Singh,2008-06-12,1st,Farhad Reza,3,,Mahmudullah,24,Bangladesh,India,196,Bangladesh,Shere Bangla National Stadium,6,India
+283,45.6,0,RP Singh,2008-06-12,1st,Farhad Reza,3,Mahmudullah,Mahmudullah,24,Bangladesh,India,196,Bangladesh,Shere Bangla National Stadium,7,India
+284,46.1,0,V Sehwag,2008-06-12,1st,Farhad Reza,3,,Mashrafe Mortaza,0,Bangladesh,India,196,Bangladesh,Shere Bangla National Stadium,7,India
+285,46.2,0,V Sehwag,2008-06-12,1st,Farhad Reza,3,,Mashrafe Mortaza,0,Bangladesh,India,197,Bangladesh,Shere Bangla National Stadium,7,India
+286,46.3,1,V Sehwag,2008-06-12,1st,Mashrafe Mortaza,0,,Farhad Reza,4,Bangladesh,India,198,Bangladesh,Shere Bangla National Stadium,7,India
+287,46.4,2,V Sehwag,2008-06-12,1st,Farhad Reza,4,,Mashrafe Mortaza,2,Bangladesh,India,200,Bangladesh,Shere Bangla National Stadium,7,India
+288,46.5,6,V Sehwag,2008-06-12,1st,Farhad Reza,4,,Mashrafe Mortaza,8,Bangladesh,India,206,Bangladesh,Shere Bangla National Stadium,7,India
+289,46.6,0,V Sehwag,2008-06-12,1st,Farhad Reza,4,,Mashrafe Mortaza,8,Bangladesh,India,206,Bangladesh,Shere Bangla National Stadium,7,India
+290,47.1,0,P Kumar,2008-06-12,1st,Mashrafe Mortaza,8,,Farhad Reza,4,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,7,India
+291,47.2,1,P Kumar,2008-06-12,1st,Mashrafe Mortaza,8,,Farhad Reza,5,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,7,India
+292,47.3,1,P Kumar,2008-06-12,1st,Farhad Reza,5,Farhad Reza,Mashrafe Mortaza,9,Bangladesh,India,209,Bangladesh,Shere Bangla National Stadium,8,India
+293,47.4,1,P Kumar,2008-06-12,1st,Mashrafe Mortaza,9,,Abdur Razzak,1,Bangladesh,India,210,Bangladesh,Shere Bangla National Stadium,8,India
+294,47.5,0,P Kumar,2008-06-12,1st,Abdur Razzak,1,,Mashrafe Mortaza,9,Bangladesh,India,210,Bangladesh,Shere Bangla National Stadium,8,India
+295,47.6,1,P Kumar,2008-06-12,1st,Abdur Razzak,1,,Mashrafe Mortaza,10,Bangladesh,India,211,Bangladesh,Shere Bangla National Stadium,8,India
+296,47.7,4,P Kumar,2008-06-12,1st,Mashrafe Mortaza,10,,Abdur Razzak,5,Bangladesh,India,215,Bangladesh,Shere Bangla National Stadium,8,India
+297,48.1,1,RP Singh,2008-06-12,1st,Abdur Razzak,5,,Mashrafe Mortaza,11,Bangladesh,India,216,Bangladesh,Shere Bangla National Stadium,8,India
+298,48.2,1,RP Singh,2008-06-12,1st,Mashrafe Mortaza,11,,Abdur Razzak,6,Bangladesh,India,217,Bangladesh,Shere Bangla National Stadium,8,India
+299,48.3,1,RP Singh,2008-06-12,1st,Abdur Razzak,6,,Mashrafe Mortaza,12,Bangladesh,India,218,Bangladesh,Shere Bangla National Stadium,8,India
+300,48.4,0,RP Singh,2008-06-12,1st,Mashrafe Mortaza,12,,Abdur Razzak,6,Bangladesh,India,218,Bangladesh,Shere Bangla National Stadium,8,India
+301,48.5,1,RP Singh,2008-06-12,1st,Mashrafe Mortaza,12,,Abdur Razzak,7,Bangladesh,India,219,Bangladesh,Shere Bangla National Stadium,8,India
+302,48.6,0,RP Singh,2008-06-12,1st,Abdur Razzak,7,,Mashrafe Mortaza,12,Bangladesh,India,219,Bangladesh,Shere Bangla National Stadium,8,India
+303,49.1,1,IK Pathan,2008-06-12,1st,Mashrafe Mortaza,12,,Abdur Razzak,8,Bangladesh,India,220,Bangladesh,Shere Bangla National Stadium,8,India
+304,49.2,1,IK Pathan,2008-06-12,1st,Abdur Razzak,8,,Mashrafe Mortaza,13,Bangladesh,India,221,Bangladesh,Shere Bangla National Stadium,8,India
+305,49.3,0,IK Pathan,2008-06-12,1st,Mashrafe Mortaza,13,,Abdur Razzak,8,Bangladesh,India,222,Bangladesh,Shere Bangla National Stadium,8,India
+306,49.4,0,IK Pathan,2008-06-12,1st,Mashrafe Mortaza,13,,Abdur Razzak,8,Bangladesh,India,222,Bangladesh,Shere Bangla National Stadium,8,India
+307,49.5,0,IK Pathan,2008-06-12,1st,Mashrafe Mortaza,13,Mashrafe Mortaza,Abdur Razzak,8,Bangladesh,India,222,Bangladesh,Shere Bangla National Stadium,9,India
+308,49.6,0,IK Pathan,2008-06-12,1st,Abdur Razzak,8,Dolar Mahmud,Dolar Mahmud,0,Bangladesh,India,222,Bangladesh,Shere Bangla National Stadium,10,India
+309,0.1,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,0,India
+310,0.2,1,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,1,Bangladesh,Shere Bangla National Stadium,0,India
+311,0.3,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,1,Bangladesh,Shere Bangla National Stadium,0,India
+312,0.4,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,1,Bangladesh,Shere Bangla National Stadium,0,India
+313,0.5,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,1,Bangladesh,Shere Bangla National Stadium,0,India
+314,0.6,4,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,5,Bangladesh,Shere Bangla National Stadium,0,India
+315,1.1,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,5,Bangladesh,Shere Bangla National Stadium,0,India
+316,1.2,4,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+317,1.3,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+318,1.4,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+319,1.5,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+320,1.6,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+321,2.1,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+322,2.2,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,0,India
+323,2.3,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,0,India
+324,2.4,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,0,India
+325,2.5,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,0,India
+326,2.6,1,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,11,Bangladesh,Shere Bangla National Stadium,0,India
+327,3.1,1,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,0,India
+328,3.2,0,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,0,India
+329,3.3,0,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,0,India
+330,3.4,4,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,16,Bangladesh,Shere Bangla National Stadium,0,India
+331,3.5,2,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,18,Bangladesh,Shere Bangla National Stadium,0,India
+332,3.6,1,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,0,India
+333,4.1,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,0,India
+334,4.2,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,20,Bangladesh,Shere Bangla National Stadium,0,India
+335,4.3,1,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,21,Bangladesh,Shere Bangla National Stadium,0,India
+336,4.4,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,21,Bangladesh,Shere Bangla National Stadium,0,India
+337,4.5,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,21,Bangladesh,Shere Bangla National Stadium,0,India
+338,4.6,5,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,26,Bangladesh,Shere Bangla National Stadium,0,India
+339,5.1,0,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,26,Bangladesh,Shere Bangla National Stadium,0,India
+340,5.2,2,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,0,India
+341,5.3,4,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,32,Bangladesh,Shere Bangla National Stadium,0,India
+342,5.4,4,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,36,Bangladesh,Shere Bangla National Stadium,0,India
+343,5.5,0,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,36,Bangladesh,Shere Bangla National Stadium,0,India
+344,5.6,4,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,40,Bangladesh,Shere Bangla National Stadium,0,India
+345,6.1,1,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,41,Bangladesh,Shere Bangla National Stadium,0,India
+346,6.2,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,42,Bangladesh,Shere Bangla National Stadium,0,India
+347,6.3,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,42,Bangladesh,Shere Bangla National Stadium,0,India
+348,6.4,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,42,Bangladesh,Shere Bangla National Stadium,0,India
+349,6.5,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,42,Bangladesh,Shere Bangla National Stadium,0,India
+350,6.6,1,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,43,Bangladesh,Shere Bangla National Stadium,0,India
+351,7.1,4,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,0,India
+352,7.2,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,0,India
+353,7.3,4,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,0,India
+354,7.4,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,0,India
+355,7.5,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,0,India
+356,7.6,0,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,52,Bangladesh,Shere Bangla National Stadium,0,India
+357,7.7,4,Farhad Reza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,56,Bangladesh,Shere Bangla National Stadium,0,India
+358,8.1,2,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,0,India
+359,8.2,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,59,Bangladesh,Shere Bangla National Stadium,0,India
+360,8.3,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,59,Bangladesh,Shere Bangla National Stadium,0,India
+361,8.4,0,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,59,Bangladesh,Shere Bangla National Stadium,0,India
+362,8.5,1,Mashrafe Mortaza,2008-06-12,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,60,Bangladesh,Shere Bangla National Stadium,0,India
+363,8.6,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,61,Bangladesh,Shere Bangla National Stadium,0,India
+364,9.1,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,62,Bangladesh,Shere Bangla National Stadium,0,India
+365,9.2,6,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,68,Bangladesh,Shere Bangla National Stadium,0,India
+366,9.3,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,69,Bangladesh,Shere Bangla National Stadium,0,India
+367,9.4,4,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,73,Bangladesh,Shere Bangla National Stadium,0,India
+368,9.5,4,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,77,Bangladesh,Shere Bangla National Stadium,0,India
+369,9.6,6,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,83,Bangladesh,Shere Bangla National Stadium,0,India
+370,9.7,2,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,0,India
+371,9.8,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+372,10.1,0,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+373,10.2,0,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+374,10.3,0,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+375,10.4,1,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,86,Bangladesh,Shere Bangla National Stadium,1,India
+376,10.5,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,1,India
+377,10.6,0,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,1,India
+378,11.1,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,1,India
+379,11.2,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,1,India
+380,11.3,4,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,91,Bangladesh,Shere Bangla National Stadium,1,India
+381,11.4,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,91,Bangladesh,Shere Bangla National Stadium,1,India
+382,11.5,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,91,Bangladesh,Shere Bangla National Stadium,1,India
+383,11.6,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,91,Bangladesh,Shere Bangla National Stadium,1,India
+384,12.1,1,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,92,Bangladesh,Shere Bangla National Stadium,1,India
+385,12.2,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,93,Bangladesh,Shere Bangla National Stadium,1,India
+386,12.3,1,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,94,Bangladesh,Shere Bangla National Stadium,1,India
+387,12.4,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,94,Bangladesh,Shere Bangla National Stadium,1,India
+388,12.5,1,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,1,India
+389,12.6,0,Mashrafe Mortaza,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,1,India
+390,13.1,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,1,India
+391,13.2,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,1,India
+392,13.3,1,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,96,Bangladesh,Shere Bangla National Stadium,1,India
+393,13.4,1,Dolar Mahmud,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,97,Bangladesh,Shere Bangla National Stadium,1,India
+394,13.5,6,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,103,Bangladesh,Shere Bangla National Stadium,1,India
+395,13.6,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,103,Bangladesh,Shere Bangla National Stadium,1,India
+396,14.1,1,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,104,Bangladesh,Shere Bangla National Stadium,1,India
+397,14.2,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,104,Bangladesh,Shere Bangla National Stadium,1,India
+398,14.3,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,104,Bangladesh,Shere Bangla National Stadium,1,India
+399,14.4,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,105,Bangladesh,Shere Bangla National Stadium,1,India
+400,14.5,4,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,109,Bangladesh,Shere Bangla National Stadium,1,India
+401,14.6,6,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,115,Bangladesh,Shere Bangla National Stadium,1,India
+402,15.1,1,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,116,Bangladesh,Shere Bangla National Stadium,1,India
+403,15.2,4,Dolar Mahmud,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,120,Bangladesh,Shere Bangla National Stadium,1,India
+404,15.3,0,Dolar Mahmud,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,120,Bangladesh,Shere Bangla National Stadium,1,India
+405,15.4,1,Dolar Mahmud,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,121,Bangladesh,Shere Bangla National Stadium,1,India
+406,15.5,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,121,Bangladesh,Shere Bangla National Stadium,1,India
+407,15.6,0,Dolar Mahmud,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,121,Bangladesh,Shere Bangla National Stadium,1,India
+408,16.1,0,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,121,Bangladesh,Shere Bangla National Stadium,1,India
+409,16.2,1,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,1,India
+410,16.3,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,123,Bangladesh,Shere Bangla National Stadium,1,India
+411,16.4,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,123,Bangladesh,Shere Bangla National Stadium,1,India
+412,16.5,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,1,India
+413,16.6,0,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,1,India
+414,16.7,0,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,1,India
+415,17.1,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,1,India
+416,17.2,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,125,Bangladesh,Shere Bangla National Stadium,1,India
+417,17.3,1,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,126,Bangladesh,Shere Bangla National Stadium,1,India
+418,17.4,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,126,Bangladesh,Shere Bangla National Stadium,1,India
+419,17.5,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,126,Bangladesh,Shere Bangla National Stadium,1,India
+420,17.6,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,1,India
+421,18.1,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,1,India
+422,18.2,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,1,India
+423,18.3,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,128,Bangladesh,Shere Bangla National Stadium,1,India
+424,18.4,1,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,129,Bangladesh,Shere Bangla National Stadium,1,India
+425,18.5,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,129,Bangladesh,Shere Bangla National Stadium,1,India
+426,18.6,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,130,Bangladesh,Shere Bangla National Stadium,1,India
+427,19.1,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+428,19.2,0,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+429,19.3,0,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+430,19.4,0,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+431,19.5,1,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,132,Bangladesh,Shere Bangla National Stadium,1,India
+432,19.6,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,133,Bangladesh,Shere Bangla National Stadium,1,India
+433,20.1,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,133,Bangladesh,Shere Bangla National Stadium,1,India
+434,20.2,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,1,India
+435,20.3,1,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,135,Bangladesh,Shere Bangla National Stadium,1,India
+436,20.4,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,135,Bangladesh,Shere Bangla National Stadium,1,India
+437,20.5,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,136,Bangladesh,Shere Bangla National Stadium,1,India
+438,20.6,1,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,137,Bangladesh,Shere Bangla National Stadium,1,India
+439,21.1,0,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,137,Bangladesh,Shere Bangla National Stadium,1,India
+440,21.2,1,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,138,Bangladesh,Shere Bangla National Stadium,1,India
+441,21.3,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,139,Bangladesh,Shere Bangla National Stadium,1,India
+442,21.4,1,Mahmudullah,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,140,Bangladesh,Shere Bangla National Stadium,1,India
+443,21.5,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,140,Bangladesh,Shere Bangla National Stadium,1,India
+444,21.6,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,140,Bangladesh,Shere Bangla National Stadium,1,India
+445,22.1,1,Abdur Razzak,2008-06-12,2nd,RG Sharma,0,,G Gambhir,0,Bangladesh,India,141,Bangladesh,Shere Bangla National Stadium,1,India
+446,22.2,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,RG Sharma,0,Bangladesh,India,141,Bangladesh,Shere Bangla National Stadium,2,India
+447,22.3,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,142,Bangladesh,Shere Bangla National Stadium,2,India
+448,22.4,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,142,Bangladesh,Shere Bangla National Stadium,2,India
+449,22.5,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,142,Bangladesh,Shere Bangla National Stadium,2,India
+450,22.6,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,143,Bangladesh,Shere Bangla National Stadium,2,India
+451,23.1,2,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,2,India
+452,23.2,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,2,India
+453,23.3,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,2,India
+454,23.4,6,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,2,India
+455,23.5,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,2,India
+456,23.6,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,2,India
+457,24.1,0,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,2,India
+458,24.2,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,152,Bangladesh,Shere Bangla National Stadium,2,India
+459,24.3,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,153,Bangladesh,Shere Bangla National Stadium,2,India
+460,24.4,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,154,Bangladesh,Shere Bangla National Stadium,2,India
+461,24.5,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,154,Bangladesh,Shere Bangla National Stadium,2,India
+462,24.6,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,155,Bangladesh,Shere Bangla National Stadium,2,India
+463,25.1,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,155,Bangladesh,Shere Bangla National Stadium,2,India
+464,25.2,4,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,159,Bangladesh,Shere Bangla National Stadium,2,India
+465,25.3,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,160,Bangladesh,Shere Bangla National Stadium,2,India
+466,25.4,0,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,160,Bangladesh,Shere Bangla National Stadium,2,India
+467,25.5,1,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,161,Bangladesh,Shere Bangla National Stadium,2,India
+468,25.6,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,161,Bangladesh,Shere Bangla National Stadium,2,India
+469,26.1,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,162,Bangladesh,Shere Bangla National Stadium,2,India
+470,26.2,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,162,Bangladesh,Shere Bangla National Stadium,2,India
+471,26.3,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,163,Bangladesh,Shere Bangla National Stadium,2,India
+472,26.4,4,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,167,Bangladesh,Shere Bangla National Stadium,2,India
+473,26.5,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,168,Bangladesh,Shere Bangla National Stadium,2,India
+474,26.6,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,168,Bangladesh,Shere Bangla National Stadium,2,India
+475,27.1,1,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,169,Bangladesh,Shere Bangla National Stadium,2,India
+476,27.2,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,170,Bangladesh,Shere Bangla National Stadium,2,India
+477,27.3,1,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,171,Bangladesh,Shere Bangla National Stadium,2,India
+478,27.4,0,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,171,Bangladesh,Shere Bangla National Stadium,2,India
+479,27.5,1,Mahmudullah,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,172,Bangladesh,Shere Bangla National Stadium,2,India
+480,27.6,1,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,173,Bangladesh,Shere Bangla National Stadium,2,India
+481,28.1,0,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,173,Bangladesh,Shere Bangla National Stadium,2,India
+482,28.2,0,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,173,Bangladesh,Shere Bangla National Stadium,2,India
+483,28.3,0,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,173,Bangladesh,Shere Bangla National Stadium,2,India
+484,28.4,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,174,Bangladesh,Shere Bangla National Stadium,2,India
+485,28.5,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,175,Bangladesh,Shere Bangla National Stadium,2,India
+486,28.6,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,176,Bangladesh,Shere Bangla National Stadium,2,India
+487,29.1,4,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,180,Bangladesh,Shere Bangla National Stadium,2,India
+488,29.2,4,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,184,Bangladesh,Shere Bangla National Stadium,2,India
+489,29.3,2,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,186,Bangladesh,Shere Bangla National Stadium,2,India
+490,29.4,0,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,186,Bangladesh,Shere Bangla National Stadium,2,India
+491,29.5,0,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,186,Bangladesh,Shere Bangla National Stadium,2,India
+492,29.6,4,Mahmudullah,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,190,Bangladesh,Shere Bangla National Stadium,2,India
+493,30.1,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,190,Bangladesh,Shere Bangla National Stadium,2,India
+494,30.2,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,191,Bangladesh,Shere Bangla National Stadium,2,India
+495,30.3,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,192,Bangladesh,Shere Bangla National Stadium,2,India
+496,30.4,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,193,Bangladesh,Shere Bangla National Stadium,2,India
+497,30.5,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,194,Bangladesh,Shere Bangla National Stadium,2,India
+498,30.6,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,194,Bangladesh,Shere Bangla National Stadium,2,India
+499,31.1,2,Alok Kapali,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,196,Bangladesh,Shere Bangla National Stadium,2,India
+500,31.2,4,Alok Kapali,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,200,Bangladesh,Shere Bangla National Stadium,2,India
+501,31.3,1,Alok Kapali,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,201,Bangladesh,Shere Bangla National Stadium,2,India
+502,31.4,1,Alok Kapali,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,202,Bangladesh,Shere Bangla National Stadium,2,India
+503,31.5,4,Alok Kapali,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,206,Bangladesh,Shere Bangla National Stadium,2,India
+504,31.6,1,Alok Kapali,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,2,India
+505,32.1,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,2,India
+506,32.2,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,209,Bangladesh,Shere Bangla National Stadium,2,India
+507,32.3,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,210,Bangladesh,Shere Bangla National Stadium,2,India
+508,32.4,1,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,211,Bangladesh,Shere Bangla National Stadium,2,India
+509,32.5,1,Abdur Razzak,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,212,Bangladesh,Shere Bangla National Stadium,2,India
+510,32.6,0,Abdur Razzak,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,212,Bangladesh,Shere Bangla National Stadium,2,India
+511,33.1,0,Farhad Reza,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,212,Bangladesh,Shere Bangla National Stadium,2,India
+512,33.2,0,Farhad Reza,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,213,Bangladesh,Shere Bangla National Stadium,2,India
+513,33.3,1,Farhad Reza,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,214,Bangladesh,Shere Bangla National Stadium,2,India
+514,33.4,1,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,215,Bangladesh,Shere Bangla National Stadium,2,India
+515,33.5,1,Farhad Reza,2008-06-12,2nd,Yuvraj Singh,0,,G Gambhir,0,Bangladesh,India,216,Bangladesh,Shere Bangla National Stadium,2,India
+516,33.6,0,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,Yuvraj Singh,0,Bangladesh,India,216,Bangladesh,Shere Bangla National Stadium,3,India
+517,33.7,0,Farhad Reza,2008-06-12,2nd,G Gambhir,0,,SK Raina,0,Bangladesh,India,216,Bangladesh,Shere Bangla National Stadium,3,India
+518,34.1,4,Mashrafe Mortaza,2008-06-12,2nd,SK Raina,0,,G Gambhir,0,Bangladesh,India,220,Bangladesh,Shere Bangla National Stadium,3,India
+519,34.2,0,Mashrafe Mortaza,2008-06-12,2nd,SK Raina,0,,G Gambhir,0,Bangladesh,India,220,Bangladesh,Shere Bangla National Stadium,3,India
+520,34.3,0,Mashrafe Mortaza,2008-06-12,2nd,SK Raina,0,,G Gambhir,0,Bangladesh,India,220,Bangladesh,Shere Bangla National Stadium,3,India
+521,34.4,0,Mashrafe Mortaza,2008-06-12,2nd,SK Raina,0,,G Gambhir,0,Bangladesh,India,220,Bangladesh,Shere Bangla National Stadium,3,India
+522,34.5,1,Mashrafe Mortaza,2008-06-12,2nd,SK Raina,0,,G Gambhir,0,Bangladesh,India,221,Bangladesh,Shere Bangla National Stadium,3,India
+523,34.6,0,Mashrafe Mortaza,2008-06-12,2nd,G Gambhir,0,,SK Raina,0,Bangladesh,India,221,Bangladesh,Shere Bangla National Stadium,3,India
+524,35.1,2,Farhad Reza,2008-06-12,2nd,SK Raina,0,,G Gambhir,0,Bangladesh,India,223,Bangladesh,Shere Bangla National Stadium,3,India

@@ -1,0 +1,597 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,KD Mills,2010-10-14,1st,Shahriar Nafees,0,,Imrul Kayes,1,Bangladesh,New Zealand,1,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+1,0.2,0,KD Mills,2010-10-14,1st,Imrul Kayes,1,Shahriar Nafees,Shahriar Nafees,0,Bangladesh,New Zealand,1,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+2,0.3,0,KD Mills,2010-10-14,1st,Imrul Kayes,1,,Junaid Siddique,0,Bangladesh,New Zealand,1,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+3,0.4,0,KD Mills,2010-10-14,1st,Imrul Kayes,1,,Junaid Siddique,0,Bangladesh,New Zealand,1,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+4,0.5,1,KD Mills,2010-10-14,1st,Imrul Kayes,1,,Junaid Siddique,1,Bangladesh,New Zealand,3,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+5,0.6,1,KD Mills,2010-10-14,1st,Junaid Siddique,1,,Imrul Kayes,2,Bangladesh,New Zealand,4,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+6,0.7,0,KD Mills,2010-10-14,1st,Imrul Kayes,2,,Junaid Siddique,1,Bangladesh,New Zealand,4,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+7,1.1,0,DR Tuffey,2010-10-14,1st,Junaid Siddique,1,,Imrul Kayes,2,Bangladesh,New Zealand,4,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+8,1.2,0,DR Tuffey,2010-10-14,1st,Junaid Siddique,1,,Imrul Kayes,2,Bangladesh,New Zealand,4,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+9,1.3,0,DR Tuffey,2010-10-14,1st,Junaid Siddique,1,,Imrul Kayes,2,Bangladesh,New Zealand,4,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+10,1.4,0,DR Tuffey,2010-10-14,1st,Junaid Siddique,1,,Imrul Kayes,2,Bangladesh,New Zealand,4,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+11,1.5,0,DR Tuffey,2010-10-14,1st,Junaid Siddique,1,,Imrul Kayes,2,Bangladesh,New Zealand,4,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+12,1.6,2,DR Tuffey,2010-10-14,1st,Junaid Siddique,1,,Imrul Kayes,4,Bangladesh,New Zealand,6,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+13,2.1,0,KD Mills,2010-10-14,1st,Imrul Kayes,4,,Junaid Siddique,1,Bangladesh,New Zealand,6,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+14,2.2,4,KD Mills,2010-10-14,1st,Imrul Kayes,4,,Junaid Siddique,5,Bangladesh,New Zealand,10,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+15,2.3,1,KD Mills,2010-10-14,1st,Imrul Kayes,4,,Junaid Siddique,6,Bangladesh,New Zealand,11,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+16,2.4,0,KD Mills,2010-10-14,1st,Junaid Siddique,6,,Imrul Kayes,4,Bangladesh,New Zealand,11,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+17,2.5,0,KD Mills,2010-10-14,1st,Junaid Siddique,6,,Imrul Kayes,4,Bangladesh,New Zealand,11,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+18,2.6,0,KD Mills,2010-10-14,1st,Junaid Siddique,6,,Imrul Kayes,4,Bangladesh,New Zealand,11,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+19,3.1,0,DR Tuffey,2010-10-14,1st,Imrul Kayes,4,,Junaid Siddique,6,Bangladesh,New Zealand,12,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+20,3.2,4,DR Tuffey,2010-10-14,1st,Imrul Kayes,4,,Junaid Siddique,10,Bangladesh,New Zealand,16,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+21,3.3,2,DR Tuffey,2010-10-14,1st,Imrul Kayes,4,,Junaid Siddique,12,Bangladesh,New Zealand,18,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+22,3.4,1,DR Tuffey,2010-10-14,1st,Imrul Kayes,4,,Junaid Siddique,13,Bangladesh,New Zealand,19,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+23,3.5,0,DR Tuffey,2010-10-14,1st,Junaid Siddique,13,,Imrul Kayes,4,Bangladesh,New Zealand,19,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+24,3.6,0,DR Tuffey,2010-10-14,1st,Junaid Siddique,13,,Imrul Kayes,4,Bangladesh,New Zealand,19,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+25,3.7,4,DR Tuffey,2010-10-14,1st,Junaid Siddique,13,,Imrul Kayes,8,Bangladesh,New Zealand,23,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+26,4.1,4,KD Mills,2010-10-14,1st,Imrul Kayes,8,,Junaid Siddique,17,Bangladesh,New Zealand,27,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+27,4.2,0,KD Mills,2010-10-14,1st,Imrul Kayes,8,,Junaid Siddique,17,Bangladesh,New Zealand,27,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+28,4.3,0,KD Mills,2010-10-14,1st,Imrul Kayes,8,,Junaid Siddique,17,Bangladesh,New Zealand,27,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+29,4.4,0,KD Mills,2010-10-14,1st,Imrul Kayes,8,Junaid Siddique,Junaid Siddique,17,Bangladesh,New Zealand,27,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+30,4.5,0,KD Mills,2010-10-14,1st,Imrul Kayes,8,,Raqibul Hasan,0,Bangladesh,New Zealand,27,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+31,4.6,0,KD Mills,2010-10-14,1st,Imrul Kayes,8,,Raqibul Hasan,0,Bangladesh,New Zealand,27,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+32,5.1,1,HK Bennett,2010-10-14,1st,Raqibul Hasan,0,,Imrul Kayes,9,Bangladesh,New Zealand,28,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+33,5.2,0,HK Bennett,2010-10-14,1st,Imrul Kayes,9,,Raqibul Hasan,0,Bangladesh,New Zealand,28,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+34,5.3,4,HK Bennett,2010-10-14,1st,Imrul Kayes,9,,Raqibul Hasan,4,Bangladesh,New Zealand,32,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+35,5.4,0,HK Bennett,2010-10-14,1st,Imrul Kayes,9,,Raqibul Hasan,4,Bangladesh,New Zealand,32,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+36,5.5,1,HK Bennett,2010-10-14,1st,Imrul Kayes,9,,Raqibul Hasan,5,Bangladesh,New Zealand,33,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+37,5.6,2,HK Bennett,2010-10-14,1st,Raqibul Hasan,5,,Imrul Kayes,11,Bangladesh,New Zealand,35,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+38,6.1,1,KD Mills,2010-10-14,1st,Imrul Kayes,11,,Raqibul Hasan,6,Bangladesh,New Zealand,36,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+39,6.2,4,KD Mills,2010-10-14,1st,Raqibul Hasan,6,,Imrul Kayes,15,Bangladesh,New Zealand,40,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+40,6.3,4,KD Mills,2010-10-14,1st,Raqibul Hasan,6,,Imrul Kayes,19,Bangladesh,New Zealand,44,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+41,6.4,0,KD Mills,2010-10-14,1st,Raqibul Hasan,6,,Imrul Kayes,19,Bangladesh,New Zealand,44,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+42,6.5,0,KD Mills,2010-10-14,1st,Raqibul Hasan,6,,Imrul Kayes,19,Bangladesh,New Zealand,44,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+43,6.6,0,KD Mills,2010-10-14,1st,Raqibul Hasan,6,,Imrul Kayes,19,Bangladesh,New Zealand,44,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+44,7.1,0,HK Bennett,2010-10-14,1st,Imrul Kayes,19,,Raqibul Hasan,6,Bangladesh,New Zealand,44,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+45,7.2,0,HK Bennett,2010-10-14,1st,Imrul Kayes,19,Raqibul Hasan,Raqibul Hasan,6,Bangladesh,New Zealand,44,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+46,7.3,4,HK Bennett,2010-10-14,1st,Imrul Kayes,19,,Shakib Al Hasan,4,Bangladesh,New Zealand,48,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+47,7.4,1,HK Bennett,2010-10-14,1st,Imrul Kayes,19,,Shakib Al Hasan,5,Bangladesh,New Zealand,49,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+48,7.5,0,HK Bennett,2010-10-14,1st,Shakib Al Hasan,5,,Imrul Kayes,19,Bangladesh,New Zealand,50,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+49,7.6,1,HK Bennett,2010-10-14,1st,Shakib Al Hasan,5,,Imrul Kayes,20,Bangladesh,New Zealand,51,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+50,7.7,1,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,6,Bangladesh,New Zealand,52,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+51,8.1,4,KD Mills,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,10,Bangladesh,New Zealand,56,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+52,8.2,1,KD Mills,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,11,Bangladesh,New Zealand,57,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+53,8.3,0,KD Mills,2010-10-14,1st,Shakib Al Hasan,11,,Imrul Kayes,20,Bangladesh,New Zealand,57,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+54,8.4,0,KD Mills,2010-10-14,1st,Shakib Al Hasan,11,,Imrul Kayes,20,Bangladesh,New Zealand,57,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+55,8.5,0,KD Mills,2010-10-14,1st,Shakib Al Hasan,11,,Imrul Kayes,20,Bangladesh,New Zealand,57,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+56,8.6,0,KD Mills,2010-10-14,1st,Shakib Al Hasan,11,,Imrul Kayes,20,Bangladesh,New Zealand,57,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+57,9.1,0,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,11,Bangladesh,New Zealand,58,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+58,9.2,0,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,11,Bangladesh,New Zealand,58,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+59,9.3,0,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,11,Bangladesh,New Zealand,59,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+60,9.4,0,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,11,Bangladesh,New Zealand,59,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+61,9.5,0,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,11,Bangladesh,New Zealand,59,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+62,9.6,0,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,11,Bangladesh,New Zealand,59,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+63,9.7,4,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,15,Bangladesh,New Zealand,63,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+64,9.8,1,HK Bennett,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,16,Bangladesh,New Zealand,64,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+65,10.1,0,DL Vettori,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,16,Bangladesh,New Zealand,64,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+66,10.2,1,DL Vettori,2010-10-14,1st,Imrul Kayes,20,,Shakib Al Hasan,17,Bangladesh,New Zealand,65,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+67,10.3,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,17,,Imrul Kayes,20,Bangladesh,New Zealand,65,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+68,10.4,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,17,,Imrul Kayes,20,Bangladesh,New Zealand,65,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+69,10.5,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,17,,Imrul Kayes,21,Bangladesh,New Zealand,66,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+70,10.6,0,DL Vettori,2010-10-14,1st,Imrul Kayes,21,,Shakib Al Hasan,17,Bangladesh,New Zealand,66,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+71,11.1,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,17,,Imrul Kayes,21,Bangladesh,New Zealand,66,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+72,11.2,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,17,,Imrul Kayes,21,Bangladesh,New Zealand,66,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+73,11.3,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,17,,Imrul Kayes,22,Bangladesh,New Zealand,67,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+74,11.4,1,NL McCullum,2010-10-14,1st,Imrul Kayes,22,,Shakib Al Hasan,18,Bangladesh,New Zealand,68,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+75,11.5,2,NL McCullum,2010-10-14,1st,Shakib Al Hasan,18,,Imrul Kayes,24,Bangladesh,New Zealand,70,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+76,11.6,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,18,,Imrul Kayes,24,Bangladesh,New Zealand,70,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+77,12.1,1,DL Vettori,2010-10-14,1st,Imrul Kayes,24,,Shakib Al Hasan,19,Bangladesh,New Zealand,71,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+78,12.2,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,19,,Imrul Kayes,25,Bangladesh,New Zealand,72,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+79,12.3,0,DL Vettori,2010-10-14,1st,Imrul Kayes,25,,Shakib Al Hasan,19,Bangladesh,New Zealand,72,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+80,12.4,3,DL Vettori,2010-10-14,1st,Imrul Kayes,25,,Shakib Al Hasan,22,Bangladesh,New Zealand,75,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+81,12.5,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,22,,Imrul Kayes,25,Bangladesh,New Zealand,75,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+82,12.6,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,22,,Imrul Kayes,25,Bangladesh,New Zealand,75,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+83,13.1,1,NL McCullum,2010-10-14,1st,Imrul Kayes,25,,Shakib Al Hasan,23,Bangladesh,New Zealand,76,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+84,13.2,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,23,,Imrul Kayes,26,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+85,13.3,0,NL McCullum,2010-10-14,1st,Imrul Kayes,26,,Shakib Al Hasan,23,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+86,13.4,0,NL McCullum,2010-10-14,1st,Imrul Kayes,26,,Shakib Al Hasan,23,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+87,13.5,0,NL McCullum,2010-10-14,1st,Imrul Kayes,26,,Shakib Al Hasan,23,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+88,13.6,1,NL McCullum,2010-10-14,1st,Imrul Kayes,26,,Shakib Al Hasan,24,Bangladesh,New Zealand,78,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+89,14.1,1,DL Vettori,2010-10-14,1st,Imrul Kayes,26,,Shakib Al Hasan,25,Bangladesh,New Zealand,79,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+90,14.2,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,25,,Imrul Kayes,26,Bangladesh,New Zealand,79,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+91,14.3,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,25,,Imrul Kayes,27,Bangladesh,New Zealand,80,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+92,14.4,0,DL Vettori,2010-10-14,1st,Imrul Kayes,27,,Shakib Al Hasan,25,Bangladesh,New Zealand,80,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+93,14.5,0,DL Vettori,2010-10-14,1st,Imrul Kayes,27,,Shakib Al Hasan,25,Bangladesh,New Zealand,80,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+94,14.6,1,DL Vettori,2010-10-14,1st,Imrul Kayes,27,,Shakib Al Hasan,26,Bangladesh,New Zealand,81,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+95,15.1,1,NL McCullum,2010-10-14,1st,Imrul Kayes,27,,Shakib Al Hasan,27,Bangladesh,New Zealand,82,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+96,15.2,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,27,,Imrul Kayes,27,Bangladesh,New Zealand,82,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+97,15.3,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,27,,Imrul Kayes,27,Bangladesh,New Zealand,82,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+98,15.4,4,NL McCullum,2010-10-14,1st,Shakib Al Hasan,27,,Imrul Kayes,31,Bangladesh,New Zealand,86,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+99,15.5,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,27,,Imrul Kayes,32,Bangladesh,New Zealand,87,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+100,15.6,1,NL McCullum,2010-10-14,1st,Imrul Kayes,32,,Shakib Al Hasan,28,Bangladesh,New Zealand,88,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+101,16.1,1,DL Vettori,2010-10-14,1st,Imrul Kayes,32,,Shakib Al Hasan,29,Bangladesh,New Zealand,89,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+102,16.2,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,29,,Imrul Kayes,32,Bangladesh,New Zealand,89,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+103,16.3,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,29,,Imrul Kayes,33,Bangladesh,New Zealand,90,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+104,16.4,0,DL Vettori,2010-10-14,1st,Imrul Kayes,33,,Shakib Al Hasan,29,Bangladesh,New Zealand,90,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+105,16.5,1,DL Vettori,2010-10-14,1st,Imrul Kayes,33,,Shakib Al Hasan,30,Bangladesh,New Zealand,91,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+106,16.6,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,30,,Imrul Kayes,34,Bangladesh,New Zealand,92,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+107,17.1,1,KS Williamson,2010-10-14,1st,Shakib Al Hasan,30,,Imrul Kayes,35,Bangladesh,New Zealand,93,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+108,17.2,1,KS Williamson,2010-10-14,1st,Imrul Kayes,35,,Shakib Al Hasan,31,Bangladesh,New Zealand,94,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+109,17.3,0,KS Williamson,2010-10-14,1st,Shakib Al Hasan,31,,Imrul Kayes,35,Bangladesh,New Zealand,94,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+110,17.4,1,KS Williamson,2010-10-14,1st,Shakib Al Hasan,31,,Imrul Kayes,36,Bangladesh,New Zealand,95,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+111,17.5,1,KS Williamson,2010-10-14,1st,Imrul Kayes,36,,Shakib Al Hasan,32,Bangladesh,New Zealand,96,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+112,17.6,1,KS Williamson,2010-10-14,1st,Shakib Al Hasan,32,,Imrul Kayes,37,Bangladesh,New Zealand,97,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+113,18.1,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,32,Imrul Kayes,Imrul Kayes,37,Bangladesh,New Zealand,97,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+114,18.2,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,32,,Mushfiqur Rahim,0,Bangladesh,New Zealand,97,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+115,18.3,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,32,,Mushfiqur Rahim,0,Bangladesh,New Zealand,97,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+116,18.4,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,32,,Mushfiqur Rahim,0,Bangladesh,New Zealand,97,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+117,18.5,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,32,,Mushfiqur Rahim,0,Bangladesh,New Zealand,97,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+118,18.6,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,32,,Mushfiqur Rahim,1,Bangladesh,New Zealand,98,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+119,19.1,0,HK Bennett,2010-10-14,1st,Shakib Al Hasan,32,,Mushfiqur Rahim,1,Bangladesh,New Zealand,98,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+120,19.2,1,HK Bennett,2010-10-14,1st,Shakib Al Hasan,32,,Mushfiqur Rahim,2,Bangladesh,New Zealand,99,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+121,19.3,0,HK Bennett,2010-10-14,1st,Mushfiqur Rahim,2,,Shakib Al Hasan,32,Bangladesh,New Zealand,99,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+122,19.4,4,HK Bennett,2010-10-14,1st,Mushfiqur Rahim,2,,Shakib Al Hasan,36,Bangladesh,New Zealand,103,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+123,19.5,1,HK Bennett,2010-10-14,1st,Mushfiqur Rahim,2,,Shakib Al Hasan,37,Bangladesh,New Zealand,104,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+124,19.6,0,HK Bennett,2010-10-14,1st,Shakib Al Hasan,37,,Mushfiqur Rahim,2,Bangladesh,New Zealand,104,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+125,20.1,1,DL Vettori,2010-10-14,1st,Mushfiqur Rahim,2,,Shakib Al Hasan,38,Bangladesh,New Zealand,105,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+126,20.2,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,38,,Mushfiqur Rahim,3,Bangladesh,New Zealand,106,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+127,20.3,0,DL Vettori,2010-10-14,1st,Mushfiqur Rahim,3,,Shakib Al Hasan,38,Bangladesh,New Zealand,108,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+128,20.4,0,DL Vettori,2010-10-14,1st,Mushfiqur Rahim,3,,Shakib Al Hasan,38,Bangladesh,New Zealand,108,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+129,20.5,0,DL Vettori,2010-10-14,1st,Mushfiqur Rahim,3,,Shakib Al Hasan,38,Bangladesh,New Zealand,108,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+130,20.6,3,DL Vettori,2010-10-14,1st,Mushfiqur Rahim,3,,Shakib Al Hasan,41,Bangladesh,New Zealand,111,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+131,21.1,1,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,3,,Shakib Al Hasan,42,Bangladesh,New Zealand,112,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+132,21.2,3,NL McCullum,2010-10-14,1st,Shakib Al Hasan,42,,Mushfiqur Rahim,6,Bangladesh,New Zealand,115,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+133,21.3,0,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,6,,Shakib Al Hasan,42,Bangladesh,New Zealand,115,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+134,21.4,0,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,6,,Shakib Al Hasan,42,Bangladesh,New Zealand,115,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+135,21.5,0,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,6,,Shakib Al Hasan,42,Bangladesh,New Zealand,115,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+136,21.6,1,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,6,,Shakib Al Hasan,43,Bangladesh,New Zealand,116,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+137,22.1,1,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,6,,Shakib Al Hasan,44,Bangladesh,New Zealand,117,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+138,22.2,1,GD Elliott,2010-10-14,1st,Shakib Al Hasan,44,,Mushfiqur Rahim,7,Bangladesh,New Zealand,118,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+139,22.3,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,7,,Shakib Al Hasan,44,Bangladesh,New Zealand,118,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+140,22.4,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,7,,Shakib Al Hasan,44,Bangladesh,New Zealand,118,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+141,22.5,1,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,7,,Shakib Al Hasan,45,Bangladesh,New Zealand,119,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+142,22.6,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,45,,Mushfiqur Rahim,7,Bangladesh,New Zealand,119,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+143,23.1,1,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,7,,Shakib Al Hasan,46,Bangladesh,New Zealand,120,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+144,23.2,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,46,,Mushfiqur Rahim,8,Bangladesh,New Zealand,121,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+145,23.3,1,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,8,,Shakib Al Hasan,47,Bangladesh,New Zealand,122,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+146,23.4,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,47,,Mushfiqur Rahim,9,Bangladesh,New Zealand,123,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+147,23.5,0,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,9,,Shakib Al Hasan,47,Bangladesh,New Zealand,123,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+148,23.6,0,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,9,,Shakib Al Hasan,47,Bangladesh,New Zealand,123,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+149,24.1,1,GD Elliott,2010-10-14,1st,Shakib Al Hasan,47,,Mushfiqur Rahim,10,Bangladesh,New Zealand,124,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+150,24.2,1,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,10,,Shakib Al Hasan,48,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+151,24.3,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,48,,Mushfiqur Rahim,10,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+152,24.4,1,GD Elliott,2010-10-14,1st,Shakib Al Hasan,48,,Mushfiqur Rahim,11,Bangladesh,New Zealand,126,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+153,24.5,1,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,49,Bangladesh,New Zealand,127,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+154,24.6,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,49,,Mushfiqur Rahim,11,Bangladesh,New Zealand,127,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+155,25.1,0,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,49,Bangladesh,New Zealand,127,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+156,25.2,0,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,49,Bangladesh,New Zealand,127,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+157,25.3,1,NL McCullum,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,50,Bangladesh,New Zealand,128,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+158,25.4,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,50,,Mushfiqur Rahim,11,Bangladesh,New Zealand,128,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+159,25.5,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,50,,Mushfiqur Rahim,11,Bangladesh,New Zealand,128,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+160,25.6,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,50,,Mushfiqur Rahim,11,Bangladesh,New Zealand,128,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+161,26.1,4,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,54,Bangladesh,New Zealand,132,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+162,26.2,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,54,Bangladesh,New Zealand,132,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+163,26.3,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,54,Bangladesh,New Zealand,132,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+164,26.4,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,54,Bangladesh,New Zealand,132,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+165,26.5,4,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,58,Bangladesh,New Zealand,136,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+166,26.6,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,11,,Shakib Al Hasan,58,Bangladesh,New Zealand,136,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+167,27.1,0,KS Williamson,2010-10-14,1st,Shakib Al Hasan,58,,Mushfiqur Rahim,11,Bangladesh,New Zealand,136,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+168,27.2,1,KS Williamson,2010-10-14,1st,Shakib Al Hasan,58,,Mushfiqur Rahim,12,Bangladesh,New Zealand,137,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+169,27.3,4,KS Williamson,2010-10-14,1st,Mushfiqur Rahim,12,,Shakib Al Hasan,62,Bangladesh,New Zealand,141,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+170,27.4,4,KS Williamson,2010-10-14,1st,Mushfiqur Rahim,12,,Shakib Al Hasan,66,Bangladesh,New Zealand,145,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+171,27.5,1,KS Williamson,2010-10-14,1st,Mushfiqur Rahim,12,,Shakib Al Hasan,67,Bangladesh,New Zealand,146,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+172,27.6,0,KS Williamson,2010-10-14,1st,Shakib Al Hasan,67,,Mushfiqur Rahim,12,Bangladesh,New Zealand,146,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+173,28.1,1,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,12,,Shakib Al Hasan,68,Bangladesh,New Zealand,147,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+174,28.2,1,GD Elliott,2010-10-14,1st,Shakib Al Hasan,68,,Mushfiqur Rahim,13,Bangladesh,New Zealand,148,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+175,28.3,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,13,,Shakib Al Hasan,68,Bangladesh,New Zealand,148,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+176,28.4,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,13,,Shakib Al Hasan,68,Bangladesh,New Zealand,148,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+177,28.5,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,13,,Shakib Al Hasan,68,Bangladesh,New Zealand,148,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+178,28.6,0,GD Elliott,2010-10-14,1st,Mushfiqur Rahim,13,Mushfiqur Rahim,Shakib Al Hasan,68,Bangladesh,New Zealand,148,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+179,29.1,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,68,,Mahmudullah,0,Bangladesh,New Zealand,148,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+180,29.2,4,NL McCullum,2010-10-14,1st,Shakib Al Hasan,68,,Mahmudullah,4,Bangladesh,New Zealand,152,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+181,29.3,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,68,,Mahmudullah,5,Bangladesh,New Zealand,153,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+182,29.4,1,NL McCullum,2010-10-14,1st,Mahmudullah,5,,Shakib Al Hasan,69,Bangladesh,New Zealand,154,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+183,29.5,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,69,,Mahmudullah,6,Bangladesh,New Zealand,155,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+184,29.6,1,NL McCullum,2010-10-14,1st,Mahmudullah,6,,Shakib Al Hasan,70,Bangladesh,New Zealand,156,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+185,30.1,0,DL Vettori,2010-10-14,1st,Mahmudullah,6,,Shakib Al Hasan,70,Bangladesh,New Zealand,156,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+186,30.2,1,DL Vettori,2010-10-14,1st,Mahmudullah,6,,Shakib Al Hasan,71,Bangladesh,New Zealand,157,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+187,30.3,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,71,,Mahmudullah,7,Bangladesh,New Zealand,158,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+188,30.4,1,DL Vettori,2010-10-14,1st,Mahmudullah,7,,Shakib Al Hasan,72,Bangladesh,New Zealand,159,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+189,30.5,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,72,,Mahmudullah,7,Bangladesh,New Zealand,159,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+190,30.6,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,72,,Mahmudullah,7,Bangladesh,New Zealand,159,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+191,31.1,6,KD Mills,2010-10-14,1st,Mahmudullah,7,,Shakib Al Hasan,78,Bangladesh,New Zealand,165,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+192,31.2,0,KD Mills,2010-10-14,1st,Mahmudullah,7,,Shakib Al Hasan,78,Bangladesh,New Zealand,165,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+193,31.3,1,KD Mills,2010-10-14,1st,Mahmudullah,7,,Shakib Al Hasan,79,Bangladesh,New Zealand,166,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+194,31.4,0,KD Mills,2010-10-14,1st,Shakib Al Hasan,79,,Mahmudullah,7,Bangladesh,New Zealand,166,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+195,31.5,4,KD Mills,2010-10-14,1st,Shakib Al Hasan,79,,Mahmudullah,11,Bangladesh,New Zealand,170,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+196,31.6,0,KD Mills,2010-10-14,1st,Shakib Al Hasan,79,,Mahmudullah,11,Bangladesh,New Zealand,170,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+197,32.1,1,DL Vettori,2010-10-14,1st,Mahmudullah,11,,Shakib Al Hasan,80,Bangladesh,New Zealand,171,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+198,32.2,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,80,,Mahmudullah,11,Bangladesh,New Zealand,171,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+199,32.3,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,80,,Mahmudullah,11,Bangladesh,New Zealand,171,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+200,32.4,2,DL Vettori,2010-10-14,1st,Shakib Al Hasan,80,,Mahmudullah,13,Bangladesh,New Zealand,173,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+201,32.5,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,80,,Mahmudullah,13,Bangladesh,New Zealand,173,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+202,32.6,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,80,,Mahmudullah,13,Bangladesh,New Zealand,173,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+203,33.1,0,HK Bennett,2010-10-14,1st,Mahmudullah,13,,Shakib Al Hasan,80,Bangladesh,New Zealand,173,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+204,33.2,1,HK Bennett,2010-10-14,1st,Mahmudullah,13,,Shakib Al Hasan,81,Bangladesh,New Zealand,174,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+205,33.3,1,HK Bennett,2010-10-14,1st,Shakib Al Hasan,81,,Mahmudullah,14,Bangladesh,New Zealand,175,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+206,33.4,0,HK Bennett,2010-10-14,1st,Mahmudullah,14,,Shakib Al Hasan,81,Bangladesh,New Zealand,175,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+207,33.5,0,HK Bennett,2010-10-14,1st,Mahmudullah,14,,Shakib Al Hasan,81,Bangladesh,New Zealand,175,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+208,33.6,2,HK Bennett,2010-10-14,1st,Mahmudullah,14,,Shakib Al Hasan,83,Bangladesh,New Zealand,177,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+209,34.1,4,GD Elliott,2010-10-14,1st,Shakib Al Hasan,83,,Mahmudullah,18,Bangladesh,New Zealand,181,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+210,34.2,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,83,,Mahmudullah,18,Bangladesh,New Zealand,181,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+211,34.3,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,83,,Mahmudullah,18,Bangladesh,New Zealand,181,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+212,34.4,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,83,,Mahmudullah,18,Bangladesh,New Zealand,181,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+213,34.5,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,83,,Mahmudullah,18,Bangladesh,New Zealand,181,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+214,34.6,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,83,,Mahmudullah,18,Bangladesh,New Zealand,182,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+215,34.7,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,83,,Mahmudullah,18,Bangladesh,New Zealand,182,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+216,35.1,1,HK Bennett,2010-10-14,1st,Mahmudullah,18,,Shakib Al Hasan,84,Bangladesh,New Zealand,183,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+217,35.2,0,HK Bennett,2010-10-14,1st,Shakib Al Hasan,84,,Mahmudullah,18,Bangladesh,New Zealand,183,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+218,35.3,0,HK Bennett,2010-10-14,1st,Shakib Al Hasan,84,,Mahmudullah,18,Bangladesh,New Zealand,183,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+219,35.4,1,HK Bennett,2010-10-14,1st,Shakib Al Hasan,84,,Mahmudullah,19,Bangladesh,New Zealand,184,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+220,35.5,1,HK Bennett,2010-10-14,1st,Mahmudullah,19,,Shakib Al Hasan,85,Bangladesh,New Zealand,185,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+221,35.6,0,HK Bennett,2010-10-14,1st,Shakib Al Hasan,85,,Mahmudullah,19,Bangladesh,New Zealand,185,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+222,36.1,0,DR Tuffey,2010-10-14,1st,Mahmudullah,19,,Shakib Al Hasan,85,Bangladesh,New Zealand,185,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+223,36.2,1,DR Tuffey,2010-10-14,1st,Mahmudullah,19,,Shakib Al Hasan,86,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+224,36.3,0,DR Tuffey,2010-10-14,1st,Shakib Al Hasan,86,,Mahmudullah,19,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+225,36.4,0,DR Tuffey,2010-10-14,1st,Shakib Al Hasan,86,,Mahmudullah,19,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+226,36.5,0,DR Tuffey,2010-10-14,1st,Shakib Al Hasan,86,,Mahmudullah,19,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+227,36.6,0,DR Tuffey,2010-10-14,1st,Shakib Al Hasan,86,,Mahmudullah,19,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+228,37.1,0,GD Elliott,2010-10-14,1st,Mahmudullah,19,,Shakib Al Hasan,86,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+229,37.2,1,GD Elliott,2010-10-14,1st,Mahmudullah,19,,Shakib Al Hasan,87,Bangladesh,New Zealand,187,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+230,37.3,1,GD Elliott,2010-10-14,1st,Shakib Al Hasan,87,,Mahmudullah,20,Bangladesh,New Zealand,188,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+231,37.4,4,GD Elliott,2010-10-14,1st,Mahmudullah,20,,Shakib Al Hasan,91,Bangladesh,New Zealand,192,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+232,37.5,1,GD Elliott,2010-10-14,1st,Mahmudullah,20,,Shakib Al Hasan,92,Bangladesh,New Zealand,193,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+233,37.6,0,GD Elliott,2010-10-14,1st,Shakib Al Hasan,92,,Mahmudullah,20,Bangladesh,New Zealand,193,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+234,38.1,0,DR Tuffey,2010-10-14,1st,Mahmudullah,20,,Shakib Al Hasan,92,Bangladesh,New Zealand,193,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+235,38.2,0,DR Tuffey,2010-10-14,1st,Mahmudullah,20,,Shakib Al Hasan,92,Bangladesh,New Zealand,193,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+236,38.3,1,DR Tuffey,2010-10-14,1st,Mahmudullah,20,,Shakib Al Hasan,93,Bangladesh,New Zealand,194,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+237,38.4,1,DR Tuffey,2010-10-14,1st,Shakib Al Hasan,93,,Mahmudullah,21,Bangladesh,New Zealand,195,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+238,38.5,4,DR Tuffey,2010-10-14,1st,Mahmudullah,21,,Shakib Al Hasan,97,Bangladesh,New Zealand,199,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+239,38.6,0,DR Tuffey,2010-10-14,1st,Mahmudullah,21,,Shakib Al Hasan,97,Bangladesh,New Zealand,199,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+240,39.1,1,NL McCullum,2010-10-14,1st,Shakib Al Hasan,97,,Mahmudullah,22,Bangladesh,New Zealand,200,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+241,39.2,0,NL McCullum,2010-10-14,1st,Mahmudullah,22,,Shakib Al Hasan,97,Bangladesh,New Zealand,200,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+242,39.3,0,NL McCullum,2010-10-14,1st,Mahmudullah,22,,Shakib Al Hasan,97,Bangladesh,New Zealand,200,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+243,39.4,0,NL McCullum,2010-10-14,1st,Mahmudullah,22,,Shakib Al Hasan,97,Bangladesh,New Zealand,200,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+244,39.5,1,NL McCullum,2010-10-14,1st,Mahmudullah,22,,Shakib Al Hasan,98,Bangladesh,New Zealand,201,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+245,39.6,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,98,,Mahmudullah,22,Bangladesh,New Zealand,201,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+246,40.1,0,DL Vettori,2010-10-14,1st,Mahmudullah,22,,Shakib Al Hasan,98,Bangladesh,New Zealand,201,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+247,40.2,1,DL Vettori,2010-10-14,1st,Mahmudullah,22,,Shakib Al Hasan,99,Bangladesh,New Zealand,202,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+248,40.3,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,99,,Mahmudullah,22,Bangladesh,New Zealand,202,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+249,40.4,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,99,,Mahmudullah,23,Bangladesh,New Zealand,203,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+250,40.5,4,DL Vettori,2010-10-14,1st,Mahmudullah,23,,Shakib Al Hasan,103,Bangladesh,New Zealand,207,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+251,40.6,1,DL Vettori,2010-10-14,1st,Mahmudullah,23,,Shakib Al Hasan,104,Bangladesh,New Zealand,208,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+252,41.1,1,NL McCullum,2010-10-14,1st,Mahmudullah,23,,Shakib Al Hasan,105,Bangladesh,New Zealand,209,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+253,41.2,4,NL McCullum,2010-10-14,1st,Shakib Al Hasan,105,,Mahmudullah,27,Bangladesh,New Zealand,213,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+254,41.3,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,105,,Mahmudullah,27,Bangladesh,New Zealand,214,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+255,41.4,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,105,,Mahmudullah,27,Bangladesh,New Zealand,214,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+256,41.5,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,105,,Mahmudullah,27,Bangladesh,New Zealand,214,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+257,41.6,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,105,,Mahmudullah,27,Bangladesh,New Zealand,214,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+258,41.7,0,NL McCullum,2010-10-14,1st,Shakib Al Hasan,105,,Mahmudullah,27,Bangladesh,New Zealand,214,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+259,42.1,1,DL Vettori,2010-10-14,1st,Mahmudullah,27,,Shakib Al Hasan,106,Bangladesh,New Zealand,215,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+260,42.2,0,DL Vettori,2010-10-14,1st,Shakib Al Hasan,106,,Mahmudullah,27,Bangladesh,New Zealand,215,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+261,42.3,1,DL Vettori,2010-10-14,1st,Shakib Al Hasan,106,,Mahmudullah,28,Bangladesh,New Zealand,216,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+262,42.4,0,DL Vettori,2010-10-14,1st,Mahmudullah,28,,Shakib Al Hasan,106,Bangladesh,New Zealand,216,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+263,42.5,0,DL Vettori,2010-10-14,1st,Mahmudullah,28,Shakib Al Hasan,Shakib Al Hasan,106,Bangladesh,New Zealand,216,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+264,42.6,0,DL Vettori,2010-10-14,1st,Mahmudullah,28,,Suhrawadi Shuvo,0,Bangladesh,New Zealand,216,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+265,43.1,1,NL McCullum,2010-10-14,1st,Suhrawadi Shuvo,0,,Mahmudullah,29,Bangladesh,New Zealand,217,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+266,43.2,1,NL McCullum,2010-10-14,1st,Mahmudullah,29,,Suhrawadi Shuvo,1,Bangladesh,New Zealand,218,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+267,43.3,0,NL McCullum,2010-10-14,1st,Suhrawadi Shuvo,1,,Mahmudullah,29,Bangladesh,New Zealand,218,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+268,43.4,0,NL McCullum,2010-10-14,1st,Suhrawadi Shuvo,1,,Mahmudullah,29,Bangladesh,New Zealand,218,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+269,43.5,2,NL McCullum,2010-10-14,1st,Suhrawadi Shuvo,1,,Mahmudullah,31,Bangladesh,New Zealand,220,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+270,43.6,3,NL McCullum,2010-10-14,1st,Suhrawadi Shuvo,1,,Mahmudullah,34,Bangladesh,New Zealand,223,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+271,44.1,0,DR Tuffey,2010-10-14,1st,Suhrawadi Shuvo,1,,Mahmudullah,34,Bangladesh,New Zealand,223,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+272,44.2,0,DR Tuffey,2010-10-14,1st,Suhrawadi Shuvo,1,,Mahmudullah,34,Bangladesh,New Zealand,223,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+273,44.3,1,DR Tuffey,2010-10-14,1st,Suhrawadi Shuvo,1,,Mahmudullah,35,Bangladesh,New Zealand,224,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+274,44.4,0,DR Tuffey,2010-10-14,1st,Mahmudullah,35,,Suhrawadi Shuvo,1,Bangladesh,New Zealand,224,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+275,44.5,2,DR Tuffey,2010-10-14,1st,Mahmudullah,35,,Suhrawadi Shuvo,3,Bangladesh,New Zealand,226,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+276,44.6,0,DR Tuffey,2010-10-14,1st,Mahmudullah,35,,Suhrawadi Shuvo,3,Bangladesh,New Zealand,226,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+277,45.1,1,HK Bennett,2010-10-14,1st,Suhrawadi Shuvo,3,,Mahmudullah,36,Bangladesh,New Zealand,227,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+278,45.2,0,HK Bennett,2010-10-14,1st,Mahmudullah,36,,Suhrawadi Shuvo,3,Bangladesh,New Zealand,227,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+279,45.3,0,HK Bennett,2010-10-14,1st,Mahmudullah,36,,Suhrawadi Shuvo,3,Bangladesh,New Zealand,227,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+280,45.4,0,HK Bennett,2010-10-14,1st,Mahmudullah,36,,Suhrawadi Shuvo,3,Bangladesh,New Zealand,227,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+281,45.5,4,HK Bennett,2010-10-14,1st,Mahmudullah,36,,Suhrawadi Shuvo,7,Bangladesh,New Zealand,231,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+282,45.6,1,HK Bennett,2010-10-14,1st,Mahmudullah,36,,Suhrawadi Shuvo,8,Bangladesh,New Zealand,232,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+283,46.1,0,DR Tuffey,2010-10-14,1st,Mahmudullah,36,,Suhrawadi Shuvo,8,Bangladesh,New Zealand,232,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+284,46.2,0,DR Tuffey,2010-10-14,1st,Mahmudullah,36,Suhrawadi Shuvo,Suhrawadi Shuvo,8,Bangladesh,New Zealand,232,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+285,46.3,1,DR Tuffey,2010-10-14,1st,Abdur Razzak,0,,Mahmudullah,37,Bangladesh,New Zealand,233,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+286,46.4,2,DR Tuffey,2010-10-14,1st,Mahmudullah,37,,Abdur Razzak,2,Bangladesh,New Zealand,235,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+287,46.5,4,DR Tuffey,2010-10-14,1st,Mahmudullah,37,,Abdur Razzak,6,Bangladesh,New Zealand,239,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+288,46.6,0,DR Tuffey,2010-10-14,1st,Mahmudullah,37,,Abdur Razzak,6,Bangladesh,New Zealand,239,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+289,47.1,0,HK Bennett,2010-10-14,1st,Abdur Razzak,6,Mahmudullah,Mahmudullah,37,Bangladesh,New Zealand,239,New Zealand,Shere Bangla National Stadium,8,Bangladesh
+290,47.2,1,HK Bennett,2010-10-14,1st,Abdur Razzak,6,,Shafiul Islam,1,Bangladesh,New Zealand,240,New Zealand,Shere Bangla National Stadium,8,Bangladesh
+291,47.3,0,HK Bennett,2010-10-14,1st,Shafiul Islam,1,,Abdur Razzak,6,Bangladesh,New Zealand,240,New Zealand,Shere Bangla National Stadium,8,Bangladesh
+292,47.4,1,HK Bennett,2010-10-14,1st,Shafiul Islam,1,,Abdur Razzak,7,Bangladesh,New Zealand,241,New Zealand,Shere Bangla National Stadium,8,Bangladesh
+293,47.5,0,HK Bennett,2010-10-14,1st,Abdur Razzak,7,,Shafiul Islam,1,Bangladesh,New Zealand,241,New Zealand,Shere Bangla National Stadium,8,Bangladesh
+294,47.6,0,HK Bennett,2010-10-14,1st,Abdur Razzak,7,Shafiul Islam,Shafiul Islam,1,Bangladesh,New Zealand,241,New Zealand,Shere Bangla National Stadium,9,Bangladesh
+295,48.1,0,DR Tuffey,2010-10-14,1st,Rubel Hossain,0,Abdur Razzak,Abdur Razzak,7,Bangladesh,New Zealand,241,New Zealand,Shere Bangla National Stadium,10,Bangladesh
+296,0.1,0,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,0,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+297,0.2,0,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,0,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+298,0.3,2,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,2,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+299,0.4,0,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,2,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+300,0.5,0,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,2,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+301,0.6,0,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,2,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+302,1.1,3,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,5,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+303,1.2,1,Abdur Razzak,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,6,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+304,1.3,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,6,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+305,1.4,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,6,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+306,1.5,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,6,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+307,1.6,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,6,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+308,2.1,1,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,7,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+309,2.2,0,Shafiul Islam,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,7,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+310,2.3,1,Shafiul Islam,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,8,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+311,2.4,1,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,9,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+312,2.5,1,Shafiul Islam,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,10,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+313,2.6,1,Shafiul Islam,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,11,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+314,3.1,4,Abdur Razzak,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,15,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+315,3.2,1,Abdur Razzak,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,16,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+316,3.3,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,16,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+317,3.4,1,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,17,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+318,3.5,1,Abdur Razzak,2010-10-14,2nd,BJ Watling,0,,BB McCullum,0,Bangladesh,New Zealand,18,New Zealand,Shere Bangla National Stadium,0,Bangladesh
+319,3.6,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,BJ Watling,0,Bangladesh,New Zealand,18,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+320,4.1,1,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,BB McCullum,0,Bangladesh,New Zealand,19,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+321,4.2,0,Shafiul Islam,2010-10-14,2nd,BB McCullum,0,,AJ Redmond,0,Bangladesh,New Zealand,19,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+322,4.3,1,Shafiul Islam,2010-10-14,2nd,BB McCullum,0,,AJ Redmond,0,Bangladesh,New Zealand,20,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+323,4.4,2,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,BB McCullum,0,Bangladesh,New Zealand,22,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+324,4.5,1,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,BB McCullum,0,Bangladesh,New Zealand,23,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+325,4.6,0,Shafiul Islam,2010-10-14,2nd,BB McCullum,0,,AJ Redmond,0,Bangladesh,New Zealand,23,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+326,5.1,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,BB McCullum,0,Bangladesh,New Zealand,23,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+327,5.2,1,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,BB McCullum,0,Bangladesh,New Zealand,24,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+328,5.3,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,AJ Redmond,0,Bangladesh,New Zealand,24,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+329,5.4,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,AJ Redmond,0,Bangladesh,New Zealand,24,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+330,5.5,4,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,AJ Redmond,0,Bangladesh,New Zealand,28,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+331,5.6,0,Abdur Razzak,2010-10-14,2nd,BB McCullum,0,,AJ Redmond,0,Bangladesh,New Zealand,28,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+332,6.1,4,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,BB McCullum,0,Bangladesh,New Zealand,32,New Zealand,Shere Bangla National Stadium,1,Bangladesh
+333,6.2,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,BB McCullum,0,Bangladesh,New Zealand,32,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+334,6.3,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,LRPL Taylor,0,Bangladesh,New Zealand,32,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+335,6.4,3,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,LRPL Taylor,0,Bangladesh,New Zealand,35,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+336,6.5,0,Shafiul Islam,2010-10-14,2nd,LRPL Taylor,0,,AJ Redmond,0,Bangladesh,New Zealand,35,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+337,6.6,0,Shafiul Islam,2010-10-14,2nd,LRPL Taylor,0,,AJ Redmond,0,Bangladesh,New Zealand,35,New Zealand,Shere Bangla National Stadium,2,Bangladesh
+338,7.1,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,LRPL Taylor,0,Bangladesh,New Zealand,35,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+339,7.2,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,35,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+340,7.3,2,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,37,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+341,7.4,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,37,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+342,7.5,1,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,38,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+343,7.6,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,38,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+344,8.1,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,38,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+345,8.2,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,38,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+346,8.3,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,38,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+347,8.4,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,39,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+348,8.5,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,39,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+349,8.6,1,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,40,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+350,8.7,0,Shafiul Islam,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,40,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+351,9.1,1,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,41,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+352,9.2,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,42,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+353,9.3,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,42,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+354,9.4,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,42,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+355,9.5,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,42,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+356,9.6,1,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,43,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+357,10.1,2,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,45,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+358,10.2,1,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,46,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+359,10.3,0,Shafiul Islam,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,46,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+360,10.4,1,Shafiul Islam,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,47,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+361,10.5,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,47,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+362,10.6,0,Shafiul Islam,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,47,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+363,11.1,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,48,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+364,11.2,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,48,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+365,11.3,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,49,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+366,11.4,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,49,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+367,11.5,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,49,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+368,11.6,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,49,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+369,11.7,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,50,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+370,11.8,0,Abdur Razzak,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,50,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+371,12.1,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,50,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+372,12.2,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,50,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+373,12.3,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,51,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+374,12.4,0,Shakib Al Hasan,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,51,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+375,12.5,0,Shakib Al Hasan,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,51,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+376,12.6,0,Shakib Al Hasan,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,51,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+377,13.1,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,52,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+378,13.2,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,52,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+379,13.3,1,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,53,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+380,13.4,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,53,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+381,13.5,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,54,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+382,13.6,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,54,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+383,14.1,3,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,57,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+384,14.2,2,Shakib Al Hasan,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,59,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+385,14.3,1,Shakib Al Hasan,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,60,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+386,14.4,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,60,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+387,14.5,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,60,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+388,14.6,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,60,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+389,15.1,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,60,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+390,15.2,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,60,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+391,15.3,0,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,60,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+392,15.4,4,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,64,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+393,15.5,1,Suhrawadi Shuvo,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,65,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+394,15.6,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,66,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+395,16.1,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,66,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+396,16.2,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,67,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+397,16.3,1,Shakib Al Hasan,2010-10-14,2nd,AJ Redmond,0,,KS Williamson,0,Bangladesh,New Zealand,68,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+398,16.4,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,68,New Zealand,Shere Bangla National Stadium,3,Bangladesh
+399,16.5,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,AJ Redmond,0,Bangladesh,New Zealand,68,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+400,16.6,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,68,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+401,17.1,1,Suhrawadi Shuvo,2010-10-14,2nd,DL Vettori,0,,KS Williamson,0,Bangladesh,New Zealand,69,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+402,17.2,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,69,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+403,17.3,2,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,71,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+404,17.4,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,71,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+405,17.5,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,72,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+406,17.6,2,Suhrawadi Shuvo,2010-10-14,2nd,DL Vettori,0,,KS Williamson,0,Bangladesh,New Zealand,74,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+407,18.1,0,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,74,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+408,18.2,2,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,76,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+409,18.3,0,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,76,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+410,18.4,0,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,76,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+411,18.5,1,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+412,18.6,0,Mahmudullah,2010-10-14,2nd,DL Vettori,0,,KS Williamson,0,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+413,19.1,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+414,19.2,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,77,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+415,19.3,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,78,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+416,19.4,1,Suhrawadi Shuvo,2010-10-14,2nd,DL Vettori,0,,KS Williamson,0,Bangladesh,New Zealand,79,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+417,19.5,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,80,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+418,19.6,0,Suhrawadi Shuvo,2010-10-14,2nd,DL Vettori,0,,KS Williamson,0,Bangladesh,New Zealand,80,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+419,20.1,0,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,80,New Zealand,Shere Bangla National Stadium,4,Bangladesh
+420,20.2,0,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,DL Vettori,0,Bangladesh,New Zealand,80,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+421,20.3,1,Mahmudullah,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,81,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+422,20.4,0,Mahmudullah,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,81,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+423,20.5,0,Mahmudullah,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,81,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+424,20.6,1,Mahmudullah,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,82,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+425,21.1,0,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,82,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+426,21.2,6,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,88,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+427,21.3,6,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,94,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+428,21.4,1,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,95,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+429,21.5,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,95,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+430,21.6,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,95,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+431,22.1,1,Suhrawadi Shuvo,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,96,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+432,22.2,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,96,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+433,22.3,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,96,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+434,22.4,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,97,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+435,22.5,1,Suhrawadi Shuvo,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,98,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+436,22.6,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,98,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+437,23.1,0,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,98,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+438,23.2,1,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,99,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+439,23.3,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,99,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+440,23.4,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,99,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+441,23.5,4,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,103,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+442,23.6,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,104,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+443,24.1,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,105,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+444,24.2,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,105,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+445,24.3,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,105,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+446,24.4,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,105,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+447,24.5,2,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,107,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+448,24.6,1,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,108,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+449,25.1,1,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,109,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+450,25.2,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,109,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+451,25.3,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,110,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+452,25.4,0,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,110,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+453,25.5,1,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,111,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+454,25.6,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,112,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+455,26.1,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,112,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+456,26.2,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,113,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+457,26.3,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,113,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+458,26.4,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,113,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+459,26.5,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,113,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+460,26.6,1,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,114,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+461,27.1,0,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,114,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+462,27.2,0,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,114,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+463,27.3,1,Shakib Al Hasan,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,115,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+464,27.4,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,115,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+465,27.5,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,115,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+466,27.6,2,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,117,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+467,28.1,1,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,118,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+468,28.2,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,118,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+469,28.3,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,119,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+470,28.4,2,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,121,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+471,28.5,1,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,122,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+472,28.6,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,122,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+473,29.1,0,Abdur Razzak,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,122,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+474,29.2,1,Abdur Razzak,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,123,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+475,29.3,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,123,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+476,29.4,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,124,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+477,29.5,0,Abdur Razzak,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,124,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+478,29.6,1,Abdur Razzak,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+479,30.1,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+480,30.2,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+481,30.3,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+482,30.4,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+483,30.5,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,125,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+484,30.6,4,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,129,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+485,31.1,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,129,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+486,31.2,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,130,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+487,31.3,1,Abdur Razzak,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,131,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+488,31.4,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,131,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+489,31.5,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,132,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+490,31.6,1,Abdur Razzak,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,133,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+491,32.1,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,133,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+492,32.2,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,133,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+493,32.3,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,133,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+494,32.4,1,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,134,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+495,32.5,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,135,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+496,32.6,0,Rubel Hossain,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,135,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+497,33.1,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,135,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+498,33.2,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,136,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+499,33.3,1,Abdur Razzak,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,137,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+500,33.4,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,137,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+501,33.5,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,137,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+502,33.6,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,138,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+503,34.1,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,138,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+504,34.2,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,139,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+505,34.3,2,Suhrawadi Shuvo,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,141,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+506,34.4,0,Suhrawadi Shuvo,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,141,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+507,34.5,1,Suhrawadi Shuvo,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,142,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+508,34.6,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,142,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+509,35.1,1,Shafiul Islam,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,143,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+510,35.2,1,Shafiul Islam,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,144,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+511,35.3,1,Shafiul Islam,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,145,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+512,35.4,0,Shafiul Islam,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,145,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+513,35.5,1,Shafiul Islam,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,146,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+514,35.6,4,Shafiul Islam,2010-10-14,2nd,GD Elliott,0,,KS Williamson,0,Bangladesh,New Zealand,150,New Zealand,Shere Bangla National Stadium,5,Bangladesh
+515,36.1,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,GD Elliott,0,Bangladesh,New Zealand,150,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+516,36.2,1,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,151,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+517,36.3,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,151,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+518,36.4,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,152,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+519,36.5,0,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,152,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+520,36.6,1,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,153,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+521,37.1,1,Rubel Hossain,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,154,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+522,37.2,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,155,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+523,37.3,1,Rubel Hossain,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,156,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+524,37.4,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,157,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+525,37.5,0,Rubel Hossain,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,157,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+526,37.6,1,Rubel Hossain,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,158,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+527,38.1,2,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,160,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+528,38.2,4,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,164,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+529,38.3,0,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,164,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+530,38.4,0,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,164,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+531,38.5,1,Shakib Al Hasan,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,165,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+532,38.6,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,166,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+533,39.1,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,167,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+534,39.2,0,Rubel Hossain,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,167,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+535,39.3,0,Rubel Hossain,2010-10-14,2nd,KD Mills,0,,KS Williamson,0,Bangladesh,New Zealand,168,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+536,39.4,4,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,172,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+537,39.5,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,172,New Zealand,Shere Bangla National Stadium,6,Bangladesh
+538,39.6,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,KD Mills,0,Bangladesh,New Zealand,172,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+539,40.1,3,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,175,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+540,40.2,1,Suhrawadi Shuvo,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,176,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+541,40.3,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,176,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+542,40.4,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,177,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+543,40.5,1,Suhrawadi Shuvo,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,178,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+544,40.6,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,178,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+545,41.1,0,Abdur Razzak,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,178,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+546,41.2,0,Abdur Razzak,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,178,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+547,41.3,2,Abdur Razzak,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,180,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+548,41.4,0,Abdur Razzak,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,180,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+549,41.5,1,Abdur Razzak,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,181,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+550,41.6,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,181,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+551,42.1,1,Suhrawadi Shuvo,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,182,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+552,42.2,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,183,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+553,42.3,1,Suhrawadi Shuvo,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,184,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+554,42.4,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,184,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+555,42.5,0,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,184,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+556,42.6,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,185,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+557,43.1,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,185,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+558,43.2,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,185,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+559,43.3,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+560,43.4,0,Rubel Hossain,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,186,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+561,43.5,1,Rubel Hossain,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,187,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+562,43.6,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,188,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+563,44.1,2,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,190,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+564,44.2,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,191,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+565,44.3,1,Suhrawadi Shuvo,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,192,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+566,44.4,2,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,194,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+567,44.5,1,Suhrawadi Shuvo,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,195,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+568,44.6,2,Suhrawadi Shuvo,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,197,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+569,45.1,2,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,199,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+570,45.2,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,199,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+571,45.3,2,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,201,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+572,45.4,2,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,203,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+573,45.5,0,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,203,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+574,45.6,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,204,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+575,46.1,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,204,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+576,46.2,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,204,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+577,46.3,1,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,205,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+578,46.4,4,Abdur Razzak,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,209,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+579,46.5,1,Abdur Razzak,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,210,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+580,46.6,0,Abdur Razzak,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,210,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+581,47.1,1,Rubel Hossain,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,211,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+582,47.2,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,212,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+583,47.3,2,Rubel Hossain,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,214,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+584,47.4,0,Rubel Hossain,2010-10-14,2nd,NL McCullum,0,,KS Williamson,0,Bangladesh,New Zealand,215,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+585,47.5,2,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,217,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+586,47.6,1,Rubel Hossain,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,218,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+587,48.1,4,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,222,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+588,48.2,2,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,224,New Zealand,Shere Bangla National Stadium,7,Bangladesh
+589,48.3,1,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,NL McCullum,0,Bangladesh,New Zealand,225,New Zealand,Shere Bangla National Stadium,8,Bangladesh
+590,48.4,0,Shakib Al Hasan,2010-10-14,2nd,KS Williamson,0,,DR Tuffey,0,Bangladesh,New Zealand,225,New Zealand,Shere Bangla National Stadium,9,Bangladesh
+591,48.5,0,Shakib Al Hasan,2010-10-14,2nd,HK Bennett,0,,KS Williamson,0,Bangladesh,New Zealand,225,New Zealand,Shere Bangla National Stadium,9,Bangladesh
+592,48.6,1,Shakib Al Hasan,2010-10-14,2nd,HK Bennett,0,,KS Williamson,0,Bangladesh,New Zealand,226,New Zealand,Shere Bangla National Stadium,9,Bangladesh
+593,49.1,2,Shafiul Islam,2010-10-14,2nd,HK Bennett,0,,KS Williamson,0,Bangladesh,New Zealand,228,New Zealand,Shere Bangla National Stadium,9,Bangladesh
+594,49.2,4,Shafiul Islam,2010-10-14,2nd,HK Bennett,0,,KS Williamson,0,Bangladesh,New Zealand,232,New Zealand,Shere Bangla National Stadium,9,Bangladesh
+595,49.3,0,Shafiul Islam,2010-10-14,2nd,HK Bennett,0,,KS Williamson,0,Bangladesh,New Zealand,232,New Zealand,Shere Bangla National Stadium,10,Bangladesh

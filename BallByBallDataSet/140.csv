@@ -1,0 +1,607 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Umar Gul,2006-12-07,1st,CH Gayle,0,,LMP Simmons,0,Pakistan,West Indies,0,Pakistan,Iqbal Stadium,0,Pakistan
+1,0.2,0,Umar Gul,2006-12-07,1st,CH Gayle,0,LMP Simmons,LMP Simmons,0,Pakistan,West Indies,0,Pakistan,Iqbal Stadium,1,Pakistan
+2,0.3,0,Umar Gul,2006-12-07,1st,CH Gayle,0,,D Ganga,0,Pakistan,West Indies,0,Pakistan,Iqbal Stadium,1,Pakistan
+3,0.4,1,Umar Gul,2006-12-07,1st,CH Gayle,0,,D Ganga,1,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+4,0.5,0,Umar Gul,2006-12-07,1st,D Ganga,1,,CH Gayle,0,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+5,0.6,0,Umar Gul,2006-12-07,1st,D Ganga,1,,CH Gayle,0,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+6,1.1,0,Naved-ul-Hasan,2006-12-07,1st,CH Gayle,0,,D Ganga,1,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+7,1.2,0,Naved-ul-Hasan,2006-12-07,1st,CH Gayle,0,,D Ganga,1,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+8,1.3,0,Naved-ul-Hasan,2006-12-07,1st,CH Gayle,0,,D Ganga,1,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+9,1.4,1,Naved-ul-Hasan,2006-12-07,1st,CH Gayle,0,,D Ganga,2,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,1,Pakistan
+10,1.5,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,2,,CH Gayle,0,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,1,Pakistan
+11,1.6,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,2,CH Gayle,CH Gayle,0,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,2,Pakistan
+12,2.1,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,2,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,2,Pakistan
+13,2.2,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,2,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,2,Pakistan
+14,2.3,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,2,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,2,Pakistan
+15,2.4,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,2,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,2,Pakistan
+16,2.5,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,2,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,2,Pakistan
+17,2.6,1,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,3,Pakistan,West Indies,3,Pakistan,Iqbal Stadium,2,Pakistan
+18,3.1,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,0,,D Ganga,3,Pakistan,West Indies,3,Pakistan,Iqbal Stadium,2,Pakistan
+19,3.2,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,0,,D Ganga,3,Pakistan,West Indies,4,Pakistan,Iqbal Stadium,2,Pakistan
+20,3.3,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,0,,D Ganga,3,Pakistan,West Indies,4,Pakistan,Iqbal Stadium,2,Pakistan
+21,3.4,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,0,,D Ganga,3,Pakistan,West Indies,4,Pakistan,Iqbal Stadium,2,Pakistan
+22,3.5,1,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,0,,D Ganga,4,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+23,3.6,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,4,,MN Samuels,0,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+24,3.7,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,4,,MN Samuels,0,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+25,4.1,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,4,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+26,4.2,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,4,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+27,4.3,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,4,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+28,4.4,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,4,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+29,4.5,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,4,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+30,4.6,0,Umar Gul,2006-12-07,1st,MN Samuels,0,,D Ganga,4,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+31,5.1,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,4,,MN Samuels,0,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+32,5.2,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,4,,MN Samuels,0,Pakistan,West Indies,5,Pakistan,Iqbal Stadium,2,Pakistan
+33,5.3,1,Naved-ul-Hasan,2006-12-07,1st,D Ganga,4,,MN Samuels,1,Pakistan,West Indies,6,Pakistan,Iqbal Stadium,2,Pakistan
+34,5.4,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,4,Pakistan,West Indies,7,Pakistan,Iqbal Stadium,2,Pakistan
+35,5.5,3,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,7,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,2,Pakistan
+36,5.6,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,7,,MN Samuels,1,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,2,Pakistan
+37,5.7,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,7,,MN Samuels,1,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,2,Pakistan
+38,6.1,0,Umar Gul,2006-12-07,1st,MN Samuels,1,,D Ganga,7,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,2,Pakistan
+39,6.2,0,Umar Gul,2006-12-07,1st,MN Samuels,1,,D Ganga,7,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,2,Pakistan
+40,6.3,0,Umar Gul,2006-12-07,1st,MN Samuels,1,,D Ganga,7,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,2,Pakistan
+41,6.4,0,Umar Gul,2006-12-07,1st,MN Samuels,1,,D Ganga,7,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,2,Pakistan
+42,6.5,0,Umar Gul,2006-12-07,1st,MN Samuels,1,,D Ganga,7,Pakistan,West Indies,11,Pakistan,Iqbal Stadium,2,Pakistan
+43,6.6,0,Umar Gul,2006-12-07,1st,D Ganga,7,,MN Samuels,1,Pakistan,West Indies,11,Pakistan,Iqbal Stadium,2,Pakistan
+44,7.1,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,7,Pakistan,West Indies,11,Pakistan,Iqbal Stadium,2,Pakistan
+45,7.2,4,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,11,Pakistan,West Indies,15,Pakistan,Iqbal Stadium,2,Pakistan
+46,7.3,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,11,Pakistan,West Indies,15,Pakistan,Iqbal Stadium,2,Pakistan
+47,7.4,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,11,Pakistan,West Indies,15,Pakistan,Iqbal Stadium,2,Pakistan
+48,7.5,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,11,Pakistan,West Indies,16,Pakistan,Iqbal Stadium,2,Pakistan
+49,7.6,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,11,Pakistan,West Indies,16,Pakistan,Iqbal Stadium,2,Pakistan
+50,7.7,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,1,,D Ganga,11,Pakistan,West Indies,16,Pakistan,Iqbal Stadium,2,Pakistan
+51,8.1,1,Umar Gul,2006-12-07,1st,D Ganga,11,,MN Samuels,2,Pakistan,West Indies,17,Pakistan,Iqbal Stadium,2,Pakistan
+52,8.2,1,Umar Gul,2006-12-07,1st,MN Samuels,2,,D Ganga,12,Pakistan,West Indies,18,Pakistan,Iqbal Stadium,2,Pakistan
+53,8.3,0,Umar Gul,2006-12-07,1st,D Ganga,12,,MN Samuels,2,Pakistan,West Indies,18,Pakistan,Iqbal Stadium,2,Pakistan
+54,8.4,0,Umar Gul,2006-12-07,1st,D Ganga,12,,MN Samuels,2,Pakistan,West Indies,18,Pakistan,Iqbal Stadium,2,Pakistan
+55,8.5,2,Umar Gul,2006-12-07,1st,D Ganga,12,,MN Samuels,4,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,2,Pakistan
+56,8.6,0,Umar Gul,2006-12-07,1st,D Ganga,12,,MN Samuels,4,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,2,Pakistan
+57,9.1,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,4,,D Ganga,12,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,2,Pakistan
+58,9.2,1,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,4,,D Ganga,13,Pakistan,West Indies,21,Pakistan,Iqbal Stadium,2,Pakistan
+59,9.3,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,13,,MN Samuels,4,Pakistan,West Indies,21,Pakistan,Iqbal Stadium,2,Pakistan
+60,9.4,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,13,,MN Samuels,4,Pakistan,West Indies,22,Pakistan,Iqbal Stadium,2,Pakistan
+61,9.5,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,13,,MN Samuels,4,Pakistan,West Indies,22,Pakistan,Iqbal Stadium,2,Pakistan
+62,9.6,1,Naved-ul-Hasan,2006-12-07,1st,D Ganga,13,,MN Samuels,5,Pakistan,West Indies,23,Pakistan,Iqbal Stadium,2,Pakistan
+63,9.7,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,5,,D Ganga,13,Pakistan,West Indies,23,Pakistan,Iqbal Stadium,2,Pakistan
+64,10.1,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,5,Pakistan,West Indies,23,Pakistan,Iqbal Stadium,2,Pakistan
+65,10.2,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,5,Pakistan,West Indies,23,Pakistan,Iqbal Stadium,2,Pakistan
+66,10.3,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,5,Pakistan,West Indies,23,Pakistan,Iqbal Stadium,2,Pakistan
+67,10.4,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,5,Pakistan,West Indies,23,Pakistan,Iqbal Stadium,2,Pakistan
+68,10.5,2,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,7,Pakistan,West Indies,25,Pakistan,Iqbal Stadium,2,Pakistan
+69,10.6,1,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,8,Pakistan,West Indies,26,Pakistan,Iqbal Stadium,2,Pakistan
+70,11.1,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,13,,MN Samuels,8,Pakistan,West Indies,26,Pakistan,Iqbal Stadium,2,Pakistan
+71,11.2,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,13,,MN Samuels,8,Pakistan,West Indies,26,Pakistan,Iqbal Stadium,2,Pakistan
+72,11.3,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,13,,MN Samuels,8,Pakistan,West Indies,26,Pakistan,Iqbal Stadium,2,Pakistan
+73,11.4,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,13,,MN Samuels,8,Pakistan,West Indies,26,Pakistan,Iqbal Stadium,2,Pakistan
+74,11.5,1,Iftikhar Anjum,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,27,Pakistan,Iqbal Stadium,2,Pakistan
+75,11.6,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,13,Pakistan,West Indies,27,Pakistan,Iqbal Stadium,2,Pakistan
+76,12.1,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,27,Pakistan,Iqbal Stadium,2,Pakistan
+77,12.2,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,2,Pakistan
+78,12.3,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,2,Pakistan
+79,12.4,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,2,Pakistan
+80,12.5,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,2,Pakistan
+81,12.6,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,2,Pakistan
+82,12.7,0,Umar Gul,2006-12-07,1st,D Ganga,13,,MN Samuels,9,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,2,Pakistan
+83,13.1,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,13,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,2,Pakistan
+84,13.2,2,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,15,Pakistan,West Indies,30,Pakistan,Iqbal Stadium,2,Pakistan
+85,13.3,2,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,17,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+86,13.4,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,17,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+87,13.5,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,17,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+88,13.6,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,17,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+89,14.1,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,17,,MN Samuels,9,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+90,14.2,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,17,,MN Samuels,9,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+91,14.3,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,17,,MN Samuels,9,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+92,14.4,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,17,,MN Samuels,9,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+93,14.5,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,17,,MN Samuels,9,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+94,14.6,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,17,,MN Samuels,9,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+95,15.1,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,17,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+96,15.2,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,17,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+97,15.3,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,17,Pakistan,West Indies,32,Pakistan,Iqbal Stadium,2,Pakistan
+98,15.4,1,Iftikhar Anjum,2006-12-07,1st,MN Samuels,9,,D Ganga,18,Pakistan,West Indies,33,Pakistan,Iqbal Stadium,2,Pakistan
+99,15.5,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,18,,MN Samuels,9,Pakistan,West Indies,33,Pakistan,Iqbal Stadium,2,Pakistan
+100,15.6,1,Iftikhar Anjum,2006-12-07,1st,D Ganga,18,,MN Samuels,10,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,2,Pakistan
+101,16.1,1,Naved-ul-Hasan,2006-12-07,1st,D Ganga,18,,MN Samuels,11,Pakistan,West Indies,35,Pakistan,Iqbal Stadium,2,Pakistan
+102,16.2,1,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,11,,D Ganga,19,Pakistan,West Indies,36,Pakistan,Iqbal Stadium,2,Pakistan
+103,16.3,0,Naved-ul-Hasan,2006-12-07,1st,D Ganga,19,,MN Samuels,11,Pakistan,West Indies,36,Pakistan,Iqbal Stadium,2,Pakistan
+104,16.4,1,Naved-ul-Hasan,2006-12-07,1st,D Ganga,19,,MN Samuels,12,Pakistan,West Indies,37,Pakistan,Iqbal Stadium,2,Pakistan
+105,16.5,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,12,,D Ganga,19,Pakistan,West Indies,37,Pakistan,Iqbal Stadium,2,Pakistan
+106,16.6,0,Naved-ul-Hasan,2006-12-07,1st,MN Samuels,12,,D Ganga,19,Pakistan,West Indies,37,Pakistan,Iqbal Stadium,2,Pakistan
+107,17.1,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,19,,MN Samuels,12,Pakistan,West Indies,37,Pakistan,Iqbal Stadium,2,Pakistan
+108,17.2,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,19,,MN Samuels,12,Pakistan,West Indies,37,Pakistan,Iqbal Stadium,2,Pakistan
+109,17.3,2,Iftikhar Anjum,2006-12-07,1st,D Ganga,19,,MN Samuels,14,Pakistan,West Indies,39,Pakistan,Iqbal Stadium,2,Pakistan
+110,17.4,1,Iftikhar Anjum,2006-12-07,1st,D Ganga,19,,MN Samuels,15,Pakistan,West Indies,40,Pakistan,Iqbal Stadium,2,Pakistan
+111,17.5,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,15,,D Ganga,19,Pakistan,West Indies,40,Pakistan,Iqbal Stadium,2,Pakistan
+112,17.6,1,Iftikhar Anjum,2006-12-07,1st,MN Samuels,15,,D Ganga,20,Pakistan,West Indies,41,Pakistan,Iqbal Stadium,2,Pakistan
+113,18.1,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,15,,D Ganga,20,Pakistan,West Indies,41,Pakistan,Iqbal Stadium,2,Pakistan
+114,18.2,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,15,,D Ganga,20,Pakistan,West Indies,41,Pakistan,Iqbal Stadium,2,Pakistan
+115,18.3,1,Abdul Razzaq,2006-12-07,1st,MN Samuels,15,,D Ganga,21,Pakistan,West Indies,42,Pakistan,Iqbal Stadium,2,Pakistan
+116,18.4,0,Abdul Razzaq,2006-12-07,1st,D Ganga,21,,MN Samuels,15,Pakistan,West Indies,42,Pakistan,Iqbal Stadium,2,Pakistan
+117,18.5,0,Abdul Razzaq,2006-12-07,1st,D Ganga,21,,MN Samuels,15,Pakistan,West Indies,42,Pakistan,Iqbal Stadium,2,Pakistan
+118,18.6,1,Abdul Razzaq,2006-12-07,1st,D Ganga,21,,MN Samuels,16,Pakistan,West Indies,43,Pakistan,Iqbal Stadium,2,Pakistan
+119,19.1,0,Iftikhar Anjum,2006-12-07,1st,D Ganga,21,,MN Samuels,16,Pakistan,West Indies,43,Pakistan,Iqbal Stadium,2,Pakistan
+120,19.2,4,Iftikhar Anjum,2006-12-07,1st,D Ganga,21,,MN Samuels,20,Pakistan,West Indies,47,Pakistan,Iqbal Stadium,2,Pakistan
+121,19.3,1,Iftikhar Anjum,2006-12-07,1st,D Ganga,21,,MN Samuels,21,Pakistan,West Indies,48,Pakistan,Iqbal Stadium,2,Pakistan
+122,19.4,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,21,,D Ganga,21,Pakistan,West Indies,48,Pakistan,Iqbal Stadium,2,Pakistan
+123,19.5,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,21,D Ganga,D Ganga,21,Pakistan,West Indies,48,Pakistan,Iqbal Stadium,3,Pakistan
+124,19.6,1,Iftikhar Anjum,2006-12-07,1st,MN Samuels,21,,BC Lara,1,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,3,Pakistan
+125,20.1,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,21,,BC Lara,1,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,3,Pakistan
+126,20.2,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,21,,BC Lara,1,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,3,Pakistan
+127,20.3,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,21,,BC Lara,1,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,3,Pakistan
+128,20.4,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,21,,BC Lara,1,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,3,Pakistan
+129,20.5,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,21,,BC Lara,1,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,3,Pakistan
+130,20.6,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,21,,BC Lara,1,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,3,Pakistan
+131,21.1,2,Iftikhar Anjum,2006-12-07,1st,BC Lara,1,,MN Samuels,23,Pakistan,West Indies,51,Pakistan,Iqbal Stadium,3,Pakistan
+132,21.2,1,Iftikhar Anjum,2006-12-07,1st,BC Lara,1,,MN Samuels,24,Pakistan,West Indies,52,Pakistan,Iqbal Stadium,3,Pakistan
+133,21.3,3,Iftikhar Anjum,2006-12-07,1st,MN Samuels,24,,BC Lara,4,Pakistan,West Indies,55,Pakistan,Iqbal Stadium,3,Pakistan
+134,21.4,1,Iftikhar Anjum,2006-12-07,1st,BC Lara,4,,MN Samuels,25,Pakistan,West Indies,56,Pakistan,Iqbal Stadium,3,Pakistan
+135,21.5,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,25,,BC Lara,4,Pakistan,West Indies,56,Pakistan,Iqbal Stadium,3,Pakistan
+136,21.6,0,Iftikhar Anjum,2006-12-07,1st,MN Samuels,25,,BC Lara,4,Pakistan,West Indies,56,Pakistan,Iqbal Stadium,3,Pakistan
+137,22.1,0,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,25,Pakistan,West Indies,56,Pakistan,Iqbal Stadium,3,Pakistan
+138,22.2,1,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,26,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+139,22.3,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,26,,BC Lara,4,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+140,22.4,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,26,,BC Lara,4,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+141,22.5,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,26,,BC Lara,4,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+142,22.6,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,26,,BC Lara,4,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+143,23.1,0,Abdur Rehman,2006-12-07,1st,BC Lara,4,,MN Samuels,26,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+144,23.2,0,Abdur Rehman,2006-12-07,1st,BC Lara,4,,MN Samuels,26,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+145,23.3,0,Abdur Rehman,2006-12-07,1st,BC Lara,4,,MN Samuels,26,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+146,23.4,0,Abdur Rehman,2006-12-07,1st,BC Lara,4,,MN Samuels,26,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+147,23.5,0,Abdur Rehman,2006-12-07,1st,BC Lara,4,,MN Samuels,26,Pakistan,West Indies,57,Pakistan,Iqbal Stadium,3,Pakistan
+148,23.6,1,Abdur Rehman,2006-12-07,1st,BC Lara,4,,MN Samuels,27,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+149,24.1,0,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,27,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+150,24.2,0,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,27,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+151,24.3,0,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,27,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+152,24.4,0,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,27,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+153,24.5,2,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,29,Pakistan,West Indies,60,Pakistan,Iqbal Stadium,3,Pakistan
+154,24.6,0,Abdul Razzaq,2006-12-07,1st,BC Lara,4,,MN Samuels,29,Pakistan,West Indies,60,Pakistan,Iqbal Stadium,3,Pakistan
+155,25.1,1,Abdur Rehman,2006-12-07,1st,MN Samuels,29,,BC Lara,5,Pakistan,West Indies,61,Pakistan,Iqbal Stadium,3,Pakistan
+156,25.2,0,Abdur Rehman,2006-12-07,1st,BC Lara,5,,MN Samuels,29,Pakistan,West Indies,61,Pakistan,Iqbal Stadium,3,Pakistan
+157,25.3,1,Abdur Rehman,2006-12-07,1st,BC Lara,5,,MN Samuels,30,Pakistan,West Indies,62,Pakistan,Iqbal Stadium,3,Pakistan
+158,25.4,0,Abdur Rehman,2006-12-07,1st,MN Samuels,30,,BC Lara,5,Pakistan,West Indies,62,Pakistan,Iqbal Stadium,3,Pakistan
+159,25.5,0,Abdur Rehman,2006-12-07,1st,MN Samuels,30,,BC Lara,5,Pakistan,West Indies,62,Pakistan,Iqbal Stadium,3,Pakistan
+160,25.6,3,Abdur Rehman,2006-12-07,1st,MN Samuels,30,,BC Lara,8,Pakistan,West Indies,65,Pakistan,Iqbal Stadium,3,Pakistan
+161,26.1,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,30,,BC Lara,8,Pakistan,West Indies,65,Pakistan,Iqbal Stadium,3,Pakistan
+162,26.2,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,30,,BC Lara,8,Pakistan,West Indies,65,Pakistan,Iqbal Stadium,3,Pakistan
+163,26.3,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,30,,BC Lara,8,Pakistan,West Indies,65,Pakistan,Iqbal Stadium,3,Pakistan
+164,26.4,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,30,,BC Lara,8,Pakistan,West Indies,65,Pakistan,Iqbal Stadium,3,Pakistan
+165,26.5,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,30,,BC Lara,8,Pakistan,West Indies,65,Pakistan,Iqbal Stadium,3,Pakistan
+166,26.6,4,Abdul Razzaq,2006-12-07,1st,MN Samuels,30,,BC Lara,12,Pakistan,West Indies,69,Pakistan,Iqbal Stadium,3,Pakistan
+167,27.1,0,Abdur Rehman,2006-12-07,1st,BC Lara,12,,MN Samuels,30,Pakistan,West Indies,69,Pakistan,Iqbal Stadium,3,Pakistan
+168,27.2,1,Abdur Rehman,2006-12-07,1st,BC Lara,12,,MN Samuels,31,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+169,27.3,0,Abdur Rehman,2006-12-07,1st,MN Samuels,31,,BC Lara,12,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+170,27.4,0,Abdur Rehman,2006-12-07,1st,MN Samuels,31,,BC Lara,12,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+171,27.5,0,Abdur Rehman,2006-12-07,1st,MN Samuels,31,,BC Lara,12,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+172,27.6,1,Abdur Rehman,2006-12-07,1st,MN Samuels,31,,BC Lara,13,Pakistan,West Indies,71,Pakistan,Iqbal Stadium,3,Pakistan
+173,28.1,1,Abdul Razzaq,2006-12-07,1st,MN Samuels,31,,BC Lara,14,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,3,Pakistan
+174,28.2,0,Abdul Razzaq,2006-12-07,1st,BC Lara,14,,MN Samuels,31,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,3,Pakistan
+175,28.3,0,Abdul Razzaq,2006-12-07,1st,BC Lara,14,BC Lara,MN Samuels,31,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,4,Pakistan
+176,28.4,0,Abdul Razzaq,2006-12-07,1st,DR Smith,0,,MN Samuels,31,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,4,Pakistan
+177,28.5,0,Abdul Razzaq,2006-12-07,1st,DR Smith,0,,MN Samuels,31,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,4,Pakistan
+178,28.6,4,Abdul Razzaq,2006-12-07,1st,DR Smith,0,,MN Samuels,35,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,4,Pakistan
+179,29.1,0,Abdur Rehman,2006-12-07,1st,MN Samuels,35,,DR Smith,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,4,Pakistan
+180,29.2,0,Abdur Rehman,2006-12-07,1st,MN Samuels,35,,DR Smith,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,4,Pakistan
+181,29.3,0,Abdur Rehman,2006-12-07,1st,MN Samuels,35,DR Smith,DR Smith,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,5,Pakistan
+182,29.4,0,Abdur Rehman,2006-12-07,1st,MN Samuels,35,,RS Morton,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,5,Pakistan
+183,29.5,0,Abdur Rehman,2006-12-07,1st,MN Samuels,35,,RS Morton,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,5,Pakistan
+184,29.6,0,Abdur Rehman,2006-12-07,1st,MN Samuels,35,,RS Morton,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,5,Pakistan
+185,30.1,0,Abdul Razzaq,2006-12-07,1st,RS Morton,0,,MN Samuels,35,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,5,Pakistan
+186,30.2,1,Abdul Razzaq,2006-12-07,1st,RS Morton,0,,MN Samuels,36,Pakistan,West Indies,77,Pakistan,Iqbal Stadium,5,Pakistan
+187,30.3,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,36,,RS Morton,0,Pakistan,West Indies,77,Pakistan,Iqbal Stadium,5,Pakistan
+188,30.4,1,Abdul Razzaq,2006-12-07,1st,MN Samuels,36,,RS Morton,1,Pakistan,West Indies,78,Pakistan,Iqbal Stadium,5,Pakistan
+189,30.5,1,Abdul Razzaq,2006-12-07,1st,RS Morton,1,,MN Samuels,37,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,5,Pakistan
+190,30.6,0,Abdul Razzaq,2006-12-07,1st,MN Samuels,37,,RS Morton,1,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,5,Pakistan
+191,31.1,0,Abdur Rehman,2006-12-07,1st,RS Morton,1,,MN Samuels,37,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,5,Pakistan
+192,31.2,0,Abdur Rehman,2006-12-07,1st,RS Morton,1,,MN Samuels,37,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,5,Pakistan
+193,31.3,0,Abdur Rehman,2006-12-07,1st,RS Morton,1,MN Samuels,MN Samuels,37,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+194,31.4,0,Abdur Rehman,2006-12-07,1st,RS Morton,1,,D Ramdin,0,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+195,31.5,0,Abdur Rehman,2006-12-07,1st,RS Morton,1,,D Ramdin,0,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+196,31.6,0,Abdur Rehman,2006-12-07,1st,RS Morton,1,,D Ramdin,0,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+197,32.1,0,Umar Gul,2006-12-07,1st,D Ramdin,0,,RS Morton,1,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+198,32.2,0,Umar Gul,2006-12-07,1st,D Ramdin,0,,RS Morton,1,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+199,32.3,0,Umar Gul,2006-12-07,1st,D Ramdin,0,,RS Morton,1,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+200,32.4,0,Umar Gul,2006-12-07,1st,D Ramdin,0,,RS Morton,1,Pakistan,West Indies,79,Pakistan,Iqbal Stadium,6,Pakistan
+201,32.5,4,Umar Gul,2006-12-07,1st,D Ramdin,0,,RS Morton,5,Pakistan,West Indies,83,Pakistan,Iqbal Stadium,6,Pakistan
+202,32.6,0,Umar Gul,2006-12-07,1st,D Ramdin,0,,RS Morton,5,Pakistan,West Indies,83,Pakistan,Iqbal Stadium,6,Pakistan
+203,33.1,0,Abdur Rehman,2006-12-07,1st,RS Morton,5,,D Ramdin,0,Pakistan,West Indies,83,Pakistan,Iqbal Stadium,6,Pakistan
+204,33.2,0,Abdur Rehman,2006-12-07,1st,RS Morton,5,,D Ramdin,0,Pakistan,West Indies,83,Pakistan,Iqbal Stadium,6,Pakistan
+205,33.3,0,Abdur Rehman,2006-12-07,1st,RS Morton,5,,D Ramdin,0,Pakistan,West Indies,83,Pakistan,Iqbal Stadium,6,Pakistan
+206,33.4,1,Abdur Rehman,2006-12-07,1st,RS Morton,5,,D Ramdin,1,Pakistan,West Indies,84,Pakistan,Iqbal Stadium,6,Pakistan
+207,33.5,0,Abdur Rehman,2006-12-07,1st,D Ramdin,1,,RS Morton,5,Pakistan,West Indies,84,Pakistan,Iqbal Stadium,6,Pakistan
+208,33.6,1,Abdur Rehman,2006-12-07,1st,D Ramdin,1,,RS Morton,6,Pakistan,West Indies,85,Pakistan,Iqbal Stadium,6,Pakistan
+209,34.1,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,1,,RS Morton,6,Pakistan,West Indies,85,Pakistan,Iqbal Stadium,6,Pakistan
+210,34.2,1,Mohammad Hafeez,2006-12-07,1st,D Ramdin,1,,RS Morton,7,Pakistan,West Indies,86,Pakistan,Iqbal Stadium,6,Pakistan
+211,34.3,0,Mohammad Hafeez,2006-12-07,1st,RS Morton,7,,D Ramdin,1,Pakistan,West Indies,86,Pakistan,Iqbal Stadium,6,Pakistan
+212,34.4,0,Mohammad Hafeez,2006-12-07,1st,RS Morton,7,,D Ramdin,1,Pakistan,West Indies,86,Pakistan,Iqbal Stadium,6,Pakistan
+213,34.5,0,Mohammad Hafeez,2006-12-07,1st,RS Morton,7,,D Ramdin,1,Pakistan,West Indies,86,Pakistan,Iqbal Stadium,6,Pakistan
+214,34.6,1,Mohammad Hafeez,2006-12-07,1st,RS Morton,7,,D Ramdin,2,Pakistan,West Indies,87,Pakistan,Iqbal Stadium,6,Pakistan
+215,35.1,1,Abdur Rehman,2006-12-07,1st,RS Morton,7,,D Ramdin,3,Pakistan,West Indies,88,Pakistan,Iqbal Stadium,6,Pakistan
+216,35.2,0,Abdur Rehman,2006-12-07,1st,D Ramdin,3,,RS Morton,7,Pakistan,West Indies,88,Pakistan,Iqbal Stadium,6,Pakistan
+217,35.3,0,Abdur Rehman,2006-12-07,1st,D Ramdin,3,,RS Morton,7,Pakistan,West Indies,88,Pakistan,Iqbal Stadium,6,Pakistan
+218,35.4,0,Abdur Rehman,2006-12-07,1st,D Ramdin,3,,RS Morton,7,Pakistan,West Indies,88,Pakistan,Iqbal Stadium,6,Pakistan
+219,35.5,1,Abdur Rehman,2006-12-07,1st,D Ramdin,3,,RS Morton,8,Pakistan,West Indies,89,Pakistan,Iqbal Stadium,6,Pakistan
+220,35.6,0,Abdur Rehman,2006-12-07,1st,RS Morton,8,,D Ramdin,3,Pakistan,West Indies,89,Pakistan,Iqbal Stadium,6,Pakistan
+221,36.1,1,Mohammad Hafeez,2006-12-07,1st,D Ramdin,3,,RS Morton,9,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,6,Pakistan
+222,36.2,1,Mohammad Hafeez,2006-12-07,1st,RS Morton,9,,D Ramdin,4,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,6,Pakistan
+223,36.3,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,4,,RS Morton,9,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,6,Pakistan
+224,36.4,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,4,,RS Morton,9,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,6,Pakistan
+225,36.5,1,Mohammad Hafeez,2006-12-07,1st,D Ramdin,4,,RS Morton,10,Pakistan,West Indies,92,Pakistan,Iqbal Stadium,6,Pakistan
+226,36.6,0,Mohammad Hafeez,2006-12-07,1st,RS Morton,10,,D Ramdin,4,Pakistan,West Indies,92,Pakistan,Iqbal Stadium,6,Pakistan
+227,37.1,0,Abdur Rehman,2006-12-07,1st,D Ramdin,4,,RS Morton,10,Pakistan,West Indies,92,Pakistan,Iqbal Stadium,6,Pakistan
+228,37.2,2,Abdur Rehman,2006-12-07,1st,D Ramdin,4,,RS Morton,12,Pakistan,West Indies,94,Pakistan,Iqbal Stadium,6,Pakistan
+229,37.3,2,Abdur Rehman,2006-12-07,1st,D Ramdin,4,,RS Morton,14,Pakistan,West Indies,96,Pakistan,Iqbal Stadium,6,Pakistan
+230,37.4,0,Abdur Rehman,2006-12-07,1st,D Ramdin,4,,RS Morton,14,Pakistan,West Indies,96,Pakistan,Iqbal Stadium,6,Pakistan
+231,37.5,0,Abdur Rehman,2006-12-07,1st,D Ramdin,4,,RS Morton,14,Pakistan,West Indies,96,Pakistan,Iqbal Stadium,6,Pakistan
+232,37.6,1,Abdur Rehman,2006-12-07,1st,D Ramdin,4,,RS Morton,15,Pakistan,West Indies,97,Pakistan,Iqbal Stadium,6,Pakistan
+233,38.1,1,Mohammad Hafeez,2006-12-07,1st,D Ramdin,4,,RS Morton,16,Pakistan,West Indies,98,Pakistan,Iqbal Stadium,6,Pakistan
+234,38.2,2,Mohammad Hafeez,2006-12-07,1st,RS Morton,16,,D Ramdin,6,Pakistan,West Indies,100,Pakistan,Iqbal Stadium,6,Pakistan
+235,38.3,0,Mohammad Hafeez,2006-12-07,1st,RS Morton,16,,D Ramdin,6,Pakistan,West Indies,100,Pakistan,Iqbal Stadium,6,Pakistan
+236,38.4,0,Mohammad Hafeez,2006-12-07,1st,RS Morton,16,,D Ramdin,6,Pakistan,West Indies,100,Pakistan,Iqbal Stadium,6,Pakistan
+237,38.5,1,Mohammad Hafeez,2006-12-07,1st,RS Morton,16,,D Ramdin,7,Pakistan,West Indies,101,Pakistan,Iqbal Stadium,6,Pakistan
+238,38.6,1,Mohammad Hafeez,2006-12-07,1st,D Ramdin,7,,RS Morton,17,Pakistan,West Indies,102,Pakistan,Iqbal Stadium,6,Pakistan
+239,39.1,0,Abdur Rehman,2006-12-07,1st,D Ramdin,7,,RS Morton,17,Pakistan,West Indies,102,Pakistan,Iqbal Stadium,6,Pakistan
+240,39.2,0,Abdur Rehman,2006-12-07,1st,D Ramdin,7,,RS Morton,17,Pakistan,West Indies,102,Pakistan,Iqbal Stadium,6,Pakistan
+241,39.3,0,Abdur Rehman,2006-12-07,1st,D Ramdin,7,,RS Morton,17,Pakistan,West Indies,102,Pakistan,Iqbal Stadium,6,Pakistan
+242,39.4,0,Abdur Rehman,2006-12-07,1st,D Ramdin,7,,RS Morton,17,Pakistan,West Indies,102,Pakistan,Iqbal Stadium,6,Pakistan
+243,39.5,0,Abdur Rehman,2006-12-07,1st,D Ramdin,7,,RS Morton,17,Pakistan,West Indies,102,Pakistan,Iqbal Stadium,6,Pakistan
+244,39.6,1,Abdur Rehman,2006-12-07,1st,D Ramdin,7,,RS Morton,18,Pakistan,West Indies,103,Pakistan,Iqbal Stadium,6,Pakistan
+245,40.1,0,Naved-ul-Hasan,2006-12-07,1st,D Ramdin,7,,RS Morton,18,Pakistan,West Indies,103,Pakistan,Iqbal Stadium,6,Pakistan
+246,40.2,0,Naved-ul-Hasan,2006-12-07,1st,D Ramdin,7,,RS Morton,18,Pakistan,West Indies,103,Pakistan,Iqbal Stadium,6,Pakistan
+247,40.3,4,Naved-ul-Hasan,2006-12-07,1st,D Ramdin,7,,RS Morton,22,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,6,Pakistan
+248,40.4,0,Naved-ul-Hasan,2006-12-07,1st,D Ramdin,7,,RS Morton,22,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,6,Pakistan
+249,40.5,0,Naved-ul-Hasan,2006-12-07,1st,D Ramdin,7,,RS Morton,22,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,6,Pakistan
+250,40.6,0,Naved-ul-Hasan,2006-12-07,1st,D Ramdin,7,,RS Morton,22,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,6,Pakistan
+251,41.1,0,Abdur Rehman,2006-12-07,1st,RS Morton,22,,D Ramdin,7,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,6,Pakistan
+252,41.2,0,Abdur Rehman,2006-12-07,1st,RS Morton,22,,D Ramdin,7,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,6,Pakistan
+253,41.3,0,Abdur Rehman,2006-12-07,1st,RS Morton,22,,D Ramdin,7,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,6,Pakistan
+254,41.4,1,Abdur Rehman,2006-12-07,1st,RS Morton,22,,D Ramdin,8,Pakistan,West Indies,108,Pakistan,Iqbal Stadium,6,Pakistan
+255,41.5,0,Abdur Rehman,2006-12-07,1st,D Ramdin,8,,RS Morton,22,Pakistan,West Indies,108,Pakistan,Iqbal Stadium,6,Pakistan
+256,41.6,1,Abdur Rehman,2006-12-07,1st,D Ramdin,8,,RS Morton,23,Pakistan,West Indies,109,Pakistan,Iqbal Stadium,6,Pakistan
+257,42.1,1,Naved-ul-Hasan,2006-12-07,1st,D Ramdin,8,,RS Morton,24,Pakistan,West Indies,110,Pakistan,Iqbal Stadium,6,Pakistan
+258,42.2,0,Naved-ul-Hasan,2006-12-07,1st,RS Morton,24,,D Ramdin,8,Pakistan,West Indies,110,Pakistan,Iqbal Stadium,6,Pakistan
+259,42.3,0,Naved-ul-Hasan,2006-12-07,1st,RS Morton,24,,D Ramdin,8,Pakistan,West Indies,110,Pakistan,Iqbal Stadium,6,Pakistan
+260,42.4,0,Naved-ul-Hasan,2006-12-07,1st,RS Morton,24,,D Ramdin,8,Pakistan,West Indies,110,Pakistan,Iqbal Stadium,6,Pakistan
+261,42.5,0,Naved-ul-Hasan,2006-12-07,1st,RS Morton,24,,D Ramdin,8,Pakistan,West Indies,110,Pakistan,Iqbal Stadium,6,Pakistan
+262,42.6,6,Naved-ul-Hasan,2006-12-07,1st,RS Morton,24,,D Ramdin,14,Pakistan,West Indies,116,Pakistan,Iqbal Stadium,6,Pakistan
+263,43.1,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,14,,RS Morton,24,Pakistan,West Indies,116,Pakistan,Iqbal Stadium,6,Pakistan
+264,43.2,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,14,,RS Morton,24,Pakistan,West Indies,116,Pakistan,Iqbal Stadium,6,Pakistan
+265,43.3,2,Mohammad Hafeez,2006-12-07,1st,D Ramdin,14,,RS Morton,26,Pakistan,West Indies,118,Pakistan,Iqbal Stadium,6,Pakistan
+266,43.4,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,14,,RS Morton,26,Pakistan,West Indies,118,Pakistan,Iqbal Stadium,6,Pakistan
+267,43.5,2,Mohammad Hafeez,2006-12-07,1st,D Ramdin,14,,RS Morton,28,Pakistan,West Indies,120,Pakistan,Iqbal Stadium,6,Pakistan
+268,43.6,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,14,,RS Morton,28,Pakistan,West Indies,120,Pakistan,Iqbal Stadium,6,Pakistan
+269,44.1,0,Iftikhar Anjum,2006-12-07,1st,RS Morton,28,,D Ramdin,14,Pakistan,West Indies,120,Pakistan,Iqbal Stadium,6,Pakistan
+270,44.2,1,Iftikhar Anjum,2006-12-07,1st,RS Morton,28,,D Ramdin,15,Pakistan,West Indies,121,Pakistan,Iqbal Stadium,6,Pakistan
+271,44.3,1,Iftikhar Anjum,2006-12-07,1st,D Ramdin,15,,RS Morton,29,Pakistan,West Indies,122,Pakistan,Iqbal Stadium,6,Pakistan
+272,44.4,1,Iftikhar Anjum,2006-12-07,1st,RS Morton,29,,D Ramdin,16,Pakistan,West Indies,123,Pakistan,Iqbal Stadium,6,Pakistan
+273,44.5,0,Iftikhar Anjum,2006-12-07,1st,D Ramdin,16,,RS Morton,29,Pakistan,West Indies,123,Pakistan,Iqbal Stadium,6,Pakistan
+274,44.6,0,Iftikhar Anjum,2006-12-07,1st,D Ramdin,16,,RS Morton,29,Pakistan,West Indies,123,Pakistan,Iqbal Stadium,6,Pakistan
+275,45.1,1,Mohammad Hafeez,2006-12-07,1st,RS Morton,29,,D Ramdin,17,Pakistan,West Indies,124,Pakistan,Iqbal Stadium,6,Pakistan
+276,45.2,4,Mohammad Hafeez,2006-12-07,1st,D Ramdin,17,,RS Morton,33,Pakistan,West Indies,128,Pakistan,Iqbal Stadium,6,Pakistan
+277,45.3,1,Mohammad Hafeez,2006-12-07,1st,D Ramdin,17,,RS Morton,34,Pakistan,West Indies,129,Pakistan,Iqbal Stadium,6,Pakistan
+278,45.4,1,Mohammad Hafeez,2006-12-07,1st,RS Morton,34,,D Ramdin,18,Pakistan,West Indies,130,Pakistan,Iqbal Stadium,6,Pakistan
+279,45.5,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,18,,RS Morton,34,Pakistan,West Indies,130,Pakistan,Iqbal Stadium,6,Pakistan
+280,45.6,0,Mohammad Hafeez,2006-12-07,1st,D Ramdin,18,,RS Morton,34,Pakistan,West Indies,130,Pakistan,Iqbal Stadium,6,Pakistan
+281,46.1,4,Iftikhar Anjum,2006-12-07,1st,RS Morton,34,,D Ramdin,22,Pakistan,West Indies,134,Pakistan,Iqbal Stadium,6,Pakistan
+282,46.2,0,Iftikhar Anjum,2006-12-07,1st,RS Morton,34,,D Ramdin,22,Pakistan,West Indies,135,Pakistan,Iqbal Stadium,6,Pakistan
+283,46.3,1,Iftikhar Anjum,2006-12-07,1st,RS Morton,34,D Ramdin,D Ramdin,23,Pakistan,West Indies,136,Pakistan,Iqbal Stadium,7,Pakistan
+284,46.4,1,Iftikhar Anjum,2006-12-07,1st,RS Morton,34,,IDR Bradshaw,1,Pakistan,West Indies,137,Pakistan,Iqbal Stadium,7,Pakistan
+285,46.5,1,Iftikhar Anjum,2006-12-07,1st,IDR Bradshaw,1,,RS Morton,35,Pakistan,West Indies,138,Pakistan,Iqbal Stadium,7,Pakistan
+286,46.6,1,Iftikhar Anjum,2006-12-07,1st,RS Morton,35,,IDR Bradshaw,2,Pakistan,West Indies,139,Pakistan,Iqbal Stadium,7,Pakistan
+287,46.7,4,Iftikhar Anjum,2006-12-07,1st,IDR Bradshaw,2,,RS Morton,39,Pakistan,West Indies,143,Pakistan,Iqbal Stadium,7,Pakistan
+288,47.1,0,Umar Gul,2006-12-07,1st,RS Morton,39,,IDR Bradshaw,2,Pakistan,West Indies,143,Pakistan,Iqbal Stadium,7,Pakistan
+289,47.2,1,Umar Gul,2006-12-07,1st,RS Morton,39,,IDR Bradshaw,3,Pakistan,West Indies,144,Pakistan,Iqbal Stadium,7,Pakistan
+290,47.3,2,Umar Gul,2006-12-07,1st,IDR Bradshaw,3,,RS Morton,41,Pakistan,West Indies,146,Pakistan,Iqbal Stadium,7,Pakistan
+291,47.4,1,Umar Gul,2006-12-07,1st,IDR Bradshaw,3,,RS Morton,42,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,7,Pakistan
+292,47.5,0,Umar Gul,2006-12-07,1st,RS Morton,42,,IDR Bradshaw,3,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,7,Pakistan
+293,47.6,0,Umar Gul,2006-12-07,1st,RS Morton,42,,IDR Bradshaw,3,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,7,Pakistan
+294,48.1,0,Naved-ul-Hasan,2006-12-07,1st,RS Morton,42,IDR Bradshaw,IDR Bradshaw,3,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,8,Pakistan
+295,48.2,1,Naved-ul-Hasan,2006-12-07,1st,JE Taylor,0,,RS Morton,43,Pakistan,West Indies,149,Pakistan,Iqbal Stadium,8,Pakistan
+296,48.3,0,Naved-ul-Hasan,2006-12-07,1st,RS Morton,43,,JE Taylor,0,Pakistan,West Indies,149,Pakistan,Iqbal Stadium,8,Pakistan
+297,48.4,1,Naved-ul-Hasan,2006-12-07,1st,RS Morton,43,,JE Taylor,1,Pakistan,West Indies,150,Pakistan,Iqbal Stadium,8,Pakistan
+298,48.5,0,Naved-ul-Hasan,2006-12-07,1st,JE Taylor,1,RS Morton,RS Morton,43,Pakistan,West Indies,150,Pakistan,Iqbal Stadium,9,Pakistan
+299,48.6,0,Naved-ul-Hasan,2006-12-07,1st,CD Collymore,0,,JE Taylor,1,Pakistan,West Indies,150,Pakistan,Iqbal Stadium,9,Pakistan
+300,49.1,0,Umar Gul,2006-12-07,1st,JE Taylor,1,,CD Collymore,0,Pakistan,West Indies,150,Pakistan,Iqbal Stadium,9,Pakistan
+301,49.2,0,Umar Gul,2006-12-07,1st,JE Taylor,1,,CD Collymore,0,Pakistan,West Indies,150,Pakistan,Iqbal Stadium,9,Pakistan
+302,49.3,1,Umar Gul,2006-12-07,1st,JE Taylor,1,,CD Collymore,1,Pakistan,West Indies,151,Pakistan,Iqbal Stadium,9,Pakistan
+303,49.4,0,Umar Gul,2006-12-07,1st,CD Collymore,1,,JE Taylor,1,Pakistan,West Indies,151,Pakistan,Iqbal Stadium,9,Pakistan
+304,49.5,0,Umar Gul,2006-12-07,1st,CD Collymore,1,JE Taylor,JE Taylor,1,Pakistan,West Indies,151,Pakistan,Iqbal Stadium,10,Pakistan
+305,0.1,0,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,0,Pakistan
+306,0.2,0,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Mohammad Hafeez,0,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+307,0.3,0,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,1,Pakistan,Iqbal Stadium,1,Pakistan
+308,0.4,1,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,1,Pakistan
+309,0.5,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,2,Pakistan,Iqbal Stadium,1,Pakistan
+310,0.6,1,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,3,Pakistan,Iqbal Stadium,1,Pakistan
+311,0.7,3,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,6,Pakistan,Iqbal Stadium,1,Pakistan
+312,1.1,1,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,7,Pakistan,Iqbal Stadium,1,Pakistan
+313,1.2,0,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,8,Pakistan,Iqbal Stadium,1,Pakistan
+314,1.3,2,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,1,Pakistan
+315,1.4,0,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,10,Pakistan,Iqbal Stadium,1,Pakistan
+316,1.5,1,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,11,Pakistan,Iqbal Stadium,1,Pakistan
+317,1.6,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,11,Pakistan,Iqbal Stadium,1,Pakistan
+318,1.7,1,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,12,Pakistan,Iqbal Stadium,1,Pakistan
+319,2.1,0,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,12,Pakistan,Iqbal Stadium,1,Pakistan
+320,2.2,0,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,12,Pakistan,Iqbal Stadium,1,Pakistan
+321,2.3,1,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+322,2.4,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+323,2.5,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+324,2.6,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+325,3.1,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+326,3.2,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+327,3.3,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+328,3.4,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+329,3.5,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+330,3.6,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+331,4.1,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+332,4.2,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,13,Pakistan,Iqbal Stadium,1,Pakistan
+333,4.3,1,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,14,Pakistan,Iqbal Stadium,1,Pakistan
+334,4.4,0,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,14,Pakistan,Iqbal Stadium,1,Pakistan
+335,4.5,2,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,16,Pakistan,Iqbal Stadium,1,Pakistan
+336,4.6,4,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,1,Pakistan
+337,5.1,0,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,1,Pakistan
+338,5.2,0,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,1,Pakistan
+339,5.3,0,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,1,Pakistan
+340,5.4,0,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,20,Pakistan,Iqbal Stadium,1,Pakistan
+341,5.5,0,IDR Bradshaw,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,21,Pakistan,Iqbal Stadium,1,Pakistan
+342,5.6,0,IDR Bradshaw,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,21,Pakistan,Iqbal Stadium,1,Pakistan
+343,6.1,4,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,25,Pakistan,Iqbal Stadium,1,Pakistan
+344,6.2,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,26,Pakistan,Iqbal Stadium,1,Pakistan
+345,6.3,1,JE Taylor,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,27,Pakistan,Iqbal Stadium,1,Pakistan
+346,6.4,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,27,Pakistan,Iqbal Stadium,1,Pakistan
+347,6.5,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,27,Pakistan,Iqbal Stadium,1,Pakistan
+348,6.6,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,1,Pakistan
+349,6.7,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,1,Pakistan
+350,7.1,0,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,1,Pakistan
+351,7.2,0,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,1,Pakistan
+352,7.3,0,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,28,Pakistan,Iqbal Stadium,1,Pakistan
+353,7.4,2,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,30,Pakistan,Iqbal Stadium,1,Pakistan
+354,7.5,0,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,30,Pakistan,Iqbal Stadium,1,Pakistan
+355,7.6,0,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,30,Pakistan,Iqbal Stadium,1,Pakistan
+356,8.1,4,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,1,Pakistan
+357,8.2,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,1,Pakistan
+358,8.3,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,1,Pakistan
+359,8.4,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,1,Pakistan
+360,8.5,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,1,Pakistan
+361,8.6,0,JE Taylor,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,1,Pakistan
+362,9.1,0,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,34,Pakistan,Iqbal Stadium,1,Pakistan
+363,9.2,1,DR Smith,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,35,Pakistan,Iqbal Stadium,1,Pakistan
+364,9.3,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,35,Pakistan,Iqbal Stadium,1,Pakistan
+365,9.4,4,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,39,Pakistan,Iqbal Stadium,1,Pakistan
+366,9.5,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,39,Pakistan,Iqbal Stadium,1,Pakistan
+367,9.6,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,39,Pakistan,Iqbal Stadium,1,Pakistan
+368,10.1,0,CD Collymore,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,39,Pakistan,Iqbal Stadium,1,Pakistan
+369,10.2,1,CD Collymore,2006-12-07,2nd,Imran Farhat,0,,Kamran Akmal,0,Pakistan,West Indies,40,Pakistan,Iqbal Stadium,1,Pakistan
+370,10.3,0,CD Collymore,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,40,Pakistan,Iqbal Stadium,1,Pakistan
+371,10.4,0,CD Collymore,2006-12-07,2nd,Kamran Akmal,0,,Imran Farhat,0,Pakistan,West Indies,40,Pakistan,Iqbal Stadium,2,Pakistan
+372,10.5,0,CD Collymore,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,40,Pakistan,Iqbal Stadium,2,Pakistan
+373,10.6,0,CD Collymore,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,40,Pakistan,Iqbal Stadium,2,Pakistan
+374,11.1,1,DR Smith,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,41,Pakistan,Iqbal Stadium,2,Pakistan
+375,11.2,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,41,Pakistan,Iqbal Stadium,2,Pakistan
+376,11.3,2,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,43,Pakistan,Iqbal Stadium,2,Pakistan
+377,11.4,2,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,45,Pakistan,Iqbal Stadium,2,Pakistan
+378,11.5,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,45,Pakistan,Iqbal Stadium,2,Pakistan
+379,11.6,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,45,Pakistan,Iqbal Stadium,2,Pakistan
+380,12.1,1,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,46,Pakistan,Iqbal Stadium,2,Pakistan
+381,12.2,0,CD Collymore,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,46,Pakistan,Iqbal Stadium,2,Pakistan
+382,12.3,0,CD Collymore,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,46,Pakistan,Iqbal Stadium,2,Pakistan
+383,12.4,1,CD Collymore,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,47,Pakistan,Iqbal Stadium,2,Pakistan
+384,12.5,2,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+385,12.6,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+386,13.1,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+387,13.2,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+388,13.3,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+389,13.4,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+390,13.5,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+391,13.6,0,DR Smith,2006-12-07,2nd,Kamran Akmal,0,,Younis Khan,0,Pakistan,West Indies,49,Pakistan,Iqbal Stadium,2,Pakistan
+392,14.1,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,2,Pakistan
+393,14.2,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,2,Pakistan
+394,14.3,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,2,Pakistan
+395,14.4,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,2,Pakistan
+396,14.5,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,2,Pakistan
+397,14.6,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,2,Pakistan
+398,14.7,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Kamran Akmal,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,3,Pakistan
+399,15.1,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,3,Pakistan
+400,15.2,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,50,Pakistan,Iqbal Stadium,3,Pakistan
+401,15.3,2,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,52,Pakistan,Iqbal Stadium,3,Pakistan
+402,15.4,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+403,15.5,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+404,15.6,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+405,15.7,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+406,16.1,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+407,16.2,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+408,16.3,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+409,16.4,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+410,16.5,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+411,16.6,0,CD Collymore,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,53,Pakistan,Iqbal Stadium,3,Pakistan
+412,17.1,1,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,54,Pakistan,Iqbal Stadium,3,Pakistan
+413,17.2,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,54,Pakistan,Iqbal Stadium,3,Pakistan
+414,17.3,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,54,Pakistan,Iqbal Stadium,3,Pakistan
+415,17.4,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,54,Pakistan,Iqbal Stadium,3,Pakistan
+416,17.5,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,54,Pakistan,Iqbal Stadium,3,Pakistan
+417,17.6,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,54,Pakistan,Iqbal Stadium,3,Pakistan
+418,18.1,4,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+419,18.2,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+420,18.3,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+421,18.4,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+422,18.5,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+423,18.6,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+424,19.1,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+425,19.2,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+426,19.3,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+427,19.4,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+428,19.5,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+429,19.6,0,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+430,20.1,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+431,20.2,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+432,20.3,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+433,20.4,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+434,20.5,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,58,Pakistan,Iqbal Stadium,3,Pakistan
+435,20.6,1,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,59,Pakistan,Iqbal Stadium,3,Pakistan
+436,21.1,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,59,Pakistan,Iqbal Stadium,3,Pakistan
+437,21.2,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,60,Pakistan,Iqbal Stadium,3,Pakistan
+438,21.3,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,60,Pakistan,Iqbal Stadium,3,Pakistan
+439,21.4,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,60,Pakistan,Iqbal Stadium,3,Pakistan
+440,21.5,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,60,Pakistan,Iqbal Stadium,3,Pakistan
+441,21.6,1,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,61,Pakistan,Iqbal Stadium,3,Pakistan
+442,21.7,1,IDR Bradshaw,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,62,Pakistan,Iqbal Stadium,3,Pakistan
+443,22.1,1,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,63,Pakistan,Iqbal Stadium,3,Pakistan
+444,22.2,1,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,64,Pakistan,Iqbal Stadium,3,Pakistan
+445,22.3,0,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,64,Pakistan,Iqbal Stadium,3,Pakistan
+446,22.4,0,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,64,Pakistan,Iqbal Stadium,3,Pakistan
+447,22.5,0,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,64,Pakistan,Iqbal Stadium,3,Pakistan
+448,22.6,0,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,64,Pakistan,Iqbal Stadium,3,Pakistan
+449,23.1,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,64,Pakistan,Iqbal Stadium,3,Pakistan
+450,23.2,4,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,68,Pakistan,Iqbal Stadium,3,Pakistan
+451,23.3,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,68,Pakistan,Iqbal Stadium,3,Pakistan
+452,23.4,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,69,Pakistan,Iqbal Stadium,3,Pakistan
+453,23.5,1,DR Smith,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+454,23.6,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+455,24.1,0,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+456,24.2,0,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,70,Pakistan,Iqbal Stadium,3,Pakistan
+457,24.3,1,JE Taylor,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,71,Pakistan,Iqbal Stadium,3,Pakistan
+458,24.4,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,71,Pakistan,Iqbal Stadium,3,Pakistan
+459,24.5,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,3,Pakistan
+460,24.6,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,3,Pakistan
+461,24.7,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,3,Pakistan
+462,25.1,0,DR Smith,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,3,Pakistan
+463,25.2,0,DR Smith,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,72,Pakistan,Iqbal Stadium,3,Pakistan
+464,25.3,2,DR Smith,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,74,Pakistan,Iqbal Stadium,3,Pakistan
+465,25.4,1,DR Smith,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,75,Pakistan,Iqbal Stadium,3,Pakistan
+466,25.5,1,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,3,Pakistan
+467,25.6,0,DR Smith,2006-12-07,2nd,Younis Khan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,3,Pakistan
+468,26.1,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,76,Pakistan,Iqbal Stadium,3,Pakistan
+469,26.2,4,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,80,Pakistan,Iqbal Stadium,3,Pakistan
+470,26.3,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Younis Khan,0,Pakistan,West Indies,80,Pakistan,Iqbal Stadium,4,Pakistan
+471,26.4,0,JE Taylor,2006-12-07,2nd,Shoaib Malik,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,80,Pakistan,Iqbal Stadium,4,Pakistan
+472,26.5,1,JE Taylor,2006-12-07,2nd,Shoaib Malik,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,81,Pakistan,Iqbal Stadium,4,Pakistan
+473,26.6,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,81,Pakistan,Iqbal Stadium,4,Pakistan
+474,27.1,1,DR Smith,2006-12-07,2nd,Shoaib Malik,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,82,Pakistan,Iqbal Stadium,4,Pakistan
+475,27.2,1,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,83,Pakistan,Iqbal Stadium,4,Pakistan
+476,27.3,0,DR Smith,2006-12-07,2nd,Shoaib Malik,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,84,Pakistan,Iqbal Stadium,4,Pakistan
+477,27.4,1,DR Smith,2006-12-07,2nd,Shoaib Malik,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,85,Pakistan,Iqbal Stadium,4,Pakistan
+478,27.5,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,85,Pakistan,Iqbal Stadium,4,Pakistan
+479,27.6,1,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,86,Pakistan,Iqbal Stadium,4,Pakistan
+480,27.7,0,DR Smith,2006-12-07,2nd,Shoaib Malik,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,86,Pakistan,Iqbal Stadium,4,Pakistan
+481,28.1,2,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,88,Pakistan,Iqbal Stadium,4,Pakistan
+482,28.2,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,88,Pakistan,Iqbal Stadium,4,Pakistan
+483,28.3,2,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,4,Pakistan
+484,28.4,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Shoaib Malik,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,5,Pakistan
+485,28.5,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,5,Pakistan
+486,28.6,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,5,Pakistan
+487,29.1,0,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,5,Pakistan
+488,29.2,0,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,5,Pakistan
+489,29.3,0,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,5,Pakistan
+490,29.4,0,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,90,Pakistan,Iqbal Stadium,5,Pakistan
+491,29.5,1,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,5,Pakistan
+492,29.6,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,5,Pakistan
+493,30.1,0,IDR Bradshaw,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,5,Pakistan
+494,30.2,0,IDR Bradshaw,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,5,Pakistan
+495,30.3,0,IDR Bradshaw,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,91,Pakistan,Iqbal Stadium,5,Pakistan
+496,30.4,1,IDR Bradshaw,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,92,Pakistan,Iqbal Stadium,5,Pakistan
+497,30.5,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,92,Pakistan,Iqbal Stadium,5,Pakistan
+498,30.6,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,92,Pakistan,Iqbal Stadium,5,Pakistan
+499,31.1,0,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,93,Pakistan,Iqbal Stadium,5,Pakistan
+500,31.2,0,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,93,Pakistan,Iqbal Stadium,5,Pakistan
+501,31.3,0,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,93,Pakistan,Iqbal Stadium,5,Pakistan
+502,31.4,1,DR Smith,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,94,Pakistan,Iqbal Stadium,5,Pakistan
+503,31.5,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,94,Pakistan,Iqbal Stadium,5,Pakistan
+504,31.6,0,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,94,Pakistan,Iqbal Stadium,5,Pakistan
+505,31.7,1,DR Smith,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,95,Pakistan,Iqbal Stadium,5,Pakistan
+506,32.1,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,95,Pakistan,Iqbal Stadium,5,Pakistan
+507,32.2,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,95,Pakistan,Iqbal Stadium,5,Pakistan
+508,32.3,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,95,Pakistan,Iqbal Stadium,5,Pakistan
+509,32.4,1,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,96,Pakistan,Iqbal Stadium,5,Pakistan
+510,32.5,0,IDR Bradshaw,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,96,Pakistan,Iqbal Stadium,5,Pakistan
+511,32.6,1,IDR Bradshaw,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,97,Pakistan,Iqbal Stadium,5,Pakistan
+512,33.1,0,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,97,Pakistan,Iqbal Stadium,5,Pakistan
+513,33.2,0,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,97,Pakistan,Iqbal Stadium,5,Pakistan
+514,33.3,0,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,97,Pakistan,Iqbal Stadium,5,Pakistan
+515,33.4,1,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,98,Pakistan,Iqbal Stadium,5,Pakistan
+516,33.5,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,98,Pakistan,Iqbal Stadium,5,Pakistan
+517,33.6,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,99,Pakistan,Iqbal Stadium,5,Pakistan
+518,34.1,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,99,Pakistan,Iqbal Stadium,5,Pakistan
+519,34.2,4,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,103,Pakistan,Iqbal Stadium,5,Pakistan
+520,34.3,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,103,Pakistan,Iqbal Stadium,5,Pakistan
+521,34.4,1,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,104,Pakistan,Iqbal Stadium,5,Pakistan
+522,34.5,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,104,Pakistan,Iqbal Stadium,5,Pakistan
+523,34.6,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,104,Pakistan,Iqbal Stadium,5,Pakistan
+524,35.1,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,104,Pakistan,Iqbal Stadium,5,Pakistan
+525,35.2,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,104,Pakistan,Iqbal Stadium,5,Pakistan
+526,35.3,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,105,Pakistan,Iqbal Stadium,5,Pakistan
+527,35.4,0,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,105,Pakistan,Iqbal Stadium,5,Pakistan
+528,35.5,0,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,106,Pakistan,Iqbal Stadium,5,Pakistan
+529,35.6,1,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,5,Pakistan
+530,35.7,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,5,Pakistan
+531,36.1,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,107,Pakistan,Iqbal Stadium,5,Pakistan
+532,36.2,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,108,Pakistan,Iqbal Stadium,5,Pakistan
+533,36.3,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,108,Pakistan,Iqbal Stadium,5,Pakistan
+534,36.4,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,108,Pakistan,Iqbal Stadium,5,Pakistan
+535,36.5,1,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,109,Pakistan,Iqbal Stadium,5,Pakistan
+536,36.6,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,109,Pakistan,Iqbal Stadium,5,Pakistan
+537,37.1,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,109,Pakistan,Iqbal Stadium,5,Pakistan
+538,37.2,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,109,Pakistan,Iqbal Stadium,5,Pakistan
+539,37.3,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,110,Pakistan,Iqbal Stadium,5,Pakistan
+540,37.4,1,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+541,37.5,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+542,37.6,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+543,38.1,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+544,38.2,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+545,38.3,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+546,38.4,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+547,38.5,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+548,38.6,0,CD Collymore,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,111,Pakistan,Iqbal Stadium,5,Pakistan
+549,39.1,2,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,113,Pakistan,Iqbal Stadium,5,Pakistan
+550,39.2,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,114,Pakistan,Iqbal Stadium,5,Pakistan
+551,39.3,1,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,115,Pakistan,Iqbal Stadium,5,Pakistan
+552,39.4,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,115,Pakistan,Iqbal Stadium,5,Pakistan
+553,39.5,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,116,Pakistan,Iqbal Stadium,5,Pakistan
+554,39.6,0,CH Gayle,2006-12-07,2nd,Abdul Razzaq,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,116,Pakistan,Iqbal Stadium,5,Pakistan
+555,40.1,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,116,Pakistan,Iqbal Stadium,5,Pakistan
+556,40.2,2,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,118,Pakistan,Iqbal Stadium,5,Pakistan
+557,40.3,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdul Razzaq,0,Pakistan,West Indies,118,Pakistan,Iqbal Stadium,6,Pakistan
+558,40.4,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,118,Pakistan,Iqbal Stadium,6,Pakistan
+559,40.5,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,118,Pakistan,Iqbal Stadium,6,Pakistan
+560,40.6,0,CD Collymore,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,118,Pakistan,Iqbal Stadium,6,Pakistan
+561,41.1,1,CH Gayle,2006-12-07,2nd,Naved-ul-Hasan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,119,Pakistan,Iqbal Stadium,6,Pakistan
+562,41.2,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,120,Pakistan,Iqbal Stadium,6,Pakistan
+563,41.3,1,CH Gayle,2006-12-07,2nd,Naved-ul-Hasan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,121,Pakistan,Iqbal Stadium,6,Pakistan
+564,41.4,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,121,Pakistan,Iqbal Stadium,6,Pakistan
+565,41.5,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,121,Pakistan,Iqbal Stadium,6,Pakistan
+566,41.6,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,121,Pakistan,Iqbal Stadium,6,Pakistan
+567,42.1,4,MN Samuels,2006-12-07,2nd,Naved-ul-Hasan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,125,Pakistan,Iqbal Stadium,6,Pakistan
+568,42.2,4,MN Samuels,2006-12-07,2nd,Naved-ul-Hasan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,129,Pakistan,Iqbal Stadium,6,Pakistan
+569,42.3,1,MN Samuels,2006-12-07,2nd,Naved-ul-Hasan,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,130,Pakistan,Iqbal Stadium,6,Pakistan
+570,42.4,0,MN Samuels,2006-12-07,2nd,Inzamam-ul-Haq,0,,Naved-ul-Hasan,0,Pakistan,West Indies,130,Pakistan,Iqbal Stadium,7,Pakistan
+571,42.5,0,MN Samuels,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,130,Pakistan,Iqbal Stadium,7,Pakistan
+572,42.6,1,MN Samuels,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,131,Pakistan,Iqbal Stadium,7,Pakistan
+573,43.1,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,131,Pakistan,Iqbal Stadium,7,Pakistan
+574,43.2,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,132,Pakistan,Iqbal Stadium,7,Pakistan
+575,43.3,0,CH Gayle,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,132,Pakistan,Iqbal Stadium,7,Pakistan
+576,43.4,4,CH Gayle,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,136,Pakistan,Iqbal Stadium,7,Pakistan
+577,43.5,1,CH Gayle,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,137,Pakistan,Iqbal Stadium,7,Pakistan
+578,43.6,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,137,Pakistan,Iqbal Stadium,7,Pakistan
+579,44.1,1,IDR Bradshaw,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,138,Pakistan,Iqbal Stadium,7,Pakistan
+580,44.2,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,138,Pakistan,Iqbal Stadium,7,Pakistan
+581,44.3,2,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,140,Pakistan,Iqbal Stadium,7,Pakistan
+582,44.4,1,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,141,Pakistan,Iqbal Stadium,7,Pakistan
+583,44.5,0,IDR Bradshaw,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,142,Pakistan,Iqbal Stadium,7,Pakistan
+584,44.6,1,IDR Bradshaw,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,143,Pakistan,Iqbal Stadium,7,Pakistan
+585,44.7,0,IDR Bradshaw,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,143,Pakistan,Iqbal Stadium,7,Pakistan
+586,45.1,0,CH Gayle,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,143,Pakistan,Iqbal Stadium,7,Pakistan
+587,45.2,1,CH Gayle,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,144,Pakistan,Iqbal Stadium,7,Pakistan
+588,45.3,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,144,Pakistan,Iqbal Stadium,7,Pakistan
+589,45.4,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,145,Pakistan,Iqbal Stadium,7,Pakistan
+590,45.5,1,CH Gayle,2006-12-07,2nd,Abdur Rehman,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,146,Pakistan,Iqbal Stadium,7,Pakistan
+591,45.6,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,7,Pakistan
+592,46.1,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,7,Pakistan
+593,46.2,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,7,Pakistan
+594,46.3,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,7,Pakistan
+595,46.4,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,7,Pakistan
+596,46.5,0,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Abdur Rehman,0,Pakistan,West Indies,147,Pakistan,Iqbal Stadium,8,Pakistan
+597,46.6,1,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,8,Pakistan
+598,47.1,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,8,Pakistan
+599,47.2,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,8,Pakistan
+600,47.3,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,8,Pakistan
+601,47.4,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,8,Pakistan
+602,47.5,0,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,148,Pakistan,Iqbal Stadium,8,Pakistan
+603,47.6,1,CH Gayle,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,149,Pakistan,Iqbal Stadium,8,Pakistan
+604,48.1,1,JE Taylor,2006-12-07,2nd,Inzamam-ul-Haq,0,,Iftikhar Anjum,0,Pakistan,West Indies,150,Pakistan,Iqbal Stadium,8,Pakistan
+605,48.2,4,JE Taylor,2006-12-07,2nd,Iftikhar Anjum,0,,Inzamam-ul-Haq,0,Pakistan,West Indies,154,Pakistan,Iqbal Stadium,8,Pakistan

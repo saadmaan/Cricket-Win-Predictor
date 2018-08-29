@@ -1,0 +1,564 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Z Khan,2006-11-26,1st,LE Bosman,0,,GC Smith,0,South Africa,India,0,South Africa,Newlands,0,South Africa
+1,0.2,0,Z Khan,2006-11-26,1st,LE Bosman,0,GC Smith,GC Smith,0,South Africa,India,0,South Africa,Newlands,1,South Africa
+2,0.3,0,Z Khan,2006-11-26,1st,LE Bosman,0,,JH Kallis,0,South Africa,India,0,South Africa,Newlands,1,South Africa
+3,0.4,0,Z Khan,2006-11-26,1st,LE Bosman,0,JH Kallis,JH Kallis,0,South Africa,India,0,South Africa,Newlands,2,South Africa
+4,0.5,0,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,0,South Africa,India,0,South Africa,Newlands,2,South Africa
+5,0.6,0,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,0,South Africa,India,0,South Africa,Newlands,2,South Africa
+6,1.1,0,AB Agarkar,2006-11-26,1st,HH Gibbs,0,,LE Bosman,0,South Africa,India,0,South Africa,Newlands,2,South Africa
+7,1.2,0,AB Agarkar,2006-11-26,1st,HH Gibbs,0,,LE Bosman,0,South Africa,India,0,South Africa,Newlands,2,South Africa
+8,1.3,0,AB Agarkar,2006-11-26,1st,HH Gibbs,0,,LE Bosman,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+9,1.4,0,AB Agarkar,2006-11-26,1st,HH Gibbs,0,,LE Bosman,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+10,1.5,0,AB Agarkar,2006-11-26,1st,HH Gibbs,0,,LE Bosman,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+11,1.6,0,AB Agarkar,2006-11-26,1st,HH Gibbs,0,,LE Bosman,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+12,1.7,0,AB Agarkar,2006-11-26,1st,HH Gibbs,0,,LE Bosman,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+13,2.1,0,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+14,2.2,0,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+15,2.3,0,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+16,2.4,0,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+17,2.5,0,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,0,South Africa,India,1,South Africa,Newlands,2,South Africa
+18,2.6,1,Z Khan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,1,South Africa,India,2,South Africa,Newlands,2,South Africa
+19,3.1,0,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,1,South Africa,India,2,South Africa,Newlands,2,South Africa
+20,3.2,0,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,1,South Africa,India,2,South Africa,Newlands,2,South Africa
+21,3.3,0,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,1,South Africa,India,2,South Africa,Newlands,2,South Africa
+22,3.4,4,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,5,South Africa,India,6,South Africa,Newlands,2,South Africa
+23,3.5,4,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,9,South Africa,India,10,South Africa,Newlands,2,South Africa
+24,3.6,0,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,9,South Africa,India,10,South Africa,Newlands,2,South Africa
+25,4.1,0,Z Khan,2006-11-26,1st,HH Gibbs,9,,LE Bosman,0,South Africa,India,10,South Africa,Newlands,2,South Africa
+26,4.2,0,Z Khan,2006-11-26,1st,HH Gibbs,9,,LE Bosman,0,South Africa,India,10,South Africa,Newlands,2,South Africa
+27,4.3,0,Z Khan,2006-11-26,1st,HH Gibbs,9,,LE Bosman,0,South Africa,India,10,South Africa,Newlands,2,South Africa
+28,4.4,0,Z Khan,2006-11-26,1st,HH Gibbs,9,,LE Bosman,0,South Africa,India,10,South Africa,Newlands,2,South Africa
+29,4.5,0,Z Khan,2006-11-26,1st,HH Gibbs,9,,LE Bosman,0,South Africa,India,10,South Africa,Newlands,2,South Africa
+30,4.6,0,Z Khan,2006-11-26,1st,HH Gibbs,9,,LE Bosman,0,South Africa,India,10,South Africa,Newlands,2,South Africa
+31,5.1,4,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,13,South Africa,India,14,South Africa,Newlands,2,South Africa
+32,5.2,0,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,13,South Africa,India,14,South Africa,Newlands,2,South Africa
+33,5.3,4,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,17,South Africa,India,18,South Africa,Newlands,2,South Africa
+34,5.4,0,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,17,South Africa,India,18,South Africa,Newlands,2,South Africa
+35,5.5,4,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,21,South Africa,India,22,South Africa,Newlands,2,South Africa
+36,5.6,4,AB Agarkar,2006-11-26,1st,LE Bosman,0,,HH Gibbs,25,South Africa,India,26,South Africa,Newlands,2,South Africa
+37,6.1,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,0,South Africa,India,26,South Africa,Newlands,2,South Africa
+38,6.2,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,0,South Africa,India,26,South Africa,Newlands,2,South Africa
+39,6.3,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,0,South Africa,India,26,South Africa,Newlands,2,South Africa
+40,6.4,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,0,South Africa,India,26,South Africa,Newlands,2,South Africa
+41,6.5,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,0,South Africa,India,26,South Africa,Newlands,2,South Africa
+42,6.6,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,0,South Africa,India,26,South Africa,Newlands,2,South Africa
+43,7.1,0,IK Pathan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,25,South Africa,India,26,South Africa,Newlands,2,South Africa
+44,7.2,0,IK Pathan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,25,South Africa,India,26,South Africa,Newlands,2,South Africa
+45,7.3,0,IK Pathan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,25,South Africa,India,26,South Africa,Newlands,2,South Africa
+46,7.4,0,IK Pathan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,25,South Africa,India,26,South Africa,Newlands,2,South Africa
+47,7.5,0,IK Pathan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,25,South Africa,India,26,South Africa,Newlands,2,South Africa
+48,7.6,0,IK Pathan,2006-11-26,1st,LE Bosman,0,,HH Gibbs,25,South Africa,India,26,South Africa,Newlands,2,South Africa
+49,8.1,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,0,South Africa,India,26,South Africa,Newlands,2,South Africa
+50,8.2,4,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,4,South Africa,India,30,South Africa,Newlands,2,South Africa
+51,8.3,0,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,4,South Africa,India,30,South Africa,Newlands,2,South Africa
+52,8.4,1,Z Khan,2006-11-26,1st,HH Gibbs,25,,LE Bosman,5,South Africa,India,31,South Africa,Newlands,2,South Africa
+53,8.5,0,Z Khan,2006-11-26,1st,LE Bosman,5,,HH Gibbs,25,South Africa,India,31,South Africa,Newlands,2,South Africa
+54,8.6,2,Z Khan,2006-11-26,1st,LE Bosman,5,,HH Gibbs,27,South Africa,India,33,South Africa,Newlands,2,South Africa
+55,9.1,1,IK Pathan,2006-11-26,1st,HH Gibbs,27,,LE Bosman,6,South Africa,India,34,South Africa,Newlands,2,South Africa
+56,9.2,0,IK Pathan,2006-11-26,1st,LE Bosman,6,,HH Gibbs,27,South Africa,India,34,South Africa,Newlands,2,South Africa
+57,9.3,0,IK Pathan,2006-11-26,1st,LE Bosman,6,,HH Gibbs,27,South Africa,India,34,South Africa,Newlands,2,South Africa
+58,9.4,2,IK Pathan,2006-11-26,1st,LE Bosman,6,,HH Gibbs,29,South Africa,India,36,South Africa,Newlands,2,South Africa
+59,9.5,1,IK Pathan,2006-11-26,1st,LE Bosman,6,,HH Gibbs,30,South Africa,India,37,South Africa,Newlands,2,South Africa
+60,9.6,0,IK Pathan,2006-11-26,1st,HH Gibbs,30,,LE Bosman,6,South Africa,India,37,South Africa,Newlands,2,South Africa
+61,10.1,0,Z Khan,2006-11-26,1st,LE Bosman,6,,HH Gibbs,30,South Africa,India,37,South Africa,Newlands,2,South Africa
+62,10.2,1,Z Khan,2006-11-26,1st,LE Bosman,6,,HH Gibbs,31,South Africa,India,38,South Africa,Newlands,2,South Africa
+63,10.3,0,Z Khan,2006-11-26,1st,HH Gibbs,31,,LE Bosman,6,South Africa,India,38,South Africa,Newlands,2,South Africa
+64,10.4,0,Z Khan,2006-11-26,1st,HH Gibbs,31,LE Bosman,LE Bosman,6,South Africa,India,38,South Africa,Newlands,3,South Africa
+65,10.5,0,Z Khan,2006-11-26,1st,HH Gibbs,31,,AB de Villiers,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+66,10.6,0,Z Khan,2006-11-26,1st,HH Gibbs,31,,AB de Villiers,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+67,11.1,0,IK Pathan,2006-11-26,1st,AB de Villiers,0,,HH Gibbs,31,South Africa,India,38,South Africa,Newlands,3,South Africa
+68,11.2,0,IK Pathan,2006-11-26,1st,AB de Villiers,0,,HH Gibbs,31,South Africa,India,38,South Africa,Newlands,3,South Africa
+69,11.3,4,IK Pathan,2006-11-26,1st,AB de Villiers,0,,HH Gibbs,35,South Africa,India,42,South Africa,Newlands,3,South Africa
+70,11.4,0,IK Pathan,2006-11-26,1st,AB de Villiers,0,,HH Gibbs,35,South Africa,India,42,South Africa,Newlands,3,South Africa
+71,11.5,0,IK Pathan,2006-11-26,1st,AB de Villiers,0,,HH Gibbs,35,South Africa,India,42,South Africa,Newlands,3,South Africa
+72,11.6,0,IK Pathan,2006-11-26,1st,AB de Villiers,0,HH Gibbs,HH Gibbs,35,South Africa,India,42,South Africa,Newlands,4,South Africa
+73,12.1,0,Z Khan,2006-11-26,1st,MV Boucher,0,,AB de Villiers,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+74,12.2,0,Z Khan,2006-11-26,1st,AB de Villiers,0,,MV Boucher,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+75,12.3,0,Z Khan,2006-11-26,1st,AB de Villiers,0,,MV Boucher,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+76,12.4,0,Z Khan,2006-11-26,1st,AB de Villiers,0,,MV Boucher,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+77,12.5,0,Z Khan,2006-11-26,1st,AB de Villiers,0,,MV Boucher,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+78,12.6,0,Z Khan,2006-11-26,1st,AB de Villiers,0,,MV Boucher,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+79,13.1,0,IK Pathan,2006-11-26,1st,MV Boucher,0,,AB de Villiers,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+80,13.2,0,IK Pathan,2006-11-26,1st,MV Boucher,0,,AB de Villiers,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+81,13.3,0,IK Pathan,2006-11-26,1st,MV Boucher,0,,AB de Villiers,0,South Africa,India,43,South Africa,Newlands,4,South Africa
+82,13.4,1,IK Pathan,2006-11-26,1st,MV Boucher,0,,AB de Villiers,1,South Africa,India,44,South Africa,Newlands,4,South Africa
+83,13.5,0,IK Pathan,2006-11-26,1st,AB de Villiers,1,,MV Boucher,0,South Africa,India,44,South Africa,Newlands,4,South Africa
+84,13.6,0,IK Pathan,2006-11-26,1st,AB de Villiers,1,,MV Boucher,0,South Africa,India,44,South Africa,Newlands,4,South Africa
+85,14.1,0,A Kumble,2006-11-26,1st,MV Boucher,0,,AB de Villiers,1,South Africa,India,44,South Africa,Newlands,4,South Africa
+86,14.2,1,A Kumble,2006-11-26,1st,MV Boucher,0,,AB de Villiers,2,South Africa,India,45,South Africa,Newlands,4,South Africa
+87,14.3,0,A Kumble,2006-11-26,1st,AB de Villiers,2,,MV Boucher,0,South Africa,India,45,South Africa,Newlands,4,South Africa
+88,14.4,1,A Kumble,2006-11-26,1st,AB de Villiers,2,,MV Boucher,1,South Africa,India,46,South Africa,Newlands,4,South Africa
+89,14.5,0,A Kumble,2006-11-26,1st,MV Boucher,1,,AB de Villiers,2,South Africa,India,46,South Africa,Newlands,4,South Africa
+90,14.6,0,A Kumble,2006-11-26,1st,MV Boucher,1,,AB de Villiers,2,South Africa,India,46,South Africa,Newlands,4,South Africa
+91,15.1,1,IK Pathan,2006-11-26,1st,AB de Villiers,2,,MV Boucher,2,South Africa,India,47,South Africa,Newlands,4,South Africa
+92,15.2,0,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,2,South Africa,India,47,South Africa,Newlands,4,South Africa
+93,15.3,4,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,6,South Africa,India,51,South Africa,Newlands,4,South Africa
+94,15.4,4,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,10,South Africa,India,55,South Africa,Newlands,4,South Africa
+95,15.5,1,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,11,South Africa,India,56,South Africa,Newlands,4,South Africa
+96,15.6,0,IK Pathan,2006-11-26,1st,AB de Villiers,11,,MV Boucher,2,South Africa,India,56,South Africa,Newlands,4,South Africa
+97,16.1,0,A Kumble,2006-11-26,1st,MV Boucher,2,,AB de Villiers,11,South Africa,India,56,South Africa,Newlands,4,South Africa
+98,16.2,0,A Kumble,2006-11-26,1st,MV Boucher,2,,AB de Villiers,11,South Africa,India,56,South Africa,Newlands,4,South Africa
+99,16.3,0,A Kumble,2006-11-26,1st,MV Boucher,2,,AB de Villiers,11,South Africa,India,56,South Africa,Newlands,4,South Africa
+100,16.4,0,A Kumble,2006-11-26,1st,MV Boucher,2,,AB de Villiers,11,South Africa,India,56,South Africa,Newlands,4,South Africa
+101,16.5,1,A Kumble,2006-11-26,1st,MV Boucher,2,,AB de Villiers,12,South Africa,India,57,South Africa,Newlands,4,South Africa
+102,16.6,0,A Kumble,2006-11-26,1st,AB de Villiers,12,,MV Boucher,2,South Africa,India,57,South Africa,Newlands,4,South Africa
+103,17.1,2,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,14,South Africa,India,59,South Africa,Newlands,4,South Africa
+104,17.2,4,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,18,South Africa,India,63,South Africa,Newlands,4,South Africa
+105,17.3,4,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,22,South Africa,India,67,South Africa,Newlands,4,South Africa
+106,17.4,1,IK Pathan,2006-11-26,1st,MV Boucher,2,,AB de Villiers,23,South Africa,India,68,South Africa,Newlands,4,South Africa
+107,17.5,0,IK Pathan,2006-11-26,1st,AB de Villiers,23,,MV Boucher,2,South Africa,India,68,South Africa,Newlands,4,South Africa
+108,17.6,1,IK Pathan,2006-11-26,1st,AB de Villiers,23,,MV Boucher,3,South Africa,India,69,South Africa,Newlands,4,South Africa
+109,18.1,0,A Kumble,2006-11-26,1st,AB de Villiers,23,,MV Boucher,3,South Africa,India,69,South Africa,Newlands,4,South Africa
+110,18.2,1,A Kumble,2006-11-26,1st,AB de Villiers,23,,MV Boucher,4,South Africa,India,70,South Africa,Newlands,4,South Africa
+111,18.3,0,A Kumble,2006-11-26,1st,MV Boucher,4,,AB de Villiers,23,South Africa,India,70,South Africa,Newlands,4,South Africa
+112,18.4,0,A Kumble,2006-11-26,1st,MV Boucher,4,,AB de Villiers,23,South Africa,India,70,South Africa,Newlands,4,South Africa
+113,18.5,1,A Kumble,2006-11-26,1st,MV Boucher,4,MV Boucher,AB de Villiers,24,South Africa,India,71,South Africa,Newlands,5,South Africa
+114,18.6,1,A Kumble,2006-11-26,1st,JM Kemp,0,,AB de Villiers,25,South Africa,India,72,South Africa,Newlands,5,South Africa
+115,19.1,4,AB Agarkar,2006-11-26,1st,JM Kemp,0,,AB de Villiers,29,South Africa,India,76,South Africa,Newlands,5,South Africa
+116,19.2,0,AB Agarkar,2006-11-26,1st,JM Kemp,0,AB de Villiers,AB de Villiers,29,South Africa,India,76,South Africa,Newlands,6,South Africa
+117,19.3,0,AB Agarkar,2006-11-26,1st,JM Kemp,0,,SM Pollock,0,South Africa,India,76,South Africa,Newlands,6,South Africa
+118,19.4,0,AB Agarkar,2006-11-26,1st,JM Kemp,0,,SM Pollock,0,South Africa,India,76,South Africa,Newlands,6,South Africa
+119,19.5,0,AB Agarkar,2006-11-26,1st,JM Kemp,0,,SM Pollock,0,South Africa,India,76,South Africa,Newlands,6,South Africa
+120,19.6,0,AB Agarkar,2006-11-26,1st,JM Kemp,0,,SM Pollock,0,South Africa,India,76,South Africa,Newlands,6,South Africa
+121,20.1,0,A Kumble,2006-11-26,1st,SM Pollock,0,,JM Kemp,0,South Africa,India,76,South Africa,Newlands,6,South Africa
+122,20.2,0,A Kumble,2006-11-26,1st,SM Pollock,0,,JM Kemp,0,South Africa,India,76,South Africa,Newlands,6,South Africa
+123,20.3,1,A Kumble,2006-11-26,1st,SM Pollock,0,,JM Kemp,1,South Africa,India,77,South Africa,Newlands,6,South Africa
+124,20.4,0,A Kumble,2006-11-26,1st,JM Kemp,1,,SM Pollock,0,South Africa,India,77,South Africa,Newlands,6,South Africa
+125,20.5,0,A Kumble,2006-11-26,1st,JM Kemp,1,,SM Pollock,0,South Africa,India,77,South Africa,Newlands,6,South Africa
+126,20.6,0,A Kumble,2006-11-26,1st,JM Kemp,1,,SM Pollock,0,South Africa,India,77,South Africa,Newlands,6,South Africa
+127,21.1,0,AB Agarkar,2006-11-26,1st,SM Pollock,0,,JM Kemp,1,South Africa,India,77,South Africa,Newlands,6,South Africa
+128,21.2,0,AB Agarkar,2006-11-26,1st,SM Pollock,0,,JM Kemp,1,South Africa,India,77,South Africa,Newlands,6,South Africa
+129,21.3,1,AB Agarkar,2006-11-26,1st,SM Pollock,0,,JM Kemp,2,South Africa,India,78,South Africa,Newlands,6,South Africa
+130,21.4,4,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,4,South Africa,India,82,South Africa,Newlands,6,South Africa
+131,21.5,0,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,4,South Africa,India,82,South Africa,Newlands,6,South Africa
+132,21.6,0,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,4,South Africa,India,82,South Africa,Newlands,6,South Africa
+133,22.1,0,A Kumble,2006-11-26,1st,SM Pollock,4,,JM Kemp,2,South Africa,India,82,South Africa,Newlands,6,South Africa
+134,22.2,0,A Kumble,2006-11-26,1st,SM Pollock,4,,JM Kemp,2,South Africa,India,82,South Africa,Newlands,6,South Africa
+135,22.3,0,A Kumble,2006-11-26,1st,SM Pollock,4,,JM Kemp,2,South Africa,India,82,South Africa,Newlands,6,South Africa
+136,22.4,0,A Kumble,2006-11-26,1st,SM Pollock,4,,JM Kemp,2,South Africa,India,82,South Africa,Newlands,6,South Africa
+137,22.5,0,A Kumble,2006-11-26,1st,SM Pollock,4,,JM Kemp,2,South Africa,India,82,South Africa,Newlands,6,South Africa
+138,22.6,0,A Kumble,2006-11-26,1st,SM Pollock,4,,JM Kemp,2,South Africa,India,82,South Africa,Newlands,6,South Africa
+139,23.1,4,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,8,South Africa,India,86,South Africa,Newlands,6,South Africa
+140,23.2,0,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,8,South Africa,India,86,South Africa,Newlands,6,South Africa
+141,23.3,0,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,8,South Africa,India,86,South Africa,Newlands,6,South Africa
+142,23.4,0,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,8,South Africa,India,86,South Africa,Newlands,6,South Africa
+143,23.5,0,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,8,South Africa,India,86,South Africa,Newlands,6,South Africa
+144,23.6,4,AB Agarkar,2006-11-26,1st,JM Kemp,2,,SM Pollock,12,South Africa,India,90,South Africa,Newlands,6,South Africa
+145,24.1,1,A Kumble,2006-11-26,1st,SM Pollock,12,,JM Kemp,3,South Africa,India,91,South Africa,Newlands,6,South Africa
+146,24.2,0,A Kumble,2006-11-26,1st,JM Kemp,3,,SM Pollock,12,South Africa,India,91,South Africa,Newlands,6,South Africa
+147,24.3,0,A Kumble,2006-11-26,1st,JM Kemp,3,,SM Pollock,12,South Africa,India,91,South Africa,Newlands,6,South Africa
+148,24.4,0,A Kumble,2006-11-26,1st,JM Kemp,3,,SM Pollock,12,South Africa,India,91,South Africa,Newlands,6,South Africa
+149,24.5,0,A Kumble,2006-11-26,1st,JM Kemp,3,,SM Pollock,12,South Africa,India,91,South Africa,Newlands,6,South Africa
+150,24.6,0,A Kumble,2006-11-26,1st,JM Kemp,3,,SM Pollock,12,South Africa,India,91,South Africa,Newlands,6,South Africa
+151,25.1,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,12,,JM Kemp,3,South Africa,India,91,South Africa,Newlands,6,South Africa
+152,25.2,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,12,,JM Kemp,4,South Africa,India,92,South Africa,Newlands,6,South Africa
+153,25.3,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,4,,SM Pollock,13,South Africa,India,93,South Africa,Newlands,6,South Africa
+154,25.4,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,13,,JM Kemp,4,South Africa,India,93,South Africa,Newlands,6,South Africa
+155,25.5,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,13,,JM Kemp,4,South Africa,India,93,South Africa,Newlands,6,South Africa
+156,25.6,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,13,,JM Kemp,5,South Africa,India,94,South Africa,Newlands,6,South Africa
+157,26.1,0,A Kumble,2006-11-26,1st,SM Pollock,13,,JM Kemp,5,South Africa,India,94,South Africa,Newlands,6,South Africa
+158,26.2,0,A Kumble,2006-11-26,1st,SM Pollock,13,,JM Kemp,5,South Africa,India,94,South Africa,Newlands,6,South Africa
+159,26.3,0,A Kumble,2006-11-26,1st,SM Pollock,13,,JM Kemp,5,South Africa,India,94,South Africa,Newlands,6,South Africa
+160,26.4,0,A Kumble,2006-11-26,1st,SM Pollock,13,,JM Kemp,5,South Africa,India,95,South Africa,Newlands,6,South Africa
+161,26.5,1,A Kumble,2006-11-26,1st,SM Pollock,13,,JM Kemp,6,South Africa,India,96,South Africa,Newlands,6,South Africa
+162,26.6,0,A Kumble,2006-11-26,1st,JM Kemp,6,,SM Pollock,13,South Africa,India,96,South Africa,Newlands,6,South Africa
+163,26.7,0,A Kumble,2006-11-26,1st,JM Kemp,6,,SM Pollock,13,South Africa,India,96,South Africa,Newlands,6,South Africa
+164,27.1,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,13,,JM Kemp,7,South Africa,India,97,South Africa,Newlands,6,South Africa
+165,27.2,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,7,,SM Pollock,13,South Africa,India,97,South Africa,Newlands,6,South Africa
+166,27.3,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,7,,SM Pollock,14,South Africa,India,98,South Africa,Newlands,6,South Africa
+167,27.4,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,14,,JM Kemp,7,South Africa,India,98,South Africa,Newlands,6,South Africa
+168,27.5,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,14,,JM Kemp,8,South Africa,India,99,South Africa,Newlands,6,South Africa
+169,27.6,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,8,,SM Pollock,14,South Africa,India,99,South Africa,Newlands,6,South Africa
+170,28.1,1,A Kumble,2006-11-26,1st,SM Pollock,14,,JM Kemp,9,South Africa,India,100,South Africa,Newlands,6,South Africa
+171,28.2,1,A Kumble,2006-11-26,1st,JM Kemp,9,,SM Pollock,15,South Africa,India,101,South Africa,Newlands,6,South Africa
+172,28.3,0,A Kumble,2006-11-26,1st,SM Pollock,15,,JM Kemp,9,South Africa,India,101,South Africa,Newlands,6,South Africa
+173,28.4,0,A Kumble,2006-11-26,1st,SM Pollock,15,,JM Kemp,9,South Africa,India,101,South Africa,Newlands,6,South Africa
+174,28.5,0,A Kumble,2006-11-26,1st,SM Pollock,15,,JM Kemp,9,South Africa,India,101,South Africa,Newlands,6,South Africa
+175,28.6,0,A Kumble,2006-11-26,1st,SM Pollock,15,,JM Kemp,9,South Africa,India,101,South Africa,Newlands,6,South Africa
+176,29.1,2,Harbhajan Singh,2006-11-26,1st,JM Kemp,9,,SM Pollock,17,South Africa,India,103,South Africa,Newlands,6,South Africa
+177,29.2,4,Harbhajan Singh,2006-11-26,1st,JM Kemp,9,,SM Pollock,21,South Africa,India,107,South Africa,Newlands,6,South Africa
+178,29.3,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,9,,SM Pollock,21,South Africa,India,107,South Africa,Newlands,6,South Africa
+179,29.4,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,9,,SM Pollock,21,South Africa,India,107,South Africa,Newlands,6,South Africa
+180,29.5,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,9,,SM Pollock,22,South Africa,India,108,South Africa,Newlands,6,South Africa
+181,29.6,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,22,,JM Kemp,9,South Africa,India,108,South Africa,Newlands,6,South Africa
+182,30.1,0,SR Tendulkar,2006-11-26,1st,JM Kemp,9,,SM Pollock,22,South Africa,India,108,South Africa,Newlands,6,South Africa
+183,30.2,1,SR Tendulkar,2006-11-26,1st,JM Kemp,9,,SM Pollock,23,South Africa,India,109,South Africa,Newlands,6,South Africa
+184,30.3,0,SR Tendulkar,2006-11-26,1st,SM Pollock,23,,JM Kemp,9,South Africa,India,109,South Africa,Newlands,6,South Africa
+185,30.4,0,SR Tendulkar,2006-11-26,1st,SM Pollock,23,,JM Kemp,9,South Africa,India,109,South Africa,Newlands,6,South Africa
+186,30.5,0,SR Tendulkar,2006-11-26,1st,SM Pollock,23,,JM Kemp,9,South Africa,India,109,South Africa,Newlands,6,South Africa
+187,30.6,0,SR Tendulkar,2006-11-26,1st,SM Pollock,23,,JM Kemp,9,South Africa,India,109,South Africa,Newlands,6,South Africa
+188,31.1,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,9,,SM Pollock,24,South Africa,India,110,South Africa,Newlands,6,South Africa
+189,31.2,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,24,,JM Kemp,10,South Africa,India,111,South Africa,Newlands,6,South Africa
+190,31.3,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,10,,SM Pollock,24,South Africa,India,111,South Africa,Newlands,6,South Africa
+191,31.4,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,10,,SM Pollock,25,South Africa,India,112,South Africa,Newlands,6,South Africa
+192,31.5,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,25,,JM Kemp,11,South Africa,India,113,South Africa,Newlands,6,South Africa
+193,31.6,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,11,,SM Pollock,25,South Africa,India,113,South Africa,Newlands,6,South Africa
+194,32.1,1,SR Tendulkar,2006-11-26,1st,SM Pollock,25,,JM Kemp,12,South Africa,India,114,South Africa,Newlands,6,South Africa
+195,32.2,0,SR Tendulkar,2006-11-26,1st,JM Kemp,12,,SM Pollock,25,South Africa,India,114,South Africa,Newlands,6,South Africa
+196,32.3,1,SR Tendulkar,2006-11-26,1st,JM Kemp,12,,SM Pollock,26,South Africa,India,115,South Africa,Newlands,6,South Africa
+197,32.4,1,SR Tendulkar,2006-11-26,1st,SM Pollock,26,,JM Kemp,13,South Africa,India,116,South Africa,Newlands,6,South Africa
+198,32.5,0,SR Tendulkar,2006-11-26,1st,JM Kemp,13,,SM Pollock,26,South Africa,India,116,South Africa,Newlands,6,South Africa
+199,32.6,1,SR Tendulkar,2006-11-26,1st,JM Kemp,13,,SM Pollock,27,South Africa,India,117,South Africa,Newlands,6,South Africa
+200,33.1,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,13,,SM Pollock,27,South Africa,India,117,South Africa,Newlands,6,South Africa
+201,33.2,4,Harbhajan Singh,2006-11-26,1st,JM Kemp,13,,SM Pollock,31,South Africa,India,121,South Africa,Newlands,6,South Africa
+202,33.3,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,13,,SM Pollock,31,South Africa,India,121,South Africa,Newlands,6,South Africa
+203,33.4,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,13,,SM Pollock,32,South Africa,India,122,South Africa,Newlands,6,South Africa
+204,33.5,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,32,,JM Kemp,13,South Africa,India,122,South Africa,Newlands,6,South Africa
+205,33.6,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,32,,JM Kemp,14,South Africa,India,123,South Africa,Newlands,6,South Africa
+206,34.1,1,SR Tendulkar,2006-11-26,1st,SM Pollock,32,,JM Kemp,15,South Africa,India,124,South Africa,Newlands,6,South Africa
+207,34.2,1,SR Tendulkar,2006-11-26,1st,JM Kemp,15,,SM Pollock,33,South Africa,India,125,South Africa,Newlands,6,South Africa
+208,34.3,0,SR Tendulkar,2006-11-26,1st,SM Pollock,33,,JM Kemp,15,South Africa,India,125,South Africa,Newlands,6,South Africa
+209,34.4,0,SR Tendulkar,2006-11-26,1st,SM Pollock,33,,JM Kemp,15,South Africa,India,126,South Africa,Newlands,6,South Africa
+210,34.5,4,SR Tendulkar,2006-11-26,1st,SM Pollock,33,,JM Kemp,19,South Africa,India,130,South Africa,Newlands,6,South Africa
+211,34.6,1,SR Tendulkar,2006-11-26,1st,SM Pollock,33,,JM Kemp,20,South Africa,India,131,South Africa,Newlands,6,South Africa
+212,34.7,0,SR Tendulkar,2006-11-26,1st,JM Kemp,20,,SM Pollock,33,South Africa,India,131,South Africa,Newlands,6,South Africa
+213,35.1,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,33,,JM Kemp,20,South Africa,India,131,South Africa,Newlands,6,South Africa
+214,35.2,0,Harbhajan Singh,2006-11-26,1st,SM Pollock,33,,JM Kemp,20,South Africa,India,131,South Africa,Newlands,6,South Africa
+215,35.3,4,Harbhajan Singh,2006-11-26,1st,SM Pollock,33,,JM Kemp,24,South Africa,India,135,South Africa,Newlands,6,South Africa
+216,35.4,1,Harbhajan Singh,2006-11-26,1st,SM Pollock,33,,JM Kemp,25,South Africa,India,136,South Africa,Newlands,6,South Africa
+217,35.5,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,25,SM Pollock,SM Pollock,33,South Africa,India,136,South Africa,Newlands,7,South Africa
+218,35.6,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,25,,AJ Hall,0,South Africa,India,136,South Africa,Newlands,7,South Africa
+219,36.1,0,A Kumble,2006-11-26,1st,AJ Hall,0,,JM Kemp,25,South Africa,India,136,South Africa,Newlands,7,South Africa
+220,36.2,0,A Kumble,2006-11-26,1st,AJ Hall,0,,JM Kemp,25,South Africa,India,136,South Africa,Newlands,7,South Africa
+221,36.3,1,A Kumble,2006-11-26,1st,AJ Hall,0,,JM Kemp,26,South Africa,India,137,South Africa,Newlands,7,South Africa
+222,36.4,1,A Kumble,2006-11-26,1st,JM Kemp,26,,AJ Hall,1,South Africa,India,138,South Africa,Newlands,7,South Africa
+223,36.5,2,A Kumble,2006-11-26,1st,AJ Hall,1,,JM Kemp,28,South Africa,India,140,South Africa,Newlands,7,South Africa
+224,36.6,4,A Kumble,2006-11-26,1st,AJ Hall,1,,JM Kemp,32,South Africa,India,144,South Africa,Newlands,7,South Africa
+225,37.1,2,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,3,South Africa,India,146,South Africa,Newlands,7,South Africa
+226,37.2,4,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,7,South Africa,India,150,South Africa,Newlands,7,South Africa
+227,37.3,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,7,South Africa,India,150,South Africa,Newlands,7,South Africa
+228,37.4,4,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,11,South Africa,India,154,South Africa,Newlands,7,South Africa
+229,37.5,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,11,South Africa,India,154,South Africa,Newlands,7,South Africa
+230,37.6,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,12,South Africa,India,155,South Africa,Newlands,7,South Africa
+231,38.1,2,A Kumble,2006-11-26,1st,JM Kemp,32,,AJ Hall,14,South Africa,India,157,South Africa,Newlands,7,South Africa
+232,38.2,0,A Kumble,2006-11-26,1st,JM Kemp,32,,AJ Hall,14,South Africa,India,157,South Africa,Newlands,7,South Africa
+233,38.3,0,A Kumble,2006-11-26,1st,JM Kemp,32,,AJ Hall,14,South Africa,India,158,South Africa,Newlands,7,South Africa
+234,38.4,0,A Kumble,2006-11-26,1st,JM Kemp,32,,AJ Hall,14,South Africa,India,158,South Africa,Newlands,7,South Africa
+235,38.5,0,A Kumble,2006-11-26,1st,JM Kemp,32,,AJ Hall,14,South Africa,India,158,South Africa,Newlands,7,South Africa
+236,38.6,1,A Kumble,2006-11-26,1st,JM Kemp,32,,AJ Hall,15,South Africa,India,159,South Africa,Newlands,7,South Africa
+237,38.7,0,A Kumble,2006-11-26,1st,AJ Hall,15,,JM Kemp,32,South Africa,India,159,South Africa,Newlands,7,South Africa
+238,39.1,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,15,South Africa,India,159,South Africa,Newlands,7,South Africa
+239,39.2,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,32,,AJ Hall,16,South Africa,India,160,South Africa,Newlands,7,South Africa
+240,39.3,1,Harbhajan Singh,2006-11-26,1st,AJ Hall,16,,JM Kemp,33,South Africa,India,161,South Africa,Newlands,7,South Africa
+241,39.4,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,33,,AJ Hall,16,South Africa,India,161,South Africa,Newlands,7,South Africa
+242,39.5,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,33,,AJ Hall,16,South Africa,India,161,South Africa,Newlands,7,South Africa
+243,39.6,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,33,,AJ Hall,16,South Africa,India,161,South Africa,Newlands,7,South Africa
+244,40.1,0,Z Khan,2006-11-26,1st,AJ Hall,16,,JM Kemp,33,South Africa,India,161,South Africa,Newlands,7,South Africa
+245,40.2,0,Z Khan,2006-11-26,1st,AJ Hall,16,,JM Kemp,33,South Africa,India,161,South Africa,Newlands,7,South Africa
+246,40.3,0,Z Khan,2006-11-26,1st,AJ Hall,16,,JM Kemp,33,South Africa,India,161,South Africa,Newlands,7,South Africa
+247,40.4,1,Z Khan,2006-11-26,1st,AJ Hall,16,,JM Kemp,34,South Africa,India,162,South Africa,Newlands,7,South Africa
+248,40.5,1,Z Khan,2006-11-26,1st,JM Kemp,34,,AJ Hall,17,South Africa,India,163,South Africa,Newlands,7,South Africa
+249,40.6,0,Z Khan,2006-11-26,1st,AJ Hall,17,,JM Kemp,34,South Africa,India,163,South Africa,Newlands,7,South Africa
+250,41.1,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,34,,AJ Hall,17,South Africa,India,164,South Africa,Newlands,7,South Africa
+251,41.2,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,34,,AJ Hall,17,South Africa,India,164,South Africa,Newlands,7,South Africa
+252,41.3,4,Harbhajan Singh,2006-11-26,1st,JM Kemp,34,,AJ Hall,21,South Africa,India,168,South Africa,Newlands,7,South Africa
+253,41.4,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,34,,AJ Hall,21,South Africa,India,168,South Africa,Newlands,7,South Africa
+254,41.5,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,34,,AJ Hall,22,South Africa,India,169,South Africa,Newlands,7,South Africa
+255,41.6,1,Harbhajan Singh,2006-11-26,1st,AJ Hall,22,,JM Kemp,35,South Africa,India,170,South Africa,Newlands,7,South Africa
+256,41.7,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,35,,AJ Hall,22,South Africa,India,170,South Africa,Newlands,7,South Africa
+257,42.1,1,Z Khan,2006-11-26,1st,AJ Hall,22,,JM Kemp,36,South Africa,India,171,South Africa,Newlands,7,South Africa
+258,42.2,0,Z Khan,2006-11-26,1st,JM Kemp,36,,AJ Hall,22,South Africa,India,171,South Africa,Newlands,7,South Africa
+259,42.3,4,Z Khan,2006-11-26,1st,JM Kemp,36,,AJ Hall,26,South Africa,India,175,South Africa,Newlands,7,South Africa
+260,42.4,1,Z Khan,2006-11-26,1st,JM Kemp,36,,AJ Hall,27,South Africa,India,176,South Africa,Newlands,7,South Africa
+261,42.5,6,Z Khan,2006-11-26,1st,AJ Hall,27,,JM Kemp,42,South Africa,India,182,South Africa,Newlands,7,South Africa
+262,42.6,0,Z Khan,2006-11-26,1st,AJ Hall,27,,JM Kemp,42,South Africa,India,182,South Africa,Newlands,7,South Africa
+263,43.1,0,Harbhajan Singh,2006-11-26,1st,JM Kemp,42,,AJ Hall,27,South Africa,India,182,South Africa,Newlands,7,South Africa
+264,43.2,1,Harbhajan Singh,2006-11-26,1st,JM Kemp,42,,AJ Hall,28,South Africa,India,183,South Africa,Newlands,7,South Africa
+265,43.3,6,Harbhajan Singh,2006-11-26,1st,AJ Hall,28,,JM Kemp,48,South Africa,India,189,South Africa,Newlands,7,South Africa
+266,43.4,4,Harbhajan Singh,2006-11-26,1st,AJ Hall,28,,JM Kemp,52,South Africa,India,193,South Africa,Newlands,7,South Africa
+267,43.5,0,Harbhajan Singh,2006-11-26,1st,AJ Hall,28,,JM Kemp,52,South Africa,India,193,South Africa,Newlands,7,South Africa
+268,43.6,2,Harbhajan Singh,2006-11-26,1st,AJ Hall,28,,JM Kemp,54,South Africa,India,196,South Africa,Newlands,7,South Africa
+269,43.7,1,Harbhajan Singh,2006-11-26,1st,AJ Hall,28,,JM Kemp,55,South Africa,India,197,South Africa,Newlands,7,South Africa
+270,44.1,1,IK Pathan,2006-11-26,1st,AJ Hall,28,,JM Kemp,56,South Africa,India,198,South Africa,Newlands,7,South Africa
+271,44.2,1,IK Pathan,2006-11-26,1st,JM Kemp,56,,AJ Hall,29,South Africa,India,199,South Africa,Newlands,7,South Africa
+272,44.3,0,IK Pathan,2006-11-26,1st,AJ Hall,29,,JM Kemp,56,South Africa,India,199,South Africa,Newlands,7,South Africa
+273,44.4,4,IK Pathan,2006-11-26,1st,AJ Hall,29,,JM Kemp,60,South Africa,India,203,South Africa,Newlands,7,South Africa
+274,44.5,6,IK Pathan,2006-11-26,1st,AJ Hall,29,,JM Kemp,66,South Africa,India,209,South Africa,Newlands,7,South Africa
+275,44.6,0,IK Pathan,2006-11-26,1st,AJ Hall,29,,JM Kemp,66,South Africa,India,210,South Africa,Newlands,7,South Africa
+276,44.7,6,IK Pathan,2006-11-26,1st,AJ Hall,29,,JM Kemp,72,South Africa,India,216,South Africa,Newlands,7,South Africa
+277,45.1,2,AB Agarkar,2006-11-26,1st,JM Kemp,72,,AJ Hall,31,South Africa,India,218,South Africa,Newlands,7,South Africa
+278,45.2,4,AB Agarkar,2006-11-26,1st,JM Kemp,72,,AJ Hall,35,South Africa,India,222,South Africa,Newlands,7,South Africa
+279,45.3,0,AB Agarkar,2006-11-26,1st,JM Kemp,72,,AJ Hall,35,South Africa,India,222,South Africa,Newlands,7,South Africa
+280,45.4,4,AB Agarkar,2006-11-26,1st,JM Kemp,72,,AJ Hall,39,South Africa,India,226,South Africa,Newlands,7,South Africa
+281,45.5,1,AB Agarkar,2006-11-26,1st,JM Kemp,72,,AJ Hall,40,South Africa,India,227,South Africa,Newlands,7,South Africa
+282,45.6,0,AB Agarkar,2006-11-26,1st,AJ Hall,40,,JM Kemp,72,South Africa,India,227,South Africa,Newlands,7,South Africa
+283,46.1,1,Z Khan,2006-11-26,1st,JM Kemp,72,,AJ Hall,41,South Africa,India,228,South Africa,Newlands,7,South Africa
+284,46.2,6,Z Khan,2006-11-26,1st,AJ Hall,41,,JM Kemp,78,South Africa,India,234,South Africa,Newlands,7,South Africa
+285,46.3,6,Z Khan,2006-11-26,1st,AJ Hall,41,,JM Kemp,84,South Africa,India,240,South Africa,Newlands,7,South Africa
+286,46.4,0,Z Khan,2006-11-26,1st,AJ Hall,41,,JM Kemp,84,South Africa,India,241,South Africa,Newlands,7,South Africa
+287,46.5,1,Z Khan,2006-11-26,1st,AJ Hall,41,,JM Kemp,85,South Africa,India,242,South Africa,Newlands,7,South Africa
+288,46.6,0,Z Khan,2006-11-26,1st,JM Kemp,85,,AJ Hall,41,South Africa,India,243,South Africa,Newlands,7,South Africa
+289,46.7,2,Z Khan,2006-11-26,1st,JM Kemp,85,,AJ Hall,43,South Africa,India,245,South Africa,Newlands,7,South Africa
+290,46.8,1,Z Khan,2006-11-26,1st,JM Kemp,85,,AJ Hall,44,South Africa,India,246,South Africa,Newlands,7,South Africa
+291,47.1,1,AB Agarkar,2006-11-26,1st,JM Kemp,85,,AJ Hall,45,South Africa,India,247,South Africa,Newlands,7,South Africa
+292,47.2,1,AB Agarkar,2006-11-26,1st,AJ Hall,45,,JM Kemp,86,South Africa,India,248,South Africa,Newlands,7,South Africa
+293,47.3,1,AB Agarkar,2006-11-26,1st,JM Kemp,86,,AJ Hall,46,South Africa,India,249,South Africa,Newlands,7,South Africa
+294,47.4,1,AB Agarkar,2006-11-26,1st,AJ Hall,46,,JM Kemp,87,South Africa,India,250,South Africa,Newlands,7,South Africa
+295,47.5,1,AB Agarkar,2006-11-26,1st,JM Kemp,87,,AJ Hall,47,South Africa,India,251,South Africa,Newlands,7,South Africa
+296,47.6,4,AB Agarkar,2006-11-26,1st,AJ Hall,47,,JM Kemp,91,South Africa,India,255,South Africa,Newlands,7,South Africa
+297,48.1,1,IK Pathan,2006-11-26,1st,JM Kemp,91,,AJ Hall,48,South Africa,India,256,South Africa,Newlands,7,South Africa
+298,48.2,0,IK Pathan,2006-11-26,1st,AJ Hall,48,,JM Kemp,91,South Africa,India,256,South Africa,Newlands,7,South Africa
+299,48.3,0,IK Pathan,2006-11-26,1st,AJ Hall,48,,JM Kemp,91,South Africa,India,256,South Africa,Newlands,7,South Africa
+300,48.4,0,IK Pathan,2006-11-26,1st,AJ Hall,48,,JM Kemp,91,South Africa,India,257,South Africa,Newlands,7,South Africa
+301,48.5,6,IK Pathan,2006-11-26,1st,AJ Hall,48,,JM Kemp,97,South Africa,India,263,South Africa,Newlands,7,South Africa
+302,48.6,1,IK Pathan,2006-11-26,1st,AJ Hall,48,,JM Kemp,98,South Africa,India,264,South Africa,Newlands,7,South Africa
+303,48.7,1,IK Pathan,2006-11-26,1st,JM Kemp,98,,AJ Hall,49,South Africa,India,265,South Africa,Newlands,7,South Africa
+304,49.1,1,AB Agarkar,2006-11-26,1st,JM Kemp,98,,AJ Hall,50,South Africa,India,266,South Africa,Newlands,7,South Africa
+305,49.2,1,AB Agarkar,2006-11-26,1st,AJ Hall,50,,JM Kemp,99,South Africa,India,267,South Africa,Newlands,7,South Africa
+306,49.3,1,AB Agarkar,2006-11-26,1st,JM Kemp,99,,AJ Hall,51,South Africa,India,268,South Africa,Newlands,7,South Africa
+307,49.4,1,AB Agarkar,2006-11-26,1st,AJ Hall,51,,JM Kemp,100,South Africa,India,269,South Africa,Newlands,7,South Africa
+308,49.5,4,AB Agarkar,2006-11-26,1st,JM Kemp,100,,AJ Hall,55,South Africa,India,273,South Africa,Newlands,7,South Africa
+309,49.6,1,AB Agarkar,2006-11-26,1st,JM Kemp,100,,AJ Hall,56,South Africa,India,274,South Africa,Newlands,7,South Africa
+310,0.1,0,SM Pollock,2006-11-26,2nd,SR Tendulkar,0,,V Sehwag,0,South Africa,India,0,South Africa,Newlands,0,South Africa
+311,0.2,0,SM Pollock,2006-11-26,2nd,SR Tendulkar,0,,V Sehwag,0,South Africa,India,0,South Africa,Newlands,0,South Africa
+312,0.3,0,SM Pollock,2006-11-26,2nd,SR Tendulkar,0,,V Sehwag,0,South Africa,India,0,South Africa,Newlands,0,South Africa
+313,0.4,0,SM Pollock,2006-11-26,2nd,SR Tendulkar,0,,V Sehwag,0,South Africa,India,0,South Africa,Newlands,1,South Africa
+314,0.5,1,SM Pollock,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,1,South Africa,Newlands,1,South Africa
+315,0.6,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,1,South Africa,Newlands,1,South Africa
+316,1.1,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,1,South Africa,Newlands,1,South Africa
+317,1.2,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,1,South Africa,Newlands,1,South Africa
+318,1.3,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,1,South Africa,Newlands,1,South Africa
+319,1.4,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,1,South Africa,Newlands,1,South Africa
+320,1.5,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,1,South Africa,Newlands,1,South Africa
+321,1.6,1,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,2,South Africa,Newlands,1,South Africa
+322,2.1,0,SM Pollock,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,2,South Africa,Newlands,1,South Africa
+323,2.2,1,SM Pollock,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+324,2.3,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+325,2.4,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+326,2.5,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+327,2.6,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+328,3.1,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+329,3.2,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+330,3.3,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,3,South Africa,Newlands,1,South Africa
+331,3.4,2,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,5,South Africa,Newlands,1,South Africa
+332,3.5,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,5,South Africa,Newlands,1,South Africa
+333,3.6,0,M Ntini,2006-11-26,2nd,SR Tendulkar,0,,R Dravid,0,South Africa,India,5,South Africa,Newlands,1,South Africa
+334,4.1,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,5,South Africa,Newlands,1,South Africa
+335,4.2,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,5,South Africa,Newlands,1,South Africa
+336,4.3,2,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,7,South Africa,Newlands,1,South Africa
+337,4.4,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,SR Tendulkar,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+338,4.5,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+339,4.6,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+340,5.1,0,M Ntini,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+341,5.2,0,M Ntini,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+342,5.3,0,M Ntini,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+343,5.4,0,M Ntini,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+344,5.5,0,M Ntini,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+345,5.6,0,M Ntini,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+346,6.1,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+347,6.2,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+348,6.3,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+349,6.4,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,7,South Africa,Newlands,2,South Africa
+350,6.5,1,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,8,South Africa,Newlands,2,South Africa
+351,6.6,0,SM Pollock,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,8,South Africa,Newlands,2,South Africa
+352,7.1,0,M Ntini,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,8,South Africa,Newlands,2,South Africa
+353,7.2,0,M Ntini,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,8,South Africa,Newlands,2,South Africa
+354,7.3,0,M Ntini,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,8,South Africa,Newlands,2,South Africa
+355,7.4,0,M Ntini,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,8,South Africa,Newlands,2,South Africa
+356,7.5,3,M Ntini,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,11,South Africa,Newlands,2,South Africa
+357,7.6,0,M Ntini,2006-11-26,2nd,M Kaif,0,,R Dravid,0,South Africa,India,11,South Africa,Newlands,2,South Africa
+358,8.1,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,11,South Africa,Newlands,2,South Africa
+359,8.2,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,11,South Africa,Newlands,2,South Africa
+360,8.3,2,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,13,South Africa,Newlands,2,South Africa
+361,8.4,4,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,17,South Africa,Newlands,2,South Africa
+362,8.5,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,M Kaif,0,South Africa,India,17,South Africa,Newlands,3,South Africa
+363,8.6,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,17,South Africa,Newlands,3,South Africa
+364,9.1,1,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+365,9.2,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+366,9.3,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+367,9.4,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+368,9.5,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+369,9.6,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+370,10.1,0,SM Pollock,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+371,10.2,0,SM Pollock,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+372,10.3,0,SM Pollock,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+373,10.4,0,SM Pollock,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+374,10.5,0,SM Pollock,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,18,South Africa,Newlands,3,South Africa
+375,10.6,1,SM Pollock,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,19,South Africa,Newlands,3,South Africa
+376,11.1,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,19,South Africa,Newlands,3,South Africa
+377,11.2,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,20,South Africa,Newlands,3,South Africa
+378,11.3,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,20,South Africa,Newlands,3,South Africa
+379,11.4,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,20,South Africa,Newlands,3,South Africa
+380,11.5,1,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,21,South Africa,Newlands,3,South Africa
+381,11.6,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,21,South Africa,Newlands,3,South Africa
+382,11.7,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,21,South Africa,Newlands,3,South Africa
+383,12.1,1,SM Pollock,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,22,South Africa,Newlands,3,South Africa
+384,12.2,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,22,South Africa,Newlands,3,South Africa
+385,12.3,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,22,South Africa,Newlands,3,South Africa
+386,12.4,4,SM Pollock,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,26,South Africa,Newlands,3,South Africa
+387,12.5,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,26,South Africa,Newlands,3,South Africa
+388,12.6,0,SM Pollock,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,26,South Africa,Newlands,3,South Africa
+389,13.1,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,26,South Africa,Newlands,3,South Africa
+390,13.2,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,26,South Africa,Newlands,3,South Africa
+391,13.3,1,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,27,South Africa,Newlands,3,South Africa
+392,13.4,4,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,31,South Africa,Newlands,3,South Africa
+393,13.5,6,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,37,South Africa,Newlands,3,South Africa
+394,13.6,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,37,South Africa,Newlands,3,South Africa
+395,14.1,1,M Ntini,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+396,14.2,0,M Ntini,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+397,14.3,0,M Ntini,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+398,14.4,0,M Ntini,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+399,14.5,0,M Ntini,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+400,14.6,0,M Ntini,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+401,15.1,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+402,15.2,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,38,South Africa,Newlands,3,South Africa
+403,15.3,2,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,40,South Africa,Newlands,3,South Africa
+404,15.4,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,40,South Africa,Newlands,3,South Africa
+405,15.5,0,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,40,South Africa,Newlands,3,South Africa
+406,15.6,4,AJ Hall,2006-11-26,2nd,KD Karthik,0,,R Dravid,0,South Africa,India,44,South Africa,Newlands,3,South Africa
+407,16.1,0,M Ntini,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,44,South Africa,Newlands,3,South Africa
+408,16.2,0,M Ntini,2006-11-26,2nd,R Dravid,0,,KD Karthik,0,South Africa,India,44,South Africa,Newlands,4,South Africa
+409,16.3,0,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,44,South Africa,Newlands,4,South Africa
+410,16.4,0,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,44,South Africa,Newlands,4,South Africa
+411,16.5,6,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,50,South Africa,Newlands,4,South Africa
+412,16.6,0,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,50,South Africa,Newlands,4,South Africa
+413,17.1,0,AJ Hall,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,50,South Africa,Newlands,4,South Africa
+414,17.2,0,AJ Hall,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,50,South Africa,Newlands,4,South Africa
+415,17.3,0,AJ Hall,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,50,South Africa,Newlands,4,South Africa
+416,17.4,0,AJ Hall,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,50,South Africa,Newlands,4,South Africa
+417,17.5,4,AJ Hall,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,54,South Africa,Newlands,4,South Africa
+418,17.6,0,AJ Hall,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,54,South Africa,Newlands,4,South Africa
+419,18.1,0,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,54,South Africa,Newlands,4,South Africa
+420,18.2,0,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,54,South Africa,Newlands,4,South Africa
+421,18.3,0,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,54,South Africa,Newlands,4,South Africa
+422,18.4,0,M Ntini,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,55,South Africa,Newlands,4,South Africa
+423,18.5,0,M Ntini,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,55,South Africa,Newlands,4,South Africa
+424,18.6,0,M Ntini,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,55,South Africa,Newlands,4,South Africa
+425,19.1,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,55,South Africa,Newlands,4,South Africa
+426,19.2,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,56,South Africa,Newlands,4,South Africa
+427,19.3,4,AJ Hall,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,60,South Africa,Newlands,4,South Africa
+428,19.4,2,AJ Hall,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+429,19.5,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+430,19.6,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+431,19.7,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+432,20.1,0,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+433,20.2,0,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+434,20.3,0,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+435,20.4,0,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,62,South Africa,Newlands,4,South Africa
+436,20.5,1,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,63,South Africa,Newlands,4,South Africa
+437,20.6,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,63,South Africa,Newlands,4,South Africa
+438,21.1,1,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,64,South Africa,Newlands,4,South Africa
+439,21.2,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,64,South Africa,Newlands,4,South Africa
+440,21.3,1,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,65,South Africa,Newlands,4,South Africa
+441,21.4,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,65,South Africa,Newlands,4,South Africa
+442,21.5,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,65,South Africa,Newlands,4,South Africa
+443,21.6,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,66,South Africa,Newlands,4,South Africa
+444,21.7,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,66,South Africa,Newlands,4,South Africa
+445,22.1,1,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,67,South Africa,Newlands,4,South Africa
+446,22.2,4,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,71,South Africa,Newlands,4,South Africa
+447,22.3,1,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,72,South Africa,Newlands,4,South Africa
+448,22.4,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,72,South Africa,Newlands,4,South Africa
+449,22.5,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,72,South Africa,Newlands,4,South Africa
+450,22.6,1,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,73,South Africa,Newlands,4,South Africa
+451,23.1,2,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,75,South Africa,Newlands,4,South Africa
+452,23.2,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,75,South Africa,Newlands,4,South Africa
+453,23.3,4,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,79,South Africa,Newlands,4,South Africa
+454,23.4,1,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,80,South Africa,Newlands,4,South Africa
+455,23.5,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,80,South Africa,Newlands,4,South Africa
+456,23.6,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,80,South Africa,Newlands,4,South Africa
+457,24.1,2,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,82,South Africa,Newlands,4,South Africa
+458,24.2,1,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,83,South Africa,Newlands,4,South Africa
+459,24.3,1,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,84,South Africa,Newlands,4,South Africa
+460,24.4,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,84,South Africa,Newlands,4,South Africa
+461,24.5,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,84,South Africa,Newlands,4,South Africa
+462,24.6,1,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,85,South Africa,Newlands,4,South Africa
+463,25.1,1,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,86,South Africa,Newlands,4,South Africa
+464,25.2,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,86,South Africa,Newlands,4,South Africa
+465,25.3,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,86,South Africa,Newlands,4,South Africa
+466,25.4,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,87,South Africa,Newlands,4,South Africa
+467,25.5,1,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,88,South Africa,Newlands,4,South Africa
+468,25.6,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,88,South Africa,Newlands,4,South Africa
+469,25.7,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,88,South Africa,Newlands,4,South Africa
+470,26.1,1,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,89,South Africa,Newlands,4,South Africa
+471,26.2,1,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,90,South Africa,Newlands,4,South Africa
+472,26.3,0,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,90,South Africa,Newlands,4,South Africa
+473,26.4,1,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,91,South Africa,Newlands,4,South Africa
+474,26.5,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,91,South Africa,Newlands,4,South Africa
+475,26.6,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,91,South Africa,Newlands,4,South Africa
+476,27.1,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,91,South Africa,Newlands,4,South Africa
+477,27.2,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,91,South Africa,Newlands,4,South Africa
+478,27.3,0,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,91,South Africa,Newlands,4,South Africa
+479,27.4,2,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,93,South Africa,Newlands,4,South Africa
+480,27.5,1,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,94,South Africa,Newlands,4,South Africa
+481,27.6,1,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,95,South Africa,Newlands,4,South Africa
+482,28.1,6,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,101,South Africa,Newlands,4,South Africa
+483,28.2,0,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,101,South Africa,Newlands,4,South Africa
+484,28.3,6,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,107,South Africa,Newlands,4,South Africa
+485,28.4,1,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,108,South Africa,Newlands,4,South Africa
+486,28.5,1,CK Langeveldt,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,109,South Africa,Newlands,4,South Africa
+487,28.6,1,CK Langeveldt,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,110,South Africa,Newlands,4,South Africa
+488,29.1,4,JM Kemp,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,114,South Africa,Newlands,4,South Africa
+489,29.2,0,JM Kemp,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,114,South Africa,Newlands,4,South Africa
+490,29.3,6,JM Kemp,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,120,South Africa,Newlands,4,South Africa
+491,29.4,1,JM Kemp,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,121,South Africa,Newlands,4,South Africa
+492,29.5,2,JM Kemp,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,123,South Africa,Newlands,4,South Africa
+493,29.6,0,JM Kemp,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,123,South Africa,Newlands,4,South Africa
+494,30.1,1,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,124,South Africa,Newlands,4,South Africa
+495,30.2,4,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,128,South Africa,Newlands,4,South Africa
+496,30.3,1,JH Kallis,2006-11-26,2nd,MS Dhoni,0,,R Dravid,0,South Africa,India,129,South Africa,Newlands,4,South Africa
+497,30.4,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,MS Dhoni,0,South Africa,India,129,South Africa,Newlands,5,South Africa
+498,30.5,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,129,South Africa,Newlands,5,South Africa
+499,30.6,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,129,South Africa,Newlands,5,South Africa
+500,31.1,1,GC Smith,2006-11-26,2nd,IK Pathan,0,,R Dravid,0,South Africa,India,130,South Africa,Newlands,5,South Africa
+501,31.2,0,GC Smith,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,130,South Africa,Newlands,5,South Africa
+502,31.3,1,GC Smith,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,131,South Africa,Newlands,5,South Africa
+503,31.4,0,GC Smith,2006-11-26,2nd,IK Pathan,0,,R Dravid,0,South Africa,India,131,South Africa,Newlands,5,South Africa
+504,31.5,1,GC Smith,2006-11-26,2nd,IK Pathan,0,,R Dravid,0,South Africa,India,132,South Africa,Newlands,5,South Africa
+505,31.6,0,GC Smith,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,132,South Africa,Newlands,5,South Africa
+506,32.1,1,JH Kallis,2006-11-26,2nd,IK Pathan,0,,R Dravid,0,South Africa,India,133,South Africa,Newlands,5,South Africa
+507,32.2,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,133,South Africa,Newlands,5,South Africa
+508,32.3,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,133,South Africa,Newlands,5,South Africa
+509,32.4,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,133,South Africa,Newlands,5,South Africa
+510,32.5,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,133,South Africa,Newlands,5,South Africa
+511,32.6,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,IK Pathan,0,South Africa,India,133,South Africa,Newlands,6,South Africa
+512,33.1,2,GC Smith,2006-11-26,2nd,Harbhajan Singh,0,,R Dravid,0,South Africa,India,135,South Africa,Newlands,6,South Africa
+513,33.2,0,GC Smith,2006-11-26,2nd,Harbhajan Singh,0,,R Dravid,0,South Africa,India,135,South Africa,Newlands,6,South Africa
+514,33.3,1,GC Smith,2006-11-26,2nd,Harbhajan Singh,0,,R Dravid,0,South Africa,India,136,South Africa,Newlands,6,South Africa
+515,33.4,4,GC Smith,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,140,South Africa,Newlands,6,South Africa
+516,33.5,0,GC Smith,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,140,South Africa,Newlands,6,South Africa
+517,33.6,0,GC Smith,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,140,South Africa,Newlands,6,South Africa
+518,34.1,1,JH Kallis,2006-11-26,2nd,Harbhajan Singh,0,,R Dravid,0,South Africa,India,141,South Africa,Newlands,6,South Africa
+519,34.2,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,141,South Africa,Newlands,6,South Africa
+520,34.3,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,141,South Africa,Newlands,6,South Africa
+521,34.4,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,141,South Africa,Newlands,6,South Africa
+522,34.5,1,JH Kallis,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,142,South Africa,Newlands,6,South Africa
+523,34.6,0,JH Kallis,2006-11-26,2nd,Harbhajan Singh,0,,R Dravid,0,South Africa,India,142,South Africa,Newlands,6,South Africa
+524,35.1,4,AJ Hall,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,146,South Africa,Newlands,6,South Africa
+525,35.2,1,AJ Hall,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,147,South Africa,Newlands,6,South Africa
+526,35.3,1,AJ Hall,2006-11-26,2nd,Harbhajan Singh,0,,R Dravid,0,South Africa,India,148,South Africa,Newlands,6,South Africa
+527,35.4,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,148,South Africa,Newlands,6,South Africa
+528,35.5,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,148,South Africa,Newlands,6,South Africa
+529,35.6,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,Harbhajan Singh,0,South Africa,India,148,South Africa,Newlands,7,South Africa
+530,36.1,1,JH Kallis,2006-11-26,2nd,AB Agarkar,0,,R Dravid,0,South Africa,India,149,South Africa,Newlands,7,South Africa
+531,36.2,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,149,South Africa,Newlands,7,South Africa
+532,36.3,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,149,South Africa,Newlands,7,South Africa
+533,36.4,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,149,South Africa,Newlands,7,South Africa
+534,36.5,2,JH Kallis,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,151,South Africa,Newlands,7,South Africa
+535,36.6,0,JH Kallis,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,151,South Africa,Newlands,7,South Africa
+536,37.1,1,AJ Hall,2006-11-26,2nd,AB Agarkar,0,,R Dravid,0,South Africa,India,152,South Africa,Newlands,7,South Africa
+537,37.2,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,152,South Africa,Newlands,7,South Africa
+538,37.3,4,AJ Hall,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,156,South Africa,Newlands,7,South Africa
+539,37.4,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,156,South Africa,Newlands,7,South Africa
+540,37.5,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,AB Agarkar,0,South Africa,India,156,South Africa,Newlands,8,South Africa
+541,37.6,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,Z Khan,0,South Africa,India,156,South Africa,Newlands,8,South Africa
+542,38.1,0,SM Pollock,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,156,South Africa,Newlands,8,South Africa
+543,38.2,1,SM Pollock,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,157,South Africa,Newlands,8,South Africa
+544,38.3,1,SM Pollock,2006-11-26,2nd,R Dravid,0,,Z Khan,0,South Africa,India,158,South Africa,Newlands,8,South Africa
+545,38.4,0,SM Pollock,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,158,South Africa,Newlands,8,South Africa
+546,38.5,6,SM Pollock,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,164,South Africa,Newlands,8,South Africa
+547,38.6,1,SM Pollock,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,165,South Africa,Newlands,8,South Africa
+548,39.1,1,AJ Hall,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,166,South Africa,Newlands,8,South Africa
+549,39.2,1,AJ Hall,2006-11-26,2nd,R Dravid,0,,Z Khan,0,South Africa,India,167,South Africa,Newlands,8,South Africa
+550,39.3,1,AJ Hall,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,168,South Africa,Newlands,8,South Africa
+551,39.4,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,8,South Africa
+552,39.5,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,8,South Africa
+553,39.6,0,AJ Hall,2006-11-26,2nd,R Dravid,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,8,South Africa
+554,40.1,0,SM Pollock,2006-11-26,2nd,Z Khan,0,,R Dravid,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+555,40.2,0,SM Pollock,2006-11-26,2nd,A Kumble,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+556,40.3,0,SM Pollock,2006-11-26,2nd,A Kumble,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+557,40.4,0,SM Pollock,2006-11-26,2nd,A Kumble,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+558,40.5,0,SM Pollock,2006-11-26,2nd,A Kumble,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+559,40.6,0,SM Pollock,2006-11-26,2nd,A Kumble,0,,Z Khan,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+560,41.1,0,AJ Hall,2006-11-26,2nd,Z Khan,0,,A Kumble,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+561,41.2,0,AJ Hall,2006-11-26,2nd,Z Khan,0,,A Kumble,0,South Africa,India,168,South Africa,Newlands,9,South Africa
+562,41.3,0,AJ Hall,2006-11-26,2nd,Z Khan,0,,A Kumble,0,South Africa,India,168,South Africa,Newlands,10,South Africa

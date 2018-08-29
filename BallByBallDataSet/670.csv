@@ -1,0 +1,586 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Z Khan,2012-02-19,1st,DA Warner,0,,MS Wade,0,Australia,India,1,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+1,0.2,0,Z Khan,2012-02-19,1st,DA Warner,0,,MS Wade,0,Australia,India,1,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+2,0.3,2,Z Khan,2012-02-19,1st,DA Warner,0,,MS Wade,2,Australia,India,3,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+3,0.4,2,Z Khan,2012-02-19,1st,DA Warner,0,,MS Wade,4,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+4,0.5,0,Z Khan,2012-02-19,1st,DA Warner,0,,MS Wade,4,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+5,0.6,0,Z Khan,2012-02-19,1st,DA Warner,0,,MS Wade,4,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+6,0.7,0,Z Khan,2012-02-19,1st,DA Warner,0,,MS Wade,4,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+7,1.1,0,R Vinay Kumar,2012-02-19,1st,MS Wade,4,,DA Warner,0,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+8,1.2,0,R Vinay Kumar,2012-02-19,1st,MS Wade,4,,DA Warner,0,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+9,1.3,0,R Vinay Kumar,2012-02-19,1st,MS Wade,4,,DA Warner,0,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+10,1.4,1,R Vinay Kumar,2012-02-19,1st,MS Wade,4,,DA Warner,1,Australia,India,6,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+11,1.5,0,R Vinay Kumar,2012-02-19,1st,DA Warner,1,,MS Wade,4,Australia,India,6,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+12,1.6,1,R Vinay Kumar,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,7,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+13,2.1,0,Z Khan,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+14,2.2,0,Z Khan,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+15,2.3,0,Z Khan,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+16,2.4,0,Z Khan,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+17,2.5,0,Z Khan,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+18,2.6,0,Z Khan,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+19,2.7,0,Z Khan,2012-02-19,1st,DA Warner,1,,MS Wade,5,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+20,3.1,0,R Vinay Kumar,2012-02-19,1st,MS Wade,5,,DA Warner,1,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+21,3.2,0,R Vinay Kumar,2012-02-19,1st,MS Wade,5,,DA Warner,1,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+22,3.3,0,R Vinay Kumar,2012-02-19,1st,MS Wade,5,,DA Warner,1,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+23,3.4,2,R Vinay Kumar,2012-02-19,1st,MS Wade,5,,DA Warner,3,Australia,India,10,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+24,3.5,0,R Vinay Kumar,2012-02-19,1st,MS Wade,5,,DA Warner,3,Australia,India,10,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+25,3.6,1,R Vinay Kumar,2012-02-19,1st,MS Wade,5,,DA Warner,4,Australia,India,11,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+26,4.1,1,Z Khan,2012-02-19,1st,MS Wade,5,,DA Warner,5,Australia,India,12,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+27,4.2,1,Z Khan,2012-02-19,1st,DA Warner,5,,MS Wade,6,Australia,India,13,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+28,4.3,0,Z Khan,2012-02-19,1st,MS Wade,6,,DA Warner,5,Australia,India,13,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+29,4.4,0,Z Khan,2012-02-19,1st,MS Wade,6,,DA Warner,5,Australia,India,13,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+30,4.5,0,Z Khan,2012-02-19,1st,MS Wade,6,,DA Warner,5,Australia,India,13,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+31,4.6,4,Z Khan,2012-02-19,1st,MS Wade,6,,DA Warner,9,Australia,India,17,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+32,5.1,0,R Vinay Kumar,2012-02-19,1st,DA Warner,9,,MS Wade,6,Australia,India,17,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+33,5.2,0,R Vinay Kumar,2012-02-19,1st,DA Warner,9,,MS Wade,6,Australia,India,17,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+34,5.3,1,R Vinay Kumar,2012-02-19,1st,DA Warner,9,,MS Wade,7,Australia,India,18,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+35,5.4,0,R Vinay Kumar,2012-02-19,1st,MS Wade,7,,DA Warner,9,Australia,India,19,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+36,5.5,0,R Vinay Kumar,2012-02-19,1st,DA Warner,9,,MS Wade,7,Australia,India,20,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+37,5.6,3,R Vinay Kumar,2012-02-19,1st,MS Wade,7,,DA Warner,12,Australia,India,23,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+38,6.1,0,Z Khan,2012-02-19,1st,MS Wade,7,,DA Warner,12,Australia,India,23,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+39,6.2,0,Z Khan,2012-02-19,1st,MS Wade,7,,DA Warner,12,Australia,India,23,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+40,6.3,1,Z Khan,2012-02-19,1st,MS Wade,7,,DA Warner,13,Australia,India,24,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+41,6.4,0,Z Khan,2012-02-19,1st,DA Warner,13,,MS Wade,7,Australia,India,24,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+42,6.5,2,Z Khan,2012-02-19,1st,DA Warner,13,,MS Wade,9,Australia,India,26,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+43,6.6,0,Z Khan,2012-02-19,1st,DA Warner,13,,MS Wade,9,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+44,7.1,0,R Vinay Kumar,2012-02-19,1st,DA Warner,13,,MS Wade,9,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+45,7.2,0,R Vinay Kumar,2012-02-19,1st,DA Warner,13,,MS Wade,9,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+46,7.3,1,R Vinay Kumar,2012-02-19,1st,DA Warner,13,,MS Wade,10,Australia,India,30,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+47,7.4,0,R Vinay Kumar,2012-02-19,1st,MS Wade,10,,DA Warner,13,Australia,India,30,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+48,7.5,0,R Vinay Kumar,2012-02-19,1st,MS Wade,10,,DA Warner,13,Australia,India,30,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+49,7.6,1,R Vinay Kumar,2012-02-19,1st,MS Wade,10,,DA Warner,14,Australia,India,31,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+50,8.1,0,Z Khan,2012-02-19,1st,MS Wade,10,,DA Warner,14,Australia,India,31,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+51,8.2,4,Z Khan,2012-02-19,1st,MS Wade,10,,DA Warner,18,Australia,India,35,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+52,8.3,0,Z Khan,2012-02-19,1st,MS Wade,10,,DA Warner,18,Australia,India,35,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+53,8.4,4,Z Khan,2012-02-19,1st,MS Wade,10,,DA Warner,22,Australia,India,39,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+54,8.5,6,Z Khan,2012-02-19,1st,MS Wade,10,,DA Warner,28,Australia,India,45,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+55,8.6,0,Z Khan,2012-02-19,1st,MS Wade,10,,DA Warner,28,Australia,India,45,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+56,9.1,4,R Vinay Kumar,2012-02-19,1st,DA Warner,28,,MS Wade,14,Australia,India,49,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+57,9.2,0,R Vinay Kumar,2012-02-19,1st,DA Warner,28,,MS Wade,14,Australia,India,49,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+58,9.3,1,R Vinay Kumar,2012-02-19,1st,DA Warner,28,,MS Wade,15,Australia,India,50,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+59,9.4,0,R Vinay Kumar,2012-02-19,1st,MS Wade,15,,DA Warner,28,Australia,India,50,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+60,9.5,0,R Vinay Kumar,2012-02-19,1st,MS Wade,15,,DA Warner,28,Australia,India,50,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+61,9.6,1,R Vinay Kumar,2012-02-19,1st,MS Wade,15,,DA Warner,29,Australia,India,51,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+62,10.1,0,IK Pathan,2012-02-19,1st,MS Wade,15,,DA Warner,29,Australia,India,52,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+63,10.2,0,IK Pathan,2012-02-19,1st,MS Wade,15,,DA Warner,29,Australia,India,52,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+64,10.3,0,IK Pathan,2012-02-19,1st,MS Wade,15,,DA Warner,29,Australia,India,52,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+65,10.4,0,IK Pathan,2012-02-19,1st,MS Wade,15,,DA Warner,29,Australia,India,52,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+66,10.5,4,IK Pathan,2012-02-19,1st,MS Wade,15,,DA Warner,33,Australia,India,56,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+67,10.6,2,IK Pathan,2012-02-19,1st,MS Wade,15,,DA Warner,35,Australia,India,58,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+68,10.7,1,IK Pathan,2012-02-19,1st,MS Wade,15,,DA Warner,36,Australia,India,59,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+69,11.1,0,SK Raina,2012-02-19,1st,MS Wade,15,,DA Warner,36,Australia,India,59,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+70,11.2,1,SK Raina,2012-02-19,1st,MS Wade,15,,DA Warner,37,Australia,India,60,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+71,11.3,0,SK Raina,2012-02-19,1st,DA Warner,37,,MS Wade,15,Australia,India,60,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+72,11.4,1,SK Raina,2012-02-19,1st,DA Warner,37,,MS Wade,16,Australia,India,61,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+73,11.5,0,SK Raina,2012-02-19,1st,MS Wade,16,,DA Warner,37,Australia,India,61,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+74,11.6,1,SK Raina,2012-02-19,1st,MS Wade,16,,DA Warner,38,Australia,India,62,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+75,12.1,4,IK Pathan,2012-02-19,1st,MS Wade,16,,DA Warner,42,Australia,India,66,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+76,12.2,1,IK Pathan,2012-02-19,1st,MS Wade,16,,DA Warner,43,Australia,India,67,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+77,12.3,2,IK Pathan,2012-02-19,1st,DA Warner,43,,MS Wade,18,Australia,India,69,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+78,12.4,1,IK Pathan,2012-02-19,1st,DA Warner,43,,MS Wade,19,Australia,India,70,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+79,12.5,0,IK Pathan,2012-02-19,1st,MS Wade,19,,DA Warner,43,Australia,India,70,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+80,12.6,0,IK Pathan,2012-02-19,1st,MS Wade,19,DA Warner,DA Warner,43,Australia,India,70,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+81,13.1,1,SK Raina,2012-02-19,1st,RT Ponting,0,,MS Wade,20,Australia,India,71,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+82,13.2,0,SK Raina,2012-02-19,1st,MS Wade,20,,RT Ponting,0,Australia,India,71,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+83,13.3,0,SK Raina,2012-02-19,1st,MS Wade,20,,RT Ponting,0,Australia,India,71,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+84,13.4,0,SK Raina,2012-02-19,1st,MS Wade,20,,RT Ponting,0,Australia,India,71,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+85,13.5,0,SK Raina,2012-02-19,1st,MS Wade,20,,RT Ponting,0,Australia,India,71,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+86,13.6,0,SK Raina,2012-02-19,1st,MS Wade,20,,RT Ponting,0,Australia,India,71,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+87,14.1,1,IK Pathan,2012-02-19,1st,RT Ponting,0,,MS Wade,21,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+88,14.2,0,IK Pathan,2012-02-19,1st,MS Wade,21,,RT Ponting,0,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+89,14.3,0,IK Pathan,2012-02-19,1st,MS Wade,21,,RT Ponting,0,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+90,14.4,0,IK Pathan,2012-02-19,1st,MS Wade,21,,RT Ponting,0,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+91,14.5,0,IK Pathan,2012-02-19,1st,MS Wade,21,,RT Ponting,0,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+92,14.6,0,IK Pathan,2012-02-19,1st,MS Wade,21,,RT Ponting,0,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+93,15.1,0,SK Raina,2012-02-19,1st,RT Ponting,0,,MS Wade,21,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+94,15.2,0,SK Raina,2012-02-19,1st,RT Ponting,0,,MS Wade,21,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+95,15.3,1,SK Raina,2012-02-19,1st,RT Ponting,0,,MS Wade,22,Australia,India,73,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+96,15.4,0,SK Raina,2012-02-19,1st,MS Wade,22,,RT Ponting,0,Australia,India,73,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+97,15.5,0,SK Raina,2012-02-19,1st,MS Wade,22,,RT Ponting,0,Australia,India,73,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+98,15.6,1,SK Raina,2012-02-19,1st,MS Wade,22,,RT Ponting,1,Australia,India,74,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+99,16.1,1,IK Pathan,2012-02-19,1st,MS Wade,22,,RT Ponting,2,Australia,India,75,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+100,16.2,1,IK Pathan,2012-02-19,1st,RT Ponting,2,,MS Wade,23,Australia,India,76,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+101,16.3,0,IK Pathan,2012-02-19,1st,MS Wade,23,,RT Ponting,2,Australia,India,76,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+102,16.4,0,IK Pathan,2012-02-19,1st,MS Wade,23,,RT Ponting,2,Australia,India,76,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+103,16.5,0,IK Pathan,2012-02-19,1st,MS Wade,23,,RT Ponting,2,Australia,India,76,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+104,16.6,2,IK Pathan,2012-02-19,1st,MS Wade,23,,RT Ponting,4,Australia,India,78,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+105,17.1,0,Z Khan,2012-02-19,1st,RT Ponting,4,,MS Wade,23,Australia,India,78,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+106,17.2,1,Z Khan,2012-02-19,1st,RT Ponting,4,,MS Wade,24,Australia,India,79,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+107,17.3,0,Z Khan,2012-02-19,1st,MS Wade,24,,RT Ponting,4,Australia,India,79,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+108,17.4,0,Z Khan,2012-02-19,1st,MS Wade,24,,RT Ponting,4,Australia,India,79,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+109,17.5,1,Z Khan,2012-02-19,1st,MS Wade,24,,RT Ponting,5,Australia,India,80,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+110,17.6,0,Z Khan,2012-02-19,1st,RT Ponting,5,,MS Wade,24,Australia,India,80,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+111,18.1,1,R Vinay Kumar,2012-02-19,1st,MS Wade,24,,RT Ponting,6,Australia,India,81,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+112,18.2,0,R Vinay Kumar,2012-02-19,1st,RT Ponting,6,,MS Wade,24,Australia,India,81,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+113,18.3,1,R Vinay Kumar,2012-02-19,1st,RT Ponting,6,,MS Wade,25,Australia,India,82,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+114,18.4,0,R Vinay Kumar,2012-02-19,1st,MS Wade,25,,RT Ponting,6,Australia,India,82,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+115,18.5,1,R Vinay Kumar,2012-02-19,1st,MS Wade,25,,RT Ponting,7,Australia,India,83,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+116,18.6,0,R Vinay Kumar,2012-02-19,1st,RT Ponting,7,,MS Wade,25,Australia,India,83,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+117,19.1,0,Z Khan,2012-02-19,1st,MS Wade,25,,RT Ponting,7,Australia,India,83,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+118,19.2,0,Z Khan,2012-02-19,1st,MS Wade,25,RT Ponting,RT Ponting,7,Australia,India,83,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+119,19.3,1,Z Khan,2012-02-19,1st,PJ Forrest,0,,MS Wade,26,Australia,India,84,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+120,19.4,0,Z Khan,2012-02-19,1st,MS Wade,26,,PJ Forrest,0,Australia,India,84,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+121,19.5,0,Z Khan,2012-02-19,1st,MS Wade,26,,PJ Forrest,0,Australia,India,84,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+122,19.6,0,Z Khan,2012-02-19,1st,MS Wade,26,,PJ Forrest,0,Australia,India,85,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+123,19.7,0,Z Khan,2012-02-19,1st,MS Wade,26,,PJ Forrest,0,Australia,India,85,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+124,20.1,0,R Vinay Kumar,2012-02-19,1st,PJ Forrest,0,,MS Wade,26,Australia,India,85,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+125,20.2,0,R Vinay Kumar,2012-02-19,1st,PJ Forrest,0,,MS Wade,26,Australia,India,85,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+126,20.3,0,R Vinay Kumar,2012-02-19,1st,PJ Forrest,0,,MS Wade,26,Australia,India,85,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+127,20.4,1,R Vinay Kumar,2012-02-19,1st,PJ Forrest,0,,MS Wade,27,Australia,India,86,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+128,20.5,0,R Vinay Kumar,2012-02-19,1st,MS Wade,27,,PJ Forrest,0,Australia,India,86,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+129,20.6,0,R Vinay Kumar,2012-02-19,1st,MS Wade,27,,PJ Forrest,0,Australia,India,86,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+130,21.1,1,SK Raina,2012-02-19,1st,PJ Forrest,0,,MS Wade,28,Australia,India,87,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+131,21.2,0,SK Raina,2012-02-19,1st,MS Wade,28,,PJ Forrest,0,Australia,India,87,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+132,21.3,0,SK Raina,2012-02-19,1st,MS Wade,28,,PJ Forrest,0,Australia,India,87,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+133,21.4,1,SK Raina,2012-02-19,1st,MS Wade,28,,PJ Forrest,1,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+134,21.5,1,SK Raina,2012-02-19,1st,PJ Forrest,1,,MS Wade,29,Australia,India,89,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+135,21.6,1,SK Raina,2012-02-19,1st,MS Wade,29,,PJ Forrest,2,Australia,India,90,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+136,22.1,4,UT Yadav,2012-02-19,1st,MS Wade,29,,PJ Forrest,6,Australia,India,94,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+137,22.2,0,UT Yadav,2012-02-19,1st,MS Wade,29,,PJ Forrest,6,Australia,India,94,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+138,22.3,0,UT Yadav,2012-02-19,1st,MS Wade,29,,PJ Forrest,6,Australia,India,94,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+139,22.4,0,UT Yadav,2012-02-19,1st,MS Wade,29,,PJ Forrest,6,Australia,India,95,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+140,22.5,0,UT Yadav,2012-02-19,1st,MS Wade,29,,PJ Forrest,6,Australia,India,95,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+141,22.6,0,UT Yadav,2012-02-19,1st,MS Wade,29,,PJ Forrest,6,Australia,India,95,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+142,22.7,0,UT Yadav,2012-02-19,1st,MS Wade,29,,PJ Forrest,6,Australia,India,95,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+143,23.1,1,SK Raina,2012-02-19,1st,PJ Forrest,6,,MS Wade,30,Australia,India,96,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+144,23.2,1,SK Raina,2012-02-19,1st,MS Wade,30,,PJ Forrest,7,Australia,India,97,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+145,23.3,0,SK Raina,2012-02-19,1st,PJ Forrest,7,,MS Wade,30,Australia,India,97,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+146,23.4,0,SK Raina,2012-02-19,1st,PJ Forrest,7,,MS Wade,30,Australia,India,97,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+147,23.5,0,SK Raina,2012-02-19,1st,PJ Forrest,7,,MS Wade,30,Australia,India,97,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+148,23.6,0,SK Raina,2012-02-19,1st,PJ Forrest,7,,MS Wade,30,Australia,India,97,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+149,24.1,0,UT Yadav,2012-02-19,1st,MS Wade,30,,PJ Forrest,7,Australia,India,97,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+150,24.2,0,UT Yadav,2012-02-19,1st,MS Wade,30,,PJ Forrest,7,Australia,India,97,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+151,24.3,1,UT Yadav,2012-02-19,1st,MS Wade,30,,PJ Forrest,8,Australia,India,98,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+152,24.4,2,UT Yadav,2012-02-19,1st,PJ Forrest,8,,MS Wade,32,Australia,India,100,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+153,24.5,1,UT Yadav,2012-02-19,1st,PJ Forrest,8,,MS Wade,33,Australia,India,101,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+154,24.6,1,UT Yadav,2012-02-19,1st,MS Wade,33,,PJ Forrest,9,Australia,India,102,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+155,25.1,0,SK Raina,2012-02-19,1st,MS Wade,33,,PJ Forrest,9,Australia,India,102,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+156,25.2,0,SK Raina,2012-02-19,1st,MS Wade,33,,PJ Forrest,9,Australia,India,102,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+157,25.3,1,SK Raina,2012-02-19,1st,MS Wade,33,,PJ Forrest,10,Australia,India,103,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+158,25.4,6,SK Raina,2012-02-19,1st,PJ Forrest,10,,MS Wade,39,Australia,India,109,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+159,25.5,0,SK Raina,2012-02-19,1st,PJ Forrest,10,,MS Wade,39,Australia,India,109,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+160,25.6,0,SK Raina,2012-02-19,1st,PJ Forrest,10,,MS Wade,39,Australia,India,109,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+161,26.1,0,UT Yadav,2012-02-19,1st,MS Wade,39,,PJ Forrest,10,Australia,India,109,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+162,26.2,1,UT Yadav,2012-02-19,1st,MS Wade,39,,PJ Forrest,11,Australia,India,110,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+163,26.3,0,UT Yadav,2012-02-19,1st,PJ Forrest,11,,MS Wade,39,Australia,India,110,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+164,26.4,2,UT Yadav,2012-02-19,1st,PJ Forrest,11,,MS Wade,41,Australia,India,112,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+165,26.5,0,UT Yadav,2012-02-19,1st,PJ Forrest,11,,MS Wade,41,Australia,India,112,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+166,26.6,4,UT Yadav,2012-02-19,1st,PJ Forrest,11,,MS Wade,45,Australia,India,116,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+167,27.1,0,RG Sharma,2012-02-19,1st,MS Wade,45,,PJ Forrest,11,Australia,India,116,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+168,27.2,1,RG Sharma,2012-02-19,1st,MS Wade,45,,PJ Forrest,12,Australia,India,117,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+169,27.3,0,RG Sharma,2012-02-19,1st,PJ Forrest,12,,MS Wade,45,Australia,India,117,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+170,27.4,0,RG Sharma,2012-02-19,1st,PJ Forrest,12,MS Wade,MS Wade,45,Australia,India,117,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+171,27.5,1,RG Sharma,2012-02-19,1st,PJ Forrest,12,,MEK Hussey,1,Australia,India,118,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+172,27.6,0,RG Sharma,2012-02-19,1st,MEK Hussey,1,,PJ Forrest,12,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+173,27.7,0,RG Sharma,2012-02-19,1st,MEK Hussey,1,,PJ Forrest,12,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+174,28.1,0,SK Raina,2012-02-19,1st,PJ Forrest,12,,MEK Hussey,1,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+175,28.2,0,SK Raina,2012-02-19,1st,PJ Forrest,12,,MEK Hussey,1,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+176,28.3,0,SK Raina,2012-02-19,1st,PJ Forrest,12,,MEK Hussey,1,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+177,28.4,0,SK Raina,2012-02-19,1st,PJ Forrest,12,,MEK Hussey,1,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+178,28.5,0,SK Raina,2012-02-19,1st,PJ Forrest,12,,MEK Hussey,1,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+179,28.6,2,SK Raina,2012-02-19,1st,PJ Forrest,12,,MEK Hussey,3,Australia,India,121,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+180,29.1,1,RG Sharma,2012-02-19,1st,MEK Hussey,3,,PJ Forrest,13,Australia,India,122,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+181,29.2,4,RG Sharma,2012-02-19,1st,PJ Forrest,13,,MEK Hussey,7,Australia,India,126,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+182,29.3,1,RG Sharma,2012-02-19,1st,PJ Forrest,13,,MEK Hussey,8,Australia,India,127,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+183,29.4,1,RG Sharma,2012-02-19,1st,MEK Hussey,8,,PJ Forrest,14,Australia,India,128,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+184,29.5,0,RG Sharma,2012-02-19,1st,PJ Forrest,14,,MEK Hussey,8,Australia,India,128,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+185,29.6,1,RG Sharma,2012-02-19,1st,PJ Forrest,14,,MEK Hussey,9,Australia,India,129,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+186,30.1,0,SK Raina,2012-02-19,1st,PJ Forrest,14,,MEK Hussey,9,Australia,India,129,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+187,30.2,0,SK Raina,2012-02-19,1st,PJ Forrest,14,,MEK Hussey,9,Australia,India,129,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+188,30.3,1,SK Raina,2012-02-19,1st,PJ Forrest,14,,MEK Hussey,10,Australia,India,130,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+189,30.4,0,SK Raina,2012-02-19,1st,MEK Hussey,10,,PJ Forrest,14,Australia,India,130,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+190,30.5,0,SK Raina,2012-02-19,1st,MEK Hussey,10,,PJ Forrest,14,Australia,India,130,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+191,30.6,1,SK Raina,2012-02-19,1st,MEK Hussey,10,,PJ Forrest,15,Australia,India,131,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+192,31.1,1,RG Sharma,2012-02-19,1st,MEK Hussey,10,,PJ Forrest,16,Australia,India,132,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+193,31.2,1,RG Sharma,2012-02-19,1st,PJ Forrest,16,,MEK Hussey,11,Australia,India,133,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+194,31.3,1,RG Sharma,2012-02-19,1st,MEK Hussey,11,,PJ Forrest,17,Australia,India,134,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+195,31.4,1,RG Sharma,2012-02-19,1st,PJ Forrest,17,,MEK Hussey,12,Australia,India,135,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+196,31.5,1,RG Sharma,2012-02-19,1st,MEK Hussey,12,,PJ Forrest,18,Australia,India,136,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+197,31.6,1,RG Sharma,2012-02-19,1st,PJ Forrest,18,,MEK Hussey,13,Australia,India,137,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+198,32.1,2,SK Raina,2012-02-19,1st,PJ Forrest,18,,MEK Hussey,15,Australia,India,139,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+199,32.2,1,SK Raina,2012-02-19,1st,PJ Forrest,18,,MEK Hussey,16,Australia,India,140,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+200,32.3,0,SK Raina,2012-02-19,1st,MEK Hussey,16,,PJ Forrest,18,Australia,India,140,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+201,32.4,1,SK Raina,2012-02-19,1st,MEK Hussey,16,,PJ Forrest,19,Australia,India,141,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+202,32.5,1,SK Raina,2012-02-19,1st,PJ Forrest,19,,MEK Hussey,17,Australia,India,142,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+203,32.6,2,SK Raina,2012-02-19,1st,MEK Hussey,17,,PJ Forrest,21,Australia,India,144,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+204,33.1,2,UT Yadav,2012-02-19,1st,PJ Forrest,21,,MEK Hussey,19,Australia,India,146,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+205,33.2,1,UT Yadav,2012-02-19,1st,PJ Forrest,21,,MEK Hussey,20,Australia,India,147,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+206,33.3,0,UT Yadav,2012-02-19,1st,MEK Hussey,20,,PJ Forrest,21,Australia,India,147,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+207,33.4,0,UT Yadav,2012-02-19,1st,MEK Hussey,20,,PJ Forrest,21,Australia,India,147,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+208,33.5,0,UT Yadav,2012-02-19,1st,MEK Hussey,20,,PJ Forrest,21,Australia,India,147,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+209,33.6,1,UT Yadav,2012-02-19,1st,MEK Hussey,20,,PJ Forrest,22,Australia,India,148,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+210,34.1,0,IK Pathan,2012-02-19,1st,MEK Hussey,20,,PJ Forrest,22,Australia,India,148,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+211,34.2,1,IK Pathan,2012-02-19,1st,MEK Hussey,20,,PJ Forrest,23,Australia,India,149,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+212,34.3,0,IK Pathan,2012-02-19,1st,PJ Forrest,23,,MEK Hussey,20,Australia,India,149,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+213,34.4,1,IK Pathan,2012-02-19,1st,PJ Forrest,23,,MEK Hussey,21,Australia,India,150,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+214,34.5,0,IK Pathan,2012-02-19,1st,MEK Hussey,21,,PJ Forrest,23,Australia,India,150,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+215,34.6,0,IK Pathan,2012-02-19,1st,MEK Hussey,21,,PJ Forrest,23,Australia,India,150,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+216,35.1,1,Z Khan,2012-02-19,1st,PJ Forrest,23,,MEK Hussey,22,Australia,India,151,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+217,35.2,1,Z Khan,2012-02-19,1st,MEK Hussey,22,,PJ Forrest,24,Australia,India,152,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+218,35.3,0,Z Khan,2012-02-19,1st,PJ Forrest,24,,MEK Hussey,22,Australia,India,152,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+219,35.4,1,Z Khan,2012-02-19,1st,PJ Forrest,24,,MEK Hussey,23,Australia,India,153,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+220,35.5,1,Z Khan,2012-02-19,1st,MEK Hussey,23,,PJ Forrest,25,Australia,India,154,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+221,35.6,0,Z Khan,2012-02-19,1st,PJ Forrest,25,,MEK Hussey,23,Australia,India,154,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+222,36.1,0,R Vinay Kumar,2012-02-19,1st,MEK Hussey,23,,PJ Forrest,25,Australia,India,155,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+223,36.2,4,R Vinay Kumar,2012-02-19,1st,PJ Forrest,25,,MEK Hussey,27,Australia,India,159,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+224,36.3,4,R Vinay Kumar,2012-02-19,1st,PJ Forrest,25,,MEK Hussey,31,Australia,India,163,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+225,36.4,1,R Vinay Kumar,2012-02-19,1st,PJ Forrest,25,,MEK Hussey,32,Australia,India,164,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+226,36.5,2,R Vinay Kumar,2012-02-19,1st,MEK Hussey,32,,PJ Forrest,27,Australia,India,166,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+227,36.6,0,R Vinay Kumar,2012-02-19,1st,MEK Hussey,32,,PJ Forrest,27,Australia,India,166,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+228,37.1,0,Z Khan,2012-02-19,1st,PJ Forrest,27,,MEK Hussey,32,Australia,India,166,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+229,37.2,1,Z Khan,2012-02-19,1st,PJ Forrest,27,,MEK Hussey,33,Australia,India,167,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+230,37.3,1,Z Khan,2012-02-19,1st,MEK Hussey,33,,PJ Forrest,28,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+231,37.4,1,Z Khan,2012-02-19,1st,PJ Forrest,28,,MEK Hussey,34,Australia,India,169,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+232,37.5,0,Z Khan,2012-02-19,1st,MEK Hussey,34,,PJ Forrest,28,Australia,India,169,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+233,37.6,0,Z Khan,2012-02-19,1st,MEK Hussey,34,,PJ Forrest,28,Australia,India,169,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+234,38.1,4,UT Yadav,2012-02-19,1st,PJ Forrest,28,,MEK Hussey,38,Australia,India,173,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+235,38.2,0,UT Yadav,2012-02-19,1st,PJ Forrest,28,,MEK Hussey,38,Australia,India,173,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+236,38.3,4,UT Yadav,2012-02-19,1st,PJ Forrest,28,,MEK Hussey,42,Australia,India,177,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+237,38.4,2,UT Yadav,2012-02-19,1st,PJ Forrest,28,,MEK Hussey,44,Australia,India,179,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+238,38.5,1,UT Yadav,2012-02-19,1st,PJ Forrest,28,,MEK Hussey,45,Australia,India,180,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+239,38.6,1,UT Yadav,2012-02-19,1st,MEK Hussey,45,,PJ Forrest,29,Australia,India,181,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+240,39.1,0,Z Khan,2012-02-19,1st,MEK Hussey,45,,PJ Forrest,29,Australia,India,182,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+241,39.2,1,Z Khan,2012-02-19,1st,MEK Hussey,45,,PJ Forrest,30,Australia,India,183,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+242,39.3,2,Z Khan,2012-02-19,1st,PJ Forrest,30,,MEK Hussey,47,Australia,India,185,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+243,39.4,0,Z Khan,2012-02-19,1st,PJ Forrest,30,,MEK Hussey,47,Australia,India,185,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+244,39.5,0,Z Khan,2012-02-19,1st,PJ Forrest,30,,MEK Hussey,47,Australia,India,185,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+245,39.6,1,Z Khan,2012-02-19,1st,PJ Forrest,30,,MEK Hussey,48,Australia,India,186,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+246,39.7,1,Z Khan,2012-02-19,1st,MEK Hussey,48,,PJ Forrest,31,Australia,India,187,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+247,40.1,4,IK Pathan,2012-02-19,1st,MEK Hussey,48,,PJ Forrest,35,Australia,India,191,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+248,40.2,2,IK Pathan,2012-02-19,1st,MEK Hussey,48,,PJ Forrest,37,Australia,India,193,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+249,40.3,1,IK Pathan,2012-02-19,1st,MEK Hussey,48,,PJ Forrest,38,Australia,India,194,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+250,40.4,1,IK Pathan,2012-02-19,1st,PJ Forrest,38,,MEK Hussey,49,Australia,India,195,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+251,40.5,1,IK Pathan,2012-02-19,1st,MEK Hussey,49,,PJ Forrest,39,Australia,India,196,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+252,40.6,1,IK Pathan,2012-02-19,1st,PJ Forrest,39,,MEK Hussey,50,Australia,India,197,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+253,41.1,1,SK Raina,2012-02-19,1st,PJ Forrest,39,,MEK Hussey,51,Australia,India,198,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+254,41.2,2,SK Raina,2012-02-19,1st,MEK Hussey,51,,PJ Forrest,41,Australia,India,200,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+255,41.3,4,SK Raina,2012-02-19,1st,MEK Hussey,51,,PJ Forrest,45,Australia,India,204,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+256,41.4,1,SK Raina,2012-02-19,1st,MEK Hussey,51,,PJ Forrest,46,Australia,India,205,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+257,41.5,2,SK Raina,2012-02-19,1st,PJ Forrest,46,,MEK Hussey,53,Australia,India,207,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+258,41.6,4,SK Raina,2012-02-19,1st,PJ Forrest,46,,MEK Hussey,57,Australia,India,211,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+259,42.1,2,UT Yadav,2012-02-19,1st,MEK Hussey,57,,PJ Forrest,48,Australia,India,213,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+260,42.2,1,UT Yadav,2012-02-19,1st,MEK Hussey,57,,PJ Forrest,49,Australia,India,214,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+261,42.3,0,UT Yadav,2012-02-19,1st,PJ Forrest,49,,MEK Hussey,57,Australia,India,214,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+262,42.4,1,UT Yadav,2012-02-19,1st,PJ Forrest,49,,MEK Hussey,58,Australia,India,215,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+263,42.5,1,UT Yadav,2012-02-19,1st,MEK Hussey,58,,PJ Forrest,50,Australia,India,216,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+264,42.6,1,UT Yadav,2012-02-19,1st,PJ Forrest,50,,MEK Hussey,59,Australia,India,217,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+265,43.1,0,IK Pathan,2012-02-19,1st,PJ Forrest,50,MEK Hussey,MEK Hussey,59,Australia,India,217,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+266,43.2,0,IK Pathan,2012-02-19,1st,DJ Hussey,0,,PJ Forrest,50,Australia,India,218,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+267,43.3,1,IK Pathan,2012-02-19,1st,DJ Hussey,0,,PJ Forrest,51,Australia,India,219,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+268,43.4,1,IK Pathan,2012-02-19,1st,PJ Forrest,51,,DJ Hussey,1,Australia,India,220,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+269,43.5,0,IK Pathan,2012-02-19,1st,DJ Hussey,1,,PJ Forrest,51,Australia,India,221,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+270,43.6,1,IK Pathan,2012-02-19,1st,DJ Hussey,1,,PJ Forrest,52,Australia,India,222,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+271,43.7,1,IK Pathan,2012-02-19,1st,PJ Forrest,52,,DJ Hussey,2,Australia,India,223,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+272,43.8,0,IK Pathan,2012-02-19,1st,DJ Hussey,2,PJ Forrest,PJ Forrest,52,Australia,India,223,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+273,44.1,0,UT Yadav,2012-02-19,1st,DJ Hussey,2,,DT Christian,0,Australia,India,223,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+274,44.2,1,UT Yadav,2012-02-19,1st,DJ Hussey,2,,DT Christian,1,Australia,India,224,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+275,44.3,2,UT Yadav,2012-02-19,1st,DT Christian,1,,DJ Hussey,4,Australia,India,226,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+276,44.4,1,UT Yadav,2012-02-19,1st,DT Christian,1,,DJ Hussey,5,Australia,India,227,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+277,44.5,2,UT Yadav,2012-02-19,1st,DJ Hussey,5,,DT Christian,3,Australia,India,229,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+278,44.6,1,UT Yadav,2012-02-19,1st,DJ Hussey,5,,DT Christian,4,Australia,India,230,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+279,45.1,0,IK Pathan,2012-02-19,1st,DJ Hussey,5,,DT Christian,4,Australia,India,230,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+280,45.2,0,IK Pathan,2012-02-19,1st,DJ Hussey,5,,DT Christian,4,Australia,India,231,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+281,45.3,0,IK Pathan,2012-02-19,1st,DT Christian,4,,DJ Hussey,5,Australia,India,232,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+282,45.4,0,IK Pathan,2012-02-19,1st,DT Christian,4,,DJ Hussey,5,Australia,India,232,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+283,45.5,1,IK Pathan,2012-02-19,1st,DT Christian,4,,DJ Hussey,6,Australia,India,233,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+284,45.6,1,IK Pathan,2012-02-19,1st,DJ Hussey,6,,DT Christian,5,Australia,India,234,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+285,45.7,1,IK Pathan,2012-02-19,1st,DT Christian,5,,DJ Hussey,7,Australia,India,235,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+286,46.1,6,R Vinay Kumar,2012-02-19,1st,DT Christian,5,,DJ Hussey,13,Australia,India,241,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+287,46.2,1,R Vinay Kumar,2012-02-19,1st,DT Christian,5,,DJ Hussey,14,Australia,India,242,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+288,46.3,1,R Vinay Kumar,2012-02-19,1st,DJ Hussey,14,,DT Christian,6,Australia,India,243,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+289,46.4,1,R Vinay Kumar,2012-02-19,1st,DT Christian,6,,DJ Hussey,15,Australia,India,244,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+290,46.5,1,R Vinay Kumar,2012-02-19,1st,DJ Hussey,15,,DT Christian,7,Australia,India,245,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+291,46.6,0,R Vinay Kumar,2012-02-19,1st,DT Christian,7,,DJ Hussey,15,Australia,India,245,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+292,47.1,1,IK Pathan,2012-02-19,1st,DJ Hussey,15,,DT Christian,8,Australia,India,246,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+293,47.2,2,IK Pathan,2012-02-19,1st,DT Christian,8,,DJ Hussey,17,Australia,India,248,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+294,47.3,2,IK Pathan,2012-02-19,1st,DT Christian,8,,DJ Hussey,19,Australia,India,250,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+295,47.4,0,IK Pathan,2012-02-19,1st,DT Christian,8,,DJ Hussey,19,Australia,India,251,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+296,47.5,0,IK Pathan,2012-02-19,1st,DT Christian,8,,DJ Hussey,19,Australia,India,253,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+297,47.6,1,IK Pathan,2012-02-19,1st,DT Christian,8,,DJ Hussey,20,Australia,India,254,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+298,47.7,1,IK Pathan,2012-02-19,1st,DJ Hussey,20,,DT Christian,9,Australia,India,255,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+299,48.1,0,R Vinay Kumar,2012-02-19,1st,DJ Hussey,20,,DT Christian,9,Australia,India,256,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+300,48.2,4,R Vinay Kumar,2012-02-19,1st,DJ Hussey,20,,DT Christian,13,Australia,India,260,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+301,48.3,4,R Vinay Kumar,2012-02-19,1st,DJ Hussey,20,,DT Christian,17,Australia,India,264,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+302,48.4,4,R Vinay Kumar,2012-02-19,1st,DJ Hussey,20,,DT Christian,21,Australia,India,268,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+303,48.5,4,R Vinay Kumar,2012-02-19,1st,DJ Hussey,20,,DT Christian,25,Australia,India,272,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+304,48.6,1,R Vinay Kumar,2012-02-19,1st,DJ Hussey,20,,DT Christian,26,Australia,India,273,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+305,48.7,0,R Vinay Kumar,2012-02-19,1st,DT Christian,26,,DJ Hussey,20,Australia,India,273,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+306,49.1,4,IK Pathan,2012-02-19,1st,DJ Hussey,20,,DT Christian,30,Australia,India,277,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+307,49.2,0,IK Pathan,2012-02-19,1st,DJ Hussey,20,,DT Christian,30,Australia,India,278,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+308,49.3,0,IK Pathan,2012-02-19,1st,DT Christian,30,,DJ Hussey,20,Australia,India,278,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+309,49.4,4,IK Pathan,2012-02-19,1st,DT Christian,30,,DJ Hussey,24,Australia,India,282,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+310,49.5,2,IK Pathan,2012-02-19,1st,DT Christian,30,,DJ Hussey,26,Australia,India,284,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+311,49.6,0,IK Pathan,2012-02-19,1st,DT Christian,30,,DJ Hussey,26,Australia,India,288,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+312,0.1,4,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,4,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+313,0.2,0,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,4,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+314,0.3,0,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+315,0.4,0,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,5,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+316,0.5,1,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,6,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+317,0.6,0,BW Hilfenhaus,2012-02-19,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,6,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+318,0.7,1,BW Hilfenhaus,2012-02-19,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,7,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+319,1.1,0,B Lee,2012-02-19,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,7,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+320,1.2,1,B Lee,2012-02-19,2nd,G Gambhir,0,,SR Tendulkar,0,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",0,Australia
+321,1.3,0,B Lee,2012-02-19,2nd,SR Tendulkar,0,,G Gambhir,0,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+322,1.4,0,B Lee,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+323,1.5,0,B Lee,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+324,1.6,0,B Lee,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,8,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+325,2.1,1,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,9,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+326,2.2,0,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,9,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+327,2.3,1,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,10,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+328,2.4,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,10,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+329,2.5,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,11,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+330,2.6,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,11,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+331,2.7,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,11,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+332,3.1,0,B Lee,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,11,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+333,3.2,0,B Lee,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,11,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+334,3.3,0,B Lee,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,11,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+335,3.4,1,B Lee,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,12,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+336,3.5,0,B Lee,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,12,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+337,3.6,0,B Lee,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,12,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+338,4.1,2,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,14,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+339,4.2,0,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,14,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+340,4.3,1,BW Hilfenhaus,2012-02-19,2nd,SR Tendulkar,0,,V Kohli,0,Australia,India,15,Australia,"Brisbane Cricket Ground, Woolloongabba",1,Australia
+341,4.4,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SR Tendulkar,0,Australia,India,15,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+342,4.5,0,BW Hilfenhaus,2012-02-19,2nd,RG Sharma,0,,V Kohli,0,Australia,India,15,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+343,4.6,0,BW Hilfenhaus,2012-02-19,2nd,RG Sharma,0,,V Kohli,0,Australia,India,15,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+344,5.1,0,B Lee,2012-02-19,2nd,V Kohli,0,,RG Sharma,0,Australia,India,15,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+345,5.2,0,B Lee,2012-02-19,2nd,V Kohli,0,,RG Sharma,0,Australia,India,15,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+346,5.3,0,B Lee,2012-02-19,2nd,V Kohli,0,,RG Sharma,0,Australia,India,16,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+347,5.4,0,B Lee,2012-02-19,2nd,V Kohli,0,,RG Sharma,0,Australia,India,16,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+348,5.5,0,B Lee,2012-02-19,2nd,V Kohli,0,,RG Sharma,0,Australia,India,16,Australia,"Brisbane Cricket Ground, Woolloongabba",2,Australia
+349,5.6,0,B Lee,2012-02-19,2nd,V Kohli,0,,RG Sharma,0,Australia,India,16,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+350,5.7,0,B Lee,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,16,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+351,6.1,1,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,17,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+352,6.2,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,17,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+353,6.3,1,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,18,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+354,6.4,1,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,19,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+355,6.5,1,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,20,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+356,6.6,0,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,20,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+357,7.1,0,B Lee,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,20,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+358,7.2,4,B Lee,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,24,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+359,7.3,0,B Lee,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,24,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+360,7.4,1,B Lee,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,25,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+361,7.5,0,B Lee,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,25,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+362,7.6,1,B Lee,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,26,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+363,8.1,0,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,26,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+364,8.2,0,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,26,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+365,8.3,3,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+366,8.4,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+367,8.5,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+368,8.6,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+369,9.1,0,DT Christian,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,29,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+370,9.2,1,DT Christian,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,30,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+371,9.3,2,DT Christian,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,32,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+372,9.4,0,DT Christian,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,32,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+373,9.5,0,DT Christian,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,32,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+374,9.6,1,DT Christian,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,33,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+375,10.1,0,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,35,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+376,10.2,1,BW Hilfenhaus,2012-02-19,2nd,V Kohli,0,,SK Raina,0,Australia,India,36,Australia,"Brisbane Cricket Ground, Woolloongabba",3,Australia
+377,10.3,0,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,V Kohli,0,Australia,India,36,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+378,10.4,0,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,36,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+379,10.5,0,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,36,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+380,10.6,1,BW Hilfenhaus,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,37,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+381,11.1,0,DT Christian,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,37,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+382,11.2,0,DT Christian,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,37,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+383,11.3,2,DT Christian,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,39,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+384,11.4,0,DT Christian,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,39,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+385,11.5,0,DT Christian,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,39,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+386,11.6,0,DT Christian,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,40,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+387,11.7,0,DT Christian,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,40,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+388,12.1,1,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,41,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+389,12.2,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,41,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+390,12.3,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,41,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+391,12.4,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,41,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+392,12.5,1,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,42,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+393,12.6,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,42,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+394,13.1,0,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,42,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+395,13.2,0,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,42,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+396,13.3,1,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,43,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+397,13.4,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,43,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+398,13.5,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,44,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+399,13.6,1,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,45,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+400,14.1,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,45,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+401,14.2,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,45,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+402,14.3,2,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,47,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+403,14.4,2,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,49,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+404,14.5,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,49,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+405,14.6,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,49,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+406,15.1,2,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,51,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+407,15.2,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,51,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+408,15.3,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,52,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+409,15.4,1,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,53,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+410,15.5,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,53,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+411,15.6,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,53,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+412,16.1,1,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,54,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+413,16.2,1,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,55,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+414,16.3,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,55,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+415,16.4,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,55,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+416,16.5,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,55,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+417,16.6,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,56,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+418,16.7,1,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,57,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+419,17.1,2,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,59,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+420,17.2,0,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,59,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+421,17.3,0,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,59,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+422,17.4,1,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,60,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+423,17.5,1,B Lee,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,61,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+424,17.6,0,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,61,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+425,18.1,1,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,62,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+426,18.2,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,63,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+427,18.3,1,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,64,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+428,18.4,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,64,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+429,18.5,1,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,65,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+430,18.6,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,65,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+431,19.1,4,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,69,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+432,19.2,0,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,69,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+433,19.3,0,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,69,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+434,19.4,1,B Lee,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,70,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+435,19.5,0,B Lee,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,70,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+436,19.6,0,B Lee,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,70,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+437,20.1,0,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,70,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+438,20.2,1,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,71,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+439,20.3,1,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,72,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+440,20.4,1,MA Starc,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,73,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+441,20.5,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,73,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+442,20.6,6,MA Starc,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,79,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+443,21.1,0,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,79,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+444,21.2,0,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,79,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+445,21.3,1,XJ Doherty,2012-02-19,2nd,SK Raina,0,,MS Dhoni,0,Australia,India,80,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+446,21.4,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,81,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+447,21.5,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,81,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+448,21.6,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,81,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+449,21.7,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,82,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+450,22.1,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,82,Australia,"Brisbane Cricket Ground, Woolloongabba",4,Australia
+451,22.2,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,SK Raina,0,Australia,India,82,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+452,22.3,1,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,83,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+453,22.4,1,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,84,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+454,22.5,2,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,86,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+455,22.6,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,86,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+456,23.1,1,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,87,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+457,23.2,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,87,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+458,23.3,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,87,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+459,23.4,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+460,23.5,0,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+461,23.6,0,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+462,24.1,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+463,24.2,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+464,24.3,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+465,24.4,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+466,24.5,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,88,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+467,24.6,1,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,89,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+468,25.1,4,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+469,25.2,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+470,25.3,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+471,25.4,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+472,25.5,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+473,25.6,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,93,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+474,26.1,3,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,96,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+475,26.2,2,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,98,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+476,26.3,1,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,99,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+477,26.4,1,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,100,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+478,26.5,1,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,101,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+479,26.6,1,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,102,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+480,27.1,1,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,103,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+481,27.2,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,103,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+482,27.3,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,103,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+483,27.4,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,103,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+484,27.5,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,104,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+485,27.6,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,105,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+486,27.7,0,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,105,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+487,28.1,0,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,105,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+488,28.2,1,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,106,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+489,28.3,0,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,106,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+490,28.4,2,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,108,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+491,28.5,0,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,109,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+492,28.6,1,DT Christian,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,110,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+493,28.7,1,DT Christian,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,111,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+494,29.1,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,112,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+495,29.2,1,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,113,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+496,29.3,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,113,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+497,29.4,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,114,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+498,29.5,0,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,114,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+499,29.6,0,XJ Doherty,2012-02-19,2nd,RA Jadeja,0,,MS Dhoni,0,Australia,India,114,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+500,30.1,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,114,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+501,30.2,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,114,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+502,30.3,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,114,Australia,"Brisbane Cricket Ground, Woolloongabba",5,Australia
+503,30.4,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,RA Jadeja,0,Australia,India,114,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+504,30.5,0,MA Starc,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,115,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+505,30.6,0,MA Starc,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,116,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+506,30.7,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,116,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+507,31.1,1,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,117,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+508,31.2,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,117,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+509,31.3,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,118,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+510,31.4,1,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+511,31.5,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+512,31.6,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+513,32.1,0,MA Starc,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+514,32.2,0,MA Starc,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,119,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+515,32.3,1,MA Starc,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,120,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+516,32.4,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,120,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+517,32.5,0,MA Starc,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,120,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+518,32.6,6,MA Starc,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,126,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+519,33.1,0,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,126,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+520,33.2,0,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,126,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+521,33.3,0,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,126,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+522,33.4,1,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,127,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+523,33.5,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,127,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+524,33.6,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,127,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+525,34.1,0,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,127,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+526,34.2,6,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,133,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+527,34.3,4,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,137,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+528,34.4,0,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,137,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+529,34.5,0,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,138,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+530,34.6,1,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,139,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+531,34.7,0,B Lee,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,139,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+532,35.1,1,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,140,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+533,35.2,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,140,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+534,35.3,0,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,140,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+535,35.4,1,XJ Doherty,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,141,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+536,35.5,0,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,141,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+537,35.6,1,XJ Doherty,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,142,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+538,36.1,1,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,143,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+539,36.2,0,B Lee,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,143,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+540,36.3,1,B Lee,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,144,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+541,36.4,1,B Lee,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,145,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+542,36.5,4,B Lee,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,149,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+543,36.6,0,B Lee,2012-02-19,2nd,MS Dhoni,0,,IK Pathan,0,Australia,India,149,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+544,37.1,0,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,149,Australia,"Brisbane Cricket Ground, Woolloongabba",6,Australia
+545,37.2,0,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,MS Dhoni,0,Australia,India,149,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+546,37.3,0,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,149,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+547,37.4,2,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,151,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+548,37.5,0,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,151,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+549,37.6,0,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,151,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+550,38.1,0,B Lee,2012-02-19,2nd,R Vinay Kumar,0,,IK Pathan,0,Australia,India,151,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+551,38.2,0,B Lee,2012-02-19,2nd,R Vinay Kumar,0,,IK Pathan,0,Australia,India,151,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+552,38.3,1,B Lee,2012-02-19,2nd,R Vinay Kumar,0,,IK Pathan,0,Australia,India,152,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+553,38.4,0,B Lee,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,152,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+554,38.5,0,B Lee,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,153,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+555,38.6,0,B Lee,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,153,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+556,38.7,0,B Lee,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,153,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+557,39.1,1,BW Hilfenhaus,2012-02-19,2nd,R Vinay Kumar,0,,IK Pathan,0,Australia,India,154,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+558,39.2,1,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,155,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+559,39.3,1,BW Hilfenhaus,2012-02-19,2nd,R Vinay Kumar,0,,IK Pathan,0,Australia,India,156,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+560,39.4,1,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,157,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+561,39.5,1,BW Hilfenhaus,2012-02-19,2nd,R Vinay Kumar,0,,IK Pathan,0,Australia,India,158,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+562,39.6,0,BW Hilfenhaus,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,158,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+563,40.1,1,B Lee,2012-02-19,2nd,R Vinay Kumar,0,,IK Pathan,0,Australia,India,160,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+564,40.2,2,B Lee,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,162,Australia,"Brisbane Cricket Ground, Woolloongabba",7,Australia
+565,40.3,0,B Lee,2012-02-19,2nd,IK Pathan,0,,R Vinay Kumar,0,Australia,India,162,Australia,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+566,40.4,1,B Lee,2012-02-19,2nd,IK Pathan,0,,Z Khan,0,Australia,India,163,Australia,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+567,40.5,1,B Lee,2012-02-19,2nd,Z Khan,0,,IK Pathan,0,Australia,India,164,Australia,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+568,40.6,0,B Lee,2012-02-19,2nd,IK Pathan,0,,Z Khan,0,Australia,India,164,Australia,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+569,40.7,4,B Lee,2012-02-19,2nd,IK Pathan,0,,Z Khan,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",8,Australia
+570,41.1,0,BW Hilfenhaus,2012-02-19,2nd,Z Khan,0,,IK Pathan,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+571,41.2,0,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+572,41.3,0,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+573,41.4,0,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+574,41.5,0,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+575,41.6,0,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+576,42.1,0,MA Starc,2012-02-19,2nd,Z Khan,0,,UT Yadav,0,Australia,India,168,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+577,42.2,4,MA Starc,2012-02-19,2nd,Z Khan,0,,UT Yadav,0,Australia,India,172,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+578,42.3,0,MA Starc,2012-02-19,2nd,Z Khan,0,,UT Yadav,0,Australia,India,172,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+579,42.4,0,MA Starc,2012-02-19,2nd,Z Khan,0,,UT Yadav,0,Australia,India,172,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+580,42.5,0,MA Starc,2012-02-19,2nd,Z Khan,0,,UT Yadav,0,Australia,India,172,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+581,42.6,2,MA Starc,2012-02-19,2nd,Z Khan,0,,UT Yadav,0,Australia,India,174,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+582,43.1,0,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,174,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+583,43.2,4,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,178,Australia,"Brisbane Cricket Ground, Woolloongabba",9,Australia
+584,43.3,0,BW Hilfenhaus,2012-02-19,2nd,UT Yadav,0,,Z Khan,0,Australia,India,178,Australia,"Brisbane Cricket Ground, Woolloongabba",10,Australia

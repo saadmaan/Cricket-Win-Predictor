@@ -1,0 +1,551 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,J Botha,2011-02-24,1st,DS Smith,0,,CH Gayle,0,South Africa,West Indies,0,South Africa,Feroz Shah Kotla,0,South Africa
+1,0.2,2,J Botha,2011-02-24,1st,DS Smith,0,,CH Gayle,2,South Africa,West Indies,2,South Africa,Feroz Shah Kotla,0,South Africa
+2,0.3,0,J Botha,2011-02-24,1st,DS Smith,0,CH Gayle,CH Gayle,2,South Africa,West Indies,2,South Africa,Feroz Shah Kotla,1,South Africa
+3,0.4,0,J Botha,2011-02-24,1st,DS Smith,0,,DM Bravo,0,South Africa,West Indies,2,South Africa,Feroz Shah Kotla,1,South Africa
+4,0.5,0,J Botha,2011-02-24,1st,DS Smith,0,,DM Bravo,0,South Africa,West Indies,3,South Africa,Feroz Shah Kotla,1,South Africa
+5,0.6,0,J Botha,2011-02-24,1st,DS Smith,0,,DM Bravo,0,South Africa,West Indies,3,South Africa,Feroz Shah Kotla,1,South Africa
+6,0.7,0,J Botha,2011-02-24,1st,DS Smith,0,,DM Bravo,0,South Africa,West Indies,3,South Africa,Feroz Shah Kotla,1,South Africa
+7,1.1,1,DW Steyn,2011-02-24,1st,DM Bravo,0,,DS Smith,1,South Africa,West Indies,4,South Africa,Feroz Shah Kotla,1,South Africa
+8,1.2,0,DW Steyn,2011-02-24,1st,DS Smith,1,,DM Bravo,0,South Africa,West Indies,4,South Africa,Feroz Shah Kotla,1,South Africa
+9,1.3,0,DW Steyn,2011-02-24,1st,DS Smith,1,,DM Bravo,0,South Africa,West Indies,4,South Africa,Feroz Shah Kotla,1,South Africa
+10,1.4,4,DW Steyn,2011-02-24,1st,DS Smith,1,,DM Bravo,4,South Africa,West Indies,8,South Africa,Feroz Shah Kotla,1,South Africa
+11,1.5,2,DW Steyn,2011-02-24,1st,DS Smith,1,,DM Bravo,6,South Africa,West Indies,10,South Africa,Feroz Shah Kotla,1,South Africa
+12,1.6,4,DW Steyn,2011-02-24,1st,DS Smith,1,,DM Bravo,10,South Africa,West Indies,14,South Africa,Feroz Shah Kotla,1,South Africa
+13,2.1,0,J Botha,2011-02-24,1st,DM Bravo,10,,DS Smith,1,South Africa,West Indies,14,South Africa,Feroz Shah Kotla,1,South Africa
+14,2.2,0,J Botha,2011-02-24,1st,DM Bravo,10,,DS Smith,1,South Africa,West Indies,14,South Africa,Feroz Shah Kotla,1,South Africa
+15,2.3,0,J Botha,2011-02-24,1st,DM Bravo,10,,DS Smith,1,South Africa,West Indies,14,South Africa,Feroz Shah Kotla,1,South Africa
+16,2.4,1,J Botha,2011-02-24,1st,DM Bravo,10,,DS Smith,2,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,1,South Africa
+17,2.5,0,J Botha,2011-02-24,1st,DS Smith,2,,DM Bravo,10,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,1,South Africa
+18,2.6,1,J Botha,2011-02-24,1st,DS Smith,2,,DM Bravo,11,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+19,3.1,0,DW Steyn,2011-02-24,1st,DS Smith,2,,DM Bravo,11,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+20,3.2,0,DW Steyn,2011-02-24,1st,DS Smith,2,,DM Bravo,11,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+21,3.3,0,DW Steyn,2011-02-24,1st,DS Smith,2,,DM Bravo,11,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+22,3.4,0,DW Steyn,2011-02-24,1st,DS Smith,2,,DM Bravo,11,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+23,3.5,0,DW Steyn,2011-02-24,1st,DS Smith,2,,DM Bravo,11,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+24,3.6,0,DW Steyn,2011-02-24,1st,DS Smith,2,,DM Bravo,11,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+25,4.1,4,J Botha,2011-02-24,1st,DM Bravo,11,,DS Smith,6,South Africa,West Indies,20,South Africa,Feroz Shah Kotla,1,South Africa
+26,4.2,1,J Botha,2011-02-24,1st,DM Bravo,11,,DS Smith,7,South Africa,West Indies,21,South Africa,Feroz Shah Kotla,1,South Africa
+27,4.3,0,J Botha,2011-02-24,1st,DS Smith,7,,DM Bravo,11,South Africa,West Indies,21,South Africa,Feroz Shah Kotla,1,South Africa
+28,4.4,0,J Botha,2011-02-24,1st,DS Smith,7,,DM Bravo,11,South Africa,West Indies,21,South Africa,Feroz Shah Kotla,1,South Africa
+29,4.5,1,J Botha,2011-02-24,1st,DS Smith,7,,DM Bravo,12,South Africa,West Indies,22,South Africa,Feroz Shah Kotla,1,South Africa
+30,4.6,0,J Botha,2011-02-24,1st,DM Bravo,12,,DS Smith,7,South Africa,West Indies,22,South Africa,Feroz Shah Kotla,1,South Africa
+31,5.1,0,DW Steyn,2011-02-24,1st,DS Smith,7,,DM Bravo,12,South Africa,West Indies,22,South Africa,Feroz Shah Kotla,1,South Africa
+32,5.2,4,DW Steyn,2011-02-24,1st,DS Smith,7,,DM Bravo,16,South Africa,West Indies,26,South Africa,Feroz Shah Kotla,1,South Africa
+33,5.3,0,DW Steyn,2011-02-24,1st,DS Smith,7,,DM Bravo,16,South Africa,West Indies,26,South Africa,Feroz Shah Kotla,1,South Africa
+34,5.4,0,DW Steyn,2011-02-24,1st,DS Smith,7,,DM Bravo,16,South Africa,West Indies,27,South Africa,Feroz Shah Kotla,1,South Africa
+35,5.5,0,DW Steyn,2011-02-24,1st,DS Smith,7,,DM Bravo,16,South Africa,West Indies,27,South Africa,Feroz Shah Kotla,1,South Africa
+36,5.6,1,DW Steyn,2011-02-24,1st,DS Smith,7,,DM Bravo,17,South Africa,West Indies,28,South Africa,Feroz Shah Kotla,1,South Africa
+37,5.7,0,DW Steyn,2011-02-24,1st,DM Bravo,17,,DS Smith,7,South Africa,West Indies,28,South Africa,Feroz Shah Kotla,1,South Africa
+38,6.1,1,M Morkel,2011-02-24,1st,DS Smith,7,,DM Bravo,18,South Africa,West Indies,29,South Africa,Feroz Shah Kotla,1,South Africa
+39,6.2,0,M Morkel,2011-02-24,1st,DM Bravo,18,,DS Smith,7,South Africa,West Indies,29,South Africa,Feroz Shah Kotla,1,South Africa
+40,6.3,0,M Morkel,2011-02-24,1st,DM Bravo,18,,DS Smith,7,South Africa,West Indies,29,South Africa,Feroz Shah Kotla,1,South Africa
+41,6.4,0,M Morkel,2011-02-24,1st,DM Bravo,18,,DS Smith,7,South Africa,West Indies,29,South Africa,Feroz Shah Kotla,1,South Africa
+42,6.5,0,M Morkel,2011-02-24,1st,DM Bravo,18,,DS Smith,7,South Africa,West Indies,29,South Africa,Feroz Shah Kotla,1,South Africa
+43,6.6,0,M Morkel,2011-02-24,1st,DM Bravo,18,,DS Smith,7,South Africa,West Indies,29,South Africa,Feroz Shah Kotla,1,South Africa
+44,7.1,4,JH Kallis,2011-02-24,1st,DS Smith,7,,DM Bravo,22,South Africa,West Indies,33,South Africa,Feroz Shah Kotla,1,South Africa
+45,7.2,0,JH Kallis,2011-02-24,1st,DS Smith,7,,DM Bravo,22,South Africa,West Indies,33,South Africa,Feroz Shah Kotla,1,South Africa
+46,7.3,4,JH Kallis,2011-02-24,1st,DS Smith,7,,DM Bravo,26,South Africa,West Indies,37,South Africa,Feroz Shah Kotla,1,South Africa
+47,7.4,2,JH Kallis,2011-02-24,1st,DS Smith,7,,DM Bravo,28,South Africa,West Indies,39,South Africa,Feroz Shah Kotla,1,South Africa
+48,7.5,0,JH Kallis,2011-02-24,1st,DS Smith,7,,DM Bravo,28,South Africa,West Indies,39,South Africa,Feroz Shah Kotla,1,South Africa
+49,7.6,0,JH Kallis,2011-02-24,1st,DS Smith,7,,DM Bravo,28,South Africa,West Indies,39,South Africa,Feroz Shah Kotla,1,South Africa
+50,8.1,0,M Morkel,2011-02-24,1st,DM Bravo,28,,DS Smith,7,South Africa,West Indies,39,South Africa,Feroz Shah Kotla,1,South Africa
+51,8.2,1,M Morkel,2011-02-24,1st,DM Bravo,28,,DS Smith,8,South Africa,West Indies,40,South Africa,Feroz Shah Kotla,1,South Africa
+52,8.3,1,M Morkel,2011-02-24,1st,DS Smith,8,,DM Bravo,29,South Africa,West Indies,41,South Africa,Feroz Shah Kotla,1,South Africa
+53,8.4,0,M Morkel,2011-02-24,1st,DM Bravo,29,,DS Smith,8,South Africa,West Indies,41,South Africa,Feroz Shah Kotla,1,South Africa
+54,8.5,1,M Morkel,2011-02-24,1st,DM Bravo,29,,DS Smith,9,South Africa,West Indies,42,South Africa,Feroz Shah Kotla,1,South Africa
+55,8.6,0,M Morkel,2011-02-24,1st,DS Smith,9,,DM Bravo,29,South Africa,West Indies,42,South Africa,Feroz Shah Kotla,1,South Africa
+56,9.1,0,JH Kallis,2011-02-24,1st,DM Bravo,29,,DS Smith,9,South Africa,West Indies,42,South Africa,Feroz Shah Kotla,1,South Africa
+57,9.2,1,JH Kallis,2011-02-24,1st,DM Bravo,29,,DS Smith,10,South Africa,West Indies,43,South Africa,Feroz Shah Kotla,1,South Africa
+58,9.3,1,JH Kallis,2011-02-24,1st,DS Smith,10,,DM Bravo,30,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,1,South Africa
+59,9.4,0,JH Kallis,2011-02-24,1st,DM Bravo,30,,DS Smith,10,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,1,South Africa
+60,9.5,0,JH Kallis,2011-02-24,1st,DM Bravo,30,,DS Smith,10,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,1,South Africa
+61,9.6,0,JH Kallis,2011-02-24,1st,DM Bravo,30,,DS Smith,10,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,1,South Africa
+62,10.1,0,M Morkel,2011-02-24,1st,DS Smith,10,,DM Bravo,30,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,1,South Africa
+63,10.2,0,M Morkel,2011-02-24,1st,DS Smith,10,,DM Bravo,30,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,1,South Africa
+64,10.3,1,M Morkel,2011-02-24,1st,DS Smith,10,,DM Bravo,31,South Africa,West Indies,45,South Africa,Feroz Shah Kotla,1,South Africa
+65,10.4,0,M Morkel,2011-02-24,1st,DM Bravo,31,,DS Smith,10,South Africa,West Indies,45,South Africa,Feroz Shah Kotla,1,South Africa
+66,10.5,4,M Morkel,2011-02-24,1st,DM Bravo,31,,DS Smith,14,South Africa,West Indies,49,South Africa,Feroz Shah Kotla,1,South Africa
+67,10.6,0,M Morkel,2011-02-24,1st,DM Bravo,31,,DS Smith,14,South Africa,West Indies,49,South Africa,Feroz Shah Kotla,1,South Africa
+68,11.1,1,JH Kallis,2011-02-24,1st,DS Smith,14,,DM Bravo,32,South Africa,West Indies,50,South Africa,Feroz Shah Kotla,1,South Africa
+69,11.2,1,JH Kallis,2011-02-24,1st,DM Bravo,32,,DS Smith,15,South Africa,West Indies,51,South Africa,Feroz Shah Kotla,1,South Africa
+70,11.3,4,JH Kallis,2011-02-24,1st,DS Smith,15,,DM Bravo,36,South Africa,West Indies,55,South Africa,Feroz Shah Kotla,1,South Africa
+71,11.4,1,JH Kallis,2011-02-24,1st,DS Smith,15,,DM Bravo,37,South Africa,West Indies,56,South Africa,Feroz Shah Kotla,1,South Africa
+72,11.5,1,JH Kallis,2011-02-24,1st,DM Bravo,37,,DS Smith,16,South Africa,West Indies,57,South Africa,Feroz Shah Kotla,1,South Africa
+73,11.6,1,JH Kallis,2011-02-24,1st,DS Smith,16,,DM Bravo,38,South Africa,West Indies,58,South Africa,Feroz Shah Kotla,1,South Africa
+74,12.1,0,M Morkel,2011-02-24,1st,DS Smith,16,,DM Bravo,38,South Africa,West Indies,58,South Africa,Feroz Shah Kotla,1,South Africa
+75,12.2,0,M Morkel,2011-02-24,1st,DS Smith,16,,DM Bravo,38,South Africa,West Indies,58,South Africa,Feroz Shah Kotla,1,South Africa
+76,12.3,0,M Morkel,2011-02-24,1st,DS Smith,16,,DM Bravo,38,South Africa,West Indies,58,South Africa,Feroz Shah Kotla,1,South Africa
+77,12.4,0,M Morkel,2011-02-24,1st,DS Smith,16,,DM Bravo,38,South Africa,West Indies,58,South Africa,Feroz Shah Kotla,1,South Africa
+78,12.5,4,M Morkel,2011-02-24,1st,DS Smith,16,,DM Bravo,42,South Africa,West Indies,62,South Africa,Feroz Shah Kotla,1,South Africa
+79,12.6,0,M Morkel,2011-02-24,1st,DS Smith,16,,DM Bravo,42,South Africa,West Indies,62,South Africa,Feroz Shah Kotla,1,South Africa
+80,13.1,1,Imran Tahir,2011-02-24,1st,DM Bravo,42,,DS Smith,17,South Africa,West Indies,63,South Africa,Feroz Shah Kotla,1,South Africa
+81,13.2,0,Imran Tahir,2011-02-24,1st,DS Smith,17,,DM Bravo,42,South Africa,West Indies,63,South Africa,Feroz Shah Kotla,1,South Africa
+82,13.3,1,Imran Tahir,2011-02-24,1st,DS Smith,17,,DM Bravo,43,South Africa,West Indies,64,South Africa,Feroz Shah Kotla,1,South Africa
+83,13.4,0,Imran Tahir,2011-02-24,1st,DM Bravo,43,,DS Smith,17,South Africa,West Indies,64,South Africa,Feroz Shah Kotla,1,South Africa
+84,13.5,0,Imran Tahir,2011-02-24,1st,DM Bravo,43,,DS Smith,17,South Africa,West Indies,64,South Africa,Feroz Shah Kotla,1,South Africa
+85,13.6,0,Imran Tahir,2011-02-24,1st,DM Bravo,43,,DS Smith,17,South Africa,West Indies,64,South Africa,Feroz Shah Kotla,1,South Africa
+86,14.1,4,M Morkel,2011-02-24,1st,DS Smith,17,,DM Bravo,47,South Africa,West Indies,68,South Africa,Feroz Shah Kotla,1,South Africa
+87,14.2,0,M Morkel,2011-02-24,1st,DS Smith,17,,DM Bravo,47,South Africa,West Indies,69,South Africa,Feroz Shah Kotla,1,South Africa
+88,14.3,0,M Morkel,2011-02-24,1st,DS Smith,17,,DM Bravo,47,South Africa,West Indies,69,South Africa,Feroz Shah Kotla,1,South Africa
+89,14.4,0,M Morkel,2011-02-24,1st,DS Smith,17,,DM Bravo,47,South Africa,West Indies,69,South Africa,Feroz Shah Kotla,1,South Africa
+90,14.5,1,M Morkel,2011-02-24,1st,DS Smith,17,,DM Bravo,48,South Africa,West Indies,70,South Africa,Feroz Shah Kotla,1,South Africa
+91,14.6,1,M Morkel,2011-02-24,1st,DM Bravo,48,,DS Smith,18,South Africa,West Indies,71,South Africa,Feroz Shah Kotla,1,South Africa
+92,14.7,1,M Morkel,2011-02-24,1st,DS Smith,18,,DM Bravo,49,South Africa,West Indies,72,South Africa,Feroz Shah Kotla,1,South Africa
+93,15.1,2,Imran Tahir,2011-02-24,1st,DS Smith,18,,DM Bravo,51,South Africa,West Indies,74,South Africa,Feroz Shah Kotla,1,South Africa
+94,15.2,2,Imran Tahir,2011-02-24,1st,DS Smith,18,,DM Bravo,53,South Africa,West Indies,76,South Africa,Feroz Shah Kotla,1,South Africa
+95,15.3,6,Imran Tahir,2011-02-24,1st,DS Smith,18,,DM Bravo,59,South Africa,West Indies,82,South Africa,Feroz Shah Kotla,1,South Africa
+96,15.4,1,Imran Tahir,2011-02-24,1st,DS Smith,18,,DM Bravo,60,South Africa,West Indies,83,South Africa,Feroz Shah Kotla,1,South Africa
+97,15.5,0,Imran Tahir,2011-02-24,1st,DM Bravo,60,,DS Smith,18,South Africa,West Indies,83,South Africa,Feroz Shah Kotla,1,South Africa
+98,15.6,0,Imran Tahir,2011-02-24,1st,DM Bravo,60,,DS Smith,18,South Africa,West Indies,83,South Africa,Feroz Shah Kotla,1,South Africa
+99,16.1,0,RJ Peterson,2011-02-24,1st,DS Smith,18,,DM Bravo,60,South Africa,West Indies,83,South Africa,Feroz Shah Kotla,1,South Africa
+100,16.2,1,RJ Peterson,2011-02-24,1st,DS Smith,18,,DM Bravo,61,South Africa,West Indies,84,South Africa,Feroz Shah Kotla,1,South Africa
+101,16.3,1,RJ Peterson,2011-02-24,1st,DM Bravo,61,,DS Smith,19,South Africa,West Indies,85,South Africa,Feroz Shah Kotla,1,South Africa
+102,16.4,0,RJ Peterson,2011-02-24,1st,DS Smith,19,,DM Bravo,61,South Africa,West Indies,85,South Africa,Feroz Shah Kotla,1,South Africa
+103,16.5,0,RJ Peterson,2011-02-24,1st,DS Smith,19,,DM Bravo,61,South Africa,West Indies,85,South Africa,Feroz Shah Kotla,1,South Africa
+104,16.6,1,RJ Peterson,2011-02-24,1st,DS Smith,19,,DM Bravo,62,South Africa,West Indies,86,South Africa,Feroz Shah Kotla,1,South Africa
+105,17.1,0,J Botha,2011-02-24,1st,DS Smith,19,,DM Bravo,62,South Africa,West Indies,87,South Africa,Feroz Shah Kotla,1,South Africa
+106,17.2,1,J Botha,2011-02-24,1st,DS Smith,19,,DM Bravo,63,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,1,South Africa
+107,17.3,0,J Botha,2011-02-24,1st,DM Bravo,63,,DS Smith,19,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,1,South Africa
+108,17.4,0,J Botha,2011-02-24,1st,DM Bravo,63,,DS Smith,19,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,1,South Africa
+109,17.5,0,J Botha,2011-02-24,1st,DM Bravo,63,,DS Smith,19,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,1,South Africa
+110,17.6,0,J Botha,2011-02-24,1st,DM Bravo,63,,DS Smith,19,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,1,South Africa
+111,17.7,1,J Botha,2011-02-24,1st,DM Bravo,63,,DS Smith,20,South Africa,West Indies,89,South Africa,Feroz Shah Kotla,1,South Africa
+112,18.1,1,RJ Peterson,2011-02-24,1st,DM Bravo,63,,DS Smith,21,South Africa,West Indies,90,South Africa,Feroz Shah Kotla,1,South Africa
+113,18.2,0,RJ Peterson,2011-02-24,1st,DS Smith,21,,DM Bravo,63,South Africa,West Indies,90,South Africa,Feroz Shah Kotla,1,South Africa
+114,18.3,1,RJ Peterson,2011-02-24,1st,DS Smith,21,,DM Bravo,64,South Africa,West Indies,91,South Africa,Feroz Shah Kotla,1,South Africa
+115,18.4,4,RJ Peterson,2011-02-24,1st,DM Bravo,64,,DS Smith,25,South Africa,West Indies,95,South Africa,Feroz Shah Kotla,1,South Africa
+116,18.5,0,RJ Peterson,2011-02-24,1st,DM Bravo,64,,DS Smith,25,South Africa,West Indies,95,South Africa,Feroz Shah Kotla,1,South Africa
+117,18.6,2,RJ Peterson,2011-02-24,1st,DM Bravo,64,,DS Smith,27,South Africa,West Indies,97,South Africa,Feroz Shah Kotla,1,South Africa
+118,19.1,0,J Botha,2011-02-24,1st,DS Smith,27,,DM Bravo,64,South Africa,West Indies,97,South Africa,Feroz Shah Kotla,1,South Africa
+119,19.2,1,J Botha,2011-02-24,1st,DS Smith,27,,DM Bravo,65,South Africa,West Indies,98,South Africa,Feroz Shah Kotla,1,South Africa
+120,19.3,1,J Botha,2011-02-24,1st,DM Bravo,65,,DS Smith,28,South Africa,West Indies,99,South Africa,Feroz Shah Kotla,1,South Africa
+121,19.4,1,J Botha,2011-02-24,1st,DS Smith,28,,DM Bravo,66,South Africa,West Indies,100,South Africa,Feroz Shah Kotla,1,South Africa
+122,19.5,1,J Botha,2011-02-24,1st,DM Bravo,66,,DS Smith,29,South Africa,West Indies,101,South Africa,Feroz Shah Kotla,1,South Africa
+123,19.6,1,J Botha,2011-02-24,1st,DS Smith,29,,DM Bravo,67,South Africa,West Indies,102,South Africa,Feroz Shah Kotla,1,South Africa
+124,20.1,0,RJ Peterson,2011-02-24,1st,DS Smith,29,,DM Bravo,67,South Africa,West Indies,102,South Africa,Feroz Shah Kotla,1,South Africa
+125,20.2,1,RJ Peterson,2011-02-24,1st,DS Smith,29,,DM Bravo,68,South Africa,West Indies,103,South Africa,Feroz Shah Kotla,1,South Africa
+126,20.3,1,RJ Peterson,2011-02-24,1st,DM Bravo,68,,DS Smith,30,South Africa,West Indies,104,South Africa,Feroz Shah Kotla,1,South Africa
+127,20.4,0,RJ Peterson,2011-02-24,1st,DS Smith,30,,DM Bravo,68,South Africa,West Indies,104,South Africa,Feroz Shah Kotla,1,South Africa
+128,20.5,0,RJ Peterson,2011-02-24,1st,DS Smith,30,,DM Bravo,68,South Africa,West Indies,104,South Africa,Feroz Shah Kotla,1,South Africa
+129,20.6,0,RJ Peterson,2011-02-24,1st,DS Smith,30,,DM Bravo,68,South Africa,West Indies,104,South Africa,Feroz Shah Kotla,1,South Africa
+130,21.1,1,J Botha,2011-02-24,1st,DM Bravo,68,,DS Smith,31,South Africa,West Indies,105,South Africa,Feroz Shah Kotla,1,South Africa
+131,21.2,2,J Botha,2011-02-24,1st,DS Smith,31,,DM Bravo,70,South Africa,West Indies,107,South Africa,Feroz Shah Kotla,1,South Africa
+132,21.3,0,J Botha,2011-02-24,1st,DS Smith,31,,DM Bravo,70,South Africa,West Indies,107,South Africa,Feroz Shah Kotla,1,South Africa
+133,21.4,2,J Botha,2011-02-24,1st,DS Smith,31,,DM Bravo,72,South Africa,West Indies,109,South Africa,Feroz Shah Kotla,1,South Africa
+134,21.5,0,J Botha,2011-02-24,1st,DS Smith,31,,DM Bravo,72,South Africa,West Indies,109,South Africa,Feroz Shah Kotla,1,South Africa
+135,21.6,0,J Botha,2011-02-24,1st,DS Smith,31,,DM Bravo,72,South Africa,West Indies,109,South Africa,Feroz Shah Kotla,1,South Africa
+136,22.1,0,RJ Peterson,2011-02-24,1st,DM Bravo,72,,DS Smith,31,South Africa,West Indies,109,South Africa,Feroz Shah Kotla,1,South Africa
+137,22.2,1,RJ Peterson,2011-02-24,1st,DM Bravo,72,,DS Smith,32,South Africa,West Indies,110,South Africa,Feroz Shah Kotla,1,South Africa
+138,22.3,1,RJ Peterson,2011-02-24,1st,DS Smith,32,,DM Bravo,73,South Africa,West Indies,111,South Africa,Feroz Shah Kotla,1,South Africa
+139,22.4,2,RJ Peterson,2011-02-24,1st,DM Bravo,73,,DS Smith,34,South Africa,West Indies,113,South Africa,Feroz Shah Kotla,1,South Africa
+140,22.5,0,RJ Peterson,2011-02-24,1st,DM Bravo,73,,DS Smith,34,South Africa,West Indies,113,South Africa,Feroz Shah Kotla,1,South Africa
+141,22.6,0,RJ Peterson,2011-02-24,1st,DM Bravo,73,,DS Smith,34,South Africa,West Indies,113,South Africa,Feroz Shah Kotla,1,South Africa
+142,23.1,0,J Botha,2011-02-24,1st,DS Smith,34,DM Bravo,DM Bravo,73,South Africa,West Indies,113,South Africa,Feroz Shah Kotla,2,South Africa
+143,23.2,0,J Botha,2011-02-24,1st,DS Smith,34,,RR Sarwan,0,South Africa,West Indies,113,South Africa,Feroz Shah Kotla,2,South Africa
+144,23.3,1,J Botha,2011-02-24,1st,DS Smith,34,,RR Sarwan,1,South Africa,West Indies,114,South Africa,Feroz Shah Kotla,2,South Africa
+145,23.4,1,J Botha,2011-02-24,1st,RR Sarwan,1,,DS Smith,35,South Africa,West Indies,115,South Africa,Feroz Shah Kotla,2,South Africa
+146,23.5,0,J Botha,2011-02-24,1st,DS Smith,35,,RR Sarwan,1,South Africa,West Indies,115,South Africa,Feroz Shah Kotla,2,South Africa
+147,23.6,0,J Botha,2011-02-24,1st,DS Smith,35,,RR Sarwan,1,South Africa,West Indies,115,South Africa,Feroz Shah Kotla,2,South Africa
+148,24.1,1,Imran Tahir,2011-02-24,1st,RR Sarwan,1,,DS Smith,36,South Africa,West Indies,116,South Africa,Feroz Shah Kotla,2,South Africa
+149,24.2,0,Imran Tahir,2011-02-24,1st,DS Smith,36,,RR Sarwan,1,South Africa,West Indies,116,South Africa,Feroz Shah Kotla,2,South Africa
+150,24.3,1,Imran Tahir,2011-02-24,1st,DS Smith,36,,RR Sarwan,2,South Africa,West Indies,117,South Africa,Feroz Shah Kotla,2,South Africa
+151,24.4,0,Imran Tahir,2011-02-24,1st,RR Sarwan,2,DS Smith,DS Smith,36,South Africa,West Indies,117,South Africa,Feroz Shah Kotla,3,South Africa
+152,24.5,1,Imran Tahir,2011-02-24,1st,RR Sarwan,2,,S Chanderpaul,1,South Africa,West Indies,118,South Africa,Feroz Shah Kotla,3,South Africa
+153,24.6,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,1,,RR Sarwan,2,South Africa,West Indies,118,South Africa,Feroz Shah Kotla,3,South Africa
+154,25.1,0,DW Steyn,2011-02-24,1st,RR Sarwan,2,,S Chanderpaul,1,South Africa,West Indies,118,South Africa,Feroz Shah Kotla,3,South Africa
+155,25.2,0,DW Steyn,2011-02-24,1st,RR Sarwan,2,,S Chanderpaul,1,South Africa,West Indies,118,South Africa,Feroz Shah Kotla,3,South Africa
+156,25.3,0,DW Steyn,2011-02-24,1st,RR Sarwan,2,,S Chanderpaul,1,South Africa,West Indies,118,South Africa,Feroz Shah Kotla,3,South Africa
+157,25.4,1,DW Steyn,2011-02-24,1st,RR Sarwan,2,,S Chanderpaul,2,South Africa,West Indies,119,South Africa,Feroz Shah Kotla,3,South Africa
+158,25.5,0,DW Steyn,2011-02-24,1st,S Chanderpaul,2,,RR Sarwan,2,South Africa,West Indies,119,South Africa,Feroz Shah Kotla,3,South Africa
+159,25.6,0,DW Steyn,2011-02-24,1st,S Chanderpaul,2,,RR Sarwan,2,South Africa,West Indies,120,South Africa,Feroz Shah Kotla,3,South Africa
+160,26.1,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,2,RR Sarwan,RR Sarwan,2,South Africa,West Indies,120,South Africa,Feroz Shah Kotla,4,South Africa
+161,26.2,1,Imran Tahir,2011-02-24,1st,S Chanderpaul,2,,DJ Bravo,1,South Africa,West Indies,121,South Africa,Feroz Shah Kotla,4,South Africa
+162,26.3,1,Imran Tahir,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,3,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,4,South Africa
+163,26.4,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,3,,DJ Bravo,1,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,4,South Africa
+164,26.5,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,3,,DJ Bravo,1,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,4,South Africa
+165,26.6,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,3,,DJ Bravo,1,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,4,South Africa
+166,27.1,0,DW Steyn,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,3,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,4,South Africa
+167,27.2,0,DW Steyn,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,3,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,4,South Africa
+168,27.3,0,DW Steyn,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,3,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,4,South Africa
+169,27.4,1,DW Steyn,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,4,South Africa,West Indies,123,South Africa,Feroz Shah Kotla,4,South Africa
+170,27.5,0,DW Steyn,2011-02-24,1st,S Chanderpaul,4,,DJ Bravo,1,South Africa,West Indies,123,South Africa,Feroz Shah Kotla,4,South Africa
+171,27.6,0,DW Steyn,2011-02-24,1st,S Chanderpaul,4,,DJ Bravo,1,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,4,South Africa
+172,27.7,0,DW Steyn,2011-02-24,1st,S Chanderpaul,4,,DJ Bravo,1,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,4,South Africa
+173,28.1,0,Imran Tahir,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,4,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,4,South Africa
+174,28.2,0,Imran Tahir,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,4,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,4,South Africa
+175,28.3,0,Imran Tahir,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,4,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,4,South Africa
+176,28.4,1,Imran Tahir,2011-02-24,1st,DJ Bravo,1,,S Chanderpaul,5,South Africa,West Indies,125,South Africa,Feroz Shah Kotla,4,South Africa
+177,28.5,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,5,,DJ Bravo,1,South Africa,West Indies,125,South Africa,Feroz Shah Kotla,4,South Africa
+178,28.6,1,Imran Tahir,2011-02-24,1st,S Chanderpaul,5,,DJ Bravo,2,South Africa,West Indies,126,South Africa,Feroz Shah Kotla,4,South Africa
+179,29.1,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,5,,DJ Bravo,3,South Africa,West Indies,127,South Africa,Feroz Shah Kotla,4,South Africa
+180,29.2,0,RJ Peterson,2011-02-24,1st,DJ Bravo,3,,S Chanderpaul,5,South Africa,West Indies,127,South Africa,Feroz Shah Kotla,4,South Africa
+181,29.3,1,RJ Peterson,2011-02-24,1st,DJ Bravo,3,,S Chanderpaul,6,South Africa,West Indies,128,South Africa,Feroz Shah Kotla,4,South Africa
+182,29.4,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,6,,DJ Bravo,3,South Africa,West Indies,128,South Africa,Feroz Shah Kotla,4,South Africa
+183,29.5,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,6,,DJ Bravo,3,South Africa,West Indies,128,South Africa,Feroz Shah Kotla,4,South Africa
+184,29.6,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,6,,DJ Bravo,3,South Africa,West Indies,129,South Africa,Feroz Shah Kotla,4,South Africa
+185,30.1,6,Imran Tahir,2011-02-24,1st,S Chanderpaul,6,,DJ Bravo,9,South Africa,West Indies,135,South Africa,Feroz Shah Kotla,4,South Africa
+186,30.2,1,Imran Tahir,2011-02-24,1st,S Chanderpaul,6,,DJ Bravo,10,South Africa,West Indies,136,South Africa,Feroz Shah Kotla,4,South Africa
+187,30.3,1,Imran Tahir,2011-02-24,1st,DJ Bravo,10,,S Chanderpaul,7,South Africa,West Indies,137,South Africa,Feroz Shah Kotla,4,South Africa
+188,30.4,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,7,,DJ Bravo,10,South Africa,West Indies,138,South Africa,Feroz Shah Kotla,4,South Africa
+189,30.5,1,Imran Tahir,2011-02-24,1st,DJ Bravo,10,,S Chanderpaul,8,South Africa,West Indies,139,South Africa,Feroz Shah Kotla,4,South Africa
+190,30.6,1,Imran Tahir,2011-02-24,1st,S Chanderpaul,8,,DJ Bravo,11,South Africa,West Indies,140,South Africa,Feroz Shah Kotla,4,South Africa
+191,31.1,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,8,,DJ Bravo,11,South Africa,West Indies,140,South Africa,Feroz Shah Kotla,4,South Africa
+192,31.2,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,8,,DJ Bravo,11,South Africa,West Indies,140,South Africa,Feroz Shah Kotla,4,South Africa
+193,31.3,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,8,,DJ Bravo,12,South Africa,West Indies,141,South Africa,Feroz Shah Kotla,4,South Africa
+194,31.4,0,RJ Peterson,2011-02-24,1st,DJ Bravo,12,,S Chanderpaul,8,South Africa,West Indies,141,South Africa,Feroz Shah Kotla,4,South Africa
+195,31.5,1,RJ Peterson,2011-02-24,1st,DJ Bravo,12,,S Chanderpaul,9,South Africa,West Indies,142,South Africa,Feroz Shah Kotla,4,South Africa
+196,31.6,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,9,,DJ Bravo,13,South Africa,West Indies,143,South Africa,Feroz Shah Kotla,4,South Africa
+197,32.1,6,J Botha,2011-02-24,1st,S Chanderpaul,9,,DJ Bravo,19,South Africa,West Indies,149,South Africa,Feroz Shah Kotla,4,South Africa
+198,32.2,1,J Botha,2011-02-24,1st,S Chanderpaul,9,,DJ Bravo,20,South Africa,West Indies,150,South Africa,Feroz Shah Kotla,4,South Africa
+199,32.3,0,J Botha,2011-02-24,1st,DJ Bravo,20,,S Chanderpaul,9,South Africa,West Indies,150,South Africa,Feroz Shah Kotla,4,South Africa
+200,32.4,1,J Botha,2011-02-24,1st,DJ Bravo,20,,S Chanderpaul,10,South Africa,West Indies,151,South Africa,Feroz Shah Kotla,4,South Africa
+201,32.5,0,J Botha,2011-02-24,1st,S Chanderpaul,10,,DJ Bravo,20,South Africa,West Indies,151,South Africa,Feroz Shah Kotla,4,South Africa
+202,32.6,1,J Botha,2011-02-24,1st,S Chanderpaul,10,,DJ Bravo,21,South Africa,West Indies,152,South Africa,Feroz Shah Kotla,4,South Africa
+203,33.1,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,10,,DJ Bravo,22,South Africa,West Indies,153,South Africa,Feroz Shah Kotla,4,South Africa
+204,33.2,0,RJ Peterson,2011-02-24,1st,DJ Bravo,22,,S Chanderpaul,10,South Africa,West Indies,153,South Africa,Feroz Shah Kotla,4,South Africa
+205,33.3,0,RJ Peterson,2011-02-24,1st,DJ Bravo,22,,S Chanderpaul,10,South Africa,West Indies,153,South Africa,Feroz Shah Kotla,4,South Africa
+206,33.4,0,RJ Peterson,2011-02-24,1st,DJ Bravo,22,,S Chanderpaul,10,South Africa,West Indies,153,South Africa,Feroz Shah Kotla,4,South Africa
+207,33.5,1,RJ Peterson,2011-02-24,1st,DJ Bravo,22,,S Chanderpaul,11,South Africa,West Indies,154,South Africa,Feroz Shah Kotla,4,South Africa
+208,33.6,2,RJ Peterson,2011-02-24,1st,S Chanderpaul,11,,DJ Bravo,24,South Africa,West Indies,156,South Africa,Feroz Shah Kotla,4,South Africa
+209,34.1,0,M Morkel,2011-02-24,1st,DJ Bravo,24,,S Chanderpaul,11,South Africa,West Indies,156,South Africa,Feroz Shah Kotla,4,South Africa
+210,34.2,0,M Morkel,2011-02-24,1st,DJ Bravo,24,,S Chanderpaul,11,South Africa,West Indies,156,South Africa,Feroz Shah Kotla,4,South Africa
+211,34.3,0,M Morkel,2011-02-24,1st,DJ Bravo,24,,S Chanderpaul,11,South Africa,West Indies,156,South Africa,Feroz Shah Kotla,4,South Africa
+212,34.4,1,M Morkel,2011-02-24,1st,DJ Bravo,24,,S Chanderpaul,12,South Africa,West Indies,157,South Africa,Feroz Shah Kotla,4,South Africa
+213,34.5,0,M Morkel,2011-02-24,1st,S Chanderpaul,12,,DJ Bravo,24,South Africa,West Indies,157,South Africa,Feroz Shah Kotla,4,South Africa
+214,34.6,0,M Morkel,2011-02-24,1st,S Chanderpaul,12,,DJ Bravo,24,South Africa,West Indies,157,South Africa,Feroz Shah Kotla,4,South Africa
+215,35.1,2,RJ Peterson,2011-02-24,1st,DJ Bravo,24,,S Chanderpaul,14,South Africa,West Indies,159,South Africa,Feroz Shah Kotla,4,South Africa
+216,35.2,0,RJ Peterson,2011-02-24,1st,DJ Bravo,24,,S Chanderpaul,14,South Africa,West Indies,159,South Africa,Feroz Shah Kotla,4,South Africa
+217,35.3,1,RJ Peterson,2011-02-24,1st,DJ Bravo,24,,S Chanderpaul,15,South Africa,West Indies,160,South Africa,Feroz Shah Kotla,4,South Africa
+218,35.4,6,RJ Peterson,2011-02-24,1st,S Chanderpaul,15,,DJ Bravo,30,South Africa,West Indies,166,South Africa,Feroz Shah Kotla,4,South Africa
+219,35.5,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,15,,DJ Bravo,31,South Africa,West Indies,167,South Africa,Feroz Shah Kotla,4,South Africa
+220,35.6,0,RJ Peterson,2011-02-24,1st,DJ Bravo,31,,S Chanderpaul,15,South Africa,West Indies,167,South Africa,Feroz Shah Kotla,4,South Africa
+221,36.1,4,M Morkel,2011-02-24,1st,S Chanderpaul,15,,DJ Bravo,35,South Africa,West Indies,171,South Africa,Feroz Shah Kotla,4,South Africa
+222,36.2,1,M Morkel,2011-02-24,1st,S Chanderpaul,15,,DJ Bravo,36,South Africa,West Indies,172,South Africa,Feroz Shah Kotla,4,South Africa
+223,36.3,1,M Morkel,2011-02-24,1st,DJ Bravo,36,,S Chanderpaul,16,South Africa,West Indies,173,South Africa,Feroz Shah Kotla,4,South Africa
+224,36.4,0,M Morkel,2011-02-24,1st,S Chanderpaul,16,,DJ Bravo,36,South Africa,West Indies,174,South Africa,Feroz Shah Kotla,4,South Africa
+225,36.5,1,M Morkel,2011-02-24,1st,S Chanderpaul,16,,DJ Bravo,37,South Africa,West Indies,175,South Africa,Feroz Shah Kotla,4,South Africa
+226,36.6,0,M Morkel,2011-02-24,1st,DJ Bravo,37,,S Chanderpaul,16,South Africa,West Indies,175,South Africa,Feroz Shah Kotla,4,South Africa
+227,36.7,0,M Morkel,2011-02-24,1st,DJ Bravo,37,,S Chanderpaul,16,South Africa,West Indies,175,South Africa,Feroz Shah Kotla,4,South Africa
+228,37.1,2,RJ Peterson,2011-02-24,1st,S Chanderpaul,16,,DJ Bravo,39,South Africa,West Indies,177,South Africa,Feroz Shah Kotla,4,South Africa
+229,37.2,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,16,,DJ Bravo,39,South Africa,West Indies,177,South Africa,Feroz Shah Kotla,4,South Africa
+230,37.3,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,16,,DJ Bravo,39,South Africa,West Indies,177,South Africa,Feroz Shah Kotla,4,South Africa
+231,37.4,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,16,,DJ Bravo,40,South Africa,West Indies,178,South Africa,Feroz Shah Kotla,4,South Africa
+232,37.5,0,RJ Peterson,2011-02-24,1st,DJ Bravo,40,DJ Bravo,S Chanderpaul,16,South Africa,West Indies,178,South Africa,Feroz Shah Kotla,5,South Africa
+233,37.6,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,16,,DC Thomas,1,South Africa,West Indies,179,South Africa,Feroz Shah Kotla,5,South Africa
+234,38.1,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,16,,DC Thomas,1,South Africa,West Indies,179,South Africa,Feroz Shah Kotla,5,South Africa
+235,38.2,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,16,,DC Thomas,1,South Africa,West Indies,179,South Africa,Feroz Shah Kotla,5,South Africa
+236,38.3,0,Imran Tahir,2011-02-24,1st,S Chanderpaul,16,,DC Thomas,1,South Africa,West Indies,179,South Africa,Feroz Shah Kotla,5,South Africa
+237,38.4,1,Imran Tahir,2011-02-24,1st,S Chanderpaul,16,,DC Thomas,2,South Africa,West Indies,180,South Africa,Feroz Shah Kotla,5,South Africa
+238,38.5,0,Imran Tahir,2011-02-24,1st,DC Thomas,2,,S Chanderpaul,16,South Africa,West Indies,180,South Africa,Feroz Shah Kotla,5,South Africa
+239,38.6,1,Imran Tahir,2011-02-24,1st,DC Thomas,2,,S Chanderpaul,17,South Africa,West Indies,181,South Africa,Feroz Shah Kotla,5,South Africa
+240,39.1,1,RJ Peterson,2011-02-24,1st,DC Thomas,2,,S Chanderpaul,18,South Africa,West Indies,182,South Africa,Feroz Shah Kotla,5,South Africa
+241,39.2,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,18,,DC Thomas,2,South Africa,West Indies,182,South Africa,Feroz Shah Kotla,5,South Africa
+242,39.3,1,RJ Peterson,2011-02-24,1st,S Chanderpaul,18,,DC Thomas,3,South Africa,West Indies,183,South Africa,Feroz Shah Kotla,5,South Africa
+243,39.4,6,RJ Peterson,2011-02-24,1st,DC Thomas,3,,S Chanderpaul,24,South Africa,West Indies,189,South Africa,Feroz Shah Kotla,5,South Africa
+244,39.5,1,RJ Peterson,2011-02-24,1st,DC Thomas,3,,S Chanderpaul,25,South Africa,West Indies,190,South Africa,Feroz Shah Kotla,5,South Africa
+245,39.6,0,RJ Peterson,2011-02-24,1st,S Chanderpaul,25,,DC Thomas,3,South Africa,West Indies,190,South Africa,Feroz Shah Kotla,5,South Africa
+246,40.1,0,Imran Tahir,2011-02-24,1st,DC Thomas,3,,S Chanderpaul,25,South Africa,West Indies,190,South Africa,Feroz Shah Kotla,5,South Africa
+247,40.2,0,Imran Tahir,2011-02-24,1st,DC Thomas,3,,S Chanderpaul,25,South Africa,West Indies,190,South Africa,Feroz Shah Kotla,5,South Africa
+248,40.3,1,Imran Tahir,2011-02-24,1st,DC Thomas,3,,S Chanderpaul,26,South Africa,West Indies,191,South Africa,Feroz Shah Kotla,5,South Africa
+249,40.4,1,Imran Tahir,2011-02-24,1st,S Chanderpaul,26,,DC Thomas,4,South Africa,West Indies,192,South Africa,Feroz Shah Kotla,5,South Africa
+250,40.5,0,Imran Tahir,2011-02-24,1st,DC Thomas,4,,S Chanderpaul,26,South Africa,West Indies,192,South Africa,Feroz Shah Kotla,5,South Africa
+251,40.6,0,Imran Tahir,2011-02-24,1st,DC Thomas,4,,S Chanderpaul,26,South Africa,West Indies,192,South Africa,Feroz Shah Kotla,5,South Africa
+252,41.1,0,J Botha,2011-02-24,1st,S Chanderpaul,26,,DC Thomas,4,South Africa,West Indies,197,South Africa,Feroz Shah Kotla,5,South Africa
+253,41.2,0,J Botha,2011-02-24,1st,S Chanderpaul,26,,DC Thomas,4,South Africa,West Indies,197,South Africa,Feroz Shah Kotla,5,South Africa
+254,41.3,2,J Botha,2011-02-24,1st,S Chanderpaul,26,,DC Thomas,6,South Africa,West Indies,199,South Africa,Feroz Shah Kotla,5,South Africa
+255,41.4,1,J Botha,2011-02-24,1st,S Chanderpaul,26,,DC Thomas,7,South Africa,West Indies,200,South Africa,Feroz Shah Kotla,5,South Africa
+256,41.5,1,J Botha,2011-02-24,1st,DC Thomas,7,,S Chanderpaul,27,South Africa,West Indies,201,South Africa,Feroz Shah Kotla,5,South Africa
+257,41.6,0,J Botha,2011-02-24,1st,S Chanderpaul,27,,DC Thomas,7,South Africa,West Indies,201,South Africa,Feroz Shah Kotla,5,South Africa
+258,41.7,4,J Botha,2011-02-24,1st,S Chanderpaul,27,,DC Thomas,11,South Africa,West Indies,205,South Africa,Feroz Shah Kotla,5,South Africa
+259,42.1,4,Imran Tahir,2011-02-24,1st,DC Thomas,11,,S Chanderpaul,31,South Africa,West Indies,209,South Africa,Feroz Shah Kotla,5,South Africa
+260,42.2,0,Imran Tahir,2011-02-24,1st,DC Thomas,11,S Chanderpaul,S Chanderpaul,31,South Africa,West Indies,209,South Africa,Feroz Shah Kotla,6,South Africa
+261,42.3,2,Imran Tahir,2011-02-24,1st,KA Pollard,0,,DC Thomas,13,South Africa,West Indies,211,South Africa,Feroz Shah Kotla,6,South Africa
+262,42.4,0,Imran Tahir,2011-02-24,1st,KA Pollard,0,,DC Thomas,13,South Africa,West Indies,211,South Africa,Feroz Shah Kotla,6,South Africa
+263,42.5,0,Imran Tahir,2011-02-24,1st,KA Pollard,0,,DC Thomas,13,South Africa,West Indies,211,South Africa,Feroz Shah Kotla,6,South Africa
+264,42.6,1,Imran Tahir,2011-02-24,1st,KA Pollard,0,,DC Thomas,14,South Africa,West Indies,212,South Africa,Feroz Shah Kotla,6,South Africa
+265,43.1,0,DW Steyn,2011-02-24,1st,KA Pollard,0,,DC Thomas,14,South Africa,West Indies,212,South Africa,Feroz Shah Kotla,6,South Africa
+266,43.2,1,DW Steyn,2011-02-24,1st,KA Pollard,0,,DC Thomas,15,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,6,South Africa
+267,43.3,0,DW Steyn,2011-02-24,1st,DC Thomas,15,KA Pollard,KA Pollard,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+268,43.4,0,DW Steyn,2011-02-24,1st,DC Thomas,15,,DJG Sammy,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+269,43.5,0,DW Steyn,2011-02-24,1st,DC Thomas,15,,DJG Sammy,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+270,43.6,0,DW Steyn,2011-02-24,1st,DC Thomas,15,,DJG Sammy,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+271,44.1,0,Imran Tahir,2011-02-24,1st,DJG Sammy,0,,DC Thomas,15,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+272,44.2,0,Imran Tahir,2011-02-24,1st,DJG Sammy,0,,DC Thomas,15,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+273,44.3,0,Imran Tahir,2011-02-24,1st,DJG Sammy,0,,DC Thomas,15,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+274,44.4,0,Imran Tahir,2011-02-24,1st,DJG Sammy,0,,DC Thomas,15,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+275,44.5,0,Imran Tahir,2011-02-24,1st,DJG Sammy,0,,DC Thomas,15,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,7,South Africa
+276,44.6,0,Imran Tahir,2011-02-24,1st,DJG Sammy,0,DC Thomas,DC Thomas,15,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,8,South Africa
+277,45.1,0,DW Steyn,2011-02-24,1st,SJ Benn,0,DJG Sammy,DJG Sammy,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,9,South Africa
+278,45.2,0,DW Steyn,2011-02-24,1st,SJ Benn,0,,KAJ Roach,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,9,South Africa
+279,45.3,0,DW Steyn,2011-02-24,1st,SJ Benn,0,,KAJ Roach,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,9,South Africa
+280,45.4,0,DW Steyn,2011-02-24,1st,SJ Benn,0,,KAJ Roach,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,9,South Africa
+281,45.5,1,DW Steyn,2011-02-24,1st,SJ Benn,0,,KAJ Roach,1,South Africa,West Indies,214,South Africa,Feroz Shah Kotla,9,South Africa
+282,45.6,0,DW Steyn,2011-02-24,1st,KAJ Roach,1,,SJ Benn,0,South Africa,West Indies,214,South Africa,Feroz Shah Kotla,9,South Africa
+283,46.1,0,M Morkel,2011-02-24,1st,SJ Benn,0,,KAJ Roach,1,South Africa,West Indies,215,South Africa,Feroz Shah Kotla,9,South Africa
+284,46.2,0,M Morkel,2011-02-24,1st,KAJ Roach,1,,SJ Benn,0,South Africa,West Indies,215,South Africa,Feroz Shah Kotla,9,South Africa
+285,46.3,4,M Morkel,2011-02-24,1st,KAJ Roach,1,,SJ Benn,4,South Africa,West Indies,219,South Africa,Feroz Shah Kotla,9,South Africa
+286,46.4,0,M Morkel,2011-02-24,1st,KAJ Roach,1,,SJ Benn,4,South Africa,West Indies,219,South Africa,Feroz Shah Kotla,9,South Africa
+287,46.5,0,M Morkel,2011-02-24,1st,KAJ Roach,1,,SJ Benn,4,South Africa,West Indies,219,South Africa,Feroz Shah Kotla,9,South Africa
+288,46.6,1,M Morkel,2011-02-24,1st,KAJ Roach,1,,SJ Benn,5,South Africa,West Indies,220,South Africa,Feroz Shah Kotla,9,South Africa
+289,47.1,1,DW Steyn,2011-02-24,1st,KAJ Roach,1,,SJ Benn,6,South Africa,West Indies,221,South Africa,Feroz Shah Kotla,9,South Africa
+290,47.2,1,DW Steyn,2011-02-24,1st,SJ Benn,6,,KAJ Roach,2,South Africa,West Indies,222,South Africa,Feroz Shah Kotla,9,South Africa
+291,47.3,0,DW Steyn,2011-02-24,1st,KAJ Roach,2,SJ Benn,SJ Benn,6,South Africa,West Indies,222,South Africa,Feroz Shah Kotla,10,South Africa
+292,0.1,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,0,South Africa,Feroz Shah Kotla,0,South Africa
+293,0.2,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,0,South Africa,Feroz Shah Kotla,0,South Africa
+294,0.3,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,0,South Africa,Feroz Shah Kotla,0,South Africa
+295,0.4,1,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,1,South Africa,Feroz Shah Kotla,0,South Africa
+296,0.5,0,SJ Benn,2011-02-24,2nd,HM Amla,0,,GC Smith,0,South Africa,West Indies,1,South Africa,Feroz Shah Kotla,0,South Africa
+297,0.6,0,SJ Benn,2011-02-24,2nd,HM Amla,0,,GC Smith,0,South Africa,West Indies,1,South Africa,Feroz Shah Kotla,0,South Africa
+298,1.1,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,1,South Africa,Feroz Shah Kotla,0,South Africa
+299,1.2,2,KAJ Roach,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,3,South Africa,Feroz Shah Kotla,0,South Africa
+300,1.3,4,KAJ Roach,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,7,South Africa,Feroz Shah Kotla,0,South Africa
+301,1.4,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,8,South Africa,Feroz Shah Kotla,0,South Africa
+302,1.5,0,KAJ Roach,2011-02-24,2nd,HM Amla,0,,GC Smith,0,South Africa,West Indies,8,South Africa,Feroz Shah Kotla,0,South Africa
+303,1.6,0,KAJ Roach,2011-02-24,2nd,HM Amla,0,,GC Smith,0,South Africa,West Indies,8,South Africa,Feroz Shah Kotla,0,South Africa
+304,2.1,4,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,12,South Africa,Feroz Shah Kotla,0,South Africa
+305,2.2,2,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,14,South Africa,Feroz Shah Kotla,0,South Africa
+306,2.3,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,14,South Africa,Feroz Shah Kotla,0,South Africa
+307,2.4,1,SJ Benn,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,0,South Africa
+308,2.5,0,SJ Benn,2011-02-24,2nd,HM Amla,0,,GC Smith,0,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,0,South Africa
+309,2.6,0,SJ Benn,2011-02-24,2nd,HM Amla,0,,GC Smith,0,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,0,South Africa
+310,3.1,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,0,South Africa
+311,3.2,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,0,South Africa
+312,3.3,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,HM Amla,0,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,1,South Africa
+313,3.4,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,15,South Africa,Feroz Shah Kotla,1,South Africa
+314,3.5,1,KAJ Roach,2011-02-24,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+315,3.6,0,KAJ Roach,2011-02-24,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+316,4.1,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,16,South Africa,Feroz Shah Kotla,1,South Africa
+317,4.2,2,SJ Benn,2011-02-24,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,18,South Africa,Feroz Shah Kotla,1,South Africa
+318,4.3,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,18,South Africa,Feroz Shah Kotla,1,South Africa
+319,4.4,1,SJ Benn,2011-02-24,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,19,South Africa,Feroz Shah Kotla,1,South Africa
+320,4.5,1,SJ Benn,2011-02-24,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,20,South Africa,Feroz Shah Kotla,1,South Africa
+321,4.6,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,20,South Africa,Feroz Shah Kotla,2,South Africa
+322,5.1,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,20,South Africa,Feroz Shah Kotla,2,South Africa
+323,5.2,4,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,24,South Africa,Feroz Shah Kotla,2,South Africa
+324,5.3,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,24,South Africa,Feroz Shah Kotla,2,South Africa
+325,5.4,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,24,South Africa,Feroz Shah Kotla,2,South Africa
+326,5.5,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,24,South Africa,Feroz Shah Kotla,2,South Africa
+327,5.6,1,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,25,South Africa,Feroz Shah Kotla,2,South Africa
+328,6.1,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,26,South Africa,Feroz Shah Kotla,2,South Africa
+329,6.2,1,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,27,South Africa,Feroz Shah Kotla,2,South Africa
+330,6.3,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,27,South Africa,Feroz Shah Kotla,2,South Africa
+331,6.4,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,27,South Africa,Feroz Shah Kotla,2,South Africa
+332,6.5,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,27,South Africa,Feroz Shah Kotla,2,South Africa
+333,6.6,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,27,South Africa,Feroz Shah Kotla,2,South Africa
+334,7.1,4,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,31,South Africa,Feroz Shah Kotla,2,South Africa
+335,7.2,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,31,South Africa,Feroz Shah Kotla,2,South Africa
+336,7.3,4,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,35,South Africa,Feroz Shah Kotla,2,South Africa
+337,7.4,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,35,South Africa,Feroz Shah Kotla,2,South Africa
+338,7.5,4,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,39,South Africa,Feroz Shah Kotla,2,South Africa
+339,7.6,1,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,40,South Africa,Feroz Shah Kotla,2,South Africa
+340,8.1,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,40,South Africa,Feroz Shah Kotla,2,South Africa
+341,8.2,2,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,42,South Africa,Feroz Shah Kotla,2,South Africa
+342,8.3,1,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,43,South Africa,Feroz Shah Kotla,2,South Africa
+343,8.4,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,2,South Africa
+344,8.5,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,44,South Africa,Feroz Shah Kotla,2,South Africa
+345,8.6,1,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,45,South Africa,Feroz Shah Kotla,2,South Africa
+346,9.1,0,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,45,South Africa,Feroz Shah Kotla,2,South Africa
+347,9.2,0,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,45,South Africa,Feroz Shah Kotla,2,South Africa
+348,9.3,4,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,49,South Africa,Feroz Shah Kotla,2,South Africa
+349,9.4,0,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,49,South Africa,Feroz Shah Kotla,2,South Africa
+350,9.5,0,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,49,South Africa,Feroz Shah Kotla,2,South Africa
+351,9.6,0,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,49,South Africa,Feroz Shah Kotla,2,South Africa
+352,10.1,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,50,South Africa,Feroz Shah Kotla,2,South Africa
+353,10.2,1,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,51,South Africa,Feroz Shah Kotla,2,South Africa
+354,10.3,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,51,South Africa,Feroz Shah Kotla,2,South Africa
+355,10.4,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,52,South Africa,Feroz Shah Kotla,2,South Africa
+356,10.5,1,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,53,South Africa,Feroz Shah Kotla,2,South Africa
+357,10.6,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,54,South Africa,Feroz Shah Kotla,2,South Africa
+358,11.1,1,DJ Bravo,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,55,South Africa,Feroz Shah Kotla,2,South Africa
+359,11.2,0,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,55,South Africa,Feroz Shah Kotla,2,South Africa
+360,11.3,1,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,56,South Africa,Feroz Shah Kotla,2,South Africa
+361,11.4,4,DJ Bravo,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,60,South Africa,Feroz Shah Kotla,2,South Africa
+362,11.5,1,DJ Bravo,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,61,South Africa,Feroz Shah Kotla,2,South Africa
+363,11.6,1,DJ Bravo,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,62,South Africa,Feroz Shah Kotla,2,South Africa
+364,12.1,0,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,62,South Africa,Feroz Shah Kotla,2,South Africa
+365,12.2,2,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,64,South Africa,Feroz Shah Kotla,2,South Africa
+366,12.3,0,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,64,South Africa,Feroz Shah Kotla,2,South Africa
+367,12.4,2,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,66,South Africa,Feroz Shah Kotla,2,South Africa
+368,12.5,0,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,66,South Africa,Feroz Shah Kotla,2,South Africa
+369,12.6,0,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,66,South Africa,Feroz Shah Kotla,2,South Africa
+370,13.1,0,DJ Bravo,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,66,South Africa,Feroz Shah Kotla,2,South Africa
+371,13.2,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,67,South Africa,Feroz Shah Kotla,2,South Africa
+372,13.3,0,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,67,South Africa,Feroz Shah Kotla,2,South Africa
+373,13.4,1,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,68,South Africa,Feroz Shah Kotla,2,South Africa
+374,13.5,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,69,South Africa,Feroz Shah Kotla,2,South Africa
+375,13.6,0,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,69,South Africa,Feroz Shah Kotla,2,South Africa
+376,14.1,2,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,71,South Africa,Feroz Shah Kotla,2,South Africa
+377,14.2,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,71,South Africa,Feroz Shah Kotla,2,South Africa
+378,14.3,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,72,South Africa,Feroz Shah Kotla,2,South Africa
+379,14.4,1,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,73,South Africa,Feroz Shah Kotla,2,South Africa
+380,14.5,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,73,South Africa,Feroz Shah Kotla,2,South Africa
+381,14.6,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,73,South Africa,Feroz Shah Kotla,2,South Africa
+382,15.1,1,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,74,South Africa,Feroz Shah Kotla,2,South Africa
+383,15.2,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,74,South Africa,Feroz Shah Kotla,2,South Africa
+384,15.3,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,74,South Africa,Feroz Shah Kotla,2,South Africa
+385,15.4,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,74,South Africa,Feroz Shah Kotla,2,South Africa
+386,15.5,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,75,South Africa,Feroz Shah Kotla,2,South Africa
+387,15.6,0,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,75,South Africa,Feroz Shah Kotla,2,South Africa
+388,16.1,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,76,South Africa,Feroz Shah Kotla,2,South Africa
+389,16.2,2,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,78,South Africa,Feroz Shah Kotla,2,South Africa
+390,16.3,1,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,79,South Africa,Feroz Shah Kotla,2,South Africa
+391,16.4,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,79,South Africa,Feroz Shah Kotla,2,South Africa
+392,16.5,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,80,South Africa,Feroz Shah Kotla,2,South Africa
+393,16.6,1,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,81,South Africa,Feroz Shah Kotla,2,South Africa
+394,17.1,0,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,81,South Africa,Feroz Shah Kotla,2,South Africa
+395,17.2,1,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,82,South Africa,Feroz Shah Kotla,2,South Africa
+396,17.3,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,82,South Africa,Feroz Shah Kotla,2,South Africa
+397,17.4,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,83,South Africa,Feroz Shah Kotla,2,South Africa
+398,17.5,1,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,84,South Africa,Feroz Shah Kotla,2,South Africa
+399,17.6,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,84,South Africa,Feroz Shah Kotla,2,South Africa
+400,18.1,4,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,2,South Africa
+401,18.2,0,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,2,South Africa
+402,18.3,0,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,2,South Africa
+403,18.4,0,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,88,South Africa,Feroz Shah Kotla,2,South Africa
+404,18.5,1,DJG Sammy,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,89,South Africa,Feroz Shah Kotla,2,South Africa
+405,18.6,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,90,South Africa,Feroz Shah Kotla,2,South Africa
+406,19.1,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,91,South Africa,Feroz Shah Kotla,2,South Africa
+407,19.2,1,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,92,South Africa,Feroz Shah Kotla,2,South Africa
+408,19.3,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,92,South Africa,Feroz Shah Kotla,2,South Africa
+409,19.4,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,93,South Africa,Feroz Shah Kotla,2,South Africa
+410,19.5,1,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,94,South Africa,Feroz Shah Kotla,2,South Africa
+411,19.6,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,94,South Africa,Feroz Shah Kotla,2,South Africa
+412,20.1,1,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,95,South Africa,Feroz Shah Kotla,2,South Africa
+413,20.2,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,95,South Africa,Feroz Shah Kotla,2,South Africa
+414,20.3,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,95,South Africa,Feroz Shah Kotla,2,South Africa
+415,20.4,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,95,South Africa,Feroz Shah Kotla,2,South Africa
+416,20.5,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,96,South Africa,Feroz Shah Kotla,2,South Africa
+417,20.6,0,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,96,South Africa,Feroz Shah Kotla,2,South Africa
+418,21.1,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,97,South Africa,Feroz Shah Kotla,2,South Africa
+419,21.2,0,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,97,South Africa,Feroz Shah Kotla,2,South Africa
+420,21.3,1,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,98,South Africa,Feroz Shah Kotla,2,South Africa
+421,21.4,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,99,South Africa,Feroz Shah Kotla,2,South Africa
+422,21.5,0,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,99,South Africa,Feroz Shah Kotla,2,South Africa
+423,21.6,6,CH Gayle,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,105,South Africa,Feroz Shah Kotla,2,South Africa
+424,22.1,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,105,South Africa,Feroz Shah Kotla,2,South Africa
+425,22.2,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,106,South Africa,Feroz Shah Kotla,2,South Africa
+426,22.3,1,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,107,South Africa,Feroz Shah Kotla,2,South Africa
+427,22.4,2,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,109,South Africa,Feroz Shah Kotla,2,South Africa
+428,22.5,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,110,South Africa,Feroz Shah Kotla,2,South Africa
+429,22.6,4,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,114,South Africa,Feroz Shah Kotla,2,South Africa
+430,23.1,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,114,South Africa,Feroz Shah Kotla,2,South Africa
+431,23.2,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,114,South Africa,Feroz Shah Kotla,2,South Africa
+432,23.3,2,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,116,South Africa,Feroz Shah Kotla,2,South Africa
+433,23.4,1,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,117,South Africa,Feroz Shah Kotla,2,South Africa
+434,23.5,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,117,South Africa,Feroz Shah Kotla,2,South Africa
+435,23.6,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,117,South Africa,Feroz Shah Kotla,2,South Africa
+436,24.1,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,118,South Africa,Feroz Shah Kotla,2,South Africa
+437,24.2,0,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,118,South Africa,Feroz Shah Kotla,2,South Africa
+438,24.3,1,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,119,South Africa,Feroz Shah Kotla,2,South Africa
+439,24.4,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,120,South Africa,Feroz Shah Kotla,2,South Africa
+440,24.5,1,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,121,South Africa,Feroz Shah Kotla,2,South Africa
+441,24.6,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,121,South Africa,Feroz Shah Kotla,2,South Africa
+442,25.1,0,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,121,South Africa,Feroz Shah Kotla,2,South Africa
+443,25.2,1,KAJ Roach,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,2,South Africa
+444,25.3,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,2,South Africa
+445,25.4,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,2,South Africa
+446,25.5,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,122,South Africa,Feroz Shah Kotla,2,South Africa
+447,25.6,2,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,2,South Africa
+448,26.1,0,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,2,South Africa
+449,26.2,0,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,124,South Africa,Feroz Shah Kotla,2,South Africa
+450,26.3,1,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,125,South Africa,Feroz Shah Kotla,2,South Africa
+451,26.4,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,125,South Africa,Feroz Shah Kotla,2,South Africa
+452,26.5,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,125,South Africa,Feroz Shah Kotla,2,South Africa
+453,26.6,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,126,South Africa,Feroz Shah Kotla,2,South Africa
+454,27.1,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,127,South Africa,Feroz Shah Kotla,2,South Africa
+455,27.2,0,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,127,South Africa,Feroz Shah Kotla,2,South Africa
+456,27.3,4,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,131,South Africa,Feroz Shah Kotla,2,South Africa
+457,27.4,6,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,137,South Africa,Feroz Shah Kotla,2,South Africa
+458,27.5,1,SJ Benn,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,138,South Africa,Feroz Shah Kotla,2,South Africa
+459,27.6,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,138,South Africa,Feroz Shah Kotla,2,South Africa
+460,28.1,1,KA Pollard,2011-02-24,2nd,GC Smith,0,,AB de Villiers,0,South Africa,West Indies,139,South Africa,Feroz Shah Kotla,2,South Africa
+461,28.2,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,139,South Africa,Feroz Shah Kotla,2,South Africa
+462,28.3,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,GC Smith,0,South Africa,West Indies,139,South Africa,Feroz Shah Kotla,3,South Africa
+463,28.4,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,139,South Africa,Feroz Shah Kotla,3,South Africa
+464,28.5,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,140,South Africa,Feroz Shah Kotla,3,South Africa
+465,28.6,0,KA Pollard,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,140,South Africa,Feroz Shah Kotla,3,South Africa
+466,29.1,1,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,141,South Africa,Feroz Shah Kotla,3,South Africa
+467,29.2,4,KAJ Roach,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,145,South Africa,Feroz Shah Kotla,3,South Africa
+468,29.3,1,KAJ Roach,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,146,South Africa,Feroz Shah Kotla,3,South Africa
+469,29.4,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,146,South Africa,Feroz Shah Kotla,3,South Africa
+470,29.5,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,146,South Africa,Feroz Shah Kotla,3,South Africa
+471,29.6,1,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,147,South Africa,Feroz Shah Kotla,3,South Africa
+472,30.1,4,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,151,South Africa,Feroz Shah Kotla,3,South Africa
+473,30.2,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,151,South Africa,Feroz Shah Kotla,3,South Africa
+474,30.3,2,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,153,South Africa,Feroz Shah Kotla,3,South Africa
+475,30.4,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,154,South Africa,Feroz Shah Kotla,3,South Africa
+476,30.5,0,KA Pollard,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,155,South Africa,Feroz Shah Kotla,3,South Africa
+477,30.6,1,KA Pollard,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,156,South Africa,Feroz Shah Kotla,3,South Africa
+478,30.7,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,157,South Africa,Feroz Shah Kotla,3,South Africa
+479,31.1,1,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,158,South Africa,Feroz Shah Kotla,3,South Africa
+480,31.2,1,KAJ Roach,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,159,South Africa,Feroz Shah Kotla,3,South Africa
+481,31.3,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,163,South Africa,Feroz Shah Kotla,3,South Africa
+482,31.4,1,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,164,South Africa,Feroz Shah Kotla,3,South Africa
+483,31.5,1,KAJ Roach,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,165,South Africa,Feroz Shah Kotla,3,South Africa
+484,31.6,0,KAJ Roach,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,166,South Africa,Feroz Shah Kotla,3,South Africa
+485,32.1,2,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,168,South Africa,Feroz Shah Kotla,3,South Africa
+486,32.2,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,169,South Africa,Feroz Shah Kotla,3,South Africa
+487,32.3,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,170,South Africa,Feroz Shah Kotla,3,South Africa
+488,32.4,2,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,172,South Africa,Feroz Shah Kotla,3,South Africa
+489,32.5,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,173,South Africa,Feroz Shah Kotla,3,South Africa
+490,32.6,0,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,173,South Africa,Feroz Shah Kotla,3,South Africa
+491,33.1,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,173,South Africa,Feroz Shah Kotla,3,South Africa
+492,33.2,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,173,South Africa,Feroz Shah Kotla,3,South Africa
+493,33.3,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,174,South Africa,Feroz Shah Kotla,3,South Africa
+494,33.4,0,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,178,South Africa,Feroz Shah Kotla,3,South Africa
+495,33.5,2,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,180,South Africa,Feroz Shah Kotla,3,South Africa
+496,33.6,1,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,181,South Africa,Feroz Shah Kotla,3,South Africa
+497,34.1,0,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,181,South Africa,Feroz Shah Kotla,3,South Africa
+498,34.2,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,182,South Africa,Feroz Shah Kotla,3,South Africa
+499,34.3,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,183,South Africa,Feroz Shah Kotla,3,South Africa
+500,34.4,0,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,183,South Africa,Feroz Shah Kotla,3,South Africa
+501,34.5,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,184,South Africa,Feroz Shah Kotla,3,South Africa
+502,34.6,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,185,South Africa,Feroz Shah Kotla,3,South Africa
+503,35.1,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,186,South Africa,Feroz Shah Kotla,3,South Africa
+504,35.2,2,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,188,South Africa,Feroz Shah Kotla,3,South Africa
+505,35.3,1,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,189,South Africa,Feroz Shah Kotla,3,South Africa
+506,35.4,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,190,South Africa,Feroz Shah Kotla,3,South Africa
+507,35.5,1,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,191,South Africa,Feroz Shah Kotla,3,South Africa
+508,35.6,2,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,193,South Africa,Feroz Shah Kotla,3,South Africa
+509,36.1,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,194,South Africa,Feroz Shah Kotla,3,South Africa
+510,36.2,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,194,South Africa,Feroz Shah Kotla,3,South Africa
+511,36.3,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,195,South Africa,Feroz Shah Kotla,3,South Africa
+512,36.4,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,196,South Africa,Feroz Shah Kotla,3,South Africa
+513,36.5,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,196,South Africa,Feroz Shah Kotla,3,South Africa
+514,36.6,0,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,196,South Africa,Feroz Shah Kotla,3,South Africa
+515,37.1,1,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,197,South Africa,Feroz Shah Kotla,3,South Africa
+516,37.2,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,197,South Africa,Feroz Shah Kotla,3,South Africa
+517,37.3,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,197,South Africa,Feroz Shah Kotla,3,South Africa
+518,37.4,0,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,197,South Africa,Feroz Shah Kotla,3,South Africa
+519,37.5,1,DJG Sammy,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,198,South Africa,Feroz Shah Kotla,3,South Africa
+520,37.6,1,DJG Sammy,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,199,South Africa,Feroz Shah Kotla,3,South Africa
+521,38.1,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,200,South Africa,Feroz Shah Kotla,3,South Africa
+522,38.2,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,201,South Africa,Feroz Shah Kotla,3,South Africa
+523,38.3,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,202,South Africa,Feroz Shah Kotla,3,South Africa
+524,38.4,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,203,South Africa,Feroz Shah Kotla,3,South Africa
+525,38.5,1,SJ Benn,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,204,South Africa,Feroz Shah Kotla,3,South Africa
+526,38.6,1,SJ Benn,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,205,South Africa,Feroz Shah Kotla,3,South Africa
+527,39.1,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,205,South Africa,Feroz Shah Kotla,3,South Africa
+528,39.2,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,206,South Africa,Feroz Shah Kotla,3,South Africa
+529,39.3,1,CH Gayle,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,207,South Africa,Feroz Shah Kotla,3,South Africa
+530,39.4,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,208,South Africa,Feroz Shah Kotla,3,South Africa
+531,39.5,0,CH Gayle,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,208,South Africa,Feroz Shah Kotla,3,South Africa
+532,39.6,0,CH Gayle,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,208,South Africa,Feroz Shah Kotla,3,South Africa
+533,40.1,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,209,South Africa,Feroz Shah Kotla,3,South Africa
+534,40.2,1,KA Pollard,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,210,South Africa,Feroz Shah Kotla,3,South Africa
+535,40.3,0,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,210,South Africa,Feroz Shah Kotla,3,South Africa
+536,40.4,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,211,South Africa,Feroz Shah Kotla,3,South Africa
+537,40.5,1,KA Pollard,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,212,South Africa,Feroz Shah Kotla,3,South Africa
+538,40.6,1,KA Pollard,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,3,South Africa
+539,41.1,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,3,South Africa
+540,41.2,0,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,213,South Africa,Feroz Shah Kotla,3,South Africa
+541,41.3,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,214,South Africa,Feroz Shah Kotla,3,South Africa
+542,41.4,1,CH Gayle,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,215,South Africa,Feroz Shah Kotla,3,South Africa
+543,41.5,2,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,217,South Africa,Feroz Shah Kotla,3,South Africa
+544,41.6,1,CH Gayle,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,218,South Africa,Feroz Shah Kotla,3,South Africa
+545,42.1,1,DS Smith,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,219,South Africa,Feroz Shah Kotla,3,South Africa
+546,42.2,2,DS Smith,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,221,South Africa,Feroz Shah Kotla,3,South Africa
+547,42.3,1,DS Smith,2011-02-24,2nd,JP Duminy,0,,AB de Villiers,0,South Africa,West Indies,222,South Africa,Feroz Shah Kotla,3,South Africa
+548,42.4,0,DS Smith,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,222,South Africa,Feroz Shah Kotla,3,South Africa
+549,42.5,1,DS Smith,2011-02-24,2nd,AB de Villiers,0,,JP Duminy,0,South Africa,West Indies,223,South Africa,Feroz Shah Kotla,3,South Africa

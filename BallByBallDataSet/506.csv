@@ -1,0 +1,588 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,H Osinde,2011-03-07,1st,SR Waters,0,,MA Ouma,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,0,Canada
+1,0.2,0,H Osinde,2011-03-07,1st,SR Waters,0,MA Ouma,MA Ouma,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+2,0.3,0,H Osinde,2011-03-07,1st,SR Waters,0,,CO Obuya,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+3,0.4,0,H Osinde,2011-03-07,1st,SR Waters,0,,CO Obuya,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+4,0.5,0,H Osinde,2011-03-07,1st,SR Waters,0,,CO Obuya,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+5,0.6,0,H Osinde,2011-03-07,1st,SR Waters,0,,CO Obuya,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+6,1.1,0,HS Baidwan,2011-03-07,1st,CO Obuya,0,,SR Waters,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+7,1.2,0,HS Baidwan,2011-03-07,1st,CO Obuya,0,,SR Waters,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+8,1.3,0,HS Baidwan,2011-03-07,1st,CO Obuya,0,,SR Waters,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+9,1.4,0,HS Baidwan,2011-03-07,1st,CO Obuya,0,,SR Waters,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+10,1.5,0,HS Baidwan,2011-03-07,1st,CO Obuya,0,,SR Waters,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+11,1.6,0,HS Baidwan,2011-03-07,1st,CO Obuya,0,,SR Waters,0,Canada,Kenya,0,Kenya,Feroz Shah Kotla,1,Canada
+12,2.1,1,H Osinde,2011-03-07,1st,SR Waters,0,,CO Obuya,1,Canada,Kenya,1,Kenya,Feroz Shah Kotla,1,Canada
+13,2.2,1,H Osinde,2011-03-07,1st,CO Obuya,1,,SR Waters,1,Canada,Kenya,2,Kenya,Feroz Shah Kotla,1,Canada
+14,2.3,0,H Osinde,2011-03-07,1st,SR Waters,1,,CO Obuya,1,Canada,Kenya,2,Kenya,Feroz Shah Kotla,1,Canada
+15,2.4,0,H Osinde,2011-03-07,1st,SR Waters,1,,CO Obuya,1,Canada,Kenya,2,Kenya,Feroz Shah Kotla,1,Canada
+16,2.5,0,H Osinde,2011-03-07,1st,SR Waters,1,,CO Obuya,1,Canada,Kenya,2,Kenya,Feroz Shah Kotla,1,Canada
+17,2.6,1,H Osinde,2011-03-07,1st,SR Waters,1,,CO Obuya,2,Canada,Kenya,3,Kenya,Feroz Shah Kotla,1,Canada
+18,3.1,0,HS Baidwan,2011-03-07,1st,SR Waters,1,,CO Obuya,2,Canada,Kenya,3,Kenya,Feroz Shah Kotla,1,Canada
+19,3.2,0,HS Baidwan,2011-03-07,1st,SR Waters,1,,CO Obuya,2,Canada,Kenya,3,Kenya,Feroz Shah Kotla,1,Canada
+20,3.3,0,HS Baidwan,2011-03-07,1st,SR Waters,1,,CO Obuya,2,Canada,Kenya,3,Kenya,Feroz Shah Kotla,1,Canada
+21,3.4,2,HS Baidwan,2011-03-07,1st,SR Waters,1,,CO Obuya,4,Canada,Kenya,5,Kenya,Feroz Shah Kotla,1,Canada
+22,3.5,1,HS Baidwan,2011-03-07,1st,SR Waters,1,,CO Obuya,5,Canada,Kenya,6,Kenya,Feroz Shah Kotla,1,Canada
+23,3.6,1,HS Baidwan,2011-03-07,1st,CO Obuya,5,,SR Waters,2,Canada,Kenya,7,Kenya,Feroz Shah Kotla,1,Canada
+24,4.1,0,H Osinde,2011-03-07,1st,CO Obuya,5,,SR Waters,2,Canada,Kenya,7,Kenya,Feroz Shah Kotla,1,Canada
+25,4.2,0,H Osinde,2011-03-07,1st,CO Obuya,5,,SR Waters,2,Canada,Kenya,7,Kenya,Feroz Shah Kotla,1,Canada
+26,4.3,0,H Osinde,2011-03-07,1st,CO Obuya,5,,SR Waters,2,Canada,Kenya,7,Kenya,Feroz Shah Kotla,1,Canada
+27,4.4,0,H Osinde,2011-03-07,1st,CO Obuya,5,,SR Waters,2,Canada,Kenya,7,Kenya,Feroz Shah Kotla,1,Canada
+28,4.5,0,H Osinde,2011-03-07,1st,CO Obuya,5,SR Waters,SR Waters,2,Canada,Kenya,7,Kenya,Feroz Shah Kotla,2,Canada
+29,4.6,0,H Osinde,2011-03-07,1st,CO Obuya,5,,DO Obuya,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,2,Canada
+30,5.1,4,HS Baidwan,2011-03-07,1st,DO Obuya,0,,CO Obuya,9,Canada,Kenya,11,Kenya,Feroz Shah Kotla,2,Canada
+31,5.2,0,HS Baidwan,2011-03-07,1st,DO Obuya,0,,CO Obuya,9,Canada,Kenya,11,Kenya,Feroz Shah Kotla,2,Canada
+32,5.3,1,HS Baidwan,2011-03-07,1st,DO Obuya,0,,CO Obuya,10,Canada,Kenya,12,Kenya,Feroz Shah Kotla,2,Canada
+33,5.4,0,HS Baidwan,2011-03-07,1st,CO Obuya,10,,DO Obuya,0,Canada,Kenya,12,Kenya,Feroz Shah Kotla,2,Canada
+34,5.5,1,HS Baidwan,2011-03-07,1st,CO Obuya,10,,DO Obuya,1,Canada,Kenya,13,Kenya,Feroz Shah Kotla,2,Canada
+35,5.6,4,HS Baidwan,2011-03-07,1st,DO Obuya,1,,CO Obuya,14,Canada,Kenya,17,Kenya,Feroz Shah Kotla,2,Canada
+36,6.1,0,H Osinde,2011-03-07,1st,CO Obuya,14,,DO Obuya,1,Canada,Kenya,17,Kenya,Feroz Shah Kotla,2,Canada
+37,6.2,0,H Osinde,2011-03-07,1st,CO Obuya,14,,DO Obuya,1,Canada,Kenya,17,Kenya,Feroz Shah Kotla,2,Canada
+38,6.3,1,H Osinde,2011-03-07,1st,CO Obuya,14,,DO Obuya,2,Canada,Kenya,18,Kenya,Feroz Shah Kotla,2,Canada
+39,6.4,3,H Osinde,2011-03-07,1st,DO Obuya,2,,CO Obuya,17,Canada,Kenya,21,Kenya,Feroz Shah Kotla,2,Canada
+40,6.5,0,H Osinde,2011-03-07,1st,CO Obuya,17,,DO Obuya,2,Canada,Kenya,21,Kenya,Feroz Shah Kotla,2,Canada
+41,6.6,0,H Osinde,2011-03-07,1st,CO Obuya,17,DO Obuya,DO Obuya,2,Canada,Kenya,21,Kenya,Feroz Shah Kotla,3,Canada
+42,7.1,0,PA Desai,2011-03-07,1st,SO Tikolo,0,,CO Obuya,17,Canada,Kenya,21,Kenya,Feroz Shah Kotla,3,Canada
+43,7.2,4,PA Desai,2011-03-07,1st,SO Tikolo,0,,CO Obuya,21,Canada,Kenya,25,Kenya,Feroz Shah Kotla,3,Canada
+44,7.3,0,PA Desai,2011-03-07,1st,SO Tikolo,0,,CO Obuya,21,Canada,Kenya,25,Kenya,Feroz Shah Kotla,3,Canada
+45,7.4,0,PA Desai,2011-03-07,1st,SO Tikolo,0,,CO Obuya,21,Canada,Kenya,25,Kenya,Feroz Shah Kotla,3,Canada
+46,7.5,6,PA Desai,2011-03-07,1st,SO Tikolo,0,,CO Obuya,27,Canada,Kenya,31,Kenya,Feroz Shah Kotla,3,Canada
+47,7.6,0,PA Desai,2011-03-07,1st,SO Tikolo,0,,CO Obuya,27,Canada,Kenya,31,Kenya,Feroz Shah Kotla,3,Canada
+48,8.1,2,H Osinde,2011-03-07,1st,CO Obuya,27,,SO Tikolo,2,Canada,Kenya,33,Kenya,Feroz Shah Kotla,3,Canada
+49,8.2,0,H Osinde,2011-03-07,1st,CO Obuya,27,,SO Tikolo,2,Canada,Kenya,33,Kenya,Feroz Shah Kotla,3,Canada
+50,8.3,0,H Osinde,2011-03-07,1st,CO Obuya,27,,SO Tikolo,2,Canada,Kenya,33,Kenya,Feroz Shah Kotla,3,Canada
+51,8.4,0,H Osinde,2011-03-07,1st,CO Obuya,27,,SO Tikolo,2,Canada,Kenya,34,Kenya,Feroz Shah Kotla,3,Canada
+52,8.5,0,H Osinde,2011-03-07,1st,CO Obuya,27,,SO Tikolo,2,Canada,Kenya,34,Kenya,Feroz Shah Kotla,3,Canada
+53,8.6,0,H Osinde,2011-03-07,1st,CO Obuya,27,,SO Tikolo,2,Canada,Kenya,34,Kenya,Feroz Shah Kotla,3,Canada
+54,8.7,0,H Osinde,2011-03-07,1st,CO Obuya,27,,SO Tikolo,2,Canada,Kenya,34,Kenya,Feroz Shah Kotla,3,Canada
+55,9.1,0,HS Baidwan,2011-03-07,1st,SO Tikolo,2,,CO Obuya,27,Canada,Kenya,34,Kenya,Feroz Shah Kotla,3,Canada
+56,9.2,1,HS Baidwan,2011-03-07,1st,SO Tikolo,2,,CO Obuya,28,Canada,Kenya,35,Kenya,Feroz Shah Kotla,3,Canada
+57,9.3,0,HS Baidwan,2011-03-07,1st,CO Obuya,28,,SO Tikolo,2,Canada,Kenya,35,Kenya,Feroz Shah Kotla,3,Canada
+58,9.4,1,HS Baidwan,2011-03-07,1st,CO Obuya,28,,SO Tikolo,3,Canada,Kenya,36,Kenya,Feroz Shah Kotla,3,Canada
+59,9.5,1,HS Baidwan,2011-03-07,1st,SO Tikolo,3,,CO Obuya,29,Canada,Kenya,37,Kenya,Feroz Shah Kotla,3,Canada
+60,9.6,0,HS Baidwan,2011-03-07,1st,CO Obuya,29,,SO Tikolo,3,Canada,Kenya,37,Kenya,Feroz Shah Kotla,3,Canada
+61,10.1,0,H Osinde,2011-03-07,1st,SO Tikolo,3,,CO Obuya,29,Canada,Kenya,38,Kenya,Feroz Shah Kotla,3,Canada
+62,10.2,0,H Osinde,2011-03-07,1st,SO Tikolo,3,,CO Obuya,29,Canada,Kenya,38,Kenya,Feroz Shah Kotla,3,Canada
+63,10.3,1,H Osinde,2011-03-07,1st,SO Tikolo,3,,CO Obuya,30,Canada,Kenya,39,Kenya,Feroz Shah Kotla,3,Canada
+64,10.4,0,H Osinde,2011-03-07,1st,CO Obuya,30,,SO Tikolo,3,Canada,Kenya,39,Kenya,Feroz Shah Kotla,3,Canada
+65,10.5,1,H Osinde,2011-03-07,1st,CO Obuya,30,,SO Tikolo,4,Canada,Kenya,40,Kenya,Feroz Shah Kotla,3,Canada
+66,10.6,0,H Osinde,2011-03-07,1st,SO Tikolo,4,,CO Obuya,30,Canada,Kenya,40,Kenya,Feroz Shah Kotla,3,Canada
+67,10.7,1,H Osinde,2011-03-07,1st,SO Tikolo,4,,CO Obuya,31,Canada,Kenya,41,Kenya,Feroz Shah Kotla,3,Canada
+68,11.1,0,HS Baidwan,2011-03-07,1st,SO Tikolo,4,,CO Obuya,31,Canada,Kenya,41,Kenya,Feroz Shah Kotla,3,Canada
+69,11.2,0,HS Baidwan,2011-03-07,1st,SO Tikolo,4,,CO Obuya,31,Canada,Kenya,41,Kenya,Feroz Shah Kotla,3,Canada
+70,11.3,0,HS Baidwan,2011-03-07,1st,SO Tikolo,4,CO Obuya,CO Obuya,31,Canada,Kenya,41,Kenya,Feroz Shah Kotla,4,Canada
+71,11.4,4,HS Baidwan,2011-03-07,1st,SO Tikolo,4,,T Mishra,4,Canada,Kenya,45,Kenya,Feroz Shah Kotla,4,Canada
+72,11.5,0,HS Baidwan,2011-03-07,1st,SO Tikolo,4,,T Mishra,4,Canada,Kenya,45,Kenya,Feroz Shah Kotla,4,Canada
+73,11.6,1,HS Baidwan,2011-03-07,1st,SO Tikolo,4,,T Mishra,5,Canada,Kenya,46,Kenya,Feroz Shah Kotla,4,Canada
+74,12.1,0,H Osinde,2011-03-07,1st,SO Tikolo,4,,T Mishra,5,Canada,Kenya,46,Kenya,Feroz Shah Kotla,4,Canada
+75,12.2,0,H Osinde,2011-03-07,1st,SO Tikolo,4,,T Mishra,5,Canada,Kenya,46,Kenya,Feroz Shah Kotla,4,Canada
+76,12.3,0,H Osinde,2011-03-07,1st,SO Tikolo,4,,T Mishra,5,Canada,Kenya,46,Kenya,Feroz Shah Kotla,4,Canada
+77,12.4,1,H Osinde,2011-03-07,1st,SO Tikolo,4,,T Mishra,6,Canada,Kenya,47,Kenya,Feroz Shah Kotla,4,Canada
+78,12.5,1,H Osinde,2011-03-07,1st,T Mishra,6,,SO Tikolo,5,Canada,Kenya,48,Kenya,Feroz Shah Kotla,4,Canada
+79,12.6,0,H Osinde,2011-03-07,1st,SO Tikolo,5,,T Mishra,6,Canada,Kenya,48,Kenya,Feroz Shah Kotla,4,Canada
+80,13.1,0,HS Baidwan,2011-03-07,1st,T Mishra,6,,SO Tikolo,5,Canada,Kenya,48,Kenya,Feroz Shah Kotla,4,Canada
+81,13.2,1,HS Baidwan,2011-03-07,1st,T Mishra,6,,SO Tikolo,6,Canada,Kenya,49,Kenya,Feroz Shah Kotla,4,Canada
+82,13.3,1,HS Baidwan,2011-03-07,1st,SO Tikolo,6,,T Mishra,7,Canada,Kenya,50,Kenya,Feroz Shah Kotla,4,Canada
+83,13.4,4,HS Baidwan,2011-03-07,1st,T Mishra,7,,SO Tikolo,10,Canada,Kenya,54,Kenya,Feroz Shah Kotla,4,Canada
+84,13.5,0,HS Baidwan,2011-03-07,1st,T Mishra,7,,SO Tikolo,10,Canada,Kenya,54,Kenya,Feroz Shah Kotla,4,Canada
+85,13.6,0,HS Baidwan,2011-03-07,1st,T Mishra,7,,SO Tikolo,10,Canada,Kenya,54,Kenya,Feroz Shah Kotla,4,Canada
+86,14.1,0,Rizwan Cheema,2011-03-07,1st,SO Tikolo,10,,T Mishra,7,Canada,Kenya,54,Kenya,Feroz Shah Kotla,4,Canada
+87,14.2,0,Rizwan Cheema,2011-03-07,1st,SO Tikolo,10,,T Mishra,7,Canada,Kenya,54,Kenya,Feroz Shah Kotla,4,Canada
+88,14.3,1,Rizwan Cheema,2011-03-07,1st,SO Tikolo,10,,T Mishra,8,Canada,Kenya,55,Kenya,Feroz Shah Kotla,4,Canada
+89,14.4,0,Rizwan Cheema,2011-03-07,1st,T Mishra,8,,SO Tikolo,10,Canada,Kenya,55,Kenya,Feroz Shah Kotla,4,Canada
+90,14.5,2,Rizwan Cheema,2011-03-07,1st,T Mishra,8,,SO Tikolo,12,Canada,Kenya,57,Kenya,Feroz Shah Kotla,4,Canada
+91,14.6,0,Rizwan Cheema,2011-03-07,1st,T Mishra,8,SO Tikolo,SO Tikolo,12,Canada,Kenya,57,Kenya,Feroz Shah Kotla,5,Canada
+92,15.1,1,AS Hansra,2011-03-07,1st,JK Kamande,0,,T Mishra,9,Canada,Kenya,58,Kenya,Feroz Shah Kotla,5,Canada
+93,15.2,4,AS Hansra,2011-03-07,1st,T Mishra,9,,JK Kamande,4,Canada,Kenya,62,Kenya,Feroz Shah Kotla,5,Canada
+94,15.3,0,AS Hansra,2011-03-07,1st,T Mishra,9,,JK Kamande,4,Canada,Kenya,62,Kenya,Feroz Shah Kotla,5,Canada
+95,15.4,0,AS Hansra,2011-03-07,1st,T Mishra,9,,JK Kamande,4,Canada,Kenya,62,Kenya,Feroz Shah Kotla,5,Canada
+96,15.5,0,AS Hansra,2011-03-07,1st,T Mishra,9,,JK Kamande,4,Canada,Kenya,62,Kenya,Feroz Shah Kotla,5,Canada
+97,15.6,0,AS Hansra,2011-03-07,1st,T Mishra,9,,JK Kamande,4,Canada,Kenya,62,Kenya,Feroz Shah Kotla,5,Canada
+98,16.1,1,Rizwan Cheema,2011-03-07,1st,JK Kamande,4,,T Mishra,10,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+99,16.2,0,Rizwan Cheema,2011-03-07,1st,T Mishra,10,,JK Kamande,4,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+100,16.3,0,Rizwan Cheema,2011-03-07,1st,T Mishra,10,,JK Kamande,4,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+101,16.4,0,Rizwan Cheema,2011-03-07,1st,T Mishra,10,,JK Kamande,4,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+102,16.5,0,Rizwan Cheema,2011-03-07,1st,T Mishra,10,,JK Kamande,4,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+103,16.6,0,Rizwan Cheema,2011-03-07,1st,T Mishra,10,,JK Kamande,4,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+104,17.1,0,AS Hansra,2011-03-07,1st,JK Kamande,4,,T Mishra,10,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+105,17.2,0,AS Hansra,2011-03-07,1st,JK Kamande,4,,T Mishra,10,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+106,17.3,0,AS Hansra,2011-03-07,1st,JK Kamande,4,,T Mishra,10,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+107,17.4,0,AS Hansra,2011-03-07,1st,JK Kamande,4,,T Mishra,10,Canada,Kenya,63,Kenya,Feroz Shah Kotla,5,Canada
+108,17.5,1,AS Hansra,2011-03-07,1st,JK Kamande,4,,T Mishra,11,Canada,Kenya,64,Kenya,Feroz Shah Kotla,5,Canada
+109,17.6,1,AS Hansra,2011-03-07,1st,T Mishra,11,,JK Kamande,5,Canada,Kenya,65,Kenya,Feroz Shah Kotla,5,Canada
+110,18.1,0,Rizwan Cheema,2011-03-07,1st,T Mishra,11,,JK Kamande,5,Canada,Kenya,65,Kenya,Feroz Shah Kotla,5,Canada
+111,18.2,0,Rizwan Cheema,2011-03-07,1st,T Mishra,11,,JK Kamande,5,Canada,Kenya,65,Kenya,Feroz Shah Kotla,5,Canada
+112,18.3,0,Rizwan Cheema,2011-03-07,1st,T Mishra,11,,JK Kamande,5,Canada,Kenya,65,Kenya,Feroz Shah Kotla,5,Canada
+113,18.4,0,Rizwan Cheema,2011-03-07,1st,T Mishra,11,,JK Kamande,5,Canada,Kenya,65,Kenya,Feroz Shah Kotla,5,Canada
+114,18.5,0,Rizwan Cheema,2011-03-07,1st,T Mishra,11,,JK Kamande,5,Canada,Kenya,65,Kenya,Feroz Shah Kotla,5,Canada
+115,18.6,0,Rizwan Cheema,2011-03-07,1st,T Mishra,11,,JK Kamande,5,Canada,Kenya,65,Kenya,Feroz Shah Kotla,5,Canada
+116,19.1,4,AS Hansra,2011-03-07,1st,JK Kamande,5,,T Mishra,15,Canada,Kenya,69,Kenya,Feroz Shah Kotla,5,Canada
+117,19.2,2,AS Hansra,2011-03-07,1st,JK Kamande,5,,T Mishra,17,Canada,Kenya,71,Kenya,Feroz Shah Kotla,5,Canada
+118,19.3,0,AS Hansra,2011-03-07,1st,JK Kamande,5,,T Mishra,17,Canada,Kenya,71,Kenya,Feroz Shah Kotla,5,Canada
+119,19.4,0,AS Hansra,2011-03-07,1st,JK Kamande,5,,T Mishra,17,Canada,Kenya,71,Kenya,Feroz Shah Kotla,5,Canada
+120,19.5,1,AS Hansra,2011-03-07,1st,JK Kamande,5,,T Mishra,18,Canada,Kenya,72,Kenya,Feroz Shah Kotla,5,Canada
+121,19.6,1,AS Hansra,2011-03-07,1st,T Mishra,18,,JK Kamande,6,Canada,Kenya,73,Kenya,Feroz Shah Kotla,5,Canada
+122,20.1,0,Rizwan Cheema,2011-03-07,1st,T Mishra,18,,JK Kamande,6,Canada,Kenya,73,Kenya,Feroz Shah Kotla,5,Canada
+123,20.2,0,Rizwan Cheema,2011-03-07,1st,T Mishra,18,,JK Kamande,6,Canada,Kenya,73,Kenya,Feroz Shah Kotla,5,Canada
+124,20.3,0,Rizwan Cheema,2011-03-07,1st,T Mishra,18,,JK Kamande,6,Canada,Kenya,73,Kenya,Feroz Shah Kotla,5,Canada
+125,20.4,4,Rizwan Cheema,2011-03-07,1st,T Mishra,18,,JK Kamande,10,Canada,Kenya,77,Kenya,Feroz Shah Kotla,5,Canada
+126,20.5,0,Rizwan Cheema,2011-03-07,1st,T Mishra,18,,JK Kamande,10,Canada,Kenya,77,Kenya,Feroz Shah Kotla,5,Canada
+127,20.6,0,Rizwan Cheema,2011-03-07,1st,T Mishra,18,,JK Kamande,10,Canada,Kenya,77,Kenya,Feroz Shah Kotla,5,Canada
+128,21.1,0,WD Balaji Rao,2011-03-07,1st,JK Kamande,10,,T Mishra,18,Canada,Kenya,77,Kenya,Feroz Shah Kotla,5,Canada
+129,21.2,1,WD Balaji Rao,2011-03-07,1st,JK Kamande,10,,T Mishra,19,Canada,Kenya,78,Kenya,Feroz Shah Kotla,5,Canada
+130,21.3,0,WD Balaji Rao,2011-03-07,1st,T Mishra,19,,JK Kamande,10,Canada,Kenya,78,Kenya,Feroz Shah Kotla,5,Canada
+131,21.4,0,WD Balaji Rao,2011-03-07,1st,T Mishra,19,,JK Kamande,10,Canada,Kenya,78,Kenya,Feroz Shah Kotla,5,Canada
+132,21.5,0,WD Balaji Rao,2011-03-07,1st,T Mishra,19,,JK Kamande,10,Canada,Kenya,78,Kenya,Feroz Shah Kotla,5,Canada
+133,21.6,0,WD Balaji Rao,2011-03-07,1st,T Mishra,19,,JK Kamande,10,Canada,Kenya,78,Kenya,Feroz Shah Kotla,5,Canada
+134,22.1,1,Rizwan Cheema,2011-03-07,1st,JK Kamande,10,,T Mishra,20,Canada,Kenya,79,Kenya,Feroz Shah Kotla,5,Canada
+135,22.2,1,Rizwan Cheema,2011-03-07,1st,T Mishra,20,,JK Kamande,11,Canada,Kenya,80,Kenya,Feroz Shah Kotla,5,Canada
+136,22.3,1,Rizwan Cheema,2011-03-07,1st,JK Kamande,11,,T Mishra,21,Canada,Kenya,81,Kenya,Feroz Shah Kotla,5,Canada
+137,22.4,0,Rizwan Cheema,2011-03-07,1st,T Mishra,21,,JK Kamande,11,Canada,Kenya,81,Kenya,Feroz Shah Kotla,5,Canada
+138,22.5,0,Rizwan Cheema,2011-03-07,1st,T Mishra,21,,JK Kamande,11,Canada,Kenya,81,Kenya,Feroz Shah Kotla,5,Canada
+139,22.6,0,Rizwan Cheema,2011-03-07,1st,T Mishra,21,,JK Kamande,11,Canada,Kenya,81,Kenya,Feroz Shah Kotla,5,Canada
+140,23.1,0,WD Balaji Rao,2011-03-07,1st,JK Kamande,11,,T Mishra,21,Canada,Kenya,81,Kenya,Feroz Shah Kotla,5,Canada
+141,23.2,1,WD Balaji Rao,2011-03-07,1st,JK Kamande,11,,T Mishra,22,Canada,Kenya,82,Kenya,Feroz Shah Kotla,5,Canada
+142,23.3,0,WD Balaji Rao,2011-03-07,1st,T Mishra,22,,JK Kamande,11,Canada,Kenya,82,Kenya,Feroz Shah Kotla,5,Canada
+143,23.4,0,WD Balaji Rao,2011-03-07,1st,T Mishra,22,,JK Kamande,11,Canada,Kenya,82,Kenya,Feroz Shah Kotla,5,Canada
+144,23.5,1,WD Balaji Rao,2011-03-07,1st,T Mishra,22,,JK Kamande,12,Canada,Kenya,83,Kenya,Feroz Shah Kotla,5,Canada
+145,23.6,1,WD Balaji Rao,2011-03-07,1st,JK Kamande,12,,T Mishra,23,Canada,Kenya,84,Kenya,Feroz Shah Kotla,5,Canada
+146,24.1,1,JM Davison,2011-03-07,1st,JK Kamande,12,,T Mishra,24,Canada,Kenya,85,Kenya,Feroz Shah Kotla,5,Canada
+147,24.2,0,JM Davison,2011-03-07,1st,T Mishra,24,,JK Kamande,12,Canada,Kenya,85,Kenya,Feroz Shah Kotla,5,Canada
+148,24.3,1,JM Davison,2011-03-07,1st,T Mishra,24,,JK Kamande,13,Canada,Kenya,86,Kenya,Feroz Shah Kotla,5,Canada
+149,24.4,0,JM Davison,2011-03-07,1st,JK Kamande,13,,T Mishra,24,Canada,Kenya,86,Kenya,Feroz Shah Kotla,5,Canada
+150,24.5,1,JM Davison,2011-03-07,1st,JK Kamande,13,,T Mishra,25,Canada,Kenya,87,Kenya,Feroz Shah Kotla,5,Canada
+151,24.6,0,JM Davison,2011-03-07,1st,T Mishra,25,,JK Kamande,13,Canada,Kenya,87,Kenya,Feroz Shah Kotla,5,Canada
+152,25.1,1,WD Balaji Rao,2011-03-07,1st,JK Kamande,13,,T Mishra,26,Canada,Kenya,88,Kenya,Feroz Shah Kotla,5,Canada
+153,25.2,0,WD Balaji Rao,2011-03-07,1st,T Mishra,26,,JK Kamande,13,Canada,Kenya,88,Kenya,Feroz Shah Kotla,5,Canada
+154,25.3,0,WD Balaji Rao,2011-03-07,1st,T Mishra,26,,JK Kamande,13,Canada,Kenya,88,Kenya,Feroz Shah Kotla,5,Canada
+155,25.4,0,WD Balaji Rao,2011-03-07,1st,T Mishra,26,,JK Kamande,13,Canada,Kenya,88,Kenya,Feroz Shah Kotla,5,Canada
+156,25.5,1,WD Balaji Rao,2011-03-07,1st,T Mishra,26,,JK Kamande,14,Canada,Kenya,89,Kenya,Feroz Shah Kotla,5,Canada
+157,25.6,0,WD Balaji Rao,2011-03-07,1st,JK Kamande,14,,T Mishra,26,Canada,Kenya,89,Kenya,Feroz Shah Kotla,5,Canada
+158,26.1,1,JM Davison,2011-03-07,1st,T Mishra,26,,JK Kamande,15,Canada,Kenya,90,Kenya,Feroz Shah Kotla,5,Canada
+159,26.2,4,JM Davison,2011-03-07,1st,JK Kamande,15,,T Mishra,30,Canada,Kenya,94,Kenya,Feroz Shah Kotla,5,Canada
+160,26.3,1,JM Davison,2011-03-07,1st,JK Kamande,15,,T Mishra,31,Canada,Kenya,95,Kenya,Feroz Shah Kotla,5,Canada
+161,26.4,0,JM Davison,2011-03-07,1st,T Mishra,31,,JK Kamande,15,Canada,Kenya,95,Kenya,Feroz Shah Kotla,5,Canada
+162,26.5,0,JM Davison,2011-03-07,1st,T Mishra,31,,JK Kamande,15,Canada,Kenya,95,Kenya,Feroz Shah Kotla,5,Canada
+163,26.6,1,JM Davison,2011-03-07,1st,T Mishra,31,,JK Kamande,16,Canada,Kenya,96,Kenya,Feroz Shah Kotla,5,Canada
+164,27.1,0,WD Balaji Rao,2011-03-07,1st,T Mishra,31,,JK Kamande,16,Canada,Kenya,96,Kenya,Feroz Shah Kotla,5,Canada
+165,27.2,0,WD Balaji Rao,2011-03-07,1st,T Mishra,31,,JK Kamande,16,Canada,Kenya,96,Kenya,Feroz Shah Kotla,5,Canada
+166,27.3,1,WD Balaji Rao,2011-03-07,1st,T Mishra,31,,JK Kamande,17,Canada,Kenya,97,Kenya,Feroz Shah Kotla,5,Canada
+167,27.4,1,WD Balaji Rao,2011-03-07,1st,JK Kamande,17,,T Mishra,32,Canada,Kenya,98,Kenya,Feroz Shah Kotla,5,Canada
+168,27.5,0,WD Balaji Rao,2011-03-07,1st,T Mishra,32,,JK Kamande,17,Canada,Kenya,98,Kenya,Feroz Shah Kotla,5,Canada
+169,27.6,0,WD Balaji Rao,2011-03-07,1st,T Mishra,32,,JK Kamande,17,Canada,Kenya,103,Kenya,Feroz Shah Kotla,5,Canada
+170,27.7,1,WD Balaji Rao,2011-03-07,1st,T Mishra,32,,JK Kamande,18,Canada,Kenya,104,Kenya,Feroz Shah Kotla,5,Canada
+171,28.1,0,H Osinde,2011-03-07,1st,T Mishra,32,,JK Kamande,18,Canada,Kenya,104,Kenya,Feroz Shah Kotla,5,Canada
+172,28.2,4,H Osinde,2011-03-07,1st,T Mishra,32,,JK Kamande,22,Canada,Kenya,108,Kenya,Feroz Shah Kotla,5,Canada
+173,28.3,0,H Osinde,2011-03-07,1st,T Mishra,32,,JK Kamande,22,Canada,Kenya,108,Kenya,Feroz Shah Kotla,5,Canada
+174,28.4,0,H Osinde,2011-03-07,1st,T Mishra,32,,JK Kamande,22,Canada,Kenya,108,Kenya,Feroz Shah Kotla,5,Canada
+175,28.5,0,H Osinde,2011-03-07,1st,T Mishra,32,,JK Kamande,22,Canada,Kenya,108,Kenya,Feroz Shah Kotla,5,Canada
+176,28.6,0,H Osinde,2011-03-07,1st,T Mishra,32,,JK Kamande,22,Canada,Kenya,108,Kenya,Feroz Shah Kotla,5,Canada
+177,29.1,1,WD Balaji Rao,2011-03-07,1st,JK Kamande,22,,T Mishra,33,Canada,Kenya,109,Kenya,Feroz Shah Kotla,5,Canada
+178,29.2,0,WD Balaji Rao,2011-03-07,1st,T Mishra,33,JK Kamande,JK Kamande,22,Canada,Kenya,109,Kenya,Feroz Shah Kotla,6,Canada
+179,29.3,0,WD Balaji Rao,2011-03-07,1st,T Mishra,33,,TM Odoyo,0,Canada,Kenya,109,Kenya,Feroz Shah Kotla,6,Canada
+180,29.4,0,WD Balaji Rao,2011-03-07,1st,T Mishra,33,,TM Odoyo,0,Canada,Kenya,109,Kenya,Feroz Shah Kotla,6,Canada
+181,29.5,0,WD Balaji Rao,2011-03-07,1st,T Mishra,33,,TM Odoyo,0,Canada,Kenya,109,Kenya,Feroz Shah Kotla,6,Canada
+182,29.6,1,WD Balaji Rao,2011-03-07,1st,T Mishra,33,,TM Odoyo,1,Canada,Kenya,110,Kenya,Feroz Shah Kotla,6,Canada
+183,30.1,0,HS Baidwan,2011-03-07,1st,T Mishra,33,,TM Odoyo,1,Canada,Kenya,110,Kenya,Feroz Shah Kotla,6,Canada
+184,30.2,4,HS Baidwan,2011-03-07,1st,T Mishra,33,,TM Odoyo,5,Canada,Kenya,114,Kenya,Feroz Shah Kotla,6,Canada
+185,30.3,0,HS Baidwan,2011-03-07,1st,T Mishra,33,,TM Odoyo,5,Canada,Kenya,114,Kenya,Feroz Shah Kotla,6,Canada
+186,30.4,1,HS Baidwan,2011-03-07,1st,T Mishra,33,,TM Odoyo,6,Canada,Kenya,115,Kenya,Feroz Shah Kotla,6,Canada
+187,30.5,0,HS Baidwan,2011-03-07,1st,TM Odoyo,6,,T Mishra,33,Canada,Kenya,115,Kenya,Feroz Shah Kotla,6,Canada
+188,30.6,0,HS Baidwan,2011-03-07,1st,TM Odoyo,6,,T Mishra,33,Canada,Kenya,115,Kenya,Feroz Shah Kotla,6,Canada
+189,31.1,1,WD Balaji Rao,2011-03-07,1st,T Mishra,33,,TM Odoyo,7,Canada,Kenya,116,Kenya,Feroz Shah Kotla,6,Canada
+190,31.2,1,WD Balaji Rao,2011-03-07,1st,TM Odoyo,7,,T Mishra,34,Canada,Kenya,117,Kenya,Feroz Shah Kotla,6,Canada
+191,31.3,0,WD Balaji Rao,2011-03-07,1st,T Mishra,34,,TM Odoyo,7,Canada,Kenya,117,Kenya,Feroz Shah Kotla,6,Canada
+192,31.4,0,WD Balaji Rao,2011-03-07,1st,T Mishra,34,,TM Odoyo,7,Canada,Kenya,117,Kenya,Feroz Shah Kotla,6,Canada
+193,31.5,3,WD Balaji Rao,2011-03-07,1st,T Mishra,34,,TM Odoyo,10,Canada,Kenya,120,Kenya,Feroz Shah Kotla,6,Canada
+194,31.6,1,WD Balaji Rao,2011-03-07,1st,TM Odoyo,10,,T Mishra,35,Canada,Kenya,121,Kenya,Feroz Shah Kotla,6,Canada
+195,32.1,1,PA Desai,2011-03-07,1st,TM Odoyo,10,,T Mishra,36,Canada,Kenya,122,Kenya,Feroz Shah Kotla,6,Canada
+196,32.2,1,PA Desai,2011-03-07,1st,T Mishra,36,,TM Odoyo,11,Canada,Kenya,123,Kenya,Feroz Shah Kotla,6,Canada
+197,32.3,1,PA Desai,2011-03-07,1st,TM Odoyo,11,,T Mishra,37,Canada,Kenya,124,Kenya,Feroz Shah Kotla,6,Canada
+198,32.4,1,PA Desai,2011-03-07,1st,T Mishra,37,,TM Odoyo,12,Canada,Kenya,125,Kenya,Feroz Shah Kotla,6,Canada
+199,32.5,2,PA Desai,2011-03-07,1st,TM Odoyo,12,,T Mishra,39,Canada,Kenya,127,Kenya,Feroz Shah Kotla,6,Canada
+200,32.6,0,PA Desai,2011-03-07,1st,TM Odoyo,12,,T Mishra,39,Canada,Kenya,127,Kenya,Feroz Shah Kotla,6,Canada
+201,33.1,0,WD Balaji Rao,2011-03-07,1st,T Mishra,39,,TM Odoyo,12,Canada,Kenya,127,Kenya,Feroz Shah Kotla,6,Canada
+202,33.2,0,WD Balaji Rao,2011-03-07,1st,T Mishra,39,,TM Odoyo,12,Canada,Kenya,127,Kenya,Feroz Shah Kotla,6,Canada
+203,33.3,1,WD Balaji Rao,2011-03-07,1st,T Mishra,39,,TM Odoyo,13,Canada,Kenya,128,Kenya,Feroz Shah Kotla,6,Canada
+204,33.4,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,13,,T Mishra,39,Canada,Kenya,128,Kenya,Feroz Shah Kotla,6,Canada
+205,33.5,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,13,,T Mishra,39,Canada,Kenya,128,Kenya,Feroz Shah Kotla,6,Canada
+206,33.6,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,13,,T Mishra,39,Canada,Kenya,128,Kenya,Feroz Shah Kotla,6,Canada
+207,34.1,0,PA Desai,2011-03-07,1st,T Mishra,39,,TM Odoyo,13,Canada,Kenya,128,Kenya,Feroz Shah Kotla,6,Canada
+208,34.2,0,PA Desai,2011-03-07,1st,T Mishra,39,,TM Odoyo,13,Canada,Kenya,128,Kenya,Feroz Shah Kotla,6,Canada
+209,34.3,0,PA Desai,2011-03-07,1st,T Mishra,39,,TM Odoyo,13,Canada,Kenya,128,Kenya,Feroz Shah Kotla,6,Canada
+210,34.4,4,PA Desai,2011-03-07,1st,T Mishra,39,,TM Odoyo,17,Canada,Kenya,132,Kenya,Feroz Shah Kotla,6,Canada
+211,34.5,0,PA Desai,2011-03-07,1st,T Mishra,39,,TM Odoyo,17,Canada,Kenya,132,Kenya,Feroz Shah Kotla,6,Canada
+212,34.6,0,PA Desai,2011-03-07,1st,T Mishra,39,,TM Odoyo,17,Canada,Kenya,132,Kenya,Feroz Shah Kotla,6,Canada
+213,35.1,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,17,,T Mishra,39,Canada,Kenya,132,Kenya,Feroz Shah Kotla,6,Canada
+214,35.2,1,WD Balaji Rao,2011-03-07,1st,TM Odoyo,17,,T Mishra,40,Canada,Kenya,133,Kenya,Feroz Shah Kotla,6,Canada
+215,35.3,0,WD Balaji Rao,2011-03-07,1st,T Mishra,40,,TM Odoyo,17,Canada,Kenya,133,Kenya,Feroz Shah Kotla,6,Canada
+216,35.4,0,WD Balaji Rao,2011-03-07,1st,T Mishra,40,,TM Odoyo,17,Canada,Kenya,133,Kenya,Feroz Shah Kotla,6,Canada
+217,35.5,1,WD Balaji Rao,2011-03-07,1st,T Mishra,40,,TM Odoyo,18,Canada,Kenya,134,Kenya,Feroz Shah Kotla,6,Canada
+218,35.6,1,WD Balaji Rao,2011-03-07,1st,TM Odoyo,18,,T Mishra,41,Canada,Kenya,135,Kenya,Feroz Shah Kotla,6,Canada
+219,36.1,1,JM Davison,2011-03-07,1st,TM Odoyo,18,,T Mishra,42,Canada,Kenya,136,Kenya,Feroz Shah Kotla,6,Canada
+220,36.2,1,JM Davison,2011-03-07,1st,T Mishra,42,,TM Odoyo,19,Canada,Kenya,137,Kenya,Feroz Shah Kotla,6,Canada
+221,36.3,0,JM Davison,2011-03-07,1st,TM Odoyo,19,,T Mishra,42,Canada,Kenya,137,Kenya,Feroz Shah Kotla,6,Canada
+222,36.4,2,JM Davison,2011-03-07,1st,TM Odoyo,19,,T Mishra,44,Canada,Kenya,139,Kenya,Feroz Shah Kotla,6,Canada
+223,36.5,1,JM Davison,2011-03-07,1st,TM Odoyo,19,,T Mishra,45,Canada,Kenya,140,Kenya,Feroz Shah Kotla,6,Canada
+224,36.6,0,JM Davison,2011-03-07,1st,T Mishra,45,,TM Odoyo,19,Canada,Kenya,140,Kenya,Feroz Shah Kotla,6,Canada
+225,37.1,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,19,,T Mishra,45,Canada,Kenya,140,Kenya,Feroz Shah Kotla,6,Canada
+226,37.2,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,19,,T Mishra,45,Canada,Kenya,140,Kenya,Feroz Shah Kotla,6,Canada
+227,37.3,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,19,,T Mishra,45,Canada,Kenya,140,Kenya,Feroz Shah Kotla,6,Canada
+228,37.4,0,WD Balaji Rao,2011-03-07,1st,TM Odoyo,19,,T Mishra,45,Canada,Kenya,140,Kenya,Feroz Shah Kotla,6,Canada
+229,37.5,1,WD Balaji Rao,2011-03-07,1st,TM Odoyo,19,,T Mishra,46,Canada,Kenya,141,Kenya,Feroz Shah Kotla,6,Canada
+230,37.6,1,WD Balaji Rao,2011-03-07,1st,T Mishra,46,,TM Odoyo,20,Canada,Kenya,142,Kenya,Feroz Shah Kotla,6,Canada
+231,38.1,0,Rizwan Cheema,2011-03-07,1st,T Mishra,46,,TM Odoyo,20,Canada,Kenya,142,Kenya,Feroz Shah Kotla,6,Canada
+232,38.2,4,Rizwan Cheema,2011-03-07,1st,T Mishra,46,,TM Odoyo,24,Canada,Kenya,146,Kenya,Feroz Shah Kotla,6,Canada
+233,38.3,0,Rizwan Cheema,2011-03-07,1st,T Mishra,46,,TM Odoyo,24,Canada,Kenya,146,Kenya,Feroz Shah Kotla,6,Canada
+234,38.4,1,Rizwan Cheema,2011-03-07,1st,T Mishra,46,,TM Odoyo,25,Canada,Kenya,147,Kenya,Feroz Shah Kotla,6,Canada
+235,38.5,0,Rizwan Cheema,2011-03-07,1st,TM Odoyo,25,,T Mishra,46,Canada,Kenya,147,Kenya,Feroz Shah Kotla,6,Canada
+236,38.6,0,Rizwan Cheema,2011-03-07,1st,TM Odoyo,25,,T Mishra,46,Canada,Kenya,147,Kenya,Feroz Shah Kotla,6,Canada
+237,39.1,1,WD Balaji Rao,2011-03-07,1st,T Mishra,46,,TM Odoyo,26,Canada,Kenya,148,Kenya,Feroz Shah Kotla,6,Canada
+238,39.2,1,WD Balaji Rao,2011-03-07,1st,TM Odoyo,26,,T Mishra,47,Canada,Kenya,149,Kenya,Feroz Shah Kotla,6,Canada
+239,39.3,4,WD Balaji Rao,2011-03-07,1st,T Mishra,47,,TM Odoyo,30,Canada,Kenya,153,Kenya,Feroz Shah Kotla,6,Canada
+240,39.4,1,WD Balaji Rao,2011-03-07,1st,T Mishra,47,,TM Odoyo,31,Canada,Kenya,154,Kenya,Feroz Shah Kotla,6,Canada
+241,39.5,1,WD Balaji Rao,2011-03-07,1st,TM Odoyo,31,,T Mishra,48,Canada,Kenya,155,Kenya,Feroz Shah Kotla,6,Canada
+242,39.6,0,WD Balaji Rao,2011-03-07,1st,T Mishra,48,,TM Odoyo,31,Canada,Kenya,155,Kenya,Feroz Shah Kotla,6,Canada
+243,40.1,1,Rizwan Cheema,2011-03-07,1st,TM Odoyo,31,,T Mishra,49,Canada,Kenya,156,Kenya,Feroz Shah Kotla,6,Canada
+244,40.2,4,Rizwan Cheema,2011-03-07,1st,T Mishra,49,,TM Odoyo,35,Canada,Kenya,160,Kenya,Feroz Shah Kotla,6,Canada
+245,40.3,0,Rizwan Cheema,2011-03-07,1st,T Mishra,49,,TM Odoyo,35,Canada,Kenya,160,Kenya,Feroz Shah Kotla,6,Canada
+246,40.4,0,Rizwan Cheema,2011-03-07,1st,T Mishra,49,,TM Odoyo,35,Canada,Kenya,160,Kenya,Feroz Shah Kotla,6,Canada
+247,40.5,2,Rizwan Cheema,2011-03-07,1st,T Mishra,49,,TM Odoyo,37,Canada,Kenya,162,Kenya,Feroz Shah Kotla,6,Canada
+248,40.6,0,Rizwan Cheema,2011-03-07,1st,T Mishra,49,,TM Odoyo,37,Canada,Kenya,162,Kenya,Feroz Shah Kotla,6,Canada
+249,41.1,0,H Osinde,2011-03-07,1st,TM Odoyo,37,,T Mishra,49,Canada,Kenya,163,Kenya,Feroz Shah Kotla,6,Canada
+250,41.2,0,H Osinde,2011-03-07,1st,TM Odoyo,37,,T Mishra,49,Canada,Kenya,163,Kenya,Feroz Shah Kotla,6,Canada
+251,41.3,0,H Osinde,2011-03-07,1st,TM Odoyo,37,,T Mishra,49,Canada,Kenya,163,Kenya,Feroz Shah Kotla,6,Canada
+252,41.4,1,H Osinde,2011-03-07,1st,TM Odoyo,37,,T Mishra,50,Canada,Kenya,164,Kenya,Feroz Shah Kotla,6,Canada
+253,41.5,0,H Osinde,2011-03-07,1st,T Mishra,50,,TM Odoyo,37,Canada,Kenya,164,Kenya,Feroz Shah Kotla,6,Canada
+254,41.6,1,H Osinde,2011-03-07,1st,T Mishra,50,,TM Odoyo,38,Canada,Kenya,165,Kenya,Feroz Shah Kotla,6,Canada
+255,41.7,1,H Osinde,2011-03-07,1st,TM Odoyo,38,,T Mishra,51,Canada,Kenya,166,Kenya,Feroz Shah Kotla,6,Canada
+256,42.1,0,JM Davison,2011-03-07,1st,TM Odoyo,38,T Mishra,T Mishra,51,Canada,Kenya,166,Kenya,Feroz Shah Kotla,7,Canada
+257,42.2,2,JM Davison,2011-03-07,1st,TM Odoyo,38,,NN Odhiambo,2,Canada,Kenya,168,Kenya,Feroz Shah Kotla,7,Canada
+258,42.3,0,JM Davison,2011-03-07,1st,TM Odoyo,38,,NN Odhiambo,2,Canada,Kenya,168,Kenya,Feroz Shah Kotla,7,Canada
+259,42.4,0,JM Davison,2011-03-07,1st,TM Odoyo,38,,NN Odhiambo,2,Canada,Kenya,168,Kenya,Feroz Shah Kotla,7,Canada
+260,42.5,0,JM Davison,2011-03-07,1st,TM Odoyo,38,,NN Odhiambo,2,Canada,Kenya,168,Kenya,Feroz Shah Kotla,7,Canada
+261,42.6,1,JM Davison,2011-03-07,1st,TM Odoyo,38,,NN Odhiambo,3,Canada,Kenya,169,Kenya,Feroz Shah Kotla,7,Canada
+262,43.1,0,H Osinde,2011-03-07,1st,TM Odoyo,38,,NN Odhiambo,3,Canada,Kenya,169,Kenya,Feroz Shah Kotla,7,Canada
+263,43.2,1,H Osinde,2011-03-07,1st,TM Odoyo,38,,NN Odhiambo,4,Canada,Kenya,170,Kenya,Feroz Shah Kotla,7,Canada
+264,43.3,0,H Osinde,2011-03-07,1st,NN Odhiambo,4,,TM Odoyo,38,Canada,Kenya,170,Kenya,Feroz Shah Kotla,7,Canada
+265,43.4,1,H Osinde,2011-03-07,1st,NN Odhiambo,4,,TM Odoyo,39,Canada,Kenya,171,Kenya,Feroz Shah Kotla,7,Canada
+266,43.5,0,H Osinde,2011-03-07,1st,TM Odoyo,39,,NN Odhiambo,4,Canada,Kenya,171,Kenya,Feroz Shah Kotla,7,Canada
+267,43.6,0,H Osinde,2011-03-07,1st,TM Odoyo,39,NN Odhiambo,NN Odhiambo,4,Canada,Kenya,171,Kenya,Feroz Shah Kotla,8,Canada
+268,44.1,1,JM Davison,2011-03-07,1st,E Otieno,0,,TM Odoyo,40,Canada,Kenya,172,Kenya,Feroz Shah Kotla,8,Canada
+269,44.2,0,JM Davison,2011-03-07,1st,TM Odoyo,40,,E Otieno,0,Canada,Kenya,172,Kenya,Feroz Shah Kotla,8,Canada
+270,44.3,0,JM Davison,2011-03-07,1st,TM Odoyo,40,,E Otieno,0,Canada,Kenya,172,Kenya,Feroz Shah Kotla,8,Canada
+271,44.4,0,JM Davison,2011-03-07,1st,TM Odoyo,40,,E Otieno,0,Canada,Kenya,172,Kenya,Feroz Shah Kotla,8,Canada
+272,44.5,1,JM Davison,2011-03-07,1st,TM Odoyo,40,,E Otieno,1,Canada,Kenya,173,Kenya,Feroz Shah Kotla,8,Canada
+273,44.6,6,JM Davison,2011-03-07,1st,E Otieno,1,,TM Odoyo,46,Canada,Kenya,179,Kenya,Feroz Shah Kotla,8,Canada
+274,45.1,0,HS Baidwan,2011-03-07,1st,TM Odoyo,46,,E Otieno,1,Canada,Kenya,180,Kenya,Feroz Shah Kotla,8,Canada
+275,45.2,1,HS Baidwan,2011-03-07,1st,TM Odoyo,46,,E Otieno,2,Canada,Kenya,181,Kenya,Feroz Shah Kotla,8,Canada
+276,45.3,0,HS Baidwan,2011-03-07,1st,E Otieno,2,,TM Odoyo,46,Canada,Kenya,182,Kenya,Feroz Shah Kotla,8,Canada
+277,45.4,0,HS Baidwan,2011-03-07,1st,TM Odoyo,46,,E Otieno,2,Canada,Kenya,182,Kenya,Feroz Shah Kotla,8,Canada
+278,45.5,0,HS Baidwan,2011-03-07,1st,TM Odoyo,46,,E Otieno,2,Canada,Kenya,182,Kenya,Feroz Shah Kotla,8,Canada
+279,45.6,0,HS Baidwan,2011-03-07,1st,TM Odoyo,46,,E Otieno,2,Canada,Kenya,183,Kenya,Feroz Shah Kotla,8,Canada
+280,45.7,0,HS Baidwan,2011-03-07,1st,E Otieno,2,,TM Odoyo,46,Canada,Kenya,183,Kenya,Feroz Shah Kotla,8,Canada
+281,46.1,0,Rizwan Cheema,2011-03-07,1st,TM Odoyo,46,,E Otieno,2,Canada,Kenya,183,Kenya,Feroz Shah Kotla,8,Canada
+282,46.2,0,Rizwan Cheema,2011-03-07,1st,TM Odoyo,46,,E Otieno,2,Canada,Kenya,183,Kenya,Feroz Shah Kotla,8,Canada
+283,46.3,1,Rizwan Cheema,2011-03-07,1st,TM Odoyo,46,,E Otieno,3,Canada,Kenya,184,Kenya,Feroz Shah Kotla,8,Canada
+284,46.4,0,Rizwan Cheema,2011-03-07,1st,E Otieno,3,,TM Odoyo,46,Canada,Kenya,184,Kenya,Feroz Shah Kotla,8,Canada
+285,46.5,0,Rizwan Cheema,2011-03-07,1st,E Otieno,3,,TM Odoyo,46,Canada,Kenya,184,Kenya,Feroz Shah Kotla,8,Canada
+286,46.6,1,Rizwan Cheema,2011-03-07,1st,E Otieno,3,,TM Odoyo,47,Canada,Kenya,185,Kenya,Feroz Shah Kotla,8,Canada
+287,47.1,0,HS Baidwan,2011-03-07,1st,E Otieno,3,,TM Odoyo,47,Canada,Kenya,186,Kenya,Feroz Shah Kotla,8,Canada
+288,47.2,1,HS Baidwan,2011-03-07,1st,TM Odoyo,47,,E Otieno,4,Canada,Kenya,187,Kenya,Feroz Shah Kotla,8,Canada
+289,47.3,0,HS Baidwan,2011-03-07,1st,E Otieno,4,,TM Odoyo,47,Canada,Kenya,187,Kenya,Feroz Shah Kotla,8,Canada
+290,47.4,0,HS Baidwan,2011-03-07,1st,E Otieno,4,,TM Odoyo,47,Canada,Kenya,187,Kenya,Feroz Shah Kotla,8,Canada
+291,47.5,1,HS Baidwan,2011-03-07,1st,E Otieno,4,,TM Odoyo,48,Canada,Kenya,188,Kenya,Feroz Shah Kotla,8,Canada
+292,47.6,0,HS Baidwan,2011-03-07,1st,TM Odoyo,48,,E Otieno,4,Canada,Kenya,188,Kenya,Feroz Shah Kotla,8,Canada
+293,48.1,0,Rizwan Cheema,2011-03-07,1st,E Otieno,4,,TM Odoyo,48,Canada,Kenya,188,Kenya,Feroz Shah Kotla,8,Canada
+294,48.2,1,Rizwan Cheema,2011-03-07,1st,E Otieno,4,,TM Odoyo,49,Canada,Kenya,189,Kenya,Feroz Shah Kotla,8,Canada
+295,48.3,0,Rizwan Cheema,2011-03-07,1st,TM Odoyo,49,,E Otieno,4,Canada,Kenya,189,Kenya,Feroz Shah Kotla,8,Canada
+296,48.4,4,Rizwan Cheema,2011-03-07,1st,TM Odoyo,49,,E Otieno,8,Canada,Kenya,193,Kenya,Feroz Shah Kotla,8,Canada
+297,48.5,0,Rizwan Cheema,2011-03-07,1st,TM Odoyo,49,,E Otieno,8,Canada,Kenya,193,Kenya,Feroz Shah Kotla,8,Canada
+298,48.6,0,Rizwan Cheema,2011-03-07,1st,TM Odoyo,49,E Otieno,E Otieno,8,Canada,Kenya,193,Kenya,Feroz Shah Kotla,9,Canada
+299,49.1,1,HS Baidwan,2011-03-07,1st,JO Ngoche,0,,TM Odoyo,50,Canada,Kenya,194,Kenya,Feroz Shah Kotla,9,Canada
+300,49.2,0,HS Baidwan,2011-03-07,1st,TM Odoyo,50,,JO Ngoche,0,Canada,Kenya,195,Kenya,Feroz Shah Kotla,9,Canada
+301,49.3,1,HS Baidwan,2011-03-07,1st,JO Ngoche,0,,TM Odoyo,51,Canada,Kenya,196,Kenya,Feroz Shah Kotla,9,Canada
+302,49.4,0,HS Baidwan,2011-03-07,1st,TM Odoyo,51,,JO Ngoche,0,Canada,Kenya,197,Kenya,Feroz Shah Kotla,9,Canada
+303,49.5,0,HS Baidwan,2011-03-07,1st,TM Odoyo,51,,JO Ngoche,0,Canada,Kenya,197,Kenya,Feroz Shah Kotla,9,Canada
+304,49.6,1,HS Baidwan,2011-03-07,1st,TM Odoyo,51,,JO Ngoche,1,Canada,Kenya,198,Kenya,Feroz Shah Kotla,9,Canada
+305,49.7,0,HS Baidwan,2011-03-07,1st,JO Ngoche,1,TM Odoyo,TM Odoyo,51,Canada,Kenya,198,Kenya,Feroz Shah Kotla,10,Canada
+306,0.1,1,TM Odoyo,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,1,Kenya,Feroz Shah Kotla,0,Canada
+307,0.2,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,1,Kenya,Feroz Shah Kotla,0,Canada
+308,0.3,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,1,Kenya,Feroz Shah Kotla,0,Canada
+309,0.4,2,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,3,Kenya,Feroz Shah Kotla,0,Canada
+310,0.5,4,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,0,Canada
+311,0.6,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,0,Canada
+312,1.1,0,E Otieno,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,0,Canada
+313,1.2,0,E Otieno,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,0,Canada
+314,1.3,0,E Otieno,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,0,Canada
+315,1.4,0,E Otieno,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,0,Canada
+316,1.5,0,E Otieno,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,7,Kenya,Feroz Shah Kotla,0,Canada
+317,1.6,0,E Otieno,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,8,Kenya,Feroz Shah Kotla,0,Canada
+318,1.7,0,E Otieno,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,8,Kenya,Feroz Shah Kotla,0,Canada
+319,2.1,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,8,Kenya,Feroz Shah Kotla,0,Canada
+320,2.2,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,8,Kenya,Feroz Shah Kotla,0,Canada
+321,2.3,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,8,Kenya,Feroz Shah Kotla,0,Canada
+322,2.4,1,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,9,Kenya,Feroz Shah Kotla,0,Canada
+323,2.5,0,TM Odoyo,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,9,Kenya,Feroz Shah Kotla,0,Canada
+324,2.6,0,TM Odoyo,2011-03-07,2nd,Rizwan Cheema,0,,R Gunasekera,0,Canada,Kenya,9,Kenya,Feroz Shah Kotla,0,Canada
+325,3.1,6,E Otieno,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,15,Kenya,Feroz Shah Kotla,0,Canada
+326,3.2,4,E Otieno,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,19,Kenya,Feroz Shah Kotla,0,Canada
+327,3.3,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,19,Kenya,Feroz Shah Kotla,0,Canada
+328,3.4,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,Rizwan Cheema,0,Canada,Kenya,19,Kenya,Feroz Shah Kotla,1,Canada
+329,3.5,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,19,Kenya,Feroz Shah Kotla,1,Canada
+330,3.6,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,19,Kenya,Feroz Shah Kotla,1,Canada
+331,4.1,0,TM Odoyo,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,19,Kenya,Feroz Shah Kotla,1,Canada
+332,4.2,1,TM Odoyo,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,20,Kenya,Feroz Shah Kotla,1,Canada
+333,4.3,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,20,Kenya,Feroz Shah Kotla,1,Canada
+334,4.4,2,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,22,Kenya,Feroz Shah Kotla,1,Canada
+335,4.5,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,22,Kenya,Feroz Shah Kotla,1,Canada
+336,4.6,1,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,23,Kenya,Feroz Shah Kotla,1,Canada
+337,5.1,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,23,Kenya,Feroz Shah Kotla,1,Canada
+338,5.2,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,23,Kenya,Feroz Shah Kotla,1,Canada
+339,5.3,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,23,Kenya,Feroz Shah Kotla,1,Canada
+340,5.4,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,23,Kenya,Feroz Shah Kotla,1,Canada
+341,5.5,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,23,Kenya,Feroz Shah Kotla,1,Canada
+342,5.6,1,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,24,Kenya,Feroz Shah Kotla,1,Canada
+343,6.1,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,24,Kenya,Feroz Shah Kotla,1,Canada
+344,6.2,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,24,Kenya,Feroz Shah Kotla,1,Canada
+345,6.3,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,24,Kenya,Feroz Shah Kotla,1,Canada
+346,6.4,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,24,Kenya,Feroz Shah Kotla,1,Canada
+347,6.5,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,24,Kenya,Feroz Shah Kotla,1,Canada
+348,6.6,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,24,Kenya,Feroz Shah Kotla,1,Canada
+349,7.1,1,E Otieno,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,25,Kenya,Feroz Shah Kotla,1,Canada
+350,7.2,1,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,26,Kenya,Feroz Shah Kotla,1,Canada
+351,7.3,0,E Otieno,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,26,Kenya,Feroz Shah Kotla,1,Canada
+352,7.4,0,E Otieno,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,26,Kenya,Feroz Shah Kotla,1,Canada
+353,7.5,0,E Otieno,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,26,Kenya,Feroz Shah Kotla,1,Canada
+354,7.6,4,E Otieno,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,30,Kenya,Feroz Shah Kotla,1,Canada
+355,8.1,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,30,Kenya,Feroz Shah Kotla,1,Canada
+356,8.2,0,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,30,Kenya,Feroz Shah Kotla,1,Canada
+357,8.3,1,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,31,Kenya,Feroz Shah Kotla,1,Canada
+358,8.4,0,TM Odoyo,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,31,Kenya,Feroz Shah Kotla,1,Canada
+359,8.5,1,TM Odoyo,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,32,Kenya,Feroz Shah Kotla,1,Canada
+360,8.6,4,TM Odoyo,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,36,Kenya,Feroz Shah Kotla,1,Canada
+361,9.1,0,E Otieno,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,36,Kenya,Feroz Shah Kotla,1,Canada
+362,9.2,1,E Otieno,2011-03-07,2nd,ZE Surkari,0,,R Gunasekera,0,Canada,Kenya,37,Kenya,Feroz Shah Kotla,1,Canada
+363,9.3,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,37,Kenya,Feroz Shah Kotla,1,Canada
+364,9.4,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,37,Kenya,Feroz Shah Kotla,1,Canada
+365,9.5,0,E Otieno,2011-03-07,2nd,R Gunasekera,0,,ZE Surkari,0,Canada,Kenya,37,Kenya,Feroz Shah Kotla,2,Canada
+366,9.6,4,E Otieno,2011-03-07,2nd,A Bagai,0,,R Gunasekera,0,Canada,Kenya,41,Kenya,Feroz Shah Kotla,2,Canada
+367,10.1,1,NN Odhiambo,2011-03-07,2nd,R Gunasekera,0,,A Bagai,0,Canada,Kenya,42,Kenya,Feroz Shah Kotla,2,Canada
+368,10.2,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,R Gunasekera,0,Canada,Kenya,42,Kenya,Feroz Shah Kotla,2,Canada
+369,10.3,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,R Gunasekera,0,Canada,Kenya,42,Kenya,Feroz Shah Kotla,2,Canada
+370,10.4,4,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,R Gunasekera,0,Canada,Kenya,46,Kenya,Feroz Shah Kotla,2,Canada
+371,10.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,R Gunasekera,0,Canada,Kenya,46,Kenya,Feroz Shah Kotla,2,Canada
+372,10.6,1,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,R Gunasekera,0,Canada,Kenya,47,Kenya,Feroz Shah Kotla,2,Canada
+373,11.1,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,R Gunasekera,0,Canada,Kenya,48,Kenya,Feroz Shah Kotla,3,Canada
+374,11.2,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,48,Kenya,Feroz Shah Kotla,3,Canada
+375,11.3,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,48,Kenya,Feroz Shah Kotla,3,Canada
+376,11.4,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,48,Kenya,Feroz Shah Kotla,3,Canada
+377,11.5,4,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,52,Kenya,Feroz Shah Kotla,3,Canada
+378,11.6,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,52,Kenya,Feroz Shah Kotla,3,Canada
+379,11.7,4,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,56,Kenya,Feroz Shah Kotla,3,Canada
+380,12.1,4,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+381,12.2,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+382,12.3,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+383,12.4,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+384,12.5,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+385,12.6,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+386,13.1,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+387,13.2,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+388,13.3,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+389,13.4,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,60,Kenya,Feroz Shah Kotla,3,Canada
+390,13.5,1,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,61,Kenya,Feroz Shah Kotla,3,Canada
+391,13.6,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,61,Kenya,Feroz Shah Kotla,3,Canada
+392,14.1,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,61,Kenya,Feroz Shah Kotla,3,Canada
+393,14.2,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,61,Kenya,Feroz Shah Kotla,3,Canada
+394,14.3,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,61,Kenya,Feroz Shah Kotla,3,Canada
+395,14.4,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,61,Kenya,Feroz Shah Kotla,3,Canada
+396,14.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,61,Kenya,Feroz Shah Kotla,3,Canada
+397,14.6,4,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+398,15.1,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+399,15.2,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+400,15.3,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+401,15.4,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+402,15.5,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+403,15.6,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+404,16.1,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,65,Kenya,Feroz Shah Kotla,3,Canada
+405,16.2,1,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,66,Kenya,Feroz Shah Kotla,3,Canada
+406,16.3,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,66,Kenya,Feroz Shah Kotla,3,Canada
+407,16.4,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,66,Kenya,Feroz Shah Kotla,3,Canada
+408,16.5,1,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,67,Kenya,Feroz Shah Kotla,3,Canada
+409,16.6,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,67,Kenya,Feroz Shah Kotla,3,Canada
+410,17.1,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,67,Kenya,Feroz Shah Kotla,3,Canada
+411,17.2,1,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,68,Kenya,Feroz Shah Kotla,3,Canada
+412,17.3,4,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,72,Kenya,Feroz Shah Kotla,3,Canada
+413,17.4,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,72,Kenya,Feroz Shah Kotla,3,Canada
+414,17.5,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,72,Kenya,Feroz Shah Kotla,3,Canada
+415,17.6,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,72,Kenya,Feroz Shah Kotla,3,Canada
+416,18.1,1,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,73,Kenya,Feroz Shah Kotla,3,Canada
+417,18.2,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,73,Kenya,Feroz Shah Kotla,3,Canada
+418,18.3,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,73,Kenya,Feroz Shah Kotla,3,Canada
+419,18.4,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,73,Kenya,Feroz Shah Kotla,3,Canada
+420,18.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,73,Kenya,Feroz Shah Kotla,3,Canada
+421,18.6,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,73,Kenya,Feroz Shah Kotla,3,Canada
+422,19.1,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,74,Kenya,Feroz Shah Kotla,3,Canada
+423,19.2,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,74,Kenya,Feroz Shah Kotla,3,Canada
+424,19.3,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,74,Kenya,Feroz Shah Kotla,3,Canada
+425,19.4,1,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,75,Kenya,Feroz Shah Kotla,3,Canada
+426,19.5,0,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,75,Kenya,Feroz Shah Kotla,3,Canada
+427,19.6,0,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,75,Kenya,Feroz Shah Kotla,3,Canada
+428,20.1,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,76,Kenya,Feroz Shah Kotla,3,Canada
+429,20.2,1,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,77,Kenya,Feroz Shah Kotla,3,Canada
+430,20.3,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,77,Kenya,Feroz Shah Kotla,3,Canada
+431,20.4,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,77,Kenya,Feroz Shah Kotla,3,Canada
+432,20.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,77,Kenya,Feroz Shah Kotla,3,Canada
+433,20.6,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,77,Kenya,Feroz Shah Kotla,3,Canada
+434,21.1,0,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,77,Kenya,Feroz Shah Kotla,3,Canada
+435,21.2,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,78,Kenya,Feroz Shah Kotla,3,Canada
+436,21.3,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,78,Kenya,Feroz Shah Kotla,3,Canada
+437,21.4,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,78,Kenya,Feroz Shah Kotla,3,Canada
+438,21.5,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,83,Kenya,Feroz Shah Kotla,3,Canada
+439,21.6,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,83,Kenya,Feroz Shah Kotla,3,Canada
+440,21.7,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,83,Kenya,Feroz Shah Kotla,3,Canada
+441,22.1,1,CO Obuya,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,84,Kenya,Feroz Shah Kotla,3,Canada
+442,22.2,0,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,84,Kenya,Feroz Shah Kotla,3,Canada
+443,22.3,0,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,84,Kenya,Feroz Shah Kotla,3,Canada
+444,22.4,2,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,86,Kenya,Feroz Shah Kotla,3,Canada
+445,22.5,1,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,87,Kenya,Feroz Shah Kotla,3,Canada
+446,22.6,0,CO Obuya,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,88,Kenya,Feroz Shah Kotla,3,Canada
+447,22.7,1,CO Obuya,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,89,Kenya,Feroz Shah Kotla,3,Canada
+448,23.1,0,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,89,Kenya,Feroz Shah Kotla,3,Canada
+449,23.2,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,90,Kenya,Feroz Shah Kotla,3,Canada
+450,23.3,1,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,91,Kenya,Feroz Shah Kotla,3,Canada
+451,23.4,0,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,91,Kenya,Feroz Shah Kotla,3,Canada
+452,23.5,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,92,Kenya,Feroz Shah Kotla,3,Canada
+453,23.6,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,92,Kenya,Feroz Shah Kotla,3,Canada
+454,24.1,1,CO Obuya,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,93,Kenya,Feroz Shah Kotla,3,Canada
+455,24.2,2,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,95,Kenya,Feroz Shah Kotla,3,Canada
+456,24.3,1,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,96,Kenya,Feroz Shah Kotla,3,Canada
+457,24.4,1,CO Obuya,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,97,Kenya,Feroz Shah Kotla,3,Canada
+458,24.5,2,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,99,Kenya,Feroz Shah Kotla,3,Canada
+459,24.6,2,CO Obuya,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,101,Kenya,Feroz Shah Kotla,3,Canada
+460,25.1,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,102,Kenya,Feroz Shah Kotla,3,Canada
+461,25.2,1,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,103,Kenya,Feroz Shah Kotla,3,Canada
+462,25.3,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,104,Kenya,Feroz Shah Kotla,3,Canada
+463,25.4,1,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,105,Kenya,Feroz Shah Kotla,3,Canada
+464,25.5,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,106,Kenya,Feroz Shah Kotla,3,Canada
+465,25.6,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,106,Kenya,Feroz Shah Kotla,3,Canada
+466,26.1,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,106,Kenya,Feroz Shah Kotla,3,Canada
+467,26.2,1,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,107,Kenya,Feroz Shah Kotla,3,Canada
+468,26.3,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,107,Kenya,Feroz Shah Kotla,3,Canada
+469,26.4,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,107,Kenya,Feroz Shah Kotla,3,Canada
+470,26.5,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,107,Kenya,Feroz Shah Kotla,3,Canada
+471,26.6,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,107,Kenya,Feroz Shah Kotla,3,Canada
+472,27.1,0,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,107,Kenya,Feroz Shah Kotla,3,Canada
+473,27.2,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,108,Kenya,Feroz Shah Kotla,3,Canada
+474,27.3,6,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,114,Kenya,Feroz Shah Kotla,3,Canada
+475,27.4,1,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,115,Kenya,Feroz Shah Kotla,3,Canada
+476,27.5,1,JK Kamande,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,116,Kenya,Feroz Shah Kotla,3,Canada
+477,27.6,0,JK Kamande,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,116,Kenya,Feroz Shah Kotla,3,Canada
+478,28.1,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,116,Kenya,Feroz Shah Kotla,3,Canada
+479,28.2,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,116,Kenya,Feroz Shah Kotla,3,Canada
+480,28.3,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,116,Kenya,Feroz Shah Kotla,3,Canada
+481,28.4,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,116,Kenya,Feroz Shah Kotla,3,Canada
+482,28.5,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,116,Kenya,Feroz Shah Kotla,3,Canada
+483,28.6,1,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+484,29.1,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+485,29.2,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+486,29.3,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+487,29.4,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+488,29.5,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+489,29.6,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+490,30.1,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+491,30.2,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,117,Kenya,Feroz Shah Kotla,3,Canada
+492,30.3,1,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,118,Kenya,Feroz Shah Kotla,3,Canada
+493,30.4,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,118,Kenya,Feroz Shah Kotla,3,Canada
+494,30.5,2,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,120,Kenya,Feroz Shah Kotla,3,Canada
+495,30.6,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,120,Kenya,Feroz Shah Kotla,3,Canada
+496,31.1,6,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,126,Kenya,Feroz Shah Kotla,3,Canada
+497,31.2,1,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,127,Kenya,Feroz Shah Kotla,3,Canada
+498,31.3,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,127,Kenya,Feroz Shah Kotla,3,Canada
+499,31.4,3,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,130,Kenya,Feroz Shah Kotla,3,Canada
+500,31.5,0,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,130,Kenya,Feroz Shah Kotla,3,Canada
+501,31.6,1,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,131,Kenya,Feroz Shah Kotla,3,Canada
+502,32.1,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,131,Kenya,Feroz Shah Kotla,3,Canada
+503,32.2,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,131,Kenya,Feroz Shah Kotla,3,Canada
+504,32.3,1,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,132,Kenya,Feroz Shah Kotla,3,Canada
+505,32.4,2,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,134,Kenya,Feroz Shah Kotla,3,Canada
+506,32.5,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,134,Kenya,Feroz Shah Kotla,3,Canada
+507,32.6,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,134,Kenya,Feroz Shah Kotla,3,Canada
+508,33.1,0,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,134,Kenya,Feroz Shah Kotla,3,Canada
+509,33.2,0,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,134,Kenya,Feroz Shah Kotla,3,Canada
+510,33.3,1,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,135,Kenya,Feroz Shah Kotla,3,Canada
+511,33.4,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,135,Kenya,Feroz Shah Kotla,3,Canada
+512,33.5,1,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,136,Kenya,Feroz Shah Kotla,3,Canada
+513,33.6,0,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,136,Kenya,Feroz Shah Kotla,3,Canada
+514,34.1,4,E Otieno,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,140,Kenya,Feroz Shah Kotla,3,Canada
+515,34.2,0,E Otieno,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,140,Kenya,Feroz Shah Kotla,3,Canada
+516,34.3,1,E Otieno,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,141,Kenya,Feroz Shah Kotla,3,Canada
+517,34.4,0,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,142,Kenya,Feroz Shah Kotla,3,Canada
+518,34.5,0,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,142,Kenya,Feroz Shah Kotla,3,Canada
+519,34.6,0,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,142,Kenya,Feroz Shah Kotla,3,Canada
+520,34.7,0,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,142,Kenya,Feroz Shah Kotla,3,Canada
+521,35.1,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,142,Kenya,Feroz Shah Kotla,3,Canada
+522,35.2,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,142,Kenya,Feroz Shah Kotla,3,Canada
+523,35.3,1,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,143,Kenya,Feroz Shah Kotla,3,Canada
+524,35.4,0,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,143,Kenya,Feroz Shah Kotla,3,Canada
+525,35.5,1,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,144,Kenya,Feroz Shah Kotla,3,Canada
+526,35.6,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,144,Kenya,Feroz Shah Kotla,3,Canada
+527,36.1,0,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,144,Kenya,Feroz Shah Kotla,3,Canada
+528,36.2,0,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,144,Kenya,Feroz Shah Kotla,3,Canada
+529,36.3,1,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,145,Kenya,Feroz Shah Kotla,3,Canada
+530,36.4,1,E Otieno,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,146,Kenya,Feroz Shah Kotla,3,Canada
+531,36.5,1,E Otieno,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,147,Kenya,Feroz Shah Kotla,3,Canada
+532,36.6,0,E Otieno,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,147,Kenya,Feroz Shah Kotla,3,Canada
+533,37.1,1,SO Tikolo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,148,Kenya,Feroz Shah Kotla,3,Canada
+534,37.2,4,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,152,Kenya,Feroz Shah Kotla,3,Canada
+535,37.3,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,152,Kenya,Feroz Shah Kotla,3,Canada
+536,37.4,4,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,156,Kenya,Feroz Shah Kotla,3,Canada
+537,37.5,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,156,Kenya,Feroz Shah Kotla,3,Canada
+538,37.6,0,SO Tikolo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,156,Kenya,Feroz Shah Kotla,3,Canada
+539,38.1,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,156,Kenya,Feroz Shah Kotla,3,Canada
+540,38.2,2,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,158,Kenya,Feroz Shah Kotla,3,Canada
+541,38.3,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,158,Kenya,Feroz Shah Kotla,3,Canada
+542,38.4,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,158,Kenya,Feroz Shah Kotla,3,Canada
+543,38.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,158,Kenya,Feroz Shah Kotla,3,Canada
+544,38.6,4,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,162,Kenya,Feroz Shah Kotla,3,Canada
+545,39.1,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,162,Kenya,Feroz Shah Kotla,3,Canada
+546,39.2,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,162,Kenya,Feroz Shah Kotla,3,Canada
+547,39.3,1,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,163,Kenya,Feroz Shah Kotla,3,Canada
+548,39.4,1,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,164,Kenya,Feroz Shah Kotla,3,Canada
+549,39.5,1,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,165,Kenya,Feroz Shah Kotla,3,Canada
+550,39.6,0,JO Ngoche,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,165,Kenya,Feroz Shah Kotla,3,Canada
+551,40.1,4,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,169,Kenya,Feroz Shah Kotla,3,Canada
+552,40.2,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,169,Kenya,Feroz Shah Kotla,3,Canada
+553,40.3,0,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,169,Kenya,Feroz Shah Kotla,3,Canada
+554,40.4,1,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,170,Kenya,Feroz Shah Kotla,3,Canada
+555,40.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,170,Kenya,Feroz Shah Kotla,3,Canada
+556,40.6,4,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,174,Kenya,Feroz Shah Kotla,3,Canada
+557,41.1,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,174,Kenya,Feroz Shah Kotla,3,Canada
+558,41.2,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,174,Kenya,Feroz Shah Kotla,3,Canada
+559,41.3,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,174,Kenya,Feroz Shah Kotla,3,Canada
+560,41.4,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,174,Kenya,Feroz Shah Kotla,3,Canada
+561,41.5,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,174,Kenya,Feroz Shah Kotla,3,Canada
+562,41.6,0,JO Ngoche,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,174,Kenya,Feroz Shah Kotla,3,Canada
+563,42.1,1,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,175,Kenya,Feroz Shah Kotla,3,Canada
+564,42.2,1,NN Odhiambo,2011-03-07,2nd,AS Hansra,0,,A Bagai,0,Canada,Kenya,176,Kenya,Feroz Shah Kotla,3,Canada
+565,42.3,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,176,Kenya,Feroz Shah Kotla,3,Canada
+566,42.4,4,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,180,Kenya,Feroz Shah Kotla,3,Canada
+567,42.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,AS Hansra,0,Canada,Kenya,180,Kenya,Feroz Shah Kotla,4,Canada
+568,42.6,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,180,Kenya,Feroz Shah Kotla,4,Canada
+569,43.1,1,E Otieno,2011-03-07,2nd,TG Gordon,0,,A Bagai,0,Canada,Kenya,181,Kenya,Feroz Shah Kotla,4,Canada
+570,43.2,0,E Otieno,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,181,Kenya,Feroz Shah Kotla,4,Canada
+571,43.3,0,E Otieno,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,181,Kenya,Feroz Shah Kotla,4,Canada
+572,43.4,0,E Otieno,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,182,Kenya,Feroz Shah Kotla,4,Canada
+573,43.5,0,E Otieno,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,183,Kenya,Feroz Shah Kotla,4,Canada
+574,43.6,0,E Otieno,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,183,Kenya,Feroz Shah Kotla,4,Canada
+575,43.7,0,E Otieno,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,183,Kenya,Feroz Shah Kotla,4,Canada
+576,43.8,1,E Otieno,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,184,Kenya,Feroz Shah Kotla,4,Canada
+577,44.1,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,184,Kenya,Feroz Shah Kotla,4,Canada
+578,44.2,2,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,186,Kenya,Feroz Shah Kotla,4,Canada
+579,44.3,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,186,Kenya,Feroz Shah Kotla,4,Canada
+580,44.4,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,186,Kenya,Feroz Shah Kotla,4,Canada
+581,44.5,0,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,TG Gordon,0,Canada,Kenya,186,Kenya,Feroz Shah Kotla,5,Canada
+582,44.6,4,NN Odhiambo,2011-03-07,2nd,A Bagai,0,,JM Davison,0,Canada,Kenya,190,Kenya,Feroz Shah Kotla,5,Canada
+583,45.1,4,E Otieno,2011-03-07,2nd,JM Davison,0,,A Bagai,0,Canada,Kenya,194,Kenya,Feroz Shah Kotla,5,Canada
+584,45.2,0,E Otieno,2011-03-07,2nd,JM Davison,0,,A Bagai,0,Canada,Kenya,194,Kenya,Feroz Shah Kotla,5,Canada
+585,45.3,0,E Otieno,2011-03-07,2nd,JM Davison,0,,A Bagai,0,Canada,Kenya,195,Kenya,Feroz Shah Kotla,5,Canada
+586,45.4,4,E Otieno,2011-03-07,2nd,JM Davison,0,,A Bagai,0,Canada,Kenya,199,Kenya,Feroz Shah Kotla,5,Canada

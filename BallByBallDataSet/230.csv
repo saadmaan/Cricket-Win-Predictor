@@ -1,0 +1,609 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,0,Pakistan,Green Park,0,India
+1,0.2,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,1,Pakistan,Green Park,0,India
+2,0.3,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,0,India,Pakistan,2,Pakistan,Green Park,0,India
+3,0.4,1,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,1,India,Pakistan,3,Pakistan,Green Park,0,India
+4,0.5,0,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,1,,SR Tendulkar,0,India,Pakistan,3,Pakistan,Green Park,0,India
+5,0.6,0,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,1,,SR Tendulkar,0,India,Pakistan,3,Pakistan,Green Park,0,India
+6,0.7,0,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,1,,SR Tendulkar,0,India,Pakistan,3,Pakistan,Green Park,0,India
+7,0.8,0,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,1,,SR Tendulkar,0,India,Pakistan,3,Pakistan,Green Park,0,India
+8,1.1,0,Umar Gul,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,1,India,Pakistan,3,Pakistan,Green Park,0,India
+9,1.2,0,Umar Gul,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,1,India,Pakistan,7,Pakistan,Green Park,0,India
+10,1.3,0,Umar Gul,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,1,India,Pakistan,7,Pakistan,Green Park,0,India
+11,1.4,1,Umar Gul,2007-11-11,1st,SR Tendulkar,0,,SC Ganguly,2,India,Pakistan,8,Pakistan,Green Park,0,India
+12,1.5,4,Umar Gul,2007-11-11,1st,SC Ganguly,2,,SR Tendulkar,4,India,Pakistan,12,Pakistan,Green Park,0,India
+13,1.6,4,Umar Gul,2007-11-11,1st,SC Ganguly,2,,SR Tendulkar,8,India,Pakistan,16,Pakistan,Green Park,0,India
+14,2.1,4,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,8,,SC Ganguly,6,India,Pakistan,20,Pakistan,Green Park,0,India
+15,2.2,1,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,8,,SC Ganguly,7,India,Pakistan,21,Pakistan,Green Park,0,India
+16,2.3,4,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,7,,SR Tendulkar,12,India,Pakistan,25,Pakistan,Green Park,0,India
+17,2.4,0,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,7,,SR Tendulkar,12,India,Pakistan,25,Pakistan,Green Park,0,India
+18,2.5,0,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,7,,SR Tendulkar,12,India,Pakistan,25,Pakistan,Green Park,0,India
+19,2.6,0,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,7,,SR Tendulkar,12,India,Pakistan,25,Pakistan,Green Park,0,India
+20,3.1,0,Umar Gul,2007-11-11,1st,SR Tendulkar,12,,SC Ganguly,7,India,Pakistan,25,Pakistan,Green Park,0,India
+21,3.2,2,Umar Gul,2007-11-11,1st,SR Tendulkar,12,,SC Ganguly,9,India,Pakistan,27,Pakistan,Green Park,0,India
+22,3.3,4,Umar Gul,2007-11-11,1st,SR Tendulkar,12,,SC Ganguly,13,India,Pakistan,31,Pakistan,Green Park,0,India
+23,3.4,0,Umar Gul,2007-11-11,1st,SR Tendulkar,12,,SC Ganguly,13,India,Pakistan,31,Pakistan,Green Park,0,India
+24,3.5,0,Umar Gul,2007-11-11,1st,SR Tendulkar,12,,SC Ganguly,13,India,Pakistan,31,Pakistan,Green Park,0,India
+25,3.6,0,Umar Gul,2007-11-11,1st,SR Tendulkar,12,,SC Ganguly,13,India,Pakistan,31,Pakistan,Green Park,0,India
+26,4.1,1,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,13,,SR Tendulkar,13,India,Pakistan,32,Pakistan,Green Park,0,India
+27,4.2,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,13,India,Pakistan,32,Pakistan,Green Park,0,India
+28,4.3,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,13,India,Pakistan,32,Pakistan,Green Park,0,India
+29,4.4,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,13,India,Pakistan,33,Pakistan,Green Park,0,India
+30,4.5,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,13,India,Pakistan,35,Pakistan,Green Park,0,India
+31,4.6,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,13,India,Pakistan,35,Pakistan,Green Park,0,India
+32,4.7,1,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,14,India,Pakistan,36,Pakistan,Green Park,0,India
+33,5.1,0,Umar Gul,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,14,India,Pakistan,36,Pakistan,Green Park,0,India
+34,5.2,0,Umar Gul,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,14,India,Pakistan,36,Pakistan,Green Park,0,India
+35,5.3,6,Umar Gul,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,20,India,Pakistan,42,Pakistan,Green Park,0,India
+36,5.4,3,Umar Gul,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,23,India,Pakistan,45,Pakistan,Green Park,0,India
+37,5.5,0,Umar Gul,2007-11-11,1st,SC Ganguly,23,,SR Tendulkar,13,India,Pakistan,45,Pakistan,Green Park,0,India
+38,5.6,0,Umar Gul,2007-11-11,1st,SC Ganguly,23,,SR Tendulkar,13,India,Pakistan,45,Pakistan,Green Park,0,India
+39,6.1,1,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,13,,SC Ganguly,24,India,Pakistan,46,Pakistan,Green Park,0,India
+40,6.2,1,Shoaib Akhtar,2007-11-11,1st,SC Ganguly,24,,SR Tendulkar,14,India,Pakistan,47,Pakistan,Green Park,0,India
+41,6.3,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,14,,SC Ganguly,24,India,Pakistan,47,Pakistan,Green Park,0,India
+42,6.4,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,14,,SC Ganguly,24,India,Pakistan,47,Pakistan,Green Park,0,India
+43,6.5,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,14,,SC Ganguly,24,India,Pakistan,47,Pakistan,Green Park,0,India
+44,6.6,0,Shoaib Akhtar,2007-11-11,1st,SR Tendulkar,14,,SC Ganguly,24,India,Pakistan,47,Pakistan,Green Park,0,India
+45,7.1,4,Umar Gul,2007-11-11,1st,SC Ganguly,24,,SR Tendulkar,18,India,Pakistan,51,Pakistan,Green Park,0,India
+46,7.2,4,Umar Gul,2007-11-11,1st,SC Ganguly,24,,SR Tendulkar,22,India,Pakistan,55,Pakistan,Green Park,0,India
+47,7.3,0,Umar Gul,2007-11-11,1st,SC Ganguly,24,,SR Tendulkar,22,India,Pakistan,55,Pakistan,Green Park,0,India
+48,7.4,1,Umar Gul,2007-11-11,1st,SC Ganguly,24,,SR Tendulkar,23,India,Pakistan,56,Pakistan,Green Park,0,India
+49,7.5,0,Umar Gul,2007-11-11,1st,SR Tendulkar,23,,SC Ganguly,24,India,Pakistan,56,Pakistan,Green Park,0,India
+50,7.6,4,Umar Gul,2007-11-11,1st,SR Tendulkar,23,,SC Ganguly,28,India,Pakistan,60,Pakistan,Green Park,0,India
+51,8.1,0,Sohail Tanvir,2007-11-11,1st,SC Ganguly,28,,SR Tendulkar,23,India,Pakistan,60,Pakistan,Green Park,0,India
+52,8.2,0,Sohail Tanvir,2007-11-11,1st,SC Ganguly,28,,SR Tendulkar,23,India,Pakistan,60,Pakistan,Green Park,0,India
+53,8.3,3,Sohail Tanvir,2007-11-11,1st,SC Ganguly,28,,SR Tendulkar,26,India,Pakistan,63,Pakistan,Green Park,0,India
+54,8.4,0,Sohail Tanvir,2007-11-11,1st,SR Tendulkar,26,,SC Ganguly,28,India,Pakistan,63,Pakistan,Green Park,0,India
+55,8.5,0,Sohail Tanvir,2007-11-11,1st,SR Tendulkar,26,,SC Ganguly,28,India,Pakistan,63,Pakistan,Green Park,0,India
+56,8.6,0,Sohail Tanvir,2007-11-11,1st,SR Tendulkar,26,,SC Ganguly,28,India,Pakistan,63,Pakistan,Green Park,0,India
+57,9.1,2,Umar Gul,2007-11-11,1st,SC Ganguly,28,,SR Tendulkar,28,India,Pakistan,65,Pakistan,Green Park,0,India
+58,9.2,1,Umar Gul,2007-11-11,1st,SC Ganguly,28,,SR Tendulkar,29,India,Pakistan,66,Pakistan,Green Park,0,India
+59,9.3,1,Umar Gul,2007-11-11,1st,SR Tendulkar,29,,SC Ganguly,29,India,Pakistan,67,Pakistan,Green Park,0,India
+60,9.4,0,Umar Gul,2007-11-11,1st,SC Ganguly,29,,SR Tendulkar,29,India,Pakistan,67,Pakistan,Green Park,0,India
+61,9.5,0,Umar Gul,2007-11-11,1st,SC Ganguly,29,,SR Tendulkar,29,India,Pakistan,67,Pakistan,Green Park,0,India
+62,9.6,0,Umar Gul,2007-11-11,1st,SC Ganguly,29,,SR Tendulkar,29,India,Pakistan,67,Pakistan,Green Park,0,India
+63,10.1,0,Sohail Tanvir,2007-11-11,1st,SR Tendulkar,29,,SC Ganguly,29,India,Pakistan,67,Pakistan,Green Park,0,India
+64,10.2,0,Sohail Tanvir,2007-11-11,1st,SR Tendulkar,29,,SC Ganguly,29,India,Pakistan,67,Pakistan,Green Park,0,India
+65,10.3,1,Sohail Tanvir,2007-11-11,1st,SR Tendulkar,29,,SC Ganguly,30,India,Pakistan,68,Pakistan,Green Park,0,India
+66,10.4,0,Sohail Tanvir,2007-11-11,1st,SC Ganguly,30,SR Tendulkar,SR Tendulkar,29,India,Pakistan,68,Pakistan,Green Park,1,India
+67,10.5,0,Sohail Tanvir,2007-11-11,1st,SC Ganguly,30,,G Gambhir,0,India,Pakistan,68,Pakistan,Green Park,1,India
+68,10.6,0,Sohail Tanvir,2007-11-11,1st,SC Ganguly,30,,G Gambhir,0,India,Pakistan,68,Pakistan,Green Park,1,India
+69,11.1,0,Umar Gul,2007-11-11,1st,G Gambhir,0,,SC Ganguly,30,India,Pakistan,68,Pakistan,Green Park,1,India
+70,11.2,0,Umar Gul,2007-11-11,1st,G Gambhir,0,,SC Ganguly,30,India,Pakistan,69,Pakistan,Green Park,1,India
+71,11.3,0,Umar Gul,2007-11-11,1st,G Gambhir,0,,SC Ganguly,30,India,Pakistan,69,Pakistan,Green Park,1,India
+72,11.4,4,Umar Gul,2007-11-11,1st,G Gambhir,0,,SC Ganguly,34,India,Pakistan,73,Pakistan,Green Park,1,India
+73,11.5,1,Umar Gul,2007-11-11,1st,G Gambhir,0,,SC Ganguly,35,India,Pakistan,74,Pakistan,Green Park,1,India
+74,11.6,0,Umar Gul,2007-11-11,1st,SC Ganguly,35,,G Gambhir,0,India,Pakistan,74,Pakistan,Green Park,1,India
+75,11.7,1,Umar Gul,2007-11-11,1st,SC Ganguly,35,,G Gambhir,1,India,Pakistan,75,Pakistan,Green Park,1,India
+76,12.1,0,Sohail Tanvir,2007-11-11,1st,SC Ganguly,35,,G Gambhir,1,India,Pakistan,75,Pakistan,Green Park,1,India
+77,12.2,0,Sohail Tanvir,2007-11-11,1st,SC Ganguly,35,,G Gambhir,1,India,Pakistan,75,Pakistan,Green Park,1,India
+78,12.3,1,Sohail Tanvir,2007-11-11,1st,SC Ganguly,35,,G Gambhir,2,India,Pakistan,76,Pakistan,Green Park,1,India
+79,12.4,1,Sohail Tanvir,2007-11-11,1st,G Gambhir,2,,SC Ganguly,36,India,Pakistan,77,Pakistan,Green Park,1,India
+80,12.5,1,Sohail Tanvir,2007-11-11,1st,SC Ganguly,36,,G Gambhir,3,India,Pakistan,78,Pakistan,Green Park,1,India
+81,12.6,1,Sohail Tanvir,2007-11-11,1st,G Gambhir,3,,SC Ganguly,37,India,Pakistan,79,Pakistan,Green Park,1,India
+82,13.1,1,Umar Gul,2007-11-11,1st,G Gambhir,3,,SC Ganguly,38,India,Pakistan,80,Pakistan,Green Park,1,India
+83,13.2,0,Umar Gul,2007-11-11,1st,SC Ganguly,38,,G Gambhir,3,India,Pakistan,80,Pakistan,Green Park,1,India
+84,13.3,0,Umar Gul,2007-11-11,1st,SC Ganguly,38,,G Gambhir,3,India,Pakistan,80,Pakistan,Green Park,1,India
+85,13.4,0,Umar Gul,2007-11-11,1st,SC Ganguly,38,,G Gambhir,3,India,Pakistan,80,Pakistan,Green Park,1,India
+86,13.5,1,Umar Gul,2007-11-11,1st,SC Ganguly,38,,G Gambhir,4,India,Pakistan,81,Pakistan,Green Park,1,India
+87,13.6,1,Umar Gul,2007-11-11,1st,G Gambhir,4,,SC Ganguly,39,India,Pakistan,82,Pakistan,Green Park,1,India
+88,14.1,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,4,SC Ganguly,SC Ganguly,39,India,Pakistan,82,Pakistan,Green Park,2,India
+89,14.2,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,4,,Yuvraj Singh,0,India,Pakistan,82,Pakistan,Green Park,2,India
+90,14.3,4,Sohail Tanvir,2007-11-11,1st,G Gambhir,4,,Yuvraj Singh,4,India,Pakistan,86,Pakistan,Green Park,2,India
+91,14.4,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,4,,Yuvraj Singh,4,India,Pakistan,86,Pakistan,Green Park,2,India
+92,14.5,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,4,,Yuvraj Singh,4,India,Pakistan,86,Pakistan,Green Park,2,India
+93,14.6,2,Sohail Tanvir,2007-11-11,1st,G Gambhir,4,,Yuvraj Singh,6,India,Pakistan,88,Pakistan,Green Park,2,India
+94,15.1,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,4,India,Pakistan,88,Pakistan,Green Park,2,India
+95,15.2,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,4,India,Pakistan,88,Pakistan,Green Park,2,India
+96,15.3,1,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,89,Pakistan,Green Park,2,India
+97,15.4,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,89,Pakistan,Green Park,2,India
+98,15.5,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,89,Pakistan,Green Park,2,India
+99,15.6,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,89,Pakistan,Green Park,2,India
+100,16.1,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,89,Pakistan,Green Park,2,India
+101,16.2,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,89,Pakistan,Green Park,2,India
+102,16.3,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,89,Pakistan,Green Park,2,India
+103,16.4,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,90,Pakistan,Green Park,2,India
+104,16.5,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,90,Pakistan,Green Park,2,India
+105,16.6,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,90,Pakistan,Green Park,2,India
+106,16.7,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,90,Pakistan,Green Park,2,India
+107,17.1,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,90,Pakistan,Green Park,2,India
+108,17.2,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,90,Pakistan,Green Park,2,India
+109,17.3,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,90,Pakistan,Green Park,2,India
+110,17.4,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,90,Pakistan,Green Park,2,India
+111,17.5,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,90,Pakistan,Green Park,2,India
+112,17.6,0,Shoaib Akhtar,2007-11-11,1st,G Gambhir,5,,Yuvraj Singh,6,India,Pakistan,90,Pakistan,Green Park,2,India
+113,18.1,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,90,Pakistan,Green Park,2,India
+114,18.2,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,5,India,Pakistan,90,Pakistan,Green Park,2,India
+115,18.3,1,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,6,,G Gambhir,6,India,Pakistan,91,Pakistan,Green Park,2,India
+116,18.4,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,6,,Yuvraj Singh,6,India,Pakistan,91,Pakistan,Green Park,2,India
+117,18.5,1,Sohail Tanvir,2007-11-11,1st,G Gambhir,6,,Yuvraj Singh,7,India,Pakistan,92,Pakistan,Green Park,2,India
+118,18.6,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,7,,G Gambhir,6,India,Pakistan,92,Pakistan,Green Park,2,India
+119,19.1,2,Shahid Afridi,2007-11-11,1st,G Gambhir,6,,Yuvraj Singh,9,India,Pakistan,94,Pakistan,Green Park,2,India
+120,19.2,1,Shahid Afridi,2007-11-11,1st,G Gambhir,6,,Yuvraj Singh,10,India,Pakistan,95,Pakistan,Green Park,2,India
+121,19.3,4,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,10,India,Pakistan,99,Pakistan,Green Park,2,India
+122,19.4,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,11,India,Pakistan,100,Pakistan,Green Park,2,India
+123,19.5,0,Shahid Afridi,2007-11-11,1st,G Gambhir,11,,Yuvraj Singh,10,India,Pakistan,100,Pakistan,Green Park,2,India
+124,19.6,0,Shahid Afridi,2007-11-11,1st,G Gambhir,11,,Yuvraj Singh,10,India,Pakistan,100,Pakistan,Green Park,2,India
+125,20.1,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,11,India,Pakistan,100,Pakistan,Green Park,2,India
+126,20.2,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,11,India,Pakistan,100,Pakistan,Green Park,2,India
+127,20.3,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,11,India,Pakistan,100,Pakistan,Green Park,2,India
+128,20.4,1,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,12,India,Pakistan,101,Pakistan,Green Park,2,India
+129,20.5,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,12,,Yuvraj Singh,10,India,Pakistan,101,Pakistan,Green Park,2,India
+130,20.6,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,12,,Yuvraj Singh,10,India,Pakistan,101,Pakistan,Green Park,2,India
+131,21.1,2,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,14,India,Pakistan,103,Pakistan,Green Park,2,India
+132,21.2,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,14,India,Pakistan,103,Pakistan,Green Park,2,India
+133,21.3,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,10,,G Gambhir,15,India,Pakistan,104,Pakistan,Green Park,2,India
+134,21.4,4,Shahid Afridi,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,14,India,Pakistan,108,Pakistan,Green Park,2,India
+135,21.5,0,Shahid Afridi,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,14,India,Pakistan,108,Pakistan,Green Park,2,India
+136,21.6,1,Shahid Afridi,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,15,India,Pakistan,109,Pakistan,Green Park,2,India
+137,22.1,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,15,India,Pakistan,109,Pakistan,Green Park,2,India
+138,22.2,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,15,India,Pakistan,109,Pakistan,Green Park,2,India
+139,22.3,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,15,India,Pakistan,109,Pakistan,Green Park,2,India
+140,22.4,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,15,India,Pakistan,109,Pakistan,Green Park,2,India
+141,22.5,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,15,India,Pakistan,109,Pakistan,Green Park,2,India
+142,22.6,0,Sohail Tanvir,2007-11-11,1st,G Gambhir,15,,Yuvraj Singh,15,India,Pakistan,109,Pakistan,Green Park,2,India
+143,23.1,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,15,,G Gambhir,15,India,Pakistan,109,Pakistan,Green Park,2,India
+144,23.2,2,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,15,,G Gambhir,17,India,Pakistan,111,Pakistan,Green Park,2,India
+145,23.3,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,15,,G Gambhir,18,India,Pakistan,112,Pakistan,Green Park,2,India
+146,23.4,1,Shahid Afridi,2007-11-11,1st,G Gambhir,18,,Yuvraj Singh,16,India,Pakistan,113,Pakistan,Green Park,2,India
+147,23.5,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,16,,G Gambhir,19,India,Pakistan,114,Pakistan,Green Park,2,India
+148,23.6,1,Shahid Afridi,2007-11-11,1st,G Gambhir,19,,Yuvraj Singh,17,India,Pakistan,115,Pakistan,Green Park,2,India
+149,24.1,0,Shoaib Malik,2007-11-11,1st,G Gambhir,19,,Yuvraj Singh,17,India,Pakistan,115,Pakistan,Green Park,2,India
+150,24.2,1,Shoaib Malik,2007-11-11,1st,G Gambhir,19,,Yuvraj Singh,18,India,Pakistan,116,Pakistan,Green Park,2,India
+151,24.3,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,18,,G Gambhir,20,India,Pakistan,117,Pakistan,Green Park,2,India
+152,24.4,1,Shoaib Malik,2007-11-11,1st,G Gambhir,20,,Yuvraj Singh,19,India,Pakistan,118,Pakistan,Green Park,2,India
+153,24.5,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,19,,G Gambhir,21,India,Pakistan,119,Pakistan,Green Park,2,India
+154,24.6,0,Shoaib Malik,2007-11-11,1st,G Gambhir,21,,Yuvraj Singh,19,India,Pakistan,119,Pakistan,Green Park,2,India
+155,25.1,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,19,,G Gambhir,21,India,Pakistan,119,Pakistan,Green Park,2,India
+156,25.2,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,19,,G Gambhir,22,India,Pakistan,120,Pakistan,Green Park,2,India
+157,25.3,1,Shahid Afridi,2007-11-11,1st,G Gambhir,22,,Yuvraj Singh,20,India,Pakistan,121,Pakistan,Green Park,2,India
+158,25.4,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,20,,G Gambhir,23,India,Pakistan,122,Pakistan,Green Park,2,India
+159,25.5,1,Shahid Afridi,2007-11-11,1st,G Gambhir,23,,Yuvraj Singh,21,India,Pakistan,123,Pakistan,Green Park,2,India
+160,25.6,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,21,,G Gambhir,23,India,Pakistan,123,Pakistan,Green Park,2,India
+161,26.1,0,Shoaib Malik,2007-11-11,1st,G Gambhir,23,,Yuvraj Singh,21,India,Pakistan,123,Pakistan,Green Park,2,India
+162,26.2,1,Shoaib Malik,2007-11-11,1st,G Gambhir,23,,Yuvraj Singh,22,India,Pakistan,124,Pakistan,Green Park,2,India
+163,26.3,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,22,,G Gambhir,24,India,Pakistan,125,Pakistan,Green Park,2,India
+164,26.4,0,Shoaib Malik,2007-11-11,1st,G Gambhir,24,,Yuvraj Singh,22,India,Pakistan,125,Pakistan,Green Park,2,India
+165,26.5,2,Shoaib Malik,2007-11-11,1st,G Gambhir,24,,Yuvraj Singh,24,India,Pakistan,127,Pakistan,Green Park,2,India
+166,26.6,0,Shoaib Malik,2007-11-11,1st,G Gambhir,24,,Yuvraj Singh,24,India,Pakistan,127,Pakistan,Green Park,2,India
+167,27.1,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,24,,G Gambhir,24,India,Pakistan,127,Pakistan,Green Park,2,India
+168,27.2,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,24,,G Gambhir,24,India,Pakistan,127,Pakistan,Green Park,2,India
+169,27.3,1,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,24,,G Gambhir,25,India,Pakistan,128,Pakistan,Green Park,2,India
+170,27.4,0,Abdur Rehman,2007-11-11,1st,G Gambhir,25,,Yuvraj Singh,24,India,Pakistan,128,Pakistan,Green Park,2,India
+171,27.5,1,Abdur Rehman,2007-11-11,1st,G Gambhir,25,,Yuvraj Singh,25,India,Pakistan,129,Pakistan,Green Park,2,India
+172,27.6,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,25,G Gambhir,G Gambhir,25,India,Pakistan,129,Pakistan,Green Park,3,India
+173,28.1,1,Shoaib Malik,2007-11-11,1st,MS Dhoni,0,,Yuvraj Singh,26,India,Pakistan,130,Pakistan,Green Park,3,India
+174,28.2,0,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,26,,MS Dhoni,0,India,Pakistan,130,Pakistan,Green Park,3,India
+175,28.3,4,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,26,,MS Dhoni,4,India,Pakistan,134,Pakistan,Green Park,3,India
+176,28.4,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,26,,MS Dhoni,5,India,Pakistan,135,Pakistan,Green Park,3,India
+177,28.5,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,5,,Yuvraj Singh,26,India,Pakistan,135,Pakistan,Green Park,3,India
+178,28.6,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,5,,Yuvraj Singh,26,India,Pakistan,135,Pakistan,Green Park,3,India
+179,29.1,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,26,,MS Dhoni,5,India,Pakistan,135,Pakistan,Green Park,3,India
+180,29.2,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,26,,MS Dhoni,5,India,Pakistan,135,Pakistan,Green Park,3,India
+181,29.3,1,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,26,,MS Dhoni,6,India,Pakistan,136,Pakistan,Green Park,3,India
+182,29.4,0,Abdur Rehman,2007-11-11,1st,MS Dhoni,6,,Yuvraj Singh,26,India,Pakistan,136,Pakistan,Green Park,3,India
+183,29.5,0,Abdur Rehman,2007-11-11,1st,MS Dhoni,6,,Yuvraj Singh,26,India,Pakistan,136,Pakistan,Green Park,3,India
+184,29.6,0,Abdur Rehman,2007-11-11,1st,MS Dhoni,6,,Yuvraj Singh,26,India,Pakistan,136,Pakistan,Green Park,3,India
+185,30.1,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,26,,MS Dhoni,7,India,Pakistan,137,Pakistan,Green Park,3,India
+186,30.2,1,Shoaib Malik,2007-11-11,1st,MS Dhoni,7,,Yuvraj Singh,27,India,Pakistan,138,Pakistan,Green Park,3,India
+187,30.3,0,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,27,,MS Dhoni,7,India,Pakistan,139,Pakistan,Green Park,3,India
+188,30.4,0,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,27,,MS Dhoni,7,India,Pakistan,139,Pakistan,Green Park,3,India
+189,30.5,0,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,27,,MS Dhoni,7,India,Pakistan,139,Pakistan,Green Park,3,India
+190,30.6,0,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,27,,MS Dhoni,7,India,Pakistan,139,Pakistan,Green Park,3,India
+191,30.7,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,27,,MS Dhoni,8,India,Pakistan,140,Pakistan,Green Park,3,India
+192,31.1,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,27,,MS Dhoni,8,India,Pakistan,140,Pakistan,Green Park,3,India
+193,31.2,1,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,27,,MS Dhoni,9,India,Pakistan,141,Pakistan,Green Park,3,India
+194,31.3,1,Abdur Rehman,2007-11-11,1st,MS Dhoni,9,,Yuvraj Singh,28,India,Pakistan,142,Pakistan,Green Park,3,India
+195,31.4,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,28,,MS Dhoni,9,India,Pakistan,142,Pakistan,Green Park,3,India
+196,31.5,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,28,,MS Dhoni,9,India,Pakistan,142,Pakistan,Green Park,3,India
+197,31.6,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,28,,MS Dhoni,9,India,Pakistan,142,Pakistan,Green Park,3,India
+198,32.1,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,9,,Yuvraj Singh,28,India,Pakistan,142,Pakistan,Green Park,3,India
+199,32.2,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,9,,Yuvraj Singh,28,India,Pakistan,142,Pakistan,Green Park,3,India
+200,32.3,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,9,,Yuvraj Singh,28,India,Pakistan,142,Pakistan,Green Park,3,India
+201,32.4,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,9,,Yuvraj Singh,28,India,Pakistan,142,Pakistan,Green Park,3,India
+202,32.5,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,9,,Yuvraj Singh,28,India,Pakistan,142,Pakistan,Green Park,3,India
+203,32.6,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,9,,Yuvraj Singh,28,India,Pakistan,142,Pakistan,Green Park,3,India
+204,33.1,1,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,28,,MS Dhoni,10,India,Pakistan,143,Pakistan,Green Park,3,India
+205,33.2,0,Abdur Rehman,2007-11-11,1st,MS Dhoni,10,,Yuvraj Singh,28,India,Pakistan,143,Pakistan,Green Park,3,India
+206,33.3,6,Abdur Rehman,2007-11-11,1st,MS Dhoni,10,,Yuvraj Singh,34,India,Pakistan,149,Pakistan,Green Park,3,India
+207,33.4,0,Abdur Rehman,2007-11-11,1st,MS Dhoni,10,,Yuvraj Singh,34,India,Pakistan,149,Pakistan,Green Park,3,India
+208,33.5,6,Abdur Rehman,2007-11-11,1st,MS Dhoni,10,,Yuvraj Singh,40,India,Pakistan,155,Pakistan,Green Park,3,India
+209,33.6,0,Abdur Rehman,2007-11-11,1st,MS Dhoni,10,,Yuvraj Singh,40,India,Pakistan,155,Pakistan,Green Park,3,India
+210,34.1,6,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,16,India,Pakistan,161,Pakistan,Green Park,3,India
+211,34.2,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,17,India,Pakistan,162,Pakistan,Green Park,3,India
+212,34.3,0,Shoaib Malik,2007-11-11,1st,MS Dhoni,17,,Yuvraj Singh,40,India,Pakistan,163,Pakistan,Green Park,3,India
+213,34.4,0,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,17,India,Pakistan,164,Pakistan,Green Park,3,India
+214,34.5,0,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,17,India,Pakistan,164,Pakistan,Green Park,3,India
+215,34.6,6,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,23,India,Pakistan,170,Pakistan,Green Park,3,India
+216,34.7,1,Shoaib Malik,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,24,India,Pakistan,171,Pakistan,Green Park,3,India
+217,35.1,4,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,28,India,Pakistan,175,Pakistan,Green Park,3,India
+218,35.2,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,28,India,Pakistan,175,Pakistan,Green Park,3,India
+219,35.3,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,28,India,Pakistan,175,Pakistan,Green Park,3,India
+220,35.4,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,28,India,Pakistan,175,Pakistan,Green Park,3,India
+221,35.5,1,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,40,,MS Dhoni,29,India,Pakistan,176,Pakistan,Green Park,3,India
+222,35.6,1,Shoaib Akhtar,2007-11-11,1st,MS Dhoni,29,,Yuvraj Singh,41,India,Pakistan,177,Pakistan,Green Park,3,India
+223,36.1,1,Shahid Afridi,2007-11-11,1st,MS Dhoni,29,,Yuvraj Singh,42,India,Pakistan,178,Pakistan,Green Park,3,India
+224,36.2,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,42,,MS Dhoni,29,India,Pakistan,183,Pakistan,Green Park,3,India
+225,36.3,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,42,,MS Dhoni,29,India,Pakistan,183,Pakistan,Green Park,3,India
+226,36.4,4,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,42,,MS Dhoni,33,India,Pakistan,187,Pakistan,Green Park,3,India
+227,36.5,4,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,42,,MS Dhoni,37,India,Pakistan,191,Pakistan,Green Park,3,India
+228,36.6,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,42,,MS Dhoni,37,India,Pakistan,191,Pakistan,Green Park,3,India
+229,36.7,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,42,,MS Dhoni,38,India,Pakistan,192,Pakistan,Green Park,3,India
+230,37.1,1,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,42,,MS Dhoni,39,India,Pakistan,193,Pakistan,Green Park,3,India
+231,37.2,0,Shoaib Akhtar,2007-11-11,1st,MS Dhoni,39,,Yuvraj Singh,42,India,Pakistan,193,Pakistan,Green Park,3,India
+232,37.3,0,Shoaib Akhtar,2007-11-11,1st,MS Dhoni,39,,Yuvraj Singh,42,India,Pakistan,193,Pakistan,Green Park,3,India
+233,37.4,0,Shoaib Akhtar,2007-11-11,1st,MS Dhoni,39,,Yuvraj Singh,42,India,Pakistan,194,Pakistan,Green Park,3,India
+234,37.5,1,Shoaib Akhtar,2007-11-11,1st,MS Dhoni,39,,Yuvraj Singh,43,India,Pakistan,195,Pakistan,Green Park,3,India
+235,37.6,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,39,India,Pakistan,195,Pakistan,Green Park,3,India
+236,37.7,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,39,India,Pakistan,196,Pakistan,Green Park,3,India
+237,37.8,1,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,40,India,Pakistan,197,Pakistan,Green Park,3,India
+238,38.1,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,40,India,Pakistan,198,Pakistan,Green Park,3,India
+239,38.2,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,40,India,Pakistan,198,Pakistan,Green Park,3,India
+240,38.3,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,40,India,Pakistan,198,Pakistan,Green Park,3,India
+241,38.4,2,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,42,India,Pakistan,200,Pakistan,Green Park,3,India
+242,38.5,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,42,India,Pakistan,200,Pakistan,Green Park,3,India
+243,38.6,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,42,India,Pakistan,200,Pakistan,Green Park,3,India
+244,38.7,0,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,43,,MS Dhoni,42,India,Pakistan,200,Pakistan,Green Park,3,India
+245,39.1,0,Sohail Tanvir,2007-11-11,1st,MS Dhoni,42,,Yuvraj Singh,43,India,Pakistan,200,Pakistan,Green Park,3,India
+246,39.2,1,Sohail Tanvir,2007-11-11,1st,MS Dhoni,42,,Yuvraj Singh,44,India,Pakistan,201,Pakistan,Green Park,3,India
+247,39.3,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,44,,MS Dhoni,42,India,Pakistan,202,Pakistan,Green Park,3,India
+248,39.4,1,Sohail Tanvir,2007-11-11,1st,MS Dhoni,42,,Yuvraj Singh,45,India,Pakistan,203,Pakistan,Green Park,3,India
+249,39.5,1,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,45,,MS Dhoni,43,India,Pakistan,204,Pakistan,Green Park,3,India
+250,39.6,1,Sohail Tanvir,2007-11-11,1st,MS Dhoni,43,,Yuvraj Singh,46,India,Pakistan,205,Pakistan,Green Park,3,India
+251,40.1,0,Shahid Afridi,2007-11-11,1st,MS Dhoni,43,,Yuvraj Singh,46,India,Pakistan,205,Pakistan,Green Park,3,India
+252,40.2,4,Shahid Afridi,2007-11-11,1st,MS Dhoni,43,,Yuvraj Singh,50,India,Pakistan,209,Pakistan,Green Park,3,India
+253,40.3,6,Shahid Afridi,2007-11-11,1st,MS Dhoni,43,,Yuvraj Singh,56,India,Pakistan,215,Pakistan,Green Park,3,India
+254,40.4,1,Shahid Afridi,2007-11-11,1st,MS Dhoni,43,,Yuvraj Singh,57,India,Pakistan,216,Pakistan,Green Park,3,India
+255,40.5,1,Shahid Afridi,2007-11-11,1st,Yuvraj Singh,57,,MS Dhoni,44,India,Pakistan,217,Pakistan,Green Park,3,India
+256,40.6,1,Shahid Afridi,2007-11-11,1st,MS Dhoni,44,,Yuvraj Singh,58,India,Pakistan,218,Pakistan,Green Park,3,India
+257,41.1,1,Sohail Tanvir,2007-11-11,1st,MS Dhoni,44,,Yuvraj Singh,59,India,Pakistan,219,Pakistan,Green Park,3,India
+258,41.2,0,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,59,,MS Dhoni,44,India,Pakistan,219,Pakistan,Green Park,3,India
+259,41.3,1,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,59,,MS Dhoni,45,India,Pakistan,220,Pakistan,Green Park,3,India
+260,41.4,1,Sohail Tanvir,2007-11-11,1st,MS Dhoni,45,,Yuvraj Singh,60,India,Pakistan,221,Pakistan,Green Park,3,India
+261,41.5,1,Sohail Tanvir,2007-11-11,1st,Yuvraj Singh,60,,MS Dhoni,46,India,Pakistan,222,Pakistan,Green Park,3,India
+262,41.6,0,Sohail Tanvir,2007-11-11,1st,MS Dhoni,46,,Yuvraj Singh,60,India,Pakistan,222,Pakistan,Green Park,3,India
+263,42.1,1,Umar Gul,2007-11-11,1st,Yuvraj Singh,60,,MS Dhoni,47,India,Pakistan,223,Pakistan,Green Park,3,India
+264,42.2,2,Umar Gul,2007-11-11,1st,MS Dhoni,47,,Yuvraj Singh,62,India,Pakistan,225,Pakistan,Green Park,3,India
+265,42.3,1,Umar Gul,2007-11-11,1st,MS Dhoni,47,,Yuvraj Singh,63,India,Pakistan,226,Pakistan,Green Park,3,India
+266,42.4,1,Umar Gul,2007-11-11,1st,Yuvraj Singh,63,,MS Dhoni,48,India,Pakistan,227,Pakistan,Green Park,3,India
+267,42.5,1,Umar Gul,2007-11-11,1st,MS Dhoni,48,,Yuvraj Singh,64,India,Pakistan,228,Pakistan,Green Park,3,India
+268,42.6,1,Umar Gul,2007-11-11,1st,Yuvraj Singh,64,,MS Dhoni,49,India,Pakistan,229,Pakistan,Green Park,3,India
+269,43.1,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,64,MS Dhoni,MS Dhoni,49,India,Pakistan,229,Pakistan,Green Park,4,India
+270,43.2,1,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,64,,RV Uthappa,1,India,Pakistan,230,Pakistan,Green Park,4,India
+271,43.3,1,Shoaib Akhtar,2007-11-11,1st,RV Uthappa,1,,Yuvraj Singh,65,India,Pakistan,231,Pakistan,Green Park,4,India
+272,43.4,2,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,65,,RV Uthappa,3,India,Pakistan,233,Pakistan,Green Park,4,India
+273,43.5,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,65,,RV Uthappa,3,India,Pakistan,233,Pakistan,Green Park,4,India
+274,43.6,1,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,65,,RV Uthappa,4,India,Pakistan,234,Pakistan,Green Park,4,India
+275,44.1,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,65,,RV Uthappa,4,India,Pakistan,234,Pakistan,Green Park,4,India
+276,44.2,1,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,65,,RV Uthappa,5,India,Pakistan,235,Pakistan,Green Park,4,India
+277,44.3,4,Abdur Rehman,2007-11-11,1st,RV Uthappa,5,,Yuvraj Singh,69,India,Pakistan,239,Pakistan,Green Park,4,India
+278,44.4,2,Abdur Rehman,2007-11-11,1st,RV Uthappa,5,,Yuvraj Singh,71,India,Pakistan,241,Pakistan,Green Park,4,India
+279,44.5,2,Abdur Rehman,2007-11-11,1st,RV Uthappa,5,,Yuvraj Singh,73,India,Pakistan,243,Pakistan,Green Park,4,India
+280,44.6,1,Abdur Rehman,2007-11-11,1st,RV Uthappa,5,,Yuvraj Singh,74,India,Pakistan,244,Pakistan,Green Park,4,India
+281,45.1,1,Shoaib Akhtar,2007-11-11,1st,RV Uthappa,5,,Yuvraj Singh,75,India,Pakistan,245,Pakistan,Green Park,4,India
+282,45.2,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,75,,RV Uthappa,5,India,Pakistan,245,Pakistan,Green Park,4,India
+283,45.3,0,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,75,,RV Uthappa,5,India,Pakistan,245,Pakistan,Green Park,4,India
+284,45.4,2,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,75,,RV Uthappa,7,India,Pakistan,247,Pakistan,Green Park,4,India
+285,45.5,1,Shoaib Akhtar,2007-11-11,1st,Yuvraj Singh,75,,RV Uthappa,8,India,Pakistan,248,Pakistan,Green Park,4,India
+286,45.6,2,Shoaib Akhtar,2007-11-11,1st,RV Uthappa,8,,Yuvraj Singh,77,India,Pakistan,251,Pakistan,Green Park,4,India
+287,45.7,0,Shoaib Akhtar,2007-11-11,1st,RV Uthappa,8,,Yuvraj Singh,77,India,Pakistan,251,Pakistan,Green Park,4,India
+288,46.1,6,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,77,,RV Uthappa,14,India,Pakistan,257,Pakistan,Green Park,4,India
+289,46.2,0,Abdur Rehman,2007-11-11,1st,Yuvraj Singh,77,,RV Uthappa,14,India,Pakistan,258,Pakistan,Green Park,4,India
+290,46.3,0,Abdur Rehman,2007-11-11,1st,RV Uthappa,14,,Yuvraj Singh,77,India,Pakistan,259,Pakistan,Green Park,4,India
+291,46.4,0,Abdur Rehman,2007-11-11,1st,RV Uthappa,14,,Yuvraj Singh,77,India,Pakistan,260,Pakistan,Green Park,4,India
+292,46.5,0,Abdur Rehman,2007-11-11,1st,RV Uthappa,14,Yuvraj Singh,Yuvraj Singh,77,India,Pakistan,260,Pakistan,Green Park,5,India
+293,46.6,4,Abdur Rehman,2007-11-11,1st,IK Pathan,0,,RV Uthappa,18,India,Pakistan,264,Pakistan,Green Park,5,India
+294,46.7,0,Abdur Rehman,2007-11-11,1st,IK Pathan,0,,RV Uthappa,18,India,Pakistan,264,Pakistan,Green Park,5,India
+295,46.8,1,Abdur Rehman,2007-11-11,1st,IK Pathan,0,,RV Uthappa,19,India,Pakistan,265,Pakistan,Green Park,5,India
+296,47.1,0,Umar Gul,2007-11-11,1st,IK Pathan,0,,RV Uthappa,19,India,Pakistan,265,Pakistan,Green Park,5,India
+297,47.2,0,Umar Gul,2007-11-11,1st,IK Pathan,0,RV Uthappa,RV Uthappa,19,India,Pakistan,265,Pakistan,Green Park,6,India
+298,47.3,0,Umar Gul,2007-11-11,1st,IK Pathan,0,,Harbhajan Singh,0,India,Pakistan,266,Pakistan,Green Park,6,India
+299,47.4,0,Umar Gul,2007-11-11,1st,IK Pathan,0,,Harbhajan Singh,0,India,Pakistan,266,Pakistan,Green Park,6,India
+300,47.5,0,Umar Gul,2007-11-11,1st,IK Pathan,0,,Harbhajan Singh,0,India,Pakistan,266,Pakistan,Green Park,6,India
+301,47.6,1,Umar Gul,2007-11-11,1st,IK Pathan,0,,Harbhajan Singh,1,India,Pakistan,267,Pakistan,Green Park,6,India
+302,47.7,0,Umar Gul,2007-11-11,1st,Harbhajan Singh,1,,IK Pathan,0,India,Pakistan,267,Pakistan,Green Park,6,India
+303,48.1,1,Abdur Rehman,2007-11-11,1st,IK Pathan,0,,Harbhajan Singh,2,India,Pakistan,268,Pakistan,Green Park,6,India
+304,48.2,6,Abdur Rehman,2007-11-11,1st,Harbhajan Singh,2,,IK Pathan,6,India,Pakistan,274,Pakistan,Green Park,6,India
+305,48.3,1,Abdur Rehman,2007-11-11,1st,Harbhajan Singh,2,,IK Pathan,7,India,Pakistan,275,Pakistan,Green Park,6,India
+306,48.4,2,Abdur Rehman,2007-11-11,1st,IK Pathan,7,,Harbhajan Singh,4,India,Pakistan,277,Pakistan,Green Park,6,India
+307,48.5,1,Abdur Rehman,2007-11-11,1st,IK Pathan,7,,Harbhajan Singh,5,India,Pakistan,278,Pakistan,Green Park,6,India
+308,48.6,6,Abdur Rehman,2007-11-11,1st,Harbhajan Singh,5,,IK Pathan,13,India,Pakistan,284,Pakistan,Green Park,6,India
+309,49.1,1,Umar Gul,2007-11-11,1st,IK Pathan,13,,Harbhajan Singh,6,India,Pakistan,285,Pakistan,Green Park,6,India
+310,49.2,1,Umar Gul,2007-11-11,1st,Harbhajan Singh,6,,IK Pathan,14,India,Pakistan,286,Pakistan,Green Park,6,India
+311,49.3,1,Umar Gul,2007-11-11,1st,IK Pathan,14,,Harbhajan Singh,7,India,Pakistan,287,Pakistan,Green Park,6,India
+312,49.4,1,Umar Gul,2007-11-11,1st,Harbhajan Singh,7,,IK Pathan,15,India,Pakistan,288,Pakistan,Green Park,6,India
+313,49.5,2,Umar Gul,2007-11-11,1st,IK Pathan,15,,Harbhajan Singh,9,India,Pakistan,290,Pakistan,Green Park,6,India
+314,49.6,1,Umar Gul,2007-11-11,1st,IK Pathan,15,,Harbhajan Singh,10,India,Pakistan,292,Pakistan,Green Park,6,India
+315,49.7,2,Umar Gul,2007-11-11,1st,Harbhajan Singh,10,,IK Pathan,17,India,Pakistan,294,Pakistan,Green Park,6,India
+316,0.1,1,RP Singh,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,1,Pakistan,Green Park,0,India
+317,0.2,4,RP Singh,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,5,Pakistan,Green Park,0,India
+318,0.3,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,5,Pakistan,Green Park,0,India
+319,0.4,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,5,Pakistan,Green Park,0,India
+320,0.5,2,RP Singh,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,7,Pakistan,Green Park,0,India
+321,0.6,4,RP Singh,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,11,Pakistan,Green Park,0,India
+322,1.1,4,IK Pathan,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,15,Pakistan,Green Park,0,India
+323,1.2,0,IK Pathan,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,15,Pakistan,Green Park,0,India
+324,1.3,0,IK Pathan,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,15,Pakistan,Green Park,0,India
+325,1.4,4,IK Pathan,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,19,Pakistan,Green Park,0,India
+326,1.5,4,IK Pathan,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,23,Pakistan,Green Park,0,India
+327,1.6,1,IK Pathan,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,24,Pakistan,Green Park,0,India
+328,2.1,0,RP Singh,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,24,Pakistan,Green Park,0,India
+329,2.2,0,RP Singh,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,24,Pakistan,Green Park,0,India
+330,2.3,0,RP Singh,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,24,Pakistan,Green Park,0,India
+331,2.4,0,RP Singh,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,24,Pakistan,Green Park,0,India
+332,2.5,0,RP Singh,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,24,Pakistan,Green Park,0,India
+333,2.6,0,RP Singh,2007-11-11,2nd,Shahid Afridi,0,,Salman Butt,0,India,Pakistan,24,Pakistan,Green Park,0,India
+334,3.1,2,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,26,Pakistan,Green Park,0,India
+335,3.2,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,27,Pakistan,Green Park,0,India
+336,3.3,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Shahid Afridi,0,India,Pakistan,27,Pakistan,Green Park,1,India
+337,3.4,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,27,Pakistan,Green Park,1,India
+338,3.5,1,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,28,Pakistan,Green Park,1,India
+339,3.6,4,IK Pathan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,32,Pakistan,Green Park,1,India
+340,3.7,0,IK Pathan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,32,Pakistan,Green Park,1,India
+341,4.1,4,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,36,Pakistan,Green Park,1,India
+342,4.2,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,36,Pakistan,Green Park,1,India
+343,4.3,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,36,Pakistan,Green Park,1,India
+344,4.4,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,36,Pakistan,Green Park,1,India
+345,4.5,1,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,37,Pakistan,Green Park,1,India
+346,4.6,0,RP Singh,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,37,Pakistan,Green Park,1,India
+347,5.1,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,37,Pakistan,Green Park,1,India
+348,5.2,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,37,Pakistan,Green Park,1,India
+349,5.3,4,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,41,Pakistan,Green Park,1,India
+350,5.4,1,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,42,Pakistan,Green Park,1,India
+351,5.5,3,IK Pathan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,45,Pakistan,Green Park,1,India
+352,5.6,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,45,Pakistan,Green Park,1,India
+353,6.1,4,RP Singh,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,49,Pakistan,Green Park,1,India
+354,6.2,4,RP Singh,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,53,Pakistan,Green Park,1,India
+355,6.3,1,RP Singh,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,54,Pakistan,Green Park,1,India
+356,6.4,4,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,58,Pakistan,Green Park,1,India
+357,6.5,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,58,Pakistan,Green Park,1,India
+358,6.6,4,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,62,Pakistan,Green Park,1,India
+359,7.1,4,Z Khan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,66,Pakistan,Green Park,1,India
+360,7.2,0,Z Khan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,66,Pakistan,Green Park,1,India
+361,7.3,4,Z Khan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,70,Pakistan,Green Park,1,India
+362,7.4,0,Z Khan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,70,Pakistan,Green Park,1,India
+363,7.5,0,Z Khan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,70,Pakistan,Green Park,1,India
+364,7.6,0,Z Khan,2007-11-11,2nd,Younis Khan,0,,Salman Butt,0,India,Pakistan,70,Pakistan,Green Park,1,India
+365,8.1,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,70,Pakistan,Green Park,1,India
+366,8.2,2,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,72,Pakistan,Green Park,1,India
+367,8.3,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,72,Pakistan,Green Park,1,India
+368,8.4,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,72,Pakistan,Green Park,1,India
+369,8.5,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,72,Pakistan,Green Park,1,India
+370,8.6,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Younis Khan,0,India,Pakistan,72,Pakistan,Green Park,2,India
+371,9.1,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,72,Pakistan,Green Park,2,India
+372,9.2,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,72,Pakistan,Green Park,2,India
+373,9.3,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,72,Pakistan,Green Park,2,India
+374,9.4,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,72,Pakistan,Green Park,2,India
+375,9.5,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,72,Pakistan,Green Park,2,India
+376,9.6,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,72,Pakistan,Green Park,2,India
+377,10.1,4,RP Singh,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,76,Pakistan,Green Park,2,India
+378,10.2,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,76,Pakistan,Green Park,2,India
+379,10.3,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,76,Pakistan,Green Park,2,India
+380,10.4,1,RP Singh,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,77,Pakistan,Green Park,2,India
+381,10.5,0,RP Singh,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,77,Pakistan,Green Park,2,India
+382,10.6,4,RP Singh,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,81,Pakistan,Green Park,2,India
+383,11.1,0,Z Khan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,81,Pakistan,Green Park,2,India
+384,11.2,1,Z Khan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,82,Pakistan,Green Park,2,India
+385,11.3,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,82,Pakistan,Green Park,2,India
+386,11.4,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,82,Pakistan,Green Park,2,India
+387,11.5,1,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,83,Pakistan,Green Park,2,India
+388,11.6,1,Z Khan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,84,Pakistan,Green Park,2,India
+389,12.1,1,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,85,Pakistan,Green Park,2,India
+390,12.2,0,IK Pathan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,85,Pakistan,Green Park,2,India
+391,12.3,1,IK Pathan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,86,Pakistan,Green Park,2,India
+392,12.4,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,86,Pakistan,Green Park,2,India
+393,12.5,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,86,Pakistan,Green Park,2,India
+394,12.6,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,86,Pakistan,Green Park,2,India
+395,13.1,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,86,Pakistan,Green Park,2,India
+396,13.2,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,86,Pakistan,Green Park,2,India
+397,13.3,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,86,Pakistan,Green Park,2,India
+398,13.4,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,86,Pakistan,Green Park,2,India
+399,13.5,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,86,Pakistan,Green Park,2,India
+400,13.6,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,86,Pakistan,Green Park,2,India
+401,14.1,4,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,90,Pakistan,Green Park,2,India
+402,14.2,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,90,Pakistan,Green Park,2,India
+403,14.3,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,90,Pakistan,Green Park,2,India
+404,14.4,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,90,Pakistan,Green Park,2,India
+405,14.5,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,90,Pakistan,Green Park,2,India
+406,14.6,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,90,Pakistan,Green Park,2,India
+407,15.1,2,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,92,Pakistan,Green Park,2,India
+408,15.2,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,92,Pakistan,Green Park,2,India
+409,15.3,4,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,96,Pakistan,Green Park,2,India
+410,15.4,1,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,97,Pakistan,Green Park,2,India
+411,15.5,1,Z Khan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,98,Pakistan,Green Park,2,India
+412,15.6,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,98,Pakistan,Green Park,2,India
+413,16.1,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,98,Pakistan,Green Park,2,India
+414,16.2,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,98,Pakistan,Green Park,2,India
+415,16.3,2,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,100,Pakistan,Green Park,2,India
+416,16.4,1,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,101,Pakistan,Green Park,2,India
+417,16.5,0,IK Pathan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,101,Pakistan,Green Park,2,India
+418,16.6,1,IK Pathan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,102,Pakistan,Green Park,2,India
+419,17.1,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,103,Pakistan,Green Park,2,India
+420,17.2,0,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,103,Pakistan,Green Park,2,India
+421,17.3,1,Z Khan,2007-11-11,2nd,Mohammad Yousuf,0,,Salman Butt,0,India,Pakistan,104,Pakistan,Green Park,2,India
+422,17.4,0,Z Khan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,104,Pakistan,Green Park,2,India
+423,17.5,0,Z Khan,2007-11-11,2nd,Salman Butt,0,,Mohammad Yousuf,0,India,Pakistan,104,Pakistan,Green Park,3,India
+424,17.6,0,Z Khan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,104,Pakistan,Green Park,3,India
+425,17.7,1,Z Khan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,105,Pakistan,Green Park,3,India
+426,18.1,0,IK Pathan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,105,Pakistan,Green Park,3,India
+427,18.2,0,IK Pathan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,105,Pakistan,Green Park,3,India
+428,18.3,1,IK Pathan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,106,Pakistan,Green Park,3,India
+429,18.4,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,106,Pakistan,Green Park,3,India
+430,18.5,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,106,Pakistan,Green Park,3,India
+431,18.6,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,106,Pakistan,Green Park,3,India
+432,19.1,0,Z Khan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,106,Pakistan,Green Park,3,India
+433,19.2,0,Z Khan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,106,Pakistan,Green Park,3,India
+434,19.3,1,Z Khan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,107,Pakistan,Green Park,3,India
+435,19.4,1,Z Khan,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,108,Pakistan,Green Park,3,India
+436,19.5,0,Z Khan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,108,Pakistan,Green Park,3,India
+437,19.6,0,Z Khan,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,108,Pakistan,Green Park,3,India
+438,20.1,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,108,Pakistan,Green Park,3,India
+439,20.2,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,109,Pakistan,Green Park,3,India
+440,20.3,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,109,Pakistan,Green Park,3,India
+441,20.4,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,109,Pakistan,Green Park,3,India
+442,20.5,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,109,Pakistan,Green Park,3,India
+443,20.6,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,110,Pakistan,Green Park,3,India
+444,20.7,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,110,Pakistan,Green Park,3,India
+445,21.1,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,110,Pakistan,Green Park,3,India
+446,21.2,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,110,Pakistan,Green Park,3,India
+447,21.3,4,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,114,Pakistan,Green Park,3,India
+448,21.4,1,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,115,Pakistan,Green Park,3,India
+449,21.5,0,M Kartik,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,115,Pakistan,Green Park,3,India
+450,21.6,1,M Kartik,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,116,Pakistan,Green Park,3,India
+451,22.1,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,116,Pakistan,Green Park,3,India
+452,22.2,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,116,Pakistan,Green Park,3,India
+453,22.3,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,116,Pakistan,Green Park,3,India
+454,22.4,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,116,Pakistan,Green Park,3,India
+455,22.5,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,116,Pakistan,Green Park,3,India
+456,22.6,1,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,117,Pakistan,Green Park,3,India
+457,23.1,0,M Kartik,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,117,Pakistan,Green Park,3,India
+458,23.2,1,M Kartik,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,118,Pakistan,Green Park,3,India
+459,23.3,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,118,Pakistan,Green Park,3,India
+460,23.4,1,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,119,Pakistan,Green Park,3,India
+461,23.5,1,M Kartik,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,120,Pakistan,Green Park,3,India
+462,23.6,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,120,Pakistan,Green Park,3,India
+463,24.1,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,120,Pakistan,Green Park,3,India
+464,24.2,1,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,121,Pakistan,Green Park,3,India
+465,24.3,4,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,125,Pakistan,Green Park,3,India
+466,24.4,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,126,Pakistan,Green Park,3,India
+467,24.5,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,126,Pakistan,Green Park,3,India
+468,24.6,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,126,Pakistan,Green Park,3,India
+469,24.7,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,126,Pakistan,Green Park,3,India
+470,25.1,1,M Kartik,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,127,Pakistan,Green Park,3,India
+471,25.2,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,132,Pakistan,Green Park,3,India
+472,25.3,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,132,Pakistan,Green Park,3,India
+473,25.4,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,132,Pakistan,Green Park,3,India
+474,25.5,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,132,Pakistan,Green Park,3,India
+475,25.6,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,132,Pakistan,Green Park,3,India
+476,25.7,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,132,Pakistan,Green Park,3,India
+477,26.1,1,Harbhajan Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,133,Pakistan,Green Park,3,India
+478,26.2,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,133,Pakistan,Green Park,3,India
+479,26.3,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,133,Pakistan,Green Park,3,India
+480,26.4,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,133,Pakistan,Green Park,3,India
+481,26.5,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,133,Pakistan,Green Park,3,India
+482,26.6,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,133,Pakistan,Green Park,3,India
+483,27.1,1,Yuvraj Singh,2007-11-11,2nd,Shoaib Malik,0,,Salman Butt,0,India,Pakistan,134,Pakistan,Green Park,3,India
+484,27.2,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,134,Pakistan,Green Park,3,India
+485,27.3,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Malik,0,India,Pakistan,134,Pakistan,Green Park,4,India
+486,27.4,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,134,Pakistan,Green Park,4,India
+487,27.5,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,134,Pakistan,Green Park,4,India
+488,27.6,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,134,Pakistan,Green Park,4,India
+489,28.1,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,134,Pakistan,Green Park,4,India
+490,28.2,1,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,135,Pakistan,Green Park,4,India
+491,28.3,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,135,Pakistan,Green Park,4,India
+492,28.4,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,135,Pakistan,Green Park,4,India
+493,28.5,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,136,Pakistan,Green Park,4,India
+494,28.6,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,136,Pakistan,Green Park,4,India
+495,29.1,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,136,Pakistan,Green Park,4,India
+496,29.2,1,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,137,Pakistan,Green Park,4,India
+497,29.3,0,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,137,Pakistan,Green Park,4,India
+498,29.4,1,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,138,Pakistan,Green Park,4,India
+499,29.5,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,138,Pakistan,Green Park,4,India
+500,29.6,1,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,139,Pakistan,Green Park,4,India
+501,30.1,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,140,Pakistan,Green Park,4,India
+502,30.2,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,141,Pakistan,Green Park,4,India
+503,30.3,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,142,Pakistan,Green Park,4,India
+504,30.4,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,142,Pakistan,Green Park,4,India
+505,30.5,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,142,Pakistan,Green Park,4,India
+506,30.6,1,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,143,Pakistan,Green Park,4,India
+507,31.1,1,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,144,Pakistan,Green Park,4,India
+508,31.2,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,144,Pakistan,Green Park,4,India
+509,31.3,1,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,145,Pakistan,Green Park,4,India
+510,31.4,1,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,146,Pakistan,Green Park,4,India
+511,31.5,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,146,Pakistan,Green Park,4,India
+512,31.6,1,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,147,Pakistan,Green Park,4,India
+513,32.1,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,148,Pakistan,Green Park,4,India
+514,32.2,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,148,Pakistan,Green Park,4,India
+515,32.3,1,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,149,Pakistan,Green Park,4,India
+516,32.4,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,150,Pakistan,Green Park,4,India
+517,32.5,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,151,Pakistan,Green Park,4,India
+518,32.6,1,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,152,Pakistan,Green Park,4,India
+519,32.7,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,152,Pakistan,Green Park,4,India
+520,33.1,1,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,153,Pakistan,Green Park,4,India
+521,33.2,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,153,Pakistan,Green Park,4,India
+522,33.3,1,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,154,Pakistan,Green Park,4,India
+523,33.4,0,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,154,Pakistan,Green Park,4,India
+524,33.5,0,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,154,Pakistan,Green Park,4,India
+525,33.6,1,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,155,Pakistan,Green Park,4,India
+526,34.1,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,155,Pakistan,Green Park,4,India
+527,34.2,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,155,Pakistan,Green Park,4,India
+528,34.3,0,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,155,Pakistan,Green Park,4,India
+529,34.4,1,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,156,Pakistan,Green Park,4,India
+530,34.5,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,157,Pakistan,Green Park,4,India
+531,34.6,4,Harbhajan Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,161,Pakistan,Green Park,4,India
+532,35.1,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,161,Pakistan,Green Park,4,India
+533,35.2,1,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,162,Pakistan,Green Park,4,India
+534,35.3,4,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,166,Pakistan,Green Park,4,India
+535,35.4,1,Yuvraj Singh,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,167,Pakistan,Green Park,4,India
+536,35.5,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,167,Pakistan,Green Park,4,India
+537,35.6,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,168,Pakistan,Green Park,4,India
+538,35.7,0,Yuvraj Singh,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,168,Pakistan,Green Park,4,India
+539,36.1,1,SR Tendulkar,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,169,Pakistan,Green Park,4,India
+540,36.2,1,SR Tendulkar,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,170,Pakistan,Green Park,4,India
+541,36.3,4,SR Tendulkar,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,174,Pakistan,Green Park,4,India
+542,36.4,2,SR Tendulkar,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,176,Pakistan,Green Park,4,India
+543,36.5,1,SR Tendulkar,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,177,Pakistan,Green Park,4,India
+544,36.6,2,SR Tendulkar,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,179,Pakistan,Green Park,4,India
+545,37.1,1,M Kartik,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,180,Pakistan,Green Park,4,India
+546,37.2,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,180,Pakistan,Green Park,4,India
+547,37.3,2,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,182,Pakistan,Green Park,4,India
+548,37.4,2,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,184,Pakistan,Green Park,4,India
+549,37.5,1,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,185,Pakistan,Green Park,4,India
+550,37.6,1,M Kartik,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,186,Pakistan,Green Park,4,India
+551,38.1,1,IK Pathan,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,187,Pakistan,Green Park,4,India
+552,38.2,4,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,191,Pakistan,Green Park,4,India
+553,38.3,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,191,Pakistan,Green Park,4,India
+554,38.4,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,191,Pakistan,Green Park,4,India
+555,38.5,1,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,192,Pakistan,Green Park,4,India
+556,38.6,0,IK Pathan,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,192,Pakistan,Green Park,4,India
+557,39.1,1,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,193,Pakistan,Green Park,4,India
+558,39.2,1,M Kartik,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,194,Pakistan,Green Park,4,India
+559,39.3,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,194,Pakistan,Green Park,4,India
+560,39.4,1,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,195,Pakistan,Green Park,4,India
+561,39.5,4,M Kartik,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,199,Pakistan,Green Park,4,India
+562,39.6,0,M Kartik,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,199,Pakistan,Green Park,4,India
+563,40.1,1,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,200,Pakistan,Green Park,4,India
+564,40.2,1,IK Pathan,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,201,Pakistan,Green Park,4,India
+565,40.3,1,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,202,Pakistan,Green Park,4,India
+566,40.4,1,IK Pathan,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,203,Pakistan,Green Park,4,India
+567,40.5,0,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,203,Pakistan,Green Park,4,India
+568,40.6,2,IK Pathan,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,205,Pakistan,Green Park,4,India
+569,41.1,1,M Kartik,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,206,Pakistan,Green Park,4,India
+570,41.2,2,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,208,Pakistan,Green Park,4,India
+571,41.3,1,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,209,Pakistan,Green Park,4,India
+572,41.4,1,M Kartik,2007-11-11,2nd,Misbah-ul-Haq,0,,Salman Butt,0,India,Pakistan,210,Pakistan,Green Park,4,India
+573,41.5,4,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,214,Pakistan,Green Park,4,India
+574,41.6,0,M Kartik,2007-11-11,2nd,Salman Butt,0,,Misbah-ul-Haq,0,India,Pakistan,214,Pakistan,Green Park,5,India
+575,42.1,0,IK Pathan,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,214,Pakistan,Green Park,5,India
+576,42.2,2,IK Pathan,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,216,Pakistan,Green Park,5,India
+577,42.3,2,IK Pathan,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,218,Pakistan,Green Park,5,India
+578,42.4,4,IK Pathan,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,222,Pakistan,Green Park,5,India
+579,42.5,0,IK Pathan,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,222,Pakistan,Green Park,5,India
+580,42.6,1,IK Pathan,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,223,Pakistan,Green Park,5,India
+581,43.1,0,RP Singh,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,223,Pakistan,Green Park,5,India
+582,43.2,1,RP Singh,2007-11-11,2nd,Kamran Akmal,0,,Salman Butt,0,India,Pakistan,224,Pakistan,Green Park,5,India
+583,43.3,2,RP Singh,2007-11-11,2nd,Salman Butt,0,,Kamran Akmal,0,India,Pakistan,226,Pakistan,Green Park,5,India
+584,43.4,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Kamran Akmal,0,India,Pakistan,226,Pakistan,Green Park,6,India
+585,43.5,4,RP Singh,2007-11-11,2nd,Sohail Tanvir,0,,Salman Butt,0,India,Pakistan,230,Pakistan,Green Park,6,India
+586,43.6,1,RP Singh,2007-11-11,2nd,Sohail Tanvir,0,,Salman Butt,0,India,Pakistan,231,Pakistan,Green Park,7,India
+587,44.1,0,Harbhajan Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,231,Pakistan,Green Park,7,India
+588,44.2,1,Harbhajan Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,232,Pakistan,Green Park,7,India
+589,44.3,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Abdur Rehman,0,India,Pakistan,232,Pakistan,Green Park,7,India
+590,44.4,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Abdur Rehman,0,India,Pakistan,233,Pakistan,Green Park,7,India
+591,44.5,1,Harbhajan Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,234,Pakistan,Green Park,7,India
+592,44.6,0,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Abdur Rehman,0,India,Pakistan,234,Pakistan,Green Park,7,India
+593,45.1,2,RP Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,236,Pakistan,Green Park,7,India
+594,45.2,4,RP Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,240,Pakistan,Green Park,7,India
+595,45.3,0,RP Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,241,Pakistan,Green Park,7,India
+596,45.4,1,RP Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,242,Pakistan,Green Park,7,India
+597,45.5,1,RP Singh,2007-11-11,2nd,Salman Butt,0,,Abdur Rehman,0,India,Pakistan,243,Pakistan,Green Park,7,India
+598,45.6,1,RP Singh,2007-11-11,2nd,Abdur Rehman,0,,Salman Butt,0,India,Pakistan,244,Pakistan,Green Park,7,India
+599,45.7,0,RP Singh,2007-11-11,2nd,Salman Butt,0,,Abdur Rehman,0,India,Pakistan,244,Pakistan,Green Park,8,India
+600,46.1,1,Harbhajan Singh,2007-11-11,2nd,Shoaib Akhtar,0,,Salman Butt,0,India,Pakistan,245,Pakistan,Green Park,8,India
+601,46.2,1,Harbhajan Singh,2007-11-11,2nd,Salman Butt,0,,Shoaib Akhtar,0,India,Pakistan,246,Pakistan,Green Park,8,India
+602,46.3,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Akhtar,0,,Salman Butt,0,India,Pakistan,246,Pakistan,Green Park,8,India
+603,46.4,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Akhtar,0,,Salman Butt,0,India,Pakistan,246,Pakistan,Green Park,8,India
+604,46.5,0,Harbhajan Singh,2007-11-11,2nd,Shoaib Akhtar,0,,Salman Butt,0,India,Pakistan,246,Pakistan,Green Park,9,India
+605,46.6,1,Harbhajan Singh,2007-11-11,2nd,Shoaib Akhtar,0,,Umar Gul,0,India,Pakistan,247,Pakistan,Green Park,9,India
+606,47.1,1,Z Khan,2007-11-11,2nd,Shoaib Akhtar,0,,Umar Gul,0,India,Pakistan,248,Pakistan,Green Park,9,India
+607,47.2,0,Z Khan,2007-11-11,2nd,Umar Gul,0,,Shoaib Akhtar,0,India,Pakistan,248,Pakistan,Green Park,10,India

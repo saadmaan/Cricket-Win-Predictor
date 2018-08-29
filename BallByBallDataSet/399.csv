@@ -1,0 +1,594 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,1,KMDN Kulasekara,2009-08-03,1st,Nasir Jamshed,0,,Kamran Akmal,1,Sri Lanka,Pakistan,1,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+1,0.2,1,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,1,,Nasir Jamshed,1,Sri Lanka,Pakistan,2,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+2,0.3,0,KMDN Kulasekara,2009-08-03,1st,Nasir Jamshed,1,,Kamran Akmal,1,Sri Lanka,Pakistan,2,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+3,0.4,0,KMDN Kulasekara,2009-08-03,1st,Nasir Jamshed,1,,Kamran Akmal,1,Sri Lanka,Pakistan,2,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+4,0.5,4,KMDN Kulasekara,2009-08-03,1st,Nasir Jamshed,1,,Kamran Akmal,5,Sri Lanka,Pakistan,6,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+5,0.6,1,KMDN Kulasekara,2009-08-03,1st,Nasir Jamshed,1,,Kamran Akmal,6,Sri Lanka,Pakistan,7,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+6,1.1,1,T Thushara,2009-08-03,1st,Nasir Jamshed,1,,Kamran Akmal,7,Sri Lanka,Pakistan,8,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+7,1.2,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Nasir Jamshed,1,Sri Lanka,Pakistan,9,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+8,1.3,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Nasir Jamshed,1,Sri Lanka,Pakistan,9,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+9,1.4,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,Nasir Jamshed,Nasir Jamshed,1,Sri Lanka,Pakistan,9,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+10,1.5,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,0,Sri Lanka,Pakistan,9,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+11,1.6,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,0,Sri Lanka,Pakistan,9,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+12,1.7,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,0,Sri Lanka,Pakistan,10,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+13,1.8,1,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,1,Sri Lanka,Pakistan,11,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+14,2.1,2,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,3,Sri Lanka,Pakistan,13,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+15,2.2,0,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,3,Sri Lanka,Pakistan,13,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+16,2.3,1,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,4,Sri Lanka,Pakistan,14,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+17,2.4,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,4,,Kamran Akmal,7,Sri Lanka,Pakistan,14,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+18,2.5,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,4,,Kamran Akmal,7,Sri Lanka,Pakistan,14,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+19,2.6,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,4,,Kamran Akmal,7,Sri Lanka,Pakistan,14,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+20,3.1,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,4,Sri Lanka,Pakistan,14,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+21,3.2,0,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,4,Sri Lanka,Pakistan,14,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+22,3.3,1,T Thushara,2009-08-03,1st,Kamran Akmal,7,,Younis Khan,5,Sri Lanka,Pakistan,15,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+23,3.4,0,T Thushara,2009-08-03,1st,Younis Khan,5,,Kamran Akmal,7,Sri Lanka,Pakistan,15,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+24,3.5,0,T Thushara,2009-08-03,1st,Younis Khan,5,,Kamran Akmal,7,Sri Lanka,Pakistan,15,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+25,3.6,2,T Thushara,2009-08-03,1st,Younis Khan,5,,Kamran Akmal,9,Sri Lanka,Pakistan,17,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+26,4.1,1,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,9,,Younis Khan,6,Sri Lanka,Pakistan,18,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+27,4.2,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,6,,Kamran Akmal,9,Sri Lanka,Pakistan,18,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+28,4.3,3,KMDN Kulasekara,2009-08-03,1st,Younis Khan,6,,Kamran Akmal,12,Sri Lanka,Pakistan,21,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+29,4.4,0,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,6,Sri Lanka,Pakistan,21,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+30,4.5,1,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,7,Sri Lanka,Pakistan,22,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+31,4.6,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,7,,Kamran Akmal,12,Sri Lanka,Pakistan,22,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+32,5.1,4,T Thushara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,11,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+33,5.2,0,T Thushara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,11,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+34,5.3,0,T Thushara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,11,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+35,5.4,0,T Thushara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,11,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+36,5.5,0,T Thushara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,11,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+37,5.6,0,T Thushara,2009-08-03,1st,Kamran Akmal,12,,Younis Khan,11,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+38,6.1,4,KMDN Kulasekara,2009-08-03,1st,Younis Khan,11,,Kamran Akmal,16,Sri Lanka,Pakistan,30,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+39,6.2,4,KMDN Kulasekara,2009-08-03,1st,Younis Khan,11,,Kamran Akmal,20,Sri Lanka,Pakistan,34,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+40,6.3,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,11,,Kamran Akmal,20,Sri Lanka,Pakistan,34,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+41,6.4,1,KMDN Kulasekara,2009-08-03,1st,Younis Khan,11,,Kamran Akmal,21,Sri Lanka,Pakistan,35,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+42,6.5,4,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,21,,Younis Khan,15,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+43,6.6,0,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,21,,Younis Khan,15,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+44,7.1,0,T Thushara,2009-08-03,1st,Younis Khan,15,,Kamran Akmal,21,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+45,7.2,4,T Thushara,2009-08-03,1st,Younis Khan,15,,Kamran Akmal,25,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+46,7.3,0,T Thushara,2009-08-03,1st,Younis Khan,15,,Kamran Akmal,25,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+47,7.4,0,T Thushara,2009-08-03,1st,Younis Khan,15,,Kamran Akmal,25,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+48,7.5,0,T Thushara,2009-08-03,1st,Younis Khan,15,,Kamran Akmal,25,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+49,7.6,0,T Thushara,2009-08-03,1st,Younis Khan,15,,Kamran Akmal,25,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+50,8.1,0,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,25,,Younis Khan,15,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+51,8.2,0,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,25,,Younis Khan,15,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+52,8.3,1,KMDN Kulasekara,2009-08-03,1st,Kamran Akmal,25,,Younis Khan,16,Sri Lanka,Pakistan,44,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+53,8.4,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,16,,Kamran Akmal,25,Sri Lanka,Pakistan,44,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+54,8.5,4,KMDN Kulasekara,2009-08-03,1st,Younis Khan,16,,Kamran Akmal,29,Sri Lanka,Pakistan,48,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+55,8.6,0,KMDN Kulasekara,2009-08-03,1st,Younis Khan,16,,Kamran Akmal,29,Sri Lanka,Pakistan,48,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+56,9.1,0,T Thushara,2009-08-03,1st,Kamran Akmal,29,,Younis Khan,16,Sri Lanka,Pakistan,48,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+57,9.2,0,T Thushara,2009-08-03,1st,Kamran Akmal,29,,Younis Khan,16,Sri Lanka,Pakistan,48,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+58,9.3,0,T Thushara,2009-08-03,1st,Kamran Akmal,29,,Younis Khan,16,Sri Lanka,Pakistan,48,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+59,9.4,4,T Thushara,2009-08-03,1st,Kamran Akmal,29,,Younis Khan,20,Sri Lanka,Pakistan,52,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+60,9.5,4,T Thushara,2009-08-03,1st,Kamran Akmal,29,,Younis Khan,24,Sri Lanka,Pakistan,56,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+61,9.6,0,T Thushara,2009-08-03,1st,Kamran Akmal,29,,Younis Khan,24,Sri Lanka,Pakistan,56,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+62,10.1,0,CRD Fernando,2009-08-03,1st,Younis Khan,24,,Kamran Akmal,29,Sri Lanka,Pakistan,56,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+63,10.2,0,CRD Fernando,2009-08-03,1st,Younis Khan,24,,Kamran Akmal,29,Sri Lanka,Pakistan,56,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+64,10.3,4,CRD Fernando,2009-08-03,1st,Younis Khan,24,,Kamran Akmal,33,Sri Lanka,Pakistan,60,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+65,10.4,1,CRD Fernando,2009-08-03,1st,Younis Khan,24,,Kamran Akmal,34,Sri Lanka,Pakistan,61,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+66,10.5,1,CRD Fernando,2009-08-03,1st,Kamran Akmal,34,,Younis Khan,25,Sri Lanka,Pakistan,62,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+67,10.6,0,CRD Fernando,2009-08-03,1st,Younis Khan,25,,Kamran Akmal,34,Sri Lanka,Pakistan,62,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+68,11.1,0,T Thushara,2009-08-03,1st,Kamran Akmal,34,,Younis Khan,25,Sri Lanka,Pakistan,62,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+69,11.2,1,T Thushara,2009-08-03,1st,Kamran Akmal,34,,Younis Khan,26,Sri Lanka,Pakistan,63,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+70,11.3,1,T Thushara,2009-08-03,1st,Younis Khan,26,,Kamran Akmal,35,Sri Lanka,Pakistan,64,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+71,11.4,0,T Thushara,2009-08-03,1st,Kamran Akmal,35,,Younis Khan,26,Sri Lanka,Pakistan,64,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+72,11.5,0,T Thushara,2009-08-03,1st,Kamran Akmal,35,,Younis Khan,26,Sri Lanka,Pakistan,64,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+73,11.6,0,T Thushara,2009-08-03,1st,Kamran Akmal,35,,Younis Khan,26,Sri Lanka,Pakistan,64,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+74,12.1,0,CRD Fernando,2009-08-03,1st,Younis Khan,26,,Kamran Akmal,35,Sri Lanka,Pakistan,64,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+75,12.2,1,CRD Fernando,2009-08-03,1st,Younis Khan,26,,Kamran Akmal,36,Sri Lanka,Pakistan,65,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+76,12.3,1,CRD Fernando,2009-08-03,1st,Kamran Akmal,36,,Younis Khan,27,Sri Lanka,Pakistan,66,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+77,12.4,0,CRD Fernando,2009-08-03,1st,Younis Khan,27,,Kamran Akmal,36,Sri Lanka,Pakistan,66,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+78,12.5,1,CRD Fernando,2009-08-03,1st,Younis Khan,27,,Kamran Akmal,37,Sri Lanka,Pakistan,67,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+79,12.6,0,CRD Fernando,2009-08-03,1st,Kamran Akmal,37,,Younis Khan,27,Sri Lanka,Pakistan,67,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+80,13.1,2,T Thushara,2009-08-03,1st,Younis Khan,27,,Kamran Akmal,39,Sri Lanka,Pakistan,69,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+81,13.2,0,T Thushara,2009-08-03,1st,Younis Khan,27,,Kamran Akmal,39,Sri Lanka,Pakistan,69,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+82,13.3,1,T Thushara,2009-08-03,1st,Younis Khan,27,,Kamran Akmal,40,Sri Lanka,Pakistan,70,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+83,13.4,0,T Thushara,2009-08-03,1st,Kamran Akmal,40,,Younis Khan,27,Sri Lanka,Pakistan,71,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+84,13.5,0,T Thushara,2009-08-03,1st,Kamran Akmal,40,,Younis Khan,27,Sri Lanka,Pakistan,71,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+85,13.6,2,T Thushara,2009-08-03,1st,Kamran Akmal,40,,Younis Khan,29,Sri Lanka,Pakistan,73,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+86,13.7,1,T Thushara,2009-08-03,1st,Kamran Akmal,40,,Younis Khan,30,Sri Lanka,Pakistan,74,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+87,14.1,0,CRD Fernando,2009-08-03,1st,Kamran Akmal,40,,Younis Khan,30,Sri Lanka,Pakistan,74,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+88,14.2,1,CRD Fernando,2009-08-03,1st,Kamran Akmal,40,,Younis Khan,31,Sri Lanka,Pakistan,75,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+89,14.3,0,CRD Fernando,2009-08-03,1st,Younis Khan,31,,Kamran Akmal,40,Sri Lanka,Pakistan,75,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+90,14.4,0,CRD Fernando,2009-08-03,1st,Younis Khan,31,,Kamran Akmal,40,Sri Lanka,Pakistan,75,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+91,14.5,1,CRD Fernando,2009-08-03,1st,Younis Khan,31,,Kamran Akmal,41,Sri Lanka,Pakistan,76,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+92,14.6,0,CRD Fernando,2009-08-03,1st,Kamran Akmal,41,,Younis Khan,31,Sri Lanka,Pakistan,76,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+93,15.1,4,AD Mathews,2009-08-03,1st,Younis Khan,31,,Kamran Akmal,45,Sri Lanka,Pakistan,80,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+94,15.2,0,AD Mathews,2009-08-03,1st,Younis Khan,31,Kamran Akmal,Kamran Akmal,45,Sri Lanka,Pakistan,80,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+95,15.3,0,AD Mathews,2009-08-03,1st,Younis Khan,31,,Shoaib Malik,0,Sri Lanka,Pakistan,80,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+96,15.4,1,AD Mathews,2009-08-03,1st,Younis Khan,31,,Shoaib Malik,1,Sri Lanka,Pakistan,81,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+97,15.5,1,AD Mathews,2009-08-03,1st,Shoaib Malik,1,,Younis Khan,32,Sri Lanka,Pakistan,82,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+98,15.6,0,AD Mathews,2009-08-03,1st,Younis Khan,32,,Shoaib Malik,1,Sri Lanka,Pakistan,82,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+99,16.1,1,CRD Fernando,2009-08-03,1st,Shoaib Malik,1,,Younis Khan,33,Sri Lanka,Pakistan,83,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+100,16.2,1,CRD Fernando,2009-08-03,1st,Younis Khan,33,,Shoaib Malik,2,Sri Lanka,Pakistan,84,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+101,16.3,4,CRD Fernando,2009-08-03,1st,Shoaib Malik,2,,Younis Khan,37,Sri Lanka,Pakistan,88,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+102,16.4,0,CRD Fernando,2009-08-03,1st,Shoaib Malik,2,,Younis Khan,37,Sri Lanka,Pakistan,88,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+103,16.5,1,CRD Fernando,2009-08-03,1st,Shoaib Malik,2,,Younis Khan,38,Sri Lanka,Pakistan,89,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+104,16.6,1,CRD Fernando,2009-08-03,1st,Younis Khan,38,,Shoaib Malik,3,Sri Lanka,Pakistan,90,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+105,17.1,1,AD Mathews,2009-08-03,1st,Younis Khan,38,,Shoaib Malik,4,Sri Lanka,Pakistan,91,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+106,17.2,0,AD Mathews,2009-08-03,1st,Shoaib Malik,4,,Younis Khan,38,Sri Lanka,Pakistan,91,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+107,17.3,0,AD Mathews,2009-08-03,1st,Shoaib Malik,4,,Younis Khan,38,Sri Lanka,Pakistan,91,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+108,17.4,1,AD Mathews,2009-08-03,1st,Shoaib Malik,4,,Younis Khan,39,Sri Lanka,Pakistan,92,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+109,17.5,4,AD Mathews,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,8,Sri Lanka,Pakistan,96,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+110,17.6,1,AD Mathews,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,9,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+111,18.1,0,CRD Fernando,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,9,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+112,18.2,0,CRD Fernando,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,9,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+113,18.3,0,CRD Fernando,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,9,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+114,18.4,0,CRD Fernando,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,9,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+115,18.5,0,CRD Fernando,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,9,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+116,18.6,0,CRD Fernando,2009-08-03,1st,Younis Khan,39,,Shoaib Malik,9,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+117,19.1,0,AD Mathews,2009-08-03,1st,Shoaib Malik,9,,Younis Khan,39,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+118,19.2,0,AD Mathews,2009-08-03,1st,Shoaib Malik,9,,Younis Khan,39,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+119,19.3,1,AD Mathews,2009-08-03,1st,Shoaib Malik,9,,Younis Khan,40,Sri Lanka,Pakistan,98,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+120,19.4,1,AD Mathews,2009-08-03,1st,Younis Khan,40,,Shoaib Malik,10,Sri Lanka,Pakistan,99,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+121,19.5,0,AD Mathews,2009-08-03,1st,Shoaib Malik,10,,Younis Khan,40,Sri Lanka,Pakistan,99,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+122,19.6,0,AD Mathews,2009-08-03,1st,Shoaib Malik,10,,Younis Khan,40,Sri Lanka,Pakistan,99,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+123,20.1,2,CRD Fernando,2009-08-03,1st,Younis Khan,40,,Shoaib Malik,12,Sri Lanka,Pakistan,101,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+124,20.2,0,CRD Fernando,2009-08-03,1st,Younis Khan,40,,Shoaib Malik,12,Sri Lanka,Pakistan,101,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+125,20.3,0,CRD Fernando,2009-08-03,1st,Younis Khan,40,Shoaib Malik,Shoaib Malik,12,Sri Lanka,Pakistan,101,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+126,20.4,1,CRD Fernando,2009-08-03,1st,Younis Khan,40,,Umar Akmal,1,Sri Lanka,Pakistan,102,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+127,20.5,0,CRD Fernando,2009-08-03,1st,Umar Akmal,1,,Younis Khan,40,Sri Lanka,Pakistan,102,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+128,20.6,4,CRD Fernando,2009-08-03,1st,Umar Akmal,1,,Younis Khan,44,Sri Lanka,Pakistan,106,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+129,21.1,1,AD Mathews,2009-08-03,1st,Younis Khan,44,,Umar Akmal,2,Sri Lanka,Pakistan,107,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+130,21.2,0,AD Mathews,2009-08-03,1st,Umar Akmal,2,Younis Khan,Younis Khan,44,Sri Lanka,Pakistan,107,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+131,21.3,0,AD Mathews,2009-08-03,1st,Fawad Alam,0,,Umar Akmal,2,Sri Lanka,Pakistan,107,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+132,21.4,0,AD Mathews,2009-08-03,1st,Fawad Alam,0,,Umar Akmal,2,Sri Lanka,Pakistan,107,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+133,21.5,0,AD Mathews,2009-08-03,1st,Fawad Alam,0,,Umar Akmal,2,Sri Lanka,Pakistan,107,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+134,21.6,4,AD Mathews,2009-08-03,1st,Fawad Alam,0,,Umar Akmal,6,Sri Lanka,Pakistan,111,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+135,22.1,0,CRD Fernando,2009-08-03,1st,Umar Akmal,6,,Fawad Alam,0,Sri Lanka,Pakistan,111,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+136,22.2,0,CRD Fernando,2009-08-03,1st,Umar Akmal,6,,Fawad Alam,0,Sri Lanka,Pakistan,111,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+137,22.3,1,CRD Fernando,2009-08-03,1st,Umar Akmal,6,,Fawad Alam,1,Sri Lanka,Pakistan,112,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+138,22.4,1,CRD Fernando,2009-08-03,1st,Fawad Alam,1,,Umar Akmal,7,Sri Lanka,Pakistan,113,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+139,22.5,1,CRD Fernando,2009-08-03,1st,Umar Akmal,7,,Fawad Alam,2,Sri Lanka,Pakistan,114,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+140,22.6,1,CRD Fernando,2009-08-03,1st,Fawad Alam,2,,Umar Akmal,8,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+141,23.1,0,M Muralitharan,2009-08-03,1st,Fawad Alam,2,,Umar Akmal,8,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+142,23.2,0,M Muralitharan,2009-08-03,1st,Fawad Alam,2,,Umar Akmal,8,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+143,23.3,1,M Muralitharan,2009-08-03,1st,Fawad Alam,2,,Umar Akmal,9,Sri Lanka,Pakistan,116,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+144,23.4,1,M Muralitharan,2009-08-03,1st,Umar Akmal,9,,Fawad Alam,3,Sri Lanka,Pakistan,117,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+145,23.5,0,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,9,Sri Lanka,Pakistan,117,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+146,23.6,1,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,10,Sri Lanka,Pakistan,118,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+147,24.1,0,AD Mathews,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,10,Sri Lanka,Pakistan,118,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+148,24.2,0,AD Mathews,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,10,Sri Lanka,Pakistan,118,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+149,24.3,1,AD Mathews,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,11,Sri Lanka,Pakistan,119,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+150,24.4,0,AD Mathews,2009-08-03,1st,Umar Akmal,11,,Fawad Alam,3,Sri Lanka,Pakistan,119,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+151,24.5,0,AD Mathews,2009-08-03,1st,Umar Akmal,11,,Fawad Alam,3,Sri Lanka,Pakistan,119,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+152,24.6,0,AD Mathews,2009-08-03,1st,Umar Akmal,11,,Fawad Alam,3,Sri Lanka,Pakistan,119,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+153,25.1,4,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,15,Sri Lanka,Pakistan,123,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+154,25.2,0,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,15,Sri Lanka,Pakistan,123,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+155,25.3,0,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,15,Sri Lanka,Pakistan,123,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+156,25.4,0,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,15,Sri Lanka,Pakistan,123,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+157,25.5,0,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,15,Sri Lanka,Pakistan,123,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+158,25.6,2,M Muralitharan,2009-08-03,1st,Fawad Alam,3,,Umar Akmal,17,Sri Lanka,Pakistan,125,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+159,26.1,1,AD Mathews,2009-08-03,1st,Umar Akmal,17,,Fawad Alam,4,Sri Lanka,Pakistan,126,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+160,26.2,0,AD Mathews,2009-08-03,1st,Fawad Alam,4,,Umar Akmal,17,Sri Lanka,Pakistan,126,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+161,26.3,1,AD Mathews,2009-08-03,1st,Fawad Alam,4,,Umar Akmal,18,Sri Lanka,Pakistan,127,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+162,26.4,0,AD Mathews,2009-08-03,1st,Umar Akmal,18,,Fawad Alam,4,Sri Lanka,Pakistan,127,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+163,26.5,0,AD Mathews,2009-08-03,1st,Umar Akmal,18,,Fawad Alam,4,Sri Lanka,Pakistan,127,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+164,26.6,1,AD Mathews,2009-08-03,1st,Umar Akmal,18,,Fawad Alam,5,Sri Lanka,Pakistan,128,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+165,27.1,0,M Muralitharan,2009-08-03,1st,Umar Akmal,18,,Fawad Alam,5,Sri Lanka,Pakistan,128,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+166,27.2,0,M Muralitharan,2009-08-03,1st,Umar Akmal,18,,Fawad Alam,5,Sri Lanka,Pakistan,128,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+167,27.3,1,M Muralitharan,2009-08-03,1st,Umar Akmal,18,,Fawad Alam,6,Sri Lanka,Pakistan,129,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+168,27.4,1,M Muralitharan,2009-08-03,1st,Fawad Alam,6,,Umar Akmal,19,Sri Lanka,Pakistan,130,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+169,27.5,4,M Muralitharan,2009-08-03,1st,Umar Akmal,19,,Fawad Alam,10,Sri Lanka,Pakistan,134,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+170,27.6,0,M Muralitharan,2009-08-03,1st,Umar Akmal,19,,Fawad Alam,10,Sri Lanka,Pakistan,134,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+171,28.1,0,AD Mathews,2009-08-03,1st,Fawad Alam,10,,Umar Akmal,19,Sri Lanka,Pakistan,134,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+172,28.2,1,AD Mathews,2009-08-03,1st,Fawad Alam,10,,Umar Akmal,20,Sri Lanka,Pakistan,135,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+173,28.3,0,AD Mathews,2009-08-03,1st,Umar Akmal,20,,Fawad Alam,10,Sri Lanka,Pakistan,135,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+174,28.4,0,AD Mathews,2009-08-03,1st,Umar Akmal,20,,Fawad Alam,10,Sri Lanka,Pakistan,135,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+175,28.5,0,AD Mathews,2009-08-03,1st,Umar Akmal,20,,Fawad Alam,10,Sri Lanka,Pakistan,135,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+176,28.6,0,AD Mathews,2009-08-03,1st,Umar Akmal,20,,Fawad Alam,10,Sri Lanka,Pakistan,135,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+177,29.1,1,M Muralitharan,2009-08-03,1st,Fawad Alam,10,,Umar Akmal,21,Sri Lanka,Pakistan,136,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+178,29.2,0,M Muralitharan,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,10,Sri Lanka,Pakistan,136,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+179,29.3,0,M Muralitharan,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,10,Sri Lanka,Pakistan,136,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+180,29.4,0,M Muralitharan,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,10,Sri Lanka,Pakistan,137,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+181,29.5,0,M Muralitharan,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,10,Sri Lanka,Pakistan,137,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+182,29.6,0,M Muralitharan,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,10,Sri Lanka,Pakistan,137,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+183,29.7,1,M Muralitharan,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,11,Sri Lanka,Pakistan,138,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+184,30.1,0,AD Mathews,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,11,Sri Lanka,Pakistan,138,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+185,30.2,1,AD Mathews,2009-08-03,1st,Umar Akmal,21,,Fawad Alam,12,Sri Lanka,Pakistan,139,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+186,30.3,1,AD Mathews,2009-08-03,1st,Fawad Alam,12,,Umar Akmal,22,Sri Lanka,Pakistan,140,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+187,30.4,0,AD Mathews,2009-08-03,1st,Umar Akmal,22,,Fawad Alam,12,Sri Lanka,Pakistan,140,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+188,30.5,0,AD Mathews,2009-08-03,1st,Umar Akmal,22,,Fawad Alam,12,Sri Lanka,Pakistan,140,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+189,30.6,0,AD Mathews,2009-08-03,1st,Umar Akmal,22,,Fawad Alam,12,Sri Lanka,Pakistan,140,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+190,31.1,0,M Muralitharan,2009-08-03,1st,Fawad Alam,12,,Umar Akmal,22,Sri Lanka,Pakistan,140,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+191,31.2,1,M Muralitharan,2009-08-03,1st,Fawad Alam,12,,Umar Akmal,23,Sri Lanka,Pakistan,141,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+192,31.3,1,M Muralitharan,2009-08-03,1st,Umar Akmal,23,,Fawad Alam,13,Sri Lanka,Pakistan,142,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+193,31.4,0,M Muralitharan,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,23,Sri Lanka,Pakistan,143,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+194,31.5,2,M Muralitharan,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,25,Sri Lanka,Pakistan,145,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+195,31.6,0,M Muralitharan,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,25,Sri Lanka,Pakistan,145,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+196,31.7,1,M Muralitharan,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,26,Sri Lanka,Pakistan,146,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+197,32.1,0,AD Mathews,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,26,Sri Lanka,Pakistan,146,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+198,32.2,0,AD Mathews,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,26,Sri Lanka,Pakistan,146,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+199,32.3,0,AD Mathews,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,26,Sri Lanka,Pakistan,146,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+200,32.4,2,AD Mathews,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,28,Sri Lanka,Pakistan,148,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+201,32.5,1,AD Mathews,2009-08-03,1st,Fawad Alam,13,,Umar Akmal,29,Sri Lanka,Pakistan,149,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+202,32.6,0,AD Mathews,2009-08-03,1st,Umar Akmal,29,Fawad Alam,Fawad Alam,13,Sri Lanka,Pakistan,149,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+203,33.1,1,M Muralitharan,2009-08-03,1st,Shahid Afridi,0,,Umar Akmal,30,Sri Lanka,Pakistan,150,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+204,33.2,1,M Muralitharan,2009-08-03,1st,Umar Akmal,30,,Shahid Afridi,1,Sri Lanka,Pakistan,151,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+205,33.3,0,M Muralitharan,2009-08-03,1st,Shahid Afridi,1,,Umar Akmal,30,Sri Lanka,Pakistan,151,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+206,33.4,1,M Muralitharan,2009-08-03,1st,Shahid Afridi,1,,Umar Akmal,31,Sri Lanka,Pakistan,152,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+207,33.5,1,M Muralitharan,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,2,Sri Lanka,Pakistan,153,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+208,33.6,0,M Muralitharan,2009-08-03,1st,Shahid Afridi,2,,Umar Akmal,31,Sri Lanka,Pakistan,153,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+209,34.1,4,AD Mathews,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,6,Sri Lanka,Pakistan,157,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+210,34.2,4,AD Mathews,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,10,Sri Lanka,Pakistan,161,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+211,34.3,0,AD Mathews,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,10,Sri Lanka,Pakistan,161,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+212,34.4,0,AD Mathews,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,10,Sri Lanka,Pakistan,161,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+213,34.5,2,AD Mathews,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,12,Sri Lanka,Pakistan,163,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+214,34.6,1,AD Mathews,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,13,Sri Lanka,Pakistan,164,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+215,35.1,4,M Muralitharan,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,17,Sri Lanka,Pakistan,168,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+216,35.2,4,M Muralitharan,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,21,Sri Lanka,Pakistan,172,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+217,35.3,2,M Muralitharan,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,23,Sri Lanka,Pakistan,174,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+218,35.4,0,M Muralitharan,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,23,Sri Lanka,Pakistan,174,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+219,35.5,1,M Muralitharan,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,24,Sri Lanka,Pakistan,175,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+220,35.6,0,M Muralitharan,2009-08-03,1st,Shahid Afridi,24,,Umar Akmal,31,Sri Lanka,Pakistan,175,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+221,36.1,0,KMDN Kulasekara,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,24,Sri Lanka,Pakistan,175,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+222,36.2,4,KMDN Kulasekara,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,28,Sri Lanka,Pakistan,179,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+223,36.3,1,KMDN Kulasekara,2009-08-03,1st,Umar Akmal,31,,Shahid Afridi,29,Sri Lanka,Pakistan,180,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+224,36.4,4,KMDN Kulasekara,2009-08-03,1st,Shahid Afridi,29,,Umar Akmal,35,Sri Lanka,Pakistan,184,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+225,36.5,1,KMDN Kulasekara,2009-08-03,1st,Shahid Afridi,29,,Umar Akmal,36,Sri Lanka,Pakistan,185,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+226,36.6,0,KMDN Kulasekara,2009-08-03,1st,Umar Akmal,36,,Shahid Afridi,29,Sri Lanka,Pakistan,185,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+227,37.1,1,M Muralitharan,2009-08-03,1st,Shahid Afridi,29,,Umar Akmal,37,Sri Lanka,Pakistan,186,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+228,37.2,3,M Muralitharan,2009-08-03,1st,Umar Akmal,37,,Shahid Afridi,32,Sri Lanka,Pakistan,189,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+229,37.3,1,M Muralitharan,2009-08-03,1st,Shahid Afridi,32,,Umar Akmal,38,Sri Lanka,Pakistan,190,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+230,37.4,0,M Muralitharan,2009-08-03,1st,Umar Akmal,38,,Shahid Afridi,32,Sri Lanka,Pakistan,190,Sri Lanka,Rangiri Dambulla International Stadium,5,Sri Lanka
+231,37.5,0,M Muralitharan,2009-08-03,1st,Umar Akmal,38,Shahid Afridi,Shahid Afridi,32,Sri Lanka,Pakistan,190,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+232,37.6,0,M Muralitharan,2009-08-03,1st,Umar Akmal,38,,Abdul Razzaq,0,Sri Lanka,Pakistan,190,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+233,38.1,2,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,40,Sri Lanka,Pakistan,192,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+234,38.2,0,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,40,Sri Lanka,Pakistan,192,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+235,38.3,0,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,40,Sri Lanka,Pakistan,192,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+236,38.4,0,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,40,Sri Lanka,Pakistan,192,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+237,38.5,1,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,41,Sri Lanka,Pakistan,193,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+238,38.6,0,KMDN Kulasekara,2009-08-03,1st,Umar Akmal,41,,Abdul Razzaq,0,Sri Lanka,Pakistan,193,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+239,39.1,0,M Muralitharan,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,41,Sri Lanka,Pakistan,193,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+240,39.2,1,M Muralitharan,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,42,Sri Lanka,Pakistan,194,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+241,39.3,0,M Muralitharan,2009-08-03,1st,Umar Akmal,42,,Abdul Razzaq,0,Sri Lanka,Pakistan,195,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+242,39.4,4,M Muralitharan,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,46,Sri Lanka,Pakistan,199,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+243,39.5,2,M Muralitharan,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,48,Sri Lanka,Pakistan,201,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+244,39.6,1,M Muralitharan,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,49,Sri Lanka,Pakistan,202,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+245,40.1,1,CRD Fernando,2009-08-03,1st,Abdul Razzaq,0,,Umar Akmal,50,Sri Lanka,Pakistan,203,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+246,40.2,1,CRD Fernando,2009-08-03,1st,Umar Akmal,50,,Abdul Razzaq,1,Sri Lanka,Pakistan,204,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+247,40.3,6,CRD Fernando,2009-08-03,1st,Abdul Razzaq,1,,Umar Akmal,56,Sri Lanka,Pakistan,210,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+248,40.4,0,CRD Fernando,2009-08-03,1st,Abdul Razzaq,1,,Umar Akmal,56,Sri Lanka,Pakistan,210,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+249,40.5,4,CRD Fernando,2009-08-03,1st,Abdul Razzaq,1,,Umar Akmal,60,Sri Lanka,Pakistan,214,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+250,40.6,0,CRD Fernando,2009-08-03,1st,Abdul Razzaq,1,,Umar Akmal,60,Sri Lanka,Pakistan,214,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+251,41.1,0,M Muralitharan,2009-08-03,1st,Umar Akmal,60,,Abdul Razzaq,1,Sri Lanka,Pakistan,219,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+252,41.2,1,M Muralitharan,2009-08-03,1st,Umar Akmal,60,,Abdul Razzaq,2,Sri Lanka,Pakistan,220,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+253,41.3,6,M Muralitharan,2009-08-03,1st,Abdul Razzaq,2,,Umar Akmal,66,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,6,Sri Lanka
+254,41.4,0,M Muralitharan,2009-08-03,1st,Abdul Razzaq,2,Umar Akmal,Umar Akmal,66,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+255,41.5,0,M Muralitharan,2009-08-03,1st,Abdul Razzaq,2,,Naved-ul-Hasan,0,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+256,41.6,0,M Muralitharan,2009-08-03,1st,Abdul Razzaq,2,,Naved-ul-Hasan,0,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+257,41.7,0,M Muralitharan,2009-08-03,1st,Abdul Razzaq,2,,Naved-ul-Hasan,0,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+258,42.1,0,CRD Fernando,2009-08-03,1st,Naved-ul-Hasan,0,,Abdul Razzaq,2,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+259,42.2,0,CRD Fernando,2009-08-03,1st,Naved-ul-Hasan,0,,Abdul Razzaq,2,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+260,42.3,4,CRD Fernando,2009-08-03,1st,Naved-ul-Hasan,0,,Abdul Razzaq,6,Sri Lanka,Pakistan,230,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+261,42.4,1,CRD Fernando,2009-08-03,1st,Naved-ul-Hasan,0,,Abdul Razzaq,7,Sri Lanka,Pakistan,231,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+262,42.5,0,CRD Fernando,2009-08-03,1st,Abdul Razzaq,7,,Naved-ul-Hasan,0,Sri Lanka,Pakistan,231,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+263,42.6,2,CRD Fernando,2009-08-03,1st,Abdul Razzaq,7,,Naved-ul-Hasan,2,Sri Lanka,Pakistan,233,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+264,43.1,0,T Thushara,2009-08-03,1st,Naved-ul-Hasan,2,,Abdul Razzaq,7,Sri Lanka,Pakistan,233,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+265,43.2,0,T Thushara,2009-08-03,1st,Naved-ul-Hasan,2,,Abdul Razzaq,7,Sri Lanka,Pakistan,233,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+266,43.3,6,T Thushara,2009-08-03,1st,Naved-ul-Hasan,2,,Abdul Razzaq,13,Sri Lanka,Pakistan,239,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+267,43.4,1,T Thushara,2009-08-03,1st,Naved-ul-Hasan,2,,Abdul Razzaq,14,Sri Lanka,Pakistan,240,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+268,43.5,0,T Thushara,2009-08-03,1st,Abdul Razzaq,14,,Naved-ul-Hasan,2,Sri Lanka,Pakistan,240,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+269,43.6,0,T Thushara,2009-08-03,1st,Abdul Razzaq,14,,Naved-ul-Hasan,2,Sri Lanka,Pakistan,240,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+270,44.1,1,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,2,,Abdul Razzaq,15,Sri Lanka,Pakistan,241,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+271,44.2,1,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,15,,Naved-ul-Hasan,3,Sri Lanka,Pakistan,242,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+272,44.3,1,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,3,,Abdul Razzaq,16,Sri Lanka,Pakistan,243,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+273,44.4,6,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,16,,Naved-ul-Hasan,9,Sri Lanka,Pakistan,249,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+274,44.5,1,KMDN Kulasekara,2009-08-03,1st,Abdul Razzaq,16,,Naved-ul-Hasan,10,Sri Lanka,Pakistan,250,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+275,44.6,1,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,10,,Abdul Razzaq,17,Sri Lanka,Pakistan,251,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+276,45.1,1,T Thushara,2009-08-03,1st,Naved-ul-Hasan,10,,Abdul Razzaq,18,Sri Lanka,Pakistan,252,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+277,45.2,1,T Thushara,2009-08-03,1st,Abdul Razzaq,18,,Naved-ul-Hasan,11,Sri Lanka,Pakistan,253,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+278,45.3,0,T Thushara,2009-08-03,1st,Naved-ul-Hasan,11,,Abdul Razzaq,18,Sri Lanka,Pakistan,253,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+279,45.4,1,T Thushara,2009-08-03,1st,Naved-ul-Hasan,11,,Abdul Razzaq,19,Sri Lanka,Pakistan,254,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+280,45.5,1,T Thushara,2009-08-03,1st,Abdul Razzaq,19,,Naved-ul-Hasan,12,Sri Lanka,Pakistan,255,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+281,45.6,1,T Thushara,2009-08-03,1st,Naved-ul-Hasan,12,,Abdul Razzaq,20,Sri Lanka,Pakistan,256,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+282,46.1,0,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,12,,Abdul Razzaq,20,Sri Lanka,Pakistan,256,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+283,46.2,6,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,12,,Abdul Razzaq,26,Sri Lanka,Pakistan,262,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+284,46.3,2,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,12,,Abdul Razzaq,28,Sri Lanka,Pakistan,264,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+285,46.4,0,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,12,,Abdul Razzaq,28,Sri Lanka,Pakistan,264,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+286,46.5,2,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,12,,Abdul Razzaq,30,Sri Lanka,Pakistan,266,Sri Lanka,Rangiri Dambulla International Stadium,7,Sri Lanka
+287,46.6,0,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,12,Abdul Razzaq,Abdul Razzaq,30,Sri Lanka,Pakistan,266,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+288,47.1,0,T Thushara,2009-08-03,1st,Mohammad Amir,0,,Naved-ul-Hasan,12,Sri Lanka,Pakistan,266,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+289,47.2,0,T Thushara,2009-08-03,1st,Mohammad Amir,0,,Naved-ul-Hasan,12,Sri Lanka,Pakistan,266,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+290,47.3,1,T Thushara,2009-08-03,1st,Mohammad Amir,0,,Naved-ul-Hasan,13,Sri Lanka,Pakistan,267,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+291,47.4,0,T Thushara,2009-08-03,1st,Naved-ul-Hasan,13,,Mohammad Amir,0,Sri Lanka,Pakistan,267,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+292,47.5,1,T Thushara,2009-08-03,1st,Naved-ul-Hasan,13,,Mohammad Amir,1,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+293,47.6,0,T Thushara,2009-08-03,1st,Mohammad Amir,1,,Naved-ul-Hasan,13,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+294,48.1,1,CRD Fernando,2009-08-03,1st,Naved-ul-Hasan,13,,Mohammad Amir,2,Sri Lanka,Pakistan,269,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+295,48.2,4,CRD Fernando,2009-08-03,1st,Mohammad Amir,2,,Naved-ul-Hasan,17,Sri Lanka,Pakistan,273,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+296,48.3,0,CRD Fernando,2009-08-03,1st,Mohammad Amir,2,,Naved-ul-Hasan,17,Sri Lanka,Pakistan,273,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+297,48.4,1,CRD Fernando,2009-08-03,1st,Mohammad Amir,2,,Naved-ul-Hasan,18,Sri Lanka,Pakistan,274,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+298,48.5,1,CRD Fernando,2009-08-03,1st,Naved-ul-Hasan,18,,Mohammad Amir,3,Sri Lanka,Pakistan,275,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+299,48.6,6,CRD Fernando,2009-08-03,1st,Mohammad Amir,3,,Naved-ul-Hasan,24,Sri Lanka,Pakistan,281,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+300,49.1,0,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,24,,Mohammad Amir,3,Sri Lanka,Pakistan,281,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+301,49.2,0,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,24,,Mohammad Amir,3,Sri Lanka,Pakistan,281,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+302,49.3,1,KMDN Kulasekara,2009-08-03,1st,Naved-ul-Hasan,24,,Mohammad Amir,4,Sri Lanka,Pakistan,282,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+303,49.4,2,KMDN Kulasekara,2009-08-03,1st,Mohammad Amir,4,,Naved-ul-Hasan,26,Sri Lanka,Pakistan,284,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+304,49.5,2,KMDN Kulasekara,2009-08-03,1st,Mohammad Amir,4,,Naved-ul-Hasan,28,Sri Lanka,Pakistan,286,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+305,49.6,2,KMDN Kulasekara,2009-08-03,1st,Mohammad Amir,4,,Naved-ul-Hasan,30,Sri Lanka,Pakistan,288,Sri Lanka,Rangiri Dambulla International Stadium,8,Sri Lanka
+306,0.1,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,0,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+307,0.2,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,0,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+308,0.3,1,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,1,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+309,0.4,1,Mohammad Amir,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,2,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+310,0.5,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,2,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+311,0.6,1,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,3,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+312,1.1,0,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,3,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+313,1.2,4,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,7,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+314,1.3,4,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,11,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+315,1.4,0,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,11,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+316,1.5,0,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,11,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+317,1.6,0,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,11,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+318,2.1,1,Mohammad Amir,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,12,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+319,2.2,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,12,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+320,2.3,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,12,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+321,2.4,2,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,14,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+322,2.5,4,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,18,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+323,2.6,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,18,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+324,3.1,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,18,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+325,3.2,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,18,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+326,3.3,4,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,22,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+327,3.4,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,22,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+328,3.5,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,22,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+329,3.6,4,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+330,4.1,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+331,4.2,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,26,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+332,4.3,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,27,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+333,4.4,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,27,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+334,4.5,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,27,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+335,4.6,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,27,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+336,4.7,4,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,31,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+337,5.1,4,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,35,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+338,5.2,4,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+339,5.3,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+340,5.4,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+341,5.5,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+342,5.6,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,39,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+343,6.1,4,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+344,6.2,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+345,6.3,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+346,6.4,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+347,6.5,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,43,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+348,6.6,1,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,44,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+349,7.1,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,44,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+350,7.2,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,45,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+351,7.3,3,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,48,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+352,7.4,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,48,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+353,7.5,4,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,52,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+354,7.6,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,52,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+355,8.1,0,Mohammad Amir,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,52,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+356,8.2,1,Mohammad Amir,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,53,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+357,8.3,0,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,53,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+358,8.4,1,Mohammad Amir,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,54,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+359,8.5,4,Mohammad Amir,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,58,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+360,8.6,0,Mohammad Amir,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,58,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+361,9.1,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,59,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+362,9.2,4,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,63,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+363,9.3,2,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,65,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+364,9.4,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,65,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+365,9.5,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,65,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+366,9.6,1,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,66,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+367,10.1,2,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,68,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+368,10.2,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,69,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+369,10.3,0,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,70,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+370,10.4,0,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,70,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+371,10.5,2,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,72,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+372,10.6,0,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,72,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+373,10.7,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,73,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+374,11.1,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,74,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+375,11.2,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,74,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+376,11.3,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,74,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+377,11.4,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,74,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+378,11.5,1,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,75,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+379,11.6,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,75,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+380,12.1,0,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,75,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+381,12.2,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,76,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+382,12.3,4,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,80,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+383,12.4,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,81,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+384,12.5,0,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,81,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+385,12.6,0,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,81,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+386,13.1,4,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,85,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+387,13.2,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,86,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+388,13.3,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,86,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+389,13.4,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,86,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+390,13.5,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,86,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+391,13.6,1,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,87,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+392,14.1,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,88,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+393,14.2,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,89,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+394,14.3,6,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,95,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+395,14.4,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,96,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+396,14.5,0,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,96,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+397,14.6,0,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,96,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+398,15.1,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+399,15.2,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+400,15.3,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,97,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+401,15.4,1,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,98,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+402,15.5,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,99,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+403,15.6,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,99,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+404,16.1,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,100,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+405,16.2,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,101,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+406,16.3,0,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,101,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+407,16.4,4,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,105,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+408,16.5,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,106,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+409,16.6,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,107,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+410,17.1,1,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,108,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+411,17.2,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,108,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+412,17.3,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,109,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+413,17.4,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,109,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+414,17.5,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,109,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+415,17.6,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,109,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+416,18.1,1,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,110,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+417,18.2,1,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,111,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+418,18.3,1,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,112,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+419,18.4,1,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,113,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+420,18.5,1,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,114,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+421,18.6,0,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,114,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+422,19.1,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+423,19.2,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+424,19.3,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+425,19.4,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+426,19.5,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+427,19.6,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,115,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+428,19.7,3,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,118,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+429,20.1,1,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,119,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+430,20.2,0,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,119,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+431,20.3,1,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,120,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+432,20.4,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,120,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+433,20.5,1,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,121,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+434,20.6,0,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,121,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+435,21.1,4,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,125,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+436,21.2,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,125,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+437,21.3,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,125,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+438,21.4,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,126,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+439,21.5,1,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,127,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+440,21.6,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,128,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+441,22.1,1,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,129,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+442,22.2,1,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,130,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+443,22.3,4,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,134,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+444,22.4,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,134,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+445,22.5,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,135,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+446,22.6,0,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,135,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+447,22.7,1,Abdul Razzaq,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,136,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+448,23.1,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,137,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+449,23.2,1,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,138,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+450,23.3,0,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,138,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+451,23.4,4,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,142,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+452,23.5,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,143,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+453,23.6,1,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,144,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+454,24.1,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,144,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+455,24.2,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,144,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+456,24.3,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,144,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+457,24.4,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,145,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+458,24.5,1,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,146,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+459,24.6,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,147,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+460,25.1,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,147,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+461,25.2,1,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,148,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+462,25.3,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,149,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+463,25.4,1,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,150,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+464,25.5,1,Saeed Ajmal,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,151,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+465,25.6,4,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,155,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+466,26.1,1,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,156,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+467,26.2,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,157,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+468,26.3,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,157,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+469,26.4,4,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,161,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+470,26.5,2,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,163,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+471,26.6,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,164,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+472,27.1,2,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,166,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+473,27.2,2,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,168,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+474,27.3,1,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,169,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+475,27.4,1,Shoaib Malik,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,170,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+476,27.5,1,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,171,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+477,27.6,0,Shoaib Malik,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,171,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+478,28.1,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,171,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+479,28.2,0,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,171,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+480,28.3,1,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,172,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+481,28.4,0,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,172,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+482,28.5,1,Naved-ul-Hasan,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,173,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+483,28.6,4,Naved-ul-Hasan,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,177,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+484,29.1,0,Shoaib Malik,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,177,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+485,29.2,0,Shoaib Malik,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,178,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+486,29.3,0,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,178,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+487,29.4,2,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,180,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+488,29.5,0,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,181,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+489,29.6,0,Shoaib Malik,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,181,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+490,30.1,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,182,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+491,30.2,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,183,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+492,30.3,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,184,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+493,30.4,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,185,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+494,30.5,4,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,189,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+495,30.6,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,190,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+496,31.1,0,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,190,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+497,31.2,0,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,191,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+498,31.3,1,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,192,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+499,31.4,1,Shoaib Malik,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,193,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+500,31.5,1,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,194,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+501,31.6,1,Shoaib Malik,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,195,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+502,31.7,1,Shoaib Malik,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,196,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+503,32.1,1,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,197,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+504,32.2,2,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,199,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+505,32.3,0,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,199,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+506,32.4,1,Shahid Afridi,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,200,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+507,32.5,0,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,200,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+508,32.6,2,Shahid Afridi,2009-08-03,2nd,WU Tharanga,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,202,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+509,33.1,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,202,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+510,33.2,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,202,Sri Lanka,Rangiri Dambulla International Stadium,0,Sri Lanka
+511,33.3,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,WU Tharanga,0,Sri Lanka,Pakistan,202,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+512,33.4,2,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,204,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+513,33.5,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,204,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+514,33.6,0,Saeed Ajmal,2009-08-03,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,204,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+515,34.1,1,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,205,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+516,34.2,1,Abdul Razzaq,2009-08-03,2nd,DPMD Jayawardene,0,,KC Sangakkara,0,Sri Lanka,Pakistan,206,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+517,34.3,4,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,210,Sri Lanka,Rangiri Dambulla International Stadium,1,Sri Lanka
+518,34.4,0,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,DPMD Jayawardene,0,Sri Lanka,Pakistan,210,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+519,34.5,1,Abdul Razzaq,2009-08-03,2nd,TT Samaraweera,0,,KC Sangakkara,0,Sri Lanka,Pakistan,211,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+520,34.6,0,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,TT Samaraweera,0,Sri Lanka,Pakistan,211,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+521,35.1,1,Saeed Ajmal,2009-08-03,2nd,TT Samaraweera,0,,KC Sangakkara,0,Sri Lanka,Pakistan,212,Sri Lanka,Rangiri Dambulla International Stadium,2,Sri Lanka
+522,35.2,0,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,TT Samaraweera,0,Sri Lanka,Pakistan,212,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+523,35.3,0,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,212,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+524,35.4,4,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,216,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+525,35.5,2,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,218,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+526,35.6,0,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,218,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+527,36.1,1,Abdul Razzaq,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,219,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+528,36.2,1,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,220,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+529,36.3,1,Abdul Razzaq,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,221,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+530,36.4,0,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,221,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+531,36.5,1,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,222,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+532,36.6,0,Abdul Razzaq,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,222,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+533,37.1,2,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,224,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+534,37.2,1,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,225,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+535,37.3,0,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,225,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+536,37.4,0,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,226,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+537,37.5,1,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,227,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+538,37.6,0,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,227,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+539,37.7,1,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,228,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+540,38.1,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,228,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+541,38.2,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,228,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+542,38.3,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,228,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+543,38.4,1,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,229,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+544,38.5,0,Mohammad Amir,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,229,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+545,38.6,1,Mohammad Amir,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,230,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+546,39.1,2,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,232,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+547,39.2,0,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,232,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+548,39.3,0,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,232,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+549,39.4,0,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,232,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+550,39.5,4,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,236,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+551,39.6,2,Shoaib Malik,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,238,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+552,40.1,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,238,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+553,40.2,1,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,239,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+554,40.3,1,Mohammad Amir,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,240,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+555,40.4,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,241,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+556,40.5,1,Mohammad Amir,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,242,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+557,40.6,1,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,243,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+558,41.1,4,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,247,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+559,41.2,1,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,248,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+560,41.3,4,Abdul Razzaq,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,252,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+561,41.4,1,Abdul Razzaq,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,253,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+562,41.5,0,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,253,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+563,41.6,1,Abdul Razzaq,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,254,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+564,42.1,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,254,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+565,42.2,1,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,255,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+566,42.3,1,Mohammad Amir,2009-08-03,2nd,SHT Kandamby,0,,KC Sangakkara,0,Sri Lanka,Pakistan,256,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+567,42.4,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,256,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+568,42.5,2,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,258,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+569,42.6,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,259,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+570,42.7,1,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,260,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+571,43.1,0,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,260,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+572,43.2,4,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,264,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+573,43.3,0,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,264,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+574,43.4,2,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,266,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+575,43.5,0,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,267,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+576,43.6,0,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,267,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+577,43.7,1,Shoaib Malik,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,3,Sri Lanka
+578,44.1,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,SHT Kandamby,0,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+579,44.2,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+580,44.3,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+581,44.4,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+582,44.5,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+583,44.6,0,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,268,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+584,45.1,4,Saeed Ajmal,2009-08-03,2nd,CK Kapugedera,0,,KC Sangakkara,0,Sri Lanka,Pakistan,272,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+585,45.2,1,Saeed Ajmal,2009-08-03,2nd,CK Kapugedera,0,,KC Sangakkara,0,Sri Lanka,Pakistan,273,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+586,45.3,4,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,277,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+587,45.4,0,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,278,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+588,45.5,1,Saeed Ajmal,2009-08-03,2nd,CK Kapugedera,0,,KC Sangakkara,0,Sri Lanka,Pakistan,279,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+589,45.6,3,Saeed Ajmal,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,282,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+590,46.1,1,Mohammad Amir,2009-08-03,2nd,KC Sangakkara,0,,CK Kapugedera,0,Sri Lanka,Pakistan,283,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+591,46.2,4,Mohammad Amir,2009-08-03,2nd,CK Kapugedera,0,,KC Sangakkara,0,Sri Lanka,Pakistan,287,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka
+592,46.3,2,Mohammad Amir,2009-08-03,2nd,CK Kapugedera,0,,KC Sangakkara,0,Sri Lanka,Pakistan,289,Sri Lanka,Rangiri Dambulla International Stadium,4,Sri Lanka

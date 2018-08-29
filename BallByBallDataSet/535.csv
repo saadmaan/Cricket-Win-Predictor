@@ -1,0 +1,615 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,A Nehra,2010-01-07,1st,Imrul Kayes,0,,Tamim Iqbal,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,0,India
+1,0.2,4,A Nehra,2010-01-07,1st,Imrul Kayes,0,,Tamim Iqbal,4,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,0,India
+2,0.3,0,A Nehra,2010-01-07,1st,Imrul Kayes,0,,Tamim Iqbal,4,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,0,India
+3,0.4,2,A Nehra,2010-01-07,1st,Imrul Kayes,0,,Tamim Iqbal,6,Bangladesh,India,6,Bangladesh,Shere Bangla National Stadium,0,India
+4,0.5,0,A Nehra,2010-01-07,1st,Imrul Kayes,0,,Tamim Iqbal,6,Bangladesh,India,6,Bangladesh,Shere Bangla National Stadium,0,India
+5,0.6,0,A Nehra,2010-01-07,1st,Imrul Kayes,0,,Tamim Iqbal,6,Bangladesh,India,6,Bangladesh,Shere Bangla National Stadium,0,India
+6,1.1,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,6,,Imrul Kayes,0,Bangladesh,India,6,Bangladesh,Shere Bangla National Stadium,0,India
+7,1.2,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,6,,Imrul Kayes,0,Bangladesh,India,6,Bangladesh,Shere Bangla National Stadium,0,India
+8,1.3,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,6,,Imrul Kayes,0,Bangladesh,India,6,Bangladesh,Shere Bangla National Stadium,0,India
+9,1.4,1,S Sreesanth,2010-01-07,1st,Tamim Iqbal,6,,Imrul Kayes,1,Bangladesh,India,7,Bangladesh,Shere Bangla National Stadium,0,India
+10,1.5,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,1,,Tamim Iqbal,6,Bangladesh,India,7,Bangladesh,Shere Bangla National Stadium,0,India
+11,1.6,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,1,,Tamim Iqbal,6,Bangladesh,India,7,Bangladesh,Shere Bangla National Stadium,0,India
+12,2.1,0,A Nehra,2010-01-07,1st,Tamim Iqbal,6,,Imrul Kayes,1,Bangladesh,India,7,Bangladesh,Shere Bangla National Stadium,0,India
+13,2.2,0,A Nehra,2010-01-07,1st,Tamim Iqbal,6,,Imrul Kayes,1,Bangladesh,India,7,Bangladesh,Shere Bangla National Stadium,0,India
+14,2.3,1,A Nehra,2010-01-07,1st,Tamim Iqbal,6,,Imrul Kayes,2,Bangladesh,India,8,Bangladesh,Shere Bangla National Stadium,0,India
+15,2.4,0,A Nehra,2010-01-07,1st,Imrul Kayes,2,,Tamim Iqbal,6,Bangladesh,India,8,Bangladesh,Shere Bangla National Stadium,0,India
+16,2.5,0,A Nehra,2010-01-07,1st,Imrul Kayes,2,,Tamim Iqbal,6,Bangladesh,India,8,Bangladesh,Shere Bangla National Stadium,0,India
+17,2.6,0,A Nehra,2010-01-07,1st,Imrul Kayes,2,,Tamim Iqbal,6,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+18,2.7,6,A Nehra,2010-01-07,1st,Imrul Kayes,2,,Tamim Iqbal,12,Bangladesh,India,15,Bangladesh,Shere Bangla National Stadium,0,India
+19,3.1,1,S Sreesanth,2010-01-07,1st,Tamim Iqbal,12,,Imrul Kayes,3,Bangladesh,India,16,Bangladesh,Shere Bangla National Stadium,0,India
+20,3.2,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,12,Bangladesh,India,16,Bangladesh,Shere Bangla National Stadium,0,India
+21,3.3,3,S Sreesanth,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,15,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,0,India
+22,3.4,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,15,,Imrul Kayes,3,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,0,India
+23,3.5,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,15,,Imrul Kayes,3,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,0,India
+24,3.6,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,15,,Imrul Kayes,3,Bangladesh,India,19,Bangladesh,Shere Bangla National Stadium,0,India
+25,4.1,4,A Nehra,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,19,Bangladesh,India,23,Bangladesh,Shere Bangla National Stadium,0,India
+26,4.2,4,A Nehra,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,23,Bangladesh,India,27,Bangladesh,Shere Bangla National Stadium,0,India
+27,4.3,0,A Nehra,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,23,Bangladesh,India,27,Bangladesh,Shere Bangla National Stadium,0,India
+28,4.4,1,A Nehra,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,24,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,0,India
+29,4.5,0,A Nehra,2010-01-07,1st,Tamim Iqbal,24,,Imrul Kayes,3,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,0,India
+30,4.6,0,A Nehra,2010-01-07,1st,Tamim Iqbal,24,,Imrul Kayes,3,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,0,India
+31,5.1,4,S Sreesanth,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,28,Bangladesh,India,32,Bangladesh,Shere Bangla National Stadium,0,India
+32,5.2,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,28,Bangladesh,India,32,Bangladesh,Shere Bangla National Stadium,0,India
+33,5.3,4,S Sreesanth,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,32,Bangladesh,India,36,Bangladesh,Shere Bangla National Stadium,0,India
+34,5.4,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,32,Bangladesh,India,36,Bangladesh,Shere Bangla National Stadium,0,India
+35,5.5,1,S Sreesanth,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,33,Bangladesh,India,38,Bangladesh,Shere Bangla National Stadium,0,India
+36,5.6,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,33,,Imrul Kayes,3,Bangladesh,India,38,Bangladesh,Shere Bangla National Stadium,0,India
+37,5.7,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,33,,Imrul Kayes,3,Bangladesh,India,38,Bangladesh,Shere Bangla National Stadium,0,India
+38,6.1,1,Z Khan,2010-01-07,1st,Imrul Kayes,3,,Tamim Iqbal,34,Bangladesh,India,39,Bangladesh,Shere Bangla National Stadium,0,India
+39,6.2,1,Z Khan,2010-01-07,1st,Tamim Iqbal,34,,Imrul Kayes,4,Bangladesh,India,40,Bangladesh,Shere Bangla National Stadium,0,India
+40,6.3,4,Z Khan,2010-01-07,1st,Imrul Kayes,4,,Tamim Iqbal,38,Bangladesh,India,44,Bangladesh,Shere Bangla National Stadium,0,India
+41,6.4,1,Z Khan,2010-01-07,1st,Imrul Kayes,4,,Tamim Iqbal,39,Bangladesh,India,45,Bangladesh,Shere Bangla National Stadium,0,India
+42,6.5,1,Z Khan,2010-01-07,1st,Tamim Iqbal,39,,Imrul Kayes,5,Bangladesh,India,46,Bangladesh,Shere Bangla National Stadium,0,India
+43,6.6,1,Z Khan,2010-01-07,1st,Imrul Kayes,5,,Tamim Iqbal,40,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,0,India
+44,7.1,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,5,,Tamim Iqbal,40,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,0,India
+45,7.2,1,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,5,,Tamim Iqbal,41,Bangladesh,India,48,Bangladesh,Shere Bangla National Stadium,0,India
+46,7.3,0,Harbhajan Singh,2010-01-07,1st,Tamim Iqbal,41,,Imrul Kayes,5,Bangladesh,India,48,Bangladesh,Shere Bangla National Stadium,0,India
+47,7.4,3,Harbhajan Singh,2010-01-07,1st,Tamim Iqbal,41,,Imrul Kayes,8,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,0,India
+48,7.5,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,8,,Tamim Iqbal,41,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,0,India
+49,7.6,4,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,8,,Tamim Iqbal,45,Bangladesh,India,55,Bangladesh,Shere Bangla National Stadium,0,India
+50,8.1,4,Z Khan,2010-01-07,1st,Tamim Iqbal,45,,Imrul Kayes,12,Bangladesh,India,59,Bangladesh,Shere Bangla National Stadium,0,India
+51,8.2,0,Z Khan,2010-01-07,1st,Tamim Iqbal,45,,Imrul Kayes,12,Bangladesh,India,59,Bangladesh,Shere Bangla National Stadium,0,India
+52,8.3,0,Z Khan,2010-01-07,1st,Tamim Iqbal,45,,Imrul Kayes,12,Bangladesh,India,59,Bangladesh,Shere Bangla National Stadium,0,India
+53,8.4,1,Z Khan,2010-01-07,1st,Tamim Iqbal,45,,Imrul Kayes,13,Bangladesh,India,60,Bangladesh,Shere Bangla National Stadium,0,India
+54,8.5,4,Z Khan,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,49,Bangladesh,India,64,Bangladesh,Shere Bangla National Stadium,0,India
+55,8.6,1,Z Khan,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,50,Bangladesh,India,65,Bangladesh,Shere Bangla National Stadium,0,India
+56,9.1,4,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,54,Bangladesh,India,69,Bangladesh,Shere Bangla National Stadium,0,India
+57,9.2,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,54,Bangladesh,India,69,Bangladesh,Shere Bangla National Stadium,0,India
+58,9.3,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,54,Bangladesh,India,69,Bangladesh,Shere Bangla National Stadium,0,India
+59,9.4,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,54,Bangladesh,India,69,Bangladesh,Shere Bangla National Stadium,0,India
+60,9.5,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,54,Bangladesh,India,69,Bangladesh,Shere Bangla National Stadium,0,India
+61,9.6,4,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,13,,Tamim Iqbal,58,Bangladesh,India,73,Bangladesh,Shere Bangla National Stadium,0,India
+62,10.1,1,S Sreesanth,2010-01-07,1st,Tamim Iqbal,58,,Imrul Kayes,14,Bangladesh,India,74,Bangladesh,Shere Bangla National Stadium,0,India
+63,10.2,1,S Sreesanth,2010-01-07,1st,Imrul Kayes,14,,Tamim Iqbal,59,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,0,India
+64,10.3,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,59,,Imrul Kayes,14,Bangladesh,India,77,Bangladesh,Shere Bangla National Stadium,0,India
+65,10.4,1,S Sreesanth,2010-01-07,1st,Tamim Iqbal,59,,Imrul Kayes,15,Bangladesh,India,78,Bangladesh,Shere Bangla National Stadium,0,India
+66,10.5,1,S Sreesanth,2010-01-07,1st,Imrul Kayes,15,,Tamim Iqbal,60,Bangladesh,India,79,Bangladesh,Shere Bangla National Stadium,0,India
+67,10.6,0,S Sreesanth,2010-01-07,1st,Tamim Iqbal,60,,Imrul Kayes,15,Bangladesh,India,79,Bangladesh,Shere Bangla National Stadium,0,India
+68,10.7,1,S Sreesanth,2010-01-07,1st,Tamim Iqbal,60,,Imrul Kayes,16,Bangladesh,India,80,Bangladesh,Shere Bangla National Stadium,0,India
+69,10.8,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,16,Tamim Iqbal,Tamim Iqbal,60,Bangladesh,India,80,Bangladesh,Shere Bangla National Stadium,1,India
+70,11.1,4,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,0,,Imrul Kayes,20,Bangladesh,India,84,Bangladesh,Shere Bangla National Stadium,1,India
+71,11.2,0,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,0,,Imrul Kayes,20,Bangladesh,India,84,Bangladesh,Shere Bangla National Stadium,1,India
+72,11.3,1,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,0,,Imrul Kayes,21,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+73,11.4,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,21,,Mohammad Ashraful,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+74,11.5,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,21,,Mohammad Ashraful,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+75,11.6,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,21,,Mohammad Ashraful,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+76,12.1,0,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,0,,Imrul Kayes,21,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,1,India
+77,12.2,1,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,0,,Imrul Kayes,22,Bangladesh,India,86,Bangladesh,Shere Bangla National Stadium,1,India
+78,12.3,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,22,,Mohammad Ashraful,0,Bangladesh,India,86,Bangladesh,Shere Bangla National Stadium,1,India
+79,12.4,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,22,,Mohammad Ashraful,0,Bangladesh,India,86,Bangladesh,Shere Bangla National Stadium,1,India
+80,12.5,1,S Sreesanth,2010-01-07,1st,Imrul Kayes,22,,Mohammad Ashraful,1,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,1,India
+81,12.6,1,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,1,,Imrul Kayes,23,Bangladesh,India,88,Bangladesh,Shere Bangla National Stadium,1,India
+82,13.1,0,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,1,,Imrul Kayes,23,Bangladesh,India,88,Bangladesh,Shere Bangla National Stadium,1,India
+83,13.2,1,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,1,,Imrul Kayes,24,Bangladesh,India,89,Bangladesh,Shere Bangla National Stadium,1,India
+84,13.3,1,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,24,,Mohammad Ashraful,2,Bangladesh,India,90,Bangladesh,Shere Bangla National Stadium,1,India
+85,13.4,0,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,2,,Imrul Kayes,24,Bangladesh,India,90,Bangladesh,Shere Bangla National Stadium,1,India
+86,13.5,0,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,2,,Imrul Kayes,24,Bangladesh,India,90,Bangladesh,Shere Bangla National Stadium,1,India
+87,13.6,1,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,2,,Imrul Kayes,25,Bangladesh,India,91,Bangladesh,Shere Bangla National Stadium,1,India
+88,14.1,4,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,2,,Imrul Kayes,29,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,1,India
+89,14.2,0,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,2,,Imrul Kayes,29,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,1,India
+90,14.3,1,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,2,,Imrul Kayes,30,Bangladesh,India,96,Bangladesh,Shere Bangla National Stadium,1,India
+91,14.4,0,S Sreesanth,2010-01-07,1st,Imrul Kayes,30,,Mohammad Ashraful,2,Bangladesh,India,96,Bangladesh,Shere Bangla National Stadium,1,India
+92,14.5,1,S Sreesanth,2010-01-07,1st,Imrul Kayes,30,,Mohammad Ashraful,3,Bangladesh,India,97,Bangladesh,Shere Bangla National Stadium,1,India
+93,14.6,0,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,3,,Imrul Kayes,30,Bangladesh,India,98,Bangladesh,Shere Bangla National Stadium,1,India
+94,14.7,0,S Sreesanth,2010-01-07,1st,Mohammad Ashraful,3,,Imrul Kayes,30,Bangladesh,India,98,Bangladesh,Shere Bangla National Stadium,1,India
+95,15.1,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,30,,Mohammad Ashraful,3,Bangladesh,India,100,Bangladesh,Shere Bangla National Stadium,1,India
+96,15.2,0,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,3,,Imrul Kayes,30,Bangladesh,India,100,Bangladesh,Shere Bangla National Stadium,1,India
+97,15.3,0,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,3,,Imrul Kayes,30,Bangladesh,India,100,Bangladesh,Shere Bangla National Stadium,1,India
+98,15.4,1,Harbhajan Singh,2010-01-07,1st,Mohammad Ashraful,3,,Imrul Kayes,31,Bangladesh,India,101,Bangladesh,Shere Bangla National Stadium,1,India
+99,15.5,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,31,,Mohammad Ashraful,3,Bangladesh,India,101,Bangladesh,Shere Bangla National Stadium,1,India
+100,15.6,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,31,,Mohammad Ashraful,3,Bangladesh,India,101,Bangladesh,Shere Bangla National Stadium,1,India
+101,15.7,4,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,31,,Mohammad Ashraful,7,Bangladesh,India,105,Bangladesh,Shere Bangla National Stadium,1,India
+102,16.1,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,7,,Imrul Kayes,31,Bangladesh,India,105,Bangladesh,Shere Bangla National Stadium,1,India
+103,16.2,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,7,,Imrul Kayes,31,Bangladesh,India,105,Bangladesh,Shere Bangla National Stadium,1,India
+104,16.3,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,7,,Imrul Kayes,32,Bangladesh,India,106,Bangladesh,Shere Bangla National Stadium,1,India
+105,16.4,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,7,Bangladesh,India,107,Bangladesh,Shere Bangla National Stadium,1,India
+106,16.5,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,7,,Imrul Kayes,32,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,1,India
+107,16.6,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,7,,Imrul Kayes,32,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,1,India
+108,16.7,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,7,,Imrul Kayes,32,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,1,India
+109,17.1,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,7,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,1,India
+110,17.2,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,7,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,1,India
+111,17.3,4,RA Jadeja,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,11,Bangladesh,India,112,Bangladesh,Shere Bangla National Stadium,1,India
+112,17.4,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,11,Bangladesh,India,112,Bangladesh,Shere Bangla National Stadium,1,India
+113,17.5,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,11,Bangladesh,India,112,Bangladesh,Shere Bangla National Stadium,1,India
+114,17.6,1,RA Jadeja,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,12,Bangladesh,India,113,Bangladesh,Shere Bangla National Stadium,1,India
+115,18.1,1,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,32,,Mohammad Ashraful,13,Bangladesh,India,114,Bangladesh,Shere Bangla National Stadium,1,India
+116,18.2,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,13,,Imrul Kayes,33,Bangladesh,India,115,Bangladesh,Shere Bangla National Stadium,1,India
+117,18.3,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,33,,Mohammad Ashraful,13,Bangladesh,India,115,Bangladesh,Shere Bangla National Stadium,1,India
+118,18.4,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,33,,Mohammad Ashraful,13,Bangladesh,India,115,Bangladesh,Shere Bangla National Stadium,1,India
+119,18.5,1,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,33,,Mohammad Ashraful,14,Bangladesh,India,116,Bangladesh,Shere Bangla National Stadium,1,India
+120,18.6,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,14,,Imrul Kayes,34,Bangladesh,India,117,Bangladesh,Shere Bangla National Stadium,1,India
+121,19.1,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,14,,Imrul Kayes,34,Bangladesh,India,117,Bangladesh,Shere Bangla National Stadium,1,India
+122,19.2,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,14,,Imrul Kayes,34,Bangladesh,India,117,Bangladesh,Shere Bangla National Stadium,1,India
+123,19.3,1,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,14,,Imrul Kayes,35,Bangladesh,India,118,Bangladesh,Shere Bangla National Stadium,1,India
+124,19.4,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,35,,Mohammad Ashraful,14,Bangladesh,India,118,Bangladesh,Shere Bangla National Stadium,1,India
+125,19.5,4,RA Jadeja,2010-01-07,1st,Imrul Kayes,35,,Mohammad Ashraful,18,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,1,India
+126,19.6,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,35,,Mohammad Ashraful,18,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,1,India
+127,20.1,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,18,,Imrul Kayes,36,Bangladesh,India,123,Bangladesh,Shere Bangla National Stadium,1,India
+128,20.2,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,36,,Mohammad Ashraful,18,Bangladesh,India,123,Bangladesh,Shere Bangla National Stadium,1,India
+129,20.3,1,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,36,,Mohammad Ashraful,19,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,1,India
+130,20.4,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,19,,Imrul Kayes,36,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,1,India
+131,20.5,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,19,,Imrul Kayes,37,Bangladesh,India,125,Bangladesh,Shere Bangla National Stadium,1,India
+132,20.6,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,37,,Mohammad Ashraful,19,Bangladesh,India,125,Bangladesh,Shere Bangla National Stadium,1,India
+133,21.1,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,19,,Imrul Kayes,37,Bangladesh,India,125,Bangladesh,Shere Bangla National Stadium,1,India
+134,21.2,1,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,19,,Imrul Kayes,38,Bangladesh,India,126,Bangladesh,Shere Bangla National Stadium,1,India
+135,21.3,1,RA Jadeja,2010-01-07,1st,Imrul Kayes,38,,Mohammad Ashraful,20,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,1,India
+136,21.4,1,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,20,,Imrul Kayes,39,Bangladesh,India,128,Bangladesh,Shere Bangla National Stadium,1,India
+137,21.5,1,RA Jadeja,2010-01-07,1st,Imrul Kayes,39,,Mohammad Ashraful,21,Bangladesh,India,129,Bangladesh,Shere Bangla National Stadium,1,India
+138,21.6,1,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,21,,Imrul Kayes,40,Bangladesh,India,130,Bangladesh,Shere Bangla National Stadium,1,India
+139,22.1,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,21,,Imrul Kayes,40,Bangladesh,India,130,Bangladesh,Shere Bangla National Stadium,1,India
+140,22.2,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,21,,Imrul Kayes,41,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+141,22.3,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,41,,Mohammad Ashraful,21,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+142,22.4,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,41,,Mohammad Ashraful,21,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+143,22.5,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,41,,Mohammad Ashraful,21,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+144,22.6,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,41,,Mohammad Ashraful,21,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+145,23.1,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,21,,Imrul Kayes,41,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+146,23.2,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,21,,Imrul Kayes,41,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,1,India
+147,23.3,1,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,21,,Imrul Kayes,42,Bangladesh,India,132,Bangladesh,Shere Bangla National Stadium,1,India
+148,23.4,2,RA Jadeja,2010-01-07,1st,Imrul Kayes,42,,Mohammad Ashraful,23,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,1,India
+149,23.5,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,42,,Mohammad Ashraful,23,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,1,India
+150,23.6,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,42,,Mohammad Ashraful,23,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,1,India
+151,24.1,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,23,,Imrul Kayes,43,Bangladesh,India,135,Bangladesh,Shere Bangla National Stadium,1,India
+152,24.2,1,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,43,,Mohammad Ashraful,24,Bangladesh,India,136,Bangladesh,Shere Bangla National Stadium,1,India
+153,24.3,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,24,,Imrul Kayes,44,Bangladesh,India,137,Bangladesh,Shere Bangla National Stadium,1,India
+154,24.4,1,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,44,,Mohammad Ashraful,25,Bangladesh,India,138,Bangladesh,Shere Bangla National Stadium,1,India
+155,24.5,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,25,,Imrul Kayes,44,Bangladesh,India,138,Bangladesh,Shere Bangla National Stadium,1,India
+156,24.6,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,25,,Imrul Kayes,44,Bangladesh,India,138,Bangladesh,Shere Bangla National Stadium,1,India
+157,25.1,1,RA Jadeja,2010-01-07,1st,Imrul Kayes,44,,Mohammad Ashraful,26,Bangladesh,India,139,Bangladesh,Shere Bangla National Stadium,1,India
+158,25.2,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,26,,Imrul Kayes,44,Bangladesh,India,139,Bangladesh,Shere Bangla National Stadium,1,India
+159,25.3,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,26,,Imrul Kayes,44,Bangladesh,India,139,Bangladesh,Shere Bangla National Stadium,1,India
+160,25.4,4,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,26,,Imrul Kayes,48,Bangladesh,India,143,Bangladesh,Shere Bangla National Stadium,1,India
+161,25.5,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,26,,Imrul Kayes,48,Bangladesh,India,143,Bangladesh,Shere Bangla National Stadium,1,India
+162,25.6,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,26,,Imrul Kayes,48,Bangladesh,India,143,Bangladesh,Shere Bangla National Stadium,1,India
+163,26.1,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,48,,Mohammad Ashraful,26,Bangladesh,India,143,Bangladesh,Shere Bangla National Stadium,1,India
+164,26.2,1,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,48,,Mohammad Ashraful,27,Bangladesh,India,144,Bangladesh,Shere Bangla National Stadium,1,India
+165,26.3,0,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,27,,Imrul Kayes,48,Bangladesh,India,144,Bangladesh,Shere Bangla National Stadium,1,India
+166,26.4,1,Yuvraj Singh,2010-01-07,1st,Mohammad Ashraful,27,,Imrul Kayes,49,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,1,India
+167,26.5,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,49,,Mohammad Ashraful,27,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,1,India
+168,26.6,0,Yuvraj Singh,2010-01-07,1st,Imrul Kayes,49,,Mohammad Ashraful,27,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,1,India
+169,27.1,0,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,27,,Imrul Kayes,49,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,1,India
+170,27.2,1,RA Jadeja,2010-01-07,1st,Mohammad Ashraful,27,,Imrul Kayes,50,Bangladesh,India,146,Bangladesh,Shere Bangla National Stadium,1,India
+171,27.3,2,RA Jadeja,2010-01-07,1st,Imrul Kayes,50,,Mohammad Ashraful,29,Bangladesh,India,148,Bangladesh,Shere Bangla National Stadium,1,India
+172,27.4,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,50,,Mohammad Ashraful,29,Bangladesh,India,148,Bangladesh,Shere Bangla National Stadium,1,India
+173,27.5,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,50,Mohammad Ashraful,Mohammad Ashraful,29,Bangladesh,India,148,Bangladesh,Shere Bangla National Stadium,2,India
+174,27.6,0,RA Jadeja,2010-01-07,1st,Imrul Kayes,50,,Shakib Al Hasan,0,Bangladesh,India,148,Bangladesh,Shere Bangla National Stadium,2,India
+175,28.1,2,V Sehwag,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,52,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,2,India
+176,28.2,0,V Sehwag,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,52,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,2,India
+177,28.3,0,V Sehwag,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,52,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,2,India
+178,28.4,0,V Sehwag,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,52,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,2,India
+179,28.5,0,V Sehwag,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,52,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,2,India
+180,28.6,1,V Sehwag,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,53,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,2,India
+181,29.1,0,Harbhajan Singh,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,53,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,2,India
+182,29.2,4,Harbhajan Singh,2010-01-07,1st,Shakib Al Hasan,0,,Imrul Kayes,57,Bangladesh,India,155,Bangladesh,Shere Bangla National Stadium,2,India
+183,29.3,1,Harbhajan Singh,2010-01-07,1st,Shakib Al Hasan,0,Shakib Al Hasan,Imrul Kayes,58,Bangladesh,India,156,Bangladesh,Shere Bangla National Stadium,3,India
+184,29.4,1,Harbhajan Singh,2010-01-07,1st,Raqibul Hasan,0,,Imrul Kayes,59,Bangladesh,India,157,Bangladesh,Shere Bangla National Stadium,3,India
+185,29.5,2,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,59,,Raqibul Hasan,2,Bangladesh,India,159,Bangladesh,Shere Bangla National Stadium,3,India
+186,29.6,0,Harbhajan Singh,2010-01-07,1st,Imrul Kayes,59,,Raqibul Hasan,2,Bangladesh,India,159,Bangladesh,Shere Bangla National Stadium,3,India
+187,30.1,0,V Sehwag,2010-01-07,1st,Raqibul Hasan,2,,Imrul Kayes,59,Bangladesh,India,159,Bangladesh,Shere Bangla National Stadium,3,India
+188,30.2,0,V Sehwag,2010-01-07,1st,Raqibul Hasan,2,,Imrul Kayes,59,Bangladesh,India,159,Bangladesh,Shere Bangla National Stadium,3,India
+189,30.3,1,V Sehwag,2010-01-07,1st,Raqibul Hasan,2,,Imrul Kayes,60,Bangladesh,India,160,Bangladesh,Shere Bangla National Stadium,3,India
+190,30.4,0,V Sehwag,2010-01-07,1st,Imrul Kayes,60,,Raqibul Hasan,2,Bangladesh,India,162,Bangladesh,Shere Bangla National Stadium,3,India
+191,30.5,6,V Sehwag,2010-01-07,1st,Raqibul Hasan,2,,Imrul Kayes,66,Bangladesh,India,168,Bangladesh,Shere Bangla National Stadium,3,India
+192,30.6,1,V Sehwag,2010-01-07,1st,Raqibul Hasan,2,,Imrul Kayes,67,Bangladesh,India,169,Bangladesh,Shere Bangla National Stadium,3,India
+193,30.7,0,V Sehwag,2010-01-07,1st,Imrul Kayes,67,,Raqibul Hasan,2,Bangladesh,India,173,Bangladesh,Shere Bangla National Stadium,3,India
+194,30.8,0,V Sehwag,2010-01-07,1st,Raqibul Hasan,2,,Imrul Kayes,67,Bangladesh,India,173,Bangladesh,Shere Bangla National Stadium,3,India
+195,31.1,1,Z Khan,2010-01-07,1st,Imrul Kayes,67,,Raqibul Hasan,3,Bangladesh,India,174,Bangladesh,Shere Bangla National Stadium,3,India
+196,31.2,2,Z Khan,2010-01-07,1st,Raqibul Hasan,3,,Imrul Kayes,69,Bangladesh,India,176,Bangladesh,Shere Bangla National Stadium,3,India
+197,31.3,0,Z Khan,2010-01-07,1st,Raqibul Hasan,3,,Imrul Kayes,69,Bangladesh,India,176,Bangladesh,Shere Bangla National Stadium,3,India
+198,31.4,1,Z Khan,2010-01-07,1st,Raqibul Hasan,3,,Imrul Kayes,70,Bangladesh,India,177,Bangladesh,Shere Bangla National Stadium,3,India
+199,31.5,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,3,Bangladesh,India,178,Bangladesh,Shere Bangla National Stadium,3,India
+200,31.6,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,3,Bangladesh,India,178,Bangladesh,Shere Bangla National Stadium,3,India
+201,31.7,1,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,4,Bangladesh,India,179,Bangladesh,Shere Bangla National Stadium,3,India
+202,32.1,0,A Nehra,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,4,Bangladesh,India,179,Bangladesh,Shere Bangla National Stadium,3,India
+203,32.2,0,A Nehra,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,4,Bangladesh,India,179,Bangladesh,Shere Bangla National Stadium,3,India
+204,32.3,6,A Nehra,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,10,Bangladesh,India,185,Bangladesh,Shere Bangla National Stadium,3,India
+205,32.4,0,A Nehra,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,10,Bangladesh,India,185,Bangladesh,Shere Bangla National Stadium,3,India
+206,32.5,0,A Nehra,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,10,Bangladesh,India,186,Bangladesh,Shere Bangla National Stadium,3,India
+207,32.6,0,A Nehra,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,10,Bangladesh,India,186,Bangladesh,Shere Bangla National Stadium,3,India
+208,32.7,1,A Nehra,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,187,Bangladesh,Shere Bangla National Stadium,3,India
+209,33.1,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,187,Bangladesh,Shere Bangla National Stadium,3,India
+210,33.2,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,3,India
+211,33.3,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,3,India
+212,33.4,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,3,India
+213,33.5,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,3,India
+214,33.6,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,3,India
+215,33.7,0,Z Khan,2010-01-07,1st,Imrul Kayes,70,,Raqibul Hasan,11,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,3,India
+216,34.1,0,A Nehra,2010-01-07,1st,Raqibul Hasan,11,Imrul Kayes,Imrul Kayes,70,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,4,India
+217,34.2,0,A Nehra,2010-01-07,1st,Mushfiqur Rahim,0,,Raqibul Hasan,11,Bangladesh,India,188,Bangladesh,Shere Bangla National Stadium,4,India
+218,34.3,0,A Nehra,2010-01-07,1st,Mushfiqur Rahim,0,,Raqibul Hasan,11,Bangladesh,India,189,Bangladesh,Shere Bangla National Stadium,4,India
+219,34.4,0,A Nehra,2010-01-07,1st,Mushfiqur Rahim,0,,Raqibul Hasan,11,Bangladesh,India,191,Bangladesh,Shere Bangla National Stadium,4,India
+220,34.5,1,A Nehra,2010-01-07,1st,Mushfiqur Rahim,0,,Raqibul Hasan,12,Bangladesh,India,192,Bangladesh,Shere Bangla National Stadium,4,India
+221,34.6,0,A Nehra,2010-01-07,1st,Raqibul Hasan,12,,Mushfiqur Rahim,0,Bangladesh,India,192,Bangladesh,Shere Bangla National Stadium,4,India
+222,34.7,0,A Nehra,2010-01-07,1st,Raqibul Hasan,12,,Mushfiqur Rahim,0,Bangladesh,India,193,Bangladesh,Shere Bangla National Stadium,4,India
+223,34.8,2,A Nehra,2010-01-07,1st,Raqibul Hasan,12,,Mushfiqur Rahim,2,Bangladesh,India,195,Bangladesh,Shere Bangla National Stadium,4,India
+224,35.1,1,Yuvraj Singh,2010-01-07,1st,Mushfiqur Rahim,2,,Raqibul Hasan,13,Bangladesh,India,196,Bangladesh,Shere Bangla National Stadium,4,India
+225,35.2,1,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,13,,Mushfiqur Rahim,3,Bangladesh,India,197,Bangladesh,Shere Bangla National Stadium,4,India
+226,35.3,1,Yuvraj Singh,2010-01-07,1st,Mushfiqur Rahim,3,,Raqibul Hasan,14,Bangladesh,India,198,Bangladesh,Shere Bangla National Stadium,4,India
+227,35.4,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,14,,Mushfiqur Rahim,3,Bangladesh,India,198,Bangladesh,Shere Bangla National Stadium,4,India
+228,35.5,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,14,,Mushfiqur Rahim,3,Bangladesh,India,198,Bangladesh,Shere Bangla National Stadium,4,India
+229,35.6,1,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,14,,Mushfiqur Rahim,4,Bangladesh,India,199,Bangladesh,Shere Bangla National Stadium,4,India
+230,36.1,0,Z Khan,2010-01-07,1st,Raqibul Hasan,14,,Mushfiqur Rahim,4,Bangladesh,India,199,Bangladesh,Shere Bangla National Stadium,4,India
+231,36.2,1,Z Khan,2010-01-07,1st,Raqibul Hasan,14,,Mushfiqur Rahim,5,Bangladesh,India,200,Bangladesh,Shere Bangla National Stadium,4,India
+232,36.3,2,Z Khan,2010-01-07,1st,Mushfiqur Rahim,5,,Raqibul Hasan,16,Bangladesh,India,202,Bangladesh,Shere Bangla National Stadium,4,India
+233,36.4,2,Z Khan,2010-01-07,1st,Mushfiqur Rahim,5,,Raqibul Hasan,18,Bangladesh,India,204,Bangladesh,Shere Bangla National Stadium,4,India
+234,36.5,0,Z Khan,2010-01-07,1st,Mushfiqur Rahim,5,,Raqibul Hasan,18,Bangladesh,India,204,Bangladesh,Shere Bangla National Stadium,4,India
+235,36.6,0,Z Khan,2010-01-07,1st,Mushfiqur Rahim,5,,Raqibul Hasan,18,Bangladesh,India,204,Bangladesh,Shere Bangla National Stadium,4,India
+236,37.1,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,18,,Mushfiqur Rahim,5,Bangladesh,India,204,Bangladesh,Shere Bangla National Stadium,4,India
+237,37.2,1,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,18,,Mushfiqur Rahim,6,Bangladesh,India,205,Bangladesh,Shere Bangla National Stadium,4,India
+238,37.3,0,Yuvraj Singh,2010-01-07,1st,Mushfiqur Rahim,6,,Raqibul Hasan,18,Bangladesh,India,205,Bangladesh,Shere Bangla National Stadium,4,India
+239,37.4,1,Yuvraj Singh,2010-01-07,1st,Mushfiqur Rahim,6,,Raqibul Hasan,19,Bangladesh,India,206,Bangladesh,Shere Bangla National Stadium,4,India
+240,37.5,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,19,,Mushfiqur Rahim,6,Bangladesh,India,206,Bangladesh,Shere Bangla National Stadium,4,India
+241,37.6,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,19,Mushfiqur Rahim,Mushfiqur Rahim,6,Bangladesh,India,206,Bangladesh,Shere Bangla National Stadium,5,India
+242,38.1,1,RA Jadeja,2010-01-07,1st,Mahmudullah,0,,Raqibul Hasan,20,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,5,India
+243,38.2,0,RA Jadeja,2010-01-07,1st,Raqibul Hasan,20,,Mahmudullah,0,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,5,India
+244,38.3,0,RA Jadeja,2010-01-07,1st,Raqibul Hasan,20,,Mahmudullah,0,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,5,India
+245,38.4,0,RA Jadeja,2010-01-07,1st,Raqibul Hasan,20,,Mahmudullah,0,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,5,India
+246,38.5,0,RA Jadeja,2010-01-07,1st,Raqibul Hasan,20,,Mahmudullah,0,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,5,India
+247,38.6,0,RA Jadeja,2010-01-07,1st,Raqibul Hasan,20,,Mahmudullah,0,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,5,India
+248,39.1,1,Yuvraj Singh,2010-01-07,1st,Mahmudullah,0,,Raqibul Hasan,21,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,5,India
+249,39.2,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,21,,Mahmudullah,0,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,5,India
+250,39.3,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,21,,Mahmudullah,0,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,5,India
+251,39.4,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,21,,Mahmudullah,0,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,5,India
+252,39.5,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,21,,Mahmudullah,0,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,5,India
+253,39.6,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,21,,Mahmudullah,0,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,5,India
+254,40.1,1,RA Jadeja,2010-01-07,1st,Mahmudullah,0,,Raqibul Hasan,22,Bangladesh,India,209,Bangladesh,Shere Bangla National Stadium,5,India
+255,40.2,0,RA Jadeja,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,0,Bangladesh,India,209,Bangladesh,Shere Bangla National Stadium,5,India
+256,40.3,2,RA Jadeja,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,2,Bangladesh,India,211,Bangladesh,Shere Bangla National Stadium,5,India
+257,40.4,0,RA Jadeja,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,2,Bangladesh,India,211,Bangladesh,Shere Bangla National Stadium,5,India
+258,40.5,2,RA Jadeja,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,4,Bangladesh,India,213,Bangladesh,Shere Bangla National Stadium,5,India
+259,40.6,1,RA Jadeja,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,5,Bangladesh,India,214,Bangladesh,Shere Bangla National Stadium,5,India
+260,41.1,2,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,7,Bangladesh,India,216,Bangladesh,Shere Bangla National Stadium,5,India
+261,41.2,4,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,11,Bangladesh,India,220,Bangladesh,Shere Bangla National Stadium,5,India
+262,41.3,2,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,13,Bangladesh,India,222,Bangladesh,Shere Bangla National Stadium,5,India
+263,41.4,1,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,22,,Mahmudullah,14,Bangladesh,India,223,Bangladesh,Shere Bangla National Stadium,5,India
+264,41.5,1,Yuvraj Singh,2010-01-07,1st,Mahmudullah,14,,Raqibul Hasan,23,Bangladesh,India,224,Bangladesh,Shere Bangla National Stadium,5,India
+265,41.6,0,Yuvraj Singh,2010-01-07,1st,Raqibul Hasan,23,,Mahmudullah,14,Bangladesh,India,224,Bangladesh,Shere Bangla National Stadium,5,India
+266,42.1,1,Harbhajan Singh,2010-01-07,1st,Mahmudullah,14,,Raqibul Hasan,24,Bangladesh,India,225,Bangladesh,Shere Bangla National Stadium,5,India
+267,42.2,0,Harbhajan Singh,2010-01-07,1st,Raqibul Hasan,24,,Mahmudullah,14,Bangladesh,India,225,Bangladesh,Shere Bangla National Stadium,5,India
+268,42.3,1,Harbhajan Singh,2010-01-07,1st,Raqibul Hasan,24,,Mahmudullah,15,Bangladesh,India,226,Bangladesh,Shere Bangla National Stadium,5,India
+269,42.4,1,Harbhajan Singh,2010-01-07,1st,Mahmudullah,15,,Raqibul Hasan,25,Bangladesh,India,227,Bangladesh,Shere Bangla National Stadium,5,India
+270,42.5,0,Harbhajan Singh,2010-01-07,1st,Raqibul Hasan,25,,Mahmudullah,15,Bangladesh,India,227,Bangladesh,Shere Bangla National Stadium,5,India
+271,42.6,2,Harbhajan Singh,2010-01-07,1st,Raqibul Hasan,25,,Mahmudullah,17,Bangladesh,India,229,Bangladesh,Shere Bangla National Stadium,5,India
+272,43.1,0,S Sreesanth,2010-01-07,1st,Mahmudullah,17,,Raqibul Hasan,25,Bangladesh,India,229,Bangladesh,Shere Bangla National Stadium,5,India
+273,43.2,0,S Sreesanth,2010-01-07,1st,Mahmudullah,17,,Raqibul Hasan,25,Bangladesh,India,229,Bangladesh,Shere Bangla National Stadium,5,India
+274,43.3,3,S Sreesanth,2010-01-07,1st,Mahmudullah,17,,Raqibul Hasan,28,Bangladesh,India,232,Bangladesh,Shere Bangla National Stadium,5,India
+275,43.4,1,S Sreesanth,2010-01-07,1st,Raqibul Hasan,28,,Mahmudullah,18,Bangladesh,India,233,Bangladesh,Shere Bangla National Stadium,5,India
+276,43.5,0,S Sreesanth,2010-01-07,1st,Mahmudullah,18,,Raqibul Hasan,28,Bangladesh,India,233,Bangladesh,Shere Bangla National Stadium,5,India
+277,43.6,4,S Sreesanth,2010-01-07,1st,Mahmudullah,18,,Raqibul Hasan,32,Bangladesh,India,237,Bangladesh,Shere Bangla National Stadium,5,India
+278,44.1,1,Harbhajan Singh,2010-01-07,1st,Raqibul Hasan,32,,Mahmudullah,19,Bangladesh,India,238,Bangladesh,Shere Bangla National Stadium,5,India
+279,44.2,0,Harbhajan Singh,2010-01-07,1st,Mahmudullah,19,Raqibul Hasan,Raqibul Hasan,32,Bangladesh,India,238,Bangladesh,Shere Bangla National Stadium,6,India
+280,44.3,1,Harbhajan Singh,2010-01-07,1st,Mahmudullah,19,,Naeem Islam,1,Bangladesh,India,239,Bangladesh,Shere Bangla National Stadium,6,India
+281,44.4,1,Harbhajan Singh,2010-01-07,1st,Naeem Islam,1,,Mahmudullah,20,Bangladesh,India,240,Bangladesh,Shere Bangla National Stadium,6,India
+282,44.5,2,Harbhajan Singh,2010-01-07,1st,Mahmudullah,20,,Naeem Islam,3,Bangladesh,India,242,Bangladesh,Shere Bangla National Stadium,6,India
+283,44.6,0,Harbhajan Singh,2010-01-07,1st,Mahmudullah,20,,Naeem Islam,3,Bangladesh,India,242,Bangladesh,Shere Bangla National Stadium,6,India
+284,45.1,1,RA Jadeja,2010-01-07,1st,Naeem Islam,3,,Mahmudullah,21,Bangladesh,India,243,Bangladesh,Shere Bangla National Stadium,6,India
+285,45.2,1,RA Jadeja,2010-01-07,1st,Mahmudullah,21,,Naeem Islam,4,Bangladesh,India,244,Bangladesh,Shere Bangla National Stadium,6,India
+286,45.3,1,RA Jadeja,2010-01-07,1st,Naeem Islam,4,,Mahmudullah,22,Bangladesh,India,245,Bangladesh,Shere Bangla National Stadium,6,India
+287,45.4,1,RA Jadeja,2010-01-07,1st,Mahmudullah,22,,Naeem Islam,5,Bangladesh,India,246,Bangladesh,Shere Bangla National Stadium,6,India
+288,45.5,4,RA Jadeja,2010-01-07,1st,Naeem Islam,5,,Mahmudullah,26,Bangladesh,India,250,Bangladesh,Shere Bangla National Stadium,6,India
+289,45.6,4,RA Jadeja,2010-01-07,1st,Naeem Islam,5,,Mahmudullah,30,Bangladesh,India,254,Bangladesh,Shere Bangla National Stadium,6,India
+290,46.1,1,Z Khan,2010-01-07,1st,Mahmudullah,30,,Naeem Islam,6,Bangladesh,India,255,Bangladesh,Shere Bangla National Stadium,6,India
+291,46.2,2,Z Khan,2010-01-07,1st,Naeem Islam,6,,Mahmudullah,32,Bangladesh,India,257,Bangladesh,Shere Bangla National Stadium,6,India
+292,46.3,4,Z Khan,2010-01-07,1st,Naeem Islam,6,,Mahmudullah,36,Bangladesh,India,261,Bangladesh,Shere Bangla National Stadium,6,India
+293,46.4,1,Z Khan,2010-01-07,1st,Naeem Islam,6,,Mahmudullah,37,Bangladesh,India,262,Bangladesh,Shere Bangla National Stadium,6,India
+294,46.5,2,Z Khan,2010-01-07,1st,Mahmudullah,37,,Naeem Islam,8,Bangladesh,India,264,Bangladesh,Shere Bangla National Stadium,6,India
+295,46.6,2,Z Khan,2010-01-07,1st,Mahmudullah,37,,Naeem Islam,10,Bangladesh,India,266,Bangladesh,Shere Bangla National Stadium,6,India
+296,47.1,0,Harbhajan Singh,2010-01-07,1st,Naeem Islam,10,,Mahmudullah,37,Bangladesh,India,268,Bangladesh,Shere Bangla National Stadium,6,India
+297,47.2,1,Harbhajan Singh,2010-01-07,1st,Mahmudullah,37,,Naeem Islam,11,Bangladesh,India,269,Bangladesh,Shere Bangla National Stadium,6,India
+298,47.3,1,Harbhajan Singh,2010-01-07,1st,Naeem Islam,11,,Mahmudullah,38,Bangladesh,India,270,Bangladesh,Shere Bangla National Stadium,6,India
+299,47.4,1,Harbhajan Singh,2010-01-07,1st,Mahmudullah,38,,Naeem Islam,12,Bangladesh,India,271,Bangladesh,Shere Bangla National Stadium,6,India
+300,47.5,1,Harbhajan Singh,2010-01-07,1st,Naeem Islam,12,,Mahmudullah,39,Bangladesh,India,272,Bangladesh,Shere Bangla National Stadium,6,India
+301,47.6,0,Harbhajan Singh,2010-01-07,1st,Mahmudullah,39,,Naeem Islam,12,Bangladesh,India,272,Bangladesh,Shere Bangla National Stadium,6,India
+302,47.7,1,Harbhajan Singh,2010-01-07,1st,Mahmudullah,39,,Naeem Islam,13,Bangladesh,India,273,Bangladesh,Shere Bangla National Stadium,6,India
+303,48.1,1,A Nehra,2010-01-07,1st,Mahmudullah,39,,Naeem Islam,14,Bangladesh,India,274,Bangladesh,Shere Bangla National Stadium,6,India
+304,48.2,4,A Nehra,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,43,Bangladesh,India,278,Bangladesh,Shere Bangla National Stadium,6,India
+305,48.3,2,A Nehra,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,45,Bangladesh,India,280,Bangladesh,Shere Bangla National Stadium,6,India
+306,48.4,1,A Nehra,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,46,Bangladesh,India,281,Bangladesh,Shere Bangla National Stadium,6,India
+307,48.5,0,A Nehra,2010-01-07,1st,Mahmudullah,46,,Naeem Islam,14,Bangladesh,India,281,Bangladesh,Shere Bangla National Stadium,6,India
+308,48.6,0,A Nehra,2010-01-07,1st,Mahmudullah,46,,Naeem Islam,14,Bangladesh,India,281,Bangladesh,Shere Bangla National Stadium,6,India
+309,49.1,4,S Sreesanth,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,50,Bangladesh,India,285,Bangladesh,Shere Bangla National Stadium,6,India
+310,49.2,4,S Sreesanth,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,54,Bangladesh,India,289,Bangladesh,Shere Bangla National Stadium,6,India
+311,49.3,4,S Sreesanth,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,58,Bangladesh,India,293,Bangladesh,Shere Bangla National Stadium,6,India
+312,49.4,0,S Sreesanth,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,58,Bangladesh,India,293,Bangladesh,Shere Bangla National Stadium,6,India
+313,49.5,2,S Sreesanth,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,60,Bangladesh,India,295,Bangladesh,Shere Bangla National Stadium,6,India
+314,49.6,0,S Sreesanth,2010-01-07,1st,Naeem Islam,14,,Mahmudullah,60,Bangladesh,India,296,Bangladesh,Shere Bangla National Stadium,6,India
+315,0.1,0,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,0,Bangladesh,Shere Bangla National Stadium,0,India
+316,0.2,4,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,0,India
+317,0.3,0,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,0,India
+318,0.4,0,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,0,India
+319,0.5,0,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,4,Bangladesh,Shere Bangla National Stadium,0,India
+320,0.6,0,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,5,Bangladesh,Shere Bangla National Stadium,0,India
+321,0.7,1,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,7,Bangladesh,Shere Bangla National Stadium,0,India
+322,0.8,2,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,9,Bangladesh,Shere Bangla National Stadium,0,India
+323,1.1,1,Abdur Razzak,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,0,India
+324,1.2,0,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,10,Bangladesh,Shere Bangla National Stadium,0,India
+325,1.3,1,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,11,Bangladesh,Shere Bangla National Stadium,0,India
+326,1.4,0,Abdur Razzak,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,12,Bangladesh,Shere Bangla National Stadium,0,India
+327,1.5,2,Abdur Razzak,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,14,Bangladesh,Shere Bangla National Stadium,0,India
+328,1.6,1,Abdur Razzak,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,15,Bangladesh,Shere Bangla National Stadium,0,India
+329,1.7,1,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,16,Bangladesh,Shere Bangla National Stadium,0,India
+330,2.1,4,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,20,Bangladesh,Shere Bangla National Stadium,0,India
+331,2.2,4,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,24,Bangladesh,Shere Bangla National Stadium,0,India
+332,2.3,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,25,Bangladesh,Shere Bangla National Stadium,0,India
+333,2.4,1,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,26,Bangladesh,Shere Bangla National Stadium,0,India
+334,2.5,0,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,26,Bangladesh,Shere Bangla National Stadium,0,India
+335,2.6,0,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,26,Bangladesh,Shere Bangla National Stadium,0,India
+336,2.7,2,Syed Rasel,2010-01-07,2nd,V Sehwag,0,,G Gambhir,0,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,0,India
+337,3.1,0,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Sehwag,0,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,1,India
+338,3.2,0,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,1,India
+339,3.3,0,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,28,Bangladesh,Shere Bangla National Stadium,1,India
+340,3.4,1,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,29,Bangladesh,Shere Bangla National Stadium,1,India
+341,3.5,0,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,30,Bangladesh,Shere Bangla National Stadium,1,India
+342,3.6,0,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,30,Bangladesh,Shere Bangla National Stadium,1,India
+343,4.1,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,30,Bangladesh,Shere Bangla National Stadium,1,India
+344,4.2,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,30,Bangladesh,Shere Bangla National Stadium,1,India
+345,4.3,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,30,Bangladesh,Shere Bangla National Stadium,1,India
+346,4.4,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,30,Bangladesh,Shere Bangla National Stadium,1,India
+347,4.5,1,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,31,Bangladesh,Shere Bangla National Stadium,1,India
+348,4.6,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,31,Bangladesh,Shere Bangla National Stadium,1,India
+349,5.1,4,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,35,Bangladesh,Shere Bangla National Stadium,1,India
+350,5.2,1,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,36,Bangladesh,Shere Bangla National Stadium,1,India
+351,5.3,4,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,40,Bangladesh,Shere Bangla National Stadium,1,India
+352,5.4,1,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,41,Bangladesh,Shere Bangla National Stadium,1,India
+353,5.5,4,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,45,Bangladesh,Shere Bangla National Stadium,1,India
+354,5.6,1,Abdur Razzak,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,46,Bangladesh,Shere Bangla National Stadium,1,India
+355,6.1,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,46,Bangladesh,Shere Bangla National Stadium,1,India
+356,6.2,1,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,47,Bangladesh,Shere Bangla National Stadium,1,India
+357,6.3,1,Syed Rasel,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,48,Bangladesh,Shere Bangla National Stadium,1,India
+358,6.4,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,1,India
+359,6.5,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,1,India
+360,6.6,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,1,India
+361,6.7,0,Syed Rasel,2010-01-07,2nd,G Gambhir,0,,V Kohli,0,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,1,India
+362,7.1,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,1,India
+363,7.2,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,1,India
+364,7.3,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,G Gambhir,0,Bangladesh,India,49,Bangladesh,Shere Bangla National Stadium,2,India
+365,7.4,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,Yuvraj Singh,0,Bangladesh,India,50,Bangladesh,Shere Bangla National Stadium,2,India
+366,7.5,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,Yuvraj Singh,0,Bangladesh,India,50,Bangladesh,Shere Bangla National Stadium,2,India
+367,7.6,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,Yuvraj Singh,0,Bangladesh,India,50,Bangladesh,Shere Bangla National Stadium,2,India
+368,7.7,1,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,Yuvraj Singh,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,2,India
+369,8.1,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,Yuvraj Singh,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,3,India
+370,8.2,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,3,India
+371,8.3,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,3,India
+372,8.4,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,3,India
+373,8.5,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,51,Bangladesh,Shere Bangla National Stadium,3,India
+374,8.6,1,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,52,Bangladesh,Shere Bangla National Stadium,3,India
+375,9.1,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,52,Bangladesh,Shere Bangla National Stadium,3,India
+376,9.2,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,53,Bangladesh,Shere Bangla National Stadium,3,India
+377,9.3,1,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,54,Bangladesh,Shere Bangla National Stadium,3,India
+378,9.4,4,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+379,9.5,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+380,9.6,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+381,9.7,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+382,10.1,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+383,10.2,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+384,10.3,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+385,10.4,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+386,10.5,0,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,58,Bangladesh,Shere Bangla National Stadium,3,India
+387,10.6,2,Syed Rasel,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,60,Bangladesh,Shere Bangla National Stadium,3,India
+388,11.1,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,60,Bangladesh,Shere Bangla National Stadium,3,India
+389,11.2,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,60,Bangladesh,Shere Bangla National Stadium,3,India
+390,11.3,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,60,Bangladesh,Shere Bangla National Stadium,3,India
+391,11.4,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,61,Bangladesh,Shere Bangla National Stadium,3,India
+392,11.5,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,63,Bangladesh,Shere Bangla National Stadium,3,India
+393,11.6,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,64,Bangladesh,Shere Bangla National Stadium,3,India
+394,11.7,4,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,68,Bangladesh,Shere Bangla National Stadium,3,India
+395,12.1,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,68,Bangladesh,Shere Bangla National Stadium,3,India
+396,12.2,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,68,Bangladesh,Shere Bangla National Stadium,3,India
+397,12.3,2,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,70,Bangladesh,Shere Bangla National Stadium,3,India
+398,12.4,2,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,72,Bangladesh,Shere Bangla National Stadium,3,India
+399,12.5,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,72,Bangladesh,Shere Bangla National Stadium,3,India
+400,12.6,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,72,Bangladesh,Shere Bangla National Stadium,3,India
+401,13.1,1,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,73,Bangladesh,Shere Bangla National Stadium,3,India
+402,13.2,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,74,Bangladesh,Shere Bangla National Stadium,3,India
+403,13.3,2,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,3,India
+404,13.4,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,3,India
+405,13.5,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,3,India
+406,13.6,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,3,India
+407,14.1,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,3,India
+408,14.2,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,76,Bangladesh,Shere Bangla National Stadium,3,India
+409,14.3,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,77,Bangladesh,Shere Bangla National Stadium,3,India
+410,14.4,0,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,77,Bangladesh,Shere Bangla National Stadium,3,India
+411,14.5,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,78,Bangladesh,Shere Bangla National Stadium,3,India
+412,14.6,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,79,Bangladesh,Shere Bangla National Stadium,3,India
+413,15.1,1,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,80,Bangladesh,Shere Bangla National Stadium,3,India
+414,15.2,0,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,80,Bangladesh,Shere Bangla National Stadium,3,India
+415,15.3,0,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,80,Bangladesh,Shere Bangla National Stadium,3,India
+416,15.4,1,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,81,Bangladesh,Shere Bangla National Stadium,3,India
+417,15.5,1,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,82,Bangladesh,Shere Bangla National Stadium,3,India
+418,15.6,0,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,82,Bangladesh,Shere Bangla National Stadium,3,India
+419,16.1,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,83,Bangladesh,Shere Bangla National Stadium,3,India
+420,16.2,2,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,3,India
+421,16.3,0,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,85,Bangladesh,Shere Bangla National Stadium,3,India
+422,16.4,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,86,Bangladesh,Shere Bangla National Stadium,3,India
+423,16.5,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,3,India
+424,16.6,0,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,87,Bangladesh,Shere Bangla National Stadium,3,India
+425,17.1,1,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,88,Bangladesh,Shere Bangla National Stadium,3,India
+426,17.2,1,Naeem Islam,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,89,Bangladesh,Shere Bangla National Stadium,3,India
+427,17.3,0,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,89,Bangladesh,Shere Bangla National Stadium,3,India
+428,17.4,1,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,90,Bangladesh,Shere Bangla National Stadium,3,India
+429,17.5,3,Naeem Islam,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,93,Bangladesh,Shere Bangla National Stadium,3,India
+430,17.6,1,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,94,Bangladesh,Shere Bangla National Stadium,3,India
+431,18.1,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,94,Bangladesh,Shere Bangla National Stadium,3,India
+432,18.2,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,95,Bangladesh,Shere Bangla National Stadium,3,India
+433,18.3,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,96,Bangladesh,Shere Bangla National Stadium,3,India
+434,18.4,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,96,Bangladesh,Shere Bangla National Stadium,3,India
+435,18.5,2,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,98,Bangladesh,Shere Bangla National Stadium,3,India
+436,18.6,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,99,Bangladesh,Shere Bangla National Stadium,3,India
+437,19.1,1,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,100,Bangladesh,Shere Bangla National Stadium,3,India
+438,19.2,1,Naeem Islam,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,101,Bangladesh,Shere Bangla National Stadium,3,India
+439,19.3,1,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,102,Bangladesh,Shere Bangla National Stadium,3,India
+440,19.4,1,Naeem Islam,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,103,Bangladesh,Shere Bangla National Stadium,3,India
+441,19.5,4,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,107,Bangladesh,Shere Bangla National Stadium,3,India
+442,19.6,1,Naeem Islam,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,108,Bangladesh,Shere Bangla National Stadium,3,India
+443,20.1,2,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,110,Bangladesh,Shere Bangla National Stadium,3,India
+444,20.2,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,110,Bangladesh,Shere Bangla National Stadium,3,India
+445,20.3,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,111,Bangladesh,Shere Bangla National Stadium,3,India
+446,20.4,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,112,Bangladesh,Shere Bangla National Stadium,3,India
+447,20.5,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,113,Bangladesh,Shere Bangla National Stadium,3,India
+448,20.6,0,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,113,Bangladesh,Shere Bangla National Stadium,3,India
+449,21.1,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,113,Bangladesh,Shere Bangla National Stadium,3,India
+450,21.2,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,114,Bangladesh,Shere Bangla National Stadium,3,India
+451,21.3,4,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,118,Bangladesh,Shere Bangla National Stadium,3,India
+452,21.4,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,119,Bangladesh,Shere Bangla National Stadium,3,India
+453,21.5,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,120,Bangladesh,Shere Bangla National Stadium,3,India
+454,21.6,2,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,3,India
+455,22.1,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,3,India
+456,22.2,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,3,India
+457,22.3,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,122,Bangladesh,Shere Bangla National Stadium,3,India
+458,22.4,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,123,Bangladesh,Shere Bangla National Stadium,3,India
+459,22.5,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,124,Bangladesh,Shere Bangla National Stadium,3,India
+460,22.6,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,125,Bangladesh,Shere Bangla National Stadium,3,India
+461,23.1,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,125,Bangladesh,Shere Bangla National Stadium,3,India
+462,23.2,2,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,3,India
+463,23.3,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,127,Bangladesh,Shere Bangla National Stadium,3,India
+464,23.4,2,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,129,Bangladesh,Shere Bangla National Stadium,3,India
+465,23.5,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,129,Bangladesh,Shere Bangla National Stadium,3,India
+466,23.6,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,129,Bangladesh,Shere Bangla National Stadium,3,India
+467,24.1,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,130,Bangladesh,Shere Bangla National Stadium,3,India
+468,24.2,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,3,India
+469,24.3,0,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,131,Bangladesh,Shere Bangla National Stadium,3,India
+470,24.4,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,132,Bangladesh,Shere Bangla National Stadium,3,India
+471,24.5,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,132,Bangladesh,Shere Bangla National Stadium,3,India
+472,24.6,2,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,3,India
+473,25.1,0,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,134,Bangladesh,Shere Bangla National Stadium,3,India
+474,25.2,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,135,Bangladesh,Shere Bangla National Stadium,3,India
+475,25.3,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,135,Bangladesh,Shere Bangla National Stadium,3,India
+476,25.4,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,136,Bangladesh,Shere Bangla National Stadium,3,India
+477,25.5,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,137,Bangladesh,Shere Bangla National Stadium,3,India
+478,25.6,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,138,Bangladesh,Shere Bangla National Stadium,3,India
+479,26.1,2,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,140,Bangladesh,Shere Bangla National Stadium,3,India
+480,26.2,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,141,Bangladesh,Shere Bangla National Stadium,3,India
+481,26.3,4,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,3,India
+482,26.4,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,3,India
+483,26.5,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,145,Bangladesh,Shere Bangla National Stadium,3,India
+484,26.6,1,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,146,Bangladesh,Shere Bangla National Stadium,3,India
+485,27.1,0,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,146,Bangladesh,Shere Bangla National Stadium,3,India
+486,27.2,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,147,Bangladesh,Shere Bangla National Stadium,3,India
+487,27.3,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,148,Bangladesh,Shere Bangla National Stadium,3,India
+488,27.4,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,149,Bangladesh,Shere Bangla National Stadium,3,India
+489,27.5,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,150,Bangladesh,Shere Bangla National Stadium,3,India
+490,27.6,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,3,India
+491,28.1,0,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,151,Bangladesh,Shere Bangla National Stadium,3,India
+492,28.2,1,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,152,Bangladesh,Shere Bangla National Stadium,3,India
+493,28.3,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,152,Bangladesh,Shere Bangla National Stadium,3,India
+494,28.4,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,153,Bangladesh,Shere Bangla National Stadium,3,India
+495,28.5,4,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,157,Bangladesh,Shere Bangla National Stadium,3,India
+496,28.6,1,Rubel Hossain,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,158,Bangladesh,Shere Bangla National Stadium,3,India
+497,29.1,2,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,160,Bangladesh,Shere Bangla National Stadium,3,India
+498,29.2,1,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,161,Bangladesh,Shere Bangla National Stadium,3,India
+499,29.3,4,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,165,Bangladesh,Shere Bangla National Stadium,3,India
+500,29.4,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,167,Bangladesh,Shere Bangla National Stadium,3,India
+501,29.5,1,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,168,Bangladesh,Shere Bangla National Stadium,3,India
+502,29.6,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,169,Bangladesh,Shere Bangla National Stadium,3,India
+503,29.7,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,169,Bangladesh,Shere Bangla National Stadium,3,India
+504,29.8,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,169,Bangladesh,Shere Bangla National Stadium,3,India
+505,30.1,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,170,Bangladesh,Shere Bangla National Stadium,3,India
+506,30.2,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,171,Bangladesh,Shere Bangla National Stadium,3,India
+507,30.3,0,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,171,Bangladesh,Shere Bangla National Stadium,3,India
+508,30.4,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,172,Bangladesh,Shere Bangla National Stadium,3,India
+509,30.5,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,173,Bangladesh,Shere Bangla National Stadium,3,India
+510,30.6,1,Mahmudullah,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,174,Bangladesh,Shere Bangla National Stadium,3,India
+511,31.1,1,Mohammad Ashraful,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,175,Bangladesh,Shere Bangla National Stadium,3,India
+512,31.2,1,Mohammad Ashraful,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,176,Bangladesh,Shere Bangla National Stadium,3,India
+513,31.3,1,Mohammad Ashraful,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,177,Bangladesh,Shere Bangla National Stadium,3,India
+514,31.4,4,Mohammad Ashraful,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,181,Bangladesh,Shere Bangla National Stadium,3,India
+515,31.5,1,Mohammad Ashraful,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,182,Bangladesh,Shere Bangla National Stadium,3,India
+516,31.6,0,Mohammad Ashraful,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,182,Bangladesh,Shere Bangla National Stadium,3,India
+517,32.1,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,183,Bangladesh,Shere Bangla National Stadium,3,India
+518,32.2,2,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,185,Bangladesh,Shere Bangla National Stadium,3,India
+519,32.3,0,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,185,Bangladesh,Shere Bangla National Stadium,3,India
+520,32.4,0,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,185,Bangladesh,Shere Bangla National Stadium,3,India
+521,32.5,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,186,Bangladesh,Shere Bangla National Stadium,3,India
+522,32.6,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,187,Bangladesh,Shere Bangla National Stadium,3,India
+523,33.1,2,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,189,Bangladesh,Shere Bangla National Stadium,3,India
+524,33.2,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,190,Bangladesh,Shere Bangla National Stadium,3,India
+525,33.3,2,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,192,Bangladesh,Shere Bangla National Stadium,3,India
+526,33.4,1,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,193,Bangladesh,Shere Bangla National Stadium,3,India
+527,33.5,1,Abdur Razzak,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,194,Bangladesh,Shere Bangla National Stadium,3,India
+528,33.6,4,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,198,Bangladesh,Shere Bangla National Stadium,3,India
+529,33.7,1,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,199,Bangladesh,Shere Bangla National Stadium,3,India
+530,34.1,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,199,Bangladesh,Shere Bangla National Stadium,3,India
+531,34.2,2,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,201,Bangladesh,Shere Bangla National Stadium,3,India
+532,34.3,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,201,Bangladesh,Shere Bangla National Stadium,3,India
+533,34.4,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,202,Bangladesh,Shere Bangla National Stadium,3,India
+534,34.5,1,Shakib Al Hasan,2010-01-07,2nd,V Kohli,0,,MS Dhoni,0,Bangladesh,India,203,Bangladesh,Shere Bangla National Stadium,3,India
+535,34.6,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,V Kohli,0,Bangladesh,India,203,Bangladesh,Shere Bangla National Stadium,4,India
+536,35.1,4,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,207,Bangladesh,Shere Bangla National Stadium,4,India
+537,35.2,1,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,208,Bangladesh,Shere Bangla National Stadium,4,India
+538,35.3,1,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,209,Bangladesh,Shere Bangla National Stadium,4,India
+539,35.4,0,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,211,Bangladesh,Shere Bangla National Stadium,4,India
+540,35.5,0,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,211,Bangladesh,Shere Bangla National Stadium,4,India
+541,35.6,1,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,212,Bangladesh,Shere Bangla National Stadium,4,India
+542,36.1,1,Rubel Hossain,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,213,Bangladesh,Shere Bangla National Stadium,4,India
+543,36.2,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,214,Bangladesh,Shere Bangla National Stadium,4,India
+544,36.3,1,Rubel Hossain,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,215,Bangladesh,Shere Bangla National Stadium,4,India
+545,36.4,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,215,Bangladesh,Shere Bangla National Stadium,4,India
+546,36.5,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,216,Bangladesh,Shere Bangla National Stadium,4,India
+547,36.6,1,Rubel Hossain,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,217,Bangladesh,Shere Bangla National Stadium,4,India
+548,37.1,4,Mahmudullah,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,221,Bangladesh,Shere Bangla National Stadium,4,India
+549,37.2,0,Mahmudullah,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,223,Bangladesh,Shere Bangla National Stadium,4,India
+550,37.3,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,223,Bangladesh,Shere Bangla National Stadium,4,India
+551,37.4,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,224,Bangladesh,Shere Bangla National Stadium,4,India
+552,37.5,1,Mahmudullah,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,225,Bangladesh,Shere Bangla National Stadium,4,India
+553,37.6,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,225,Bangladesh,Shere Bangla National Stadium,4,India
+554,37.7,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,225,Bangladesh,Shere Bangla National Stadium,4,India
+555,38.1,1,Rubel Hossain,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,226,Bangladesh,Shere Bangla National Stadium,4,India
+556,38.2,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,227,Bangladesh,Shere Bangla National Stadium,4,India
+557,38.3,1,Rubel Hossain,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,228,Bangladesh,Shere Bangla National Stadium,4,India
+558,38.4,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,229,Bangladesh,Shere Bangla National Stadium,4,India
+559,38.5,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,229,Bangladesh,Shere Bangla National Stadium,4,India
+560,38.6,2,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,231,Bangladesh,Shere Bangla National Stadium,4,India
+561,38.7,4,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,235,Bangladesh,Shere Bangla National Stadium,4,India
+562,39.1,1,Shakib Al Hasan,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,236,Bangladesh,Shere Bangla National Stadium,4,India
+563,39.2,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,236,Bangladesh,Shere Bangla National Stadium,4,India
+564,39.3,4,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,240,Bangladesh,Shere Bangla National Stadium,4,India
+565,39.4,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,240,Bangladesh,Shere Bangla National Stadium,4,India
+566,39.5,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,241,Bangladesh,Shere Bangla National Stadium,4,India
+567,39.6,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,242,Bangladesh,Shere Bangla National Stadium,4,India
+568,39.7,0,Shakib Al Hasan,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,242,Bangladesh,Shere Bangla National Stadium,4,India
+569,40.1,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,243,Bangladesh,Shere Bangla National Stadium,4,India
+570,40.2,1,Mahmudullah,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,244,Bangladesh,Shere Bangla National Stadium,4,India
+571,40.3,0,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,244,Bangladesh,Shere Bangla National Stadium,4,India
+572,40.4,1,Mahmudullah,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,245,Bangladesh,Shere Bangla National Stadium,4,India
+573,40.5,0,Mahmudullah,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,245,Bangladesh,Shere Bangla National Stadium,4,India
+574,40.6,0,Mahmudullah,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,245,Bangladesh,Shere Bangla National Stadium,4,India
+575,41.1,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,245,Bangladesh,Shere Bangla National Stadium,4,India
+576,41.2,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,245,Bangladesh,Shere Bangla National Stadium,4,India
+577,41.3,1,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,246,Bangladesh,Shere Bangla National Stadium,4,India
+578,41.4,4,Syed Rasel,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,250,Bangladesh,Shere Bangla National Stadium,4,India
+579,41.5,1,Syed Rasel,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,251,Bangladesh,Shere Bangla National Stadium,4,India
+580,41.6,1,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,252,Bangladesh,Shere Bangla National Stadium,4,India
+581,42.1,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,252,Bangladesh,Shere Bangla National Stadium,4,India
+582,42.2,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,252,Bangladesh,Shere Bangla National Stadium,4,India
+583,42.3,1,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,253,Bangladesh,Shere Bangla National Stadium,4,India
+584,42.4,1,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,254,Bangladesh,Shere Bangla National Stadium,4,India
+585,42.5,3,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,257,Bangladesh,Shere Bangla National Stadium,4,India
+586,42.6,4,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,261,Bangladesh,Shere Bangla National Stadium,4,India
+587,43.1,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,261,Bangladesh,Shere Bangla National Stadium,4,India
+588,43.2,0,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,261,Bangladesh,Shere Bangla National Stadium,4,India
+589,43.3,1,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,262,Bangladesh,Shere Bangla National Stadium,4,India
+590,43.4,1,Syed Rasel,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,263,Bangladesh,Shere Bangla National Stadium,4,India
+591,43.5,4,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,267,Bangladesh,Shere Bangla National Stadium,4,India
+592,43.6,4,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,271,Bangladesh,Shere Bangla National Stadium,4,India
+593,44.1,0,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,271,Bangladesh,Shere Bangla National Stadium,4,India
+594,44.2,0,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,271,Bangladesh,Shere Bangla National Stadium,4,India
+595,44.3,0,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,271,Bangladesh,Shere Bangla National Stadium,4,India
+596,44.4,1,Abdur Razzak,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,272,Bangladesh,Shere Bangla National Stadium,4,India
+597,44.5,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,272,Bangladesh,Shere Bangla National Stadium,4,India
+598,44.6,0,Abdur Razzak,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,272,Bangladesh,Shere Bangla National Stadium,4,India
+599,45.1,0,Shakib Al Hasan,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,272,Bangladesh,Shere Bangla National Stadium,4,India
+600,45.2,1,Shakib Al Hasan,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,273,Bangladesh,Shere Bangla National Stadium,4,India
+601,45.3,0,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,273,Bangladesh,Shere Bangla National Stadium,4,India
+602,45.4,2,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,275,Bangladesh,Shere Bangla National Stadium,4,India
+603,45.5,1,Shakib Al Hasan,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,276,Bangladesh,Shere Bangla National Stadium,4,India
+604,45.6,0,Shakib Al Hasan,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,276,Bangladesh,Shere Bangla National Stadium,4,India
+605,46.1,0,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,276,Bangladesh,Shere Bangla National Stadium,4,India
+606,46.2,1,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,277,Bangladesh,Shere Bangla National Stadium,4,India
+607,46.3,1,Rubel Hossain,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,278,Bangladesh,Shere Bangla National Stadium,4,India
+608,46.4,2,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,280,Bangladesh,Shere Bangla National Stadium,4,India
+609,46.5,2,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,282,Bangladesh,Shere Bangla National Stadium,4,India
+610,46.6,6,Rubel Hossain,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,288,Bangladesh,Shere Bangla National Stadium,4,India
+611,47.1,4,Syed Rasel,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,292,Bangladesh,Shere Bangla National Stadium,4,India
+612,47.2,1,Syed Rasel,2010-01-07,2nd,SK Raina,0,,MS Dhoni,0,Bangladesh,India,293,Bangladesh,Shere Bangla National Stadium,4,India
+613,47.3,4,Syed Rasel,2010-01-07,2nd,MS Dhoni,0,,SK Raina,0,Bangladesh,India,297,Bangladesh,Shere Bangla National Stadium,4,India

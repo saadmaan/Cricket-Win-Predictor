@@ -1,0 +1,602 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Shafiul Islam,2011-08-16,1st,V Sibanda,0,,BRM Taylor,0,Zimbabwe,Bangladesh,0,Bangladesh,Harare Sports Club,0,Zimbabwe
+1,0.2,0,Shafiul Islam,2011-08-16,1st,V Sibanda,0,,BRM Taylor,0,Zimbabwe,Bangladesh,0,Bangladesh,Harare Sports Club,0,Zimbabwe
+2,0.3,0,Shafiul Islam,2011-08-16,1st,V Sibanda,0,,BRM Taylor,0,Zimbabwe,Bangladesh,0,Bangladesh,Harare Sports Club,0,Zimbabwe
+3,0.4,1,Shafiul Islam,2011-08-16,1st,V Sibanda,0,,BRM Taylor,1,Zimbabwe,Bangladesh,1,Bangladesh,Harare Sports Club,0,Zimbabwe
+4,0.5,0,Shafiul Islam,2011-08-16,1st,BRM Taylor,1,,V Sibanda,0,Zimbabwe,Bangladesh,1,Bangladesh,Harare Sports Club,0,Zimbabwe
+5,0.6,0,Shafiul Islam,2011-08-16,1st,BRM Taylor,1,,V Sibanda,0,Zimbabwe,Bangladesh,1,Bangladesh,Harare Sports Club,0,Zimbabwe
+6,1.1,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,0,,BRM Taylor,1,Zimbabwe,Bangladesh,1,Bangladesh,Harare Sports Club,0,Zimbabwe
+7,1.2,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,0,,BRM Taylor,1,Zimbabwe,Bangladesh,1,Bangladesh,Harare Sports Club,0,Zimbabwe
+8,1.3,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,0,,BRM Taylor,1,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+9,1.4,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,1,,V Sibanda,0,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+10,1.5,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,1,,V Sibanda,0,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+11,1.6,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,1,,V Sibanda,0,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+12,2.1,0,Shafiul Islam,2011-08-16,1st,V Sibanda,0,,BRM Taylor,1,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+13,2.2,0,Shafiul Islam,2011-08-16,1st,V Sibanda,0,,BRM Taylor,1,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+14,2.3,3,Shafiul Islam,2011-08-16,1st,V Sibanda,0,,BRM Taylor,4,Zimbabwe,Bangladesh,5,Bangladesh,Harare Sports Club,0,Zimbabwe
+15,2.4,1,Shafiul Islam,2011-08-16,1st,BRM Taylor,4,,V Sibanda,1,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+16,2.5,0,Shafiul Islam,2011-08-16,1st,V Sibanda,1,,BRM Taylor,4,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+17,2.6,0,Shafiul Islam,2011-08-16,1st,V Sibanda,1,,BRM Taylor,4,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+18,3.1,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,1,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+19,3.2,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,1,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+20,3.3,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,1,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+21,3.4,3,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,4,Zimbabwe,Bangladesh,9,Bangladesh,Harare Sports Club,0,Zimbabwe
+22,3.5,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,4,,BRM Taylor,4,Zimbabwe,Bangladesh,9,Bangladesh,Harare Sports Club,0,Zimbabwe
+23,3.6,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,4,,BRM Taylor,4,Zimbabwe,Bangladesh,9,Bangladesh,Harare Sports Club,0,Zimbabwe
+24,4.1,0,Shafiul Islam,2011-08-16,1st,BRM Taylor,4,,V Sibanda,4,Zimbabwe,Bangladesh,9,Bangladesh,Harare Sports Club,0,Zimbabwe
+25,4.2,0,Shafiul Islam,2011-08-16,1st,BRM Taylor,4,,V Sibanda,4,Zimbabwe,Bangladesh,9,Bangladesh,Harare Sports Club,0,Zimbabwe
+26,4.3,1,Shafiul Islam,2011-08-16,1st,BRM Taylor,4,,V Sibanda,5,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+27,4.4,0,Shafiul Islam,2011-08-16,1st,V Sibanda,5,,BRM Taylor,4,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+28,4.5,0,Shafiul Islam,2011-08-16,1st,V Sibanda,5,,BRM Taylor,4,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+29,4.6,0,Shafiul Islam,2011-08-16,1st,V Sibanda,5,,BRM Taylor,4,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+30,5.1,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,5,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+31,5.2,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,5,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+32,5.3,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,5,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+33,5.4,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,5,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+34,5.5,0,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,5,Zimbabwe,Bangladesh,10,Bangladesh,Harare Sports Club,0,Zimbabwe
+35,5.6,4,Nazmul Hossain,2011-08-16,1st,BRM Taylor,4,,V Sibanda,9,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,0,Zimbabwe
+36,6.1,0,Shafiul Islam,2011-08-16,1st,V Sibanda,9,,BRM Taylor,4,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,0,Zimbabwe
+37,6.2,0,Shafiul Islam,2011-08-16,1st,V Sibanda,9,,BRM Taylor,4,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,0,Zimbabwe
+38,6.3,0,Shafiul Islam,2011-08-16,1st,V Sibanda,9,BRM Taylor,BRM Taylor,4,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,1,Zimbabwe
+39,6.4,0,Shafiul Islam,2011-08-16,1st,V Sibanda,9,,H Masakadza,0,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,1,Zimbabwe
+40,6.5,0,Shafiul Islam,2011-08-16,1st,V Sibanda,9,,H Masakadza,0,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,1,Zimbabwe
+41,6.6,0,Shafiul Islam,2011-08-16,1st,V Sibanda,9,,H Masakadza,0,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,1,Zimbabwe
+42,7.1,0,Nazmul Hossain,2011-08-16,1st,H Masakadza,0,,V Sibanda,9,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,1,Zimbabwe
+43,7.2,1,Nazmul Hossain,2011-08-16,1st,H Masakadza,0,,V Sibanda,10,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+44,7.3,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,10,,H Masakadza,0,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+45,7.4,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,10,,H Masakadza,0,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+46,7.5,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,10,,H Masakadza,0,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+47,7.6,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,10,,H Masakadza,0,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+48,8.1,0,Shafiul Islam,2011-08-16,1st,H Masakadza,0,,V Sibanda,10,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+49,8.2,0,Shafiul Islam,2011-08-16,1st,H Masakadza,0,,V Sibanda,10,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+50,8.3,0,Shafiul Islam,2011-08-16,1st,H Masakadza,0,,V Sibanda,10,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,1,Zimbabwe
+51,8.4,1,Shafiul Islam,2011-08-16,1st,H Masakadza,0,,V Sibanda,11,Zimbabwe,Bangladesh,16,Bangladesh,Harare Sports Club,1,Zimbabwe
+52,8.5,1,Shafiul Islam,2011-08-16,1st,V Sibanda,11,,H Masakadza,1,Zimbabwe,Bangladesh,17,Bangladesh,Harare Sports Club,1,Zimbabwe
+53,8.6,4,Shafiul Islam,2011-08-16,1st,H Masakadza,1,,V Sibanda,15,Zimbabwe,Bangladesh,21,Bangladesh,Harare Sports Club,1,Zimbabwe
+54,9.1,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,15,,H Masakadza,1,Zimbabwe,Bangladesh,21,Bangladesh,Harare Sports Club,1,Zimbabwe
+55,9.2,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,15,,H Masakadza,1,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,1,Zimbabwe
+56,9.3,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,15,,H Masakadza,1,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,1,Zimbabwe
+57,9.4,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,15,,H Masakadza,1,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,1,Zimbabwe
+58,9.5,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,15,,H Masakadza,1,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,1,Zimbabwe
+59,9.6,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,15,,H Masakadza,1,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,1,Zimbabwe
+60,9.7,0,Nazmul Hossain,2011-08-16,1st,V Sibanda,15,,H Masakadza,1,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,1,Zimbabwe
+61,10.1,4,Shafiul Islam,2011-08-16,1st,H Masakadza,1,,V Sibanda,19,Zimbabwe,Bangladesh,26,Bangladesh,Harare Sports Club,1,Zimbabwe
+62,10.2,0,Shafiul Islam,2011-08-16,1st,H Masakadza,1,,V Sibanda,19,Zimbabwe,Bangladesh,26,Bangladesh,Harare Sports Club,1,Zimbabwe
+63,10.3,0,Shafiul Islam,2011-08-16,1st,H Masakadza,1,,V Sibanda,19,Zimbabwe,Bangladesh,26,Bangladesh,Harare Sports Club,1,Zimbabwe
+64,10.4,4,Shafiul Islam,2011-08-16,1st,H Masakadza,1,,V Sibanda,23,Zimbabwe,Bangladesh,30,Bangladesh,Harare Sports Club,1,Zimbabwe
+65,10.5,0,Shafiul Islam,2011-08-16,1st,H Masakadza,1,,V Sibanda,23,Zimbabwe,Bangladesh,30,Bangladesh,Harare Sports Club,1,Zimbabwe
+66,10.6,0,Shafiul Islam,2011-08-16,1st,H Masakadza,1,,V Sibanda,23,Zimbabwe,Bangladesh,30,Bangladesh,Harare Sports Club,1,Zimbabwe
+67,11.1,0,Rubel Hossain,2011-08-16,1st,V Sibanda,23,,H Masakadza,1,Zimbabwe,Bangladesh,30,Bangladesh,Harare Sports Club,1,Zimbabwe
+68,11.2,0,Rubel Hossain,2011-08-16,1st,V Sibanda,23,,H Masakadza,1,Zimbabwe,Bangladesh,30,Bangladesh,Harare Sports Club,1,Zimbabwe
+69,11.3,1,Rubel Hossain,2011-08-16,1st,V Sibanda,23,,H Masakadza,2,Zimbabwe,Bangladesh,31,Bangladesh,Harare Sports Club,1,Zimbabwe
+70,11.4,4,Rubel Hossain,2011-08-16,1st,H Masakadza,2,,V Sibanda,27,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,1,Zimbabwe
+71,11.5,0,Rubel Hossain,2011-08-16,1st,H Masakadza,2,,V Sibanda,27,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,1,Zimbabwe
+72,11.6,0,Rubel Hossain,2011-08-16,1st,H Masakadza,2,,V Sibanda,27,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,1,Zimbabwe
+73,12.1,0,Shafiul Islam,2011-08-16,1st,V Sibanda,27,,H Masakadza,2,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,1,Zimbabwe
+74,12.2,0,Shafiul Islam,2011-08-16,1st,V Sibanda,27,,H Masakadza,2,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,1,Zimbabwe
+75,12.3,0,Shafiul Islam,2011-08-16,1st,V Sibanda,27,,H Masakadza,2,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,1,Zimbabwe
+76,12.4,0,Shafiul Islam,2011-08-16,1st,V Sibanda,27,,H Masakadza,2,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,1,Zimbabwe
+77,12.5,4,Shafiul Islam,2011-08-16,1st,V Sibanda,27,,H Masakadza,6,Zimbabwe,Bangladesh,39,Bangladesh,Harare Sports Club,1,Zimbabwe
+78,12.6,0,Shafiul Islam,2011-08-16,1st,V Sibanda,27,,H Masakadza,6,Zimbabwe,Bangladesh,39,Bangladesh,Harare Sports Club,1,Zimbabwe
+79,13.1,0,Rubel Hossain,2011-08-16,1st,H Masakadza,6,V Sibanda,V Sibanda,27,Zimbabwe,Bangladesh,39,Bangladesh,Harare Sports Club,2,Zimbabwe
+80,13.2,0,Rubel Hossain,2011-08-16,1st,H Masakadza,6,,T Taibu,0,Zimbabwe,Bangladesh,39,Bangladesh,Harare Sports Club,2,Zimbabwe
+81,13.3,0,Rubel Hossain,2011-08-16,1st,H Masakadza,6,,T Taibu,0,Zimbabwe,Bangladesh,39,Bangladesh,Harare Sports Club,2,Zimbabwe
+82,13.4,0,Rubel Hossain,2011-08-16,1st,H Masakadza,6,,T Taibu,0,Zimbabwe,Bangladesh,39,Bangladesh,Harare Sports Club,2,Zimbabwe
+83,13.5,0,Rubel Hossain,2011-08-16,1st,H Masakadza,6,,T Taibu,0,Zimbabwe,Bangladesh,39,Bangladesh,Harare Sports Club,2,Zimbabwe
+84,13.6,1,Rubel Hossain,2011-08-16,1st,H Masakadza,6,,T Taibu,1,Zimbabwe,Bangladesh,40,Bangladesh,Harare Sports Club,2,Zimbabwe
+85,14.1,0,Shafiul Islam,2011-08-16,1st,H Masakadza,6,,T Taibu,1,Zimbabwe,Bangladesh,40,Bangladesh,Harare Sports Club,2,Zimbabwe
+86,14.2,0,Shafiul Islam,2011-08-16,1st,H Masakadza,6,,T Taibu,1,Zimbabwe,Bangladesh,40,Bangladesh,Harare Sports Club,2,Zimbabwe
+87,14.3,0,Shafiul Islam,2011-08-16,1st,H Masakadza,6,,T Taibu,1,Zimbabwe,Bangladesh,40,Bangladesh,Harare Sports Club,2,Zimbabwe
+88,14.4,0,Shafiul Islam,2011-08-16,1st,H Masakadza,6,,T Taibu,1,Zimbabwe,Bangladesh,40,Bangladesh,Harare Sports Club,2,Zimbabwe
+89,14.5,0,Shafiul Islam,2011-08-16,1st,H Masakadza,6,,T Taibu,1,Zimbabwe,Bangladesh,40,Bangladesh,Harare Sports Club,2,Zimbabwe
+90,14.6,0,Shafiul Islam,2011-08-16,1st,H Masakadza,6,,T Taibu,1,Zimbabwe,Bangladesh,40,Bangladesh,Harare Sports Club,2,Zimbabwe
+91,15.1,1,Rubel Hossain,2011-08-16,1st,T Taibu,1,,H Masakadza,7,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+92,15.2,0,Rubel Hossain,2011-08-16,1st,H Masakadza,7,,T Taibu,1,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+93,15.3,0,Rubel Hossain,2011-08-16,1st,H Masakadza,7,,T Taibu,1,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+94,15.4,0,Rubel Hossain,2011-08-16,1st,H Masakadza,7,,T Taibu,1,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+95,15.5,0,Rubel Hossain,2011-08-16,1st,H Masakadza,7,,T Taibu,1,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+96,15.6,0,Rubel Hossain,2011-08-16,1st,H Masakadza,7,,T Taibu,1,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+97,16.1,0,Nazmul Hossain,2011-08-16,1st,T Taibu,1,,H Masakadza,7,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+98,16.2,0,Nazmul Hossain,2011-08-16,1st,T Taibu,1,,H Masakadza,7,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+99,16.3,0,Nazmul Hossain,2011-08-16,1st,T Taibu,1,,H Masakadza,7,Zimbabwe,Bangladesh,41,Bangladesh,Harare Sports Club,2,Zimbabwe
+100,16.4,1,Nazmul Hossain,2011-08-16,1st,T Taibu,1,,H Masakadza,8,Zimbabwe,Bangladesh,42,Bangladesh,Harare Sports Club,2,Zimbabwe
+101,16.5,0,Nazmul Hossain,2011-08-16,1st,H Masakadza,8,,T Taibu,1,Zimbabwe,Bangladesh,42,Bangladesh,Harare Sports Club,2,Zimbabwe
+102,16.6,0,Nazmul Hossain,2011-08-16,1st,H Masakadza,8,,T Taibu,1,Zimbabwe,Bangladesh,42,Bangladesh,Harare Sports Club,2,Zimbabwe
+103,17.1,0,Rubel Hossain,2011-08-16,1st,T Taibu,1,,H Masakadza,8,Zimbabwe,Bangladesh,42,Bangladesh,Harare Sports Club,2,Zimbabwe
+104,17.2,1,Rubel Hossain,2011-08-16,1st,T Taibu,1,,H Masakadza,9,Zimbabwe,Bangladesh,43,Bangladesh,Harare Sports Club,2,Zimbabwe
+105,17.3,1,Rubel Hossain,2011-08-16,1st,H Masakadza,9,,T Taibu,2,Zimbabwe,Bangladesh,44,Bangladesh,Harare Sports Club,2,Zimbabwe
+106,17.4,0,Rubel Hossain,2011-08-16,1st,T Taibu,2,,H Masakadza,9,Zimbabwe,Bangladesh,44,Bangladesh,Harare Sports Club,2,Zimbabwe
+107,17.5,1,Rubel Hossain,2011-08-16,1st,T Taibu,2,,H Masakadza,10,Zimbabwe,Bangladesh,45,Bangladesh,Harare Sports Club,2,Zimbabwe
+108,17.6,0,Rubel Hossain,2011-08-16,1st,H Masakadza,10,,T Taibu,2,Zimbabwe,Bangladesh,45,Bangladesh,Harare Sports Club,2,Zimbabwe
+109,18.1,0,Nasir Hossain,2011-08-16,1st,T Taibu,2,,H Masakadza,10,Zimbabwe,Bangladesh,45,Bangladesh,Harare Sports Club,2,Zimbabwe
+110,18.2,1,Nasir Hossain,2011-08-16,1st,T Taibu,2,,H Masakadza,11,Zimbabwe,Bangladesh,46,Bangladesh,Harare Sports Club,2,Zimbabwe
+111,18.3,0,Nasir Hossain,2011-08-16,1st,H Masakadza,11,,T Taibu,2,Zimbabwe,Bangladesh,46,Bangladesh,Harare Sports Club,2,Zimbabwe
+112,18.4,4,Nasir Hossain,2011-08-16,1st,H Masakadza,11,,T Taibu,6,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,2,Zimbabwe
+113,18.5,4,Nasir Hossain,2011-08-16,1st,H Masakadza,11,,T Taibu,10,Zimbabwe,Bangladesh,54,Bangladesh,Harare Sports Club,2,Zimbabwe
+114,18.6,0,Nasir Hossain,2011-08-16,1st,H Masakadza,11,,T Taibu,10,Zimbabwe,Bangladesh,54,Bangladesh,Harare Sports Club,2,Zimbabwe
+115,19.1,1,Rubel Hossain,2011-08-16,1st,T Taibu,10,,H Masakadza,12,Zimbabwe,Bangladesh,55,Bangladesh,Harare Sports Club,2,Zimbabwe
+116,19.2,4,Rubel Hossain,2011-08-16,1st,H Masakadza,12,,T Taibu,14,Zimbabwe,Bangladesh,59,Bangladesh,Harare Sports Club,2,Zimbabwe
+117,19.3,0,Rubel Hossain,2011-08-16,1st,H Masakadza,12,,T Taibu,14,Zimbabwe,Bangladesh,59,Bangladesh,Harare Sports Club,2,Zimbabwe
+118,19.4,1,Rubel Hossain,2011-08-16,1st,H Masakadza,12,,T Taibu,15,Zimbabwe,Bangladesh,60,Bangladesh,Harare Sports Club,2,Zimbabwe
+119,19.5,0,Rubel Hossain,2011-08-16,1st,T Taibu,15,,H Masakadza,12,Zimbabwe,Bangladesh,60,Bangladesh,Harare Sports Club,2,Zimbabwe
+120,19.6,0,Rubel Hossain,2011-08-16,1st,T Taibu,15,,H Masakadza,12,Zimbabwe,Bangladesh,60,Bangladesh,Harare Sports Club,2,Zimbabwe
+121,20.1,1,Nasir Hossain,2011-08-16,1st,H Masakadza,12,,T Taibu,16,Zimbabwe,Bangladesh,61,Bangladesh,Harare Sports Club,2,Zimbabwe
+122,20.2,4,Nasir Hossain,2011-08-16,1st,T Taibu,16,,H Masakadza,16,Zimbabwe,Bangladesh,65,Bangladesh,Harare Sports Club,2,Zimbabwe
+123,20.3,1,Nasir Hossain,2011-08-16,1st,T Taibu,16,,H Masakadza,17,Zimbabwe,Bangladesh,66,Bangladesh,Harare Sports Club,2,Zimbabwe
+124,20.4,0,Nasir Hossain,2011-08-16,1st,H Masakadza,17,,T Taibu,16,Zimbabwe,Bangladesh,66,Bangladesh,Harare Sports Club,2,Zimbabwe
+125,20.5,0,Nasir Hossain,2011-08-16,1st,H Masakadza,17,,T Taibu,16,Zimbabwe,Bangladesh,66,Bangladesh,Harare Sports Club,2,Zimbabwe
+126,20.6,4,Nasir Hossain,2011-08-16,1st,H Masakadza,17,,T Taibu,20,Zimbabwe,Bangladesh,70,Bangladesh,Harare Sports Club,2,Zimbabwe
+127,21.1,2,Mahmudullah,2011-08-16,1st,T Taibu,20,,H Masakadza,19,Zimbabwe,Bangladesh,72,Bangladesh,Harare Sports Club,2,Zimbabwe
+128,21.2,1,Mahmudullah,2011-08-16,1st,T Taibu,20,,H Masakadza,20,Zimbabwe,Bangladesh,73,Bangladesh,Harare Sports Club,2,Zimbabwe
+129,21.3,0,Mahmudullah,2011-08-16,1st,H Masakadza,20,,T Taibu,20,Zimbabwe,Bangladesh,73,Bangladesh,Harare Sports Club,2,Zimbabwe
+130,21.4,0,Mahmudullah,2011-08-16,1st,H Masakadza,20,,T Taibu,20,Zimbabwe,Bangladesh,73,Bangladesh,Harare Sports Club,2,Zimbabwe
+131,21.5,2,Mahmudullah,2011-08-16,1st,H Masakadza,20,,T Taibu,22,Zimbabwe,Bangladesh,75,Bangladesh,Harare Sports Club,2,Zimbabwe
+132,21.6,0,Mahmudullah,2011-08-16,1st,H Masakadza,20,,T Taibu,22,Zimbabwe,Bangladesh,75,Bangladesh,Harare Sports Club,2,Zimbabwe
+133,22.1,4,Shakib Al Hasan,2011-08-16,1st,T Taibu,22,,H Masakadza,24,Zimbabwe,Bangladesh,79,Bangladesh,Harare Sports Club,2,Zimbabwe
+134,22.2,1,Shakib Al Hasan,2011-08-16,1st,T Taibu,22,,H Masakadza,25,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+135,22.3,1,Shakib Al Hasan,2011-08-16,1st,H Masakadza,25,,T Taibu,23,Zimbabwe,Bangladesh,81,Bangladesh,Harare Sports Club,2,Zimbabwe
+136,22.4,0,Shakib Al Hasan,2011-08-16,1st,T Taibu,23,,H Masakadza,25,Zimbabwe,Bangladesh,81,Bangladesh,Harare Sports Club,2,Zimbabwe
+137,22.5,1,Shakib Al Hasan,2011-08-16,1st,T Taibu,23,,H Masakadza,26,Zimbabwe,Bangladesh,82,Bangladesh,Harare Sports Club,2,Zimbabwe
+138,22.6,1,Shakib Al Hasan,2011-08-16,1st,H Masakadza,26,,T Taibu,24,Zimbabwe,Bangladesh,83,Bangladesh,Harare Sports Club,2,Zimbabwe
+139,23.1,1,Mahmudullah,2011-08-16,1st,H Masakadza,26,,T Taibu,25,Zimbabwe,Bangladesh,84,Bangladesh,Harare Sports Club,2,Zimbabwe
+140,23.2,1,Mahmudullah,2011-08-16,1st,T Taibu,25,,H Masakadza,27,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+141,23.3,0,Mahmudullah,2011-08-16,1st,H Masakadza,27,,T Taibu,25,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+142,23.4,0,Mahmudullah,2011-08-16,1st,H Masakadza,27,,T Taibu,25,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+143,23.5,1,Mahmudullah,2011-08-16,1st,H Masakadza,27,,T Taibu,26,Zimbabwe,Bangladesh,86,Bangladesh,Harare Sports Club,2,Zimbabwe
+144,23.6,0,Mahmudullah,2011-08-16,1st,T Taibu,26,,H Masakadza,27,Zimbabwe,Bangladesh,86,Bangladesh,Harare Sports Club,2,Zimbabwe
+145,24.1,4,Shakib Al Hasan,2011-08-16,1st,H Masakadza,27,,T Taibu,30,Zimbabwe,Bangladesh,90,Bangladesh,Harare Sports Club,2,Zimbabwe
+146,24.2,1,Shakib Al Hasan,2011-08-16,1st,H Masakadza,27,,T Taibu,31,Zimbabwe,Bangladesh,91,Bangladesh,Harare Sports Club,2,Zimbabwe
+147,24.3,1,Shakib Al Hasan,2011-08-16,1st,T Taibu,31,,H Masakadza,28,Zimbabwe,Bangladesh,92,Bangladesh,Harare Sports Club,2,Zimbabwe
+148,24.4,0,Shakib Al Hasan,2011-08-16,1st,H Masakadza,28,,T Taibu,31,Zimbabwe,Bangladesh,92,Bangladesh,Harare Sports Club,2,Zimbabwe
+149,24.5,0,Shakib Al Hasan,2011-08-16,1st,H Masakadza,28,,T Taibu,31,Zimbabwe,Bangladesh,92,Bangladesh,Harare Sports Club,2,Zimbabwe
+150,24.6,1,Shakib Al Hasan,2011-08-16,1st,H Masakadza,28,,T Taibu,32,Zimbabwe,Bangladesh,93,Bangladesh,Harare Sports Club,2,Zimbabwe
+151,25.1,0,Mahmudullah,2011-08-16,1st,H Masakadza,28,,T Taibu,32,Zimbabwe,Bangladesh,93,Bangladesh,Harare Sports Club,2,Zimbabwe
+152,25.2,0,Mahmudullah,2011-08-16,1st,H Masakadza,28,,T Taibu,32,Zimbabwe,Bangladesh,93,Bangladesh,Harare Sports Club,2,Zimbabwe
+153,25.3,0,Mahmudullah,2011-08-16,1st,H Masakadza,28,,T Taibu,32,Zimbabwe,Bangladesh,93,Bangladesh,Harare Sports Club,2,Zimbabwe
+154,25.4,0,Mahmudullah,2011-08-16,1st,H Masakadza,28,,T Taibu,32,Zimbabwe,Bangladesh,93,Bangladesh,Harare Sports Club,2,Zimbabwe
+155,25.5,1,Mahmudullah,2011-08-16,1st,H Masakadza,28,,T Taibu,33,Zimbabwe,Bangladesh,94,Bangladesh,Harare Sports Club,2,Zimbabwe
+156,25.6,1,Mahmudullah,2011-08-16,1st,T Taibu,33,,H Masakadza,29,Zimbabwe,Bangladesh,95,Bangladesh,Harare Sports Club,2,Zimbabwe
+157,26.1,1,Nasir Hossain,2011-08-16,1st,T Taibu,33,,H Masakadza,30,Zimbabwe,Bangladesh,96,Bangladesh,Harare Sports Club,2,Zimbabwe
+158,26.2,2,Nasir Hossain,2011-08-16,1st,H Masakadza,30,,T Taibu,35,Zimbabwe,Bangladesh,98,Bangladesh,Harare Sports Club,2,Zimbabwe
+159,26.3,0,Nasir Hossain,2011-08-16,1st,H Masakadza,30,,T Taibu,35,Zimbabwe,Bangladesh,98,Bangladesh,Harare Sports Club,2,Zimbabwe
+160,26.4,1,Nasir Hossain,2011-08-16,1st,H Masakadza,30,,T Taibu,36,Zimbabwe,Bangladesh,99,Bangladesh,Harare Sports Club,2,Zimbabwe
+161,26.5,1,Nasir Hossain,2011-08-16,1st,T Taibu,36,,H Masakadza,31,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+162,26.6,0,Nasir Hossain,2011-08-16,1st,H Masakadza,31,,T Taibu,36,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+163,27.1,0,Mahmudullah,2011-08-16,1st,T Taibu,36,,H Masakadza,31,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+164,27.2,0,Mahmudullah,2011-08-16,1st,T Taibu,36,,H Masakadza,31,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+165,27.3,0,Mahmudullah,2011-08-16,1st,T Taibu,36,,H Masakadza,31,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+166,27.4,0,Mahmudullah,2011-08-16,1st,T Taibu,36,,H Masakadza,31,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+167,27.5,0,Mahmudullah,2011-08-16,1st,T Taibu,36,,H Masakadza,31,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+168,27.6,0,Mahmudullah,2011-08-16,1st,T Taibu,36,,H Masakadza,31,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+169,28.1,0,Nasir Hossain,2011-08-16,1st,H Masakadza,31,,T Taibu,36,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+170,28.2,0,Nasir Hossain,2011-08-16,1st,H Masakadza,31,,T Taibu,36,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+171,28.3,0,Nasir Hossain,2011-08-16,1st,H Masakadza,31,,T Taibu,36,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,2,Zimbabwe
+172,28.4,4,Nasir Hossain,2011-08-16,1st,H Masakadza,31,,T Taibu,40,Zimbabwe,Bangladesh,104,Bangladesh,Harare Sports Club,2,Zimbabwe
+173,28.5,1,Nasir Hossain,2011-08-16,1st,H Masakadza,31,,T Taibu,41,Zimbabwe,Bangladesh,105,Bangladesh,Harare Sports Club,2,Zimbabwe
+174,28.6,1,Nasir Hossain,2011-08-16,1st,T Taibu,41,,H Masakadza,32,Zimbabwe,Bangladesh,106,Bangladesh,Harare Sports Club,2,Zimbabwe
+175,29.1,6,Mahmudullah,2011-08-16,1st,T Taibu,41,,H Masakadza,38,Zimbabwe,Bangladesh,112,Bangladesh,Harare Sports Club,2,Zimbabwe
+176,29.2,0,Mahmudullah,2011-08-16,1st,T Taibu,41,,H Masakadza,38,Zimbabwe,Bangladesh,112,Bangladesh,Harare Sports Club,2,Zimbabwe
+177,29.3,1,Mahmudullah,2011-08-16,1st,T Taibu,41,,H Masakadza,39,Zimbabwe,Bangladesh,113,Bangladesh,Harare Sports Club,2,Zimbabwe
+178,29.4,0,Mahmudullah,2011-08-16,1st,H Masakadza,39,,T Taibu,41,Zimbabwe,Bangladesh,113,Bangladesh,Harare Sports Club,2,Zimbabwe
+179,29.5,0,Mahmudullah,2011-08-16,1st,H Masakadza,39,,T Taibu,41,Zimbabwe,Bangladesh,113,Bangladesh,Harare Sports Club,2,Zimbabwe
+180,29.6,0,Mahmudullah,2011-08-16,1st,H Masakadza,39,,T Taibu,41,Zimbabwe,Bangladesh,113,Bangladesh,Harare Sports Club,2,Zimbabwe
+181,30.1,0,Nasir Hossain,2011-08-16,1st,T Taibu,41,,H Masakadza,39,Zimbabwe,Bangladesh,113,Bangladesh,Harare Sports Club,2,Zimbabwe
+182,30.2,1,Nasir Hossain,2011-08-16,1st,T Taibu,41,,H Masakadza,40,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,2,Zimbabwe
+183,30.3,0,Nasir Hossain,2011-08-16,1st,H Masakadza,40,,T Taibu,41,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,2,Zimbabwe
+184,30.4,0,Nasir Hossain,2011-08-16,1st,H Masakadza,40,,T Taibu,41,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,2,Zimbabwe
+185,30.5,0,Nasir Hossain,2011-08-16,1st,H Masakadza,40,,T Taibu,41,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,2,Zimbabwe
+186,30.6,0,Nasir Hossain,2011-08-16,1st,H Masakadza,40,,T Taibu,41,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,2,Zimbabwe
+187,31.1,0,Mahmudullah,2011-08-16,1st,T Taibu,41,,H Masakadza,40,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,2,Zimbabwe
+188,31.2,0,Mahmudullah,2011-08-16,1st,T Taibu,41,,H Masakadza,40,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,2,Zimbabwe
+189,31.3,1,Mahmudullah,2011-08-16,1st,T Taibu,41,,H Masakadza,41,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,2,Zimbabwe
+190,31.4,3,Mahmudullah,2011-08-16,1st,H Masakadza,41,,T Taibu,44,Zimbabwe,Bangladesh,118,Bangladesh,Harare Sports Club,2,Zimbabwe
+191,31.5,1,Mahmudullah,2011-08-16,1st,T Taibu,44,,H Masakadza,42,Zimbabwe,Bangladesh,119,Bangladesh,Harare Sports Club,2,Zimbabwe
+192,31.6,0,Mahmudullah,2011-08-16,1st,H Masakadza,42,,T Taibu,44,Zimbabwe,Bangladesh,119,Bangladesh,Harare Sports Club,2,Zimbabwe
+193,32.1,0,Nasir Hossain,2011-08-16,1st,T Taibu,44,,H Masakadza,42,Zimbabwe,Bangladesh,119,Bangladesh,Harare Sports Club,2,Zimbabwe
+194,32.2,2,Nasir Hossain,2011-08-16,1st,T Taibu,44,,H Masakadza,44,Zimbabwe,Bangladesh,121,Bangladesh,Harare Sports Club,2,Zimbabwe
+195,32.3,0,Nasir Hossain,2011-08-16,1st,T Taibu,44,,H Masakadza,44,Zimbabwe,Bangladesh,121,Bangladesh,Harare Sports Club,2,Zimbabwe
+196,32.4,0,Nasir Hossain,2011-08-16,1st,T Taibu,44,,H Masakadza,44,Zimbabwe,Bangladesh,121,Bangladesh,Harare Sports Club,2,Zimbabwe
+197,32.5,1,Nasir Hossain,2011-08-16,1st,T Taibu,44,,H Masakadza,45,Zimbabwe,Bangladesh,122,Bangladesh,Harare Sports Club,2,Zimbabwe
+198,32.6,3,Nasir Hossain,2011-08-16,1st,H Masakadza,45,,T Taibu,47,Zimbabwe,Bangladesh,125,Bangladesh,Harare Sports Club,2,Zimbabwe
+199,33.1,1,Rubel Hossain,2011-08-16,1st,H Masakadza,45,,T Taibu,48,Zimbabwe,Bangladesh,126,Bangladesh,Harare Sports Club,2,Zimbabwe
+200,33.2,0,Rubel Hossain,2011-08-16,1st,T Taibu,48,,H Masakadza,45,Zimbabwe,Bangladesh,126,Bangladesh,Harare Sports Club,2,Zimbabwe
+201,33.3,0,Rubel Hossain,2011-08-16,1st,T Taibu,48,,H Masakadza,45,Zimbabwe,Bangladesh,126,Bangladesh,Harare Sports Club,2,Zimbabwe
+202,33.4,1,Rubel Hossain,2011-08-16,1st,T Taibu,48,,H Masakadza,46,Zimbabwe,Bangladesh,127,Bangladesh,Harare Sports Club,2,Zimbabwe
+203,33.5,1,Rubel Hossain,2011-08-16,1st,H Masakadza,46,,T Taibu,49,Zimbabwe,Bangladesh,128,Bangladesh,Harare Sports Club,2,Zimbabwe
+204,33.6,0,Rubel Hossain,2011-08-16,1st,T Taibu,49,,H Masakadza,46,Zimbabwe,Bangladesh,128,Bangladesh,Harare Sports Club,2,Zimbabwe
+205,34.1,1,Nazmul Hossain,2011-08-16,1st,H Masakadza,46,,T Taibu,50,Zimbabwe,Bangladesh,129,Bangladesh,Harare Sports Club,2,Zimbabwe
+206,34.2,1,Nazmul Hossain,2011-08-16,1st,T Taibu,50,,H Masakadza,47,Zimbabwe,Bangladesh,130,Bangladesh,Harare Sports Club,2,Zimbabwe
+207,34.3,4,Nazmul Hossain,2011-08-16,1st,H Masakadza,47,,T Taibu,54,Zimbabwe,Bangladesh,134,Bangladesh,Harare Sports Club,2,Zimbabwe
+208,34.4,1,Nazmul Hossain,2011-08-16,1st,H Masakadza,47,,T Taibu,55,Zimbabwe,Bangladesh,135,Bangladesh,Harare Sports Club,2,Zimbabwe
+209,34.5,2,Nazmul Hossain,2011-08-16,1st,T Taibu,55,,H Masakadza,49,Zimbabwe,Bangladesh,137,Bangladesh,Harare Sports Club,2,Zimbabwe
+210,34.6,0,Nazmul Hossain,2011-08-16,1st,T Taibu,55,,H Masakadza,49,Zimbabwe,Bangladesh,137,Bangladesh,Harare Sports Club,2,Zimbabwe
+211,35.1,1,Rubel Hossain,2011-08-16,1st,H Masakadza,49,,T Taibu,56,Zimbabwe,Bangladesh,138,Bangladesh,Harare Sports Club,2,Zimbabwe
+212,35.2,1,Rubel Hossain,2011-08-16,1st,T Taibu,56,,H Masakadza,50,Zimbabwe,Bangladesh,139,Bangladesh,Harare Sports Club,2,Zimbabwe
+213,35.3,0,Rubel Hossain,2011-08-16,1st,H Masakadza,50,,T Taibu,56,Zimbabwe,Bangladesh,139,Bangladesh,Harare Sports Club,2,Zimbabwe
+214,35.4,1,Rubel Hossain,2011-08-16,1st,H Masakadza,50,,T Taibu,57,Zimbabwe,Bangladesh,140,Bangladesh,Harare Sports Club,2,Zimbabwe
+215,35.5,0,Rubel Hossain,2011-08-16,1st,T Taibu,57,,H Masakadza,50,Zimbabwe,Bangladesh,140,Bangladesh,Harare Sports Club,2,Zimbabwe
+216,35.6,4,Rubel Hossain,2011-08-16,1st,T Taibu,57,,H Masakadza,54,Zimbabwe,Bangladesh,144,Bangladesh,Harare Sports Club,2,Zimbabwe
+217,36.1,1,Mahmudullah,2011-08-16,1st,H Masakadza,54,,T Taibu,58,Zimbabwe,Bangladesh,145,Bangladesh,Harare Sports Club,2,Zimbabwe
+218,36.2,0,Mahmudullah,2011-08-16,1st,T Taibu,58,,H Masakadza,54,Zimbabwe,Bangladesh,145,Bangladesh,Harare Sports Club,2,Zimbabwe
+219,36.3,1,Mahmudullah,2011-08-16,1st,T Taibu,58,,H Masakadza,55,Zimbabwe,Bangladesh,146,Bangladesh,Harare Sports Club,2,Zimbabwe
+220,36.4,2,Mahmudullah,2011-08-16,1st,H Masakadza,55,,T Taibu,60,Zimbabwe,Bangladesh,148,Bangladesh,Harare Sports Club,2,Zimbabwe
+221,36.5,1,Mahmudullah,2011-08-16,1st,H Masakadza,55,,T Taibu,61,Zimbabwe,Bangladesh,149,Bangladesh,Harare Sports Club,2,Zimbabwe
+222,36.6,1,Mahmudullah,2011-08-16,1st,T Taibu,61,,H Masakadza,56,Zimbabwe,Bangladesh,150,Bangladesh,Harare Sports Club,2,Zimbabwe
+223,37.1,1,Rubel Hossain,2011-08-16,1st,T Taibu,61,,H Masakadza,57,Zimbabwe,Bangladesh,151,Bangladesh,Harare Sports Club,2,Zimbabwe
+224,37.2,0,Rubel Hossain,2011-08-16,1st,H Masakadza,57,,T Taibu,61,Zimbabwe,Bangladesh,151,Bangladesh,Harare Sports Club,2,Zimbabwe
+225,37.3,0,Rubel Hossain,2011-08-16,1st,H Masakadza,57,,T Taibu,61,Zimbabwe,Bangladesh,151,Bangladesh,Harare Sports Club,2,Zimbabwe
+226,37.4,4,Rubel Hossain,2011-08-16,1st,H Masakadza,57,,T Taibu,65,Zimbabwe,Bangladesh,155,Bangladesh,Harare Sports Club,2,Zimbabwe
+227,37.5,0,Rubel Hossain,2011-08-16,1st,H Masakadza,57,,T Taibu,65,Zimbabwe,Bangladesh,155,Bangladesh,Harare Sports Club,2,Zimbabwe
+228,37.6,0,Rubel Hossain,2011-08-16,1st,H Masakadza,57,,T Taibu,65,Zimbabwe,Bangladesh,155,Bangladesh,Harare Sports Club,2,Zimbabwe
+229,38.1,1,Shafiul Islam,2011-08-16,1st,T Taibu,65,,H Masakadza,58,Zimbabwe,Bangladesh,156,Bangladesh,Harare Sports Club,2,Zimbabwe
+230,38.2,0,Shafiul Islam,2011-08-16,1st,H Masakadza,58,,T Taibu,65,Zimbabwe,Bangladesh,156,Bangladesh,Harare Sports Club,2,Zimbabwe
+231,38.3,1,Shafiul Islam,2011-08-16,1st,H Masakadza,58,,T Taibu,66,Zimbabwe,Bangladesh,157,Bangladesh,Harare Sports Club,2,Zimbabwe
+232,38.4,1,Shafiul Islam,2011-08-16,1st,T Taibu,66,,H Masakadza,59,Zimbabwe,Bangladesh,158,Bangladesh,Harare Sports Club,2,Zimbabwe
+233,38.5,0,Shafiul Islam,2011-08-16,1st,H Masakadza,59,,T Taibu,66,Zimbabwe,Bangladesh,159,Bangladesh,Harare Sports Club,2,Zimbabwe
+234,38.6,1,Shafiul Islam,2011-08-16,1st,H Masakadza,59,,T Taibu,67,Zimbabwe,Bangladesh,160,Bangladesh,Harare Sports Club,2,Zimbabwe
+235,38.7,1,Shafiul Islam,2011-08-16,1st,T Taibu,67,,H Masakadza,60,Zimbabwe,Bangladesh,161,Bangladesh,Harare Sports Club,2,Zimbabwe
+236,39.1,1,Rubel Hossain,2011-08-16,1st,T Taibu,67,,H Masakadza,61,Zimbabwe,Bangladesh,162,Bangladesh,Harare Sports Club,2,Zimbabwe
+237,39.2,1,Rubel Hossain,2011-08-16,1st,H Masakadza,61,,T Taibu,68,Zimbabwe,Bangladesh,163,Bangladesh,Harare Sports Club,2,Zimbabwe
+238,39.3,1,Rubel Hossain,2011-08-16,1st,T Taibu,68,,H Masakadza,62,Zimbabwe,Bangladesh,164,Bangladesh,Harare Sports Club,2,Zimbabwe
+239,39.4,1,Rubel Hossain,2011-08-16,1st,H Masakadza,62,,T Taibu,69,Zimbabwe,Bangladesh,165,Bangladesh,Harare Sports Club,2,Zimbabwe
+240,39.5,0,Rubel Hossain,2011-08-16,1st,T Taibu,69,,H Masakadza,62,Zimbabwe,Bangladesh,166,Bangladesh,Harare Sports Club,2,Zimbabwe
+241,39.6,1,Rubel Hossain,2011-08-16,1st,H Masakadza,62,,T Taibu,70,Zimbabwe,Bangladesh,167,Bangladesh,Harare Sports Club,2,Zimbabwe
+242,40.1,1,Shafiul Islam,2011-08-16,1st,H Masakadza,62,,T Taibu,71,Zimbabwe,Bangladesh,168,Bangladesh,Harare Sports Club,2,Zimbabwe
+243,40.2,2,Shafiul Islam,2011-08-16,1st,T Taibu,71,,H Masakadza,64,Zimbabwe,Bangladesh,170,Bangladesh,Harare Sports Club,2,Zimbabwe
+244,40.3,0,Shafiul Islam,2011-08-16,1st,T Taibu,71,,H Masakadza,64,Zimbabwe,Bangladesh,170,Bangladesh,Harare Sports Club,2,Zimbabwe
+245,40.4,0,Shafiul Islam,2011-08-16,1st,T Taibu,71,,H Masakadza,64,Zimbabwe,Bangladesh,170,Bangladesh,Harare Sports Club,2,Zimbabwe
+246,40.5,6,Shafiul Islam,2011-08-16,1st,T Taibu,71,,H Masakadza,70,Zimbabwe,Bangladesh,176,Bangladesh,Harare Sports Club,2,Zimbabwe
+247,40.6,1,Shafiul Islam,2011-08-16,1st,T Taibu,71,,H Masakadza,71,Zimbabwe,Bangladesh,177,Bangladesh,Harare Sports Club,2,Zimbabwe
+248,41.1,1,Rubel Hossain,2011-08-16,1st,T Taibu,71,,H Masakadza,72,Zimbabwe,Bangladesh,178,Bangladesh,Harare Sports Club,2,Zimbabwe
+249,41.2,1,Rubel Hossain,2011-08-16,1st,H Masakadza,72,,T Taibu,72,Zimbabwe,Bangladesh,179,Bangladesh,Harare Sports Club,2,Zimbabwe
+250,41.3,2,Rubel Hossain,2011-08-16,1st,T Taibu,72,,H Masakadza,74,Zimbabwe,Bangladesh,181,Bangladesh,Harare Sports Club,2,Zimbabwe
+251,41.4,0,Rubel Hossain,2011-08-16,1st,T Taibu,72,H Masakadza,H Masakadza,74,Zimbabwe,Bangladesh,181,Bangladesh,Harare Sports Club,3,Zimbabwe
+252,41.5,0,Rubel Hossain,2011-08-16,1st,T Taibu,72,,CR Ervine,0,Zimbabwe,Bangladesh,181,Bangladesh,Harare Sports Club,3,Zimbabwe
+253,41.6,1,Rubel Hossain,2011-08-16,1st,T Taibu,72,,CR Ervine,1,Zimbabwe,Bangladesh,182,Bangladesh,Harare Sports Club,3,Zimbabwe
+254,42.1,0,Mahmudullah,2011-08-16,1st,T Taibu,72,,CR Ervine,1,Zimbabwe,Bangladesh,182,Bangladesh,Harare Sports Club,3,Zimbabwe
+255,42.2,1,Mahmudullah,2011-08-16,1st,T Taibu,72,,CR Ervine,2,Zimbabwe,Bangladesh,183,Bangladesh,Harare Sports Club,3,Zimbabwe
+256,42.3,2,Mahmudullah,2011-08-16,1st,CR Ervine,2,,T Taibu,74,Zimbabwe,Bangladesh,185,Bangladesh,Harare Sports Club,3,Zimbabwe
+257,42.4,1,Mahmudullah,2011-08-16,1st,CR Ervine,2,,T Taibu,75,Zimbabwe,Bangladesh,186,Bangladesh,Harare Sports Club,3,Zimbabwe
+258,42.5,0,Mahmudullah,2011-08-16,1st,T Taibu,75,,CR Ervine,2,Zimbabwe,Bangladesh,186,Bangladesh,Harare Sports Club,3,Zimbabwe
+259,42.6,6,Mahmudullah,2011-08-16,1st,T Taibu,75,,CR Ervine,8,Zimbabwe,Bangladesh,192,Bangladesh,Harare Sports Club,3,Zimbabwe
+260,43.1,1,Shakib Al Hasan,2011-08-16,1st,CR Ervine,8,,T Taibu,76,Zimbabwe,Bangladesh,193,Bangladesh,Harare Sports Club,3,Zimbabwe
+261,43.2,1,Shakib Al Hasan,2011-08-16,1st,T Taibu,76,,CR Ervine,9,Zimbabwe,Bangladesh,194,Bangladesh,Harare Sports Club,3,Zimbabwe
+262,43.3,1,Shakib Al Hasan,2011-08-16,1st,CR Ervine,9,,T Taibu,77,Zimbabwe,Bangladesh,195,Bangladesh,Harare Sports Club,3,Zimbabwe
+263,43.4,0,Shakib Al Hasan,2011-08-16,1st,T Taibu,77,,CR Ervine,9,Zimbabwe,Bangladesh,195,Bangladesh,Harare Sports Club,3,Zimbabwe
+264,43.5,1,Shakib Al Hasan,2011-08-16,1st,T Taibu,77,,CR Ervine,10,Zimbabwe,Bangladesh,196,Bangladesh,Harare Sports Club,3,Zimbabwe
+265,43.6,2,Shakib Al Hasan,2011-08-16,1st,CR Ervine,10,,T Taibu,79,Zimbabwe,Bangladesh,198,Bangladesh,Harare Sports Club,3,Zimbabwe
+266,44.1,2,Mahmudullah,2011-08-16,1st,T Taibu,79,,CR Ervine,12,Zimbabwe,Bangladesh,200,Bangladesh,Harare Sports Club,3,Zimbabwe
+267,44.2,2,Mahmudullah,2011-08-16,1st,T Taibu,79,,CR Ervine,14,Zimbabwe,Bangladesh,202,Bangladesh,Harare Sports Club,3,Zimbabwe
+268,44.3,4,Mahmudullah,2011-08-16,1st,T Taibu,79,,CR Ervine,18,Zimbabwe,Bangladesh,206,Bangladesh,Harare Sports Club,3,Zimbabwe
+269,44.4,0,Mahmudullah,2011-08-16,1st,T Taibu,79,CR Ervine,CR Ervine,18,Zimbabwe,Bangladesh,206,Bangladesh,Harare Sports Club,4,Zimbabwe
+270,44.5,2,Mahmudullah,2011-08-16,1st,T Taibu,79,,E Chigumbura,2,Zimbabwe,Bangladesh,208,Bangladesh,Harare Sports Club,4,Zimbabwe
+271,44.6,1,Mahmudullah,2011-08-16,1st,T Taibu,79,,E Chigumbura,3,Zimbabwe,Bangladesh,209,Bangladesh,Harare Sports Club,4,Zimbabwe
+272,45.1,1,Shakib Al Hasan,2011-08-16,1st,T Taibu,79,,E Chigumbura,4,Zimbabwe,Bangladesh,210,Bangladesh,Harare Sports Club,4,Zimbabwe
+273,45.2,1,Shakib Al Hasan,2011-08-16,1st,E Chigumbura,4,,T Taibu,80,Zimbabwe,Bangladesh,211,Bangladesh,Harare Sports Club,4,Zimbabwe
+274,45.3,0,Shakib Al Hasan,2011-08-16,1st,T Taibu,80,,E Chigumbura,4,Zimbabwe,Bangladesh,211,Bangladesh,Harare Sports Club,4,Zimbabwe
+275,45.4,0,Shakib Al Hasan,2011-08-16,1st,T Taibu,80,,E Chigumbura,4,Zimbabwe,Bangladesh,212,Bangladesh,Harare Sports Club,4,Zimbabwe
+276,45.5,1,Shakib Al Hasan,2011-08-16,1st,E Chigumbura,4,,T Taibu,81,Zimbabwe,Bangladesh,213,Bangladesh,Harare Sports Club,4,Zimbabwe
+277,45.6,1,Shakib Al Hasan,2011-08-16,1st,T Taibu,81,,E Chigumbura,5,Zimbabwe,Bangladesh,214,Bangladesh,Harare Sports Club,4,Zimbabwe
+278,46.1,0,Nazmul Hossain,2011-08-16,1st,T Taibu,81,,E Chigumbura,5,Zimbabwe,Bangladesh,214,Bangladesh,Harare Sports Club,4,Zimbabwe
+279,46.2,1,Nazmul Hossain,2011-08-16,1st,T Taibu,81,,E Chigumbura,6,Zimbabwe,Bangladesh,215,Bangladesh,Harare Sports Club,4,Zimbabwe
+280,46.3,2,Nazmul Hossain,2011-08-16,1st,E Chigumbura,6,,T Taibu,83,Zimbabwe,Bangladesh,217,Bangladesh,Harare Sports Club,4,Zimbabwe
+281,46.4,0,Nazmul Hossain,2011-08-16,1st,E Chigumbura,6,T Taibu,T Taibu,83,Zimbabwe,Bangladesh,217,Bangladesh,Harare Sports Club,5,Zimbabwe
+282,46.5,0,Nazmul Hossain,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,6,Zimbabwe,Bangladesh,217,Bangladesh,Harare Sports Club,5,Zimbabwe
+283,46.6,1,Nazmul Hossain,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,7,Zimbabwe,Bangladesh,218,Bangladesh,Harare Sports Club,5,Zimbabwe
+284,47.1,6,Shakib Al Hasan,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,13,Zimbabwe,Bangladesh,224,Bangladesh,Harare Sports Club,5,Zimbabwe
+285,47.2,0,Shakib Al Hasan,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,13,Zimbabwe,Bangladesh,224,Bangladesh,Harare Sports Club,5,Zimbabwe
+286,47.3,2,Shakib Al Hasan,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,15,Zimbabwe,Bangladesh,226,Bangladesh,Harare Sports Club,5,Zimbabwe
+287,47.4,0,Shakib Al Hasan,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,15,Zimbabwe,Bangladesh,226,Bangladesh,Harare Sports Club,5,Zimbabwe
+288,47.5,2,Shakib Al Hasan,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,17,Zimbabwe,Bangladesh,228,Bangladesh,Harare Sports Club,5,Zimbabwe
+289,47.6,6,Shakib Al Hasan,2011-08-16,1st,F Mutizwa,0,,E Chigumbura,23,Zimbabwe,Bangladesh,234,Bangladesh,Harare Sports Club,5,Zimbabwe
+290,48.1,1,Nazmul Hossain,2011-08-16,1st,E Chigumbura,23,,F Mutizwa,1,Zimbabwe,Bangladesh,235,Bangladesh,Harare Sports Club,5,Zimbabwe
+291,48.2,0,Nazmul Hossain,2011-08-16,1st,F Mutizwa,1,,E Chigumbura,23,Zimbabwe,Bangladesh,236,Bangladesh,Harare Sports Club,5,Zimbabwe
+292,48.3,1,Nazmul Hossain,2011-08-16,1st,F Mutizwa,1,,E Chigumbura,24,Zimbabwe,Bangladesh,237,Bangladesh,Harare Sports Club,5,Zimbabwe
+293,48.4,1,Nazmul Hossain,2011-08-16,1st,E Chigumbura,24,,F Mutizwa,2,Zimbabwe,Bangladesh,238,Bangladesh,Harare Sports Club,5,Zimbabwe
+294,48.5,2,Nazmul Hossain,2011-08-16,1st,F Mutizwa,2,,E Chigumbura,26,Zimbabwe,Bangladesh,240,Bangladesh,Harare Sports Club,5,Zimbabwe
+295,48.6,4,Nazmul Hossain,2011-08-16,1st,F Mutizwa,2,,E Chigumbura,30,Zimbabwe,Bangladesh,244,Bangladesh,Harare Sports Club,5,Zimbabwe
+296,48.7,1,Nazmul Hossain,2011-08-16,1st,F Mutizwa,2,,E Chigumbura,31,Zimbabwe,Bangladesh,245,Bangladesh,Harare Sports Club,5,Zimbabwe
+297,49.1,0,Shakib Al Hasan,2011-08-16,1st,F Mutizwa,2,E Chigumbura,E Chigumbura,31,Zimbabwe,Bangladesh,245,Bangladesh,Harare Sports Club,6,Zimbabwe
+298,49.2,0,Shakib Al Hasan,2011-08-16,1st,P Utseya,0,F Mutizwa,F Mutizwa,2,Zimbabwe,Bangladesh,245,Bangladesh,Harare Sports Club,7,Zimbabwe
+299,49.3,0,Shakib Al Hasan,2011-08-16,1st,P Utseya,0,,KM Jarvis,0,Zimbabwe,Bangladesh,245,Bangladesh,Harare Sports Club,7,Zimbabwe
+300,49.4,1,Shakib Al Hasan,2011-08-16,1st,P Utseya,0,,KM Jarvis,1,Zimbabwe,Bangladesh,246,Bangladesh,Harare Sports Club,7,Zimbabwe
+301,49.5,2,Shakib Al Hasan,2011-08-16,1st,KM Jarvis,1,,P Utseya,2,Zimbabwe,Bangladesh,248,Bangladesh,Harare Sports Club,7,Zimbabwe
+302,49.6,2,Shakib Al Hasan,2011-08-16,1st,KM Jarvis,1,,P Utseya,4,Zimbabwe,Bangladesh,250,Bangladesh,Harare Sports Club,7,Zimbabwe
+303,0.1,0,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,0,Bangladesh,Harare Sports Club,0,Zimbabwe
+304,0.2,0,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,0,Bangladesh,Harare Sports Club,0,Zimbabwe
+305,0.3,1,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,1,Bangladesh,Harare Sports Club,0,Zimbabwe
+306,0.4,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+307,0.5,0,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,2,Bangladesh,Harare Sports Club,0,Zimbabwe
+308,0.6,1,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,3,Bangladesh,Harare Sports Club,0,Zimbabwe
+309,1.1,3,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+310,1.2,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+311,1.3,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,6,Bangladesh,Harare Sports Club,0,Zimbabwe
+312,1.4,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,7,Bangladesh,Harare Sports Club,0,Zimbabwe
+313,1.5,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,7,Bangladesh,Harare Sports Club,0,Zimbabwe
+314,1.6,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,7,Bangladesh,Harare Sports Club,0,Zimbabwe
+315,1.7,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,7,Bangladesh,Harare Sports Club,0,Zimbabwe
+316,2.1,0,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,7,Bangladesh,Harare Sports Club,0,Zimbabwe
+317,2.2,1,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,8,Bangladesh,Harare Sports Club,0,Zimbabwe
+318,2.3,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,8,Bangladesh,Harare Sports Club,0,Zimbabwe
+319,2.4,4,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,12,Bangladesh,Harare Sports Club,0,Zimbabwe
+320,2.5,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,12,Bangladesh,Harare Sports Club,0,Zimbabwe
+321,2.6,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,13,Bangladesh,Harare Sports Club,0,Zimbabwe
+322,2.7,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,13,Bangladesh,Harare Sports Club,0,Zimbabwe
+323,3.1,1,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,14,Bangladesh,Harare Sports Club,0,Zimbabwe
+324,3.2,1,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,0,Zimbabwe
+325,3.3,0,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,0,Zimbabwe
+326,3.4,0,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,15,Bangladesh,Harare Sports Club,0,Zimbabwe
+327,3.5,1,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,16,Bangladesh,Harare Sports Club,0,Zimbabwe
+328,3.6,1,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,17,Bangladesh,Harare Sports Club,0,Zimbabwe
+329,4.1,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,17,Bangladesh,Harare Sports Club,0,Zimbabwe
+330,4.2,1,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,18,Bangladesh,Harare Sports Club,0,Zimbabwe
+331,4.3,2,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,20,Bangladesh,Harare Sports Club,0,Zimbabwe
+332,4.4,0,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,20,Bangladesh,Harare Sports Club,0,Zimbabwe
+333,4.5,0,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,20,Bangladesh,Harare Sports Club,0,Zimbabwe
+334,4.6,1,BV Vitori,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,21,Bangladesh,Harare Sports Club,0,Zimbabwe
+335,5.1,0,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,21,Bangladesh,Harare Sports Club,0,Zimbabwe
+336,5.2,0,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,21,Bangladesh,Harare Sports Club,0,Zimbabwe
+337,5.3,0,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,21,Bangladesh,Harare Sports Club,0,Zimbabwe
+338,5.4,1,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,0,Zimbabwe
+339,5.5,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,0,Zimbabwe
+340,5.6,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,0,Zimbabwe
+341,6.1,0,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,22,Bangladesh,Harare Sports Club,0,Zimbabwe
+342,6.2,1,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,23,Bangladesh,Harare Sports Club,0,Zimbabwe
+343,6.3,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,23,Bangladesh,Harare Sports Club,0,Zimbabwe
+344,6.4,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,23,Bangladesh,Harare Sports Club,0,Zimbabwe
+345,6.5,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,23,Bangladesh,Harare Sports Club,0,Zimbabwe
+346,6.6,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,23,Bangladesh,Harare Sports Club,0,Zimbabwe
+347,7.1,1,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,24,Bangladesh,Harare Sports Club,0,Zimbabwe
+348,7.2,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,24,Bangladesh,Harare Sports Club,0,Zimbabwe
+349,7.3,2,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,26,Bangladesh,Harare Sports Club,0,Zimbabwe
+350,7.4,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,26,Bangladesh,Harare Sports Club,0,Zimbabwe
+351,7.5,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,26,Bangladesh,Harare Sports Club,0,Zimbabwe
+352,7.6,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,26,Bangladesh,Harare Sports Club,0,Zimbabwe
+353,8.1,4,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,30,Bangladesh,Harare Sports Club,0,Zimbabwe
+354,8.2,2,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,32,Bangladesh,Harare Sports Club,0,Zimbabwe
+355,8.3,1,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,33,Bangladesh,Harare Sports Club,0,Zimbabwe
+356,8.4,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,33,Bangladesh,Harare Sports Club,0,Zimbabwe
+357,8.5,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,33,Bangladesh,Harare Sports Club,0,Zimbabwe
+358,8.6,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,33,Bangladesh,Harare Sports Club,0,Zimbabwe
+359,9.1,1,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,34,Bangladesh,Harare Sports Club,0,Zimbabwe
+360,9.2,1,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,35,Bangladesh,Harare Sports Club,0,Zimbabwe
+361,9.3,2,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,37,Bangladesh,Harare Sports Club,0,Zimbabwe
+362,9.4,1,KM Jarvis,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,38,Bangladesh,Harare Sports Club,0,Zimbabwe
+363,9.5,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,38,Bangladesh,Harare Sports Club,0,Zimbabwe
+364,9.6,0,KM Jarvis,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,38,Bangladesh,Harare Sports Club,0,Zimbabwe
+365,10.1,4,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,42,Bangladesh,Harare Sports Club,0,Zimbabwe
+366,10.2,1,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,43,Bangladesh,Harare Sports Club,0,Zimbabwe
+367,10.3,4,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,47,Bangladesh,Harare Sports Club,0,Zimbabwe
+368,10.4,1,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,48,Bangladesh,Harare Sports Club,0,Zimbabwe
+369,10.5,1,CB Mpofu,2011-08-16,2nd,Imrul Kayes,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,49,Bangladesh,Harare Sports Club,0,Zimbabwe
+370,10.6,1,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,0,Zimbabwe
+371,11.1,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,0,Zimbabwe
+372,11.2,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,0,Zimbabwe
+373,11.3,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,0,Zimbabwe
+374,11.4,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,0,Zimbabwe
+375,11.5,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Imrul Kayes,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,1,Zimbabwe
+376,11.6,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,1,Zimbabwe
+377,12.1,0,CB Mpofu,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,1,Zimbabwe
+378,12.2,0,CB Mpofu,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,50,Bangladesh,Harare Sports Club,1,Zimbabwe
+379,12.3,1,CB Mpofu,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,51,Bangladesh,Harare Sports Club,1,Zimbabwe
+380,12.4,4,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,55,Bangladesh,Harare Sports Club,1,Zimbabwe
+381,12.5,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,55,Bangladesh,Harare Sports Club,1,Zimbabwe
+382,12.6,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,55,Bangladesh,Harare Sports Club,1,Zimbabwe
+383,13.1,1,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,56,Bangladesh,Harare Sports Club,1,Zimbabwe
+384,13.2,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,56,Bangladesh,Harare Sports Club,1,Zimbabwe
+385,13.3,1,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,57,Bangladesh,Harare Sports Club,1,Zimbabwe
+386,13.4,0,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,57,Bangladesh,Harare Sports Club,1,Zimbabwe
+387,13.5,0,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,57,Bangladesh,Harare Sports Club,1,Zimbabwe
+388,13.6,0,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,57,Bangladesh,Harare Sports Club,1,Zimbabwe
+389,14.1,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,57,Bangladesh,Harare Sports Club,1,Zimbabwe
+390,14.2,1,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,58,Bangladesh,Harare Sports Club,1,Zimbabwe
+391,14.3,0,CB Mpofu,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,58,Bangladesh,Harare Sports Club,1,Zimbabwe
+392,14.4,1,CB Mpofu,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,59,Bangladesh,Harare Sports Club,1,Zimbabwe
+393,14.5,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,59,Bangladesh,Harare Sports Club,1,Zimbabwe
+394,14.6,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,59,Bangladesh,Harare Sports Club,1,Zimbabwe
+395,15.1,0,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,59,Bangladesh,Harare Sports Club,1,Zimbabwe
+396,15.2,0,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,59,Bangladesh,Harare Sports Club,1,Zimbabwe
+397,15.3,1,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,60,Bangladesh,Harare Sports Club,1,Zimbabwe
+398,15.4,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,60,Bangladesh,Harare Sports Club,1,Zimbabwe
+399,15.5,1,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,61,Bangladesh,Harare Sports Club,1,Zimbabwe
+400,15.6,0,P Utseya,2011-08-16,2nd,Junaid Siddique,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,61,Bangladesh,Harare Sports Club,1,Zimbabwe
+401,16.1,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,61,Bangladesh,Harare Sports Club,1,Zimbabwe
+402,16.2,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,61,Bangladesh,Harare Sports Club,1,Zimbabwe
+403,16.3,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,61,Bangladesh,Harare Sports Club,1,Zimbabwe
+404,16.4,0,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,61,Bangladesh,Harare Sports Club,1,Zimbabwe
+405,16.5,4,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,65,Bangladesh,Harare Sports Club,1,Zimbabwe
+406,16.6,1,CB Mpofu,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,66,Bangladesh,Harare Sports Club,1,Zimbabwe
+407,17.1,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Junaid Siddique,0,Zimbabwe,Bangladesh,66,Bangladesh,Harare Sports Club,2,Zimbabwe
+408,17.2,1,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,67,Bangladesh,Harare Sports Club,2,Zimbabwe
+409,17.3,0,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,67,Bangladesh,Harare Sports Club,2,Zimbabwe
+410,17.4,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,68,Bangladesh,Harare Sports Club,2,Zimbabwe
+411,17.5,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,68,Bangladesh,Harare Sports Club,2,Zimbabwe
+412,17.6,0,P Utseya,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,68,Bangladesh,Harare Sports Club,2,Zimbabwe
+413,18.1,1,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,69,Bangladesh,Harare Sports Club,2,Zimbabwe
+414,18.2,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,69,Bangladesh,Harare Sports Club,2,Zimbabwe
+415,18.3,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,69,Bangladesh,Harare Sports Club,2,Zimbabwe
+416,18.4,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,69,Bangladesh,Harare Sports Club,2,Zimbabwe
+417,18.5,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,69,Bangladesh,Harare Sports Club,2,Zimbabwe
+418,18.6,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,69,Bangladesh,Harare Sports Club,2,Zimbabwe
+419,19.1,1,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,70,Bangladesh,Harare Sports Club,2,Zimbabwe
+420,19.2,0,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,70,Bangladesh,Harare Sports Club,2,Zimbabwe
+421,19.3,5,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,75,Bangladesh,Harare Sports Club,2,Zimbabwe
+422,19.4,1,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,76,Bangladesh,Harare Sports Club,2,Zimbabwe
+423,19.5,4,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+424,19.6,0,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+425,20.1,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+426,20.2,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+427,20.3,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+428,20.4,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+429,20.5,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,80,Bangladesh,Harare Sports Club,2,Zimbabwe
+430,20.6,1,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,81,Bangladesh,Harare Sports Club,2,Zimbabwe
+431,21.1,1,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,82,Bangladesh,Harare Sports Club,2,Zimbabwe
+432,21.2,1,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,83,Bangladesh,Harare Sports Club,2,Zimbabwe
+433,21.3,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,83,Bangladesh,Harare Sports Club,2,Zimbabwe
+434,21.4,1,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,84,Bangladesh,Harare Sports Club,2,Zimbabwe
+435,21.5,0,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,84,Bangladesh,Harare Sports Club,2,Zimbabwe
+436,21.6,1,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+437,22.1,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+438,22.2,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+439,22.3,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+440,22.4,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+441,22.5,0,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,85,Bangladesh,Harare Sports Club,2,Zimbabwe
+442,22.6,1,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,86,Bangladesh,Harare Sports Club,2,Zimbabwe
+443,23.1,0,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,86,Bangladesh,Harare Sports Club,2,Zimbabwe
+444,23.2,1,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,87,Bangladesh,Harare Sports Club,2,Zimbabwe
+445,23.3,1,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,88,Bangladesh,Harare Sports Club,2,Zimbabwe
+446,23.4,0,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,88,Bangladesh,Harare Sports Club,2,Zimbabwe
+447,23.5,1,E Chigumbura,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,89,Bangladesh,Harare Sports Club,2,Zimbabwe
+448,23.6,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,89,Bangladesh,Harare Sports Club,2,Zimbabwe
+449,24.1,1,BV Vitori,2011-08-16,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,90,Bangladesh,Harare Sports Club,2,Zimbabwe
+450,24.2,1,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Zimbabwe,Bangladesh,91,Bangladesh,Harare Sports Club,3,Zimbabwe
+451,24.3,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,91,Bangladesh,Harare Sports Club,3,Zimbabwe
+452,24.4,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,91,Bangladesh,Harare Sports Club,3,Zimbabwe
+453,24.5,1,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,92,Bangladesh,Harare Sports Club,3,Zimbabwe
+454,24.6,1,BV Vitori,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,93,Bangladesh,Harare Sports Club,3,Zimbabwe
+455,25.1,1,E Chigumbura,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,94,Bangladesh,Harare Sports Club,3,Zimbabwe
+456,25.2,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,94,Bangladesh,Harare Sports Club,3,Zimbabwe
+457,25.3,6,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,3,Zimbabwe
+458,25.4,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,3,Zimbabwe
+459,25.5,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,100,Bangladesh,Harare Sports Club,3,Zimbabwe
+460,25.6,2,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+461,26.1,0,CB Mpofu,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+462,26.2,0,CB Mpofu,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+463,26.3,0,CB Mpofu,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+464,26.4,0,CB Mpofu,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+465,26.5,0,CB Mpofu,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+466,26.6,0,CB Mpofu,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+467,27.1,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,102,Bangladesh,Harare Sports Club,3,Zimbabwe
+468,27.2,1,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,103,Bangladesh,Harare Sports Club,3,Zimbabwe
+469,27.3,1,KM Jarvis,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,104,Bangladesh,Harare Sports Club,3,Zimbabwe
+470,27.4,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,104,Bangladesh,Harare Sports Club,3,Zimbabwe
+471,27.5,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,104,Bangladesh,Harare Sports Club,3,Zimbabwe
+472,27.6,4,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,108,Bangladesh,Harare Sports Club,3,Zimbabwe
+473,28.1,0,H Masakadza,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,108,Bangladesh,Harare Sports Club,3,Zimbabwe
+474,28.2,2,H Masakadza,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,110,Bangladesh,Harare Sports Club,3,Zimbabwe
+475,28.3,0,H Masakadza,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,110,Bangladesh,Harare Sports Club,3,Zimbabwe
+476,28.4,0,H Masakadza,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,110,Bangladesh,Harare Sports Club,3,Zimbabwe
+477,28.5,1,H Masakadza,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,111,Bangladesh,Harare Sports Club,3,Zimbabwe
+478,28.6,2,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,113,Bangladesh,Harare Sports Club,3,Zimbabwe
+479,29.1,1,KM Jarvis,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,3,Zimbabwe
+480,29.2,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,114,Bangladesh,Harare Sports Club,3,Zimbabwe
+481,29.3,1,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,3,Zimbabwe
+482,29.4,0,KM Jarvis,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,3,Zimbabwe
+483,29.5,0,KM Jarvis,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,3,Zimbabwe
+484,29.6,0,KM Jarvis,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,3,Zimbabwe
+485,30.1,0,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,3,Zimbabwe
+486,30.2,0,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,3,Zimbabwe
+487,30.3,0,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,115,Bangladesh,Harare Sports Club,3,Zimbabwe
+488,30.4,1,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,116,Bangladesh,Harare Sports Club,3,Zimbabwe
+489,30.5,0,H Masakadza,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,116,Bangladesh,Harare Sports Club,3,Zimbabwe
+490,30.6,1,H Masakadza,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,117,Bangladesh,Harare Sports Club,3,Zimbabwe
+491,31.1,4,P Utseya,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,121,Bangladesh,Harare Sports Club,3,Zimbabwe
+492,31.2,1,P Utseya,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,122,Bangladesh,Harare Sports Club,3,Zimbabwe
+493,31.3,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,123,Bangladesh,Harare Sports Club,3,Zimbabwe
+494,31.4,1,P Utseya,2011-08-16,2nd,Shakib Al Hasan,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,124,Bangladesh,Harare Sports Club,3,Zimbabwe
+495,31.5,0,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shakib Al Hasan,0,Zimbabwe,Bangladesh,124,Bangladesh,Harare Sports Club,4,Zimbabwe
+496,31.6,0,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,124,Bangladesh,Harare Sports Club,4,Zimbabwe
+497,32.1,4,H Masakadza,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,128,Bangladesh,Harare Sports Club,4,Zimbabwe
+498,32.2,1,H Masakadza,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,129,Bangladesh,Harare Sports Club,4,Zimbabwe
+499,32.3,0,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,129,Bangladesh,Harare Sports Club,4,Zimbabwe
+500,32.4,0,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,129,Bangladesh,Harare Sports Club,4,Zimbabwe
+501,32.5,0,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,129,Bangladesh,Harare Sports Club,4,Zimbabwe
+502,32.6,1,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,130,Bangladesh,Harare Sports Club,4,Zimbabwe
+503,33.1,0,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,130,Bangladesh,Harare Sports Club,4,Zimbabwe
+504,33.2,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,131,Bangladesh,Harare Sports Club,4,Zimbabwe
+505,33.3,0,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,131,Bangladesh,Harare Sports Club,4,Zimbabwe
+506,33.4,0,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,131,Bangladesh,Harare Sports Club,4,Zimbabwe
+507,33.5,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,132,Bangladesh,Harare Sports Club,4,Zimbabwe
+508,33.6,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,133,Bangladesh,Harare Sports Club,4,Zimbabwe
+509,34.1,4,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,137,Bangladesh,Harare Sports Club,4,Zimbabwe
+510,34.2,1,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,138,Bangladesh,Harare Sports Club,4,Zimbabwe
+511,34.3,0,BV Vitori,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,138,Bangladesh,Harare Sports Club,4,Zimbabwe
+512,34.4,1,BV Vitori,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,139,Bangladesh,Harare Sports Club,4,Zimbabwe
+513,34.5,1,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,140,Bangladesh,Harare Sports Club,4,Zimbabwe
+514,34.6,0,BV Vitori,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,140,Bangladesh,Harare Sports Club,4,Zimbabwe
+515,35.1,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,141,Bangladesh,Harare Sports Club,4,Zimbabwe
+516,35.2,2,KM Jarvis,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,143,Bangladesh,Harare Sports Club,4,Zimbabwe
+517,35.3,1,KM Jarvis,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,144,Bangladesh,Harare Sports Club,4,Zimbabwe
+518,35.4,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,144,Bangladesh,Harare Sports Club,4,Zimbabwe
+519,35.5,2,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,146,Bangladesh,Harare Sports Club,4,Zimbabwe
+520,35.6,4,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,150,Bangladesh,Harare Sports Club,4,Zimbabwe
+521,36.1,1,H Masakadza,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,151,Bangladesh,Harare Sports Club,4,Zimbabwe
+522,36.2,1,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,152,Bangladesh,Harare Sports Club,4,Zimbabwe
+523,36.3,1,H Masakadza,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,153,Bangladesh,Harare Sports Club,4,Zimbabwe
+524,36.4,0,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,153,Bangladesh,Harare Sports Club,4,Zimbabwe
+525,36.5,1,H Masakadza,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,154,Bangladesh,Harare Sports Club,4,Zimbabwe
+526,36.6,0,H Masakadza,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,154,Bangladesh,Harare Sports Club,4,Zimbabwe
+527,37.1,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,155,Bangladesh,Harare Sports Club,4,Zimbabwe
+528,37.2,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,156,Bangladesh,Harare Sports Club,4,Zimbabwe
+529,37.3,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,157,Bangladesh,Harare Sports Club,4,Zimbabwe
+530,37.4,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,158,Bangladesh,Harare Sports Club,4,Zimbabwe
+531,37.5,0,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,158,Bangladesh,Harare Sports Club,4,Zimbabwe
+532,37.6,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,159,Bangladesh,Harare Sports Club,4,Zimbabwe
+533,38.1,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,159,Bangladesh,Harare Sports Club,4,Zimbabwe
+534,38.2,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,159,Bangladesh,Harare Sports Club,4,Zimbabwe
+535,38.3,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,160,Bangladesh,Harare Sports Club,4,Zimbabwe
+536,38.4,1,E Chigumbura,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,161,Bangladesh,Harare Sports Club,4,Zimbabwe
+537,38.5,2,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,163,Bangladesh,Harare Sports Club,4,Zimbabwe
+538,38.6,0,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,163,Bangladesh,Harare Sports Club,4,Zimbabwe
+539,39.1,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,164,Bangladesh,Harare Sports Club,4,Zimbabwe
+540,39.2,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,165,Bangladesh,Harare Sports Club,4,Zimbabwe
+541,39.3,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,166,Bangladesh,Harare Sports Club,4,Zimbabwe
+542,39.4,0,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,166,Bangladesh,Harare Sports Club,4,Zimbabwe
+543,39.5,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,167,Bangladesh,Harare Sports Club,4,Zimbabwe
+544,39.6,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,168,Bangladesh,Harare Sports Club,4,Zimbabwe
+545,40.1,1,E Chigumbura,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,169,Bangladesh,Harare Sports Club,4,Zimbabwe
+546,40.2,1,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,170,Bangladesh,Harare Sports Club,4,Zimbabwe
+547,40.3,1,E Chigumbura,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,171,Bangladesh,Harare Sports Club,4,Zimbabwe
+548,40.4,1,E Chigumbura,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,172,Bangladesh,Harare Sports Club,4,Zimbabwe
+549,40.5,2,E Chigumbura,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,174,Bangladesh,Harare Sports Club,4,Zimbabwe
+550,40.6,1,E Chigumbura,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,175,Bangladesh,Harare Sports Club,4,Zimbabwe
+551,41.1,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,176,Bangladesh,Harare Sports Club,4,Zimbabwe
+552,41.2,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,177,Bangladesh,Harare Sports Club,4,Zimbabwe
+553,41.3,2,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,179,Bangladesh,Harare Sports Club,4,Zimbabwe
+554,41.4,1,P Utseya,2011-08-16,2nd,Shuvagata Hom,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,180,Bangladesh,Harare Sports Club,4,Zimbabwe
+555,41.5,4,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,184,Bangladesh,Harare Sports Club,4,Zimbabwe
+556,41.6,1,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,185,Bangladesh,Harare Sports Club,4,Zimbabwe
+557,42.1,0,CB Mpofu,2011-08-16,2nd,Mushfiqur Rahim,0,,Shuvagata Hom,0,Zimbabwe,Bangladesh,185,Bangladesh,Harare Sports Club,5,Zimbabwe
+558,42.2,0,CB Mpofu,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,185,Bangladesh,Harare Sports Club,5,Zimbabwe
+559,42.3,1,CB Mpofu,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,186,Bangladesh,Harare Sports Club,5,Zimbabwe
+560,42.4,1,CB Mpofu,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,187,Bangladesh,Harare Sports Club,5,Zimbabwe
+561,42.5,1,CB Mpofu,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,188,Bangladesh,Harare Sports Club,5,Zimbabwe
+562,42.6,1,CB Mpofu,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,189,Bangladesh,Harare Sports Club,5,Zimbabwe
+563,43.1,0,P Utseya,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,189,Bangladesh,Harare Sports Club,5,Zimbabwe
+564,43.2,0,P Utseya,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,189,Bangladesh,Harare Sports Club,5,Zimbabwe
+565,43.3,4,P Utseya,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,193,Bangladesh,Harare Sports Club,5,Zimbabwe
+566,43.4,1,P Utseya,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,194,Bangladesh,Harare Sports Club,5,Zimbabwe
+567,43.5,2,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,196,Bangladesh,Harare Sports Club,5,Zimbabwe
+568,43.6,4,P Utseya,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,200,Bangladesh,Harare Sports Club,5,Zimbabwe
+569,44.1,0,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,200,Bangladesh,Harare Sports Club,5,Zimbabwe
+570,44.2,4,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,204,Bangladesh,Harare Sports Club,5,Zimbabwe
+571,44.3,1,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,205,Bangladesh,Harare Sports Club,5,Zimbabwe
+572,44.4,2,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,207,Bangladesh,Harare Sports Club,5,Zimbabwe
+573,44.5,1,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,208,Bangladesh,Harare Sports Club,5,Zimbabwe
+574,44.6,2,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,210,Bangladesh,Harare Sports Club,5,Zimbabwe
+575,45.1,2,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,212,Bangladesh,Harare Sports Club,5,Zimbabwe
+576,45.2,1,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,213,Bangladesh,Harare Sports Club,5,Zimbabwe
+577,45.3,2,KM Jarvis,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,215,Bangladesh,Harare Sports Club,5,Zimbabwe
+578,45.4,2,KM Jarvis,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,217,Bangladesh,Harare Sports Club,5,Zimbabwe
+579,45.5,2,KM Jarvis,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,219,Bangladesh,Harare Sports Club,5,Zimbabwe
+580,45.6,1,KM Jarvis,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,220,Bangladesh,Harare Sports Club,5,Zimbabwe
+581,46.1,0,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,220,Bangladesh,Harare Sports Club,5,Zimbabwe
+582,46.2,4,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,224,Bangladesh,Harare Sports Club,5,Zimbabwe
+583,46.3,4,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,228,Bangladesh,Harare Sports Club,5,Zimbabwe
+584,46.4,1,BV Vitori,2011-08-16,2nd,Mahmudullah,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,229,Bangladesh,Harare Sports Club,5,Zimbabwe
+585,46.5,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,229,Bangladesh,Harare Sports Club,5,Zimbabwe
+586,46.6,0,BV Vitori,2011-08-16,2nd,Mushfiqur Rahim,0,,Mahmudullah,0,Zimbabwe,Bangladesh,229,Bangladesh,Harare Sports Club,6,Zimbabwe
+587,47.1,0,CB Mpofu,2011-08-16,2nd,Mushfiqur Rahim,0,,Nasir Hossain,0,Zimbabwe,Bangladesh,229,Bangladesh,Harare Sports Club,6,Zimbabwe
+588,47.2,0,CB Mpofu,2011-08-16,2nd,Mushfiqur Rahim,0,,Nasir Hossain,0,Zimbabwe,Bangladesh,229,Bangladesh,Harare Sports Club,7,Zimbabwe
+589,47.3,0,CB Mpofu,2011-08-16,2nd,Shafiul Islam,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,229,Bangladesh,Harare Sports Club,7,Zimbabwe
+590,47.4,4,CB Mpofu,2011-08-16,2nd,Shafiul Islam,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,233,Bangladesh,Harare Sports Club,7,Zimbabwe
+591,47.5,1,CB Mpofu,2011-08-16,2nd,Shafiul Islam,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,234,Bangladesh,Harare Sports Club,7,Zimbabwe
+592,47.6,0,CB Mpofu,2011-08-16,2nd,Mushfiqur Rahim,0,,Shafiul Islam,0,Zimbabwe,Bangladesh,235,Bangladesh,Harare Sports Club,7,Zimbabwe
+593,48.1,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shafiul Islam,0,Zimbabwe,Bangladesh,235,Bangladesh,Harare Sports Club,7,Zimbabwe
+594,48.2,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Shafiul Islam,0,Zimbabwe,Bangladesh,235,Bangladesh,Harare Sports Club,8,Zimbabwe
+595,48.3,1,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Rubel Hossain,0,Zimbabwe,Bangladesh,236,Bangladesh,Harare Sports Club,8,Zimbabwe
+596,48.4,6,KM Jarvis,2011-08-16,2nd,Rubel Hossain,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,242,Bangladesh,Harare Sports Club,8,Zimbabwe
+597,48.5,1,KM Jarvis,2011-08-16,2nd,Rubel Hossain,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,243,Bangladesh,Harare Sports Club,8,Zimbabwe
+598,48.6,0,KM Jarvis,2011-08-16,2nd,Mushfiqur Rahim,0,,Rubel Hossain,0,Zimbabwe,Bangladesh,243,Bangladesh,Harare Sports Club,9,Zimbabwe
+599,49.1,2,CB Mpofu,2011-08-16,2nd,Nazmul Hossain,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,245,Bangladesh,Harare Sports Club,9,Zimbabwe
+600,49.2,0,CB Mpofu,2011-08-16,2nd,Nazmul Hossain,0,,Mushfiqur Rahim,0,Zimbabwe,Bangladesh,245,Bangladesh,Harare Sports Club,10,Zimbabwe

@@ -1,0 +1,600 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,DE Bollinger,2011-10-28,1st,GC Smith,0,,HM Amla,0,South Africa,Australia,0,South Africa,Kingsmead,0,Australia
+1,0.2,0,DE Bollinger,2011-10-28,1st,GC Smith,0,,HM Amla,0,South Africa,Australia,0,South Africa,Kingsmead,0,Australia
+2,0.3,0,DE Bollinger,2011-10-28,1st,GC Smith,0,,HM Amla,0,South Africa,Australia,1,South Africa,Kingsmead,0,Australia
+3,0.4,0,DE Bollinger,2011-10-28,1st,GC Smith,0,,HM Amla,0,South Africa,Australia,1,South Africa,Kingsmead,0,Australia
+4,0.5,4,DE Bollinger,2011-10-28,1st,GC Smith,0,,HM Amla,4,South Africa,Australia,5,South Africa,Kingsmead,0,Australia
+5,0.6,1,DE Bollinger,2011-10-28,1st,GC Smith,0,,HM Amla,5,South Africa,Australia,6,South Africa,Kingsmead,0,Australia
+6,0.7,0,DE Bollinger,2011-10-28,1st,HM Amla,5,,GC Smith,0,South Africa,Australia,6,South Africa,Kingsmead,0,Australia
+7,1.1,4,PJ Cummins,2011-10-28,1st,GC Smith,0,,HM Amla,9,South Africa,Australia,10,South Africa,Kingsmead,0,Australia
+8,1.2,4,PJ Cummins,2011-10-28,1st,GC Smith,0,,HM Amla,13,South Africa,Australia,14,South Africa,Kingsmead,0,Australia
+9,1.3,0,PJ Cummins,2011-10-28,1st,GC Smith,0,,HM Amla,13,South Africa,Australia,14,South Africa,Kingsmead,0,Australia
+10,1.4,4,PJ Cummins,2011-10-28,1st,GC Smith,0,,HM Amla,17,South Africa,Australia,18,South Africa,Kingsmead,0,Australia
+11,1.5,4,PJ Cummins,2011-10-28,1st,GC Smith,0,,HM Amla,21,South Africa,Australia,22,South Africa,Kingsmead,0,Australia
+12,1.6,0,PJ Cummins,2011-10-28,1st,GC Smith,0,,HM Amla,21,South Africa,Australia,22,South Africa,Kingsmead,0,Australia
+13,2.1,2,DE Bollinger,2011-10-28,1st,HM Amla,21,,GC Smith,2,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+14,2.2,0,DE Bollinger,2011-10-28,1st,HM Amla,21,,GC Smith,2,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+15,2.3,0,DE Bollinger,2011-10-28,1st,HM Amla,21,,GC Smith,2,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+16,2.4,0,DE Bollinger,2011-10-28,1st,HM Amla,21,,GC Smith,2,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+17,2.5,0,DE Bollinger,2011-10-28,1st,HM Amla,21,,GC Smith,2,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+18,2.6,0,DE Bollinger,2011-10-28,1st,HM Amla,21,,GC Smith,2,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+19,3.1,0,PJ Cummins,2011-10-28,1st,GC Smith,2,,HM Amla,21,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+20,3.2,0,PJ Cummins,2011-10-28,1st,GC Smith,2,,HM Amla,21,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+21,3.3,0,PJ Cummins,2011-10-28,1st,GC Smith,2,,HM Amla,21,South Africa,Australia,24,South Africa,Kingsmead,0,Australia
+22,3.4,1,PJ Cummins,2011-10-28,1st,GC Smith,2,,HM Amla,22,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+23,3.5,0,PJ Cummins,2011-10-28,1st,HM Amla,22,,GC Smith,2,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+24,3.6,0,PJ Cummins,2011-10-28,1st,HM Amla,22,,GC Smith,2,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+25,4.1,0,DE Bollinger,2011-10-28,1st,GC Smith,2,,HM Amla,22,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+26,4.2,0,DE Bollinger,2011-10-28,1st,GC Smith,2,,HM Amla,22,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+27,4.3,0,DE Bollinger,2011-10-28,1st,GC Smith,2,,HM Amla,22,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+28,4.4,0,DE Bollinger,2011-10-28,1st,GC Smith,2,,HM Amla,22,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+29,4.5,0,DE Bollinger,2011-10-28,1st,GC Smith,2,,HM Amla,22,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+30,4.6,0,DE Bollinger,2011-10-28,1st,GC Smith,2,,HM Amla,22,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+31,5.1,0,PJ Cummins,2011-10-28,1st,HM Amla,22,,GC Smith,2,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+32,5.2,0,PJ Cummins,2011-10-28,1st,HM Amla,22,,GC Smith,2,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+33,5.3,4,PJ Cummins,2011-10-28,1st,HM Amla,22,,GC Smith,6,South Africa,Australia,29,South Africa,Kingsmead,0,Australia
+34,5.4,0,PJ Cummins,2011-10-28,1st,HM Amla,22,,GC Smith,6,South Africa,Australia,30,South Africa,Kingsmead,0,Australia
+35,5.5,0,PJ Cummins,2011-10-28,1st,GC Smith,6,,HM Amla,22,South Africa,Australia,30,South Africa,Kingsmead,0,Australia
+36,5.6,0,PJ Cummins,2011-10-28,1st,GC Smith,6,,HM Amla,22,South Africa,Australia,30,South Africa,Kingsmead,0,Australia
+37,6.1,1,DE Bollinger,2011-10-28,1st,HM Amla,22,,GC Smith,7,South Africa,Australia,31,South Africa,Kingsmead,0,Australia
+38,6.2,4,DE Bollinger,2011-10-28,1st,GC Smith,7,,HM Amla,26,South Africa,Australia,35,South Africa,Kingsmead,0,Australia
+39,6.3,0,DE Bollinger,2011-10-28,1st,GC Smith,7,,HM Amla,26,South Africa,Australia,35,South Africa,Kingsmead,0,Australia
+40,6.4,0,DE Bollinger,2011-10-28,1st,GC Smith,7,,HM Amla,26,South Africa,Australia,35,South Africa,Kingsmead,0,Australia
+41,6.5,0,DE Bollinger,2011-10-28,1st,GC Smith,7,,HM Amla,26,South Africa,Australia,35,South Africa,Kingsmead,0,Australia
+42,6.6,0,DE Bollinger,2011-10-28,1st,GC Smith,7,,HM Amla,26,South Africa,Australia,35,South Africa,Kingsmead,0,Australia
+43,7.1,0,SR Watson,2011-10-28,1st,HM Amla,26,,GC Smith,7,South Africa,Australia,35,South Africa,Kingsmead,0,Australia
+44,7.2,0,SR Watson,2011-10-28,1st,HM Amla,26,,GC Smith,7,South Africa,Australia,35,South Africa,Kingsmead,0,Australia
+45,7.3,2,SR Watson,2011-10-28,1st,HM Amla,26,,GC Smith,9,South Africa,Australia,37,South Africa,Kingsmead,0,Australia
+46,7.4,1,SR Watson,2011-10-28,1st,HM Amla,26,,GC Smith,10,South Africa,Australia,38,South Africa,Kingsmead,0,Australia
+47,7.5,0,SR Watson,2011-10-28,1st,GC Smith,10,,HM Amla,26,South Africa,Australia,38,South Africa,Kingsmead,0,Australia
+48,7.6,1,SR Watson,2011-10-28,1st,GC Smith,10,,HM Amla,27,South Africa,Australia,39,South Africa,Kingsmead,0,Australia
+49,8.1,0,DE Bollinger,2011-10-28,1st,GC Smith,10,,HM Amla,27,South Africa,Australia,39,South Africa,Kingsmead,0,Australia
+50,8.2,0,DE Bollinger,2011-10-28,1st,GC Smith,10,,HM Amla,27,South Africa,Australia,39,South Africa,Kingsmead,0,Australia
+51,8.3,0,DE Bollinger,2011-10-28,1st,GC Smith,10,,HM Amla,27,South Africa,Australia,39,South Africa,Kingsmead,0,Australia
+52,8.4,4,DE Bollinger,2011-10-28,1st,GC Smith,10,,HM Amla,31,South Africa,Australia,43,South Africa,Kingsmead,0,Australia
+53,8.5,0,DE Bollinger,2011-10-28,1st,GC Smith,10,,HM Amla,31,South Africa,Australia,43,South Africa,Kingsmead,0,Australia
+54,8.6,1,DE Bollinger,2011-10-28,1st,GC Smith,10,,HM Amla,32,South Africa,Australia,44,South Africa,Kingsmead,0,Australia
+55,9.1,0,SR Watson,2011-10-28,1st,GC Smith,10,,HM Amla,32,South Africa,Australia,44,South Africa,Kingsmead,0,Australia
+56,9.2,1,SR Watson,2011-10-28,1st,GC Smith,10,,HM Amla,33,South Africa,Australia,45,South Africa,Kingsmead,0,Australia
+57,9.3,2,SR Watson,2011-10-28,1st,HM Amla,33,,GC Smith,12,South Africa,Australia,47,South Africa,Kingsmead,0,Australia
+58,9.4,0,SR Watson,2011-10-28,1st,HM Amla,33,,GC Smith,12,South Africa,Australia,47,South Africa,Kingsmead,0,Australia
+59,9.5,0,SR Watson,2011-10-28,1st,HM Amla,33,,GC Smith,12,South Africa,Australia,47,South Africa,Kingsmead,0,Australia
+60,9.6,0,SR Watson,2011-10-28,1st,HM Amla,33,,GC Smith,12,South Africa,Australia,47,South Africa,Kingsmead,0,Australia
+61,10.1,1,MG Johnson,2011-10-28,1st,GC Smith,12,,HM Amla,34,South Africa,Australia,48,South Africa,Kingsmead,0,Australia
+62,10.2,2,MG Johnson,2011-10-28,1st,HM Amla,34,,GC Smith,14,South Africa,Australia,50,South Africa,Kingsmead,0,Australia
+63,10.3,0,MG Johnson,2011-10-28,1st,HM Amla,34,,GC Smith,14,South Africa,Australia,50,South Africa,Kingsmead,0,Australia
+64,10.4,1,MG Johnson,2011-10-28,1st,HM Amla,34,,GC Smith,15,South Africa,Australia,51,South Africa,Kingsmead,0,Australia
+65,10.5,0,MG Johnson,2011-10-28,1st,GC Smith,15,,HM Amla,34,South Africa,Australia,51,South Africa,Kingsmead,0,Australia
+66,10.6,0,MG Johnson,2011-10-28,1st,GC Smith,15,,HM Amla,34,South Africa,Australia,51,South Africa,Kingsmead,0,Australia
+67,11.1,0,SR Watson,2011-10-28,1st,HM Amla,34,,GC Smith,15,South Africa,Australia,51,South Africa,Kingsmead,0,Australia
+68,11.2,1,SR Watson,2011-10-28,1st,HM Amla,34,,GC Smith,16,South Africa,Australia,52,South Africa,Kingsmead,0,Australia
+69,11.3,1,SR Watson,2011-10-28,1st,GC Smith,16,,HM Amla,35,South Africa,Australia,53,South Africa,Kingsmead,0,Australia
+70,11.4,0,SR Watson,2011-10-28,1st,HM Amla,35,,GC Smith,16,South Africa,Australia,53,South Africa,Kingsmead,0,Australia
+71,11.5,0,SR Watson,2011-10-28,1st,HM Amla,35,,GC Smith,16,South Africa,Australia,54,South Africa,Kingsmead,0,Australia
+72,11.6,1,SR Watson,2011-10-28,1st,HM Amla,35,,GC Smith,17,South Africa,Australia,55,South Africa,Kingsmead,0,Australia
+73,11.7,0,SR Watson,2011-10-28,1st,GC Smith,17,,HM Amla,35,South Africa,Australia,55,South Africa,Kingsmead,0,Australia
+74,12.1,0,MG Johnson,2011-10-28,1st,HM Amla,35,,GC Smith,17,South Africa,Australia,55,South Africa,Kingsmead,0,Australia
+75,12.2,1,MG Johnson,2011-10-28,1st,HM Amla,35,,GC Smith,18,South Africa,Australia,56,South Africa,Kingsmead,0,Australia
+76,12.3,1,MG Johnson,2011-10-28,1st,GC Smith,18,,HM Amla,36,South Africa,Australia,57,South Africa,Kingsmead,0,Australia
+77,12.4,0,MG Johnson,2011-10-28,1st,HM Amla,36,,GC Smith,18,South Africa,Australia,57,South Africa,Kingsmead,0,Australia
+78,12.5,0,MG Johnson,2011-10-28,1st,HM Amla,36,,GC Smith,18,South Africa,Australia,57,South Africa,Kingsmead,0,Australia
+79,12.6,1,MG Johnson,2011-10-28,1st,HM Amla,36,,GC Smith,19,South Africa,Australia,58,South Africa,Kingsmead,0,Australia
+80,13.1,0,XJ Doherty,2011-10-28,1st,HM Amla,36,,GC Smith,19,South Africa,Australia,58,South Africa,Kingsmead,0,Australia
+81,13.2,0,XJ Doherty,2011-10-28,1st,HM Amla,36,GC Smith,GC Smith,19,South Africa,Australia,58,South Africa,Kingsmead,1,Australia
+82,13.3,0,XJ Doherty,2011-10-28,1st,HM Amla,36,,JH Kallis,0,South Africa,Australia,58,South Africa,Kingsmead,1,Australia
+83,13.4,1,XJ Doherty,2011-10-28,1st,HM Amla,36,,JH Kallis,1,South Africa,Australia,59,South Africa,Kingsmead,1,Australia
+84,13.5,0,XJ Doherty,2011-10-28,1st,JH Kallis,1,,HM Amla,36,South Africa,Australia,59,South Africa,Kingsmead,1,Australia
+85,13.6,0,XJ Doherty,2011-10-28,1st,JH Kallis,1,,HM Amla,36,South Africa,Australia,59,South Africa,Kingsmead,1,Australia
+86,14.1,0,MG Johnson,2011-10-28,1st,HM Amla,36,,JH Kallis,1,South Africa,Australia,59,South Africa,Kingsmead,1,Australia
+87,14.2,0,MG Johnson,2011-10-28,1st,HM Amla,36,,JH Kallis,1,South Africa,Australia,59,South Africa,Kingsmead,1,Australia
+88,14.3,0,MG Johnson,2011-10-28,1st,HM Amla,36,,JH Kallis,1,South Africa,Australia,59,South Africa,Kingsmead,1,Australia
+89,14.4,0,MG Johnson,2011-10-28,1st,HM Amla,36,,JH Kallis,1,South Africa,Australia,59,South Africa,Kingsmead,1,Australia
+90,14.5,1,MG Johnson,2011-10-28,1st,HM Amla,36,,JH Kallis,2,South Africa,Australia,60,South Africa,Kingsmead,1,Australia
+91,14.6,0,MG Johnson,2011-10-28,1st,JH Kallis,2,,HM Amla,36,South Africa,Australia,60,South Africa,Kingsmead,1,Australia
+92,15.1,1,XJ Doherty,2011-10-28,1st,HM Amla,36,,JH Kallis,3,South Africa,Australia,61,South Africa,Kingsmead,1,Australia
+93,15.2,1,XJ Doherty,2011-10-28,1st,JH Kallis,3,,HM Amla,37,South Africa,Australia,62,South Africa,Kingsmead,1,Australia
+94,15.3,4,XJ Doherty,2011-10-28,1st,HM Amla,37,,JH Kallis,7,South Africa,Australia,66,South Africa,Kingsmead,1,Australia
+95,15.4,0,XJ Doherty,2011-10-28,1st,HM Amla,37,,JH Kallis,7,South Africa,Australia,66,South Africa,Kingsmead,1,Australia
+96,15.5,6,XJ Doherty,2011-10-28,1st,HM Amla,37,,JH Kallis,13,South Africa,Australia,72,South Africa,Kingsmead,1,Australia
+97,15.6,1,XJ Doherty,2011-10-28,1st,HM Amla,37,,JH Kallis,14,South Africa,Australia,73,South Africa,Kingsmead,1,Australia
+98,16.1,1,MG Johnson,2011-10-28,1st,HM Amla,37,,JH Kallis,15,South Africa,Australia,74,South Africa,Kingsmead,1,Australia
+99,16.2,1,MG Johnson,2011-10-28,1st,JH Kallis,15,,HM Amla,38,South Africa,Australia,75,South Africa,Kingsmead,1,Australia
+100,16.3,1,MG Johnson,2011-10-28,1st,HM Amla,38,,JH Kallis,16,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+101,16.4,0,MG Johnson,2011-10-28,1st,JH Kallis,16,,HM Amla,38,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+102,16.5,0,MG Johnson,2011-10-28,1st,JH Kallis,16,,HM Amla,38,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+103,16.6,0,MG Johnson,2011-10-28,1st,JH Kallis,16,,HM Amla,38,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+104,17.1,0,SR Watson,2011-10-28,1st,HM Amla,38,,JH Kallis,16,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+105,17.2,1,SR Watson,2011-10-28,1st,HM Amla,38,,JH Kallis,17,South Africa,Australia,77,South Africa,Kingsmead,1,Australia
+106,17.3,1,SR Watson,2011-10-28,1st,JH Kallis,17,,HM Amla,39,South Africa,Australia,78,South Africa,Kingsmead,1,Australia
+107,17.4,1,SR Watson,2011-10-28,1st,HM Amla,39,,JH Kallis,18,South Africa,Australia,79,South Africa,Kingsmead,1,Australia
+108,17.5,1,SR Watson,2011-10-28,1st,JH Kallis,18,,HM Amla,40,South Africa,Australia,80,South Africa,Kingsmead,1,Australia
+109,17.6,1,SR Watson,2011-10-28,1st,HM Amla,40,,JH Kallis,19,South Africa,Australia,81,South Africa,Kingsmead,1,Australia
+110,18.1,0,MG Johnson,2011-10-28,1st,HM Amla,40,,JH Kallis,19,South Africa,Australia,81,South Africa,Kingsmead,1,Australia
+111,18.2,1,MG Johnson,2011-10-28,1st,HM Amla,40,,JH Kallis,20,South Africa,Australia,82,South Africa,Kingsmead,1,Australia
+112,18.3,1,MG Johnson,2011-10-28,1st,JH Kallis,20,,HM Amla,41,South Africa,Australia,83,South Africa,Kingsmead,1,Australia
+113,18.4,0,MG Johnson,2011-10-28,1st,HM Amla,41,,JH Kallis,20,South Africa,Australia,83,South Africa,Kingsmead,1,Australia
+114,18.5,1,MG Johnson,2011-10-28,1st,HM Amla,41,,JH Kallis,21,South Africa,Australia,84,South Africa,Kingsmead,1,Australia
+115,18.6,0,MG Johnson,2011-10-28,1st,JH Kallis,21,,HM Amla,41,South Africa,Australia,84,South Africa,Kingsmead,1,Australia
+116,19.1,0,SR Watson,2011-10-28,1st,HM Amla,41,,JH Kallis,21,South Africa,Australia,84,South Africa,Kingsmead,1,Australia
+117,19.2,1,SR Watson,2011-10-28,1st,HM Amla,41,,JH Kallis,22,South Africa,Australia,85,South Africa,Kingsmead,1,Australia
+118,19.3,1,SR Watson,2011-10-28,1st,JH Kallis,22,,HM Amla,42,South Africa,Australia,86,South Africa,Kingsmead,1,Australia
+119,19.4,1,SR Watson,2011-10-28,1st,HM Amla,42,,JH Kallis,23,South Africa,Australia,87,South Africa,Kingsmead,1,Australia
+120,19.5,1,SR Watson,2011-10-28,1st,JH Kallis,23,,HM Amla,43,South Africa,Australia,88,South Africa,Kingsmead,1,Australia
+121,19.6,1,SR Watson,2011-10-28,1st,HM Amla,43,,JH Kallis,24,South Africa,Australia,89,South Africa,Kingsmead,1,Australia
+122,20.1,1,PJ Cummins,2011-10-28,1st,HM Amla,43,,JH Kallis,25,South Africa,Australia,90,South Africa,Kingsmead,1,Australia
+123,20.2,1,PJ Cummins,2011-10-28,1st,JH Kallis,25,,HM Amla,44,South Africa,Australia,91,South Africa,Kingsmead,1,Australia
+124,20.3,0,PJ Cummins,2011-10-28,1st,HM Amla,44,,JH Kallis,25,South Africa,Australia,91,South Africa,Kingsmead,1,Australia
+125,20.4,0,PJ Cummins,2011-10-28,1st,HM Amla,44,,JH Kallis,25,South Africa,Australia,91,South Africa,Kingsmead,1,Australia
+126,20.5,0,PJ Cummins,2011-10-28,1st,HM Amla,44,,JH Kallis,25,South Africa,Australia,92,South Africa,Kingsmead,1,Australia
+127,20.6,1,PJ Cummins,2011-10-28,1st,HM Amla,44,,JH Kallis,26,South Africa,Australia,93,South Africa,Kingsmead,1,Australia
+128,20.7,1,PJ Cummins,2011-10-28,1st,JH Kallis,26,,HM Amla,45,South Africa,Australia,94,South Africa,Kingsmead,1,Australia
+129,21.1,1,XJ Doherty,2011-10-28,1st,JH Kallis,26,,HM Amla,46,South Africa,Australia,95,South Africa,Kingsmead,1,Australia
+130,21.2,0,XJ Doherty,2011-10-28,1st,HM Amla,46,,JH Kallis,26,South Africa,Australia,95,South Africa,Kingsmead,1,Australia
+131,21.3,0,XJ Doherty,2011-10-28,1st,HM Amla,46,,JH Kallis,26,South Africa,Australia,95,South Africa,Kingsmead,1,Australia
+132,21.4,0,XJ Doherty,2011-10-28,1st,HM Amla,46,,JH Kallis,26,South Africa,Australia,95,South Africa,Kingsmead,1,Australia
+133,21.5,1,XJ Doherty,2011-10-28,1st,HM Amla,46,,JH Kallis,27,South Africa,Australia,96,South Africa,Kingsmead,1,Australia
+134,21.6,1,XJ Doherty,2011-10-28,1st,JH Kallis,27,,HM Amla,47,South Africa,Australia,97,South Africa,Kingsmead,1,Australia
+135,22.1,1,PJ Cummins,2011-10-28,1st,JH Kallis,27,,HM Amla,48,South Africa,Australia,98,South Africa,Kingsmead,1,Australia
+136,22.2,0,PJ Cummins,2011-10-28,1st,HM Amla,48,,JH Kallis,27,South Africa,Australia,98,South Africa,Kingsmead,1,Australia
+137,22.3,4,PJ Cummins,2011-10-28,1st,HM Amla,48,,JH Kallis,31,South Africa,Australia,102,South Africa,Kingsmead,1,Australia
+138,22.4,1,PJ Cummins,2011-10-28,1st,HM Amla,48,,JH Kallis,32,South Africa,Australia,103,South Africa,Kingsmead,1,Australia
+139,22.5,0,PJ Cummins,2011-10-28,1st,JH Kallis,32,,HM Amla,48,South Africa,Australia,103,South Africa,Kingsmead,1,Australia
+140,22.6,0,PJ Cummins,2011-10-28,1st,JH Kallis,32,,HM Amla,48,South Africa,Australia,103,South Africa,Kingsmead,1,Australia
+141,23.1,0,XJ Doherty,2011-10-28,1st,HM Amla,48,,JH Kallis,32,South Africa,Australia,103,South Africa,Kingsmead,1,Australia
+142,23.2,1,XJ Doherty,2011-10-28,1st,HM Amla,48,,JH Kallis,33,South Africa,Australia,104,South Africa,Kingsmead,1,Australia
+143,23.3,0,XJ Doherty,2011-10-28,1st,JH Kallis,33,,HM Amla,48,South Africa,Australia,104,South Africa,Kingsmead,1,Australia
+144,23.4,1,XJ Doherty,2011-10-28,1st,JH Kallis,33,,HM Amla,49,South Africa,Australia,105,South Africa,Kingsmead,1,Australia
+145,23.5,0,XJ Doherty,2011-10-28,1st,HM Amla,49,,JH Kallis,33,South Africa,Australia,105,South Africa,Kingsmead,1,Australia
+146,23.6,0,XJ Doherty,2011-10-28,1st,HM Amla,49,,JH Kallis,33,South Africa,Australia,105,South Africa,Kingsmead,1,Australia
+147,24.1,1,MJ Clarke,2011-10-28,1st,JH Kallis,33,,HM Amla,50,South Africa,Australia,106,South Africa,Kingsmead,1,Australia
+148,24.2,0,MJ Clarke,2011-10-28,1st,HM Amla,50,,JH Kallis,33,South Africa,Australia,106,South Africa,Kingsmead,1,Australia
+149,24.3,1,MJ Clarke,2011-10-28,1st,HM Amla,50,,JH Kallis,34,South Africa,Australia,107,South Africa,Kingsmead,1,Australia
+150,24.4,0,MJ Clarke,2011-10-28,1st,JH Kallis,34,,HM Amla,50,South Africa,Australia,107,South Africa,Kingsmead,1,Australia
+151,24.5,1,MJ Clarke,2011-10-28,1st,JH Kallis,34,,HM Amla,51,South Africa,Australia,108,South Africa,Kingsmead,1,Australia
+152,24.6,6,MJ Clarke,2011-10-28,1st,HM Amla,51,,JH Kallis,40,South Africa,Australia,114,South Africa,Kingsmead,1,Australia
+153,25.1,0,XJ Doherty,2011-10-28,1st,JH Kallis,40,,HM Amla,51,South Africa,Australia,115,South Africa,Kingsmead,1,Australia
+154,25.2,0,XJ Doherty,2011-10-28,1st,HM Amla,51,,JH Kallis,40,South Africa,Australia,115,South Africa,Kingsmead,1,Australia
+155,25.3,1,XJ Doherty,2011-10-28,1st,HM Amla,51,,JH Kallis,41,South Africa,Australia,116,South Africa,Kingsmead,1,Australia
+156,25.4,1,XJ Doherty,2011-10-28,1st,JH Kallis,41,,HM Amla,52,South Africa,Australia,117,South Africa,Kingsmead,1,Australia
+157,25.5,0,XJ Doherty,2011-10-28,1st,HM Amla,52,,JH Kallis,41,South Africa,Australia,117,South Africa,Kingsmead,1,Australia
+158,25.6,0,XJ Doherty,2011-10-28,1st,HM Amla,52,HM Amla,JH Kallis,41,South Africa,Australia,117,South Africa,Kingsmead,2,Australia
+159,26.1,1,PJ Cummins,2011-10-28,1st,JP Duminy,0,,JH Kallis,42,South Africa,Australia,118,South Africa,Kingsmead,2,Australia
+160,26.2,0,PJ Cummins,2011-10-28,1st,JH Kallis,42,,JP Duminy,0,South Africa,Australia,118,South Africa,Kingsmead,2,Australia
+161,26.3,0,PJ Cummins,2011-10-28,1st,JH Kallis,42,,JP Duminy,0,South Africa,Australia,118,South Africa,Kingsmead,2,Australia
+162,26.4,0,PJ Cummins,2011-10-28,1st,JH Kallis,42,,JP Duminy,0,South Africa,Australia,118,South Africa,Kingsmead,2,Australia
+163,26.5,1,PJ Cummins,2011-10-28,1st,JH Kallis,42,,JP Duminy,1,South Africa,Australia,119,South Africa,Kingsmead,2,Australia
+164,26.6,0,PJ Cummins,2011-10-28,1st,JP Duminy,1,,JH Kallis,42,South Africa,Australia,119,South Africa,Kingsmead,2,Australia
+165,27.1,0,XJ Doherty,2011-10-28,1st,JH Kallis,42,,JP Duminy,1,South Africa,Australia,119,South Africa,Kingsmead,2,Australia
+166,27.2,1,XJ Doherty,2011-10-28,1st,JH Kallis,42,,JP Duminy,2,South Africa,Australia,120,South Africa,Kingsmead,2,Australia
+167,27.3,0,XJ Doherty,2011-10-28,1st,JP Duminy,2,,JH Kallis,42,South Africa,Australia,120,South Africa,Kingsmead,2,Australia
+168,27.4,0,XJ Doherty,2011-10-28,1st,JP Duminy,2,,JH Kallis,42,South Africa,Australia,120,South Africa,Kingsmead,2,Australia
+169,27.5,0,XJ Doherty,2011-10-28,1st,JP Duminy,2,,JH Kallis,42,South Africa,Australia,120,South Africa,Kingsmead,2,Australia
+170,27.6,4,XJ Doherty,2011-10-28,1st,JP Duminy,2,,JH Kallis,46,South Africa,Australia,124,South Africa,Kingsmead,2,Australia
+171,28.1,1,PJ Cummins,2011-10-28,1st,JH Kallis,46,,JP Duminy,3,South Africa,Australia,125,South Africa,Kingsmead,2,Australia
+172,28.2,1,PJ Cummins,2011-10-28,1st,JP Duminy,3,,JH Kallis,47,South Africa,Australia,126,South Africa,Kingsmead,2,Australia
+173,28.3,1,PJ Cummins,2011-10-28,1st,JH Kallis,47,,JP Duminy,4,South Africa,Australia,127,South Africa,Kingsmead,2,Australia
+174,28.4,0,PJ Cummins,2011-10-28,1st,JP Duminy,4,,JH Kallis,47,South Africa,Australia,127,South Africa,Kingsmead,2,Australia
+175,28.5,0,PJ Cummins,2011-10-28,1st,JP Duminy,4,,JH Kallis,47,South Africa,Australia,127,South Africa,Kingsmead,2,Australia
+176,28.6,1,PJ Cummins,2011-10-28,1st,JP Duminy,4,,JH Kallis,48,South Africa,Australia,128,South Africa,Kingsmead,2,Australia
+177,29.1,0,XJ Doherty,2011-10-28,1st,JP Duminy,4,,JH Kallis,48,South Africa,Australia,128,South Africa,Kingsmead,2,Australia
+178,29.2,0,XJ Doherty,2011-10-28,1st,JP Duminy,4,,JH Kallis,48,South Africa,Australia,128,South Africa,Kingsmead,2,Australia
+179,29.3,1,XJ Doherty,2011-10-28,1st,JP Duminy,4,,JH Kallis,49,South Africa,Australia,129,South Africa,Kingsmead,2,Australia
+180,29.4,0,XJ Doherty,2011-10-28,1st,JH Kallis,49,,JP Duminy,4,South Africa,Australia,129,South Africa,Kingsmead,2,Australia
+181,29.5,1,XJ Doherty,2011-10-28,1st,JH Kallis,49,,JP Duminy,5,South Africa,Australia,130,South Africa,Kingsmead,2,Australia
+182,29.6,0,XJ Doherty,2011-10-28,1st,JP Duminy,5,,JH Kallis,49,South Africa,Australia,130,South Africa,Kingsmead,2,Australia
+183,30.1,1,PJ Cummins,2011-10-28,1st,JH Kallis,49,,JP Duminy,6,South Africa,Australia,131,South Africa,Kingsmead,2,Australia
+184,30.2,1,PJ Cummins,2011-10-28,1st,JP Duminy,6,,JH Kallis,50,South Africa,Australia,132,South Africa,Kingsmead,2,Australia
+185,30.3,0,PJ Cummins,2011-10-28,1st,JH Kallis,50,,JP Duminy,6,South Africa,Australia,133,South Africa,Kingsmead,2,Australia
+186,30.4,1,PJ Cummins,2011-10-28,1st,JH Kallis,50,,JP Duminy,7,South Africa,Australia,134,South Africa,Kingsmead,2,Australia
+187,30.5,1,PJ Cummins,2011-10-28,1st,JP Duminy,7,,JH Kallis,51,South Africa,Australia,135,South Africa,Kingsmead,2,Australia
+188,30.6,0,PJ Cummins,2011-10-28,1st,JH Kallis,51,,JP Duminy,7,South Africa,Australia,135,South Africa,Kingsmead,2,Australia
+189,30.7,0,PJ Cummins,2011-10-28,1st,JH Kallis,51,,JP Duminy,7,South Africa,Australia,135,South Africa,Kingsmead,2,Australia
+190,31.1,0,XJ Doherty,2011-10-28,1st,JP Duminy,7,,JH Kallis,51,South Africa,Australia,135,South Africa,Kingsmead,2,Australia
+191,31.2,0,XJ Doherty,2011-10-28,1st,JP Duminy,7,,JH Kallis,51,South Africa,Australia,135,South Africa,Kingsmead,2,Australia
+192,31.3,1,XJ Doherty,2011-10-28,1st,JP Duminy,7,,JH Kallis,52,South Africa,Australia,136,South Africa,Kingsmead,2,Australia
+193,31.4,0,XJ Doherty,2011-10-28,1st,JH Kallis,52,,JP Duminy,7,South Africa,Australia,136,South Africa,Kingsmead,2,Australia
+194,31.5,0,XJ Doherty,2011-10-28,1st,JH Kallis,52,,JP Duminy,7,South Africa,Australia,136,South Africa,Kingsmead,2,Australia
+195,31.6,0,XJ Doherty,2011-10-28,1st,JH Kallis,52,,JP Duminy,7,South Africa,Australia,136,South Africa,Kingsmead,2,Australia
+196,32.1,0,SR Watson,2011-10-28,1st,JP Duminy,7,,JH Kallis,52,South Africa,Australia,136,South Africa,Kingsmead,2,Australia
+197,32.2,0,SR Watson,2011-10-28,1st,JP Duminy,7,,JH Kallis,52,South Africa,Australia,136,South Africa,Kingsmead,2,Australia
+198,32.3,0,SR Watson,2011-10-28,1st,JP Duminy,7,,JH Kallis,52,South Africa,Australia,137,South Africa,Kingsmead,2,Australia
+199,32.4,0,SR Watson,2011-10-28,1st,JH Kallis,52,,JP Duminy,7,South Africa,Australia,137,South Africa,Kingsmead,2,Australia
+200,32.5,1,SR Watson,2011-10-28,1st,JH Kallis,52,,JP Duminy,8,South Africa,Australia,138,South Africa,Kingsmead,2,Australia
+201,32.6,1,SR Watson,2011-10-28,1st,JP Duminy,8,,JH Kallis,53,South Africa,Australia,139,South Africa,Kingsmead,2,Australia
+202,33.1,1,XJ Doherty,2011-10-28,1st,JP Duminy,8,,JH Kallis,54,South Africa,Australia,140,South Africa,Kingsmead,2,Australia
+203,33.2,1,XJ Doherty,2011-10-28,1st,JH Kallis,54,,JP Duminy,9,South Africa,Australia,141,South Africa,Kingsmead,2,Australia
+204,33.3,0,XJ Doherty,2011-10-28,1st,JP Duminy,9,,JH Kallis,54,South Africa,Australia,141,South Africa,Kingsmead,2,Australia
+205,33.4,0,XJ Doherty,2011-10-28,1st,JP Duminy,9,JH Kallis,JH Kallis,54,South Africa,Australia,141,South Africa,Kingsmead,3,Australia
+206,33.5,1,XJ Doherty,2011-10-28,1st,F du Plessis,0,,JP Duminy,10,South Africa,Australia,142,South Africa,Kingsmead,3,Australia
+207,33.6,1,XJ Doherty,2011-10-28,1st,JP Duminy,10,,F du Plessis,1,South Africa,Australia,143,South Africa,Kingsmead,3,Australia
+208,34.1,0,DE Bollinger,2011-10-28,1st,JP Duminy,10,,F du Plessis,1,South Africa,Australia,143,South Africa,Kingsmead,3,Australia
+209,34.2,1,DE Bollinger,2011-10-28,1st,JP Duminy,10,,F du Plessis,2,South Africa,Australia,144,South Africa,Kingsmead,3,Australia
+210,34.3,0,DE Bollinger,2011-10-28,1st,F du Plessis,2,,JP Duminy,10,South Africa,Australia,149,South Africa,Kingsmead,3,Australia
+211,34.4,0,DE Bollinger,2011-10-28,1st,F du Plessis,2,,JP Duminy,10,South Africa,Australia,149,South Africa,Kingsmead,3,Australia
+212,34.5,0,DE Bollinger,2011-10-28,1st,F du Plessis,2,,JP Duminy,10,South Africa,Australia,150,South Africa,Kingsmead,3,Australia
+213,34.6,1,DE Bollinger,2011-10-28,1st,F du Plessis,2,,JP Duminy,11,South Africa,Australia,151,South Africa,Kingsmead,3,Australia
+214,34.7,2,DE Bollinger,2011-10-28,1st,JP Duminy,11,,F du Plessis,4,South Africa,Australia,153,South Africa,Kingsmead,3,Australia
+215,34.8,0,DE Bollinger,2011-10-28,1st,JP Duminy,11,,F du Plessis,4,South Africa,Australia,153,South Africa,Kingsmead,3,Australia
+216,35.1,0,MG Johnson,2011-10-28,1st,F du Plessis,4,,JP Duminy,11,South Africa,Australia,153,South Africa,Kingsmead,3,Australia
+217,35.2,0,MG Johnson,2011-10-28,1st,F du Plessis,4,,JP Duminy,11,South Africa,Australia,153,South Africa,Kingsmead,3,Australia
+218,35.3,1,MG Johnson,2011-10-28,1st,F du Plessis,4,,JP Duminy,12,South Africa,Australia,154,South Africa,Kingsmead,3,Australia
+219,35.4,1,MG Johnson,2011-10-28,1st,JP Duminy,12,,F du Plessis,5,South Africa,Australia,155,South Africa,Kingsmead,3,Australia
+220,35.5,0,MG Johnson,2011-10-28,1st,F du Plessis,5,,JP Duminy,12,South Africa,Australia,155,South Africa,Kingsmead,3,Australia
+221,35.6,1,MG Johnson,2011-10-28,1st,F du Plessis,5,,JP Duminy,13,South Africa,Australia,156,South Africa,Kingsmead,3,Australia
+222,36.1,0,DE Bollinger,2011-10-28,1st,F du Plessis,5,,JP Duminy,13,South Africa,Australia,156,South Africa,Kingsmead,3,Australia
+223,36.2,0,DE Bollinger,2011-10-28,1st,F du Plessis,5,,JP Duminy,13,South Africa,Australia,156,South Africa,Kingsmead,3,Australia
+224,36.3,1,DE Bollinger,2011-10-28,1st,F du Plessis,5,,JP Duminy,14,South Africa,Australia,157,South Africa,Kingsmead,3,Australia
+225,36.4,0,DE Bollinger,2011-10-28,1st,JP Duminy,14,,F du Plessis,5,South Africa,Australia,157,South Africa,Kingsmead,3,Australia
+226,36.5,0,DE Bollinger,2011-10-28,1st,JP Duminy,14,,F du Plessis,5,South Africa,Australia,157,South Africa,Kingsmead,3,Australia
+227,36.6,0,DE Bollinger,2011-10-28,1st,JP Duminy,14,,F du Plessis,5,South Africa,Australia,157,South Africa,Kingsmead,3,Australia
+228,37.1,1,MG Johnson,2011-10-28,1st,F du Plessis,5,,JP Duminy,15,South Africa,Australia,158,South Africa,Kingsmead,3,Australia
+229,37.2,0,MG Johnson,2011-10-28,1st,JP Duminy,15,,F du Plessis,5,South Africa,Australia,158,South Africa,Kingsmead,3,Australia
+230,37.3,0,MG Johnson,2011-10-28,1st,JP Duminy,15,,F du Plessis,5,South Africa,Australia,158,South Africa,Kingsmead,3,Australia
+231,37.4,1,MG Johnson,2011-10-28,1st,JP Duminy,15,,F du Plessis,6,South Africa,Australia,159,South Africa,Kingsmead,3,Australia
+232,37.5,0,MG Johnson,2011-10-28,1st,F du Plessis,6,,JP Duminy,15,South Africa,Australia,159,South Africa,Kingsmead,3,Australia
+233,37.6,1,MG Johnson,2011-10-28,1st,F du Plessis,6,,JP Duminy,16,South Africa,Australia,160,South Africa,Kingsmead,3,Australia
+234,38.1,1,DE Bollinger,2011-10-28,1st,F du Plessis,6,,JP Duminy,17,South Africa,Australia,161,South Africa,Kingsmead,3,Australia
+235,38.2,0,DE Bollinger,2011-10-28,1st,JP Duminy,17,,F du Plessis,6,South Africa,Australia,161,South Africa,Kingsmead,3,Australia
+236,38.3,1,DE Bollinger,2011-10-28,1st,JP Duminy,17,,F du Plessis,7,South Africa,Australia,162,South Africa,Kingsmead,3,Australia
+237,38.4,1,DE Bollinger,2011-10-28,1st,F du Plessis,7,,JP Duminy,18,South Africa,Australia,163,South Africa,Kingsmead,3,Australia
+238,38.5,1,DE Bollinger,2011-10-28,1st,JP Duminy,18,,F du Plessis,8,South Africa,Australia,164,South Africa,Kingsmead,3,Australia
+239,38.6,0,DE Bollinger,2011-10-28,1st,F du Plessis,8,,JP Duminy,18,South Africa,Australia,164,South Africa,Kingsmead,3,Australia
+240,39.1,0,MG Johnson,2011-10-28,1st,JP Duminy,18,,F du Plessis,8,South Africa,Australia,164,South Africa,Kingsmead,3,Australia
+241,39.2,4,MG Johnson,2011-10-28,1st,JP Duminy,18,,F du Plessis,12,South Africa,Australia,168,South Africa,Kingsmead,3,Australia
+242,39.3,4,MG Johnson,2011-10-28,1st,JP Duminy,18,,F du Plessis,16,South Africa,Australia,172,South Africa,Kingsmead,3,Australia
+243,39.4,1,MG Johnson,2011-10-28,1st,JP Duminy,18,,F du Plessis,17,South Africa,Australia,173,South Africa,Kingsmead,3,Australia
+244,39.5,0,MG Johnson,2011-10-28,1st,F du Plessis,17,,JP Duminy,18,South Africa,Australia,174,South Africa,Kingsmead,3,Australia
+245,39.6,0,MG Johnson,2011-10-28,1st,JP Duminy,18,,F du Plessis,17,South Africa,Australia,174,South Africa,Kingsmead,3,Australia
+246,40.1,0,PJ Cummins,2011-10-28,1st,F du Plessis,17,,JP Duminy,18,South Africa,Australia,174,South Africa,Kingsmead,3,Australia
+247,40.2,1,PJ Cummins,2011-10-28,1st,F du Plessis,17,,JP Duminy,19,South Africa,Australia,175,South Africa,Kingsmead,3,Australia
+248,40.3,1,PJ Cummins,2011-10-28,1st,JP Duminy,19,,F du Plessis,18,South Africa,Australia,176,South Africa,Kingsmead,3,Australia
+249,40.4,1,PJ Cummins,2011-10-28,1st,F du Plessis,18,,JP Duminy,20,South Africa,Australia,177,South Africa,Kingsmead,3,Australia
+250,40.5,0,PJ Cummins,2011-10-28,1st,JP Duminy,20,,F du Plessis,18,South Africa,Australia,177,South Africa,Kingsmead,3,Australia
+251,40.6,1,PJ Cummins,2011-10-28,1st,JP Duminy,20,,F du Plessis,19,South Africa,Australia,178,South Africa,Kingsmead,3,Australia
+252,41.1,1,SR Watson,2011-10-28,1st,JP Duminy,20,,F du Plessis,20,South Africa,Australia,179,South Africa,Kingsmead,3,Australia
+253,41.2,2,SR Watson,2011-10-28,1st,F du Plessis,20,,JP Duminy,22,South Africa,Australia,181,South Africa,Kingsmead,3,Australia
+254,41.3,1,SR Watson,2011-10-28,1st,F du Plessis,20,,JP Duminy,23,South Africa,Australia,182,South Africa,Kingsmead,3,Australia
+255,41.4,0,SR Watson,2011-10-28,1st,JP Duminy,23,,F du Plessis,20,South Africa,Australia,182,South Africa,Kingsmead,3,Australia
+256,41.5,1,SR Watson,2011-10-28,1st,JP Duminy,23,,F du Plessis,21,South Africa,Australia,183,South Africa,Kingsmead,3,Australia
+257,41.6,1,SR Watson,2011-10-28,1st,F du Plessis,21,,JP Duminy,24,South Africa,Australia,184,South Africa,Kingsmead,3,Australia
+258,42.1,1,PJ Cummins,2011-10-28,1st,F du Plessis,21,,JP Duminy,25,South Africa,Australia,185,South Africa,Kingsmead,3,Australia
+259,42.2,0,PJ Cummins,2011-10-28,1st,JP Duminy,25,,F du Plessis,21,South Africa,Australia,185,South Africa,Kingsmead,3,Australia
+260,42.3,0,PJ Cummins,2011-10-28,1st,JP Duminy,25,F du Plessis,F du Plessis,21,South Africa,Australia,185,South Africa,Kingsmead,4,Australia
+261,42.4,0,PJ Cummins,2011-10-28,1st,DA Miller,0,,JP Duminy,25,South Africa,Australia,185,South Africa,Kingsmead,4,Australia
+262,42.5,1,PJ Cummins,2011-10-28,1st,DA Miller,0,,JP Duminy,26,South Africa,Australia,186,South Africa,Kingsmead,4,Australia
+263,42.6,0,PJ Cummins,2011-10-28,1st,JP Duminy,26,,DA Miller,0,South Africa,Australia,186,South Africa,Kingsmead,4,Australia
+264,43.1,0,SR Watson,2011-10-28,1st,DA Miller,0,,JP Duminy,26,South Africa,Australia,186,South Africa,Kingsmead,4,Australia
+265,43.2,1,SR Watson,2011-10-28,1st,DA Miller,0,,JP Duminy,27,South Africa,Australia,187,South Africa,Kingsmead,4,Australia
+266,43.3,0,SR Watson,2011-10-28,1st,JP Duminy,27,,DA Miller,0,South Africa,Australia,187,South Africa,Kingsmead,4,Australia
+267,43.4,0,SR Watson,2011-10-28,1st,JP Duminy,27,,DA Miller,0,South Africa,Australia,190,South Africa,Kingsmead,4,Australia
+268,43.5,1,SR Watson,2011-10-28,1st,DA Miller,0,,JP Duminy,28,South Africa,Australia,191,South Africa,Kingsmead,4,Australia
+269,43.6,1,SR Watson,2011-10-28,1st,JP Duminy,28,,DA Miller,1,South Africa,Australia,192,South Africa,Kingsmead,4,Australia
+270,44.1,0,DE Bollinger,2011-10-28,1st,JP Duminy,28,,DA Miller,1,South Africa,Australia,193,South Africa,Kingsmead,4,Australia
+271,44.2,0,DE Bollinger,2011-10-28,1st,DA Miller,1,,JP Duminy,28,South Africa,Australia,193,South Africa,Kingsmead,4,Australia
+272,44.3,4,DE Bollinger,2011-10-28,1st,DA Miller,1,,JP Duminy,32,South Africa,Australia,197,South Africa,Kingsmead,4,Australia
+273,44.4,1,DE Bollinger,2011-10-28,1st,DA Miller,1,,JP Duminy,33,South Africa,Australia,198,South Africa,Kingsmead,4,Australia
+274,44.5,0,DE Bollinger,2011-10-28,1st,JP Duminy,33,,DA Miller,1,South Africa,Australia,198,South Africa,Kingsmead,4,Australia
+275,44.6,1,DE Bollinger,2011-10-28,1st,JP Duminy,33,,DA Miller,2,South Africa,Australia,199,South Africa,Kingsmead,4,Australia
+276,45.1,0,SR Watson,2011-10-28,1st,JP Duminy,33,,DA Miller,2,South Africa,Australia,199,South Africa,Kingsmead,4,Australia
+277,45.2,0,SR Watson,2011-10-28,1st,JP Duminy,33,,DA Miller,2,South Africa,Australia,199,South Africa,Kingsmead,4,Australia
+278,45.3,0,SR Watson,2011-10-28,1st,JP Duminy,33,,DA Miller,2,South Africa,Australia,199,South Africa,Kingsmead,4,Australia
+279,45.4,0,SR Watson,2011-10-28,1st,JP Duminy,33,,DA Miller,2,South Africa,Australia,199,South Africa,Kingsmead,4,Australia
+280,45.5,0,SR Watson,2011-10-28,1st,JP Duminy,33,,DA Miller,2,South Africa,Australia,199,South Africa,Kingsmead,4,Australia
+281,45.6,1,SR Watson,2011-10-28,1st,JP Duminy,33,,DA Miller,3,South Africa,Australia,200,South Africa,Kingsmead,4,Australia
+282,46.1,0,DE Bollinger,2011-10-28,1st,JP Duminy,33,,DA Miller,3,South Africa,Australia,201,South Africa,Kingsmead,4,Australia
+283,46.2,1,DE Bollinger,2011-10-28,1st,DA Miller,3,,JP Duminy,34,South Africa,Australia,202,South Africa,Kingsmead,4,Australia
+284,46.3,1,DE Bollinger,2011-10-28,1st,JP Duminy,34,,DA Miller,4,South Africa,Australia,203,South Africa,Kingsmead,4,Australia
+285,46.4,0,DE Bollinger,2011-10-28,1st,DA Miller,4,,JP Duminy,34,South Africa,Australia,203,South Africa,Kingsmead,4,Australia
+286,46.5,0,DE Bollinger,2011-10-28,1st,DA Miller,4,,JP Duminy,34,South Africa,Australia,203,South Africa,Kingsmead,4,Australia
+287,46.6,0,DE Bollinger,2011-10-28,1st,DA Miller,4,,JP Duminy,34,South Africa,Australia,204,South Africa,Kingsmead,4,Australia
+288,46.7,1,DE Bollinger,2011-10-28,1st,DA Miller,4,,JP Duminy,35,South Africa,Australia,205,South Africa,Kingsmead,4,Australia
+289,47.1,0,MG Johnson,2011-10-28,1st,DA Miller,4,JP Duminy,JP Duminy,35,South Africa,Australia,205,South Africa,Kingsmead,5,Australia
+290,47.2,1,MG Johnson,2011-10-28,1st,MV Boucher,0,,DA Miller,5,South Africa,Australia,206,South Africa,Kingsmead,5,Australia
+291,47.3,1,MG Johnson,2011-10-28,1st,DA Miller,5,,MV Boucher,1,South Africa,Australia,207,South Africa,Kingsmead,5,Australia
+292,47.4,1,MG Johnson,2011-10-28,1st,MV Boucher,1,,DA Miller,6,South Africa,Australia,208,South Africa,Kingsmead,5,Australia
+293,47.5,0,MG Johnson,2011-10-28,1st,DA Miller,6,,MV Boucher,1,South Africa,Australia,208,South Africa,Kingsmead,5,Australia
+294,47.6,1,MG Johnson,2011-10-28,1st,DA Miller,6,,MV Boucher,2,South Africa,Australia,209,South Africa,Kingsmead,5,Australia
+295,48.1,1,SR Watson,2011-10-28,1st,DA Miller,6,,MV Boucher,3,South Africa,Australia,210,South Africa,Kingsmead,5,Australia
+296,48.2,2,SR Watson,2011-10-28,1st,MV Boucher,3,,DA Miller,8,South Africa,Australia,212,South Africa,Kingsmead,5,Australia
+297,48.3,0,SR Watson,2011-10-28,1st,MV Boucher,3,,DA Miller,8,South Africa,Australia,212,South Africa,Kingsmead,5,Australia
+298,48.4,1,SR Watson,2011-10-28,1st,MV Boucher,3,,DA Miller,9,South Africa,Australia,213,South Africa,Kingsmead,5,Australia
+299,48.5,4,SR Watson,2011-10-28,1st,DA Miller,9,,MV Boucher,7,South Africa,Australia,217,South Africa,Kingsmead,5,Australia
+300,48.6,1,SR Watson,2011-10-28,1st,DA Miller,9,,MV Boucher,8,South Africa,Australia,218,South Africa,Kingsmead,5,Australia
+301,49.1,0,MG Johnson,2011-10-28,1st,DA Miller,9,,MV Boucher,8,South Africa,Australia,218,South Africa,Kingsmead,5,Australia
+302,49.2,0,MG Johnson,2011-10-28,1st,DA Miller,9,MV Boucher,MV Boucher,8,South Africa,Australia,218,South Africa,Kingsmead,6,Australia
+303,49.3,1,MG Johnson,2011-10-28,1st,J Botha,0,,DA Miller,10,South Africa,Australia,219,South Africa,Kingsmead,6,Australia
+304,49.4,1,MG Johnson,2011-10-28,1st,DA Miller,10,,J Botha,1,South Africa,Australia,220,South Africa,Kingsmead,6,Australia
+305,49.5,1,MG Johnson,2011-10-28,1st,J Botha,1,,DA Miller,11,South Africa,Australia,221,South Africa,Kingsmead,6,Australia
+306,49.6,1,MG Johnson,2011-10-28,1st,DA Miller,11,,J Botha,2,South Africa,Australia,222,South Africa,Kingsmead,6,Australia
+307,0.1,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,0,South Africa,Kingsmead,0,Australia
+308,0.2,2,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,2,South Africa,Kingsmead,0,Australia
+309,0.3,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,2,South Africa,Kingsmead,0,Australia
+310,0.4,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,2,South Africa,Kingsmead,0,Australia
+311,0.5,4,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,6,South Africa,Kingsmead,0,Australia
+312,0.6,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,6,South Africa,Kingsmead,0,Australia
+313,1.1,2,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,8,South Africa,Kingsmead,0,Australia
+314,1.2,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,9,South Africa,Kingsmead,0,Australia
+315,1.3,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,9,South Africa,Kingsmead,0,Australia
+316,1.4,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,9,South Africa,Kingsmead,0,Australia
+317,1.5,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,9,South Africa,Kingsmead,0,Australia
+318,1.6,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,9,South Africa,Kingsmead,0,Australia
+319,1.7,2,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,11,South Africa,Kingsmead,0,Australia
+320,2.1,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,11,South Africa,Kingsmead,0,Australia
+321,2.2,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,11,South Africa,Kingsmead,0,Australia
+322,2.3,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,11,South Africa,Kingsmead,0,Australia
+323,2.4,4,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,15,South Africa,Kingsmead,0,Australia
+324,2.5,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,15,South Africa,Kingsmead,0,Australia
+325,2.6,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,15,South Africa,Kingsmead,0,Australia
+326,3.1,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,15,South Africa,Kingsmead,0,Australia
+327,3.2,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,15,South Africa,Kingsmead,0,Australia
+328,3.3,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,15,South Africa,Kingsmead,0,Australia
+329,3.4,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,15,South Africa,Kingsmead,0,Australia
+330,3.5,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,16,South Africa,Kingsmead,0,Australia
+331,3.6,1,DW Steyn,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,17,South Africa,Kingsmead,0,Australia
+332,4.1,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,17,South Africa,Kingsmead,0,Australia
+333,4.2,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,17,South Africa,Kingsmead,0,Australia
+334,4.3,0,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,17,South Africa,Kingsmead,0,Australia
+335,4.4,4,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,21,South Africa,Kingsmead,0,Australia
+336,4.5,4,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,25,South Africa,Kingsmead,0,Australia
+337,4.6,2,LL Tsotsobe,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,27,South Africa,Kingsmead,0,Australia
+338,5.1,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,27,South Africa,Kingsmead,0,Australia
+339,5.2,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,27,South Africa,Kingsmead,0,Australia
+340,5.3,1,DW Steyn,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,28,South Africa,Kingsmead,0,Australia
+341,5.4,0,DW Steyn,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,28,South Africa,Kingsmead,0,Australia
+342,5.5,0,DW Steyn,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,28,South Africa,Kingsmead,0,Australia
+343,5.6,1,DW Steyn,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,29,South Africa,Kingsmead,0,Australia
+344,6.1,3,M Morkel,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,32,South Africa,Kingsmead,0,Australia
+345,6.2,0,M Morkel,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,32,South Africa,Kingsmead,0,Australia
+346,6.3,1,M Morkel,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,33,South Africa,Kingsmead,0,Australia
+347,6.4,1,M Morkel,2011-10-28,2nd,DA Warner,0,,SR Watson,0,South Africa,Australia,34,South Africa,Kingsmead,0,Australia
+348,6.5,4,M Morkel,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,38,South Africa,Kingsmead,0,Australia
+349,6.6,0,M Morkel,2011-10-28,2nd,SR Watson,0,,DA Warner,0,South Africa,Australia,38,South Africa,Kingsmead,1,Australia
+350,7.1,1,DW Steyn,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,39,South Africa,Kingsmead,1,Australia
+351,7.2,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,39,South Africa,Kingsmead,1,Australia
+352,7.3,2,DW Steyn,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,41,South Africa,Kingsmead,1,Australia
+353,7.4,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,41,South Africa,Kingsmead,1,Australia
+354,7.5,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,41,South Africa,Kingsmead,1,Australia
+355,7.6,4,DW Steyn,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,45,South Africa,Kingsmead,1,Australia
+356,8.1,0,M Morkel,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,45,South Africa,Kingsmead,1,Australia
+357,8.2,4,M Morkel,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,49,South Africa,Kingsmead,1,Australia
+358,8.3,0,M Morkel,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,50,South Africa,Kingsmead,1,Australia
+359,8.4,4,M Morkel,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,54,South Africa,Kingsmead,1,Australia
+360,8.5,0,M Morkel,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,58,South Africa,Kingsmead,1,Australia
+361,8.6,6,M Morkel,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,64,South Africa,Kingsmead,1,Australia
+362,8.7,1,M Morkel,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,65,South Africa,Kingsmead,1,Australia
+363,9.1,0,DW Steyn,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,65,South Africa,Kingsmead,1,Australia
+364,9.2,0,DW Steyn,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,65,South Africa,Kingsmead,1,Australia
+365,9.3,0,DW Steyn,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,65,South Africa,Kingsmead,1,Australia
+366,9.4,1,DW Steyn,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,66,South Africa,Kingsmead,1,Australia
+367,9.5,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,66,South Africa,Kingsmead,1,Australia
+368,9.6,0,DW Steyn,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,66,South Africa,Kingsmead,1,Australia
+369,10.1,0,J Botha,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,66,South Africa,Kingsmead,1,Australia
+370,10.2,0,J Botha,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,67,South Africa,Kingsmead,1,Australia
+371,10.3,0,J Botha,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,67,South Africa,Kingsmead,1,Australia
+372,10.4,1,J Botha,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,68,South Africa,Kingsmead,1,Australia
+373,10.5,0,J Botha,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,68,South Africa,Kingsmead,1,Australia
+374,10.6,0,J Botha,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,68,South Africa,Kingsmead,1,Australia
+375,10.7,1,J Botha,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,69,South Africa,Kingsmead,1,Australia
+376,11.1,0,JH Kallis,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,69,South Africa,Kingsmead,1,Australia
+377,11.2,1,JH Kallis,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,70,South Africa,Kingsmead,1,Australia
+378,11.3,1,JH Kallis,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,71,South Africa,Kingsmead,1,Australia
+379,11.4,1,JH Kallis,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,72,South Africa,Kingsmead,1,Australia
+380,11.5,0,JH Kallis,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,72,South Africa,Kingsmead,1,Australia
+381,11.6,2,JH Kallis,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,74,South Africa,Kingsmead,1,Australia
+382,12.1,1,J Botha,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,75,South Africa,Kingsmead,1,Australia
+383,12.2,0,J Botha,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,75,South Africa,Kingsmead,1,Australia
+384,12.3,0,J Botha,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,75,South Africa,Kingsmead,1,Australia
+385,12.4,1,J Botha,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+386,12.5,0,J Botha,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+387,12.6,0,J Botha,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,76,South Africa,Kingsmead,1,Australia
+388,13.1,1,JH Kallis,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,77,South Africa,Kingsmead,1,Australia
+389,13.2,1,JH Kallis,2011-10-28,2nd,SR Watson,0,,RT Ponting,0,South Africa,Australia,78,South Africa,Kingsmead,1,Australia
+390,13.3,0,JH Kallis,2011-10-28,2nd,RT Ponting,0,,SR Watson,0,South Africa,Australia,78,South Africa,Kingsmead,2,Australia
+391,13.4,0,JH Kallis,2011-10-28,2nd,RT Ponting,0,,MJ Clarke,0,South Africa,Australia,78,South Africa,Kingsmead,2,Australia
+392,13.5,0,JH Kallis,2011-10-28,2nd,RT Ponting,0,,MJ Clarke,0,South Africa,Australia,78,South Africa,Kingsmead,2,Australia
+393,13.6,0,JH Kallis,2011-10-28,2nd,RT Ponting,0,,MJ Clarke,0,South Africa,Australia,78,South Africa,Kingsmead,2,Australia
+394,14.1,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,RT Ponting,0,South Africa,Australia,82,South Africa,Kingsmead,2,Australia
+395,14.2,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,RT Ponting,0,South Africa,Australia,82,South Africa,Kingsmead,2,Australia
+396,14.3,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,RT Ponting,0,South Africa,Australia,82,South Africa,Kingsmead,3,Australia
+397,14.4,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,82,South Africa,Kingsmead,3,Australia
+398,14.5,1,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,83,South Africa,Kingsmead,3,Australia
+399,14.6,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,83,South Africa,Kingsmead,3,Australia
+400,15.1,1,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,84,South Africa,Kingsmead,3,Australia
+401,15.2,1,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,85,South Africa,Kingsmead,3,Australia
+402,15.3,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,85,South Africa,Kingsmead,3,Australia
+403,15.4,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,85,South Africa,Kingsmead,3,Australia
+404,15.5,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,85,South Africa,Kingsmead,3,Australia
+405,15.6,1,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,86,South Africa,Kingsmead,3,Australia
+406,16.1,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,86,South Africa,Kingsmead,3,Australia
+407,16.2,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,86,South Africa,Kingsmead,3,Australia
+408,16.3,1,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,87,South Africa,Kingsmead,3,Australia
+409,16.4,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,87,South Africa,Kingsmead,3,Australia
+410,16.5,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,87,South Africa,Kingsmead,3,Australia
+411,16.6,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,87,South Africa,Kingsmead,3,Australia
+412,17.1,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,87,South Africa,Kingsmead,3,Australia
+413,17.2,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+414,17.3,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+415,17.4,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+416,17.5,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+417,17.6,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+418,18.1,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+419,18.2,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+420,18.3,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+421,18.4,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+422,18.5,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+423,18.6,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+424,19.1,0,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,91,South Africa,Kingsmead,3,Australia
+425,19.2,1,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,92,South Africa,Kingsmead,3,Australia
+426,19.3,1,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,93,South Africa,Kingsmead,3,Australia
+427,19.4,4,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,97,South Africa,Kingsmead,3,Australia
+428,19.5,1,M Morkel,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,98,South Africa,Kingsmead,3,Australia
+429,19.6,0,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,98,South Africa,Kingsmead,3,Australia
+430,20.1,1,LL Tsotsobe,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,99,South Africa,Kingsmead,3,Australia
+431,20.2,0,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,99,South Africa,Kingsmead,3,Australia
+432,20.3,0,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,99,South Africa,Kingsmead,3,Australia
+433,20.4,4,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,103,South Africa,Kingsmead,3,Australia
+434,20.5,0,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,103,South Africa,Kingsmead,3,Australia
+435,20.6,1,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,104,South Africa,Kingsmead,3,Australia
+436,21.1,4,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,108,South Africa,Kingsmead,3,Australia
+437,21.2,4,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,112,South Africa,Kingsmead,3,Australia
+438,21.3,0,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,112,South Africa,Kingsmead,3,Australia
+439,21.4,0,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,112,South Africa,Kingsmead,3,Australia
+440,21.5,0,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,112,South Africa,Kingsmead,3,Australia
+441,21.6,1,M Morkel,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,113,South Africa,Kingsmead,3,Australia
+442,22.1,0,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,113,South Africa,Kingsmead,3,Australia
+443,22.2,0,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,113,South Africa,Kingsmead,3,Australia
+444,22.3,0,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,113,South Africa,Kingsmead,3,Australia
+445,22.4,4,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,117,South Africa,Kingsmead,3,Australia
+446,22.5,0,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,117,South Africa,Kingsmead,3,Australia
+447,22.6,4,LL Tsotsobe,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,121,South Africa,Kingsmead,3,Australia
+448,23.1,0,JH Kallis,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,121,South Africa,Kingsmead,3,Australia
+449,23.2,1,JH Kallis,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,122,South Africa,Kingsmead,3,Australia
+450,23.3,0,JH Kallis,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,122,South Africa,Kingsmead,3,Australia
+451,23.4,0,JH Kallis,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,122,South Africa,Kingsmead,3,Australia
+452,23.5,1,JH Kallis,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,123,South Africa,Kingsmead,3,Australia
+453,23.6,1,JH Kallis,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,124,South Africa,Kingsmead,3,Australia
+454,24.1,1,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,125,South Africa,Kingsmead,3,Australia
+455,24.2,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,125,South Africa,Kingsmead,3,Australia
+456,24.3,1,J Botha,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,126,South Africa,Kingsmead,3,Australia
+457,24.4,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,126,South Africa,Kingsmead,3,Australia
+458,24.5,0,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,126,South Africa,Kingsmead,3,Australia
+459,24.6,4,J Botha,2011-10-28,2nd,MJ Clarke,0,,SE Marsh,0,South Africa,Australia,130,South Africa,Kingsmead,3,Australia
+460,25.1,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MJ Clarke,0,South Africa,Australia,130,South Africa,Kingsmead,4,Australia
+461,25.2,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,130,South Africa,Kingsmead,4,Australia
+462,25.3,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,130,South Africa,Kingsmead,4,Australia
+463,25.4,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,130,South Africa,Kingsmead,4,Australia
+464,25.5,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,131,South Africa,Kingsmead,4,Australia
+465,25.6,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,131,South Africa,Kingsmead,4,Australia
+466,25.7,1,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,132,South Africa,Kingsmead,4,Australia
+467,26.1,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,132,South Africa,Kingsmead,4,Australia
+468,26.2,1,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,133,South Africa,Kingsmead,4,Australia
+469,26.3,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,133,South Africa,Kingsmead,4,Australia
+470,26.4,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,133,South Africa,Kingsmead,4,Australia
+471,26.5,1,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,134,South Africa,Kingsmead,4,Australia
+472,26.6,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,134,South Africa,Kingsmead,4,Australia
+473,27.1,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,134,South Africa,Kingsmead,4,Australia
+474,27.2,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,134,South Africa,Kingsmead,4,Australia
+475,27.3,2,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,136,South Africa,Kingsmead,4,Australia
+476,27.4,1,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,137,South Africa,Kingsmead,4,Australia
+477,27.5,1,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,138,South Africa,Kingsmead,4,Australia
+478,27.6,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,138,South Africa,Kingsmead,4,Australia
+479,28.1,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,138,South Africa,Kingsmead,4,Australia
+480,28.2,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,138,South Africa,Kingsmead,4,Australia
+481,28.3,1,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,139,South Africa,Kingsmead,4,Australia
+482,28.4,1,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,140,South Africa,Kingsmead,4,Australia
+483,28.5,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,140,South Africa,Kingsmead,4,Australia
+484,28.6,1,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,141,South Africa,Kingsmead,4,Australia
+485,29.1,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,141,South Africa,Kingsmead,4,Australia
+486,29.2,1,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,142,South Africa,Kingsmead,4,Australia
+487,29.3,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,142,South Africa,Kingsmead,4,Australia
+488,29.4,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,143,South Africa,Kingsmead,4,Australia
+489,29.5,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,143,South Africa,Kingsmead,4,Australia
+490,29.6,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,143,South Africa,Kingsmead,4,Australia
+491,29.7,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,143,South Africa,Kingsmead,4,Australia
+492,30.1,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,143,South Africa,Kingsmead,4,Australia
+493,30.2,1,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,144,South Africa,Kingsmead,4,Australia
+494,30.3,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,144,South Africa,Kingsmead,4,Australia
+495,30.4,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,144,South Africa,Kingsmead,4,Australia
+496,30.5,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,144,South Africa,Kingsmead,4,Australia
+497,30.6,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,144,South Africa,Kingsmead,4,Australia
+498,31.1,1,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,145,South Africa,Kingsmead,4,Australia
+499,31.2,1,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,146,South Africa,Kingsmead,4,Australia
+500,31.3,0,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,146,South Africa,Kingsmead,4,Australia
+501,31.4,1,JP Duminy,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,147,South Africa,Kingsmead,4,Australia
+502,31.5,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,147,South Africa,Kingsmead,4,Australia
+503,31.6,2,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,149,South Africa,Kingsmead,4,Australia
+504,32.1,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,149,South Africa,Kingsmead,4,Australia
+505,32.2,0,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,149,South Africa,Kingsmead,4,Australia
+506,32.3,1,J Botha,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,150,South Africa,Kingsmead,4,Australia
+507,32.4,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,150,South Africa,Kingsmead,4,Australia
+508,32.5,0,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,150,South Africa,Kingsmead,4,Australia
+509,32.6,1,J Botha,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,151,South Africa,Kingsmead,4,Australia
+510,33.1,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,151,South Africa,Kingsmead,4,Australia
+511,33.2,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,151,South Africa,Kingsmead,4,Australia
+512,33.3,3,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,154,South Africa,Kingsmead,4,Australia
+513,33.4,0,DW Steyn,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,154,South Africa,Kingsmead,4,Australia
+514,33.5,2,DW Steyn,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,156,South Africa,Kingsmead,4,Australia
+515,33.6,0,DW Steyn,2011-10-28,2nd,SE Marsh,0,,MEK Hussey,0,South Africa,Australia,156,South Africa,Kingsmead,4,Australia
+516,34.1,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,SE Marsh,0,South Africa,Australia,156,South Africa,Kingsmead,5,Australia
+517,34.2,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,156,South Africa,Kingsmead,5,Australia
+518,34.3,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,156,South Africa,Kingsmead,5,Australia
+519,34.4,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,156,South Africa,Kingsmead,5,Australia
+520,34.5,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,156,South Africa,Kingsmead,5,Australia
+521,34.6,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,156,South Africa,Kingsmead,5,Australia
+522,35.1,2,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,158,South Africa,Kingsmead,5,Australia
+523,35.2,2,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,160,South Africa,Kingsmead,5,Australia
+524,35.3,0,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,160,South Africa,Kingsmead,5,Australia
+525,35.4,0,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,160,South Africa,Kingsmead,5,Australia
+526,35.5,1,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,161,South Africa,Kingsmead,5,Australia
+527,35.6,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,162,South Africa,Kingsmead,5,Australia
+528,35.7,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,162,South Africa,Kingsmead,5,Australia
+529,36.1,1,M Morkel,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,163,South Africa,Kingsmead,5,Australia
+530,36.2,0,M Morkel,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,163,South Africa,Kingsmead,5,Australia
+531,36.3,0,M Morkel,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,163,South Africa,Kingsmead,5,Australia
+532,36.4,1,M Morkel,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,164,South Africa,Kingsmead,5,Australia
+533,36.5,0,M Morkel,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,164,South Africa,Kingsmead,5,Australia
+534,36.6,1,M Morkel,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,165,South Africa,Kingsmead,5,Australia
+535,37.1,0,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,165,South Africa,Kingsmead,5,Australia
+536,37.2,1,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,166,South Africa,Kingsmead,5,Australia
+537,37.3,1,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,167,South Africa,Kingsmead,5,Australia
+538,37.4,1,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,168,South Africa,Kingsmead,5,Australia
+539,37.5,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,168,South Africa,Kingsmead,5,Australia
+540,37.6,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,168,South Africa,Kingsmead,5,Australia
+541,38.1,0,M Morkel,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,168,South Africa,Kingsmead,5,Australia
+542,38.2,0,M Morkel,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,168,South Africa,Kingsmead,5,Australia
+543,38.3,1,M Morkel,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,169,South Africa,Kingsmead,5,Australia
+544,38.4,0,M Morkel,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,169,South Africa,Kingsmead,5,Australia
+545,38.5,6,M Morkel,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,175,South Africa,Kingsmead,5,Australia
+546,38.6,0,M Morkel,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,175,South Africa,Kingsmead,5,Australia
+547,39.1,1,LL Tsotsobe,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,176,South Africa,Kingsmead,5,Australia
+548,39.2,1,LL Tsotsobe,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,177,South Africa,Kingsmead,5,Australia
+549,39.3,0,LL Tsotsobe,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,177,South Africa,Kingsmead,5,Australia
+550,39.4,0,LL Tsotsobe,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,177,South Africa,Kingsmead,5,Australia
+551,39.5,1,LL Tsotsobe,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,178,South Africa,Kingsmead,5,Australia
+552,39.6,4,LL Tsotsobe,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,182,South Africa,Kingsmead,5,Australia
+553,40.1,1,JP Duminy,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,183,South Africa,Kingsmead,5,Australia
+554,40.2,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,183,South Africa,Kingsmead,5,Australia
+555,40.3,4,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,187,South Africa,Kingsmead,5,Australia
+556,40.4,6,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,193,South Africa,Kingsmead,5,Australia
+557,40.5,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,193,South Africa,Kingsmead,5,Australia
+558,40.6,0,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,193,South Africa,Kingsmead,5,Australia
+559,41.1,0,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,193,South Africa,Kingsmead,5,Australia
+560,41.2,1,DW Steyn,2011-10-28,2nd,BJ Haddin,0,,MEK Hussey,0,South Africa,Australia,194,South Africa,Kingsmead,5,Australia
+561,41.3,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,194,South Africa,Kingsmead,5,Australia
+562,41.4,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,194,South Africa,Kingsmead,5,Australia
+563,41.5,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,BJ Haddin,0,South Africa,Australia,194,South Africa,Kingsmead,6,Australia
+564,41.6,1,DW Steyn,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,195,South Africa,Kingsmead,6,Australia
+565,42.1,1,JP Duminy,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,196,South Africa,Kingsmead,6,Australia
+566,42.2,1,JP Duminy,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,197,South Africa,Kingsmead,6,Australia
+567,42.3,0,JP Duminy,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,197,South Africa,Kingsmead,6,Australia
+568,42.4,0,JP Duminy,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,197,South Africa,Kingsmead,6,Australia
+569,42.5,2,JP Duminy,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,199,South Africa,Kingsmead,6,Australia
+570,42.6,1,JP Duminy,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,200,South Africa,Kingsmead,6,Australia
+571,43.1,1,DW Steyn,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,201,South Africa,Kingsmead,6,Australia
+572,43.2,1,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,202,South Africa,Kingsmead,6,Australia
+573,43.3,4,DW Steyn,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,206,South Africa,Kingsmead,6,Australia
+574,43.4,1,DW Steyn,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,207,South Africa,Kingsmead,6,Australia
+575,43.5,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,208,South Africa,Kingsmead,6,Australia
+576,43.6,0,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,208,South Africa,Kingsmead,6,Australia
+577,43.7,4,DW Steyn,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,212,South Africa,Kingsmead,6,Australia
+578,44.1,1,JH Kallis,2011-10-28,2nd,MG Johnson,0,,MEK Hussey,0,South Africa,Australia,213,South Africa,Kingsmead,6,Australia
+579,44.2,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,213,South Africa,Kingsmead,6,Australia
+580,44.3,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,213,South Africa,Kingsmead,6,Australia
+581,44.4,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,213,South Africa,Kingsmead,6,Australia
+582,44.5,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,MG Johnson,0,South Africa,Australia,213,South Africa,Kingsmead,7,Australia
+583,44.6,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,213,South Africa,Kingsmead,7,Australia
+584,45.1,0,M Morkel,2011-10-28,2nd,PJ Cummins,0,,MEK Hussey,0,South Africa,Australia,213,South Africa,Kingsmead,7,Australia
+585,45.2,1,M Morkel,2011-10-28,2nd,PJ Cummins,0,,MEK Hussey,0,South Africa,Australia,214,South Africa,Kingsmead,7,Australia
+586,45.3,0,M Morkel,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,214,South Africa,Kingsmead,7,Australia
+587,45.4,0,M Morkel,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,214,South Africa,Kingsmead,7,Australia
+588,45.5,0,M Morkel,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,215,South Africa,Kingsmead,7,Australia
+589,45.6,0,M Morkel,2011-10-28,2nd,PJ Cummins,0,,MEK Hussey,0,South Africa,Australia,215,South Africa,Kingsmead,7,Australia
+590,46.1,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,215,South Africa,Kingsmead,7,Australia
+591,46.2,2,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,217,South Africa,Kingsmead,7,Australia
+592,46.3,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,217,South Africa,Kingsmead,7,Australia
+593,46.4,4,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,221,South Africa,Kingsmead,7,Australia
+594,46.5,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,221,South Africa,Kingsmead,7,Australia
+595,46.6,0,JH Kallis,2011-10-28,2nd,MEK Hussey,0,,PJ Cummins,0,South Africa,Australia,221,South Africa,Kingsmead,7,Australia
+596,47.1,0,M Morkel,2011-10-28,2nd,PJ Cummins,0,,MEK Hussey,0,South Africa,Australia,221,South Africa,Kingsmead,7,Australia
+597,47.2,0,M Morkel,2011-10-28,2nd,PJ Cummins,0,,MEK Hussey,0,South Africa,Australia,221,South Africa,Kingsmead,7,Australia
+598,47.3,6,M Morkel,2011-10-28,2nd,PJ Cummins,0,,MEK Hussey,0,South Africa,Australia,227,South Africa,Kingsmead,7,Australia

@@ -1,0 +1,484 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Syed Rasel,2007-07-25,1st,ST Jayasuriya,0,,WU Tharanga,0,Sri Lanka,Bangladesh,0,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+1,0.2,0,Syed Rasel,2007-07-25,1st,ST Jayasuriya,0,,WU Tharanga,0,Sri Lanka,Bangladesh,0,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+2,0.3,0,Syed Rasel,2007-07-25,1st,ST Jayasuriya,0,,WU Tharanga,0,Sri Lanka,Bangladesh,0,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+3,0.4,1,Syed Rasel,2007-07-25,1st,ST Jayasuriya,0,,WU Tharanga,1,Sri Lanka,Bangladesh,1,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+4,0.5,0,Syed Rasel,2007-07-25,1st,WU Tharanga,1,,ST Jayasuriya,0,Sri Lanka,Bangladesh,1,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+5,0.6,0,Syed Rasel,2007-07-25,1st,WU Tharanga,1,,ST Jayasuriya,0,Sri Lanka,Bangladesh,1,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+6,1.1,0,Shahadat Hossain,2007-07-25,1st,ST Jayasuriya,0,,WU Tharanga,1,Sri Lanka,Bangladesh,2,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+7,1.2,0,Shahadat Hossain,2007-07-25,1st,ST Jayasuriya,0,,WU Tharanga,1,Sri Lanka,Bangladesh,2,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+8,1.3,1,Shahadat Hossain,2007-07-25,1st,ST Jayasuriya,0,,WU Tharanga,2,Sri Lanka,Bangladesh,3,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+9,1.4,1,Shahadat Hossain,2007-07-25,1st,WU Tharanga,2,,ST Jayasuriya,1,Sri Lanka,Bangladesh,4,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+10,1.5,0,Shahadat Hossain,2007-07-25,1st,ST Jayasuriya,1,,WU Tharanga,2,Sri Lanka,Bangladesh,4,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+11,1.6,4,Shahadat Hossain,2007-07-25,1st,ST Jayasuriya,1,,WU Tharanga,6,Sri Lanka,Bangladesh,8,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+12,1.7,0,Shahadat Hossain,2007-07-25,1st,ST Jayasuriya,1,,WU Tharanga,6,Sri Lanka,Bangladesh,12,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+13,2.1,0,Syed Rasel,2007-07-25,1st,WU Tharanga,6,,ST Jayasuriya,1,Sri Lanka,Bangladesh,12,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+14,2.2,0,Syed Rasel,2007-07-25,1st,WU Tharanga,6,,ST Jayasuriya,1,Sri Lanka,Bangladesh,12,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+15,2.3,3,Syed Rasel,2007-07-25,1st,WU Tharanga,6,,ST Jayasuriya,4,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+16,2.4,0,Syed Rasel,2007-07-25,1st,ST Jayasuriya,4,,WU Tharanga,6,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+17,2.5,4,Syed Rasel,2007-07-25,1st,ST Jayasuriya,4,,WU Tharanga,10,Sri Lanka,Bangladesh,19,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+18,2.6,4,Syed Rasel,2007-07-25,1st,ST Jayasuriya,4,,WU Tharanga,14,Sri Lanka,Bangladesh,23,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+19,3.1,4,Shahadat Hossain,2007-07-25,1st,WU Tharanga,14,,ST Jayasuriya,8,Sri Lanka,Bangladesh,27,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+20,3.2,0,Shahadat Hossain,2007-07-25,1st,WU Tharanga,14,ST Jayasuriya,ST Jayasuriya,8,Sri Lanka,Bangladesh,27,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+21,3.3,1,Shahadat Hossain,2007-07-25,1st,WU Tharanga,14,,KC Sangakkara,1,Sri Lanka,Bangladesh,28,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+22,3.4,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,WU Tharanga,14,Sri Lanka,Bangladesh,28,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+23,3.5,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,WU Tharanga,14,Sri Lanka,Bangladesh,28,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+24,3.6,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,WU Tharanga,14,Sri Lanka,Bangladesh,29,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+25,4.1,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,WU Tharanga,14,Sri Lanka,Bangladesh,29,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+26,4.2,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,WU Tharanga,14,Sri Lanka,Bangladesh,29,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+27,4.3,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,WU Tharanga,14,Sri Lanka,Bangladesh,29,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+28,4.4,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,WU Tharanga,WU Tharanga,14,Sri Lanka,Bangladesh,29,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+29,4.5,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,0,Sri Lanka,Bangladesh,29,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+30,4.6,1,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,1,Sri Lanka,Bangladesh,30,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+31,5.1,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,1,Sri Lanka,Bangladesh,30,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+32,5.2,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,1,Sri Lanka,Bangladesh,30,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+33,5.3,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,1,Sri Lanka,Bangladesh,30,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+34,5.4,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,1,Sri Lanka,Bangladesh,30,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+35,5.5,1,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,2,Sri Lanka,Bangladesh,31,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+36,5.6,0,Shahadat Hossain,2007-07-25,1st,CK Kapugedera,2,,KC Sangakkara,1,Sri Lanka,Bangladesh,31,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+37,6.1,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,2,Sri Lanka,Bangladesh,31,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+38,6.2,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,2,Sri Lanka,Bangladesh,31,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+39,6.3,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,2,Sri Lanka,Bangladesh,31,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+40,6.4,2,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,4,Sri Lanka,Bangladesh,33,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+41,6.5,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,4,Sri Lanka,Bangladesh,33,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+42,6.6,1,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,5,Sri Lanka,Bangladesh,34,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+43,7.1,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,5,Sri Lanka,Bangladesh,34,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+44,7.2,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,5,Sri Lanka,Bangladesh,34,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+45,7.3,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,5,Sri Lanka,Bangladesh,34,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+46,7.4,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,5,Sri Lanka,Bangladesh,34,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+47,7.5,1,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,6,Sri Lanka,Bangladesh,35,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+48,7.6,0,Shahadat Hossain,2007-07-25,1st,CK Kapugedera,6,,KC Sangakkara,1,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+49,7.7,0,Shahadat Hossain,2007-07-25,1st,CK Kapugedera,6,,KC Sangakkara,1,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+50,8.1,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,6,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+51,8.2,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,6,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+52,8.3,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,6,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+53,8.4,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,6,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+54,8.5,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,6,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+55,8.6,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,1,,CK Kapugedera,6,Sri Lanka,Bangladesh,36,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+56,9.1,4,Shahadat Hossain,2007-07-25,1st,CK Kapugedera,6,,KC Sangakkara,5,Sri Lanka,Bangladesh,40,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+57,9.2,1,Shahadat Hossain,2007-07-25,1st,CK Kapugedera,6,,KC Sangakkara,6,Sri Lanka,Bangladesh,41,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+58,9.3,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,6,,CK Kapugedera,6,Sri Lanka,Bangladesh,41,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+59,9.4,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,6,,CK Kapugedera,6,Sri Lanka,Bangladesh,41,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+60,9.5,0,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,6,,CK Kapugedera,6,Sri Lanka,Bangladesh,42,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+61,9.6,1,Shahadat Hossain,2007-07-25,1st,KC Sangakkara,6,,CK Kapugedera,7,Sri Lanka,Bangladesh,43,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+62,9.7,1,Shahadat Hossain,2007-07-25,1st,CK Kapugedera,7,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+63,10.1,0,Syed Rasel,2007-07-25,1st,CK Kapugedera,7,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+64,10.2,0,Syed Rasel,2007-07-25,1st,CK Kapugedera,7,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+65,10.3,0,Syed Rasel,2007-07-25,1st,CK Kapugedera,7,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+66,10.4,0,Syed Rasel,2007-07-25,1st,CK Kapugedera,7,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+67,10.5,0,Syed Rasel,2007-07-25,1st,CK Kapugedera,7,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+68,10.6,0,Syed Rasel,2007-07-25,1st,CK Kapugedera,7,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+69,11.1,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,7,,CK Kapugedera,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+70,11.2,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,7,,CK Kapugedera,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+71,11.3,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,7,,CK Kapugedera,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+72,11.4,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,7,,CK Kapugedera,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+73,11.5,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,7,,CK Kapugedera,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+74,11.6,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,7,CK Kapugedera,CK Kapugedera,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+75,12.1,0,Syed Rasel,2007-07-25,1st,J Mubarak,0,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+76,12.2,0,Syed Rasel,2007-07-25,1st,J Mubarak,0,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+77,12.3,0,Syed Rasel,2007-07-25,1st,J Mubarak,0,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+78,12.4,0,Syed Rasel,2007-07-25,1st,J Mubarak,0,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+79,12.5,0,Syed Rasel,2007-07-25,1st,J Mubarak,0,,KC Sangakkara,7,Sri Lanka,Bangladesh,44,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+80,12.6,2,Syed Rasel,2007-07-25,1st,J Mubarak,0,,KC Sangakkara,9,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+81,13.1,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+82,13.2,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+83,13.3,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+84,13.4,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+85,13.5,1,Farhad Reza,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,1,Sri Lanka,Bangladesh,47,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+86,13.6,0,Farhad Reza,2007-07-25,1st,J Mubarak,1,,KC Sangakkara,9,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+87,13.7,0,Farhad Reza,2007-07-25,1st,J Mubarak,1,,KC Sangakkara,9,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+88,14.1,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,1,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+89,14.2,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,1,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+90,14.3,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,1,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+91,14.4,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,1,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+92,14.5,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,1,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+93,14.6,0,Syed Rasel,2007-07-25,1st,KC Sangakkara,9,,J Mubarak,1,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+94,15.1,0,Farhad Reza,2007-07-25,1st,J Mubarak,1,,KC Sangakkara,9,Sri Lanka,Bangladesh,48,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+95,15.2,4,Farhad Reza,2007-07-25,1st,J Mubarak,1,,KC Sangakkara,13,Sri Lanka,Bangladesh,52,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+96,15.3,1,Farhad Reza,2007-07-25,1st,J Mubarak,1,,KC Sangakkara,14,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+97,15.4,1,Farhad Reza,2007-07-25,1st,KC Sangakkara,14,,J Mubarak,2,Sri Lanka,Bangladesh,54,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+98,15.5,0,Farhad Reza,2007-07-25,1st,J Mubarak,2,,KC Sangakkara,14,Sri Lanka,Bangladesh,54,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+99,15.6,1,Farhad Reza,2007-07-25,1st,J Mubarak,2,,KC Sangakkara,15,Sri Lanka,Bangladesh,55,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+100,16.1,0,Abdur Razzak,2007-07-25,1st,J Mubarak,2,,KC Sangakkara,15,Sri Lanka,Bangladesh,55,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+101,16.2,1,Abdur Razzak,2007-07-25,1st,J Mubarak,2,,KC Sangakkara,16,Sri Lanka,Bangladesh,56,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+102,16.3,0,Abdur Razzak,2007-07-25,1st,KC Sangakkara,16,,J Mubarak,2,Sri Lanka,Bangladesh,56,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+103,16.4,0,Abdur Razzak,2007-07-25,1st,KC Sangakkara,16,,J Mubarak,2,Sri Lanka,Bangladesh,56,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+104,16.5,1,Abdur Razzak,2007-07-25,1st,KC Sangakkara,16,,J Mubarak,3,Sri Lanka,Bangladesh,57,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+105,16.6,1,Abdur Razzak,2007-07-25,1st,J Mubarak,3,,KC Sangakkara,17,Sri Lanka,Bangladesh,58,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+106,17.1,0,Farhad Reza,2007-07-25,1st,J Mubarak,3,,KC Sangakkara,17,Sri Lanka,Bangladesh,59,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+107,17.2,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,17,,J Mubarak,3,Sri Lanka,Bangladesh,59,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+108,17.3,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,17,,J Mubarak,3,Sri Lanka,Bangladesh,59,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+109,17.4,0,Farhad Reza,2007-07-25,1st,KC Sangakkara,17,,J Mubarak,3,Sri Lanka,Bangladesh,59,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+110,17.5,1,Farhad Reza,2007-07-25,1st,KC Sangakkara,17,,J Mubarak,4,Sri Lanka,Bangladesh,60,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+111,17.6,1,Farhad Reza,2007-07-25,1st,J Mubarak,4,,KC Sangakkara,18,Sri Lanka,Bangladesh,61,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+112,18.1,0,Abdur Razzak,2007-07-25,1st,J Mubarak,4,,KC Sangakkara,18,Sri Lanka,Bangladesh,61,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+113,18.2,0,Abdur Razzak,2007-07-25,1st,J Mubarak,4,KC Sangakkara,KC Sangakkara,18,Sri Lanka,Bangladesh,61,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+114,18.3,1,Abdur Razzak,2007-07-25,1st,J Mubarak,4,,TM Dilshan,1,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+115,18.4,0,Abdur Razzak,2007-07-25,1st,TM Dilshan,1,,J Mubarak,4,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+116,18.5,4,Abdur Razzak,2007-07-25,1st,TM Dilshan,1,,J Mubarak,8,Sri Lanka,Bangladesh,66,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+117,18.6,0,Abdur Razzak,2007-07-25,1st,TM Dilshan,1,,J Mubarak,8,Sri Lanka,Bangladesh,66,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+118,19.1,0,Farhad Reza,2007-07-25,1st,J Mubarak,8,,TM Dilshan,1,Sri Lanka,Bangladesh,66,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+119,19.2,0,Farhad Reza,2007-07-25,1st,J Mubarak,8,,TM Dilshan,1,Sri Lanka,Bangladesh,66,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+120,19.3,1,Farhad Reza,2007-07-25,1st,J Mubarak,8,,TM Dilshan,2,Sri Lanka,Bangladesh,67,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+121,19.4,1,Farhad Reza,2007-07-25,1st,TM Dilshan,2,,J Mubarak,9,Sri Lanka,Bangladesh,68,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+122,19.5,1,Farhad Reza,2007-07-25,1st,J Mubarak,9,,TM Dilshan,3,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+123,19.6,2,Farhad Reza,2007-07-25,1st,TM Dilshan,3,,J Mubarak,11,Sri Lanka,Bangladesh,71,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+124,20.1,2,Abdur Razzak,2007-07-25,1st,J Mubarak,11,,TM Dilshan,5,Sri Lanka,Bangladesh,73,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+125,20.2,0,Abdur Razzak,2007-07-25,1st,J Mubarak,11,,TM Dilshan,5,Sri Lanka,Bangladesh,73,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+126,20.3,1,Abdur Razzak,2007-07-25,1st,J Mubarak,11,,TM Dilshan,6,Sri Lanka,Bangladesh,74,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+127,20.4,0,Abdur Razzak,2007-07-25,1st,TM Dilshan,6,,J Mubarak,11,Sri Lanka,Bangladesh,74,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+128,20.5,1,Abdur Razzak,2007-07-25,1st,TM Dilshan,6,,J Mubarak,12,Sri Lanka,Bangladesh,75,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+129,20.6,1,Abdur Razzak,2007-07-25,1st,J Mubarak,12,,TM Dilshan,7,Sri Lanka,Bangladesh,76,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+130,21.1,4,Farhad Reza,2007-07-25,1st,J Mubarak,12,,TM Dilshan,11,Sri Lanka,Bangladesh,80,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+131,21.2,1,Farhad Reza,2007-07-25,1st,J Mubarak,12,,TM Dilshan,12,Sri Lanka,Bangladesh,81,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+132,21.3,0,Farhad Reza,2007-07-25,1st,TM Dilshan,12,,J Mubarak,12,Sri Lanka,Bangladesh,81,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+133,21.4,4,Farhad Reza,2007-07-25,1st,TM Dilshan,12,,J Mubarak,16,Sri Lanka,Bangladesh,85,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+134,21.5,2,Farhad Reza,2007-07-25,1st,TM Dilshan,12,,J Mubarak,18,Sri Lanka,Bangladesh,87,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+135,21.6,1,Farhad Reza,2007-07-25,1st,TM Dilshan,12,,J Mubarak,19,Sri Lanka,Bangladesh,88,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+136,22.1,0,Abdur Razzak,2007-07-25,1st,TM Dilshan,12,,J Mubarak,19,Sri Lanka,Bangladesh,88,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+137,22.2,0,Abdur Razzak,2007-07-25,1st,TM Dilshan,12,,J Mubarak,19,Sri Lanka,Bangladesh,88,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+138,22.3,4,Abdur Razzak,2007-07-25,1st,TM Dilshan,12,,J Mubarak,23,Sri Lanka,Bangladesh,92,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+139,22.4,2,Abdur Razzak,2007-07-25,1st,TM Dilshan,12,,J Mubarak,25,Sri Lanka,Bangladesh,94,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+140,22.5,2,Abdur Razzak,2007-07-25,1st,TM Dilshan,12,,J Mubarak,27,Sri Lanka,Bangladesh,96,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+141,22.6,1,Abdur Razzak,2007-07-25,1st,TM Dilshan,12,,J Mubarak,28,Sri Lanka,Bangladesh,97,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+142,23.1,2,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,12,,J Mubarak,30,Sri Lanka,Bangladesh,99,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+143,23.2,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,12,,J Mubarak,30,Sri Lanka,Bangladesh,99,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+144,23.3,1,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,12,,J Mubarak,31,Sri Lanka,Bangladesh,100,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+145,23.4,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,31,,TM Dilshan,13,Sri Lanka,Bangladesh,101,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+146,23.5,1,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,13,,J Mubarak,32,Sri Lanka,Bangladesh,102,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+147,23.6,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,32,,TM Dilshan,14,Sri Lanka,Bangladesh,103,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+148,24.1,2,Mahmudullah,2007-07-25,1st,J Mubarak,32,,TM Dilshan,16,Sri Lanka,Bangladesh,105,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+149,24.2,2,Mahmudullah,2007-07-25,1st,J Mubarak,32,,TM Dilshan,18,Sri Lanka,Bangladesh,107,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+150,24.3,1,Mahmudullah,2007-07-25,1st,J Mubarak,32,,TM Dilshan,19,Sri Lanka,Bangladesh,108,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+151,24.4,1,Mahmudullah,2007-07-25,1st,TM Dilshan,19,,J Mubarak,33,Sri Lanka,Bangladesh,109,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+152,24.5,1,Mahmudullah,2007-07-25,1st,J Mubarak,33,,TM Dilshan,20,Sri Lanka,Bangladesh,110,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+153,24.6,0,Mahmudullah,2007-07-25,1st,TM Dilshan,20,,J Mubarak,33,Sri Lanka,Bangladesh,110,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+154,25.1,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,33,,TM Dilshan,21,Sri Lanka,Bangladesh,111,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+155,25.2,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,21,,J Mubarak,33,Sri Lanka,Bangladesh,111,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+156,25.3,1,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,21,,J Mubarak,34,Sri Lanka,Bangladesh,112,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+157,25.4,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,34,,TM Dilshan,22,Sri Lanka,Bangladesh,113,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+158,25.5,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,22,,J Mubarak,34,Sri Lanka,Bangladesh,113,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+159,25.6,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,22,,J Mubarak,34,Sri Lanka,Bangladesh,113,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+160,26.1,1,Mahmudullah,2007-07-25,1st,J Mubarak,34,,TM Dilshan,23,Sri Lanka,Bangladesh,114,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+161,26.2,0,Mahmudullah,2007-07-25,1st,TM Dilshan,23,,J Mubarak,34,Sri Lanka,Bangladesh,114,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+162,26.3,1,Mahmudullah,2007-07-25,1st,TM Dilshan,23,,J Mubarak,35,Sri Lanka,Bangladesh,115,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+163,26.4,0,Mahmudullah,2007-07-25,1st,J Mubarak,35,,TM Dilshan,23,Sri Lanka,Bangladesh,115,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+164,26.5,3,Mahmudullah,2007-07-25,1st,J Mubarak,35,,TM Dilshan,26,Sri Lanka,Bangladesh,118,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+165,26.6,0,Mahmudullah,2007-07-25,1st,TM Dilshan,26,,J Mubarak,35,Sri Lanka,Bangladesh,118,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+166,27.1,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,35,,TM Dilshan,27,Sri Lanka,Bangladesh,119,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+167,27.2,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,27,,J Mubarak,35,Sri Lanka,Bangladesh,119,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+168,27.3,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,27,,J Mubarak,35,Sri Lanka,Bangladesh,119,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+169,27.4,1,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,27,,J Mubarak,36,Sri Lanka,Bangladesh,120,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+170,27.5,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,36,,TM Dilshan,28,Sri Lanka,Bangladesh,121,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+171,27.6,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,28,,J Mubarak,36,Sri Lanka,Bangladesh,121,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+172,28.1,1,Mahmudullah,2007-07-25,1st,J Mubarak,36,,TM Dilshan,29,Sri Lanka,Bangladesh,122,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+173,28.2,1,Mahmudullah,2007-07-25,1st,TM Dilshan,29,,J Mubarak,37,Sri Lanka,Bangladesh,123,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+174,28.3,2,Mahmudullah,2007-07-25,1st,J Mubarak,37,,TM Dilshan,31,Sri Lanka,Bangladesh,125,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+175,28.4,0,Mahmudullah,2007-07-25,1st,J Mubarak,37,,TM Dilshan,31,Sri Lanka,Bangladesh,125,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+176,28.5,2,Mahmudullah,2007-07-25,1st,J Mubarak,37,,TM Dilshan,33,Sri Lanka,Bangladesh,127,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+177,28.6,0,Mahmudullah,2007-07-25,1st,J Mubarak,37,,TM Dilshan,33,Sri Lanka,Bangladesh,127,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+178,29.1,0,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,33,,J Mubarak,37,Sri Lanka,Bangladesh,127,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+179,29.2,4,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,33,,J Mubarak,41,Sri Lanka,Bangladesh,131,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+180,29.3,1,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,33,,J Mubarak,42,Sri Lanka,Bangladesh,132,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+181,29.4,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,42,,TM Dilshan,34,Sri Lanka,Bangladesh,133,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+182,29.5,1,Shakib Al Hasan,2007-07-25,1st,TM Dilshan,34,,J Mubarak,43,Sri Lanka,Bangladesh,134,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+183,29.6,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,43,,TM Dilshan,35,Sri Lanka,Bangladesh,135,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+184,30.1,0,Mahmudullah,2007-07-25,1st,J Mubarak,43,,TM Dilshan,35,Sri Lanka,Bangladesh,135,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+185,30.2,4,Mahmudullah,2007-07-25,1st,J Mubarak,43,,TM Dilshan,39,Sri Lanka,Bangladesh,139,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+186,30.3,0,Mahmudullah,2007-07-25,1st,J Mubarak,43,TM Dilshan,TM Dilshan,39,Sri Lanka,Bangladesh,139,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+187,30.4,1,Mahmudullah,2007-07-25,1st,J Mubarak,43,,DPMD Jayawardene,1,Sri Lanka,Bangladesh,140,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+188,30.5,0,Mahmudullah,2007-07-25,1st,DPMD Jayawardene,1,,J Mubarak,43,Sri Lanka,Bangladesh,140,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+189,30.6,0,Mahmudullah,2007-07-25,1st,DPMD Jayawardene,1,,J Mubarak,43,Sri Lanka,Bangladesh,140,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+190,31.1,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,43,,DPMD Jayawardene,2,Sri Lanka,Bangladesh,141,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+191,31.2,1,Shakib Al Hasan,2007-07-25,1st,DPMD Jayawardene,2,,J Mubarak,44,Sri Lanka,Bangladesh,142,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+192,31.3,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,44,,DPMD Jayawardene,2,Sri Lanka,Bangladesh,142,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+193,31.4,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,44,,DPMD Jayawardene,3,Sri Lanka,Bangladesh,143,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+194,31.5,1,Shakib Al Hasan,2007-07-25,1st,DPMD Jayawardene,3,,J Mubarak,45,Sri Lanka,Bangladesh,144,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+195,31.6,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,45,,DPMD Jayawardene,3,Sri Lanka,Bangladesh,144,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+196,32.1,1,Abdur Razzak,2007-07-25,1st,DPMD Jayawardene,3,,J Mubarak,46,Sri Lanka,Bangladesh,145,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+197,32.2,0,Abdur Razzak,2007-07-25,1st,J Mubarak,46,,DPMD Jayawardene,3,Sri Lanka,Bangladesh,145,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+198,32.3,2,Abdur Razzak,2007-07-25,1st,J Mubarak,46,,DPMD Jayawardene,5,Sri Lanka,Bangladesh,147,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+199,32.4,4,Abdur Razzak,2007-07-25,1st,J Mubarak,46,,DPMD Jayawardene,9,Sri Lanka,Bangladesh,151,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+200,32.5,4,Abdur Razzak,2007-07-25,1st,J Mubarak,46,,DPMD Jayawardene,13,Sri Lanka,Bangladesh,155,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+201,32.6,1,Abdur Razzak,2007-07-25,1st,J Mubarak,46,,DPMD Jayawardene,14,Sri Lanka,Bangladesh,156,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+202,33.1,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,46,,DPMD Jayawardene,15,Sri Lanka,Bangladesh,157,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+203,33.2,1,Shakib Al Hasan,2007-07-25,1st,DPMD Jayawardene,15,,J Mubarak,47,Sri Lanka,Bangladesh,158,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+204,33.3,1,Shakib Al Hasan,2007-07-25,1st,J Mubarak,47,,DPMD Jayawardene,16,Sri Lanka,Bangladesh,159,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+205,33.4,1,Shakib Al Hasan,2007-07-25,1st,DPMD Jayawardene,16,,J Mubarak,48,Sri Lanka,Bangladesh,160,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+206,33.5,3,Shakib Al Hasan,2007-07-25,1st,J Mubarak,48,,DPMD Jayawardene,19,Sri Lanka,Bangladesh,163,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+207,33.6,2,Shakib Al Hasan,2007-07-25,1st,DPMD Jayawardene,19,,J Mubarak,50,Sri Lanka,Bangladesh,165,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+208,34.1,0,Abdur Razzak,2007-07-25,1st,J Mubarak,50,,DPMD Jayawardene,19,Sri Lanka,Bangladesh,165,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+209,34.2,1,Abdur Razzak,2007-07-25,1st,J Mubarak,50,,DPMD Jayawardene,20,Sri Lanka,Bangladesh,166,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+210,34.3,0,Abdur Razzak,2007-07-25,1st,DPMD Jayawardene,20,,J Mubarak,50,Sri Lanka,Bangladesh,166,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+211,34.4,0,Abdur Razzak,2007-07-25,1st,DPMD Jayawardene,20,,J Mubarak,50,Sri Lanka,Bangladesh,166,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+212,34.5,2,Abdur Razzak,2007-07-25,1st,DPMD Jayawardene,20,,J Mubarak,52,Sri Lanka,Bangladesh,168,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+213,34.6,1,Abdur Razzak,2007-07-25,1st,DPMD Jayawardene,20,,J Mubarak,53,Sri Lanka,Bangladesh,169,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+214,35.1,0,Shakib Al Hasan,2007-07-25,1st,DPMD Jayawardene,20,,J Mubarak,53,Sri Lanka,Bangladesh,170,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+215,35.2,1,Shakib Al Hasan,2007-07-25,1st,DPMD Jayawardene,20,,J Mubarak,54,Sri Lanka,Bangladesh,171,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+216,35.3,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,54,DPMD Jayawardene,DPMD Jayawardene,20,Sri Lanka,Bangladesh,171,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+217,35.4,1,Shakib Al Hasan,2007-07-25,1st,MF Maharoof,0,,J Mubarak,55,Sri Lanka,Bangladesh,172,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+218,35.5,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,55,,MF Maharoof,0,Sri Lanka,Bangladesh,172,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+219,35.6,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,55,,MF Maharoof,0,Sri Lanka,Bangladesh,172,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+220,35.7,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,55,,MF Maharoof,0,Sri Lanka,Bangladesh,172,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+221,36.1,4,Abdur Razzak,2007-07-25,1st,MF Maharoof,0,,J Mubarak,59,Sri Lanka,Bangladesh,176,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+222,36.2,0,Abdur Razzak,2007-07-25,1st,MF Maharoof,0,,J Mubarak,59,Sri Lanka,Bangladesh,176,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+223,36.3,1,Abdur Razzak,2007-07-25,1st,MF Maharoof,0,,J Mubarak,60,Sri Lanka,Bangladesh,177,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+224,36.4,1,Abdur Razzak,2007-07-25,1st,J Mubarak,60,,MF Maharoof,1,Sri Lanka,Bangladesh,178,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+225,36.5,1,Abdur Razzak,2007-07-25,1st,MF Maharoof,1,,J Mubarak,61,Sri Lanka,Bangladesh,179,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+226,36.6,0,Abdur Razzak,2007-07-25,1st,J Mubarak,61,MF Maharoof,MF Maharoof,1,Sri Lanka,Bangladesh,179,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+227,37.1,4,Shakib Al Hasan,2007-07-25,1st,UDU Chandana,0,,J Mubarak,65,Sri Lanka,Bangladesh,183,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+228,37.2,2,Shakib Al Hasan,2007-07-25,1st,UDU Chandana,0,,J Mubarak,67,Sri Lanka,Bangladesh,185,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+229,37.3,1,Shakib Al Hasan,2007-07-25,1st,UDU Chandana,0,,J Mubarak,68,Sri Lanka,Bangladesh,186,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+230,37.4,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,68,,UDU Chandana,0,Sri Lanka,Bangladesh,186,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+231,37.5,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,68,,UDU Chandana,0,Sri Lanka,Bangladesh,186,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+232,37.6,0,Shakib Al Hasan,2007-07-25,1st,J Mubarak,68,,UDU Chandana,0,Sri Lanka,Bangladesh,186,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+233,38.1,1,Mahmudullah,2007-07-25,1st,UDU Chandana,0,,J Mubarak,69,Sri Lanka,Bangladesh,187,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+234,38.2,1,Mahmudullah,2007-07-25,1st,J Mubarak,69,,UDU Chandana,1,Sri Lanka,Bangladesh,188,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+235,38.3,3,Mahmudullah,2007-07-25,1st,UDU Chandana,1,,J Mubarak,72,Sri Lanka,Bangladesh,191,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+236,38.4,0,Mahmudullah,2007-07-25,1st,J Mubarak,72,,UDU Chandana,1,Sri Lanka,Bangladesh,191,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+237,38.5,0,Mahmudullah,2007-07-25,1st,J Mubarak,72,UDU Chandana,UDU Chandana,1,Sri Lanka,Bangladesh,191,Bangladesh,R Premadasa Stadium,8,Sri Lanka
+238,38.6,0,Mahmudullah,2007-07-25,1st,KMDN Kulasekara,0,,J Mubarak,72,Sri Lanka,Bangladesh,191,Bangladesh,R Premadasa Stadium,8,Sri Lanka
+239,39.1,0,Abdur Razzak,2007-07-25,1st,J Mubarak,72,J Mubarak,KMDN Kulasekara,0,Sri Lanka,Bangladesh,191,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+240,39.2,0,Abdur Razzak,2007-07-25,1st,KMDN Kulasekara,0,,CRD Fernando,0,Sri Lanka,Bangladesh,192,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+241,39.3,0,Abdur Razzak,2007-07-25,1st,KMDN Kulasekara,0,,CRD Fernando,0,Sri Lanka,Bangladesh,192,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+242,39.4,0,Abdur Razzak,2007-07-25,1st,KMDN Kulasekara,0,,CRD Fernando,0,Sri Lanka,Bangladesh,195,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+243,39.5,1,Abdur Razzak,2007-07-25,1st,CRD Fernando,0,,KMDN Kulasekara,1,Sri Lanka,Bangladesh,196,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+244,39.6,0,Abdur Razzak,2007-07-25,1st,KMDN Kulasekara,1,CRD Fernando,CRD Fernando,0,Sri Lanka,Bangladesh,196,Bangladesh,R Premadasa Stadium,10,Sri Lanka
+245,0.1,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Javed Omar,0,Sri Lanka,Bangladesh,0,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+246,0.2,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Javed Omar,0,Sri Lanka,Bangladesh,0,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+247,0.3,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Javed Omar,0,Sri Lanka,Bangladesh,0,Bangladesh,R Premadasa Stadium,0,Sri Lanka
+248,0.4,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Javed Omar,0,Sri Lanka,Bangladesh,0,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+249,0.5,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,1,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+250,0.6,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,1,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+251,0.7,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,2,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+252,0.8,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,3,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+253,0.9,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,3,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+254,1.1,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,3,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+255,1.2,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,3,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+256,1.3,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,4,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+257,1.4,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,4,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+258,1.5,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,4,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+259,1.6,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,9,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+260,1.7,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,9,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+261,1.8,0,CRD Fernando,2007-07-25,2nd,Mushfiqur Rahim,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,9,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+262,2.1,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,10,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+263,2.2,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,10,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+264,2.3,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,10,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+265,2.4,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,11,Bangladesh,R Premadasa Stadium,1,Sri Lanka
+266,2.5,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mushfiqur Rahim,0,Sri Lanka,Bangladesh,11,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+267,2.6,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,11,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+268,2.7,1,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,12,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+269,2.8,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,12,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+270,3.1,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,13,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+271,3.2,2,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+272,3.3,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+273,3.4,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+274,3.5,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+275,3.6,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+276,3.7,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,15,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+277,4.1,1,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,16,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+278,4.2,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,18,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+279,4.3,1,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,19,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+280,4.4,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,19,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+281,4.5,4,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,23,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+282,4.6,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,23,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+283,4.7,1,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,24,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+284,5.1,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,24,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+285,5.2,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,24,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+286,5.3,2,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,26,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+287,5.4,2,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,28,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+288,5.5,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,28,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+289,5.6,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,28,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+290,6.1,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,28,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+291,6.2,4,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,32,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+292,6.3,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,32,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+293,6.4,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,32,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+294,6.5,6,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,38,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+295,6.6,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,38,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+296,7.1,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,38,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+297,7.2,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,38,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+298,7.3,1,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,39,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+299,7.4,2,CRD Fernando,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,41,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+300,7.5,0,CRD Fernando,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,41,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+301,7.6,0,CRD Fernando,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,42,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+302,7.7,4,CRD Fernando,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+303,8.1,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+304,8.2,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+305,8.3,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+306,8.4,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,46,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+307,8.5,4,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,50,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+308,8.6,1,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,51,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+309,9.1,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,51,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+310,9.2,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,51,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+311,9.3,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,51,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+312,9.4,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,51,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+313,9.5,1,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,52,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+314,9.6,0,KMDN Kulasekara,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,52,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+315,10.1,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,52,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+316,10.2,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,52,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+317,10.3,1,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+318,10.4,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+319,10.5,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+320,10.6,0,MF Maharoof,2007-07-25,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+321,11.1,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+322,11.2,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+323,11.3,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,2,Sri Lanka
+324,11.4,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+325,11.5,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+326,11.6,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,53,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+327,12.1,4,CRD Fernando,2007-07-25,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,57,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+328,12.2,1,CRD Fernando,2007-07-25,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,58,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+329,12.3,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,59,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+330,12.4,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,59,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+331,12.5,2,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,61,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+332,12.6,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,61,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+333,12.7,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,61,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+334,13.1,1,KMDN Kulasekara,2007-07-25,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+335,13.2,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+336,13.3,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+337,13.4,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+338,13.5,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+339,13.6,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,62,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+340,14.1,1,CRD Fernando,2007-07-25,2nd,Shakib Al Hasan,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,63,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+341,14.2,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,63,Bangladesh,R Premadasa Stadium,3,Sri Lanka
+342,14.3,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Shakib Al Hasan,0,Sri Lanka,Bangladesh,63,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+343,14.4,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,64,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+344,14.5,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,64,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+345,14.6,0,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,64,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+346,14.7,1,CRD Fernando,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,65,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+347,15.1,1,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,66,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+348,15.2,1,KMDN Kulasekara,2007-07-25,2nd,Aftab Ahmed,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,67,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+349,15.3,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,68,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+350,15.4,0,KMDN Kulasekara,2007-07-25,2nd,Aftab Ahmed,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,68,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+351,15.5,0,KMDN Kulasekara,2007-07-25,2nd,Aftab Ahmed,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,68,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+352,15.6,0,KMDN Kulasekara,2007-07-25,2nd,Aftab Ahmed,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,68,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+353,16.1,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,68,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+354,16.2,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,68,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+355,16.3,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+356,16.4,0,UDU Chandana,2007-07-25,2nd,Aftab Ahmed,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+357,16.5,0,UDU Chandana,2007-07-25,2nd,Aftab Ahmed,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+358,16.6,0,UDU Chandana,2007-07-25,2nd,Aftab Ahmed,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+359,17.1,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,4,Sri Lanka
+360,17.2,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Aftab Ahmed,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+361,17.3,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+362,17.4,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+363,17.5,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+364,17.6,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+365,18.1,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,69,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+366,18.2,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,70,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+367,18.3,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,70,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+368,18.4,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,71,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+369,18.5,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,71,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+370,18.6,2,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,73,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+371,19.1,1,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,74,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+372,19.2,0,KMDN Kulasekara,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,74,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+373,19.3,2,KMDN Kulasekara,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,76,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+374,19.4,0,KMDN Kulasekara,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,76,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+375,19.5,1,KMDN Kulasekara,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,77,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+376,19.6,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,78,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+377,19.7,0,KMDN Kulasekara,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,78,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+378,20.1,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,78,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+379,20.2,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,79,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+380,20.3,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,80,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+381,20.4,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,81,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+382,20.5,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,81,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+383,20.6,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,81,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+384,21.1,1,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,82,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+385,21.2,2,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,84,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+386,21.3,0,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,84,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+387,21.4,1,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,85,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+388,21.5,0,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,85,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+389,21.6,1,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,86,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+390,22.1,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,86,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+391,22.2,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,86,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+392,22.3,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,86,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+393,22.4,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,87,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+394,22.5,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,87,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+395,22.6,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,88,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+396,23.1,1,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,89,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+397,23.2,2,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,91,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+398,23.3,0,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,91,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+399,23.4,0,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,91,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+400,23.5,0,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,91,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+401,23.6,1,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,92,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+402,24.1,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,92,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+403,24.2,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,93,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+404,24.3,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,94,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+405,24.4,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,94,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+406,24.5,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,95,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+407,24.6,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,96,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+408,25.1,1,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,97,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+409,25.2,0,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,97,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+410,25.3,1,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,98,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+411,25.4,0,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,101,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+412,25.5,3,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,104,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+413,25.6,0,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,104,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+414,26.1,2,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,106,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+415,26.2,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,106,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+416,26.3,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,106,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+417,26.4,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,107,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+418,26.5,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,107,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+419,26.6,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,108,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+420,27.1,0,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,108,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+421,27.2,1,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,109,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+422,27.3,1,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,110,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+423,27.4,1,TM Dilshan,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,111,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+424,27.5,0,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,111,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+425,27.6,2,TM Dilshan,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,113,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+426,28.1,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,114,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+427,28.2,0,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,118,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+428,28.3,2,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,120,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+429,28.4,0,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,120,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+430,28.5,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,121,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+431,28.6,1,UDU Chandana,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,122,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+432,28.7,1,UDU Chandana,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,123,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+433,29.1,1,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,124,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+434,29.2,1,MF Maharoof,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,125,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+435,29.3,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,125,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+436,29.4,0,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,125,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+437,29.5,2,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,127,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+438,29.6,1,MF Maharoof,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,128,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+439,30.1,0,ST Jayasuriya,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,128,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+440,30.2,1,ST Jayasuriya,2007-07-25,2nd,Tamim Iqbal,0,,Mahmudullah,0,Sri Lanka,Bangladesh,129,Bangladesh,R Premadasa Stadium,5,Sri Lanka
+441,30.3,0,ST Jayasuriya,2007-07-25,2nd,Mahmudullah,0,,Tamim Iqbal,0,Sri Lanka,Bangladesh,129,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+442,30.4,1,ST Jayasuriya,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,130,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+443,30.5,1,ST Jayasuriya,2007-07-25,2nd,Mahmudullah,0,,Farhad Reza,0,Sri Lanka,Bangladesh,131,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+444,30.6,1,ST Jayasuriya,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,132,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+445,31.1,0,MF Maharoof,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,132,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+446,31.2,0,MF Maharoof,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,132,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+447,31.3,2,MF Maharoof,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,134,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+448,31.4,0,MF Maharoof,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,134,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+449,31.5,1,MF Maharoof,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,135,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+450,31.6,1,MF Maharoof,2007-07-25,2nd,Mahmudullah,0,,Farhad Reza,0,Sri Lanka,Bangladesh,136,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+451,32.1,2,ST Jayasuriya,2007-07-25,2nd,Mahmudullah,0,,Farhad Reza,0,Sri Lanka,Bangladesh,138,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+452,32.2,1,ST Jayasuriya,2007-07-25,2nd,Mahmudullah,0,,Farhad Reza,0,Sri Lanka,Bangladesh,139,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+453,32.3,0,ST Jayasuriya,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,139,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+454,32.4,1,ST Jayasuriya,2007-07-25,2nd,Farhad Reza,0,,Mahmudullah,0,Sri Lanka,Bangladesh,140,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+455,32.5,2,ST Jayasuriya,2007-07-25,2nd,Mahmudullah,0,,Farhad Reza,0,Sri Lanka,Bangladesh,142,Bangladesh,R Premadasa Stadium,6,Sri Lanka
+456,32.6,0,ST Jayasuriya,2007-07-25,2nd,Mahmudullah,0,,Farhad Reza,0,Sri Lanka,Bangladesh,142,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+457,33.1,1,KMDN Kulasekara,2007-07-25,2nd,Abdur Razzak,0,,Mahmudullah,0,Sri Lanka,Bangladesh,143,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+458,33.2,1,KMDN Kulasekara,2007-07-25,2nd,Mahmudullah,0,,Abdur Razzak,0,Sri Lanka,Bangladesh,144,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+459,33.3,4,KMDN Kulasekara,2007-07-25,2nd,Abdur Razzak,0,,Mahmudullah,0,Sri Lanka,Bangladesh,148,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+460,33.4,0,KMDN Kulasekara,2007-07-25,2nd,Abdur Razzak,0,,Mahmudullah,0,Sri Lanka,Bangladesh,148,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+461,33.5,1,KMDN Kulasekara,2007-07-25,2nd,Abdur Razzak,0,,Mahmudullah,0,Sri Lanka,Bangladesh,149,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+462,33.6,1,KMDN Kulasekara,2007-07-25,2nd,Mahmudullah,0,,Abdur Razzak,0,Sri Lanka,Bangladesh,150,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+463,34.1,1,ST Jayasuriya,2007-07-25,2nd,Mahmudullah,0,,Abdur Razzak,0,Sri Lanka,Bangladesh,151,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+464,34.2,0,ST Jayasuriya,2007-07-25,2nd,Abdur Razzak,0,,Mahmudullah,0,Sri Lanka,Bangladesh,151,Bangladesh,R Premadasa Stadium,7,Sri Lanka
+465,34.3,0,ST Jayasuriya,2007-07-25,2nd,Abdur Razzak,0,,Mahmudullah,0,Sri Lanka,Bangladesh,151,Bangladesh,R Premadasa Stadium,8,Sri Lanka
+466,34.4,0,ST Jayasuriya,2007-07-25,2nd,Shahadat Hossain,0,,Abdur Razzak,0,Sri Lanka,Bangladesh,151,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+467,34.5,0,ST Jayasuriya,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,151,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+468,34.6,1,ST Jayasuriya,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,152,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+469,35.1,0,CRD Fernando,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,153,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+470,35.2,1,CRD Fernando,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,154,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+471,35.3,0,CRD Fernando,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,154,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+472,35.4,0,CRD Fernando,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,154,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+473,35.5,0,CRD Fernando,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,154,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+474,35.6,1,CRD Fernando,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,155,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+475,35.7,0,CRD Fernando,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,155,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+476,36.1,0,ST Jayasuriya,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,155,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+477,36.2,0,ST Jayasuriya,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,155,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+478,36.3,0,ST Jayasuriya,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,155,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+479,36.4,1,ST Jayasuriya,2007-07-25,2nd,Shahadat Hossain,0,,Syed Rasel,0,Sri Lanka,Bangladesh,156,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+480,36.5,0,ST Jayasuriya,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,156,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+481,36.6,1,ST Jayasuriya,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,157,Bangladesh,R Premadasa Stadium,9,Sri Lanka
+482,37.1,0,CRD Fernando,2007-07-25,2nd,Syed Rasel,0,,Shahadat Hossain,0,Sri Lanka,Bangladesh,157,Bangladesh,R Premadasa Stadium,10,Sri Lanka

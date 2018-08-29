@@ -1,0 +1,609 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,SM Pollock,2008-01-27,1st,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,1,West Indies,St George's Park,0,South Africa
+1,0.2,0,SM Pollock,2008-01-27,1st,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,1,West Indies,St George's Park,0,South Africa
+2,0.3,0,SM Pollock,2008-01-27,1st,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,1,West Indies,St George's Park,0,South Africa
+3,0.4,1,SM Pollock,2008-01-27,1st,S Chattergoon,0,,BA Parchment,1,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+4,0.5,0,SM Pollock,2008-01-27,1st,BA Parchment,1,,S Chattergoon,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+5,0.6,0,SM Pollock,2008-01-27,1st,BA Parchment,1,,S Chattergoon,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+6,0.7,0,SM Pollock,2008-01-27,1st,BA Parchment,1,,S Chattergoon,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+7,1.1,1,DW Steyn,2008-01-27,1st,S Chattergoon,0,,BA Parchment,2,South Africa,West Indies,3,West Indies,St George's Park,0,South Africa
+8,1.2,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,0,South Africa,West Indies,3,West Indies,St George's Park,0,South Africa
+9,1.3,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,0,South Africa,West Indies,3,West Indies,St George's Park,0,South Africa
+10,1.4,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,0,South Africa,West Indies,3,West Indies,St George's Park,0,South Africa
+11,1.5,4,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,4,South Africa,West Indies,7,West Indies,St George's Park,0,South Africa
+12,1.6,4,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,8,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+13,2.1,0,SM Pollock,2008-01-27,1st,S Chattergoon,8,,BA Parchment,2,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+14,2.2,0,SM Pollock,2008-01-27,1st,S Chattergoon,8,,BA Parchment,2,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+15,2.3,0,SM Pollock,2008-01-27,1st,S Chattergoon,8,,BA Parchment,2,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+16,2.4,0,SM Pollock,2008-01-27,1st,S Chattergoon,8,,BA Parchment,2,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+17,2.5,0,SM Pollock,2008-01-27,1st,S Chattergoon,8,,BA Parchment,2,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+18,2.6,0,SM Pollock,2008-01-27,1st,S Chattergoon,8,,BA Parchment,2,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+19,3.1,2,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,10,South Africa,West Indies,13,West Indies,St George's Park,0,South Africa
+20,3.2,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,10,South Africa,West Indies,13,West Indies,St George's Park,0,South Africa
+21,3.3,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,10,South Africa,West Indies,13,West Indies,St George's Park,0,South Africa
+22,3.4,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,10,South Africa,West Indies,13,West Indies,St George's Park,0,South Africa
+23,3.5,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,10,South Africa,West Indies,13,West Indies,St George's Park,0,South Africa
+24,3.6,0,DW Steyn,2008-01-27,1st,BA Parchment,2,,S Chattergoon,10,South Africa,West Indies,13,West Indies,St George's Park,0,South Africa
+25,4.1,0,SM Pollock,2008-01-27,1st,S Chattergoon,10,,BA Parchment,2,South Africa,West Indies,13,West Indies,St George's Park,0,South Africa
+26,4.2,1,SM Pollock,2008-01-27,1st,S Chattergoon,10,,BA Parchment,3,South Africa,West Indies,14,West Indies,St George's Park,0,South Africa
+27,4.3,0,SM Pollock,2008-01-27,1st,BA Parchment,3,,S Chattergoon,10,South Africa,West Indies,14,West Indies,St George's Park,0,South Africa
+28,4.4,0,SM Pollock,2008-01-27,1st,BA Parchment,3,,S Chattergoon,10,South Africa,West Indies,14,West Indies,St George's Park,0,South Africa
+29,4.5,4,SM Pollock,2008-01-27,1st,BA Parchment,3,,S Chattergoon,14,South Africa,West Indies,18,West Indies,St George's Park,0,South Africa
+30,4.6,0,SM Pollock,2008-01-27,1st,BA Parchment,3,,S Chattergoon,14,South Africa,West Indies,18,West Indies,St George's Park,0,South Africa
+31,5.1,0,DW Steyn,2008-01-27,1st,S Chattergoon,14,,BA Parchment,3,South Africa,West Indies,19,West Indies,St George's Park,0,South Africa
+32,5.2,0,DW Steyn,2008-01-27,1st,BA Parchment,3,,S Chattergoon,14,South Africa,West Indies,19,West Indies,St George's Park,0,South Africa
+33,5.3,1,DW Steyn,2008-01-27,1st,BA Parchment,3,,S Chattergoon,15,South Africa,West Indies,20,West Indies,St George's Park,0,South Africa
+34,5.4,0,DW Steyn,2008-01-27,1st,S Chattergoon,15,,BA Parchment,3,South Africa,West Indies,20,West Indies,St George's Park,0,South Africa
+35,5.5,0,DW Steyn,2008-01-27,1st,S Chattergoon,15,,BA Parchment,3,South Africa,West Indies,20,West Indies,St George's Park,0,South Africa
+36,5.6,2,DW Steyn,2008-01-27,1st,S Chattergoon,15,,BA Parchment,5,South Africa,West Indies,23,West Indies,St George's Park,0,South Africa
+37,5.7,0,DW Steyn,2008-01-27,1st,S Chattergoon,15,,BA Parchment,5,South Africa,West Indies,23,West Indies,St George's Park,0,South Africa
+38,6.1,0,SM Pollock,2008-01-27,1st,BA Parchment,5,,S Chattergoon,15,South Africa,West Indies,23,West Indies,St George's Park,0,South Africa
+39,6.2,1,SM Pollock,2008-01-27,1st,BA Parchment,5,,S Chattergoon,16,South Africa,West Indies,24,West Indies,St George's Park,0,South Africa
+40,6.3,0,SM Pollock,2008-01-27,1st,S Chattergoon,16,,BA Parchment,5,South Africa,West Indies,24,West Indies,St George's Park,0,South Africa
+41,6.4,0,SM Pollock,2008-01-27,1st,S Chattergoon,16,BA Parchment,BA Parchment,5,South Africa,West Indies,24,West Indies,St George's Park,1,South Africa
+42,6.5,0,SM Pollock,2008-01-27,1st,S Chattergoon,16,,PA Browne,0,South Africa,West Indies,24,West Indies,St George's Park,1,South Africa
+43,6.6,0,SM Pollock,2008-01-27,1st,S Chattergoon,16,,PA Browne,0,South Africa,West Indies,24,West Indies,St George's Park,1,South Africa
+44,7.1,2,DW Steyn,2008-01-27,1st,PA Browne,0,,S Chattergoon,18,South Africa,West Indies,26,West Indies,St George's Park,1,South Africa
+45,7.2,0,DW Steyn,2008-01-27,1st,PA Browne,0,,S Chattergoon,18,South Africa,West Indies,26,West Indies,St George's Park,1,South Africa
+46,7.3,0,DW Steyn,2008-01-27,1st,PA Browne,0,,S Chattergoon,18,South Africa,West Indies,26,West Indies,St George's Park,1,South Africa
+47,7.4,0,DW Steyn,2008-01-27,1st,PA Browne,0,,S Chattergoon,18,South Africa,West Indies,26,West Indies,St George's Park,1,South Africa
+48,7.5,1,DW Steyn,2008-01-27,1st,PA Browne,0,,S Chattergoon,19,South Africa,West Indies,27,West Indies,St George's Park,1,South Africa
+49,7.6,1,DW Steyn,2008-01-27,1st,S Chattergoon,19,,PA Browne,1,South Africa,West Indies,28,West Indies,St George's Park,1,South Africa
+50,8.1,0,SM Pollock,2008-01-27,1st,S Chattergoon,19,,PA Browne,1,South Africa,West Indies,28,West Indies,St George's Park,1,South Africa
+51,8.2,0,SM Pollock,2008-01-27,1st,S Chattergoon,19,,PA Browne,1,South Africa,West Indies,28,West Indies,St George's Park,1,South Africa
+52,8.3,2,SM Pollock,2008-01-27,1st,S Chattergoon,19,,PA Browne,3,South Africa,West Indies,30,West Indies,St George's Park,1,South Africa
+53,8.4,0,SM Pollock,2008-01-27,1st,S Chattergoon,19,,PA Browne,3,South Africa,West Indies,30,West Indies,St George's Park,1,South Africa
+54,8.5,0,SM Pollock,2008-01-27,1st,S Chattergoon,19,,PA Browne,3,South Africa,West Indies,30,West Indies,St George's Park,1,South Africa
+55,8.6,0,SM Pollock,2008-01-27,1st,S Chattergoon,19,,PA Browne,3,South Africa,West Indies,31,West Indies,St George's Park,1,South Africa
+56,8.7,6,SM Pollock,2008-01-27,1st,S Chattergoon,19,,PA Browne,9,South Africa,West Indies,37,West Indies,St George's Park,1,South Africa
+57,9.1,0,DW Steyn,2008-01-27,1st,PA Browne,9,,S Chattergoon,19,South Africa,West Indies,37,West Indies,St George's Park,1,South Africa
+58,9.2,2,DW Steyn,2008-01-27,1st,PA Browne,9,,S Chattergoon,21,South Africa,West Indies,39,West Indies,St George's Park,1,South Africa
+59,9.3,0,DW Steyn,2008-01-27,1st,PA Browne,9,,S Chattergoon,21,South Africa,West Indies,39,West Indies,St George's Park,1,South Africa
+60,9.4,4,DW Steyn,2008-01-27,1st,PA Browne,9,,S Chattergoon,25,South Africa,West Indies,43,West Indies,St George's Park,1,South Africa
+61,9.5,0,DW Steyn,2008-01-27,1st,PA Browne,9,,S Chattergoon,25,South Africa,West Indies,43,West Indies,St George's Park,1,South Africa
+62,9.6,0,DW Steyn,2008-01-27,1st,PA Browne,9,,S Chattergoon,25,South Africa,West Indies,43,West Indies,St George's Park,1,South Africa
+63,10.1,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,9,South Africa,West Indies,43,West Indies,St George's Park,1,South Africa
+64,10.2,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,9,South Africa,West Indies,43,West Indies,St George's Park,1,South Africa
+65,10.3,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,9,South Africa,West Indies,43,West Indies,St George's Park,1,South Africa
+66,10.4,2,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+67,10.5,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+68,10.6,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+69,11.1,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+70,11.2,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+71,11.3,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+72,11.4,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+73,11.5,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+74,11.6,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+75,12.1,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+76,12.2,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+77,12.3,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+78,12.4,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+79,12.5,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+80,12.6,0,SM Pollock,2008-01-27,1st,S Chattergoon,25,,PA Browne,11,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+81,13.1,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+82,13.2,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+83,13.3,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+84,13.4,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+85,13.5,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,25,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+86,13.6,1,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,26,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+87,14.1,0,M Morkel,2008-01-27,1st,PA Browne,11,,S Chattergoon,26,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+88,14.2,0,M Morkel,2008-01-27,1st,PA Browne,11,,S Chattergoon,26,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+89,14.3,0,M Morkel,2008-01-27,1st,PA Browne,11,,S Chattergoon,26,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+90,14.4,0,M Morkel,2008-01-27,1st,PA Browne,11,,S Chattergoon,26,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+91,14.5,0,M Morkel,2008-01-27,1st,PA Browne,11,,S Chattergoon,26,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+92,14.6,1,M Morkel,2008-01-27,1st,PA Browne,11,,S Chattergoon,27,South Africa,West Indies,47,West Indies,St George's Park,1,South Africa
+93,15.1,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,27,South Africa,West Indies,47,West Indies,St George's Park,1,South Africa
+94,15.2,4,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,31,South Africa,West Indies,51,West Indies,St George's Park,1,South Africa
+95,15.3,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,31,South Africa,West Indies,51,West Indies,St George's Park,1,South Africa
+96,15.4,2,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,33,South Africa,West Indies,53,West Indies,St George's Park,1,South Africa
+97,15.5,0,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,33,South Africa,West Indies,53,West Indies,St George's Park,1,South Africa
+98,15.6,4,CK Langeveldt,2008-01-27,1st,PA Browne,11,,S Chattergoon,37,South Africa,West Indies,57,West Indies,St George's Park,1,South Africa
+99,16.1,0,M Morkel,2008-01-27,1st,S Chattergoon,37,,PA Browne,11,South Africa,West Indies,57,West Indies,St George's Park,1,South Africa
+100,16.2,0,M Morkel,2008-01-27,1st,S Chattergoon,37,,PA Browne,11,South Africa,West Indies,57,West Indies,St George's Park,1,South Africa
+101,16.3,0,M Morkel,2008-01-27,1st,S Chattergoon,37,,PA Browne,11,South Africa,West Indies,57,West Indies,St George's Park,1,South Africa
+102,16.4,1,M Morkel,2008-01-27,1st,S Chattergoon,37,,PA Browne,12,South Africa,West Indies,58,West Indies,St George's Park,1,South Africa
+103,16.5,0,M Morkel,2008-01-27,1st,PA Browne,12,,S Chattergoon,37,South Africa,West Indies,58,West Indies,St George's Park,1,South Africa
+104,16.6,0,M Morkel,2008-01-27,1st,PA Browne,12,,S Chattergoon,37,South Africa,West Indies,58,West Indies,St George's Park,1,South Africa
+105,17.1,6,CK Langeveldt,2008-01-27,1st,S Chattergoon,37,,PA Browne,18,South Africa,West Indies,64,West Indies,St George's Park,1,South Africa
+106,17.2,1,CK Langeveldt,2008-01-27,1st,S Chattergoon,37,,PA Browne,19,South Africa,West Indies,65,West Indies,St George's Park,1,South Africa
+107,17.3,4,CK Langeveldt,2008-01-27,1st,PA Browne,19,,S Chattergoon,41,South Africa,West Indies,69,West Indies,St George's Park,1,South Africa
+108,17.4,2,CK Langeveldt,2008-01-27,1st,PA Browne,19,,S Chattergoon,43,South Africa,West Indies,71,West Indies,St George's Park,1,South Africa
+109,17.5,0,CK Langeveldt,2008-01-27,1st,PA Browne,19,,S Chattergoon,43,South Africa,West Indies,71,West Indies,St George's Park,1,South Africa
+110,17.6,0,CK Langeveldt,2008-01-27,1st,PA Browne,19,,S Chattergoon,43,South Africa,West Indies,71,West Indies,St George's Park,1,South Africa
+111,18.1,1,M Morkel,2008-01-27,1st,S Chattergoon,43,,PA Browne,20,South Africa,West Indies,72,West Indies,St George's Park,1,South Africa
+112,18.2,0,M Morkel,2008-01-27,1st,PA Browne,20,,S Chattergoon,43,South Africa,West Indies,72,West Indies,St George's Park,1,South Africa
+113,18.3,0,M Morkel,2008-01-27,1st,PA Browne,20,,S Chattergoon,43,South Africa,West Indies,72,West Indies,St George's Park,1,South Africa
+114,18.4,0,M Morkel,2008-01-27,1st,PA Browne,20,,S Chattergoon,43,South Africa,West Indies,72,West Indies,St George's Park,1,South Africa
+115,18.5,0,M Morkel,2008-01-27,1st,PA Browne,20,,S Chattergoon,43,South Africa,West Indies,72,West Indies,St George's Park,1,South Africa
+116,18.6,0,M Morkel,2008-01-27,1st,PA Browne,20,,S Chattergoon,43,South Africa,West Indies,72,West Indies,St George's Park,1,South Africa
+117,19.1,0,CK Langeveldt,2008-01-27,1st,S Chattergoon,43,,PA Browne,20,South Africa,West Indies,72,West Indies,St George's Park,1,South Africa
+118,19.2,1,CK Langeveldt,2008-01-27,1st,S Chattergoon,43,,PA Browne,21,South Africa,West Indies,73,West Indies,St George's Park,1,South Africa
+119,19.3,0,CK Langeveldt,2008-01-27,1st,PA Browne,21,,S Chattergoon,43,South Africa,West Indies,73,West Indies,St George's Park,1,South Africa
+120,19.4,0,CK Langeveldt,2008-01-27,1st,PA Browne,21,,S Chattergoon,43,South Africa,West Indies,73,West Indies,St George's Park,1,South Africa
+121,19.5,0,CK Langeveldt,2008-01-27,1st,PA Browne,21,,S Chattergoon,43,South Africa,West Indies,73,West Indies,St George's Park,1,South Africa
+122,19.6,6,CK Langeveldt,2008-01-27,1st,PA Browne,21,,S Chattergoon,49,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+123,20.1,0,M Morkel,2008-01-27,1st,S Chattergoon,49,,PA Browne,21,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+124,20.2,0,M Morkel,2008-01-27,1st,S Chattergoon,49,,PA Browne,21,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+125,20.3,0,M Morkel,2008-01-27,1st,S Chattergoon,49,,PA Browne,21,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+126,20.4,0,M Morkel,2008-01-27,1st,S Chattergoon,49,,PA Browne,21,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+127,20.5,0,M Morkel,2008-01-27,1st,S Chattergoon,49,,PA Browne,21,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+128,20.6,1,M Morkel,2008-01-27,1st,S Chattergoon,49,,PA Browne,22,South Africa,West Indies,80,West Indies,St George's Park,1,South Africa
+129,21.1,1,J Botha,2008-01-27,1st,S Chattergoon,49,,PA Browne,23,South Africa,West Indies,81,West Indies,St George's Park,1,South Africa
+130,21.2,0,J Botha,2008-01-27,1st,PA Browne,23,,S Chattergoon,49,South Africa,West Indies,86,West Indies,St George's Park,1,South Africa
+131,21.3,0,J Botha,2008-01-27,1st,PA Browne,23,,S Chattergoon,49,South Africa,West Indies,86,West Indies,St George's Park,1,South Africa
+132,21.4,1,J Botha,2008-01-27,1st,PA Browne,23,,S Chattergoon,50,South Africa,West Indies,87,West Indies,St George's Park,1,South Africa
+133,21.5,1,J Botha,2008-01-27,1st,S Chattergoon,50,,PA Browne,24,South Africa,West Indies,88,West Indies,St George's Park,1,South Africa
+134,21.6,0,J Botha,2008-01-27,1st,PA Browne,24,,S Chattergoon,50,South Africa,West Indies,88,West Indies,St George's Park,1,South Africa
+135,21.7,1,J Botha,2008-01-27,1st,PA Browne,24,,S Chattergoon,51,South Africa,West Indies,89,West Indies,St George's Park,1,South Africa
+136,22.1,1,M Morkel,2008-01-27,1st,PA Browne,24,,S Chattergoon,52,South Africa,West Indies,90,West Indies,St George's Park,1,South Africa
+137,22.2,0,M Morkel,2008-01-27,1st,S Chattergoon,52,,PA Browne,24,South Africa,West Indies,90,West Indies,St George's Park,1,South Africa
+138,22.3,4,M Morkel,2008-01-27,1st,S Chattergoon,52,,PA Browne,28,South Africa,West Indies,94,West Indies,St George's Park,1,South Africa
+139,22.4,0,M Morkel,2008-01-27,1st,S Chattergoon,52,,PA Browne,28,South Africa,West Indies,94,West Indies,St George's Park,1,South Africa
+140,22.5,0,M Morkel,2008-01-27,1st,S Chattergoon,52,,PA Browne,28,South Africa,West Indies,95,West Indies,St George's Park,1,South Africa
+141,22.6,4,M Morkel,2008-01-27,1st,S Chattergoon,52,,PA Browne,32,South Africa,West Indies,99,West Indies,St George's Park,1,South Africa
+142,22.7,0,M Morkel,2008-01-27,1st,S Chattergoon,52,,PA Browne,32,South Africa,West Indies,99,West Indies,St George's Park,1,South Africa
+143,23.1,0,J Botha,2008-01-27,1st,PA Browne,32,,S Chattergoon,52,South Africa,West Indies,99,West Indies,St George's Park,1,South Africa
+144,23.2,0,J Botha,2008-01-27,1st,PA Browne,32,,S Chattergoon,52,South Africa,West Indies,99,West Indies,St George's Park,1,South Africa
+145,23.3,0,J Botha,2008-01-27,1st,PA Browne,32,,S Chattergoon,52,South Africa,West Indies,99,West Indies,St George's Park,1,South Africa
+146,23.4,0,J Botha,2008-01-27,1st,PA Browne,32,S Chattergoon,S Chattergoon,52,South Africa,West Indies,99,West Indies,St George's Park,2,South Africa
+147,23.5,0,J Botha,2008-01-27,1st,PA Browne,32,,MN Samuels,0,South Africa,West Indies,99,West Indies,St George's Park,2,South Africa
+148,23.6,1,J Botha,2008-01-27,1st,PA Browne,32,,MN Samuels,1,South Africa,West Indies,100,West Indies,St George's Park,2,South Africa
+149,24.1,0,M Morkel,2008-01-27,1st,PA Browne,32,,MN Samuels,1,South Africa,West Indies,100,West Indies,St George's Park,2,South Africa
+150,24.2,0,M Morkel,2008-01-27,1st,PA Browne,32,,MN Samuels,1,South Africa,West Indies,100,West Indies,St George's Park,2,South Africa
+151,24.3,0,M Morkel,2008-01-27,1st,PA Browne,32,,MN Samuels,1,South Africa,West Indies,100,West Indies,St George's Park,2,South Africa
+152,24.4,1,M Morkel,2008-01-27,1st,PA Browne,32,,MN Samuels,2,South Africa,West Indies,101,West Indies,St George's Park,2,South Africa
+153,24.5,0,M Morkel,2008-01-27,1st,MN Samuels,2,,PA Browne,32,South Africa,West Indies,101,West Indies,St George's Park,2,South Africa
+154,24.6,0,M Morkel,2008-01-27,1st,MN Samuels,2,,PA Browne,32,South Africa,West Indies,101,West Indies,St George's Park,2,South Africa
+155,25.1,1,J Botha,2008-01-27,1st,PA Browne,32,,MN Samuels,3,South Africa,West Indies,102,West Indies,St George's Park,2,South Africa
+156,25.2,0,J Botha,2008-01-27,1st,MN Samuels,3,,PA Browne,32,South Africa,West Indies,102,West Indies,St George's Park,2,South Africa
+157,25.3,1,J Botha,2008-01-27,1st,MN Samuels,3,,PA Browne,33,South Africa,West Indies,103,West Indies,St George's Park,2,South Africa
+158,25.4,0,J Botha,2008-01-27,1st,PA Browne,33,,MN Samuels,3,South Africa,West Indies,103,West Indies,St George's Park,2,South Africa
+159,25.5,0,J Botha,2008-01-27,1st,PA Browne,33,,MN Samuels,3,South Africa,West Indies,103,West Indies,St George's Park,2,South Africa
+160,25.6,1,J Botha,2008-01-27,1st,PA Browne,33,,MN Samuels,4,South Africa,West Indies,104,West Indies,St George's Park,2,South Africa
+161,26.1,1,JH Kallis,2008-01-27,1st,PA Browne,33,,MN Samuels,5,South Africa,West Indies,105,West Indies,St George's Park,2,South Africa
+162,26.2,0,JH Kallis,2008-01-27,1st,MN Samuels,5,,PA Browne,33,South Africa,West Indies,105,West Indies,St George's Park,2,South Africa
+163,26.3,0,JH Kallis,2008-01-27,1st,MN Samuels,5,,PA Browne,33,South Africa,West Indies,105,West Indies,St George's Park,2,South Africa
+164,26.4,1,JH Kallis,2008-01-27,1st,MN Samuels,5,,PA Browne,34,South Africa,West Indies,106,West Indies,St George's Park,2,South Africa
+165,26.5,0,JH Kallis,2008-01-27,1st,PA Browne,34,,MN Samuels,5,South Africa,West Indies,106,West Indies,St George's Park,2,South Africa
+166,26.6,1,JH Kallis,2008-01-27,1st,PA Browne,34,,MN Samuels,6,South Africa,West Indies,107,West Indies,St George's Park,2,South Africa
+167,27.1,0,J Botha,2008-01-27,1st,PA Browne,34,,MN Samuels,6,South Africa,West Indies,107,West Indies,St George's Park,2,South Africa
+168,27.2,1,J Botha,2008-01-27,1st,PA Browne,34,,MN Samuels,7,South Africa,West Indies,108,West Indies,St George's Park,2,South Africa
+169,27.3,1,J Botha,2008-01-27,1st,MN Samuels,7,,PA Browne,35,South Africa,West Indies,109,West Indies,St George's Park,2,South Africa
+170,27.4,1,J Botha,2008-01-27,1st,PA Browne,35,,MN Samuels,8,South Africa,West Indies,110,West Indies,St George's Park,2,South Africa
+171,27.5,0,J Botha,2008-01-27,1st,MN Samuels,8,,PA Browne,35,South Africa,West Indies,110,West Indies,St George's Park,2,South Africa
+172,27.6,0,J Botha,2008-01-27,1st,MN Samuels,8,PA Browne,PA Browne,35,South Africa,West Indies,110,West Indies,St George's Park,3,South Africa
+173,28.1,0,JH Kallis,2008-01-27,1st,RS Morton,0,,MN Samuels,8,South Africa,West Indies,110,West Indies,St George's Park,3,South Africa
+174,28.2,0,JH Kallis,2008-01-27,1st,RS Morton,0,,MN Samuels,8,South Africa,West Indies,110,West Indies,St George's Park,3,South Africa
+175,28.3,1,JH Kallis,2008-01-27,1st,RS Morton,0,,MN Samuels,9,South Africa,West Indies,111,West Indies,St George's Park,3,South Africa
+176,28.4,0,JH Kallis,2008-01-27,1st,MN Samuels,9,,RS Morton,0,South Africa,West Indies,111,West Indies,St George's Park,3,South Africa
+177,28.5,0,JH Kallis,2008-01-27,1st,MN Samuels,9,,RS Morton,0,South Africa,West Indies,111,West Indies,St George's Park,3,South Africa
+178,28.6,1,JH Kallis,2008-01-27,1st,MN Samuels,9,,RS Morton,1,South Africa,West Indies,112,West Indies,St George's Park,3,South Africa
+179,29.1,0,J Botha,2008-01-27,1st,MN Samuels,9,,RS Morton,1,South Africa,West Indies,112,West Indies,St George's Park,3,South Africa
+180,29.2,1,J Botha,2008-01-27,1st,MN Samuels,9,,RS Morton,2,South Africa,West Indies,113,West Indies,St George's Park,3,South Africa
+181,29.3,1,J Botha,2008-01-27,1st,RS Morton,2,,MN Samuels,10,South Africa,West Indies,114,West Indies,St George's Park,3,South Africa
+182,29.4,0,J Botha,2008-01-27,1st,MN Samuels,10,,RS Morton,2,South Africa,West Indies,114,West Indies,St George's Park,3,South Africa
+183,29.5,0,J Botha,2008-01-27,1st,MN Samuels,10,,RS Morton,2,South Africa,West Indies,114,West Indies,St George's Park,3,South Africa
+184,29.6,0,J Botha,2008-01-27,1st,MN Samuels,10,,RS Morton,2,South Africa,West Indies,114,West Indies,St George's Park,3,South Africa
+185,30.1,0,JH Kallis,2008-01-27,1st,RS Morton,2,,MN Samuels,10,South Africa,West Indies,114,West Indies,St George's Park,3,South Africa
+186,30.2,2,JH Kallis,2008-01-27,1st,RS Morton,2,,MN Samuels,12,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+187,30.3,0,JH Kallis,2008-01-27,1st,RS Morton,2,,MN Samuels,12,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+188,30.4,0,JH Kallis,2008-01-27,1st,RS Morton,2,,MN Samuels,12,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+189,30.5,0,JH Kallis,2008-01-27,1st,RS Morton,2,,MN Samuels,12,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+190,30.6,0,JH Kallis,2008-01-27,1st,RS Morton,2,,MN Samuels,12,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+191,31.1,0,J Botha,2008-01-27,1st,MN Samuels,12,,RS Morton,2,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+192,31.2,0,J Botha,2008-01-27,1st,MN Samuels,12,,RS Morton,2,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+193,31.3,0,J Botha,2008-01-27,1st,MN Samuels,12,,RS Morton,2,South Africa,West Indies,116,West Indies,St George's Park,3,South Africa
+194,31.4,1,J Botha,2008-01-27,1st,MN Samuels,12,,RS Morton,3,South Africa,West Indies,117,West Indies,St George's Park,3,South Africa
+195,31.5,6,J Botha,2008-01-27,1st,RS Morton,3,,MN Samuels,18,South Africa,West Indies,123,West Indies,St George's Park,3,South Africa
+196,31.6,1,J Botha,2008-01-27,1st,RS Morton,3,,MN Samuels,19,South Africa,West Indies,124,West Indies,St George's Park,3,South Africa
+197,32.1,0,SM Pollock,2008-01-27,1st,RS Morton,3,,MN Samuels,19,South Africa,West Indies,124,West Indies,St George's Park,3,South Africa
+198,32.2,2,SM Pollock,2008-01-27,1st,RS Morton,3,,MN Samuels,21,South Africa,West Indies,126,West Indies,St George's Park,3,South Africa
+199,32.3,0,SM Pollock,2008-01-27,1st,RS Morton,3,,MN Samuels,21,South Africa,West Indies,126,West Indies,St George's Park,3,South Africa
+200,32.4,1,SM Pollock,2008-01-27,1st,RS Morton,3,,MN Samuels,22,South Africa,West Indies,127,West Indies,St George's Park,3,South Africa
+201,32.5,0,SM Pollock,2008-01-27,1st,MN Samuels,22,,RS Morton,3,South Africa,West Indies,127,West Indies,St George's Park,3,South Africa
+202,32.6,0,SM Pollock,2008-01-27,1st,MN Samuels,22,,RS Morton,3,South Africa,West Indies,127,West Indies,St George's Park,3,South Africa
+203,33.1,0,J Botha,2008-01-27,1st,RS Morton,3,,MN Samuels,22,South Africa,West Indies,127,West Indies,St George's Park,3,South Africa
+204,33.2,1,J Botha,2008-01-27,1st,RS Morton,3,,MN Samuels,23,South Africa,West Indies,128,West Indies,St George's Park,3,South Africa
+205,33.3,0,J Botha,2008-01-27,1st,MN Samuels,23,,RS Morton,3,South Africa,West Indies,128,West Indies,St George's Park,3,South Africa
+206,33.4,1,J Botha,2008-01-27,1st,MN Samuels,23,,RS Morton,4,South Africa,West Indies,129,West Indies,St George's Park,3,South Africa
+207,33.5,1,J Botha,2008-01-27,1st,RS Morton,4,,MN Samuels,24,South Africa,West Indies,130,West Indies,St George's Park,3,South Africa
+208,33.6,0,J Botha,2008-01-27,1st,MN Samuels,24,,RS Morton,4,South Africa,West Indies,130,West Indies,St George's Park,3,South Africa
+209,34.1,0,SM Pollock,2008-01-27,1st,RS Morton,4,,MN Samuels,24,South Africa,West Indies,130,West Indies,St George's Park,3,South Africa
+210,34.2,0,SM Pollock,2008-01-27,1st,RS Morton,4,,MN Samuels,24,South Africa,West Indies,130,West Indies,St George's Park,3,South Africa
+211,34.3,0,SM Pollock,2008-01-27,1st,RS Morton,4,,MN Samuels,24,South Africa,West Indies,131,West Indies,St George's Park,3,South Africa
+212,34.4,0,SM Pollock,2008-01-27,1st,RS Morton,4,,MN Samuels,24,South Africa,West Indies,131,West Indies,St George's Park,3,South Africa
+213,34.5,0,SM Pollock,2008-01-27,1st,RS Morton,4,,MN Samuels,24,South Africa,West Indies,131,West Indies,St George's Park,3,South Africa
+214,34.6,1,SM Pollock,2008-01-27,1st,RS Morton,4,,MN Samuels,25,South Africa,West Indies,132,West Indies,St George's Park,3,South Africa
+215,34.7,1,SM Pollock,2008-01-27,1st,MN Samuels,25,,RS Morton,5,South Africa,West Indies,133,West Indies,St George's Park,3,South Africa
+216,35.1,1,DW Steyn,2008-01-27,1st,MN Samuels,25,,RS Morton,6,South Africa,West Indies,134,West Indies,St George's Park,3,South Africa
+217,35.2,0,DW Steyn,2008-01-27,1st,RS Morton,6,,MN Samuels,25,South Africa,West Indies,134,West Indies,St George's Park,3,South Africa
+218,35.3,2,DW Steyn,2008-01-27,1st,RS Morton,6,,MN Samuels,27,South Africa,West Indies,136,West Indies,St George's Park,3,South Africa
+219,35.4,1,DW Steyn,2008-01-27,1st,RS Morton,6,,MN Samuels,28,South Africa,West Indies,137,West Indies,St George's Park,3,South Africa
+220,35.5,0,DW Steyn,2008-01-27,1st,MN Samuels,28,,RS Morton,6,South Africa,West Indies,141,West Indies,St George's Park,3,South Africa
+221,35.6,0,DW Steyn,2008-01-27,1st,MN Samuels,28,,RS Morton,6,South Africa,West Indies,142,West Indies,St George's Park,3,South Africa
+222,35.7,0,DW Steyn,2008-01-27,1st,MN Samuels,28,,RS Morton,6,South Africa,West Indies,142,West Indies,St George's Park,3,South Africa
+223,36.1,1,SM Pollock,2008-01-27,1st,RS Morton,6,,MN Samuels,29,South Africa,West Indies,143,West Indies,St George's Park,3,South Africa
+224,36.2,1,SM Pollock,2008-01-27,1st,MN Samuels,29,,RS Morton,7,South Africa,West Indies,144,West Indies,St George's Park,3,South Africa
+225,36.3,1,SM Pollock,2008-01-27,1st,RS Morton,7,,MN Samuels,30,South Africa,West Indies,145,West Indies,St George's Park,3,South Africa
+226,36.4,0,SM Pollock,2008-01-27,1st,MN Samuels,30,,RS Morton,7,South Africa,West Indies,145,West Indies,St George's Park,3,South Africa
+227,36.5,0,SM Pollock,2008-01-27,1st,MN Samuels,30,,RS Morton,7,South Africa,West Indies,145,West Indies,St George's Park,3,South Africa
+228,36.6,0,SM Pollock,2008-01-27,1st,MN Samuels,30,,RS Morton,7,South Africa,West Indies,145,West Indies,St George's Park,3,South Africa
+229,37.1,4,DW Steyn,2008-01-27,1st,RS Morton,7,,MN Samuels,34,South Africa,West Indies,149,West Indies,St George's Park,3,South Africa
+230,37.2,1,DW Steyn,2008-01-27,1st,RS Morton,7,,MN Samuels,35,South Africa,West Indies,150,West Indies,St George's Park,3,South Africa
+231,37.3,0,DW Steyn,2008-01-27,1st,MN Samuels,35,,RS Morton,7,South Africa,West Indies,150,West Indies,St George's Park,3,South Africa
+232,37.4,4,DW Steyn,2008-01-27,1st,MN Samuels,35,,RS Morton,11,South Africa,West Indies,154,West Indies,St George's Park,3,South Africa
+233,37.5,0,DW Steyn,2008-01-27,1st,MN Samuels,35,,RS Morton,11,South Africa,West Indies,154,West Indies,St George's Park,3,South Africa
+234,37.6,1,DW Steyn,2008-01-27,1st,MN Samuels,35,,RS Morton,12,South Africa,West Indies,155,West Indies,St George's Park,3,South Africa
+235,38.1,1,JH Kallis,2008-01-27,1st,MN Samuels,35,,RS Morton,13,South Africa,West Indies,156,West Indies,St George's Park,3,South Africa
+236,38.2,0,JH Kallis,2008-01-27,1st,RS Morton,13,,MN Samuels,35,South Africa,West Indies,156,West Indies,St George's Park,3,South Africa
+237,38.3,0,JH Kallis,2008-01-27,1st,RS Morton,13,,MN Samuels,35,South Africa,West Indies,156,West Indies,St George's Park,3,South Africa
+238,38.4,0,JH Kallis,2008-01-27,1st,RS Morton,13,,MN Samuels,35,South Africa,West Indies,156,West Indies,St George's Park,3,South Africa
+239,38.5,1,JH Kallis,2008-01-27,1st,RS Morton,13,,MN Samuels,36,South Africa,West Indies,157,West Indies,St George's Park,3,South Africa
+240,38.6,0,JH Kallis,2008-01-27,1st,MN Samuels,36,RS Morton,RS Morton,13,South Africa,West Indies,157,West Indies,St George's Park,4,South Africa
+241,39.1,1,DW Steyn,2008-01-27,1st,DJ Bravo,0,,MN Samuels,37,South Africa,West Indies,158,West Indies,St George's Park,4,South Africa
+242,39.2,1,DW Steyn,2008-01-27,1st,MN Samuels,37,,DJ Bravo,1,South Africa,West Indies,159,West Indies,St George's Park,4,South Africa
+243,39.3,0,DW Steyn,2008-01-27,1st,DJ Bravo,1,,MN Samuels,37,South Africa,West Indies,159,West Indies,St George's Park,4,South Africa
+244,39.4,1,DW Steyn,2008-01-27,1st,DJ Bravo,1,,MN Samuels,38,South Africa,West Indies,160,West Indies,St George's Park,4,South Africa
+245,39.5,0,DW Steyn,2008-01-27,1st,MN Samuels,38,,DJ Bravo,1,South Africa,West Indies,160,West Indies,St George's Park,4,South Africa
+246,39.6,1,DW Steyn,2008-01-27,1st,MN Samuels,38,,DJ Bravo,2,South Africa,West Indies,161,West Indies,St George's Park,4,South Africa
+247,40.1,0,JH Kallis,2008-01-27,1st,MN Samuels,38,,DJ Bravo,2,South Africa,West Indies,161,West Indies,St George's Park,4,South Africa
+248,40.2,0,JH Kallis,2008-01-27,1st,MN Samuels,38,,DJ Bravo,2,South Africa,West Indies,161,West Indies,St George's Park,4,South Africa
+249,40.3,1,JH Kallis,2008-01-27,1st,MN Samuels,38,,DJ Bravo,3,South Africa,West Indies,162,West Indies,St George's Park,4,South Africa
+250,40.4,1,JH Kallis,2008-01-27,1st,DJ Bravo,3,,MN Samuels,39,South Africa,West Indies,163,West Indies,St George's Park,4,South Africa
+251,40.5,0,JH Kallis,2008-01-27,1st,MN Samuels,39,,DJ Bravo,3,South Africa,West Indies,163,West Indies,St George's Park,4,South Africa
+252,40.6,0,JH Kallis,2008-01-27,1st,MN Samuels,39,,DJ Bravo,3,South Africa,West Indies,163,West Indies,St George's Park,4,South Africa
+253,41.1,2,CK Langeveldt,2008-01-27,1st,DJ Bravo,3,,MN Samuels,41,South Africa,West Indies,165,West Indies,St George's Park,4,South Africa
+254,41.2,0,CK Langeveldt,2008-01-27,1st,DJ Bravo,3,,MN Samuels,41,South Africa,West Indies,165,West Indies,St George's Park,4,South Africa
+255,41.3,0,CK Langeveldt,2008-01-27,1st,DJ Bravo,3,,MN Samuels,41,South Africa,West Indies,165,West Indies,St George's Park,4,South Africa
+256,41.4,4,CK Langeveldt,2008-01-27,1st,DJ Bravo,3,,MN Samuels,45,South Africa,West Indies,169,West Indies,St George's Park,4,South Africa
+257,41.5,1,CK Langeveldt,2008-01-27,1st,DJ Bravo,3,,MN Samuels,46,South Africa,West Indies,170,West Indies,St George's Park,4,South Africa
+258,41.6,4,CK Langeveldt,2008-01-27,1st,MN Samuels,46,,DJ Bravo,7,South Africa,West Indies,174,West Indies,St George's Park,4,South Africa
+259,42.1,0,M Morkel,2008-01-27,1st,DJ Bravo,7,DJ Bravo,MN Samuels,46,South Africa,West Indies,174,West Indies,St George's Park,5,South Africa
+260,42.2,0,M Morkel,2008-01-27,1st,DJG Sammy,0,,MN Samuels,46,South Africa,West Indies,175,West Indies,St George's Park,5,South Africa
+261,42.3,4,M Morkel,2008-01-27,1st,DJG Sammy,0,,MN Samuels,50,South Africa,West Indies,179,West Indies,St George's Park,5,South Africa
+262,42.4,4,M Morkel,2008-01-27,1st,DJG Sammy,0,,MN Samuels,54,South Africa,West Indies,183,West Indies,St George's Park,5,South Africa
+263,42.5,1,M Morkel,2008-01-27,1st,DJG Sammy,0,,MN Samuels,55,South Africa,West Indies,184,West Indies,St George's Park,5,South Africa
+264,42.6,0,M Morkel,2008-01-27,1st,MN Samuels,55,,DJG Sammy,0,South Africa,West Indies,184,West Indies,St George's Park,5,South Africa
+265,42.7,4,M Morkel,2008-01-27,1st,MN Samuels,55,,DJG Sammy,4,South Africa,West Indies,188,West Indies,St George's Park,5,South Africa
+266,43.1,0,CK Langeveldt,2008-01-27,1st,DJG Sammy,4,,MN Samuels,55,South Africa,West Indies,188,West Indies,St George's Park,5,South Africa
+267,43.2,1,CK Langeveldt,2008-01-27,1st,DJG Sammy,4,,MN Samuels,56,South Africa,West Indies,189,West Indies,St George's Park,5,South Africa
+268,43.3,0,CK Langeveldt,2008-01-27,1st,MN Samuels,56,,DJG Sammy,4,South Africa,West Indies,189,West Indies,St George's Park,5,South Africa
+269,43.4,2,CK Langeveldt,2008-01-27,1st,MN Samuels,56,,DJG Sammy,6,South Africa,West Indies,191,West Indies,St George's Park,5,South Africa
+270,43.5,6,CK Langeveldt,2008-01-27,1st,MN Samuels,56,,DJG Sammy,12,South Africa,West Indies,197,West Indies,St George's Park,5,South Africa
+271,43.6,0,CK Langeveldt,2008-01-27,1st,MN Samuels,56,DJG Sammy,DJG Sammy,12,South Africa,West Indies,197,West Indies,St George's Park,6,South Africa
+272,44.1,1,M Morkel,2008-01-27,1st,MN Samuels,56,,D Ramdin,1,South Africa,West Indies,198,West Indies,St George's Park,6,South Africa
+273,44.2,1,M Morkel,2008-01-27,1st,D Ramdin,1,,MN Samuels,57,South Africa,West Indies,199,West Indies,St George's Park,6,South Africa
+274,44.3,1,M Morkel,2008-01-27,1st,MN Samuels,57,,D Ramdin,2,South Africa,West Indies,200,West Indies,St George's Park,6,South Africa
+275,44.4,4,M Morkel,2008-01-27,1st,D Ramdin,2,,MN Samuels,61,South Africa,West Indies,204,West Indies,St George's Park,6,South Africa
+276,44.5,6,M Morkel,2008-01-27,1st,D Ramdin,2,,MN Samuels,67,South Africa,West Indies,210,West Indies,St George's Park,6,South Africa
+277,44.6,1,M Morkel,2008-01-27,1st,D Ramdin,2,,MN Samuels,68,South Africa,West Indies,211,West Indies,St George's Park,6,South Africa
+278,45.1,0,DW Steyn,2008-01-27,1st,D Ramdin,2,,MN Samuels,68,South Africa,West Indies,211,West Indies,St George's Park,6,South Africa
+279,45.2,1,DW Steyn,2008-01-27,1st,D Ramdin,2,,MN Samuels,69,South Africa,West Indies,212,West Indies,St George's Park,6,South Africa
+280,45.3,0,DW Steyn,2008-01-27,1st,MN Samuels,69,,D Ramdin,2,South Africa,West Indies,212,West Indies,St George's Park,6,South Africa
+281,45.4,1,DW Steyn,2008-01-27,1st,MN Samuels,69,,D Ramdin,3,South Africa,West Indies,213,West Indies,St George's Park,6,South Africa
+282,45.5,4,DW Steyn,2008-01-27,1st,D Ramdin,3,,MN Samuels,73,South Africa,West Indies,217,West Indies,St George's Park,6,South Africa
+283,45.6,0,DW Steyn,2008-01-27,1st,D Ramdin,3,,MN Samuels,73,South Africa,West Indies,217,West Indies,St George's Park,6,South Africa
+284,46.1,1,CK Langeveldt,2008-01-27,1st,MN Samuels,73,,D Ramdin,4,South Africa,West Indies,218,West Indies,St George's Park,6,South Africa
+285,46.2,1,CK Langeveldt,2008-01-27,1st,D Ramdin,4,,MN Samuels,74,South Africa,West Indies,219,West Indies,St George's Park,6,South Africa
+286,46.3,0,CK Langeveldt,2008-01-27,1st,MN Samuels,74,,D Ramdin,4,South Africa,West Indies,219,West Indies,St George's Park,6,South Africa
+287,46.4,1,CK Langeveldt,2008-01-27,1st,MN Samuels,74,,D Ramdin,5,South Africa,West Indies,220,West Indies,St George's Park,6,South Africa
+288,46.5,6,CK Langeveldt,2008-01-27,1st,D Ramdin,5,,MN Samuels,80,South Africa,West Indies,226,West Indies,St George's Park,6,South Africa
+289,46.6,1,CK Langeveldt,2008-01-27,1st,D Ramdin,5,,MN Samuels,81,South Africa,West Indies,227,West Indies,St George's Park,6,South Africa
+290,47.1,1,DW Steyn,2008-01-27,1st,D Ramdin,5,,MN Samuels,82,South Africa,West Indies,228,West Indies,St George's Park,6,South Africa
+291,47.2,1,DW Steyn,2008-01-27,1st,MN Samuels,82,,D Ramdin,6,South Africa,West Indies,229,West Indies,St George's Park,6,South Africa
+292,47.3,0,DW Steyn,2008-01-27,1st,D Ramdin,6,,MN Samuels,82,South Africa,West Indies,230,West Indies,St George's Park,6,South Africa
+293,47.4,2,DW Steyn,2008-01-27,1st,D Ramdin,6,,MN Samuels,84,South Africa,West Indies,232,West Indies,St George's Park,6,South Africa
+294,47.5,6,DW Steyn,2008-01-27,1st,D Ramdin,6,,MN Samuels,90,South Africa,West Indies,238,West Indies,St George's Park,6,South Africa
+295,47.6,0,DW Steyn,2008-01-27,1st,D Ramdin,6,,MN Samuels,90,South Africa,West Indies,238,West Indies,St George's Park,6,South Africa
+296,47.7,1,DW Steyn,2008-01-27,1st,D Ramdin,6,,MN Samuels,91,South Africa,West Indies,239,West Indies,St George's Park,6,South Africa
+297,48.1,1,CK Langeveldt,2008-01-27,1st,D Ramdin,6,,MN Samuels,92,South Africa,West Indies,240,West Indies,St George's Park,6,South Africa
+298,48.2,2,CK Langeveldt,2008-01-27,1st,MN Samuels,92,,D Ramdin,8,South Africa,West Indies,242,West Indies,St George's Park,6,South Africa
+299,48.3,2,CK Langeveldt,2008-01-27,1st,MN Samuels,92,,D Ramdin,10,South Africa,West Indies,244,West Indies,St George's Park,6,South Africa
+300,48.4,1,CK Langeveldt,2008-01-27,1st,MN Samuels,92,,D Ramdin,11,South Africa,West Indies,245,West Indies,St George's Park,6,South Africa
+301,48.5,1,CK Langeveldt,2008-01-27,1st,D Ramdin,11,,MN Samuels,93,South Africa,West Indies,246,West Indies,St George's Park,6,South Africa
+302,48.6,0,CK Langeveldt,2008-01-27,1st,MN Samuels,93,,D Ramdin,11,South Africa,West Indies,246,West Indies,St George's Park,6,South Africa
+303,49.1,4,M Morkel,2008-01-27,1st,D Ramdin,11,,MN Samuels,97,South Africa,West Indies,250,West Indies,St George's Park,6,South Africa
+304,49.2,1,M Morkel,2008-01-27,1st,D Ramdin,11,,MN Samuels,98,South Africa,West Indies,251,West Indies,St George's Park,6,South Africa
+305,49.3,0,M Morkel,2008-01-27,1st,MN Samuels,98,,D Ramdin,11,South Africa,West Indies,251,West Indies,St George's Park,6,South Africa
+306,49.4,1,M Morkel,2008-01-27,1st,MN Samuels,98,,D Ramdin,12,South Africa,West Indies,252,West Indies,St George's Park,6,South Africa
+307,49.5,0,M Morkel,2008-01-27,1st,D Ramdin,12,,MN Samuels,98,South Africa,West Indies,252,West Indies,St George's Park,6,South Africa
+308,49.6,0,M Morkel,2008-01-27,1st,D Ramdin,12,MN Samuels,MN Samuels,98,South Africa,West Indies,252,West Indies,St George's Park,7,South Africa
+309,0.1,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,0,West Indies,St George's Park,0,South Africa
+310,0.2,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,1,West Indies,St George's Park,0,South Africa
+311,0.3,0,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,1,West Indies,St George's Park,0,South Africa
+312,0.4,0,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,1,West Indies,St George's Park,0,South Africa
+313,0.5,0,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,1,West Indies,St George's Park,0,South Africa
+314,0.6,1,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+315,1.1,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+316,1.2,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+317,1.3,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+318,1.4,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+319,1.5,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,2,West Indies,St George's Park,0,South Africa
+320,1.6,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,3,West Indies,St George's Park,0,South Africa
+321,1.7,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,4,West Indies,St George's Park,0,South Africa
+322,1.8,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,4,West Indies,St George's Park,0,South Africa
+323,2.1,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,4,West Indies,St George's Park,0,South Africa
+324,2.2,1,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,5,West Indies,St George's Park,0,South Africa
+325,2.3,0,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,5,West Indies,St George's Park,0,South Africa
+326,2.4,1,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,6,West Indies,St George's Park,0,South Africa
+327,2.5,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,6,West Indies,St George's Park,0,South Africa
+328,2.6,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,6,West Indies,St George's Park,0,South Africa
+329,3.1,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,6,West Indies,St George's Park,0,South Africa
+330,3.2,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,6,West Indies,St George's Park,0,South Africa
+331,3.3,4,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,10,West Indies,St George's Park,0,South Africa
+332,3.4,0,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,10,West Indies,St George's Park,0,South Africa
+333,3.5,1,DBL Powell,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+334,3.6,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,11,West Indies,St George's Park,0,South Africa
+335,4.1,4,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,15,West Indies,St George's Park,0,South Africa
+336,4.2,1,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,16,West Indies,St George's Park,0,South Africa
+337,4.3,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,16,West Indies,St George's Park,0,South Africa
+338,4.4,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,16,West Indies,St George's Park,0,South Africa
+339,4.5,1,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,17,West Indies,St George's Park,0,South Africa
+340,4.6,4,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,21,West Indies,St George's Park,0,South Africa
+341,5.1,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,21,West Indies,St George's Park,0,South Africa
+342,5.2,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,21,West Indies,St George's Park,0,South Africa
+343,5.3,4,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,25,West Indies,St George's Park,0,South Africa
+344,5.4,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,26,West Indies,St George's Park,0,South Africa
+345,5.5,4,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,30,West Indies,St George's Park,0,South Africa
+346,5.6,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,30,West Indies,St George's Park,0,South Africa
+347,5.7,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,30,West Indies,St George's Park,0,South Africa
+348,6.1,4,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,34,West Indies,St George's Park,0,South Africa
+349,6.2,0,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,34,West Indies,St George's Park,0,South Africa
+350,6.3,0,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,34,West Indies,St George's Park,0,South Africa
+351,6.4,0,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,34,West Indies,St George's Park,0,South Africa
+352,6.5,1,JE Taylor,2008-01-27,2nd,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,35,West Indies,St George's Park,0,South Africa
+353,6.6,1,JE Taylor,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,36,West Indies,St George's Park,0,South Africa
+354,7.1,4,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,40,West Indies,St George's Park,0,South Africa
+355,7.2,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,40,West Indies,St George's Park,1,South Africa
+356,7.3,1,DBL Powell,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,41,West Indies,St George's Park,1,South Africa
+357,7.4,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,41,West Indies,St George's Park,1,South Africa
+358,7.5,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,41,West Indies,St George's Park,1,South Africa
+359,7.6,4,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+360,8.1,0,JE Taylor,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+361,8.2,0,JE Taylor,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+362,8.3,0,JE Taylor,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,45,West Indies,St George's Park,1,South Africa
+363,8.4,1,JE Taylor,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+364,8.5,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,46,West Indies,St George's Park,1,South Africa
+365,8.6,1,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,47,West Indies,St George's Park,1,South Africa
+366,9.1,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,47,West Indies,St George's Park,1,South Africa
+367,9.2,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,47,West Indies,St George's Park,1,South Africa
+368,9.3,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,47,West Indies,St George's Park,1,South Africa
+369,9.4,1,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+370,9.5,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+371,9.6,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+372,10.1,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+373,10.2,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+374,10.3,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+375,10.4,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+376,10.5,0,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,48,West Indies,St George's Park,1,South Africa
+377,10.6,1,JE Taylor,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,49,West Indies,St George's Park,1,South Africa
+378,11.1,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,49,West Indies,St George's Park,1,South Africa
+379,11.2,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,49,West Indies,St George's Park,1,South Africa
+380,11.3,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,49,West Indies,St George's Park,1,South Africa
+381,11.4,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,49,West Indies,St George's Park,1,South Africa
+382,11.5,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,49,West Indies,St George's Park,1,South Africa
+383,11.6,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,49,West Indies,St George's Park,1,South Africa
+384,12.1,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,50,West Indies,St George's Park,1,South Africa
+385,12.2,4,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,54,West Indies,St George's Park,1,South Africa
+386,12.3,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,54,West Indies,St George's Park,1,South Africa
+387,12.4,4,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,58,West Indies,St George's Park,1,South Africa
+388,12.5,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,58,West Indies,St George's Park,1,South Africa
+389,12.6,2,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,60,West Indies,St George's Park,1,South Africa
+390,13.1,4,DBL Powell,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,64,West Indies,St George's Park,1,South Africa
+391,13.2,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,64,West Indies,St George's Park,1,South Africa
+392,13.3,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,64,West Indies,St George's Park,1,South Africa
+393,13.4,1,DBL Powell,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,65,West Indies,St George's Park,1,South Africa
+394,13.5,0,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,65,West Indies,St George's Park,1,South Africa
+395,13.6,1,DBL Powell,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,66,West Indies,St George's Park,1,South Africa
+396,14.1,4,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,70,West Indies,St George's Park,1,South Africa
+397,14.2,4,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,74,West Indies,St George's Park,1,South Africa
+398,14.3,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,74,West Indies,St George's Park,1,South Africa
+399,14.4,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,74,West Indies,St George's Park,1,South Africa
+400,14.5,1,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,75,West Indies,St George's Park,1,South Africa
+401,14.6,0,FH Edwards,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,75,West Indies,St George's Park,1,South Africa
+402,15.1,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,76,West Indies,St George's Park,1,South Africa
+403,15.2,2,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,78,West Indies,St George's Park,1,South Africa
+404,15.3,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+405,15.4,0,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+406,15.5,0,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,79,West Indies,St George's Park,1,South Africa
+407,15.6,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,80,West Indies,St George's Park,1,South Africa
+408,16.1,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,80,West Indies,St George's Park,1,South Africa
+409,16.2,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,80,West Indies,St George's Park,1,South Africa
+410,16.3,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,80,West Indies,St George's Park,1,South Africa
+411,16.4,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,80,West Indies,St George's Park,1,South Africa
+412,16.5,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,81,West Indies,St George's Park,1,South Africa
+413,16.6,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,81,West Indies,St George's Park,1,South Africa
+414,16.7,1,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,82,West Indies,St George's Park,1,South Africa
+415,17.1,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,83,West Indies,St George's Park,1,South Africa
+416,17.2,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,84,West Indies,St George's Park,1,South Africa
+417,17.3,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,85,West Indies,St George's Park,1,South Africa
+418,17.4,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,86,West Indies,St George's Park,1,South Africa
+419,17.5,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,87,West Indies,St George's Park,1,South Africa
+420,17.6,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,88,West Indies,St George's Park,1,South Africa
+421,18.1,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,89,West Indies,St George's Park,1,South Africa
+422,18.2,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,89,West Indies,St George's Park,1,South Africa
+423,18.3,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,89,West Indies,St George's Park,1,South Africa
+424,18.4,0,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,89,West Indies,St George's Park,1,South Africa
+425,18.5,1,FH Edwards,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,90,West Indies,St George's Park,1,South Africa
+426,18.6,4,FH Edwards,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,94,West Indies,St George's Park,1,South Africa
+427,19.1,0,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,94,West Indies,St George's Park,1,South Africa
+428,19.2,3,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,97,West Indies,St George's Park,1,South Africa
+429,19.3,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,98,West Indies,St George's Park,1,South Africa
+430,19.4,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,99,West Indies,St George's Park,1,South Africa
+431,19.5,2,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,101,West Indies,St George's Park,1,South Africa
+432,19.6,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,102,West Indies,St George's Park,1,South Africa
+433,20.1,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,103,West Indies,St George's Park,1,South Africa
+434,20.2,1,MN Samuels,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,104,West Indies,St George's Park,1,South Africa
+435,20.3,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,104,West Indies,St George's Park,1,South Africa
+436,20.4,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,105,West Indies,St George's Park,1,South Africa
+437,20.5,1,MN Samuels,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,106,West Indies,St George's Park,1,South Africa
+438,20.6,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,106,West Indies,St George's Park,1,South Africa
+439,21.1,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,107,West Indies,St George's Park,1,South Africa
+440,21.2,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,107,West Indies,St George's Park,1,South Africa
+441,21.3,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,108,West Indies,St George's Park,1,South Africa
+442,21.4,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,109,West Indies,St George's Park,1,South Africa
+443,21.5,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,109,West Indies,St George's Park,1,South Africa
+444,21.6,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,110,West Indies,St George's Park,1,South Africa
+445,22.1,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,111,West Indies,St George's Park,1,South Africa
+446,22.2,1,MN Samuels,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,112,West Indies,St George's Park,1,South Africa
+447,22.3,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,113,West Indies,St George's Park,1,South Africa
+448,22.4,1,MN Samuels,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,114,West Indies,St George's Park,1,South Africa
+449,22.5,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,115,West Indies,St George's Park,1,South Africa
+450,22.6,1,MN Samuels,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,116,West Indies,St George's Park,1,South Africa
+451,23.1,1,DJG Sammy,2008-01-27,2nd,GC Smith,0,,JH Kallis,0,South Africa,West Indies,117,West Indies,St George's Park,1,South Africa
+452,23.2,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,117,West Indies,St George's Park,1,South Africa
+453,23.3,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,117,West Indies,St George's Park,1,South Africa
+454,23.4,4,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,121,West Indies,St George's Park,1,South Africa
+455,23.5,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,121,West Indies,St George's Park,1,South Africa
+456,23.6,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,122,West Indies,St George's Park,1,South Africa
+457,24.1,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,GC Smith,0,South Africa,West Indies,122,West Indies,St George's Park,2,South Africa
+458,24.2,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,122,West Indies,St George's Park,2,South Africa
+459,24.3,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,123,West Indies,St George's Park,2,South Africa
+460,24.4,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,124,West Indies,St George's Park,2,South Africa
+461,24.5,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,124,West Indies,St George's Park,2,South Africa
+462,24.6,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,124,West Indies,St George's Park,2,South Africa
+463,25.1,1,DJG Sammy,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,125,West Indies,St George's Park,2,South Africa
+464,25.2,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,126,West Indies,St George's Park,2,South Africa
+465,25.3,0,DJG Sammy,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,126,West Indies,St George's Park,2,South Africa
+466,25.4,0,DJG Sammy,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,126,West Indies,St George's Park,2,South Africa
+467,25.5,1,DJG Sammy,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,127,West Indies,St George's Park,2,South Africa
+468,25.6,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,127,West Indies,St George's Park,2,South Africa
+469,26.1,0,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,127,West Indies,St George's Park,2,South Africa
+470,26.2,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,128,West Indies,St George's Park,2,South Africa
+471,26.3,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,129,West Indies,St George's Park,2,South Africa
+472,26.4,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,130,West Indies,St George's Park,2,South Africa
+473,26.5,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,130,West Indies,St George's Park,2,South Africa
+474,26.6,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,130,West Indies,St George's Park,2,South Africa
+475,27.1,0,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,130,West Indies,St George's Park,2,South Africa
+476,27.2,0,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,130,West Indies,St George's Park,2,South Africa
+477,27.3,1,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,131,West Indies,St George's Park,2,South Africa
+478,27.4,2,JE Taylor,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,133,West Indies,St George's Park,2,South Africa
+479,27.5,1,JE Taylor,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,134,West Indies,St George's Park,2,South Africa
+480,27.6,1,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,135,West Indies,St George's Park,2,South Africa
+481,28.1,0,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,135,West Indies,St George's Park,2,South Africa
+482,28.2,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,136,West Indies,St George's Park,2,South Africa
+483,28.3,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,137,West Indies,St George's Park,2,South Africa
+484,28.4,0,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,137,West Indies,St George's Park,2,South Africa
+485,28.5,4,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,141,West Indies,St George's Park,2,South Africa
+486,28.6,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,142,West Indies,St George's Park,2,South Africa
+487,29.1,1,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,143,West Indies,St George's Park,2,South Africa
+488,29.2,0,JE Taylor,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,144,West Indies,St George's Park,2,South Africa
+489,29.3,1,JE Taylor,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,145,West Indies,St George's Park,2,South Africa
+490,29.4,0,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,145,West Indies,St George's Park,2,South Africa
+491,29.5,0,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,145,West Indies,St George's Park,2,South Africa
+492,29.6,0,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,145,West Indies,St George's Park,2,South Africa
+493,29.7,4,JE Taylor,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,149,West Indies,St George's Park,2,South Africa
+494,30.1,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,150,West Indies,St George's Park,2,South Africa
+495,30.2,0,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,150,West Indies,St George's Park,2,South Africa
+496,30.3,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,151,West Indies,St George's Park,2,South Africa
+497,30.4,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,151,West Indies,St George's Park,2,South Africa
+498,30.5,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,151,West Indies,St George's Park,2,South Africa
+499,30.6,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,152,West Indies,St George's Park,2,South Africa
+500,31.1,4,FH Edwards,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,156,West Indies,St George's Park,2,South Africa
+501,31.2,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,157,West Indies,St George's Park,2,South Africa
+502,31.3,1,FH Edwards,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,158,West Indies,St George's Park,2,South Africa
+503,31.4,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,159,West Indies,St George's Park,2,South Africa
+504,31.5,1,FH Edwards,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,160,West Indies,St George's Park,2,South Africa
+505,31.6,0,FH Edwards,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,160,West Indies,St George's Park,2,South Africa
+506,32.1,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,161,West Indies,St George's Park,2,South Africa
+507,32.2,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,162,West Indies,St George's Park,2,South Africa
+508,32.3,0,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,162,West Indies,St George's Park,2,South Africa
+509,32.4,4,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,166,West Indies,St George's Park,2,South Africa
+510,32.5,1,MN Samuels,2008-01-27,2nd,AB de Villiers,0,,JH Kallis,0,South Africa,West Indies,167,West Indies,St George's Park,2,South Africa
+511,32.6,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,168,West Indies,St George's Park,2,South Africa
+512,33.1,0,FH Edwards,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,168,West Indies,St George's Park,2,South Africa
+513,33.2,0,FH Edwards,2008-01-27,2nd,JH Kallis,0,,AB de Villiers,0,South Africa,West Indies,168,West Indies,St George's Park,3,South Africa
+514,33.3,0,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,168,West Indies,St George's Park,3,South Africa
+515,33.4,2,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,170,West Indies,St George's Park,3,South Africa
+516,33.5,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,171,West Indies,St George's Park,3,South Africa
+517,33.6,4,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,175,West Indies,St George's Park,3,South Africa
+518,34.1,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,175,West Indies,St George's Park,3,South Africa
+519,34.2,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,175,West Indies,St George's Park,3,South Africa
+520,34.3,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,175,West Indies,St George's Park,3,South Africa
+521,34.4,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,176,West Indies,St George's Park,3,South Africa
+522,34.5,0,MN Samuels,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,176,West Indies,St George's Park,3,South Africa
+523,34.6,1,MN Samuels,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,177,West Indies,St George's Park,3,South Africa
+524,35.1,1,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,178,West Indies,St George's Park,3,South Africa
+525,35.2,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,179,West Indies,St George's Park,3,South Africa
+526,35.3,0,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,179,West Indies,St George's Park,3,South Africa
+527,35.4,0,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,179,West Indies,St George's Park,3,South Africa
+528,35.5,0,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,180,West Indies,St George's Park,3,South Africa
+529,35.6,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,181,West Indies,St George's Park,3,South Africa
+530,36.1,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,181,West Indies,St George's Park,3,South Africa
+531,36.2,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,182,West Indies,St George's Park,3,South Africa
+532,36.3,0,MN Samuels,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,182,West Indies,St George's Park,3,South Africa
+533,36.4,0,MN Samuels,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,182,West Indies,St George's Park,3,South Africa
+534,36.5,1,MN Samuels,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,183,West Indies,St George's Park,3,South Africa
+535,36.6,1,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,184,West Indies,St George's Park,3,South Africa
+536,37.1,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,185,West Indies,St George's Park,3,South Africa
+537,37.2,1,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,186,West Indies,St George's Park,3,South Africa
+538,37.3,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,187,West Indies,St George's Park,3,South Africa
+539,37.4,0,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,187,West Indies,St George's Park,3,South Africa
+540,37.5,0,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,187,West Indies,St George's Park,3,South Africa
+541,37.6,6,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,193,West Indies,St George's Park,3,South Africa
+542,38.1,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,193,West Indies,St George's Park,3,South Africa
+543,38.2,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,193,West Indies,St George's Park,3,South Africa
+544,38.3,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,193,West Indies,St George's Park,3,South Africa
+545,38.4,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,193,West Indies,St George's Park,3,South Africa
+546,38.5,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,193,West Indies,St George's Park,3,South Africa
+547,38.6,0,MN Samuels,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,193,West Indies,St George's Park,3,South Africa
+548,39.1,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,194,West Indies,St George's Park,3,South Africa
+549,39.2,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,195,West Indies,St George's Park,3,South Africa
+550,39.3,0,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,195,West Indies,St George's Park,3,South Africa
+551,39.4,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,196,West Indies,St George's Park,3,South Africa
+552,39.5,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,196,West Indies,St George's Park,3,South Africa
+553,39.6,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,197,West Indies,St George's Park,3,South Africa
+554,40.1,1,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,198,West Indies,St George's Park,3,South Africa
+555,40.2,0,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,198,West Indies,St George's Park,3,South Africa
+556,40.3,1,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,199,West Indies,St George's Park,3,South Africa
+557,40.4,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,199,West Indies,St George's Park,3,South Africa
+558,40.5,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,199,West Indies,St George's Park,3,South Africa
+559,40.6,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,199,West Indies,St George's Park,3,South Africa
+560,41.1,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,200,West Indies,St George's Park,3,South Africa
+561,41.2,4,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,204,West Indies,St George's Park,3,South Africa
+562,41.3,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,205,West Indies,St George's Park,3,South Africa
+563,41.4,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,206,West Indies,St George's Park,3,South Africa
+564,41.5,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,207,West Indies,St George's Park,3,South Africa
+565,41.6,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,208,West Indies,St George's Park,3,South Africa
+566,42.1,1,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,209,West Indies,St George's Park,3,South Africa
+567,42.2,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,209,West Indies,St George's Park,3,South Africa
+568,42.3,1,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,210,West Indies,St George's Park,3,South Africa
+569,42.4,0,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,210,West Indies,St George's Park,3,South Africa
+570,42.5,2,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,212,West Indies,St George's Park,3,South Africa
+571,42.6,1,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,213,West Indies,St George's Park,3,South Africa
+572,43.1,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,214,West Indies,St George's Park,3,South Africa
+573,43.2,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,215,West Indies,St George's Park,3,South Africa
+574,43.3,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,216,West Indies,St George's Park,3,South Africa
+575,43.4,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,217,West Indies,St George's Park,3,South Africa
+576,43.5,4,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,221,West Indies,St George's Park,3,South Africa
+577,43.6,0,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,221,West Indies,St George's Park,3,South Africa
+578,44.1,1,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,222,West Indies,St George's Park,3,South Africa
+579,44.2,1,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,223,West Indies,St George's Park,3,South Africa
+580,44.3,1,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,224,West Indies,St George's Park,3,South Africa
+581,44.4,1,DBL Powell,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,225,West Indies,St George's Park,3,South Africa
+582,44.5,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,225,West Indies,St George's Park,3,South Africa
+583,44.6,0,DBL Powell,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,225,West Indies,St George's Park,3,South Africa
+584,45.1,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,226,West Indies,St George's Park,3,South Africa
+585,45.2,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,226,West Indies,St George's Park,3,South Africa
+586,45.3,6,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,232,West Indies,St George's Park,3,South Africa
+587,45.4,0,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,233,West Indies,St George's Park,3,South Africa
+588,45.5,1,DJG Sammy,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,234,West Indies,St George's Park,3,South Africa
+589,45.6,1,DJG Sammy,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,235,West Indies,St George's Park,3,South Africa
+590,46.1,1,JE Taylor,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,236,West Indies,St George's Park,3,South Africa
+591,46.2,1,JE Taylor,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,237,West Indies,St George's Park,3,South Africa
+592,46.3,0,JE Taylor,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,238,West Indies,St George's Park,3,South Africa
+593,46.4,0,JE Taylor,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,238,West Indies,St George's Park,3,South Africa
+594,46.5,1,JE Taylor,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,239,West Indies,St George's Park,3,South Africa
+595,46.6,4,JE Taylor,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,243,West Indies,St George's Park,3,South Africa
+596,46.7,1,JE Taylor,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,244,West Indies,St George's Park,3,South Africa
+597,47.1,1,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,245,West Indies,St George's Park,3,South Africa
+598,47.2,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,246,West Indies,St George's Park,3,South Africa
+599,47.3,1,FH Edwards,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,247,West Indies,St George's Park,3,South Africa
+600,47.4,0,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,247,West Indies,St George's Park,3,South Africa
+601,47.5,0,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,247,West Indies,St George's Park,3,South Africa
+602,47.6,1,FH Edwards,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,248,West Indies,St George's Park,3,South Africa
+603,48.1,0,JE Taylor,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,249,West Indies,St George's Park,3,South Africa
+604,48.2,1,JE Taylor,2008-01-27,2nd,JH Kallis,0,,JP Duminy,0,South Africa,West Indies,250,West Indies,St George's Park,3,South Africa
+605,48.3,0,JE Taylor,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,250,West Indies,St George's Park,3,South Africa
+606,48.4,2,JE Taylor,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,252,West Indies,St George's Park,3,South Africa
+607,48.5,4,JE Taylor,2008-01-27,2nd,JP Duminy,0,,JH Kallis,0,South Africa,West Indies,256,West Indies,St George's Park,3,South Africa

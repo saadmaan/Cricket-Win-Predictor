@@ -1,0 +1,595 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,0,,HM Amla,0,South Africa,Bangladesh,0,South Africa,Senwes Park,0,South Africa
+1,0.2,4,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,0,,HM Amla,4,South Africa,Bangladesh,4,South Africa,Senwes Park,0,South Africa
+2,0.3,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,0,,HM Amla,4,South Africa,Bangladesh,4,South Africa,Senwes Park,0,South Africa
+3,0.4,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,0,,HM Amla,4,South Africa,Bangladesh,4,South Africa,Senwes Park,0,South Africa
+4,0.5,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,0,,HM Amla,4,South Africa,Bangladesh,4,South Africa,Senwes Park,0,South Africa
+5,0.6,1,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,0,,HM Amla,5,South Africa,Bangladesh,5,South Africa,Senwes Park,0,South Africa
+6,1.1,0,Syed Rasel,2008-11-07,1st,JL Ontong,0,,HM Amla,5,South Africa,Bangladesh,5,South Africa,Senwes Park,0,South Africa
+7,1.2,0,Syed Rasel,2008-11-07,1st,JL Ontong,0,,HM Amla,5,South Africa,Bangladesh,5,South Africa,Senwes Park,0,South Africa
+8,1.3,0,Syed Rasel,2008-11-07,1st,JL Ontong,0,,HM Amla,5,South Africa,Bangladesh,6,South Africa,Senwes Park,0,South Africa
+9,1.4,0,Syed Rasel,2008-11-07,1st,JL Ontong,0,,HM Amla,5,South Africa,Bangladesh,6,South Africa,Senwes Park,0,South Africa
+10,1.5,0,Syed Rasel,2008-11-07,1st,JL Ontong,0,,HM Amla,5,South Africa,Bangladesh,6,South Africa,Senwes Park,0,South Africa
+11,1.6,0,Syed Rasel,2008-11-07,1st,JL Ontong,0,,HM Amla,5,South Africa,Bangladesh,6,South Africa,Senwes Park,0,South Africa
+12,1.7,4,Syed Rasel,2008-11-07,1st,JL Ontong,0,,HM Amla,9,South Africa,Bangladesh,10,South Africa,Senwes Park,0,South Africa
+13,2.1,0,Mashrafe Mortaza,2008-11-07,1st,HM Amla,9,,JL Ontong,0,South Africa,Bangladesh,10,South Africa,Senwes Park,0,South Africa
+14,2.2,0,Mashrafe Mortaza,2008-11-07,1st,HM Amla,9,,JL Ontong,0,South Africa,Bangladesh,10,South Africa,Senwes Park,0,South Africa
+15,2.3,0,Mashrafe Mortaza,2008-11-07,1st,HM Amla,9,,JL Ontong,0,South Africa,Bangladesh,10,South Africa,Senwes Park,0,South Africa
+16,2.4,1,Mashrafe Mortaza,2008-11-07,1st,HM Amla,9,,JL Ontong,1,South Africa,Bangladesh,11,South Africa,Senwes Park,0,South Africa
+17,2.5,4,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,1,,HM Amla,13,South Africa,Bangladesh,15,South Africa,Senwes Park,0,South Africa
+18,2.6,4,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,1,,HM Amla,17,South Africa,Bangladesh,19,South Africa,Senwes Park,0,South Africa
+19,3.1,0,Syed Rasel,2008-11-07,1st,HM Amla,17,,JL Ontong,1,South Africa,Bangladesh,19,South Africa,Senwes Park,0,South Africa
+20,3.2,0,Syed Rasel,2008-11-07,1st,HM Amla,17,,JL Ontong,1,South Africa,Bangladesh,19,South Africa,Senwes Park,0,South Africa
+21,3.3,0,Syed Rasel,2008-11-07,1st,HM Amla,17,,JL Ontong,1,South Africa,Bangladesh,19,South Africa,Senwes Park,0,South Africa
+22,3.4,0,Syed Rasel,2008-11-07,1st,HM Amla,17,,JL Ontong,1,South Africa,Bangladesh,19,South Africa,Senwes Park,0,South Africa
+23,3.5,4,Syed Rasel,2008-11-07,1st,HM Amla,17,,JL Ontong,5,South Africa,Bangladesh,23,South Africa,Senwes Park,0,South Africa
+24,3.6,0,Syed Rasel,2008-11-07,1st,HM Amla,17,,JL Ontong,5,South Africa,Bangladesh,23,South Africa,Senwes Park,0,South Africa
+25,4.1,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,5,,HM Amla,17,South Africa,Bangladesh,23,South Africa,Senwes Park,0,South Africa
+26,4.2,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,5,,HM Amla,17,South Africa,Bangladesh,23,South Africa,Senwes Park,0,South Africa
+27,4.3,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,5,,HM Amla,17,South Africa,Bangladesh,23,South Africa,Senwes Park,0,South Africa
+28,4.4,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,5,,HM Amla,17,South Africa,Bangladesh,23,South Africa,Senwes Park,0,South Africa
+29,4.5,4,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,5,,HM Amla,21,South Africa,Bangladesh,27,South Africa,Senwes Park,0,South Africa
+30,4.6,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,5,,HM Amla,21,South Africa,Bangladesh,27,South Africa,Senwes Park,0,South Africa
+31,5.1,0,Syed Rasel,2008-11-07,1st,HM Amla,21,,JL Ontong,5,South Africa,Bangladesh,27,South Africa,Senwes Park,0,South Africa
+32,5.2,4,Syed Rasel,2008-11-07,1st,HM Amla,21,,JL Ontong,9,South Africa,Bangladesh,31,South Africa,Senwes Park,0,South Africa
+33,5.3,0,Syed Rasel,2008-11-07,1st,HM Amla,21,,JL Ontong,9,South Africa,Bangladesh,31,South Africa,Senwes Park,0,South Africa
+34,5.4,2,Syed Rasel,2008-11-07,1st,HM Amla,21,,JL Ontong,11,South Africa,Bangladesh,33,South Africa,Senwes Park,0,South Africa
+35,5.5,0,Syed Rasel,2008-11-07,1st,HM Amla,21,,JL Ontong,11,South Africa,Bangladesh,33,South Africa,Senwes Park,0,South Africa
+36,5.6,0,Syed Rasel,2008-11-07,1st,HM Amla,21,,JL Ontong,11,South Africa,Bangladesh,33,South Africa,Senwes Park,0,South Africa
+37,6.1,2,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,11,,HM Amla,23,South Africa,Bangladesh,35,South Africa,Senwes Park,0,South Africa
+38,6.2,1,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,11,,HM Amla,24,South Africa,Bangladesh,36,South Africa,Senwes Park,0,South Africa
+39,6.3,0,Mashrafe Mortaza,2008-11-07,1st,HM Amla,24,,JL Ontong,11,South Africa,Bangladesh,36,South Africa,Senwes Park,0,South Africa
+40,6.4,1,Mashrafe Mortaza,2008-11-07,1st,HM Amla,24,,JL Ontong,12,South Africa,Bangladesh,37,South Africa,Senwes Park,0,South Africa
+41,6.5,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,12,,HM Amla,24,South Africa,Bangladesh,37,South Africa,Senwes Park,0,South Africa
+42,6.6,1,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,12,,HM Amla,25,South Africa,Bangladesh,38,South Africa,Senwes Park,0,South Africa
+43,7.1,1,Syed Rasel,2008-11-07,1st,JL Ontong,12,,HM Amla,26,South Africa,Bangladesh,39,South Africa,Senwes Park,0,South Africa
+44,7.2,0,Syed Rasel,2008-11-07,1st,HM Amla,26,,JL Ontong,12,South Africa,Bangladesh,39,South Africa,Senwes Park,0,South Africa
+45,7.3,0,Syed Rasel,2008-11-07,1st,HM Amla,26,,JL Ontong,12,South Africa,Bangladesh,39,South Africa,Senwes Park,0,South Africa
+46,7.4,4,Syed Rasel,2008-11-07,1st,HM Amla,26,,JL Ontong,16,South Africa,Bangladesh,43,South Africa,Senwes Park,0,South Africa
+47,7.5,0,Syed Rasel,2008-11-07,1st,HM Amla,26,,JL Ontong,16,South Africa,Bangladesh,43,South Africa,Senwes Park,0,South Africa
+48,7.6,0,Syed Rasel,2008-11-07,1st,HM Amla,26,,JL Ontong,16,South Africa,Bangladesh,43,South Africa,Senwes Park,0,South Africa
+49,8.1,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,16,,HM Amla,26,South Africa,Bangladesh,43,South Africa,Senwes Park,0,South Africa
+50,8.2,4,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,16,,HM Amla,30,South Africa,Bangladesh,47,South Africa,Senwes Park,0,South Africa
+51,8.3,1,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,16,,HM Amla,31,South Africa,Bangladesh,48,South Africa,Senwes Park,0,South Africa
+52,8.4,1,Mashrafe Mortaza,2008-11-07,1st,HM Amla,31,,JL Ontong,17,South Africa,Bangladesh,49,South Africa,Senwes Park,0,South Africa
+53,8.5,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,17,,HM Amla,31,South Africa,Bangladesh,49,South Africa,Senwes Park,0,South Africa
+54,8.6,2,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,17,,HM Amla,33,South Africa,Bangladesh,51,South Africa,Senwes Park,0,South Africa
+55,9.1,2,Shakib Al Hasan,2008-11-07,1st,HM Amla,33,,JL Ontong,19,South Africa,Bangladesh,53,South Africa,Senwes Park,0,South Africa
+56,9.2,0,Shakib Al Hasan,2008-11-07,1st,HM Amla,33,,JL Ontong,19,South Africa,Bangladesh,53,South Africa,Senwes Park,0,South Africa
+57,9.3,1,Shakib Al Hasan,2008-11-07,1st,HM Amla,33,,JL Ontong,20,South Africa,Bangladesh,54,South Africa,Senwes Park,0,South Africa
+58,9.4,0,Shakib Al Hasan,2008-11-07,1st,JL Ontong,20,,HM Amla,33,South Africa,Bangladesh,54,South Africa,Senwes Park,0,South Africa
+59,9.5,1,Shakib Al Hasan,2008-11-07,1st,JL Ontong,20,,HM Amla,34,South Africa,Bangladesh,55,South Africa,Senwes Park,0,South Africa
+60,9.6,0,Shakib Al Hasan,2008-11-07,1st,HM Amla,34,,JL Ontong,20,South Africa,Bangladesh,55,South Africa,Senwes Park,0,South Africa
+61,10.1,1,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,20,,HM Amla,35,South Africa,Bangladesh,56,South Africa,Senwes Park,0,South Africa
+62,10.2,0,Mashrafe Mortaza,2008-11-07,1st,HM Amla,35,HM Amla,JL Ontong,20,South Africa,Bangladesh,56,South Africa,Senwes Park,1,South Africa
+63,10.3,4,Mashrafe Mortaza,2008-11-07,1st,JH Kallis,0,,JL Ontong,24,South Africa,Bangladesh,60,South Africa,Senwes Park,1,South Africa
+64,10.4,0,Mashrafe Mortaza,2008-11-07,1st,JH Kallis,0,,JL Ontong,24,South Africa,Bangladesh,60,South Africa,Senwes Park,1,South Africa
+65,10.5,1,Mashrafe Mortaza,2008-11-07,1st,JH Kallis,0,,JL Ontong,25,South Africa,Bangladesh,61,South Africa,Senwes Park,1,South Africa
+66,10.6,0,Mashrafe Mortaza,2008-11-07,1st,JL Ontong,25,,JH Kallis,0,South Africa,Bangladesh,61,South Africa,Senwes Park,1,South Africa
+67,11.1,1,Shakib Al Hasan,2008-11-07,1st,JH Kallis,0,,JL Ontong,26,South Africa,Bangladesh,62,South Africa,Senwes Park,1,South Africa
+68,11.2,0,Shakib Al Hasan,2008-11-07,1st,JL Ontong,26,,JH Kallis,0,South Africa,Bangladesh,62,South Africa,Senwes Park,1,South Africa
+69,11.3,0,Shakib Al Hasan,2008-11-07,1st,JL Ontong,26,,JH Kallis,0,South Africa,Bangladesh,62,South Africa,Senwes Park,1,South Africa
+70,11.4,0,Shakib Al Hasan,2008-11-07,1st,JL Ontong,26,,JH Kallis,0,South Africa,Bangladesh,62,South Africa,Senwes Park,1,South Africa
+71,11.5,1,Shakib Al Hasan,2008-11-07,1st,JL Ontong,26,,JH Kallis,1,South Africa,Bangladesh,63,South Africa,Senwes Park,1,South Africa
+72,11.6,0,Shakib Al Hasan,2008-11-07,1st,JH Kallis,1,,JL Ontong,26,South Africa,Bangladesh,63,South Africa,Senwes Park,1,South Africa
+73,12.1,0,Syed Rasel,2008-11-07,1st,JL Ontong,26,,JH Kallis,1,South Africa,Bangladesh,63,South Africa,Senwes Park,1,South Africa
+74,12.2,1,Syed Rasel,2008-11-07,1st,JL Ontong,26,,JH Kallis,2,South Africa,Bangladesh,64,South Africa,Senwes Park,1,South Africa
+75,12.3,0,Syed Rasel,2008-11-07,1st,JH Kallis,2,,JL Ontong,26,South Africa,Bangladesh,64,South Africa,Senwes Park,1,South Africa
+76,12.4,0,Syed Rasel,2008-11-07,1st,JH Kallis,2,,JL Ontong,26,South Africa,Bangladesh,64,South Africa,Senwes Park,1,South Africa
+77,12.5,0,Syed Rasel,2008-11-07,1st,JH Kallis,2,,JL Ontong,26,South Africa,Bangladesh,65,South Africa,Senwes Park,1,South Africa
+78,12.6,1,Syed Rasel,2008-11-07,1st,JH Kallis,2,,JL Ontong,27,South Africa,Bangladesh,66,South Africa,Senwes Park,1,South Africa
+79,12.7,0,Syed Rasel,2008-11-07,1st,JL Ontong,27,,JH Kallis,2,South Africa,Bangladesh,66,South Africa,Senwes Park,1,South Africa
+80,13.1,0,Shakib Al Hasan,2008-11-07,1st,JH Kallis,2,JL Ontong,JL Ontong,27,South Africa,Bangladesh,66,South Africa,Senwes Park,2,South Africa
+81,13.2,0,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,0,,JH Kallis,2,South Africa,Bangladesh,66,South Africa,Senwes Park,2,South Africa
+82,13.3,0,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,0,,JH Kallis,2,South Africa,Bangladesh,66,South Africa,Senwes Park,2,South Africa
+83,13.4,1,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,0,,JH Kallis,3,South Africa,Bangladesh,67,South Africa,Senwes Park,2,South Africa
+84,13.5,0,Shakib Al Hasan,2008-11-07,1st,JH Kallis,3,,AB de Villiers,0,South Africa,Bangladesh,67,South Africa,Senwes Park,2,South Africa
+85,13.6,0,Shakib Al Hasan,2008-11-07,1st,JH Kallis,3,,AB de Villiers,0,South Africa,Bangladesh,67,South Africa,Senwes Park,2,South Africa
+86,14.1,0,Syed Rasel,2008-11-07,1st,AB de Villiers,0,,JH Kallis,3,South Africa,Bangladesh,67,South Africa,Senwes Park,2,South Africa
+87,14.2,1,Syed Rasel,2008-11-07,1st,AB de Villiers,0,,JH Kallis,4,South Africa,Bangladesh,68,South Africa,Senwes Park,2,South Africa
+88,14.3,0,Syed Rasel,2008-11-07,1st,JH Kallis,4,,AB de Villiers,0,South Africa,Bangladesh,68,South Africa,Senwes Park,2,South Africa
+89,14.4,0,Syed Rasel,2008-11-07,1st,JH Kallis,4,,AB de Villiers,0,South Africa,Bangladesh,68,South Africa,Senwes Park,2,South Africa
+90,14.5,0,Syed Rasel,2008-11-07,1st,JH Kallis,4,,AB de Villiers,0,South Africa,Bangladesh,68,South Africa,Senwes Park,2,South Africa
+91,14.6,2,Syed Rasel,2008-11-07,1st,JH Kallis,4,,AB de Villiers,2,South Africa,Bangladesh,70,South Africa,Senwes Park,2,South Africa
+92,15.1,0,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,2,,JH Kallis,4,South Africa,Bangladesh,70,South Africa,Senwes Park,2,South Africa
+93,15.2,1,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,2,,JH Kallis,5,South Africa,Bangladesh,71,South Africa,Senwes Park,2,South Africa
+94,15.3,1,Shakib Al Hasan,2008-11-07,1st,JH Kallis,5,,AB de Villiers,3,South Africa,Bangladesh,72,South Africa,Senwes Park,2,South Africa
+95,15.4,4,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,3,,JH Kallis,9,South Africa,Bangladesh,76,South Africa,Senwes Park,2,South Africa
+96,15.5,0,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,3,,JH Kallis,9,South Africa,Bangladesh,76,South Africa,Senwes Park,2,South Africa
+97,15.6,0,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,3,,JH Kallis,9,South Africa,Bangladesh,76,South Africa,Senwes Park,2,South Africa
+98,16.1,0,Syed Rasel,2008-11-07,1st,JH Kallis,9,,AB de Villiers,3,South Africa,Bangladesh,76,South Africa,Senwes Park,2,South Africa
+99,16.2,4,Syed Rasel,2008-11-07,1st,JH Kallis,9,,AB de Villiers,7,South Africa,Bangladesh,80,South Africa,Senwes Park,2,South Africa
+100,16.3,0,Syed Rasel,2008-11-07,1st,JH Kallis,9,,AB de Villiers,7,South Africa,Bangladesh,80,South Africa,Senwes Park,2,South Africa
+101,16.4,1,Syed Rasel,2008-11-07,1st,JH Kallis,9,,AB de Villiers,8,South Africa,Bangladesh,81,South Africa,Senwes Park,2,South Africa
+102,16.5,0,Syed Rasel,2008-11-07,1st,AB de Villiers,8,,JH Kallis,9,South Africa,Bangladesh,81,South Africa,Senwes Park,2,South Africa
+103,16.6,0,Syed Rasel,2008-11-07,1st,AB de Villiers,8,,JH Kallis,9,South Africa,Bangladesh,81,South Africa,Senwes Park,2,South Africa
+104,17.1,1,Shakib Al Hasan,2008-11-07,1st,JH Kallis,9,,AB de Villiers,9,South Africa,Bangladesh,82,South Africa,Senwes Park,2,South Africa
+105,17.2,0,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,9,,JH Kallis,9,South Africa,Bangladesh,82,South Africa,Senwes Park,2,South Africa
+106,17.3,0,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,9,,JH Kallis,9,South Africa,Bangladesh,82,South Africa,Senwes Park,2,South Africa
+107,17.4,1,Shakib Al Hasan,2008-11-07,1st,AB de Villiers,9,,JH Kallis,10,South Africa,Bangladesh,83,South Africa,Senwes Park,2,South Africa
+108,17.5,0,Shakib Al Hasan,2008-11-07,1st,JH Kallis,10,,AB de Villiers,9,South Africa,Bangladesh,83,South Africa,Senwes Park,2,South Africa
+109,17.6,0,Shakib Al Hasan,2008-11-07,1st,JH Kallis,10,,AB de Villiers,9,South Africa,Bangladesh,83,South Africa,Senwes Park,2,South Africa
+110,18.1,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,9,,JH Kallis,11,South Africa,Bangladesh,84,South Africa,Senwes Park,2,South Africa
+111,18.2,1,Abdur Razzak,2008-11-07,1st,JH Kallis,11,,AB de Villiers,10,South Africa,Bangladesh,85,South Africa,Senwes Park,2,South Africa
+112,18.3,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,10,,JH Kallis,12,South Africa,Bangladesh,86,South Africa,Senwes Park,2,South Africa
+113,18.4,0,Abdur Razzak,2008-11-07,1st,JH Kallis,12,,AB de Villiers,10,South Africa,Bangladesh,86,South Africa,Senwes Park,2,South Africa
+114,18.5,0,Abdur Razzak,2008-11-07,1st,JH Kallis,12,,AB de Villiers,10,South Africa,Bangladesh,86,South Africa,Senwes Park,2,South Africa
+115,18.6,1,Abdur Razzak,2008-11-07,1st,JH Kallis,12,,AB de Villiers,11,South Africa,Bangladesh,87,South Africa,Senwes Park,2,South Africa
+116,19.1,1,Naeem Islam,2008-11-07,1st,JH Kallis,12,,AB de Villiers,12,South Africa,Bangladesh,88,South Africa,Senwes Park,2,South Africa
+117,19.2,1,Naeem Islam,2008-11-07,1st,AB de Villiers,12,,JH Kallis,13,South Africa,Bangladesh,89,South Africa,Senwes Park,2,South Africa
+118,19.3,1,Naeem Islam,2008-11-07,1st,JH Kallis,13,,AB de Villiers,13,South Africa,Bangladesh,90,South Africa,Senwes Park,2,South Africa
+119,19.4,0,Naeem Islam,2008-11-07,1st,AB de Villiers,13,,JH Kallis,13,South Africa,Bangladesh,90,South Africa,Senwes Park,2,South Africa
+120,19.5,0,Naeem Islam,2008-11-07,1st,AB de Villiers,13,,JH Kallis,13,South Africa,Bangladesh,90,South Africa,Senwes Park,2,South Africa
+121,19.6,1,Naeem Islam,2008-11-07,1st,AB de Villiers,13,,JH Kallis,14,South Africa,Bangladesh,91,South Africa,Senwes Park,2,South Africa
+122,20.1,4,Abdur Razzak,2008-11-07,1st,AB de Villiers,13,,JH Kallis,18,South Africa,Bangladesh,95,South Africa,Senwes Park,2,South Africa
+123,20.2,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,13,,JH Kallis,19,South Africa,Bangladesh,96,South Africa,Senwes Park,2,South Africa
+124,20.3,0,Abdur Razzak,2008-11-07,1st,JH Kallis,19,,AB de Villiers,13,South Africa,Bangladesh,96,South Africa,Senwes Park,2,South Africa
+125,20.4,1,Abdur Razzak,2008-11-07,1st,JH Kallis,19,,AB de Villiers,14,South Africa,Bangladesh,97,South Africa,Senwes Park,2,South Africa
+126,20.5,2,Abdur Razzak,2008-11-07,1st,AB de Villiers,14,,JH Kallis,21,South Africa,Bangladesh,99,South Africa,Senwes Park,2,South Africa
+127,20.6,0,Abdur Razzak,2008-11-07,1st,AB de Villiers,14,,JH Kallis,21,South Africa,Bangladesh,99,South Africa,Senwes Park,2,South Africa
+128,21.1,1,Naeem Islam,2008-11-07,1st,JH Kallis,21,,AB de Villiers,15,South Africa,Bangladesh,100,South Africa,Senwes Park,2,South Africa
+129,21.2,1,Naeem Islam,2008-11-07,1st,AB de Villiers,15,,JH Kallis,22,South Africa,Bangladesh,101,South Africa,Senwes Park,2,South Africa
+130,21.3,1,Naeem Islam,2008-11-07,1st,JH Kallis,22,,AB de Villiers,16,South Africa,Bangladesh,102,South Africa,Senwes Park,2,South Africa
+131,21.4,1,Naeem Islam,2008-11-07,1st,AB de Villiers,16,,JH Kallis,23,South Africa,Bangladesh,103,South Africa,Senwes Park,2,South Africa
+132,21.5,4,Naeem Islam,2008-11-07,1st,JH Kallis,23,,AB de Villiers,20,South Africa,Bangladesh,107,South Africa,Senwes Park,2,South Africa
+133,21.6,1,Naeem Islam,2008-11-07,1st,JH Kallis,23,,AB de Villiers,21,South Africa,Bangladesh,108,South Africa,Senwes Park,2,South Africa
+134,22.1,1,Abdur Razzak,2008-11-07,1st,JH Kallis,23,,AB de Villiers,22,South Africa,Bangladesh,109,South Africa,Senwes Park,2,South Africa
+135,22.2,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,22,,JH Kallis,24,South Africa,Bangladesh,110,South Africa,Senwes Park,2,South Africa
+136,22.3,4,Abdur Razzak,2008-11-07,1st,JH Kallis,24,,AB de Villiers,26,South Africa,Bangladesh,114,South Africa,Senwes Park,2,South Africa
+137,22.4,1,Abdur Razzak,2008-11-07,1st,JH Kallis,24,,AB de Villiers,27,South Africa,Bangladesh,115,South Africa,Senwes Park,2,South Africa
+138,22.5,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,27,,JH Kallis,25,South Africa,Bangladesh,116,South Africa,Senwes Park,2,South Africa
+139,22.6,0,Abdur Razzak,2008-11-07,1st,JH Kallis,25,,AB de Villiers,27,South Africa,Bangladesh,116,South Africa,Senwes Park,2,South Africa
+140,23.1,1,Naeem Islam,2008-11-07,1st,AB de Villiers,27,,JH Kallis,26,South Africa,Bangladesh,117,South Africa,Senwes Park,2,South Africa
+141,23.2,1,Naeem Islam,2008-11-07,1st,JH Kallis,26,,AB de Villiers,28,South Africa,Bangladesh,118,South Africa,Senwes Park,2,South Africa
+142,23.3,1,Naeem Islam,2008-11-07,1st,AB de Villiers,28,,JH Kallis,27,South Africa,Bangladesh,119,South Africa,Senwes Park,2,South Africa
+143,23.4,1,Naeem Islam,2008-11-07,1st,JH Kallis,27,,AB de Villiers,29,South Africa,Bangladesh,120,South Africa,Senwes Park,2,South Africa
+144,23.5,1,Naeem Islam,2008-11-07,1st,AB de Villiers,29,,JH Kallis,28,South Africa,Bangladesh,121,South Africa,Senwes Park,2,South Africa
+145,23.6,0,Naeem Islam,2008-11-07,1st,JH Kallis,28,,AB de Villiers,29,South Africa,Bangladesh,121,South Africa,Senwes Park,2,South Africa
+146,24.1,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,29,,JH Kallis,29,South Africa,Bangladesh,122,South Africa,Senwes Park,2,South Africa
+147,24.2,0,Abdur Razzak,2008-11-07,1st,JH Kallis,29,,AB de Villiers,29,South Africa,Bangladesh,122,South Africa,Senwes Park,2,South Africa
+148,24.3,1,Abdur Razzak,2008-11-07,1st,JH Kallis,29,,AB de Villiers,30,South Africa,Bangladesh,123,South Africa,Senwes Park,2,South Africa
+149,24.4,0,Abdur Razzak,2008-11-07,1st,AB de Villiers,30,,JH Kallis,29,South Africa,Bangladesh,123,South Africa,Senwes Park,2,South Africa
+150,24.5,0,Abdur Razzak,2008-11-07,1st,AB de Villiers,30,,JH Kallis,29,South Africa,Bangladesh,123,South Africa,Senwes Park,2,South Africa
+151,24.6,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,30,,JH Kallis,30,South Africa,Bangladesh,124,South Africa,Senwes Park,2,South Africa
+152,25.1,1,Naeem Islam,2008-11-07,1st,AB de Villiers,30,,JH Kallis,31,South Africa,Bangladesh,125,South Africa,Senwes Park,2,South Africa
+153,25.2,0,Naeem Islam,2008-11-07,1st,JH Kallis,31,,AB de Villiers,30,South Africa,Bangladesh,125,South Africa,Senwes Park,2,South Africa
+154,25.3,1,Naeem Islam,2008-11-07,1st,JH Kallis,31,,AB de Villiers,31,South Africa,Bangladesh,126,South Africa,Senwes Park,2,South Africa
+155,25.4,1,Naeem Islam,2008-11-07,1st,AB de Villiers,31,,JH Kallis,32,South Africa,Bangladesh,127,South Africa,Senwes Park,2,South Africa
+156,25.5,1,Naeem Islam,2008-11-07,1st,JH Kallis,32,,AB de Villiers,32,South Africa,Bangladesh,128,South Africa,Senwes Park,2,South Africa
+157,25.6,0,Naeem Islam,2008-11-07,1st,AB de Villiers,32,,JH Kallis,32,South Africa,Bangladesh,128,South Africa,Senwes Park,2,South Africa
+158,26.1,1,Abdur Razzak,2008-11-07,1st,JH Kallis,32,,AB de Villiers,33,South Africa,Bangladesh,129,South Africa,Senwes Park,2,South Africa
+159,26.2,0,Abdur Razzak,2008-11-07,1st,AB de Villiers,33,,JH Kallis,32,South Africa,Bangladesh,129,South Africa,Senwes Park,2,South Africa
+160,26.3,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,33,,JH Kallis,33,South Africa,Bangladesh,130,South Africa,Senwes Park,2,South Africa
+161,26.4,0,Abdur Razzak,2008-11-07,1st,JH Kallis,33,,AB de Villiers,33,South Africa,Bangladesh,130,South Africa,Senwes Park,2,South Africa
+162,26.5,1,Abdur Razzak,2008-11-07,1st,JH Kallis,33,,AB de Villiers,34,South Africa,Bangladesh,131,South Africa,Senwes Park,2,South Africa
+163,26.6,1,Abdur Razzak,2008-11-07,1st,AB de Villiers,34,,JH Kallis,34,South Africa,Bangladesh,132,South Africa,Senwes Park,2,South Africa
+164,27.1,0,Naeem Islam,2008-11-07,1st,AB de Villiers,34,,JH Kallis,34,South Africa,Bangladesh,132,South Africa,Senwes Park,2,South Africa
+165,27.2,1,Naeem Islam,2008-11-07,1st,AB de Villiers,34,,JH Kallis,35,South Africa,Bangladesh,133,South Africa,Senwes Park,2,South Africa
+166,27.3,1,Naeem Islam,2008-11-07,1st,JH Kallis,35,,AB de Villiers,35,South Africa,Bangladesh,134,South Africa,Senwes Park,2,South Africa
+167,27.4,0,Naeem Islam,2008-11-07,1st,AB de Villiers,35,,JH Kallis,35,South Africa,Bangladesh,134,South Africa,Senwes Park,2,South Africa
+168,27.5,0,Naeem Islam,2008-11-07,1st,AB de Villiers,35,,JH Kallis,35,South Africa,Bangladesh,135,South Africa,Senwes Park,2,South Africa
+169,27.6,0,Naeem Islam,2008-11-07,1st,JH Kallis,35,AB de Villiers,AB de Villiers,35,South Africa,Bangladesh,135,South Africa,Senwes Park,3,South Africa
+170,28.1,0,Abdur Razzak,2008-11-07,1st,JH Kallis,35,,JP Duminy,0,South Africa,Bangladesh,135,South Africa,Senwes Park,3,South Africa
+171,28.2,0,Abdur Razzak,2008-11-07,1st,JH Kallis,35,,JP Duminy,0,South Africa,Bangladesh,135,South Africa,Senwes Park,3,South Africa
+172,28.3,0,Abdur Razzak,2008-11-07,1st,JH Kallis,35,,JP Duminy,0,South Africa,Bangladesh,135,South Africa,Senwes Park,3,South Africa
+173,28.4,1,Abdur Razzak,2008-11-07,1st,JH Kallis,35,,JP Duminy,1,South Africa,Bangladesh,136,South Africa,Senwes Park,3,South Africa
+174,28.5,1,Abdur Razzak,2008-11-07,1st,JP Duminy,1,,JH Kallis,36,South Africa,Bangladesh,137,South Africa,Senwes Park,3,South Africa
+175,28.6,1,Abdur Razzak,2008-11-07,1st,JH Kallis,36,,JP Duminy,2,South Africa,Bangladesh,138,South Africa,Senwes Park,3,South Africa
+176,29.1,0,Naeem Islam,2008-11-07,1st,JH Kallis,36,,JP Duminy,2,South Africa,Bangladesh,138,South Africa,Senwes Park,3,South Africa
+177,29.2,0,Naeem Islam,2008-11-07,1st,JH Kallis,36,,JP Duminy,2,South Africa,Bangladesh,138,South Africa,Senwes Park,3,South Africa
+178,29.3,1,Naeem Islam,2008-11-07,1st,JH Kallis,36,,JP Duminy,3,South Africa,Bangladesh,139,South Africa,Senwes Park,3,South Africa
+179,29.4,0,Naeem Islam,2008-11-07,1st,JP Duminy,3,,JH Kallis,36,South Africa,Bangladesh,139,South Africa,Senwes Park,3,South Africa
+180,29.5,0,Naeem Islam,2008-11-07,1st,JP Duminy,3,,JH Kallis,36,South Africa,Bangladesh,139,South Africa,Senwes Park,3,South Africa
+181,29.6,1,Naeem Islam,2008-11-07,1st,JP Duminy,3,,JH Kallis,37,South Africa,Bangladesh,140,South Africa,Senwes Park,3,South Africa
+182,30.1,1,Abdur Razzak,2008-11-07,1st,JP Duminy,3,,JH Kallis,38,South Africa,Bangladesh,141,South Africa,Senwes Park,3,South Africa
+183,30.2,1,Abdur Razzak,2008-11-07,1st,JH Kallis,38,,JP Duminy,4,South Africa,Bangladesh,142,South Africa,Senwes Park,3,South Africa
+184,30.3,0,Abdur Razzak,2008-11-07,1st,JP Duminy,4,,JH Kallis,38,South Africa,Bangladesh,142,South Africa,Senwes Park,3,South Africa
+185,30.4,2,Abdur Razzak,2008-11-07,1st,JP Duminy,4,,JH Kallis,40,South Africa,Bangladesh,144,South Africa,Senwes Park,3,South Africa
+186,30.5,1,Abdur Razzak,2008-11-07,1st,JP Duminy,4,,JH Kallis,41,South Africa,Bangladesh,145,South Africa,Senwes Park,3,South Africa
+187,30.6,0,Abdur Razzak,2008-11-07,1st,JH Kallis,41,,JP Duminy,4,South Africa,Bangladesh,145,South Africa,Senwes Park,3,South Africa
+188,31.1,1,Naeem Islam,2008-11-07,1st,JP Duminy,4,,JH Kallis,42,South Africa,Bangladesh,146,South Africa,Senwes Park,3,South Africa
+189,31.2,1,Naeem Islam,2008-11-07,1st,JH Kallis,42,,JP Duminy,5,South Africa,Bangladesh,147,South Africa,Senwes Park,3,South Africa
+190,31.3,1,Naeem Islam,2008-11-07,1st,JP Duminy,5,,JH Kallis,43,South Africa,Bangladesh,148,South Africa,Senwes Park,3,South Africa
+191,31.4,1,Naeem Islam,2008-11-07,1st,JH Kallis,43,,JP Duminy,6,South Africa,Bangladesh,149,South Africa,Senwes Park,3,South Africa
+192,31.5,2,Naeem Islam,2008-11-07,1st,JP Duminy,6,,JH Kallis,45,South Africa,Bangladesh,151,South Africa,Senwes Park,3,South Africa
+193,31.6,1,Naeem Islam,2008-11-07,1st,JP Duminy,6,,JH Kallis,46,South Africa,Bangladesh,152,South Africa,Senwes Park,3,South Africa
+194,32.1,1,Abdur Razzak,2008-11-07,1st,JP Duminy,6,,JH Kallis,47,South Africa,Bangladesh,153,South Africa,Senwes Park,3,South Africa
+195,32.2,4,Abdur Razzak,2008-11-07,1st,JH Kallis,47,,JP Duminy,10,South Africa,Bangladesh,157,South Africa,Senwes Park,3,South Africa
+196,32.3,0,Abdur Razzak,2008-11-07,1st,JH Kallis,47,,JP Duminy,10,South Africa,Bangladesh,157,South Africa,Senwes Park,3,South Africa
+197,32.4,4,Abdur Razzak,2008-11-07,1st,JH Kallis,47,,JP Duminy,14,South Africa,Bangladesh,161,South Africa,Senwes Park,3,South Africa
+198,32.5,1,Abdur Razzak,2008-11-07,1st,JH Kallis,47,,JP Duminy,15,South Africa,Bangladesh,162,South Africa,Senwes Park,3,South Africa
+199,32.6,1,Abdur Razzak,2008-11-07,1st,JP Duminy,15,,JH Kallis,48,South Africa,Bangladesh,163,South Africa,Senwes Park,3,South Africa
+200,33.1,0,Naeem Islam,2008-11-07,1st,JP Duminy,15,,JH Kallis,48,South Africa,Bangladesh,163,South Africa,Senwes Park,3,South Africa
+201,33.2,0,Naeem Islam,2008-11-07,1st,JP Duminy,15,,JH Kallis,48,South Africa,Bangladesh,163,South Africa,Senwes Park,3,South Africa
+202,33.3,0,Naeem Islam,2008-11-07,1st,JP Duminy,15,,JH Kallis,48,South Africa,Bangladesh,163,South Africa,Senwes Park,3,South Africa
+203,33.4,2,Naeem Islam,2008-11-07,1st,JP Duminy,15,,JH Kallis,50,South Africa,Bangladesh,165,South Africa,Senwes Park,3,South Africa
+204,33.5,0,Naeem Islam,2008-11-07,1st,JP Duminy,15,JH Kallis,JH Kallis,50,South Africa,Bangladesh,165,South Africa,Senwes Park,4,South Africa
+205,33.6,0,Naeem Islam,2008-11-07,1st,JP Duminy,15,,MV Boucher,0,South Africa,Bangladesh,165,South Africa,Senwes Park,4,South Africa
+206,34.1,1,Mashrafe Mortaza,2008-11-07,1st,MV Boucher,0,,JP Duminy,16,South Africa,Bangladesh,166,South Africa,Senwes Park,4,South Africa
+207,34.2,2,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,16,,MV Boucher,2,South Africa,Bangladesh,168,South Africa,Senwes Park,4,South Africa
+208,34.3,0,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,16,,MV Boucher,2,South Africa,Bangladesh,168,South Africa,Senwes Park,4,South Africa
+209,34.4,0,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,16,,MV Boucher,2,South Africa,Bangladesh,168,South Africa,Senwes Park,4,South Africa
+210,34.5,4,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,16,,MV Boucher,6,South Africa,Bangladesh,172,South Africa,Senwes Park,4,South Africa
+211,34.6,1,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,16,,MV Boucher,7,South Africa,Bangladesh,173,South Africa,Senwes Park,4,South Africa
+212,35.1,0,Shakib Al Hasan,2008-11-07,1st,JP Duminy,16,,MV Boucher,7,South Africa,Bangladesh,173,South Africa,Senwes Park,4,South Africa
+213,35.2,0,Shakib Al Hasan,2008-11-07,1st,JP Duminy,16,,MV Boucher,7,South Africa,Bangladesh,173,South Africa,Senwes Park,4,South Africa
+214,35.3,1,Shakib Al Hasan,2008-11-07,1st,JP Duminy,16,,MV Boucher,8,South Africa,Bangladesh,174,South Africa,Senwes Park,4,South Africa
+215,35.4,0,Shakib Al Hasan,2008-11-07,1st,MV Boucher,8,,JP Duminy,16,South Africa,Bangladesh,174,South Africa,Senwes Park,4,South Africa
+216,35.5,1,Shakib Al Hasan,2008-11-07,1st,MV Boucher,8,,JP Duminy,17,South Africa,Bangladesh,175,South Africa,Senwes Park,4,South Africa
+217,35.6,0,Shakib Al Hasan,2008-11-07,1st,JP Duminy,17,,MV Boucher,8,South Africa,Bangladesh,175,South Africa,Senwes Park,4,South Africa
+218,36.1,0,Mashrafe Mortaza,2008-11-07,1st,MV Boucher,8,,JP Duminy,17,South Africa,Bangladesh,176,South Africa,Senwes Park,4,South Africa
+219,36.2,0,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,17,MV Boucher,MV Boucher,8,South Africa,Bangladesh,176,South Africa,Senwes Park,5,South Africa
+220,36.3,0,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,17,,JA Morkel,0,South Africa,Bangladesh,176,South Africa,Senwes Park,5,South Africa
+221,36.4,0,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,17,,JA Morkel,0,South Africa,Bangladesh,176,South Africa,Senwes Park,5,South Africa
+222,36.5,0,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,17,,JA Morkel,0,South Africa,Bangladesh,176,South Africa,Senwes Park,5,South Africa
+223,36.6,0,Mashrafe Mortaza,2008-11-07,1st,JP Duminy,17,,JA Morkel,0,South Africa,Bangladesh,176,South Africa,Senwes Park,5,South Africa
+224,37.1,1,Shakib Al Hasan,2008-11-07,1st,JA Morkel,0,,JP Duminy,18,South Africa,Bangladesh,177,South Africa,Senwes Park,5,South Africa
+225,37.2,0,Shakib Al Hasan,2008-11-07,1st,JP Duminy,18,,JA Morkel,0,South Africa,Bangladesh,177,South Africa,Senwes Park,5,South Africa
+226,37.3,0,Shakib Al Hasan,2008-11-07,1st,JP Duminy,18,,JA Morkel,0,South Africa,Bangladesh,177,South Africa,Senwes Park,5,South Africa
+227,37.4,0,Shakib Al Hasan,2008-11-07,1st,JP Duminy,18,,JA Morkel,0,South Africa,Bangladesh,177,South Africa,Senwes Park,5,South Africa
+228,37.5,1,Shakib Al Hasan,2008-11-07,1st,JP Duminy,18,,JA Morkel,1,South Africa,Bangladesh,178,South Africa,Senwes Park,5,South Africa
+229,37.6,0,Shakib Al Hasan,2008-11-07,1st,JA Morkel,1,,JP Duminy,18,South Africa,Bangladesh,178,South Africa,Senwes Park,5,South Africa
+230,38.1,0,Syed Rasel,2008-11-07,1st,JP Duminy,18,,JA Morkel,1,South Africa,Bangladesh,178,South Africa,Senwes Park,5,South Africa
+231,38.2,0,Syed Rasel,2008-11-07,1st,JP Duminy,18,,JA Morkel,1,South Africa,Bangladesh,179,South Africa,Senwes Park,5,South Africa
+232,38.3,1,Syed Rasel,2008-11-07,1st,JP Duminy,18,,JA Morkel,2,South Africa,Bangladesh,180,South Africa,Senwes Park,5,South Africa
+233,38.4,1,Syed Rasel,2008-11-07,1st,JA Morkel,2,,JP Duminy,19,South Africa,Bangladesh,181,South Africa,Senwes Park,5,South Africa
+234,38.5,2,Syed Rasel,2008-11-07,1st,JP Duminy,19,,JA Morkel,4,South Africa,Bangladesh,183,South Africa,Senwes Park,5,South Africa
+235,38.6,1,Syed Rasel,2008-11-07,1st,JP Duminy,19,,JA Morkel,5,South Africa,Bangladesh,184,South Africa,Senwes Park,5,South Africa
+236,38.7,1,Syed Rasel,2008-11-07,1st,JA Morkel,5,,JP Duminy,20,South Africa,Bangladesh,185,South Africa,Senwes Park,5,South Africa
+237,39.1,4,Junaid Siddique,2008-11-07,1st,JA Morkel,5,,JP Duminy,24,South Africa,Bangladesh,189,South Africa,Senwes Park,5,South Africa
+238,39.2,1,Junaid Siddique,2008-11-07,1st,JA Morkel,5,,JP Duminy,25,South Africa,Bangladesh,190,South Africa,Senwes Park,5,South Africa
+239,39.3,0,Junaid Siddique,2008-11-07,1st,JP Duminy,25,,JA Morkel,5,South Africa,Bangladesh,191,South Africa,Senwes Park,5,South Africa
+240,39.4,1,Junaid Siddique,2008-11-07,1st,JP Duminy,25,,JA Morkel,6,South Africa,Bangladesh,192,South Africa,Senwes Park,5,South Africa
+241,39.5,1,Junaid Siddique,2008-11-07,1st,JA Morkel,6,,JP Duminy,26,South Africa,Bangladesh,193,South Africa,Senwes Park,5,South Africa
+242,39.6,1,Junaid Siddique,2008-11-07,1st,JP Duminy,26,,JA Morkel,7,South Africa,Bangladesh,194,South Africa,Senwes Park,5,South Africa
+243,39.7,0,Junaid Siddique,2008-11-07,1st,JA Morkel,7,,JP Duminy,26,South Africa,Bangladesh,194,South Africa,Senwes Park,5,South Africa
+244,40.1,0,Abdur Razzak,2008-11-07,1st,JP Duminy,26,,JA Morkel,7,South Africa,Bangladesh,194,South Africa,Senwes Park,5,South Africa
+245,40.2,1,Abdur Razzak,2008-11-07,1st,JP Duminy,26,,JA Morkel,8,South Africa,Bangladesh,195,South Africa,Senwes Park,5,South Africa
+246,40.3,0,Abdur Razzak,2008-11-07,1st,JA Morkel,8,,JP Duminy,26,South Africa,Bangladesh,195,South Africa,Senwes Park,5,South Africa
+247,40.4,1,Abdur Razzak,2008-11-07,1st,JA Morkel,8,,JP Duminy,27,South Africa,Bangladesh,196,South Africa,Senwes Park,5,South Africa
+248,40.5,0,Abdur Razzak,2008-11-07,1st,JP Duminy,27,,JA Morkel,8,South Africa,Bangladesh,196,South Africa,Senwes Park,5,South Africa
+249,40.6,0,Abdur Razzak,2008-11-07,1st,JP Duminy,27,,JA Morkel,8,South Africa,Bangladesh,196,South Africa,Senwes Park,5,South Africa
+250,41.1,1,Syed Rasel,2008-11-07,1st,JA Morkel,8,,JP Duminy,28,South Africa,Bangladesh,197,South Africa,Senwes Park,5,South Africa
+251,41.2,1,Syed Rasel,2008-11-07,1st,JP Duminy,28,,JA Morkel,9,South Africa,Bangladesh,198,South Africa,Senwes Park,5,South Africa
+252,41.3,1,Syed Rasel,2008-11-07,1st,JA Morkel,9,,JP Duminy,29,South Africa,Bangladesh,199,South Africa,Senwes Park,5,South Africa
+253,41.4,0,Syed Rasel,2008-11-07,1st,JP Duminy,29,,JA Morkel,9,South Africa,Bangladesh,199,South Africa,Senwes Park,5,South Africa
+254,41.5,1,Syed Rasel,2008-11-07,1st,JP Duminy,29,,JA Morkel,10,South Africa,Bangladesh,200,South Africa,Senwes Park,5,South Africa
+255,41.6,1,Syed Rasel,2008-11-07,1st,JA Morkel,10,,JP Duminy,30,South Africa,Bangladesh,201,South Africa,Senwes Park,5,South Africa
+256,42.1,1,Abdur Razzak,2008-11-07,1st,JA Morkel,10,,JP Duminy,31,South Africa,Bangladesh,202,South Africa,Senwes Park,5,South Africa
+257,42.2,1,Abdur Razzak,2008-11-07,1st,JP Duminy,31,,JA Morkel,11,South Africa,Bangladesh,203,South Africa,Senwes Park,5,South Africa
+258,42.3,4,Abdur Razzak,2008-11-07,1st,JA Morkel,11,,JP Duminy,35,South Africa,Bangladesh,207,South Africa,Senwes Park,5,South Africa
+259,42.4,0,Abdur Razzak,2008-11-07,1st,JA Morkel,11,,JP Duminy,35,South Africa,Bangladesh,207,South Africa,Senwes Park,5,South Africa
+260,42.5,0,Abdur Razzak,2008-11-07,1st,JA Morkel,11,,JP Duminy,35,South Africa,Bangladesh,207,South Africa,Senwes Park,5,South Africa
+261,42.6,1,Abdur Razzak,2008-11-07,1st,JA Morkel,11,,JP Duminy,36,South Africa,Bangladesh,208,South Africa,Senwes Park,5,South Africa
+262,43.1,0,Shakib Al Hasan,2008-11-07,1st,JA Morkel,11,JP Duminy,JP Duminy,36,South Africa,Bangladesh,208,South Africa,Senwes Park,6,South Africa
+263,43.2,0,Shakib Al Hasan,2008-11-07,1st,JA Morkel,11,,J Botha,0,South Africa,Bangladesh,208,South Africa,Senwes Park,6,South Africa
+264,43.3,0,Shakib Al Hasan,2008-11-07,1st,JA Morkel,11,,J Botha,0,South Africa,Bangladesh,208,South Africa,Senwes Park,6,South Africa
+265,43.4,0,Shakib Al Hasan,2008-11-07,1st,JA Morkel,11,,J Botha,0,South Africa,Bangladesh,208,South Africa,Senwes Park,6,South Africa
+266,43.5,1,Shakib Al Hasan,2008-11-07,1st,JA Morkel,11,,J Botha,1,South Africa,Bangladesh,209,South Africa,Senwes Park,6,South Africa
+267,43.6,1,Shakib Al Hasan,2008-11-07,1st,J Botha,1,,JA Morkel,12,South Africa,Bangladesh,210,South Africa,Senwes Park,6,South Africa
+268,44.1,0,Mashrafe Mortaza,2008-11-07,1st,J Botha,1,,JA Morkel,12,South Africa,Bangladesh,210,South Africa,Senwes Park,6,South Africa
+269,44.2,1,Mashrafe Mortaza,2008-11-07,1st,J Botha,1,,JA Morkel,13,South Africa,Bangladesh,211,South Africa,Senwes Park,6,South Africa
+270,44.3,0,Mashrafe Mortaza,2008-11-07,1st,JA Morkel,13,,J Botha,1,South Africa,Bangladesh,212,South Africa,Senwes Park,6,South Africa
+271,44.4,0,Mashrafe Mortaza,2008-11-07,1st,JA Morkel,13,,J Botha,1,South Africa,Bangladesh,212,South Africa,Senwes Park,6,South Africa
+272,44.5,0,Mashrafe Mortaza,2008-11-07,1st,JA Morkel,13,,J Botha,1,South Africa,Bangladesh,212,South Africa,Senwes Park,6,South Africa
+273,44.6,4,Mashrafe Mortaza,2008-11-07,1st,JA Morkel,13,,J Botha,5,South Africa,Bangladesh,216,South Africa,Senwes Park,6,South Africa
+274,44.7,1,Mashrafe Mortaza,2008-11-07,1st,JA Morkel,13,,J Botha,6,South Africa,Bangladesh,217,South Africa,Senwes Park,6,South Africa
+275,45.1,4,Shakib Al Hasan,2008-11-07,1st,JA Morkel,13,,J Botha,10,South Africa,Bangladesh,221,South Africa,Senwes Park,6,South Africa
+276,45.2,1,Shakib Al Hasan,2008-11-07,1st,JA Morkel,13,,J Botha,11,South Africa,Bangladesh,222,South Africa,Senwes Park,6,South Africa
+277,45.3,0,Shakib Al Hasan,2008-11-07,1st,J Botha,11,,JA Morkel,13,South Africa,Bangladesh,222,South Africa,Senwes Park,6,South Africa
+278,45.4,1,Shakib Al Hasan,2008-11-07,1st,J Botha,11,,JA Morkel,14,South Africa,Bangladesh,223,South Africa,Senwes Park,6,South Africa
+279,45.5,4,Shakib Al Hasan,2008-11-07,1st,JA Morkel,14,,J Botha,15,South Africa,Bangladesh,227,South Africa,Senwes Park,6,South Africa
+280,45.6,0,Shakib Al Hasan,2008-11-07,1st,JA Morkel,14,,J Botha,15,South Africa,Bangladesh,227,South Africa,Senwes Park,6,South Africa
+281,46.1,0,Naeem Islam,2008-11-07,1st,J Botha,15,,JA Morkel,14,South Africa,Bangladesh,227,South Africa,Senwes Park,6,South Africa
+282,46.2,0,Naeem Islam,2008-11-07,1st,J Botha,15,,JA Morkel,14,South Africa,Bangladesh,228,South Africa,Senwes Park,6,South Africa
+283,46.3,4,Naeem Islam,2008-11-07,1st,JA Morkel,14,,J Botha,19,South Africa,Bangladesh,232,South Africa,Senwes Park,6,South Africa
+284,46.4,4,Naeem Islam,2008-11-07,1st,JA Morkel,14,,J Botha,23,South Africa,Bangladesh,236,South Africa,Senwes Park,6,South Africa
+285,46.5,0,Naeem Islam,2008-11-07,1st,JA Morkel,14,J Botha,J Botha,23,South Africa,Bangladesh,236,South Africa,Senwes Park,7,South Africa
+286,46.6,1,Naeem Islam,2008-11-07,1st,J Louw,0,,JA Morkel,15,South Africa,Bangladesh,237,South Africa,Senwes Park,7,South Africa
+287,47.1,0,Shakib Al Hasan,2008-11-07,1st,J Louw,0,,JA Morkel,15,South Africa,Bangladesh,237,South Africa,Senwes Park,7,South Africa
+288,47.2,1,Shakib Al Hasan,2008-11-07,1st,J Louw,0,,JA Morkel,16,South Africa,Bangladesh,238,South Africa,Senwes Park,7,South Africa
+289,47.3,6,Shakib Al Hasan,2008-11-07,1st,JA Morkel,16,,J Louw,6,South Africa,Bangladesh,244,South Africa,Senwes Park,7,South Africa
+290,47.4,6,Shakib Al Hasan,2008-11-07,1st,JA Morkel,16,,J Louw,12,South Africa,Bangladesh,250,South Africa,Senwes Park,7,South Africa
+291,47.5,4,Shakib Al Hasan,2008-11-07,1st,JA Morkel,16,,J Louw,16,South Africa,Bangladesh,254,South Africa,Senwes Park,7,South Africa
+292,47.6,0,Shakib Al Hasan,2008-11-07,1st,JA Morkel,16,,J Louw,16,South Africa,Bangladesh,254,South Africa,Senwes Park,7,South Africa
+293,48.1,4,Naeem Islam,2008-11-07,1st,J Louw,16,,JA Morkel,20,South Africa,Bangladesh,258,South Africa,Senwes Park,7,South Africa
+294,48.2,0,Naeem Islam,2008-11-07,1st,J Louw,16,,JA Morkel,20,South Africa,Bangladesh,258,South Africa,Senwes Park,7,South Africa
+295,48.3,4,Naeem Islam,2008-11-07,1st,J Louw,16,,JA Morkel,24,South Africa,Bangladesh,262,South Africa,Senwes Park,7,South Africa
+296,48.4,0,Naeem Islam,2008-11-07,1st,J Louw,16,,JA Morkel,24,South Africa,Bangladesh,263,South Africa,Senwes Park,7,South Africa
+297,48.5,6,Naeem Islam,2008-11-07,1st,JA Morkel,24,,J Louw,22,South Africa,Bangladesh,269,South Africa,Senwes Park,7,South Africa
+298,48.6,1,Naeem Islam,2008-11-07,1st,JA Morkel,24,,J Louw,23,South Africa,Bangladesh,270,South Africa,Senwes Park,7,South Africa
+299,49.1,0,Syed Rasel,2008-11-07,1st,JA Morkel,24,J Louw,J Louw,23,South Africa,Bangladesh,270,South Africa,Senwes Park,8,South Africa
+300,49.2,1,Syed Rasel,2008-11-07,1st,JA Morkel,24,,M Morkel,1,South Africa,Bangladesh,271,South Africa,Senwes Park,8,South Africa
+301,49.3,1,Syed Rasel,2008-11-07,1st,M Morkel,1,,JA Morkel,25,South Africa,Bangladesh,272,South Africa,Senwes Park,8,South Africa
+302,49.4,4,Syed Rasel,2008-11-07,1st,JA Morkel,25,,M Morkel,5,South Africa,Bangladesh,276,South Africa,Senwes Park,8,South Africa
+303,49.5,1,Syed Rasel,2008-11-07,1st,JA Morkel,25,,M Morkel,6,South Africa,Bangladesh,277,South Africa,Senwes Park,8,South Africa
+304,49.6,6,Syed Rasel,2008-11-07,1st,M Morkel,6,,JA Morkel,31,South Africa,Bangladesh,283,South Africa,Senwes Park,8,South Africa
+305,0.1,0,DW Steyn,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,0,South Africa,Senwes Park,0,South Africa
+306,0.2,0,DW Steyn,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,0,South Africa,Senwes Park,0,South Africa
+307,0.3,1,DW Steyn,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,1,South Africa,Senwes Park,0,South Africa
+308,0.4,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,1,South Africa,Senwes Park,0,South Africa
+309,0.5,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,1,South Africa,Senwes Park,0,South Africa
+310,0.6,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,1,South Africa,Senwes Park,0,South Africa
+311,1.1,0,J Louw,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,1,South Africa,Senwes Park,0,South Africa
+312,1.2,0,J Louw,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,1,South Africa,Senwes Park,0,South Africa
+313,1.3,0,J Louw,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,1,South Africa,Senwes Park,0,South Africa
+314,1.4,1,J Louw,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,2,South Africa,Senwes Park,0,South Africa
+315,1.5,0,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,3,South Africa,Senwes Park,0,South Africa
+316,1.6,1,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,4,South Africa,Senwes Park,0,South Africa
+317,1.7,2,J Louw,2008-11-07,2nd,Imrul Kayes,0,,Tamim Iqbal,0,South Africa,Bangladesh,6,South Africa,Senwes Park,0,South Africa
+318,2.1,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,7,South Africa,Senwes Park,0,South Africa
+319,2.2,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,7,South Africa,Senwes Park,0,South Africa
+320,2.3,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,7,South Africa,Senwes Park,0,South Africa
+321,2.4,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,9,South Africa,Senwes Park,0,South Africa
+322,2.5,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,9,South Africa,Senwes Park,0,South Africa
+323,2.6,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,9,South Africa,Senwes Park,0,South Africa
+324,2.7,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Imrul Kayes,0,South Africa,Bangladesh,9,South Africa,Senwes Park,1,South Africa
+325,3.1,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,9,South Africa,Senwes Park,1,South Africa
+326,3.2,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,10,South Africa,Senwes Park,1,South Africa
+327,3.3,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,10,South Africa,Senwes Park,1,South Africa
+328,3.4,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,10,South Africa,Senwes Park,1,South Africa
+329,3.5,2,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,12,South Africa,Senwes Park,1,South Africa
+330,3.6,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,12,South Africa,Senwes Park,1,South Africa
+331,3.7,4,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,16,South Africa,Senwes Park,1,South Africa
+332,4.1,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,16,South Africa,Senwes Park,1,South Africa
+333,4.2,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,16,South Africa,Senwes Park,1,South Africa
+334,4.3,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,16,South Africa,Senwes Park,1,South Africa
+335,4.4,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,16,South Africa,Senwes Park,1,South Africa
+336,4.5,1,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,17,South Africa,Senwes Park,1,South Africa
+337,4.6,0,DW Steyn,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,18,South Africa,Senwes Park,1,South Africa
+338,4.7,0,DW Steyn,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,18,South Africa,Senwes Park,1,South Africa
+339,5.1,0,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,18,South Africa,Senwes Park,1,South Africa
+340,5.2,1,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,19,South Africa,Senwes Park,1,South Africa
+341,5.3,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,19,South Africa,Senwes Park,1,South Africa
+342,5.4,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,19,South Africa,Senwes Park,1,South Africa
+343,5.5,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,19,South Africa,Senwes Park,1,South Africa
+344,5.6,0,J Louw,2008-11-07,2nd,Junaid Siddique,0,,Tamim Iqbal,0,South Africa,Bangladesh,19,South Africa,Senwes Park,1,South Africa
+345,6.1,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,19,South Africa,Senwes Park,1,South Africa
+346,6.2,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Junaid Siddique,0,South Africa,Bangladesh,19,South Africa,Senwes Park,2,South Africa
+347,6.3,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,19,South Africa,Senwes Park,2,South Africa
+348,6.4,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,19,South Africa,Senwes Park,2,South Africa
+349,6.5,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,20,South Africa,Senwes Park,2,South Africa
+350,6.6,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,20,South Africa,Senwes Park,2,South Africa
+351,6.7,0,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,20,South Africa,Senwes Park,2,South Africa
+352,7.1,0,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,20,South Africa,Senwes Park,2,South Africa
+353,7.2,0,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,20,South Africa,Senwes Park,2,South Africa
+354,7.3,0,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,20,South Africa,Senwes Park,2,South Africa
+355,7.4,4,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,24,South Africa,Senwes Park,2,South Africa
+356,7.5,4,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,28,South Africa,Senwes Park,2,South Africa
+357,7.6,0,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,28,South Africa,Senwes Park,2,South Africa
+358,8.1,1,DW Steyn,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,29,South Africa,Senwes Park,2,South Africa
+359,8.2,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,29,South Africa,Senwes Park,2,South Africa
+360,8.3,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,29,South Africa,Senwes Park,2,South Africa
+361,8.4,4,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,33,South Africa,Senwes Park,2,South Africa
+362,8.5,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,33,South Africa,Senwes Park,2,South Africa
+363,8.6,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,33,South Africa,Senwes Park,2,South Africa
+364,9.1,0,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,33,South Africa,Senwes Park,2,South Africa
+365,9.2,4,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,37,South Africa,Senwes Park,2,South Africa
+366,9.3,4,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,41,South Africa,Senwes Park,2,South Africa
+367,9.4,0,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,41,South Africa,Senwes Park,2,South Africa
+368,9.5,4,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,45,South Africa,Senwes Park,2,South Africa
+369,9.6,4,J Louw,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,49,South Africa,Senwes Park,2,South Africa
+370,10.1,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,49,South Africa,Senwes Park,2,South Africa
+371,10.2,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,49,South Africa,Senwes Park,2,South Africa
+372,10.3,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,49,South Africa,Senwes Park,2,South Africa
+373,10.4,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,49,South Africa,Senwes Park,2,South Africa
+374,10.5,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,49,South Africa,Senwes Park,2,South Africa
+375,10.6,0,DW Steyn,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,49,South Africa,Senwes Park,2,South Africa
+376,11.1,1,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,50,South Africa,Senwes Park,2,South Africa
+377,11.2,1,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,51,South Africa,Senwes Park,2,South Africa
+378,11.3,2,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,53,South Africa,Senwes Park,2,South Africa
+379,11.4,2,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,55,South Africa,Senwes Park,2,South Africa
+380,11.5,0,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,55,South Africa,Senwes Park,2,South Africa
+381,11.6,0,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,56,South Africa,Senwes Park,2,South Africa
+382,11.7,4,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,60,South Africa,Senwes Park,2,South Africa
+383,12.1,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,60,South Africa,Senwes Park,2,South Africa
+384,12.2,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,61,South Africa,Senwes Park,2,South Africa
+385,12.3,1,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Tamim Iqbal,0,South Africa,Bangladesh,62,South Africa,Senwes Park,2,South Africa
+386,12.4,2,M Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,64,South Africa,Senwes Park,2,South Africa
+387,12.5,0,M Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,65,South Africa,Senwes Park,2,South Africa
+388,12.6,0,M Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,69,South Africa,Senwes Park,2,South Africa
+389,12.7,0,M Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,69,South Africa,Senwes Park,2,South Africa
+390,12.8,0,M Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,70,South Africa,Senwes Park,2,South Africa
+391,12.9,0,M Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,71,South Africa,Senwes Park,2,South Africa
+392,12.1,1,M Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,72,South Africa,Senwes Park,2,South Africa
+393,13.1,0,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,72,South Africa,Senwes Park,2,South Africa
+394,13.2,1,JA Morkel,2008-11-07,2nd,Tamim Iqbal,0,,Mohammad Ashraful,0,South Africa,Bangladesh,73,South Africa,Senwes Park,3,South Africa
+395,13.3,1,JA Morkel,2008-11-07,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,South Africa,Bangladesh,74,South Africa,Senwes Park,3,South Africa
+396,13.4,0,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,South Africa,Bangladesh,74,South Africa,Senwes Park,3,South Africa
+397,13.5,0,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,South Africa,Bangladesh,74,South Africa,Senwes Park,3,South Africa
+398,13.6,1,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,South Africa,Bangladesh,76,South Africa,Senwes Park,3,South Africa
+399,13.7,0,JA Morkel,2008-11-07,2nd,Mushfiqur Rahim,0,,Mohammad Ashraful,0,South Africa,Bangladesh,76,South Africa,Senwes Park,3,South Africa
+400,14.1,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,South Africa,Bangladesh,76,South Africa,Senwes Park,3,South Africa
+401,14.2,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,South Africa,Bangladesh,77,South Africa,Senwes Park,3,South Africa
+402,14.3,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Mushfiqur Rahim,0,South Africa,Bangladesh,77,South Africa,Senwes Park,4,South Africa
+403,14.4,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,77,South Africa,Senwes Park,4,South Africa
+404,14.5,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,77,South Africa,Senwes Park,4,South Africa
+405,14.6,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,77,South Africa,Senwes Park,4,South Africa
+406,14.7,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,77,South Africa,Senwes Park,4,South Africa
+407,15.1,0,JA Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,77,South Africa,Senwes Park,4,South Africa
+408,15.2,1,JA Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,78,South Africa,Senwes Park,4,South Africa
+409,15.3,0,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,78,South Africa,Senwes Park,4,South Africa
+410,15.4,0,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,78,South Africa,Senwes Park,4,South Africa
+411,15.5,0,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,78,South Africa,Senwes Park,4,South Africa
+412,15.6,1,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,79,South Africa,Senwes Park,4,South Africa
+413,16.1,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,79,South Africa,Senwes Park,4,South Africa
+414,16.2,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,80,South Africa,Senwes Park,4,South Africa
+415,16.3,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,80,South Africa,Senwes Park,4,South Africa
+416,16.4,1,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,81,South Africa,Senwes Park,4,South Africa
+417,16.5,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,81,South Africa,Senwes Park,4,South Africa
+418,16.6,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,81,South Africa,Senwes Park,4,South Africa
+419,16.7,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,81,South Africa,Senwes Park,4,South Africa
+420,17.1,0,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,81,South Africa,Senwes Park,4,South Africa
+421,17.2,4,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,85,South Africa,Senwes Park,4,South Africa
+422,17.3,0,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,85,South Africa,Senwes Park,4,South Africa
+423,17.4,1,JA Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,86,South Africa,Senwes Park,4,South Africa
+424,17.5,0,JA Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,86,South Africa,Senwes Park,4,South Africa
+425,17.6,1,JA Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,87,South Africa,Senwes Park,4,South Africa
+426,18.1,1,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,88,South Africa,Senwes Park,4,South Africa
+427,18.2,1,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+428,18.3,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+429,18.4,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+430,18.5,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+431,18.6,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+432,19.1,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+433,19.2,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+434,19.3,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,89,South Africa,Senwes Park,4,South Africa
+435,19.4,1,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,90,South Africa,Senwes Park,4,South Africa
+436,19.5,1,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,91,South Africa,Senwes Park,4,South Africa
+437,19.6,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,91,South Africa,Senwes Park,4,South Africa
+438,20.1,1,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,92,South Africa,Senwes Park,4,South Africa
+439,20.2,1,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,93,South Africa,Senwes Park,4,South Africa
+440,20.3,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,93,South Africa,Senwes Park,4,South Africa
+441,20.4,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,94,South Africa,Senwes Park,4,South Africa
+442,20.5,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,94,South Africa,Senwes Park,4,South Africa
+443,20.6,3,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,97,South Africa,Senwes Park,4,South Africa
+444,20.7,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,97,South Africa,Senwes Park,4,South Africa
+445,21.1,1,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,98,South Africa,Senwes Park,4,South Africa
+446,21.2,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,98,South Africa,Senwes Park,4,South Africa
+447,21.3,4,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,102,South Africa,Senwes Park,4,South Africa
+448,21.4,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,102,South Africa,Senwes Park,4,South Africa
+449,21.5,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,102,South Africa,Senwes Park,4,South Africa
+450,21.6,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,102,South Africa,Senwes Park,4,South Africa
+451,22.1,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,102,South Africa,Senwes Park,4,South Africa
+452,22.2,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,102,South Africa,Senwes Park,4,South Africa
+453,22.3,1,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,103,South Africa,Senwes Park,4,South Africa
+454,22.4,0,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,103,South Africa,Senwes Park,4,South Africa
+455,22.5,1,M Morkel,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,104,South Africa,Senwes Park,4,South Africa
+456,22.6,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,104,South Africa,Senwes Park,4,South Africa
+457,23.1,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,104,South Africa,Senwes Park,4,South Africa
+458,23.2,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,104,South Africa,Senwes Park,4,South Africa
+459,23.3,1,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,105,South Africa,Senwes Park,4,South Africa
+460,23.4,0,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,105,South Africa,Senwes Park,4,South Africa
+461,23.5,0,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,105,South Africa,Senwes Park,4,South Africa
+462,23.6,0,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,105,South Africa,Senwes Park,4,South Africa
+463,24.1,1,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,106,South Africa,Senwes Park,4,South Africa
+464,24.2,1,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,107,South Africa,Senwes Park,4,South Africa
+465,24.3,1,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,108,South Africa,Senwes Park,4,South Africa
+466,24.4,0,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,108,South Africa,Senwes Park,4,South Africa
+467,24.5,1,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,109,South Africa,Senwes Park,4,South Africa
+468,24.6,2,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,111,South Africa,Senwes Park,4,South Africa
+469,25.1,1,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,112,South Africa,Senwes Park,4,South Africa
+470,25.2,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,112,South Africa,Senwes Park,4,South Africa
+471,25.3,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,113,South Africa,Senwes Park,4,South Africa
+472,25.4,1,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,114,South Africa,Senwes Park,4,South Africa
+473,25.5,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,114,South Africa,Senwes Park,4,South Africa
+474,25.6,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,114,South Africa,Senwes Park,4,South Africa
+475,26.1,0,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,114,South Africa,Senwes Park,4,South Africa
+476,26.2,4,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,118,South Africa,Senwes Park,4,South Africa
+477,26.3,1,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,119,South Africa,Senwes Park,4,South Africa
+478,26.4,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,119,South Africa,Senwes Park,4,South Africa
+479,26.5,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,120,South Africa,Senwes Park,4,South Africa
+480,26.6,0,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,120,South Africa,Senwes Park,4,South Africa
+481,27.1,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,120,South Africa,Senwes Park,4,South Africa
+482,27.2,1,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,121,South Africa,Senwes Park,4,South Africa
+483,27.3,0,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,121,South Africa,Senwes Park,4,South Africa
+484,27.4,0,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,121,South Africa,Senwes Park,4,South Africa
+485,27.5,0,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,122,South Africa,Senwes Park,4,South Africa
+486,27.6,1,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,123,South Africa,Senwes Park,4,South Africa
+487,27.7,1,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,124,South Africa,Senwes Park,4,South Africa
+488,28.1,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,124,South Africa,Senwes Park,4,South Africa
+489,28.2,1,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,125,South Africa,Senwes Park,4,South Africa
+490,28.3,1,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,126,South Africa,Senwes Park,4,South Africa
+491,28.4,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,126,South Africa,Senwes Park,4,South Africa
+492,28.5,1,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,127,South Africa,Senwes Park,4,South Africa
+493,28.6,0,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,127,South Africa,Senwes Park,4,South Africa
+494,29.1,2,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,129,South Africa,Senwes Park,4,South Africa
+495,29.2,4,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,133,South Africa,Senwes Park,4,South Africa
+496,29.3,0,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,133,South Africa,Senwes Park,4,South Africa
+497,29.4,1,J Botha,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,134,South Africa,Senwes Park,4,South Africa
+498,29.5,4,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,138,South Africa,Senwes Park,4,South Africa
+499,29.6,0,J Botha,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,138,South Africa,Senwes Park,4,South Africa
+500,30.1,4,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,142,South Africa,Senwes Park,4,South Africa
+501,30.2,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,142,South Africa,Senwes Park,4,South Africa
+502,30.3,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,143,South Africa,Senwes Park,4,South Africa
+503,30.4,1,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,144,South Africa,Senwes Park,4,South Africa
+504,30.5,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,144,South Africa,Senwes Park,4,South Africa
+505,30.6,2,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,146,South Africa,Senwes Park,4,South Africa
+506,31.1,4,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,150,South Africa,Senwes Park,4,South Africa
+507,31.2,0,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,150,South Africa,Senwes Park,4,South Africa
+508,31.3,0,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,150,South Africa,Senwes Park,4,South Africa
+509,31.4,4,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,154,South Africa,Senwes Park,4,South Africa
+510,31.5,1,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,155,South Africa,Senwes Park,4,South Africa
+511,31.6,0,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,155,South Africa,Senwes Park,4,South Africa
+512,32.1,0,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,155,South Africa,Senwes Park,4,South Africa
+513,32.2,1,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,156,South Africa,Senwes Park,4,South Africa
+514,32.3,4,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,160,South Africa,Senwes Park,4,South Africa
+515,32.4,0,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,160,South Africa,Senwes Park,4,South Africa
+516,32.5,1,JH Kallis,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,161,South Africa,Senwes Park,4,South Africa
+517,32.6,4,JH Kallis,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,165,South Africa,Senwes Park,4,South Africa
+518,33.1,1,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,166,South Africa,Senwes Park,4,South Africa
+519,33.2,1,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,167,South Africa,Senwes Park,4,South Africa
+520,33.3,1,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,168,South Africa,Senwes Park,4,South Africa
+521,33.4,0,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,168,South Africa,Senwes Park,4,South Africa
+522,33.5,1,J Louw,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,169,South Africa,Senwes Park,4,South Africa
+523,33.6,0,J Louw,2008-11-07,2nd,Mohammad Ashraful,0,,Shakib Al Hasan,0,South Africa,Bangladesh,169,South Africa,Senwes Park,4,South Africa
+524,34.1,0,DW Steyn,2008-11-07,2nd,Shakib Al Hasan,0,,Mohammad Ashraful,0,South Africa,Bangladesh,169,South Africa,Senwes Park,5,South Africa
+525,34.2,0,DW Steyn,2008-11-07,2nd,Shakib Al Hasan,0,,Raqibul Hasan,0,South Africa,Bangladesh,169,South Africa,Senwes Park,6,South Africa
+526,34.3,1,DW Steyn,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,170,South Africa,Senwes Park,6,South Africa
+527,34.4,0,DW Steyn,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,170,South Africa,Senwes Park,6,South Africa
+528,34.5,0,DW Steyn,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,170,South Africa,Senwes Park,6,South Africa
+529,34.6,4,DW Steyn,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,174,South Africa,Senwes Park,6,South Africa
+530,35.1,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,175,South Africa,Senwes Park,6,South Africa
+531,35.2,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,175,South Africa,Senwes Park,6,South Africa
+532,35.3,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,175,South Africa,Senwes Park,6,South Africa
+533,35.4,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,175,South Africa,Senwes Park,6,South Africa
+534,35.5,1,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,176,South Africa,Senwes Park,6,South Africa
+535,35.6,0,M Morkel,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,176,South Africa,Senwes Park,6,South Africa
+536,35.7,1,M Morkel,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,177,South Africa,Senwes Park,6,South Africa
+537,36.1,0,DW Steyn,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,177,South Africa,Senwes Park,6,South Africa
+538,36.2,0,DW Steyn,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,177,South Africa,Senwes Park,6,South Africa
+539,36.3,0,DW Steyn,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,177,South Africa,Senwes Park,6,South Africa
+540,36.4,1,DW Steyn,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,178,South Africa,Senwes Park,6,South Africa
+541,36.5,0,DW Steyn,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,178,South Africa,Senwes Park,6,South Africa
+542,36.6,0,DW Steyn,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,178,South Africa,Senwes Park,6,South Africa
+543,37.1,1,M Morkel,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,179,South Africa,Senwes Park,6,South Africa
+544,37.2,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,179,South Africa,Senwes Park,6,South Africa
+545,37.3,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,179,South Africa,Senwes Park,6,South Africa
+546,37.4,4,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,183,South Africa,Senwes Park,6,South Africa
+547,37.5,4,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,187,South Africa,Senwes Park,6,South Africa
+548,37.6,0,M Morkel,2008-11-07,2nd,Shakib Al Hasan,0,,Naeem Islam,0,South Africa,Bangladesh,187,South Africa,Senwes Park,6,South Africa
+549,38.1,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Shakib Al Hasan,0,South Africa,Bangladesh,187,South Africa,Senwes Park,7,South Africa
+550,38.2,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Mashrafe Mortaza,0,South Africa,Bangladesh,187,South Africa,Senwes Park,7,South Africa
+551,38.3,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Mashrafe Mortaza,0,South Africa,Bangladesh,187,South Africa,Senwes Park,7,South Africa
+552,38.4,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Mashrafe Mortaza,0,South Africa,Bangladesh,187,South Africa,Senwes Park,7,South Africa
+553,38.5,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Mashrafe Mortaza,0,South Africa,Bangladesh,187,South Africa,Senwes Park,8,South Africa
+554,38.6,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Abdur Razzak,0,South Africa,Bangladesh,188,South Africa,Senwes Park,8,South Africa
+555,38.7,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Abdur Razzak,0,South Africa,Bangladesh,188,South Africa,Senwes Park,8,South Africa
+556,39.1,0,M Morkel,2008-11-07,2nd,Abdur Razzak,0,,Naeem Islam,0,South Africa,Bangladesh,188,South Africa,Senwes Park,8,South Africa
+557,39.2,0,M Morkel,2008-11-07,2nd,Abdur Razzak,0,,Naeem Islam,0,South Africa,Bangladesh,189,South Africa,Senwes Park,8,South Africa
+558,39.3,0,M Morkel,2008-11-07,2nd,Abdur Razzak,0,,Naeem Islam,0,South Africa,Bangladesh,190,South Africa,Senwes Park,8,South Africa
+559,39.4,6,M Morkel,2008-11-07,2nd,Abdur Razzak,0,,Naeem Islam,0,South Africa,Bangladesh,196,South Africa,Senwes Park,8,South Africa
+560,39.5,1,M Morkel,2008-11-07,2nd,Abdur Razzak,0,,Naeem Islam,0,South Africa,Bangladesh,197,South Africa,Senwes Park,8,South Africa
+561,39.6,0,M Morkel,2008-11-07,2nd,Naeem Islam,0,,Abdur Razzak,0,South Africa,Bangladesh,197,South Africa,Senwes Park,9,South Africa
+562,39.7,0,M Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,197,South Africa,Senwes Park,9,South Africa
+563,39.8,1,M Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,198,South Africa,Senwes Park,9,South Africa
+564,40.1,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,199,South Africa,Senwes Park,9,South Africa
+565,40.2,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,199,South Africa,Senwes Park,9,South Africa
+566,40.3,1,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,200,South Africa,Senwes Park,9,South Africa
+567,40.4,4,JA Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,204,South Africa,Senwes Park,9,South Africa
+568,40.5,2,JA Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,206,South Africa,Senwes Park,9,South Africa
+569,40.6,1,JA Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,207,South Africa,Senwes Park,9,South Africa
+570,40.7,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,207,South Africa,Senwes Park,9,South Africa
+571,41.1,0,M Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,207,South Africa,Senwes Park,9,South Africa
+572,41.2,0,M Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,207,South Africa,Senwes Park,9,South Africa
+573,41.3,0,M Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,207,South Africa,Senwes Park,9,South Africa
+574,41.4,0,M Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,208,South Africa,Senwes Park,9,South Africa
+575,41.5,0,M Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,208,South Africa,Senwes Park,9,South Africa
+576,41.6,0,M Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,208,South Africa,Senwes Park,9,South Africa
+577,41.7,0,M Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,208,South Africa,Senwes Park,9,South Africa
+578,42.1,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,208,South Africa,Senwes Park,9,South Africa
+579,42.2,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,209,South Africa,Senwes Park,9,South Africa
+580,42.3,1,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,210,South Africa,Senwes Park,9,South Africa
+581,42.4,1,JA Morkel,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,211,South Africa,Senwes Park,9,South Africa
+582,42.5,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,211,South Africa,Senwes Park,9,South Africa
+583,42.6,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,211,South Africa,Senwes Park,9,South Africa
+584,42.7,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,211,South Africa,Senwes Park,9,South Africa
+585,43.1,0,J Botha,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,213,South Africa,Senwes Park,9,South Africa
+586,43.2,0,J Botha,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,213,South Africa,Senwes Park,9,South Africa
+587,43.3,0,J Botha,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,218,South Africa,Senwes Park,9,South Africa
+588,43.4,0,J Botha,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,218,South Africa,Senwes Park,9,South Africa
+589,43.5,0,J Botha,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,218,South Africa,Senwes Park,9,South Africa
+590,43.6,0,J Botha,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,218,South Africa,Senwes Park,9,South Africa
+591,43.7,0,J Botha,2008-11-07,2nd,Syed Rasel,0,,Naeem Islam,0,South Africa,Bangladesh,218,South Africa,Senwes Park,9,South Africa
+592,44.1,4,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,222,South Africa,Senwes Park,9,South Africa
+593,44.2,0,JA Morkel,2008-11-07,2nd,Naeem Islam,0,,Syed Rasel,0,South Africa,Bangladesh,222,South Africa,Senwes Park,10,South Africa

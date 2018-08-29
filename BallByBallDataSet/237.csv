@@ -1,0 +1,601 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,JE Taylor,2008-01-25,1st,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+1,0.2,0,JE Taylor,2008-01-25,1st,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+2,0.3,0,JE Taylor,2008-01-25,1st,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+3,0.4,0,JE Taylor,2008-01-25,1st,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+4,0.5,0,JE Taylor,2008-01-25,1st,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+5,0.6,0,JE Taylor,2008-01-25,1st,HH Gibbs,0,,GC Smith,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+6,1.1,0,FH Edwards,2008-01-25,1st,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,1,South Africa,Newlands,0,South Africa
+7,1.2,0,FH Edwards,2008-01-25,1st,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,1,South Africa,Newlands,0,South Africa
+8,1.3,0,FH Edwards,2008-01-25,1st,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,2,South Africa,Newlands,0,South Africa
+9,1.4,0,FH Edwards,2008-01-25,1st,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,2,South Africa,Newlands,0,South Africa
+10,1.5,0,FH Edwards,2008-01-25,1st,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,2,South Africa,Newlands,0,South Africa
+11,1.6,0,FH Edwards,2008-01-25,1st,GC Smith,0,,HH Gibbs,0,South Africa,West Indies,3,South Africa,Newlands,0,South Africa
+12,1.7,1,FH Edwards,2008-01-25,1st,GC Smith,0,,HH Gibbs,1,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+13,1.8,0,FH Edwards,2008-01-25,1st,HH Gibbs,1,,GC Smith,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+14,1.9,0,FH Edwards,2008-01-25,1st,HH Gibbs,1,,GC Smith,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+15,2.1,4,JE Taylor,2008-01-25,1st,GC Smith,0,,HH Gibbs,5,South Africa,West Indies,8,South Africa,Newlands,0,South Africa
+16,2.2,0,JE Taylor,2008-01-25,1st,GC Smith,0,,HH Gibbs,5,South Africa,West Indies,8,South Africa,Newlands,0,South Africa
+17,2.3,0,JE Taylor,2008-01-25,1st,GC Smith,0,,HH Gibbs,5,South Africa,West Indies,8,South Africa,Newlands,0,South Africa
+18,2.4,0,JE Taylor,2008-01-25,1st,GC Smith,0,,HH Gibbs,5,South Africa,West Indies,8,South Africa,Newlands,0,South Africa
+19,2.5,0,JE Taylor,2008-01-25,1st,GC Smith,0,,HH Gibbs,5,South Africa,West Indies,8,South Africa,Newlands,0,South Africa
+20,2.6,0,JE Taylor,2008-01-25,1st,GC Smith,0,HH Gibbs,HH Gibbs,5,South Africa,West Indies,8,South Africa,Newlands,1,South Africa
+21,3.1,1,FH Edwards,2008-01-25,1st,JH Kallis,0,,GC Smith,1,South Africa,West Indies,9,South Africa,Newlands,1,South Africa
+22,3.2,4,FH Edwards,2008-01-25,1st,GC Smith,1,,JH Kallis,4,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+23,3.3,0,FH Edwards,2008-01-25,1st,GC Smith,1,,JH Kallis,4,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+24,3.4,0,FH Edwards,2008-01-25,1st,GC Smith,1,,JH Kallis,4,South Africa,West Indies,14,South Africa,Newlands,1,South Africa
+25,3.5,0,FH Edwards,2008-01-25,1st,JH Kallis,4,,GC Smith,1,South Africa,West Indies,14,South Africa,Newlands,1,South Africa
+26,3.6,0,FH Edwards,2008-01-25,1st,JH Kallis,4,,GC Smith,1,South Africa,West Indies,14,South Africa,Newlands,1,South Africa
+27,4.1,1,JE Taylor,2008-01-25,1st,GC Smith,1,,JH Kallis,5,South Africa,West Indies,15,South Africa,Newlands,1,South Africa
+28,4.2,1,JE Taylor,2008-01-25,1st,JH Kallis,5,,GC Smith,2,South Africa,West Indies,16,South Africa,Newlands,1,South Africa
+29,4.3,2,JE Taylor,2008-01-25,1st,GC Smith,2,,JH Kallis,7,South Africa,West Indies,18,South Africa,Newlands,1,South Africa
+30,4.4,0,JE Taylor,2008-01-25,1st,GC Smith,2,,JH Kallis,7,South Africa,West Indies,18,South Africa,Newlands,1,South Africa
+31,4.5,0,JE Taylor,2008-01-25,1st,GC Smith,2,,JH Kallis,7,South Africa,West Indies,18,South Africa,Newlands,1,South Africa
+32,4.6,0,JE Taylor,2008-01-25,1st,GC Smith,2,JH Kallis,JH Kallis,7,South Africa,West Indies,18,South Africa,Newlands,2,South Africa
+33,5.1,0,FH Edwards,2008-01-25,1st,AB de Villiers,0,,GC Smith,2,South Africa,West Indies,18,South Africa,Newlands,2,South Africa
+34,5.2,1,FH Edwards,2008-01-25,1st,AB de Villiers,0,,GC Smith,3,South Africa,West Indies,19,South Africa,Newlands,2,South Africa
+35,5.3,0,FH Edwards,2008-01-25,1st,GC Smith,3,,AB de Villiers,0,South Africa,West Indies,19,South Africa,Newlands,2,South Africa
+36,5.4,0,FH Edwards,2008-01-25,1st,GC Smith,3,,AB de Villiers,0,South Africa,West Indies,19,South Africa,Newlands,2,South Africa
+37,5.5,0,FH Edwards,2008-01-25,1st,GC Smith,3,,AB de Villiers,0,South Africa,West Indies,19,South Africa,Newlands,2,South Africa
+38,5.6,0,FH Edwards,2008-01-25,1st,GC Smith,3,,AB de Villiers,0,South Africa,West Indies,19,South Africa,Newlands,2,South Africa
+39,6.1,0,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,3,South Africa,West Indies,19,South Africa,Newlands,2,South Africa
+40,6.2,4,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,7,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+41,6.3,0,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,7,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+42,6.4,0,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,7,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+43,6.5,0,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,7,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+44,6.6,0,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,7,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+45,7.1,0,FH Edwards,2008-01-25,1st,GC Smith,7,,AB de Villiers,0,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+46,7.2,0,FH Edwards,2008-01-25,1st,GC Smith,7,,AB de Villiers,0,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+47,7.3,0,FH Edwards,2008-01-25,1st,GC Smith,7,,AB de Villiers,0,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+48,7.4,0,FH Edwards,2008-01-25,1st,GC Smith,7,,AB de Villiers,0,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+49,7.5,0,FH Edwards,2008-01-25,1st,GC Smith,7,,AB de Villiers,0,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+50,7.6,0,FH Edwards,2008-01-25,1st,GC Smith,7,,AB de Villiers,0,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+51,8.1,0,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,7,South Africa,West Indies,23,South Africa,Newlands,2,South Africa
+52,8.2,4,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,11,South Africa,West Indies,27,South Africa,Newlands,2,South Africa
+53,8.3,1,JE Taylor,2008-01-25,1st,AB de Villiers,0,,GC Smith,12,South Africa,West Indies,28,South Africa,Newlands,2,South Africa
+54,8.4,0,JE Taylor,2008-01-25,1st,GC Smith,12,,AB de Villiers,0,South Africa,West Indies,28,South Africa,Newlands,2,South Africa
+55,8.5,0,JE Taylor,2008-01-25,1st,GC Smith,12,,AB de Villiers,0,South Africa,West Indies,28,South Africa,Newlands,2,South Africa
+56,8.6,0,JE Taylor,2008-01-25,1st,GC Smith,12,,AB de Villiers,0,South Africa,West Indies,28,South Africa,Newlands,2,South Africa
+57,9.1,1,FH Edwards,2008-01-25,1st,AB de Villiers,0,,GC Smith,13,South Africa,West Indies,29,South Africa,Newlands,2,South Africa
+58,9.2,0,FH Edwards,2008-01-25,1st,GC Smith,13,,AB de Villiers,0,South Africa,West Indies,29,South Africa,Newlands,2,South Africa
+59,9.3,0,FH Edwards,2008-01-25,1st,GC Smith,13,,AB de Villiers,0,South Africa,West Indies,29,South Africa,Newlands,2,South Africa
+60,9.4,4,FH Edwards,2008-01-25,1st,GC Smith,13,,AB de Villiers,4,South Africa,West Indies,33,South Africa,Newlands,2,South Africa
+61,9.5,0,FH Edwards,2008-01-25,1st,GC Smith,13,,AB de Villiers,4,South Africa,West Indies,33,South Africa,Newlands,2,South Africa
+62,9.6,0,FH Edwards,2008-01-25,1st,GC Smith,13,,AB de Villiers,4,South Africa,West Indies,33,South Africa,Newlands,2,South Africa
+63,10.1,0,JE Taylor,2008-01-25,1st,AB de Villiers,4,,GC Smith,13,South Africa,West Indies,33,South Africa,Newlands,2,South Africa
+64,10.2,0,JE Taylor,2008-01-25,1st,AB de Villiers,4,,GC Smith,13,South Africa,West Indies,33,South Africa,Newlands,2,South Africa
+65,10.3,0,JE Taylor,2008-01-25,1st,AB de Villiers,4,,GC Smith,13,South Africa,West Indies,33,South Africa,Newlands,2,South Africa
+66,10.4,0,JE Taylor,2008-01-25,1st,AB de Villiers,4,,GC Smith,13,South Africa,West Indies,33,South Africa,Newlands,2,South Africa
+67,10.5,0,JE Taylor,2008-01-25,1st,AB de Villiers,4,,GC Smith,13,South Africa,West Indies,34,South Africa,Newlands,2,South Africa
+68,10.6,0,JE Taylor,2008-01-25,1st,AB de Villiers,4,,GC Smith,13,South Africa,West Indies,34,South Africa,Newlands,2,South Africa
+69,10.7,0,JE Taylor,2008-01-25,1st,AB de Villiers,4,,GC Smith,13,South Africa,West Indies,34,South Africa,Newlands,2,South Africa
+70,11.1,4,R Rampaul,2008-01-25,1st,GC Smith,13,,AB de Villiers,8,South Africa,West Indies,38,South Africa,Newlands,2,South Africa
+71,11.2,6,R Rampaul,2008-01-25,1st,GC Smith,13,,AB de Villiers,14,South Africa,West Indies,44,South Africa,Newlands,2,South Africa
+72,11.3,4,R Rampaul,2008-01-25,1st,GC Smith,13,,AB de Villiers,18,South Africa,West Indies,48,South Africa,Newlands,2,South Africa
+73,11.4,0,R Rampaul,2008-01-25,1st,GC Smith,13,,AB de Villiers,18,South Africa,West Indies,48,South Africa,Newlands,2,South Africa
+74,11.5,4,R Rampaul,2008-01-25,1st,GC Smith,13,,AB de Villiers,22,South Africa,West Indies,52,South Africa,Newlands,2,South Africa
+75,11.6,0,R Rampaul,2008-01-25,1st,GC Smith,13,,AB de Villiers,22,South Africa,West Indies,52,South Africa,Newlands,2,South Africa
+76,12.1,0,DJG Sammy,2008-01-25,1st,AB de Villiers,22,,GC Smith,13,South Africa,West Indies,52,South Africa,Newlands,2,South Africa
+77,12.2,4,DJG Sammy,2008-01-25,1st,AB de Villiers,22,,GC Smith,17,South Africa,West Indies,56,South Africa,Newlands,2,South Africa
+78,12.3,0,DJG Sammy,2008-01-25,1st,AB de Villiers,22,,GC Smith,17,South Africa,West Indies,56,South Africa,Newlands,2,South Africa
+79,12.4,1,DJG Sammy,2008-01-25,1st,AB de Villiers,22,,GC Smith,18,South Africa,West Indies,57,South Africa,Newlands,2,South Africa
+80,12.5,0,DJG Sammy,2008-01-25,1st,GC Smith,18,,AB de Villiers,22,South Africa,West Indies,57,South Africa,Newlands,2,South Africa
+81,12.6,0,DJG Sammy,2008-01-25,1st,GC Smith,18,,AB de Villiers,22,South Africa,West Indies,57,South Africa,Newlands,2,South Africa
+82,13.1,0,FH Edwards,2008-01-25,1st,AB de Villiers,22,,GC Smith,18,South Africa,West Indies,57,South Africa,Newlands,2,South Africa
+83,13.2,1,FH Edwards,2008-01-25,1st,AB de Villiers,22,,GC Smith,19,South Africa,West Indies,58,South Africa,Newlands,2,South Africa
+84,13.3,1,FH Edwards,2008-01-25,1st,GC Smith,19,,AB de Villiers,23,South Africa,West Indies,59,South Africa,Newlands,2,South Africa
+85,13.4,4,FH Edwards,2008-01-25,1st,AB de Villiers,23,,GC Smith,23,South Africa,West Indies,63,South Africa,Newlands,2,South Africa
+86,13.5,1,FH Edwards,2008-01-25,1st,AB de Villiers,23,,GC Smith,24,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+87,13.6,0,FH Edwards,2008-01-25,1st,GC Smith,24,,AB de Villiers,23,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+88,14.1,0,DJG Sammy,2008-01-25,1st,AB de Villiers,23,,GC Smith,24,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+89,14.2,0,DJG Sammy,2008-01-25,1st,AB de Villiers,23,,GC Smith,24,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+90,14.3,0,DJG Sammy,2008-01-25,1st,AB de Villiers,23,,GC Smith,24,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+91,14.4,0,DJG Sammy,2008-01-25,1st,AB de Villiers,23,,GC Smith,24,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+92,14.5,4,DJG Sammy,2008-01-25,1st,AB de Villiers,23,,GC Smith,28,South Africa,West Indies,68,South Africa,Newlands,2,South Africa
+93,14.6,0,DJG Sammy,2008-01-25,1st,AB de Villiers,23,,GC Smith,28,South Africa,West Indies,68,South Africa,Newlands,2,South Africa
+94,15.1,0,FH Edwards,2008-01-25,1st,GC Smith,28,,AB de Villiers,23,South Africa,West Indies,68,South Africa,Newlands,2,South Africa
+95,15.2,4,FH Edwards,2008-01-25,1st,GC Smith,28,,AB de Villiers,27,South Africa,West Indies,72,South Africa,Newlands,2,South Africa
+96,15.3,0,FH Edwards,2008-01-25,1st,GC Smith,28,,AB de Villiers,27,South Africa,West Indies,72,South Africa,Newlands,2,South Africa
+97,15.4,0,FH Edwards,2008-01-25,1st,GC Smith,28,,AB de Villiers,27,South Africa,West Indies,72,South Africa,Newlands,2,South Africa
+98,15.5,0,FH Edwards,2008-01-25,1st,GC Smith,28,,AB de Villiers,27,South Africa,West Indies,72,South Africa,Newlands,2,South Africa
+99,15.6,1,FH Edwards,2008-01-25,1st,GC Smith,28,,AB de Villiers,28,South Africa,West Indies,73,South Africa,Newlands,2,South Africa
+100,16.1,0,DJG Sammy,2008-01-25,1st,GC Smith,28,,AB de Villiers,28,South Africa,West Indies,73,South Africa,Newlands,2,South Africa
+101,16.2,0,DJG Sammy,2008-01-25,1st,GC Smith,28,,AB de Villiers,28,South Africa,West Indies,73,South Africa,Newlands,2,South Africa
+102,16.3,0,DJG Sammy,2008-01-25,1st,GC Smith,28,,AB de Villiers,28,South Africa,West Indies,73,South Africa,Newlands,2,South Africa
+103,16.4,1,DJG Sammy,2008-01-25,1st,GC Smith,28,,AB de Villiers,29,South Africa,West Indies,74,South Africa,Newlands,2,South Africa
+104,16.5,0,DJG Sammy,2008-01-25,1st,AB de Villiers,29,,GC Smith,28,South Africa,West Indies,74,South Africa,Newlands,2,South Africa
+105,16.6,0,DJG Sammy,2008-01-25,1st,AB de Villiers,29,,GC Smith,28,South Africa,West Indies,74,South Africa,Newlands,2,South Africa
+106,17.1,0,R Rampaul,2008-01-25,1st,GC Smith,28,,AB de Villiers,29,South Africa,West Indies,74,South Africa,Newlands,2,South Africa
+107,17.2,4,R Rampaul,2008-01-25,1st,GC Smith,28,,AB de Villiers,33,South Africa,West Indies,78,South Africa,Newlands,2,South Africa
+108,17.3,4,R Rampaul,2008-01-25,1st,GC Smith,28,,AB de Villiers,37,South Africa,West Indies,82,South Africa,Newlands,2,South Africa
+109,17.4,0,R Rampaul,2008-01-25,1st,GC Smith,28,,AB de Villiers,37,South Africa,West Indies,82,South Africa,Newlands,2,South Africa
+110,17.5,1,R Rampaul,2008-01-25,1st,GC Smith,28,,AB de Villiers,38,South Africa,West Indies,83,South Africa,Newlands,2,South Africa
+111,17.6,1,R Rampaul,2008-01-25,1st,AB de Villiers,38,,GC Smith,29,South Africa,West Indies,84,South Africa,Newlands,2,South Africa
+112,18.1,4,DJG Sammy,2008-01-25,1st,AB de Villiers,38,,GC Smith,33,South Africa,West Indies,88,South Africa,Newlands,2,South Africa
+113,18.2,0,DJG Sammy,2008-01-25,1st,AB de Villiers,38,,GC Smith,33,South Africa,West Indies,88,South Africa,Newlands,2,South Africa
+114,18.3,1,DJG Sammy,2008-01-25,1st,AB de Villiers,38,,GC Smith,34,South Africa,West Indies,89,South Africa,Newlands,2,South Africa
+115,18.4,1,DJG Sammy,2008-01-25,1st,GC Smith,34,,AB de Villiers,39,South Africa,West Indies,90,South Africa,Newlands,2,South Africa
+116,18.5,4,DJG Sammy,2008-01-25,1st,AB de Villiers,39,,GC Smith,38,South Africa,West Indies,94,South Africa,Newlands,2,South Africa
+117,18.6,2,DJG Sammy,2008-01-25,1st,AB de Villiers,39,,GC Smith,40,South Africa,West Indies,96,South Africa,Newlands,2,South Africa
+118,19.1,1,R Rampaul,2008-01-25,1st,GC Smith,40,,AB de Villiers,40,South Africa,West Indies,97,South Africa,Newlands,2,South Africa
+119,19.2,0,R Rampaul,2008-01-25,1st,AB de Villiers,40,,GC Smith,40,South Africa,West Indies,97,South Africa,Newlands,2,South Africa
+120,19.3,2,R Rampaul,2008-01-25,1st,AB de Villiers,40,,GC Smith,42,South Africa,West Indies,99,South Africa,Newlands,2,South Africa
+121,19.4,0,R Rampaul,2008-01-25,1st,AB de Villiers,40,,GC Smith,42,South Africa,West Indies,99,South Africa,Newlands,2,South Africa
+122,19.5,1,R Rampaul,2008-01-25,1st,AB de Villiers,40,,GC Smith,43,South Africa,West Indies,100,South Africa,Newlands,2,South Africa
+123,19.6,1,R Rampaul,2008-01-25,1st,GC Smith,43,,AB de Villiers,41,South Africa,West Indies,101,South Africa,Newlands,2,South Africa
+124,20.1,0,DJG Sammy,2008-01-25,1st,GC Smith,43,,AB de Villiers,41,South Africa,West Indies,101,South Africa,Newlands,2,South Africa
+125,20.2,0,DJG Sammy,2008-01-25,1st,GC Smith,43,,AB de Villiers,41,South Africa,West Indies,101,South Africa,Newlands,2,South Africa
+126,20.3,0,DJG Sammy,2008-01-25,1st,GC Smith,43,,AB de Villiers,41,South Africa,West Indies,101,South Africa,Newlands,2,South Africa
+127,20.4,1,DJG Sammy,2008-01-25,1st,GC Smith,43,,AB de Villiers,42,South Africa,West Indies,102,South Africa,Newlands,2,South Africa
+128,20.5,1,DJG Sammy,2008-01-25,1st,AB de Villiers,42,,GC Smith,44,South Africa,West Indies,103,South Africa,Newlands,2,South Africa
+129,20.6,0,DJG Sammy,2008-01-25,1st,GC Smith,44,,AB de Villiers,42,South Africa,West Indies,103,South Africa,Newlands,2,South Africa
+130,21.1,0,MN Samuels,2008-01-25,1st,AB de Villiers,42,,GC Smith,44,South Africa,West Indies,103,South Africa,Newlands,2,South Africa
+131,21.2,1,MN Samuels,2008-01-25,1st,AB de Villiers,42,,GC Smith,45,South Africa,West Indies,104,South Africa,Newlands,2,South Africa
+132,21.3,0,MN Samuels,2008-01-25,1st,GC Smith,45,,AB de Villiers,42,South Africa,West Indies,104,South Africa,Newlands,2,South Africa
+133,21.4,2,MN Samuels,2008-01-25,1st,GC Smith,45,,AB de Villiers,44,South Africa,West Indies,106,South Africa,Newlands,2,South Africa
+134,21.5,0,MN Samuels,2008-01-25,1st,GC Smith,45,,AB de Villiers,44,South Africa,West Indies,106,South Africa,Newlands,2,South Africa
+135,21.6,0,MN Samuels,2008-01-25,1st,GC Smith,45,,AB de Villiers,44,South Africa,West Indies,106,South Africa,Newlands,2,South Africa
+136,22.1,1,DJG Sammy,2008-01-25,1st,AB de Villiers,44,,GC Smith,46,South Africa,West Indies,107,South Africa,Newlands,2,South Africa
+137,22.2,0,DJG Sammy,2008-01-25,1st,GC Smith,46,,AB de Villiers,44,South Africa,West Indies,107,South Africa,Newlands,2,South Africa
+138,22.3,0,DJG Sammy,2008-01-25,1st,GC Smith,46,,AB de Villiers,44,South Africa,West Indies,107,South Africa,Newlands,2,South Africa
+139,22.4,1,DJG Sammy,2008-01-25,1st,GC Smith,46,,AB de Villiers,45,South Africa,West Indies,108,South Africa,Newlands,2,South Africa
+140,22.5,1,DJG Sammy,2008-01-25,1st,AB de Villiers,45,,GC Smith,47,South Africa,West Indies,109,South Africa,Newlands,2,South Africa
+141,22.6,0,DJG Sammy,2008-01-25,1st,GC Smith,47,AB de Villiers,AB de Villiers,45,South Africa,West Indies,109,South Africa,Newlands,3,South Africa
+142,23.1,0,MN Samuels,2008-01-25,1st,JP Duminy,0,,GC Smith,47,South Africa,West Indies,109,South Africa,Newlands,3,South Africa
+143,23.2,1,MN Samuels,2008-01-25,1st,JP Duminy,0,,GC Smith,48,South Africa,West Indies,110,South Africa,Newlands,3,South Africa
+144,23.3,0,MN Samuels,2008-01-25,1st,GC Smith,48,,JP Duminy,0,South Africa,West Indies,110,South Africa,Newlands,3,South Africa
+145,23.4,0,MN Samuels,2008-01-25,1st,GC Smith,48,,JP Duminy,0,South Africa,West Indies,110,South Africa,Newlands,3,South Africa
+146,23.5,1,MN Samuels,2008-01-25,1st,GC Smith,48,,JP Duminy,1,South Africa,West Indies,111,South Africa,Newlands,3,South Africa
+147,23.6,0,MN Samuels,2008-01-25,1st,JP Duminy,1,,GC Smith,48,South Africa,West Indies,111,South Africa,Newlands,3,South Africa
+148,24.1,0,DJG Sammy,2008-01-25,1st,GC Smith,48,,JP Duminy,1,South Africa,West Indies,111,South Africa,Newlands,3,South Africa
+149,24.2,0,DJG Sammy,2008-01-25,1st,GC Smith,48,,JP Duminy,1,South Africa,West Indies,111,South Africa,Newlands,3,South Africa
+150,24.3,0,DJG Sammy,2008-01-25,1st,GC Smith,48,,JP Duminy,1,South Africa,West Indies,111,South Africa,Newlands,3,South Africa
+151,24.4,0,DJG Sammy,2008-01-25,1st,GC Smith,48,,JP Duminy,1,South Africa,West Indies,111,South Africa,Newlands,3,South Africa
+152,24.5,1,DJG Sammy,2008-01-25,1st,GC Smith,48,,JP Duminy,2,South Africa,West Indies,112,South Africa,Newlands,3,South Africa
+153,24.6,4,DJG Sammy,2008-01-25,1st,JP Duminy,2,,GC Smith,52,South Africa,West Indies,116,South Africa,Newlands,3,South Africa
+154,25.1,0,MN Samuels,2008-01-25,1st,GC Smith,52,,JP Duminy,2,South Africa,West Indies,116,South Africa,Newlands,3,South Africa
+155,25.2,4,MN Samuels,2008-01-25,1st,GC Smith,52,,JP Duminy,6,South Africa,West Indies,120,South Africa,Newlands,3,South Africa
+156,25.3,1,MN Samuels,2008-01-25,1st,GC Smith,52,,JP Duminy,7,South Africa,West Indies,121,South Africa,Newlands,3,South Africa
+157,25.4,0,MN Samuels,2008-01-25,1st,JP Duminy,7,,GC Smith,52,South Africa,West Indies,121,South Africa,Newlands,3,South Africa
+158,25.5,2,MN Samuels,2008-01-25,1st,JP Duminy,7,,GC Smith,54,South Africa,West Indies,123,South Africa,Newlands,3,South Africa
+159,25.6,0,MN Samuels,2008-01-25,1st,JP Duminy,7,,GC Smith,54,South Africa,West Indies,123,South Africa,Newlands,3,South Africa
+160,26.1,0,S Chattergoon,2008-01-25,1st,GC Smith,54,,JP Duminy,7,South Africa,West Indies,123,South Africa,Newlands,3,South Africa
+161,26.2,0,S Chattergoon,2008-01-25,1st,GC Smith,54,,JP Duminy,7,South Africa,West Indies,123,South Africa,Newlands,3,South Africa
+162,26.3,1,S Chattergoon,2008-01-25,1st,GC Smith,54,,JP Duminy,8,South Africa,West Indies,124,South Africa,Newlands,3,South Africa
+163,26.4,1,S Chattergoon,2008-01-25,1st,JP Duminy,8,,GC Smith,55,South Africa,West Indies,125,South Africa,Newlands,3,South Africa
+164,26.5,1,S Chattergoon,2008-01-25,1st,GC Smith,55,,JP Duminy,9,South Africa,West Indies,126,South Africa,Newlands,3,South Africa
+165,26.6,0,S Chattergoon,2008-01-25,1st,JP Duminy,9,,GC Smith,55,South Africa,West Indies,126,South Africa,Newlands,3,South Africa
+166,27.1,0,MN Samuels,2008-01-25,1st,GC Smith,55,,JP Duminy,9,South Africa,West Indies,126,South Africa,Newlands,3,South Africa
+167,27.2,0,MN Samuels,2008-01-25,1st,GC Smith,55,,JP Duminy,9,South Africa,West Indies,126,South Africa,Newlands,3,South Africa
+168,27.3,1,MN Samuels,2008-01-25,1st,GC Smith,55,,JP Duminy,10,South Africa,West Indies,127,South Africa,Newlands,3,South Africa
+169,27.4,0,MN Samuels,2008-01-25,1st,JP Duminy,10,,GC Smith,55,South Africa,West Indies,127,South Africa,Newlands,3,South Africa
+170,27.5,0,MN Samuels,2008-01-25,1st,JP Duminy,10,,GC Smith,55,South Africa,West Indies,127,South Africa,Newlands,3,South Africa
+171,27.6,4,MN Samuels,2008-01-25,1st,JP Duminy,10,,GC Smith,59,South Africa,West Indies,131,South Africa,Newlands,3,South Africa
+172,28.1,0,S Chattergoon,2008-01-25,1st,GC Smith,59,,JP Duminy,10,South Africa,West Indies,131,South Africa,Newlands,3,South Africa
+173,28.2,0,S Chattergoon,2008-01-25,1st,GC Smith,59,,JP Duminy,10,South Africa,West Indies,131,South Africa,Newlands,3,South Africa
+174,28.3,1,S Chattergoon,2008-01-25,1st,GC Smith,59,,JP Duminy,11,South Africa,West Indies,132,South Africa,Newlands,3,South Africa
+175,28.4,0,S Chattergoon,2008-01-25,1st,JP Duminy,11,,GC Smith,59,South Africa,West Indies,132,South Africa,Newlands,3,South Africa
+176,28.5,0,S Chattergoon,2008-01-25,1st,JP Duminy,11,,GC Smith,59,South Africa,West Indies,132,South Africa,Newlands,3,South Africa
+177,28.6,1,S Chattergoon,2008-01-25,1st,JP Duminy,11,,GC Smith,60,South Africa,West Indies,133,South Africa,Newlands,3,South Africa
+178,29.1,4,MN Samuels,2008-01-25,1st,JP Duminy,11,,GC Smith,64,South Africa,West Indies,137,South Africa,Newlands,3,South Africa
+179,29.2,0,MN Samuels,2008-01-25,1st,JP Duminy,11,,GC Smith,64,South Africa,West Indies,137,South Africa,Newlands,3,South Africa
+180,29.3,1,MN Samuels,2008-01-25,1st,JP Duminy,11,,GC Smith,65,South Africa,West Indies,138,South Africa,Newlands,3,South Africa
+181,29.4,1,MN Samuels,2008-01-25,1st,GC Smith,65,,JP Duminy,12,South Africa,West Indies,139,South Africa,Newlands,3,South Africa
+182,29.5,0,MN Samuels,2008-01-25,1st,JP Duminy,12,,GC Smith,65,South Africa,West Indies,139,South Africa,Newlands,3,South Africa
+183,29.6,0,MN Samuels,2008-01-25,1st,JP Duminy,12,,GC Smith,65,South Africa,West Indies,140,South Africa,Newlands,3,South Africa
+184,30.1,1,S Chattergoon,2008-01-25,1st,JP Duminy,12,,GC Smith,66,South Africa,West Indies,141,South Africa,Newlands,3,South Africa
+185,30.2,1,S Chattergoon,2008-01-25,1st,GC Smith,66,,JP Duminy,13,South Africa,West Indies,142,South Africa,Newlands,3,South Africa
+186,30.3,0,S Chattergoon,2008-01-25,1st,JP Duminy,13,,GC Smith,66,South Africa,West Indies,142,South Africa,Newlands,3,South Africa
+187,30.4,1,S Chattergoon,2008-01-25,1st,JP Duminy,13,,GC Smith,67,South Africa,West Indies,143,South Africa,Newlands,3,South Africa
+188,30.5,2,S Chattergoon,2008-01-25,1st,GC Smith,67,,JP Duminy,15,South Africa,West Indies,145,South Africa,Newlands,3,South Africa
+189,30.6,0,S Chattergoon,2008-01-25,1st,GC Smith,67,,JP Duminy,15,South Africa,West Indies,145,South Africa,Newlands,3,South Africa
+190,31.1,0,MN Samuels,2008-01-25,1st,JP Duminy,15,,GC Smith,67,South Africa,West Indies,145,South Africa,Newlands,3,South Africa
+191,31.2,1,MN Samuels,2008-01-25,1st,JP Duminy,15,,GC Smith,68,South Africa,West Indies,146,South Africa,Newlands,3,South Africa
+192,31.3,0,MN Samuels,2008-01-25,1st,GC Smith,68,,JP Duminy,15,South Africa,West Indies,146,South Africa,Newlands,3,South Africa
+193,31.4,0,MN Samuels,2008-01-25,1st,GC Smith,68,,JP Duminy,15,South Africa,West Indies,146,South Africa,Newlands,3,South Africa
+194,31.5,1,MN Samuels,2008-01-25,1st,GC Smith,68,,JP Duminy,16,South Africa,West Indies,147,South Africa,Newlands,3,South Africa
+195,31.6,1,MN Samuels,2008-01-25,1st,JP Duminy,16,,GC Smith,69,South Africa,West Indies,148,South Africa,Newlands,3,South Africa
+196,32.1,2,S Chattergoon,2008-01-25,1st,JP Duminy,16,,GC Smith,71,South Africa,West Indies,150,South Africa,Newlands,3,South Africa
+197,32.2,0,S Chattergoon,2008-01-25,1st,JP Duminy,16,,GC Smith,71,South Africa,West Indies,150,South Africa,Newlands,3,South Africa
+198,32.3,1,S Chattergoon,2008-01-25,1st,JP Duminy,16,,GC Smith,72,South Africa,West Indies,151,South Africa,Newlands,3,South Africa
+199,32.4,1,S Chattergoon,2008-01-25,1st,GC Smith,72,,JP Duminy,17,South Africa,West Indies,152,South Africa,Newlands,3,South Africa
+200,32.5,1,S Chattergoon,2008-01-25,1st,JP Duminy,17,,GC Smith,73,South Africa,West Indies,153,South Africa,Newlands,3,South Africa
+201,32.6,0,S Chattergoon,2008-01-25,1st,GC Smith,73,,JP Duminy,17,South Africa,West Indies,153,South Africa,Newlands,3,South Africa
+202,33.1,0,MN Samuels,2008-01-25,1st,JP Duminy,17,,GC Smith,73,South Africa,West Indies,153,South Africa,Newlands,3,South Africa
+203,33.2,1,MN Samuels,2008-01-25,1st,JP Duminy,17,,GC Smith,74,South Africa,West Indies,154,South Africa,Newlands,3,South Africa
+204,33.3,0,MN Samuels,2008-01-25,1st,GC Smith,74,,JP Duminy,17,South Africa,West Indies,158,South Africa,Newlands,3,South Africa
+205,33.4,0,MN Samuels,2008-01-25,1st,GC Smith,74,,JP Duminy,17,South Africa,West Indies,158,South Africa,Newlands,3,South Africa
+206,33.5,1,MN Samuels,2008-01-25,1st,GC Smith,74,,JP Duminy,18,South Africa,West Indies,159,South Africa,Newlands,3,South Africa
+207,33.6,0,MN Samuels,2008-01-25,1st,JP Duminy,18,,GC Smith,74,South Africa,West Indies,159,South Africa,Newlands,3,South Africa
+208,34.1,0,S Chattergoon,2008-01-25,1st,GC Smith,74,,JP Duminy,18,South Africa,West Indies,159,South Africa,Newlands,3,South Africa
+209,34.2,0,S Chattergoon,2008-01-25,1st,GC Smith,74,,JP Duminy,18,South Africa,West Indies,159,South Africa,Newlands,3,South Africa
+210,34.3,1,S Chattergoon,2008-01-25,1st,GC Smith,74,,JP Duminy,19,South Africa,West Indies,160,South Africa,Newlands,3,South Africa
+211,34.4,0,S Chattergoon,2008-01-25,1st,JP Duminy,19,,GC Smith,74,South Africa,West Indies,160,South Africa,Newlands,3,South Africa
+212,34.5,1,S Chattergoon,2008-01-25,1st,JP Duminy,19,,GC Smith,75,South Africa,West Indies,161,South Africa,Newlands,3,South Africa
+213,34.6,1,S Chattergoon,2008-01-25,1st,GC Smith,75,,JP Duminy,20,South Africa,West Indies,162,South Africa,Newlands,3,South Africa
+214,35.1,1,MN Samuels,2008-01-25,1st,GC Smith,75,,JP Duminy,21,South Africa,West Indies,163,South Africa,Newlands,3,South Africa
+215,35.2,1,MN Samuels,2008-01-25,1st,JP Duminy,21,,GC Smith,76,South Africa,West Indies,164,South Africa,Newlands,3,South Africa
+216,35.3,1,MN Samuels,2008-01-25,1st,GC Smith,76,,JP Duminy,22,South Africa,West Indies,165,South Africa,Newlands,3,South Africa
+217,35.4,0,MN Samuels,2008-01-25,1st,JP Duminy,22,,GC Smith,76,South Africa,West Indies,165,South Africa,Newlands,3,South Africa
+218,35.5,2,MN Samuels,2008-01-25,1st,JP Duminy,22,,GC Smith,78,South Africa,West Indies,167,South Africa,Newlands,3,South Africa
+219,35.6,1,MN Samuels,2008-01-25,1st,JP Duminy,22,,GC Smith,79,South Africa,West Indies,168,South Africa,Newlands,3,South Africa
+220,36.1,0,S Chattergoon,2008-01-25,1st,JP Duminy,22,,GC Smith,79,South Africa,West Indies,168,South Africa,Newlands,3,South Africa
+221,36.2,0,S Chattergoon,2008-01-25,1st,JP Duminy,22,,GC Smith,79,South Africa,West Indies,168,South Africa,Newlands,3,South Africa
+222,36.3,1,S Chattergoon,2008-01-25,1st,JP Duminy,22,,GC Smith,80,South Africa,West Indies,169,South Africa,Newlands,3,South Africa
+223,36.4,1,S Chattergoon,2008-01-25,1st,GC Smith,80,,JP Duminy,23,South Africa,West Indies,170,South Africa,Newlands,3,South Africa
+224,36.5,4,S Chattergoon,2008-01-25,1st,JP Duminy,23,,GC Smith,84,South Africa,West Indies,174,South Africa,Newlands,3,South Africa
+225,36.6,1,S Chattergoon,2008-01-25,1st,JP Duminy,23,,GC Smith,85,South Africa,West Indies,175,South Africa,Newlands,3,South Africa
+226,37.1,1,MN Samuels,2008-01-25,1st,JP Duminy,23,,GC Smith,86,South Africa,West Indies,176,South Africa,Newlands,3,South Africa
+227,37.2,4,MN Samuels,2008-01-25,1st,GC Smith,86,,JP Duminy,27,South Africa,West Indies,180,South Africa,Newlands,3,South Africa
+228,37.3,1,MN Samuels,2008-01-25,1st,GC Smith,86,,JP Duminy,28,South Africa,West Indies,181,South Africa,Newlands,3,South Africa
+229,37.4,0,MN Samuels,2008-01-25,1st,JP Duminy,28,GC Smith,GC Smith,86,South Africa,West Indies,181,South Africa,Newlands,4,South Africa
+230,37.5,0,MN Samuels,2008-01-25,1st,JP Duminy,28,,MV Boucher,0,South Africa,West Indies,181,South Africa,Newlands,4,South Africa
+231,37.6,0,MN Samuels,2008-01-25,1st,JP Duminy,28,,MV Boucher,0,South Africa,West Indies,181,South Africa,Newlands,4,South Africa
+232,38.1,2,S Chattergoon,2008-01-25,1st,MV Boucher,0,,JP Duminy,30,South Africa,West Indies,183,South Africa,Newlands,4,South Africa
+233,38.2,1,S Chattergoon,2008-01-25,1st,MV Boucher,0,,JP Duminy,31,South Africa,West Indies,184,South Africa,Newlands,4,South Africa
+234,38.3,0,S Chattergoon,2008-01-25,1st,JP Duminy,31,,MV Boucher,0,South Africa,West Indies,184,South Africa,Newlands,4,South Africa
+235,38.4,0,S Chattergoon,2008-01-25,1st,JP Duminy,31,,MV Boucher,0,South Africa,West Indies,184,South Africa,Newlands,4,South Africa
+236,38.5,1,S Chattergoon,2008-01-25,1st,JP Duminy,31,,MV Boucher,1,South Africa,West Indies,185,South Africa,Newlands,4,South Africa
+237,38.6,1,S Chattergoon,2008-01-25,1st,MV Boucher,1,,JP Duminy,32,South Africa,West Indies,186,South Africa,Newlands,4,South Africa
+238,39.1,0,MN Samuels,2008-01-25,1st,MV Boucher,1,,JP Duminy,32,South Africa,West Indies,186,South Africa,Newlands,4,South Africa
+239,39.2,0,MN Samuels,2008-01-25,1st,MV Boucher,1,,JP Duminy,32,South Africa,West Indies,186,South Africa,Newlands,4,South Africa
+240,39.3,0,MN Samuels,2008-01-25,1st,MV Boucher,1,,JP Duminy,32,South Africa,West Indies,186,South Africa,Newlands,4,South Africa
+241,39.4,0,MN Samuels,2008-01-25,1st,MV Boucher,1,,JP Duminy,32,South Africa,West Indies,186,South Africa,Newlands,4,South Africa
+242,39.5,1,MN Samuels,2008-01-25,1st,MV Boucher,1,,JP Duminy,33,South Africa,West Indies,187,South Africa,Newlands,4,South Africa
+243,39.6,1,MN Samuels,2008-01-25,1st,JP Duminy,33,,MV Boucher,2,South Africa,West Indies,188,South Africa,Newlands,4,South Africa
+244,40.1,2,JE Taylor,2008-01-25,1st,JP Duminy,33,,MV Boucher,4,South Africa,West Indies,190,South Africa,Newlands,4,South Africa
+245,40.2,1,JE Taylor,2008-01-25,1st,JP Duminy,33,,MV Boucher,5,South Africa,West Indies,191,South Africa,Newlands,4,South Africa
+246,40.3,0,JE Taylor,2008-01-25,1st,MV Boucher,5,,JP Duminy,33,South Africa,West Indies,191,South Africa,Newlands,4,South Africa
+247,40.4,0,JE Taylor,2008-01-25,1st,MV Boucher,5,,JP Duminy,33,South Africa,West Indies,191,South Africa,Newlands,4,South Africa
+248,40.5,0,JE Taylor,2008-01-25,1st,MV Boucher,5,,JP Duminy,33,South Africa,West Indies,191,South Africa,Newlands,4,South Africa
+249,40.6,1,JE Taylor,2008-01-25,1st,MV Boucher,5,,JP Duminy,34,South Africa,West Indies,192,South Africa,Newlands,4,South Africa
+250,41.1,0,DJG Sammy,2008-01-25,1st,MV Boucher,5,,JP Duminy,34,South Africa,West Indies,192,South Africa,Newlands,4,South Africa
+251,41.2,4,DJG Sammy,2008-01-25,1st,MV Boucher,5,,JP Duminy,38,South Africa,West Indies,196,South Africa,Newlands,4,South Africa
+252,41.3,1,DJG Sammy,2008-01-25,1st,MV Boucher,5,,JP Duminy,39,South Africa,West Indies,197,South Africa,Newlands,4,South Africa
+253,41.4,1,DJG Sammy,2008-01-25,1st,JP Duminy,39,,MV Boucher,6,South Africa,West Indies,198,South Africa,Newlands,4,South Africa
+254,41.5,1,DJG Sammy,2008-01-25,1st,MV Boucher,6,,JP Duminy,40,South Africa,West Indies,199,South Africa,Newlands,4,South Africa
+255,41.6,0,DJG Sammy,2008-01-25,1st,JP Duminy,40,,MV Boucher,6,South Africa,West Indies,199,South Africa,Newlands,4,South Africa
+256,42.1,0,JE Taylor,2008-01-25,1st,MV Boucher,6,,JP Duminy,40,South Africa,West Indies,199,South Africa,Newlands,4,South Africa
+257,42.2,2,JE Taylor,2008-01-25,1st,MV Boucher,6,,JP Duminy,42,South Africa,West Indies,201,South Africa,Newlands,4,South Africa
+258,42.3,1,JE Taylor,2008-01-25,1st,MV Boucher,6,,JP Duminy,43,South Africa,West Indies,202,South Africa,Newlands,4,South Africa
+259,42.4,1,JE Taylor,2008-01-25,1st,JP Duminy,43,,MV Boucher,7,South Africa,West Indies,203,South Africa,Newlands,4,South Africa
+260,42.5,1,JE Taylor,2008-01-25,1st,MV Boucher,7,,JP Duminy,44,South Africa,West Indies,204,South Africa,Newlands,4,South Africa
+261,42.6,1,JE Taylor,2008-01-25,1st,JP Duminy,44,,MV Boucher,8,South Africa,West Indies,205,South Africa,Newlands,4,South Africa
+262,43.1,1,DJG Sammy,2008-01-25,1st,JP Duminy,44,,MV Boucher,9,South Africa,West Indies,206,South Africa,Newlands,4,South Africa
+263,43.2,4,DJG Sammy,2008-01-25,1st,MV Boucher,9,,JP Duminy,48,South Africa,West Indies,210,South Africa,Newlands,4,South Africa
+264,43.3,0,DJG Sammy,2008-01-25,1st,MV Boucher,9,,JP Duminy,48,South Africa,West Indies,211,South Africa,Newlands,4,South Africa
+265,43.4,1,DJG Sammy,2008-01-25,1st,MV Boucher,9,,JP Duminy,49,South Africa,West Indies,212,South Africa,Newlands,4,South Africa
+266,43.5,1,DJG Sammy,2008-01-25,1st,JP Duminy,49,,MV Boucher,10,South Africa,West Indies,213,South Africa,Newlands,4,South Africa
+267,43.6,1,DJG Sammy,2008-01-25,1st,MV Boucher,10,,JP Duminy,50,South Africa,West Indies,214,South Africa,Newlands,4,South Africa
+268,43.7,1,DJG Sammy,2008-01-25,1st,JP Duminy,50,,MV Boucher,11,South Africa,West Indies,215,South Africa,Newlands,4,South Africa
+269,44.1,6,FH Edwards,2008-01-25,1st,JP Duminy,50,,MV Boucher,17,South Africa,West Indies,221,South Africa,Newlands,4,South Africa
+270,44.2,0,FH Edwards,2008-01-25,1st,JP Duminy,50,MV Boucher,MV Boucher,17,South Africa,West Indies,221,South Africa,Newlands,5,South Africa
+271,44.3,1,FH Edwards,2008-01-25,1st,JP Duminy,50,,SM Pollock,1,South Africa,West Indies,222,South Africa,Newlands,5,South Africa
+272,44.4,1,FH Edwards,2008-01-25,1st,SM Pollock,1,,JP Duminy,51,South Africa,West Indies,223,South Africa,Newlands,5,South Africa
+273,44.5,1,FH Edwards,2008-01-25,1st,JP Duminy,51,,SM Pollock,2,South Africa,West Indies,224,South Africa,Newlands,5,South Africa
+274,44.6,0,FH Edwards,2008-01-25,1st,SM Pollock,2,,JP Duminy,51,South Africa,West Indies,224,South Africa,Newlands,5,South Africa
+275,45.1,1,DJG Sammy,2008-01-25,1st,JP Duminy,51,,SM Pollock,3,South Africa,West Indies,225,South Africa,Newlands,5,South Africa
+276,45.2,1,DJG Sammy,2008-01-25,1st,SM Pollock,3,,JP Duminy,52,South Africa,West Indies,226,South Africa,Newlands,5,South Africa
+277,45.3,1,DJG Sammy,2008-01-25,1st,JP Duminy,52,,SM Pollock,4,South Africa,West Indies,227,South Africa,Newlands,5,South Africa
+278,45.4,1,DJG Sammy,2008-01-25,1st,SM Pollock,4,,JP Duminy,53,South Africa,West Indies,228,South Africa,Newlands,5,South Africa
+279,45.5,1,DJG Sammy,2008-01-25,1st,JP Duminy,53,,SM Pollock,5,South Africa,West Indies,229,South Africa,Newlands,5,South Africa
+280,45.6,1,DJG Sammy,2008-01-25,1st,SM Pollock,5,,JP Duminy,54,South Africa,West Indies,230,South Africa,Newlands,5,South Africa
+281,46.1,1,FH Edwards,2008-01-25,1st,SM Pollock,5,,JP Duminy,55,South Africa,West Indies,231,South Africa,Newlands,5,South Africa
+282,46.2,2,FH Edwards,2008-01-25,1st,JP Duminy,55,,SM Pollock,7,South Africa,West Indies,233,South Africa,Newlands,5,South Africa
+283,46.3,1,FH Edwards,2008-01-25,1st,JP Duminy,55,,SM Pollock,8,South Africa,West Indies,234,South Africa,Newlands,5,South Africa
+284,46.4,1,FH Edwards,2008-01-25,1st,SM Pollock,8,,JP Duminy,56,South Africa,West Indies,235,South Africa,Newlands,5,South Africa
+285,46.5,2,FH Edwards,2008-01-25,1st,JP Duminy,56,,SM Pollock,10,South Africa,West Indies,237,South Africa,Newlands,5,South Africa
+286,46.6,2,FH Edwards,2008-01-25,1st,JP Duminy,56,,SM Pollock,12,South Africa,West Indies,239,South Africa,Newlands,5,South Africa
+287,47.1,1,JE Taylor,2008-01-25,1st,SM Pollock,12,,JP Duminy,57,South Africa,West Indies,240,South Africa,Newlands,5,South Africa
+288,47.2,0,JE Taylor,2008-01-25,1st,JP Duminy,57,SM Pollock,SM Pollock,12,South Africa,West Indies,240,South Africa,Newlands,6,South Africa
+289,47.3,0,JE Taylor,2008-01-25,1st,JP Duminy,57,,J Botha,0,South Africa,West Indies,240,South Africa,Newlands,6,South Africa
+290,47.4,1,JE Taylor,2008-01-25,1st,JP Duminy,57,,J Botha,1,South Africa,West Indies,241,South Africa,Newlands,6,South Africa
+291,47.5,2,JE Taylor,2008-01-25,1st,J Botha,1,,JP Duminy,59,South Africa,West Indies,243,South Africa,Newlands,6,South Africa
+292,47.6,1,JE Taylor,2008-01-25,1st,J Botha,1,,JP Duminy,60,South Africa,West Indies,244,South Africa,Newlands,6,South Africa
+293,48.1,0,FH Edwards,2008-01-25,1st,J Botha,1,,JP Duminy,60,South Africa,West Indies,244,South Africa,Newlands,6,South Africa
+294,48.2,1,FH Edwards,2008-01-25,1st,J Botha,1,,JP Duminy,61,South Africa,West Indies,245,South Africa,Newlands,6,South Africa
+295,48.3,1,FH Edwards,2008-01-25,1st,JP Duminy,61,,J Botha,2,South Africa,West Indies,246,South Africa,Newlands,6,South Africa
+296,48.4,6,FH Edwards,2008-01-25,1st,J Botha,2,,JP Duminy,67,South Africa,West Indies,252,South Africa,Newlands,6,South Africa
+297,48.5,1,FH Edwards,2008-01-25,1st,J Botha,2,,JP Duminy,68,South Africa,West Indies,253,South Africa,Newlands,6,South Africa
+298,48.6,1,FH Edwards,2008-01-25,1st,JP Duminy,68,,J Botha,3,South Africa,West Indies,254,South Africa,Newlands,6,South Africa
+299,49.1,0,JE Taylor,2008-01-25,1st,JP Duminy,68,,J Botha,3,South Africa,West Indies,254,South Africa,Newlands,6,South Africa
+300,49.2,0,JE Taylor,2008-01-25,1st,JP Duminy,68,J Botha,J Botha,3,South Africa,West Indies,254,South Africa,Newlands,7,South Africa
+301,49.3,0,JE Taylor,2008-01-25,1st,M Morkel,0,JP Duminy,JP Duminy,68,South Africa,West Indies,254,South Africa,Newlands,8,South Africa
+302,49.4,1,JE Taylor,2008-01-25,1st,M Morkel,0,,DW Steyn,1,South Africa,West Indies,255,South Africa,Newlands,8,South Africa
+303,49.5,0,JE Taylor,2008-01-25,1st,DW Steyn,1,M Morkel,M Morkel,0,South Africa,West Indies,255,South Africa,Newlands,9,South Africa
+304,49.6,0,JE Taylor,2008-01-25,1st,CK Langeveldt,0,,DW Steyn,1,South Africa,West Indies,255,South Africa,Newlands,9,South Africa
+305,0.1,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+306,0.2,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+307,0.3,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+308,0.4,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+309,0.5,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+310,0.6,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+311,1.1,0,DW Steyn,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+312,1.2,0,DW Steyn,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,0,South Africa,Newlands,0,South Africa
+313,1.3,1,DW Steyn,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,1,South Africa,Newlands,0,South Africa
+314,1.4,0,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,2,South Africa,Newlands,0,South Africa
+315,1.5,0,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,2,South Africa,Newlands,0,South Africa
+316,1.6,1,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,3,South Africa,Newlands,0,South Africa
+317,1.7,0,DW Steyn,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,3,South Africa,Newlands,0,South Africa
+318,2.1,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,3,South Africa,Newlands,0,South Africa
+319,2.2,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+320,2.3,0,SM Pollock,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+321,2.4,0,SM Pollock,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+322,2.5,0,SM Pollock,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+323,2.6,0,SM Pollock,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+324,3.1,0,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+325,3.2,0,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,4,South Africa,Newlands,0,South Africa
+326,3.3,1,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,5,South Africa,Newlands,0,South Africa
+327,3.4,0,DW Steyn,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,5,South Africa,Newlands,0,South Africa
+328,3.5,1,DW Steyn,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,6,South Africa,Newlands,0,South Africa
+329,3.6,2,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,8,South Africa,Newlands,0,South Africa
+330,4.1,1,SM Pollock,2008-01-25,2nd,BA Parchment,0,,S Chattergoon,0,South Africa,West Indies,9,South Africa,Newlands,0,South Africa
+331,4.2,4,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,13,South Africa,Newlands,0,South Africa
+332,4.3,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,BA Parchment,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+333,4.4,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+334,4.5,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+335,4.6,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+336,5.1,0,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+337,5.2,0,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+338,5.3,0,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+339,5.4,0,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+340,5.5,0,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,13,South Africa,Newlands,1,South Africa
+341,5.6,4,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,17,South Africa,Newlands,1,South Africa
+342,6.1,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,17,South Africa,Newlands,1,South Africa
+343,6.2,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,17,South Africa,Newlands,1,South Africa
+344,6.3,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,17,South Africa,Newlands,1,South Africa
+345,6.4,2,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,19,South Africa,Newlands,1,South Africa
+346,6.5,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,19,South Africa,Newlands,1,South Africa
+347,6.6,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,19,South Africa,Newlands,1,South Africa
+348,7.1,0,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,19,South Africa,Newlands,1,South Africa
+349,7.2,1,DW Steyn,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,20,South Africa,Newlands,1,South Africa
+350,7.3,4,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,24,South Africa,Newlands,1,South Africa
+351,7.4,4,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+352,7.5,0,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+353,7.6,0,DW Steyn,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+354,8.1,0,SM Pollock,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+355,8.2,0,SM Pollock,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+356,8.3,0,SM Pollock,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+357,8.4,0,SM Pollock,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+358,8.5,0,SM Pollock,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,28,South Africa,Newlands,1,South Africa
+359,8.6,1,SM Pollock,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,29,South Africa,Newlands,1,South Africa
+360,9.1,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,29,South Africa,Newlands,1,South Africa
+361,9.2,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,29,South Africa,Newlands,1,South Africa
+362,9.3,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,29,South Africa,Newlands,1,South Africa
+363,9.4,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,29,South Africa,Newlands,1,South Africa
+364,9.5,4,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,33,South Africa,Newlands,1,South Africa
+365,9.6,4,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,37,South Africa,Newlands,1,South Africa
+366,10.1,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,37,South Africa,Newlands,1,South Africa
+367,10.2,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,37,South Africa,Newlands,1,South Africa
+368,10.3,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,37,South Africa,Newlands,1,South Africa
+369,10.4,1,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,38,South Africa,Newlands,1,South Africa
+370,10.5,1,SM Pollock,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+371,10.6,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+372,11.1,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+373,11.2,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+374,11.3,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+375,11.4,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+376,11.5,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+377,11.6,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+378,12.1,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+379,12.2,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+380,12.3,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+381,12.4,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+382,12.5,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+383,12.6,0,SM Pollock,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,39,South Africa,Newlands,1,South Africa
+384,13.1,4,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,43,South Africa,Newlands,1,South Africa
+385,13.2,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,43,South Africa,Newlands,1,South Africa
+386,13.3,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,43,South Africa,Newlands,1,South Africa
+387,13.4,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,43,South Africa,Newlands,1,South Africa
+388,13.5,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,43,South Africa,Newlands,1,South Africa
+389,13.6,4,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,47,South Africa,Newlands,1,South Africa
+390,14.1,0,M Morkel,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,47,South Africa,Newlands,1,South Africa
+391,14.2,0,M Morkel,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,47,South Africa,Newlands,1,South Africa
+392,14.3,0,M Morkel,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,47,South Africa,Newlands,1,South Africa
+393,14.4,2,M Morkel,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,49,South Africa,Newlands,1,South Africa
+394,14.5,0,M Morkel,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,49,South Africa,Newlands,1,South Africa
+395,14.6,0,M Morkel,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,49,South Africa,Newlands,1,South Africa
+396,15.1,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,49,South Africa,Newlands,1,South Africa
+397,15.2,4,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,53,South Africa,Newlands,1,South Africa
+398,15.3,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,54,South Africa,Newlands,1,South Africa
+399,15.4,0,CK Langeveldt,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,54,South Africa,Newlands,1,South Africa
+400,15.5,0,CK Langeveldt,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,54,South Africa,Newlands,1,South Africa
+401,15.6,0,CK Langeveldt,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,54,South Africa,Newlands,1,South Africa
+402,16.1,0,M Morkel,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,54,South Africa,Newlands,1,South Africa
+403,16.2,0,M Morkel,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,54,South Africa,Newlands,1,South Africa
+404,16.3,4,M Morkel,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,58,South Africa,Newlands,1,South Africa
+405,16.4,0,M Morkel,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,58,South Africa,Newlands,1,South Africa
+406,16.5,0,M Morkel,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,58,South Africa,Newlands,1,South Africa
+407,16.6,0,M Morkel,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,58,South Africa,Newlands,1,South Africa
+408,17.1,1,CK Langeveldt,2008-01-25,2nd,S Chattergoon,0,,RS Morton,0,South Africa,West Indies,59,South Africa,Newlands,1,South Africa
+409,17.2,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,59,South Africa,Newlands,1,South Africa
+410,17.3,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,59,South Africa,Newlands,1,South Africa
+411,17.4,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,S Chattergoon,0,South Africa,West Indies,59,South Africa,Newlands,2,South Africa
+412,17.5,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,59,South Africa,Newlands,2,South Africa
+413,17.6,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,59,South Africa,Newlands,2,South Africa
+414,18.1,0,M Morkel,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,59,South Africa,Newlands,2,South Africa
+415,18.2,1,M Morkel,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,60,South Africa,Newlands,2,South Africa
+416,18.3,0,M Morkel,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,60,South Africa,Newlands,2,South Africa
+417,18.4,0,M Morkel,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,60,South Africa,Newlands,2,South Africa
+418,18.5,1,M Morkel,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,61,South Africa,Newlands,2,South Africa
+419,18.6,0,M Morkel,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,61,South Africa,Newlands,2,South Africa
+420,19.1,1,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,62,South Africa,Newlands,2,South Africa
+421,19.2,0,CK Langeveldt,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,62,South Africa,Newlands,2,South Africa
+422,19.3,0,CK Langeveldt,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,62,South Africa,Newlands,2,South Africa
+423,19.4,0,CK Langeveldt,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,62,South Africa,Newlands,2,South Africa
+424,19.5,1,CK Langeveldt,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,63,South Africa,Newlands,2,South Africa
+425,19.6,0,CK Langeveldt,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,63,South Africa,Newlands,2,South Africa
+426,20.1,0,M Morkel,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,63,South Africa,Newlands,2,South Africa
+427,20.2,0,M Morkel,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,63,South Africa,Newlands,2,South Africa
+428,20.3,1,M Morkel,2008-01-25,2nd,MN Samuels,0,,RS Morton,0,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+429,20.4,0,M Morkel,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+430,20.5,0,M Morkel,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,64,South Africa,Newlands,2,South Africa
+431,20.6,0,M Morkel,2008-01-25,2nd,RS Morton,0,,MN Samuels,0,South Africa,West Indies,64,South Africa,Newlands,3,South Africa
+432,21.1,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,RS Morton,0,South Africa,West Indies,65,South Africa,Newlands,3,South Africa
+433,21.2,1,J Botha,2008-01-25,2nd,RS Morton,0,,S Chanderpaul,0,South Africa,West Indies,66,South Africa,Newlands,3,South Africa
+434,21.3,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,RS Morton,0,South Africa,West Indies,66,South Africa,Newlands,3,South Africa
+435,21.4,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,RS Morton,0,South Africa,West Indies,66,South Africa,Newlands,3,South Africa
+436,21.5,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,RS Morton,0,South Africa,West Indies,67,South Africa,Newlands,3,South Africa
+437,21.6,2,J Botha,2008-01-25,2nd,RS Morton,0,,S Chanderpaul,0,South Africa,West Indies,69,South Africa,Newlands,3,South Africa
+438,22.1,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,RS Morton,0,South Africa,West Indies,69,South Africa,Newlands,4,South Africa
+439,22.2,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,69,South Africa,Newlands,4,South Africa
+440,22.3,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,69,South Africa,Newlands,4,South Africa
+441,22.4,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,70,South Africa,Newlands,4,South Africa
+442,22.5,1,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,71,South Africa,Newlands,4,South Africa
+443,22.6,0,M Morkel,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,71,South Africa,Newlands,4,South Africa
+444,22.7,0,M Morkel,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,71,South Africa,Newlands,4,South Africa
+445,23.1,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,71,South Africa,Newlands,4,South Africa
+446,23.2,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,71,South Africa,Newlands,4,South Africa
+447,23.3,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,71,South Africa,Newlands,4,South Africa
+448,23.4,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,72,South Africa,Newlands,4,South Africa
+449,23.5,0,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,72,South Africa,Newlands,4,South Africa
+450,23.6,0,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,72,South Africa,Newlands,4,South Africa
+451,24.1,1,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,73,South Africa,Newlands,4,South Africa
+452,24.2,0,M Morkel,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,73,South Africa,Newlands,4,South Africa
+453,24.3,0,M Morkel,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,73,South Africa,Newlands,4,South Africa
+454,24.4,0,M Morkel,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,73,South Africa,Newlands,4,South Africa
+455,24.5,0,M Morkel,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,74,South Africa,Newlands,4,South Africa
+456,24.6,3,M Morkel,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,77,South Africa,Newlands,4,South Africa
+457,24.7,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,77,South Africa,Newlands,4,South Africa
+458,25.1,1,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,78,South Africa,Newlands,4,South Africa
+459,25.2,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,78,South Africa,Newlands,4,South Africa
+460,25.3,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,79,South Africa,Newlands,4,South Africa
+461,25.4,0,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,79,South Africa,Newlands,4,South Africa
+462,25.5,0,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,79,South Africa,Newlands,4,South Africa
+463,25.6,1,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,80,South Africa,Newlands,4,South Africa
+464,26.1,0,DW Steyn,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,80,South Africa,Newlands,4,South Africa
+465,26.2,1,DW Steyn,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,81,South Africa,Newlands,4,South Africa
+466,26.3,2,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,83,South Africa,Newlands,4,South Africa
+467,26.4,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,84,South Africa,Newlands,4,South Africa
+468,26.5,0,DW Steyn,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,84,South Africa,Newlands,4,South Africa
+469,26.6,1,DW Steyn,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,85,South Africa,Newlands,4,South Africa
+470,27.1,1,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,86,South Africa,Newlands,4,South Africa
+471,27.2,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,86,South Africa,Newlands,4,South Africa
+472,27.3,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,87,South Africa,Newlands,4,South Africa
+473,27.4,0,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,87,South Africa,Newlands,4,South Africa
+474,27.5,0,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,87,South Africa,Newlands,4,South Africa
+475,27.6,2,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,89,South Africa,Newlands,4,South Africa
+476,28.1,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,89,South Africa,Newlands,4,South Africa
+477,28.2,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,89,South Africa,Newlands,4,South Africa
+478,28.3,1,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,90,South Africa,Newlands,4,South Africa
+479,28.4,0,DW Steyn,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,90,South Africa,Newlands,4,South Africa
+480,28.5,1,DW Steyn,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,91,South Africa,Newlands,4,South Africa
+481,28.6,1,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,92,South Africa,Newlands,4,South Africa
+482,29.1,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,93,South Africa,Newlands,4,South Africa
+483,29.2,1,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,94,South Africa,Newlands,4,South Africa
+484,29.3,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,94,South Africa,Newlands,4,South Africa
+485,29.4,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,95,South Africa,Newlands,4,South Africa
+486,29.5,1,J Botha,2008-01-25,2nd,DJ Bravo,0,,S Chanderpaul,0,South Africa,West Indies,96,South Africa,Newlands,4,South Africa
+487,29.6,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,97,South Africa,Newlands,4,South Africa
+488,30.1,0,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,97,South Africa,Newlands,4,South Africa
+489,30.2,0,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,97,South Africa,Newlands,4,South Africa
+490,30.3,0,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,DJ Bravo,0,South Africa,West Indies,97,South Africa,Newlands,5,South Africa
+491,30.4,0,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,D Ramdin,0,South Africa,West Indies,97,South Africa,Newlands,5,South Africa
+492,30.5,0,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,D Ramdin,0,South Africa,West Indies,97,South Africa,Newlands,5,South Africa
+493,30.6,0,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,D Ramdin,0,South Africa,West Indies,97,South Africa,Newlands,6,South Africa
+494,31.1,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,97,South Africa,Newlands,6,South Africa
+495,31.2,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,97,South Africa,Newlands,6,South Africa
+496,31.3,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,97,South Africa,Newlands,6,South Africa
+497,31.4,1,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+498,31.5,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+499,31.6,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+500,32.1,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+501,32.2,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+502,32.3,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+503,32.4,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+504,32.5,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+505,32.6,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,98,South Africa,Newlands,6,South Africa
+506,33.1,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,99,South Africa,Newlands,6,South Africa
+507,33.2,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,99,South Africa,Newlands,6,South Africa
+508,33.3,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,99,South Africa,Newlands,6,South Africa
+509,33.4,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,99,South Africa,Newlands,6,South Africa
+510,33.5,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,99,South Africa,Newlands,6,South Africa
+511,33.6,0,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,99,South Africa,Newlands,6,South Africa
+512,34.1,1,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,100,South Africa,Newlands,6,South Africa
+513,34.2,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,100,South Africa,Newlands,6,South Africa
+514,34.3,1,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,101,South Africa,Newlands,6,South Africa
+515,34.4,0,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,101,South Africa,Newlands,6,South Africa
+516,34.5,1,SM Pollock,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,102,South Africa,Newlands,6,South Africa
+517,34.6,0,SM Pollock,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,102,South Africa,Newlands,6,South Africa
+518,35.1,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,103,South Africa,Newlands,6,South Africa
+519,35.2,1,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,104,South Africa,Newlands,6,South Africa
+520,35.3,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,104,South Africa,Newlands,6,South Africa
+521,35.4,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,104,South Africa,Newlands,6,South Africa
+522,35.5,1,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,105,South Africa,Newlands,6,South Africa
+523,35.6,1,J Botha,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,106,South Africa,Newlands,6,South Africa
+524,36.1,1,M Morkel,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,107,South Africa,Newlands,6,South Africa
+525,36.2,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,107,South Africa,Newlands,6,South Africa
+526,36.3,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,107,South Africa,Newlands,6,South Africa
+527,36.4,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,107,South Africa,Newlands,6,South Africa
+528,36.5,4,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,111,South Africa,Newlands,6,South Africa
+529,36.6,1,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,112,South Africa,Newlands,6,South Africa
+530,37.1,2,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,114,South Africa,Newlands,6,South Africa
+531,37.2,2,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,116,South Africa,Newlands,6,South Africa
+532,37.3,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,116,South Africa,Newlands,6,South Africa
+533,37.4,0,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,116,South Africa,Newlands,6,South Africa
+534,37.5,2,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,118,South Africa,Newlands,6,South Africa
+535,37.6,2,J Botha,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,120,South Africa,Newlands,6,South Africa
+536,38.1,4,M Morkel,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,124,South Africa,Newlands,6,South Africa
+537,38.2,4,M Morkel,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,128,South Africa,Newlands,6,South Africa
+538,38.3,1,M Morkel,2008-01-25,2nd,DJG Sammy,0,,S Chanderpaul,0,South Africa,West Indies,129,South Africa,Newlands,6,South Africa
+539,38.4,4,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,133,South Africa,Newlands,6,South Africa
+540,38.5,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,134,South Africa,Newlands,6,South Africa
+541,38.6,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,DJG Sammy,0,South Africa,West Indies,134,South Africa,Newlands,7,South Africa
+542,38.7,0,M Morkel,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,134,South Africa,Newlands,7,South Africa
+543,39.1,1,JH Kallis,2008-01-25,2nd,R Rampaul,0,,S Chanderpaul,0,South Africa,West Indies,135,South Africa,Newlands,7,South Africa
+544,39.2,0,JH Kallis,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,135,South Africa,Newlands,7,South Africa
+545,39.3,1,JH Kallis,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,136,South Africa,Newlands,7,South Africa
+546,39.4,0,JH Kallis,2008-01-25,2nd,R Rampaul,0,,S Chanderpaul,0,South Africa,West Indies,136,South Africa,Newlands,7,South Africa
+547,39.5,2,JH Kallis,2008-01-25,2nd,R Rampaul,0,,S Chanderpaul,0,South Africa,West Indies,138,South Africa,Newlands,7,South Africa
+548,39.6,0,JH Kallis,2008-01-25,2nd,R Rampaul,0,,S Chanderpaul,0,South Africa,West Indies,138,South Africa,Newlands,7,South Africa
+549,40.1,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,138,South Africa,Newlands,7,South Africa
+550,40.2,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,138,South Africa,Newlands,7,South Africa
+551,40.3,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,138,South Africa,Newlands,7,South Africa
+552,40.4,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,138,South Africa,Newlands,7,South Africa
+553,40.5,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,R Rampaul,0,South Africa,West Indies,138,South Africa,Newlands,8,South Africa
+554,40.6,1,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,139,South Africa,Newlands,8,South Africa
+555,41.1,4,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,143,South Africa,Newlands,8,South Africa
+556,41.2,0,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,143,South Africa,Newlands,8,South Africa
+557,41.3,4,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,147,South Africa,Newlands,8,South Africa
+558,41.4,0,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,147,South Africa,Newlands,8,South Africa
+559,41.5,1,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,148,South Africa,Newlands,8,South Africa
+560,41.6,4,JH Kallis,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,152,South Africa,Newlands,8,South Africa
+561,42.1,0,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,152,South Africa,Newlands,8,South Africa
+562,42.2,0,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,152,South Africa,Newlands,8,South Africa
+563,42.3,2,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,154,South Africa,Newlands,8,South Africa
+564,42.4,0,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,154,South Africa,Newlands,8,South Africa
+565,42.5,0,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,154,South Africa,Newlands,8,South Africa
+566,42.6,0,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,155,South Africa,Newlands,8,South Africa
+567,42.7,1,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,156,South Africa,Newlands,8,South Africa
+568,43.1,0,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,156,South Africa,Newlands,8,South Africa
+569,43.2,4,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,160,South Africa,Newlands,8,South Africa
+570,43.3,0,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,160,South Africa,Newlands,8,South Africa
+571,43.4,0,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,160,South Africa,Newlands,8,South Africa
+572,43.5,0,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,160,South Africa,Newlands,8,South Africa
+573,43.6,1,JH Kallis,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,161,South Africa,Newlands,8,South Africa
+574,44.1,0,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,161,South Africa,Newlands,8,South Africa
+575,44.2,1,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,162,South Africa,Newlands,8,South Africa
+576,44.3,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,162,South Africa,Newlands,8,South Africa
+577,44.4,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,162,South Africa,Newlands,8,South Africa
+578,44.5,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,162,South Africa,Newlands,8,South Africa
+579,44.6,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,162,South Africa,Newlands,8,South Africa
+580,45.1,1,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,163,South Africa,Newlands,8,South Africa
+581,45.2,2,CK Langeveldt,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,165,South Africa,Newlands,8,South Africa
+582,45.3,0,CK Langeveldt,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,165,South Africa,Newlands,8,South Africa
+583,45.4,1,CK Langeveldt,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,166,South Africa,Newlands,8,South Africa
+584,45.5,0,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,166,South Africa,Newlands,8,South Africa
+585,45.6,0,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,166,South Africa,Newlands,8,South Africa
+586,46.1,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,166,South Africa,Newlands,8,South Africa
+587,46.2,1,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,167,South Africa,Newlands,8,South Africa
+588,46.3,0,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,167,South Africa,Newlands,8,South Africa
+589,46.4,1,DW Steyn,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,168,South Africa,Newlands,8,South Africa
+590,46.5,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,168,South Africa,Newlands,8,South Africa
+591,46.6,0,DW Steyn,2008-01-25,2nd,S Chanderpaul,0,,FH Edwards,0,South Africa,West Indies,168,South Africa,Newlands,8,South Africa
+592,47.1,0,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,168,South Africa,Newlands,8,South Africa
+593,47.2,0,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,168,South Africa,Newlands,8,South Africa
+594,47.3,0,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,S Chanderpaul,0,South Africa,West Indies,168,South Africa,Newlands,9,South Africa
+595,47.4,0,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,JE Taylor,0,South Africa,West Indies,168,South Africa,Newlands,9,South Africa
+596,47.5,0,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,JE Taylor,0,South Africa,West Indies,168,South Africa,Newlands,9,South Africa
+597,47.6,1,CK Langeveldt,2008-01-25,2nd,FH Edwards,0,,JE Taylor,0,South Africa,West Indies,169,South Africa,Newlands,9,South Africa
+598,48.1,0,M Morkel,2008-01-25,2nd,FH Edwards,0,,JE Taylor,0,South Africa,West Indies,169,South Africa,Newlands,9,South Africa
+599,48.2,0,M Morkel,2008-01-25,2nd,FH Edwards,0,,JE Taylor,0,South Africa,West Indies,169,South Africa,Newlands,10,South Africa

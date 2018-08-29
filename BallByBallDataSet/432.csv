@@ -1,0 +1,614 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,B Lee,2009-09-30,1st,Shahid Afridi,0,,Kamran Akmal,0,Australia,Pakistan,0,Australia,SuperSport Park,0,Australia
+1,0.2,0,B Lee,2009-09-30,1st,Shahid Afridi,0,,Kamran Akmal,0,Australia,Pakistan,0,Australia,SuperSport Park,0,Australia
+2,0.3,1,B Lee,2009-09-30,1st,Shahid Afridi,0,,Kamran Akmal,1,Australia,Pakistan,1,Australia,SuperSport Park,0,Australia
+3,0.4,0,B Lee,2009-09-30,1st,Kamran Akmal,1,,Shahid Afridi,0,Australia,Pakistan,1,Australia,SuperSport Park,0,Australia
+4,0.5,0,B Lee,2009-09-30,1st,Kamran Akmal,1,,Shahid Afridi,0,Australia,Pakistan,1,Australia,SuperSport Park,0,Australia
+5,0.6,0,B Lee,2009-09-30,1st,Kamran Akmal,1,,Shahid Afridi,0,Australia,Pakistan,1,Australia,SuperSport Park,0,Australia
+6,1.1,1,PM Siddle,2009-09-30,1st,Shahid Afridi,0,,Kamran Akmal,2,Australia,Pakistan,2,Australia,SuperSport Park,0,Australia
+7,1.2,0,PM Siddle,2009-09-30,1st,Kamran Akmal,2,,Shahid Afridi,0,Australia,Pakistan,2,Australia,SuperSport Park,0,Australia
+8,1.3,4,PM Siddle,2009-09-30,1st,Kamran Akmal,2,,Shahid Afridi,4,Australia,Pakistan,6,Australia,SuperSport Park,0,Australia
+9,1.4,1,PM Siddle,2009-09-30,1st,Kamran Akmal,2,,Shahid Afridi,5,Australia,Pakistan,7,Australia,SuperSport Park,0,Australia
+10,1.5,1,PM Siddle,2009-09-30,1st,Shahid Afridi,5,,Kamran Akmal,3,Australia,Pakistan,8,Australia,SuperSport Park,0,Australia
+11,1.6,4,PM Siddle,2009-09-30,1st,Kamran Akmal,3,,Shahid Afridi,9,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+12,2.1,0,B Lee,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,3,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+13,2.2,0,B Lee,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,3,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+14,2.3,0,B Lee,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,3,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+15,2.4,0,B Lee,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,3,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+16,2.5,0,B Lee,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,3,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+17,2.6,1,B Lee,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,4,Australia,Pakistan,13,Australia,SuperSport Park,0,Australia
+18,3.1,0,PM Siddle,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,4,Australia,Pakistan,13,Australia,SuperSport Park,0,Australia
+19,3.2,1,PM Siddle,2009-09-30,1st,Shahid Afridi,9,,Kamran Akmal,5,Australia,Pakistan,14,Australia,SuperSport Park,0,Australia
+20,3.3,1,PM Siddle,2009-09-30,1st,Kamran Akmal,5,,Shahid Afridi,10,Australia,Pakistan,15,Australia,SuperSport Park,0,Australia
+21,3.4,0,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,5,Australia,Pakistan,15,Australia,SuperSport Park,0,Australia
+22,3.5,0,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,5,Australia,Pakistan,15,Australia,SuperSport Park,0,Australia
+23,3.6,1,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,6,Australia,Pakistan,16,Australia,SuperSport Park,0,Australia
+24,4.1,0,B Lee,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,6,Australia,Pakistan,16,Australia,SuperSport Park,0,Australia
+25,4.2,0,B Lee,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,6,Australia,Pakistan,16,Australia,SuperSport Park,0,Australia
+26,4.3,1,B Lee,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,7,Australia,Pakistan,17,Australia,SuperSport Park,0,Australia
+27,4.4,0,B Lee,2009-09-30,1st,Kamran Akmal,7,,Shahid Afridi,10,Australia,Pakistan,17,Australia,SuperSport Park,0,Australia
+28,4.5,0,B Lee,2009-09-30,1st,Kamran Akmal,7,,Shahid Afridi,10,Australia,Pakistan,17,Australia,SuperSport Park,0,Australia
+29,4.6,0,B Lee,2009-09-30,1st,Kamran Akmal,7,,Shahid Afridi,10,Australia,Pakistan,17,Australia,SuperSport Park,0,Australia
+30,5.1,4,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,11,Australia,Pakistan,21,Australia,SuperSport Park,0,Australia
+31,5.2,0,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,11,Australia,Pakistan,21,Australia,SuperSport Park,0,Australia
+32,5.3,0,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,11,Australia,Pakistan,21,Australia,SuperSport Park,0,Australia
+33,5.4,0,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,11,Australia,Pakistan,21,Australia,SuperSport Park,0,Australia
+34,5.5,0,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,11,Australia,Pakistan,21,Australia,SuperSport Park,0,Australia
+35,5.6,4,PM Siddle,2009-09-30,1st,Shahid Afridi,10,,Kamran Akmal,15,Australia,Pakistan,25,Australia,SuperSport Park,0,Australia
+36,6.1,0,B Lee,2009-09-30,1st,Kamran Akmal,15,,Shahid Afridi,10,Australia,Pakistan,25,Australia,SuperSport Park,0,Australia
+37,6.2,0,B Lee,2009-09-30,1st,Kamran Akmal,15,,Shahid Afridi,10,Australia,Pakistan,25,Australia,SuperSport Park,0,Australia
+38,6.3,0,B Lee,2009-09-30,1st,Kamran Akmal,15,,Shahid Afridi,10,Australia,Pakistan,25,Australia,SuperSport Park,0,Australia
+39,6.4,4,B Lee,2009-09-30,1st,Kamran Akmal,15,,Shahid Afridi,14,Australia,Pakistan,29,Australia,SuperSport Park,0,Australia
+40,6.5,0,B Lee,2009-09-30,1st,Kamran Akmal,15,,Shahid Afridi,14,Australia,Pakistan,29,Australia,SuperSport Park,0,Australia
+41,6.6,1,B Lee,2009-09-30,1st,Kamran Akmal,15,,Shahid Afridi,15,Australia,Pakistan,30,Australia,SuperSport Park,0,Australia
+42,7.1,0,MG Johnson,2009-09-30,1st,Kamran Akmal,15,Shahid Afridi,Shahid Afridi,15,Australia,Pakistan,30,Australia,SuperSport Park,1,Australia
+43,7.2,0,MG Johnson,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,15,Australia,Pakistan,30,Australia,SuperSport Park,1,Australia
+44,7.3,0,MG Johnson,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,15,Australia,Pakistan,30,Australia,SuperSport Park,1,Australia
+45,7.4,1,MG Johnson,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,16,Australia,Pakistan,31,Australia,SuperSport Park,1,Australia
+46,7.5,0,MG Johnson,2009-09-30,1st,Kamran Akmal,16,,Younis Khan,0,Australia,Pakistan,31,Australia,SuperSport Park,1,Australia
+47,7.6,0,MG Johnson,2009-09-30,1st,Kamran Akmal,16,,Younis Khan,0,Australia,Pakistan,31,Australia,SuperSport Park,1,Australia
+48,8.1,4,B Lee,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,20,Australia,Pakistan,35,Australia,SuperSport Park,1,Australia
+49,8.2,0,B Lee,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,20,Australia,Pakistan,35,Australia,SuperSport Park,1,Australia
+50,8.3,0,B Lee,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,20,Australia,Pakistan,35,Australia,SuperSport Park,1,Australia
+51,8.4,0,B Lee,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,20,Australia,Pakistan,35,Australia,SuperSport Park,1,Australia
+52,8.5,1,B Lee,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,21,Australia,Pakistan,36,Australia,SuperSport Park,1,Australia
+53,8.6,0,B Lee,2009-09-30,1st,Kamran Akmal,21,,Younis Khan,0,Australia,Pakistan,36,Australia,SuperSport Park,1,Australia
+54,9.1,4,MG Johnson,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,25,Australia,Pakistan,40,Australia,SuperSport Park,1,Australia
+55,9.2,1,MG Johnson,2009-09-30,1st,Younis Khan,0,,Kamran Akmal,26,Australia,Pakistan,41,Australia,SuperSport Park,1,Australia
+56,9.3,0,MG Johnson,2009-09-30,1st,Kamran Akmal,26,,Younis Khan,0,Australia,Pakistan,41,Australia,SuperSport Park,1,Australia
+57,9.4,0,MG Johnson,2009-09-30,1st,Kamran Akmal,26,,Younis Khan,0,Australia,Pakistan,41,Australia,SuperSport Park,1,Australia
+58,9.5,0,MG Johnson,2009-09-30,1st,Kamran Akmal,26,,Younis Khan,0,Australia,Pakistan,41,Australia,SuperSport Park,1,Australia
+59,9.6,4,MG Johnson,2009-09-30,1st,Kamran Akmal,26,,Younis Khan,4,Australia,Pakistan,45,Australia,SuperSport Park,1,Australia
+60,10.1,0,SR Watson,2009-09-30,1st,Younis Khan,4,,Kamran Akmal,26,Australia,Pakistan,45,Australia,SuperSport Park,1,Australia
+61,10.2,0,SR Watson,2009-09-30,1st,Younis Khan,4,,Kamran Akmal,26,Australia,Pakistan,45,Australia,SuperSport Park,1,Australia
+62,10.3,1,SR Watson,2009-09-30,1st,Younis Khan,4,,Kamran Akmal,27,Australia,Pakistan,46,Australia,SuperSport Park,1,Australia
+63,10.4,0,SR Watson,2009-09-30,1st,Kamran Akmal,27,,Younis Khan,4,Australia,Pakistan,46,Australia,SuperSport Park,1,Australia
+64,10.5,0,SR Watson,2009-09-30,1st,Kamran Akmal,27,,Younis Khan,4,Australia,Pakistan,46,Australia,SuperSport Park,1,Australia
+65,10.6,4,SR Watson,2009-09-30,1st,Kamran Akmal,27,,Younis Khan,8,Australia,Pakistan,50,Australia,SuperSport Park,1,Australia
+66,11.1,2,MG Johnson,2009-09-30,1st,Younis Khan,8,,Kamran Akmal,29,Australia,Pakistan,52,Australia,SuperSport Park,1,Australia
+67,11.2,0,MG Johnson,2009-09-30,1st,Younis Khan,8,,Kamran Akmal,29,Australia,Pakistan,52,Australia,SuperSport Park,1,Australia
+68,11.3,1,MG Johnson,2009-09-30,1st,Younis Khan,8,,Kamran Akmal,30,Australia,Pakistan,53,Australia,SuperSport Park,1,Australia
+69,11.4,0,MG Johnson,2009-09-30,1st,Kamran Akmal,30,,Younis Khan,8,Australia,Pakistan,53,Australia,SuperSport Park,1,Australia
+70,11.5,1,MG Johnson,2009-09-30,1st,Kamran Akmal,30,,Younis Khan,9,Australia,Pakistan,54,Australia,SuperSport Park,1,Australia
+71,11.6,4,MG Johnson,2009-09-30,1st,Younis Khan,9,,Kamran Akmal,34,Australia,Pakistan,58,Australia,SuperSport Park,1,Australia
+72,12.1,0,SR Watson,2009-09-30,1st,Kamran Akmal,34,,Younis Khan,9,Australia,Pakistan,58,Australia,SuperSport Park,1,Australia
+73,12.2,1,SR Watson,2009-09-30,1st,Kamran Akmal,34,,Younis Khan,10,Australia,Pakistan,59,Australia,SuperSport Park,1,Australia
+74,12.3,0,SR Watson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,34,Australia,Pakistan,59,Australia,SuperSport Park,1,Australia
+75,12.4,0,SR Watson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,34,Australia,Pakistan,59,Australia,SuperSport Park,1,Australia
+76,12.5,0,SR Watson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,34,Australia,Pakistan,59,Australia,SuperSport Park,1,Australia
+77,12.6,1,SR Watson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,35,Australia,Pakistan,60,Australia,SuperSport Park,1,Australia
+78,13.1,0,MG Johnson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,35,Australia,Pakistan,60,Australia,SuperSport Park,1,Australia
+79,13.2,4,MG Johnson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,39,Australia,Pakistan,64,Australia,SuperSport Park,1,Australia
+80,13.3,0,MG Johnson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,39,Australia,Pakistan,64,Australia,SuperSport Park,1,Australia
+81,13.4,0,MG Johnson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,39,Australia,Pakistan,64,Australia,SuperSport Park,1,Australia
+82,13.5,1,MG Johnson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,40,Australia,Pakistan,65,Australia,SuperSport Park,1,Australia
+83,13.6,0,MG Johnson,2009-09-30,1st,Kamran Akmal,40,,Younis Khan,10,Australia,Pakistan,65,Australia,SuperSport Park,1,Australia
+84,14.1,1,SR Watson,2009-09-30,1st,Younis Khan,10,,Kamran Akmal,41,Australia,Pakistan,66,Australia,SuperSport Park,1,Australia
+85,14.2,2,SR Watson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,12,Australia,Pakistan,68,Australia,SuperSport Park,1,Australia
+86,14.3,0,SR Watson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,12,Australia,Pakistan,68,Australia,SuperSport Park,1,Australia
+87,14.4,0,SR Watson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,12,Australia,Pakistan,68,Australia,SuperSport Park,1,Australia
+88,14.5,0,SR Watson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,12,Australia,Pakistan,68,Australia,SuperSport Park,1,Australia
+89,14.6,1,SR Watson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,69,Australia,SuperSport Park,1,Australia
+90,15.1,0,MG Johnson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,69,Australia,SuperSport Park,1,Australia
+91,15.2,0,MG Johnson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,69,Australia,SuperSport Park,1,Australia
+92,15.3,0,MG Johnson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,69,Australia,SuperSport Park,1,Australia
+93,15.4,0,MG Johnson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,70,Australia,SuperSport Park,1,Australia
+94,15.5,0,MG Johnson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,70,Australia,SuperSport Park,1,Australia
+95,15.6,0,MG Johnson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,70,Australia,SuperSport Park,1,Australia
+96,15.7,0,MG Johnson,2009-09-30,1st,Kamran Akmal,41,,Younis Khan,13,Australia,Pakistan,70,Australia,SuperSport Park,1,Australia
+97,16.1,2,SR Watson,2009-09-30,1st,Younis Khan,13,,Kamran Akmal,43,Australia,Pakistan,72,Australia,SuperSport Park,1,Australia
+98,16.2,0,SR Watson,2009-09-30,1st,Younis Khan,13,,Kamran Akmal,43,Australia,Pakistan,72,Australia,SuperSport Park,1,Australia
+99,16.3,0,SR Watson,2009-09-30,1st,Younis Khan,13,,Kamran Akmal,43,Australia,Pakistan,72,Australia,SuperSport Park,1,Australia
+100,16.4,0,SR Watson,2009-09-30,1st,Younis Khan,13,,Kamran Akmal,43,Australia,Pakistan,72,Australia,SuperSport Park,1,Australia
+101,16.5,0,SR Watson,2009-09-30,1st,Younis Khan,13,,Kamran Akmal,43,Australia,Pakistan,72,Australia,SuperSport Park,1,Australia
+102,16.6,0,SR Watson,2009-09-30,1st,Younis Khan,13,,Kamran Akmal,43,Australia,Pakistan,72,Australia,SuperSport Park,1,Australia
+103,17.1,1,JR Hopes,2009-09-30,1st,Kamran Akmal,43,,Younis Khan,14,Australia,Pakistan,73,Australia,SuperSport Park,1,Australia
+104,17.2,0,JR Hopes,2009-09-30,1st,Younis Khan,14,,Kamran Akmal,43,Australia,Pakistan,73,Australia,SuperSport Park,1,Australia
+105,17.3,1,JR Hopes,2009-09-30,1st,Younis Khan,14,,Kamran Akmal,44,Australia,Pakistan,74,Australia,SuperSport Park,1,Australia
+106,17.4,0,JR Hopes,2009-09-30,1st,Kamran Akmal,44,,Younis Khan,14,Australia,Pakistan,74,Australia,SuperSport Park,1,Australia
+107,17.5,0,JR Hopes,2009-09-30,1st,Kamran Akmal,44,,Younis Khan,14,Australia,Pakistan,74,Australia,SuperSport Park,1,Australia
+108,17.6,0,JR Hopes,2009-09-30,1st,Kamran Akmal,44,,Younis Khan,14,Australia,Pakistan,74,Australia,SuperSport Park,1,Australia
+109,18.1,0,SR Watson,2009-09-30,1st,Younis Khan,14,,Kamran Akmal,44,Australia,Pakistan,75,Australia,SuperSport Park,1,Australia
+110,18.2,0,SR Watson,2009-09-30,1st,Younis Khan,14,,Kamran Akmal,44,Australia,Pakistan,75,Australia,SuperSport Park,1,Australia
+111,18.3,0,SR Watson,2009-09-30,1st,Younis Khan,14,,Kamran Akmal,44,Australia,Pakistan,75,Australia,SuperSport Park,1,Australia
+112,18.4,0,SR Watson,2009-09-30,1st,Younis Khan,14,Kamran Akmal,Kamran Akmal,44,Australia,Pakistan,75,Australia,SuperSport Park,2,Australia
+113,18.5,0,SR Watson,2009-09-30,1st,Younis Khan,14,,Shoaib Malik,0,Australia,Pakistan,75,Australia,SuperSport Park,2,Australia
+114,18.6,1,SR Watson,2009-09-30,1st,Younis Khan,14,,Shoaib Malik,1,Australia,Pakistan,76,Australia,SuperSport Park,2,Australia
+115,18.7,0,SR Watson,2009-09-30,1st,Shoaib Malik,1,,Younis Khan,14,Australia,Pakistan,76,Australia,SuperSport Park,2,Australia
+116,19.1,1,JR Hopes,2009-09-30,1st,Younis Khan,14,,Shoaib Malik,2,Australia,Pakistan,77,Australia,SuperSport Park,2,Australia
+117,19.2,0,JR Hopes,2009-09-30,1st,Shoaib Malik,2,,Younis Khan,14,Australia,Pakistan,77,Australia,SuperSport Park,2,Australia
+118,19.3,0,JR Hopes,2009-09-30,1st,Shoaib Malik,2,,Younis Khan,14,Australia,Pakistan,77,Australia,SuperSport Park,2,Australia
+119,19.4,0,JR Hopes,2009-09-30,1st,Shoaib Malik,2,,Younis Khan,14,Australia,Pakistan,77,Australia,SuperSport Park,2,Australia
+120,19.5,0,JR Hopes,2009-09-30,1st,Shoaib Malik,2,,Younis Khan,14,Australia,Pakistan,77,Australia,SuperSport Park,2,Australia
+121,19.6,1,JR Hopes,2009-09-30,1st,Shoaib Malik,2,,Younis Khan,15,Australia,Pakistan,78,Australia,SuperSport Park,2,Australia
+122,20.1,0,SR Watson,2009-09-30,1st,Shoaib Malik,2,,Younis Khan,15,Australia,Pakistan,78,Australia,SuperSport Park,2,Australia
+123,20.2,1,SR Watson,2009-09-30,1st,Shoaib Malik,2,,Younis Khan,16,Australia,Pakistan,79,Australia,SuperSport Park,2,Australia
+124,20.3,0,SR Watson,2009-09-30,1st,Younis Khan,16,,Shoaib Malik,2,Australia,Pakistan,79,Australia,SuperSport Park,2,Australia
+125,20.4,0,SR Watson,2009-09-30,1st,Younis Khan,16,,Shoaib Malik,2,Australia,Pakistan,79,Australia,SuperSport Park,2,Australia
+126,20.5,1,SR Watson,2009-09-30,1st,Younis Khan,16,,Shoaib Malik,3,Australia,Pakistan,80,Australia,SuperSport Park,2,Australia
+127,20.6,0,SR Watson,2009-09-30,1st,Shoaib Malik,3,,Younis Khan,16,Australia,Pakistan,80,Australia,SuperSport Park,2,Australia
+128,21.1,0,JR Hopes,2009-09-30,1st,Younis Khan,16,,Shoaib Malik,3,Australia,Pakistan,80,Australia,SuperSport Park,2,Australia
+129,21.2,0,JR Hopes,2009-09-30,1st,Younis Khan,16,,Shoaib Malik,3,Australia,Pakistan,80,Australia,SuperSport Park,2,Australia
+130,21.3,0,JR Hopes,2009-09-30,1st,Younis Khan,16,,Shoaib Malik,3,Australia,Pakistan,80,Australia,SuperSport Park,2,Australia
+131,21.4,1,JR Hopes,2009-09-30,1st,Younis Khan,16,,Shoaib Malik,4,Australia,Pakistan,81,Australia,SuperSport Park,2,Australia
+132,21.5,1,JR Hopes,2009-09-30,1st,Shoaib Malik,4,,Younis Khan,17,Australia,Pakistan,82,Australia,SuperSport Park,2,Australia
+133,21.6,6,JR Hopes,2009-09-30,1st,Younis Khan,17,,Shoaib Malik,10,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+134,22.1,0,PM Siddle,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,17,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+135,22.2,0,PM Siddle,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,17,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+136,22.3,0,PM Siddle,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,17,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+137,22.4,0,PM Siddle,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,17,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+138,22.5,1,PM Siddle,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,18,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+139,22.6,0,PM Siddle,2009-09-30,1st,Younis Khan,18,,Shoaib Malik,10,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+140,23.1,0,JR Hopes,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,18,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+141,23.2,0,JR Hopes,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,18,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+142,23.3,0,JR Hopes,2009-09-30,1st,Shoaib Malik,10,,Younis Khan,18,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+143,23.4,0,JR Hopes,2009-09-30,1st,Shoaib Malik,10,Younis Khan,Younis Khan,18,Australia,Pakistan,89,Australia,SuperSport Park,3,Australia
+144,23.5,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,0,,Shoaib Malik,11,Australia,Pakistan,90,Australia,SuperSport Park,3,Australia
+145,23.6,0,JR Hopes,2009-09-30,1st,Shoaib Malik,11,,Mohammad Yousuf,0,Australia,Pakistan,90,Australia,SuperSport Park,3,Australia
+146,24.1,1,PM Siddle,2009-09-30,1st,Mohammad Yousuf,0,,Shoaib Malik,12,Australia,Pakistan,91,Australia,SuperSport Park,3,Australia
+147,24.2,0,PM Siddle,2009-09-30,1st,Shoaib Malik,12,,Mohammad Yousuf,0,Australia,Pakistan,91,Australia,SuperSport Park,3,Australia
+148,24.3,0,PM Siddle,2009-09-30,1st,Shoaib Malik,12,,Mohammad Yousuf,0,Australia,Pakistan,91,Australia,SuperSport Park,3,Australia
+149,24.4,0,PM Siddle,2009-09-30,1st,Shoaib Malik,12,,Mohammad Yousuf,0,Australia,Pakistan,91,Australia,SuperSport Park,3,Australia
+150,24.5,0,PM Siddle,2009-09-30,1st,Shoaib Malik,12,,Mohammad Yousuf,0,Australia,Pakistan,91,Australia,SuperSport Park,3,Australia
+151,24.6,0,PM Siddle,2009-09-30,1st,Shoaib Malik,12,,Mohammad Yousuf,0,Australia,Pakistan,91,Australia,SuperSport Park,3,Australia
+152,25.1,0,JR Hopes,2009-09-30,1st,Mohammad Yousuf,0,,Shoaib Malik,12,Australia,Pakistan,91,Australia,SuperSport Park,3,Australia
+153,25.2,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,0,,Shoaib Malik,13,Australia,Pakistan,92,Australia,SuperSport Park,3,Australia
+154,25.3,0,JR Hopes,2009-09-30,1st,Shoaib Malik,13,,Mohammad Yousuf,0,Australia,Pakistan,92,Australia,SuperSport Park,3,Australia
+155,25.4,1,JR Hopes,2009-09-30,1st,Shoaib Malik,13,,Mohammad Yousuf,1,Australia,Pakistan,93,Australia,SuperSport Park,3,Australia
+156,25.5,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,1,,Shoaib Malik,14,Australia,Pakistan,94,Australia,SuperSport Park,3,Australia
+157,25.6,2,JR Hopes,2009-09-30,1st,Shoaib Malik,14,,Mohammad Yousuf,3,Australia,Pakistan,96,Australia,SuperSport Park,3,Australia
+158,26.1,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,3,,Shoaib Malik,14,Australia,Pakistan,96,Australia,SuperSport Park,3,Australia
+159,26.2,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,3,,Shoaib Malik,15,Australia,Pakistan,97,Australia,SuperSport Park,3,Australia
+160,26.3,0,NM Hauritz,2009-09-30,1st,Shoaib Malik,15,,Mohammad Yousuf,3,Australia,Pakistan,97,Australia,SuperSport Park,3,Australia
+161,26.4,1,NM Hauritz,2009-09-30,1st,Shoaib Malik,15,,Mohammad Yousuf,4,Australia,Pakistan,98,Australia,SuperSport Park,3,Australia
+162,26.5,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,4,,Shoaib Malik,15,Australia,Pakistan,98,Australia,SuperSport Park,3,Australia
+163,26.6,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,4,,Shoaib Malik,16,Australia,Pakistan,99,Australia,SuperSport Park,3,Australia
+164,27.1,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,4,,Shoaib Malik,17,Australia,Pakistan,100,Australia,SuperSport Park,3,Australia
+165,27.2,0,JR Hopes,2009-09-30,1st,Shoaib Malik,17,,Mohammad Yousuf,4,Australia,Pakistan,100,Australia,SuperSport Park,3,Australia
+166,27.3,1,JR Hopes,2009-09-30,1st,Shoaib Malik,17,,Mohammad Yousuf,5,Australia,Pakistan,101,Australia,SuperSport Park,3,Australia
+167,27.4,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,5,,Shoaib Malik,18,Australia,Pakistan,102,Australia,SuperSport Park,3,Australia
+168,27.5,0,JR Hopes,2009-09-30,1st,Shoaib Malik,18,,Mohammad Yousuf,5,Australia,Pakistan,102,Australia,SuperSport Park,3,Australia
+169,27.6,4,JR Hopes,2009-09-30,1st,Shoaib Malik,18,,Mohammad Yousuf,9,Australia,Pakistan,106,Australia,SuperSport Park,3,Australia
+170,28.1,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,9,,Shoaib Malik,18,Australia,Pakistan,106,Australia,SuperSport Park,3,Australia
+171,28.2,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,9,,Shoaib Malik,18,Australia,Pakistan,106,Australia,SuperSport Park,3,Australia
+172,28.3,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,9,,Shoaib Malik,18,Australia,Pakistan,106,Australia,SuperSport Park,3,Australia
+173,28.4,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,9,,Shoaib Malik,18,Australia,Pakistan,106,Australia,SuperSport Park,3,Australia
+174,28.5,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,9,,Shoaib Malik,18,Australia,Pakistan,106,Australia,SuperSport Park,3,Australia
+175,28.6,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,9,,Shoaib Malik,18,Australia,Pakistan,106,Australia,SuperSport Park,3,Australia
+176,29.1,2,JR Hopes,2009-09-30,1st,Shoaib Malik,18,,Mohammad Yousuf,11,Australia,Pakistan,108,Australia,SuperSport Park,3,Australia
+177,29.2,1,JR Hopes,2009-09-30,1st,Shoaib Malik,18,,Mohammad Yousuf,12,Australia,Pakistan,109,Australia,SuperSport Park,3,Australia
+178,29.3,4,JR Hopes,2009-09-30,1st,Mohammad Yousuf,12,,Shoaib Malik,22,Australia,Pakistan,113,Australia,SuperSport Park,3,Australia
+179,29.4,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,12,,Shoaib Malik,23,Australia,Pakistan,114,Australia,SuperSport Park,3,Australia
+180,29.5,0,JR Hopes,2009-09-30,1st,Shoaib Malik,23,,Mohammad Yousuf,12,Australia,Pakistan,114,Australia,SuperSport Park,3,Australia
+181,29.6,0,JR Hopes,2009-09-30,1st,Shoaib Malik,23,,Mohammad Yousuf,12,Australia,Pakistan,114,Australia,SuperSport Park,3,Australia
+182,30.1,1,B Lee,2009-09-30,1st,Mohammad Yousuf,12,,Shoaib Malik,24,Australia,Pakistan,115,Australia,SuperSport Park,3,Australia
+183,30.2,1,B Lee,2009-09-30,1st,Shoaib Malik,24,,Mohammad Yousuf,13,Australia,Pakistan,116,Australia,SuperSport Park,3,Australia
+184,30.3,1,B Lee,2009-09-30,1st,Mohammad Yousuf,13,,Shoaib Malik,25,Australia,Pakistan,117,Australia,SuperSport Park,3,Australia
+185,30.4,0,B Lee,2009-09-30,1st,Shoaib Malik,25,,Mohammad Yousuf,13,Australia,Pakistan,118,Australia,SuperSport Park,3,Australia
+186,30.5,1,B Lee,2009-09-30,1st,Shoaib Malik,25,,Mohammad Yousuf,14,Australia,Pakistan,119,Australia,SuperSport Park,3,Australia
+187,30.6,0,B Lee,2009-09-30,1st,Mohammad Yousuf,14,,Shoaib Malik,25,Australia,Pakistan,119,Australia,SuperSport Park,3,Australia
+188,30.7,1,B Lee,2009-09-30,1st,Mohammad Yousuf,14,,Shoaib Malik,26,Australia,Pakistan,120,Australia,SuperSport Park,3,Australia
+189,31.1,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,14,,Shoaib Malik,26,Australia,Pakistan,121,Australia,SuperSport Park,3,Australia
+190,31.2,1,MG Johnson,2009-09-30,1st,Mohammad Yousuf,14,,Shoaib Malik,27,Australia,Pakistan,122,Australia,SuperSport Park,3,Australia
+191,31.3,0,MG Johnson,2009-09-30,1st,Shoaib Malik,27,,Mohammad Yousuf,14,Australia,Pakistan,122,Australia,SuperSport Park,3,Australia
+192,31.4,0,MG Johnson,2009-09-30,1st,Shoaib Malik,27,,Mohammad Yousuf,14,Australia,Pakistan,122,Australia,SuperSport Park,3,Australia
+193,31.5,1,MG Johnson,2009-09-30,1st,Shoaib Malik,27,,Mohammad Yousuf,15,Australia,Pakistan,123,Australia,SuperSport Park,3,Australia
+194,31.6,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,15,Shoaib Malik,Shoaib Malik,27,Australia,Pakistan,123,Australia,SuperSport Park,4,Australia
+195,31.7,4,MG Johnson,2009-09-30,1st,Mohammad Yousuf,15,,Misbah-ul-Haq,4,Australia,Pakistan,127,Australia,SuperSport Park,4,Australia
+196,32.1,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,15,Australia,Pakistan,127,Australia,SuperSport Park,4,Australia
+197,32.2,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,15,Australia,Pakistan,127,Australia,SuperSport Park,4,Australia
+198,32.3,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,15,Australia,Pakistan,127,Australia,SuperSport Park,4,Australia
+199,32.4,1,B Lee,2009-09-30,1st,Misbah-ul-Haq,4,,Mohammad Yousuf,16,Australia,Pakistan,128,Australia,SuperSport Park,4,Australia
+200,32.5,0,B Lee,2009-09-30,1st,Mohammad Yousuf,16,,Misbah-ul-Haq,4,Australia,Pakistan,128,Australia,SuperSport Park,4,Australia
+201,32.6,1,B Lee,2009-09-30,1st,Mohammad Yousuf,16,,Misbah-ul-Haq,5,Australia,Pakistan,129,Australia,SuperSport Park,4,Australia
+202,33.1,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,16,,Misbah-ul-Haq,5,Australia,Pakistan,129,Australia,SuperSport Park,4,Australia
+203,33.2,1,MG Johnson,2009-09-30,1st,Mohammad Yousuf,16,,Misbah-ul-Haq,6,Australia,Pakistan,130,Australia,SuperSport Park,4,Australia
+204,33.3,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,6,,Mohammad Yousuf,16,Australia,Pakistan,130,Australia,SuperSport Park,4,Australia
+205,33.4,1,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,6,,Mohammad Yousuf,17,Australia,Pakistan,131,Australia,SuperSport Park,4,Australia
+206,33.5,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,17,,Misbah-ul-Haq,6,Australia,Pakistan,131,Australia,SuperSport Park,4,Australia
+207,33.6,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,17,,Misbah-ul-Haq,6,Australia,Pakistan,131,Australia,SuperSport Park,4,Australia
+208,34.1,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,6,,Mohammad Yousuf,17,Australia,Pakistan,131,Australia,SuperSport Park,4,Australia
+209,34.2,1,B Lee,2009-09-30,1st,Misbah-ul-Haq,6,,Mohammad Yousuf,18,Australia,Pakistan,132,Australia,SuperSport Park,4,Australia
+210,34.3,0,B Lee,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,6,Australia,Pakistan,133,Australia,SuperSport Park,4,Australia
+211,34.4,0,B Lee,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,6,Australia,Pakistan,133,Australia,SuperSport Park,4,Australia
+212,34.5,0,B Lee,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,6,Australia,Pakistan,133,Australia,SuperSport Park,4,Australia
+213,34.6,1,B Lee,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,7,Australia,Pakistan,134,Australia,SuperSport Park,4,Australia
+214,34.7,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,7,,Mohammad Yousuf,18,Australia,Pakistan,134,Australia,SuperSport Park,4,Australia
+215,35.1,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,7,Australia,Pakistan,134,Australia,SuperSport Park,4,Australia
+216,35.2,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,7,Australia,Pakistan,134,Australia,SuperSport Park,4,Australia
+217,35.3,1,MG Johnson,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,8,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+218,35.4,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,18,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+219,35.5,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,18,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+220,35.6,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,8,,Mohammad Yousuf,18,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+221,36.1,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,8,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+222,36.2,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,8,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+223,36.3,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,8,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+224,36.4,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,8,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+225,36.5,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,8,Australia,Pakistan,135,Australia,SuperSport Park,4,Australia
+226,36.6,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,9,Australia,Pakistan,136,Australia,SuperSport Park,4,Australia
+227,37.1,0,JR Hopes,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,9,Australia,Pakistan,136,Australia,SuperSport Park,4,Australia
+228,37.2,0,JR Hopes,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,9,Australia,Pakistan,136,Australia,SuperSport Park,4,Australia
+229,37.3,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,18,,Misbah-ul-Haq,10,Australia,Pakistan,137,Australia,SuperSport Park,4,Australia
+230,37.4,0,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,18,Australia,Pakistan,137,Australia,SuperSport Park,4,Australia
+231,37.5,4,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,22,Australia,Pakistan,141,Australia,SuperSport Park,4,Australia
+232,37.6,1,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,23,Australia,Pakistan,142,Australia,SuperSport Park,4,Australia
+233,38.1,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,10,,Mohammad Yousuf,24,Australia,Pakistan,143,Australia,SuperSport Park,4,Australia
+234,38.2,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,24,,Misbah-ul-Haq,11,Australia,Pakistan,144,Australia,SuperSport Park,4,Australia
+235,38.3,0,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,11,,Mohammad Yousuf,24,Australia,Pakistan,144,Australia,SuperSport Park,4,Australia
+236,38.4,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,11,,Mohammad Yousuf,25,Australia,Pakistan,145,Australia,SuperSport Park,4,Australia
+237,38.5,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,25,,Misbah-ul-Haq,12,Australia,Pakistan,146,Australia,SuperSport Park,4,Australia
+238,38.6,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,26,Australia,Pakistan,147,Australia,SuperSport Park,4,Australia
+239,39.1,0,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,26,Australia,Pakistan,147,Australia,SuperSport Park,4,Australia
+240,39.2,0,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,26,Australia,Pakistan,147,Australia,SuperSport Park,4,Australia
+241,39.3,0,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,26,Australia,Pakistan,147,Australia,SuperSport Park,4,Australia
+242,39.4,0,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,26,Australia,Pakistan,147,Australia,SuperSport Park,4,Australia
+243,39.5,1,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,12,,Mohammad Yousuf,27,Australia,Pakistan,148,Australia,SuperSport Park,4,Australia
+244,39.6,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,27,,Misbah-ul-Haq,13,Australia,Pakistan,149,Australia,SuperSport Park,4,Australia
+245,40.1,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,27,,Misbah-ul-Haq,13,Australia,Pakistan,149,Australia,SuperSport Park,4,Australia
+246,40.2,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,27,,Misbah-ul-Haq,14,Australia,Pakistan,150,Australia,SuperSport Park,4,Australia
+247,40.3,0,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,14,,Mohammad Yousuf,27,Australia,Pakistan,150,Australia,SuperSport Park,4,Australia
+248,40.4,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,14,,Mohammad Yousuf,28,Australia,Pakistan,151,Australia,SuperSport Park,4,Australia
+249,40.5,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,28,,Misbah-ul-Haq,14,Australia,Pakistan,151,Australia,SuperSport Park,4,Australia
+250,40.6,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,28,,Misbah-ul-Haq,14,Australia,Pakistan,151,Australia,SuperSport Park,4,Australia
+251,41.1,1,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,14,,Mohammad Yousuf,29,Australia,Pakistan,152,Australia,SuperSport Park,4,Australia
+252,41.2,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,29,,Misbah-ul-Haq,15,Australia,Pakistan,153,Australia,SuperSport Park,4,Australia
+253,41.3,1,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,15,,Mohammad Yousuf,30,Australia,Pakistan,154,Australia,SuperSport Park,4,Australia
+254,41.4,4,JR Hopes,2009-09-30,1st,Mohammad Yousuf,30,,Misbah-ul-Haq,19,Australia,Pakistan,158,Australia,SuperSport Park,4,Australia
+255,41.5,1,JR Hopes,2009-09-30,1st,Mohammad Yousuf,30,,Misbah-ul-Haq,20,Australia,Pakistan,159,Australia,SuperSport Park,4,Australia
+256,41.6,1,JR Hopes,2009-09-30,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,31,Australia,Pakistan,160,Australia,SuperSport Park,4,Australia
+257,42.1,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,20,,Mohammad Yousuf,32,Australia,Pakistan,161,Australia,SuperSport Park,4,Australia
+258,42.2,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,32,,Misbah-ul-Haq,21,Australia,Pakistan,162,Australia,SuperSport Park,4,Australia
+259,42.3,0,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,21,,Mohammad Yousuf,32,Australia,Pakistan,162,Australia,SuperSport Park,4,Australia
+260,42.4,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,21,,Mohammad Yousuf,33,Australia,Pakistan,163,Australia,SuperSport Park,4,Australia
+261,42.5,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,33,,Misbah-ul-Haq,22,Australia,Pakistan,164,Australia,SuperSport Park,4,Australia
+262,42.6,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,34,Australia,Pakistan,165,Australia,SuperSport Park,4,Australia
+263,43.1,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,34,Australia,Pakistan,165,Australia,SuperSport Park,4,Australia
+264,43.2,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,34,Australia,Pakistan,165,Australia,SuperSport Park,4,Australia
+265,43.3,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,34,Australia,Pakistan,165,Australia,SuperSport Park,4,Australia
+266,43.4,0,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,34,Australia,Pakistan,165,Australia,SuperSport Park,4,Australia
+267,43.5,1,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,35,Australia,Pakistan,166,Australia,SuperSport Park,4,Australia
+268,43.6,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,35,,Misbah-ul-Haq,22,Australia,Pakistan,166,Australia,SuperSport Park,4,Australia
+269,44.1,2,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,37,Australia,Pakistan,168,Australia,SuperSport Park,4,Australia
+270,44.2,0,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,37,Australia,Pakistan,168,Australia,SuperSport Park,4,Australia
+271,44.3,1,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,22,,Mohammad Yousuf,38,Australia,Pakistan,169,Australia,SuperSport Park,4,Australia
+272,44.4,0,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,38,,Misbah-ul-Haq,22,Australia,Pakistan,169,Australia,SuperSport Park,4,Australia
+273,44.5,1,NM Hauritz,2009-09-30,1st,Mohammad Yousuf,38,,Misbah-ul-Haq,23,Australia,Pakistan,170,Australia,SuperSport Park,4,Australia
+274,44.6,4,NM Hauritz,2009-09-30,1st,Misbah-ul-Haq,23,,Mohammad Yousuf,42,Australia,Pakistan,174,Australia,SuperSport Park,4,Australia
+275,45.1,0,MG Johnson,2009-09-30,1st,Mohammad Yousuf,42,,Misbah-ul-Haq,23,Australia,Pakistan,174,Australia,SuperSport Park,4,Australia
+276,45.2,2,MG Johnson,2009-09-30,1st,Mohammad Yousuf,42,,Misbah-ul-Haq,25,Australia,Pakistan,176,Australia,SuperSport Park,4,Australia
+277,45.3,2,MG Johnson,2009-09-30,1st,Mohammad Yousuf,42,,Misbah-ul-Haq,27,Australia,Pakistan,178,Australia,SuperSport Park,4,Australia
+278,45.4,4,MG Johnson,2009-09-30,1st,Mohammad Yousuf,42,,Misbah-ul-Haq,31,Australia,Pakistan,182,Australia,SuperSport Park,4,Australia
+279,45.5,1,MG Johnson,2009-09-30,1st,Mohammad Yousuf,42,,Misbah-ul-Haq,32,Australia,Pakistan,183,Australia,SuperSport Park,4,Australia
+280,45.6,1,MG Johnson,2009-09-30,1st,Misbah-ul-Haq,32,,Mohammad Yousuf,43,Australia,Pakistan,184,Australia,SuperSport Park,4,Australia
+281,46.1,2,B Lee,2009-09-30,1st,Misbah-ul-Haq,32,,Mohammad Yousuf,45,Australia,Pakistan,186,Australia,SuperSport Park,4,Australia
+282,46.2,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,32,Mohammad Yousuf,Mohammad Yousuf,45,Australia,Pakistan,186,Australia,SuperSport Park,5,Australia
+283,46.3,1,B Lee,2009-09-30,1st,Umar Akmal,0,,Misbah-ul-Haq,33,Australia,Pakistan,187,Australia,SuperSport Park,5,Australia
+284,46.4,1,B Lee,2009-09-30,1st,Misbah-ul-Haq,33,,Umar Akmal,1,Australia,Pakistan,188,Australia,SuperSport Park,5,Australia
+285,46.5,0,B Lee,2009-09-30,1st,Umar Akmal,1,,Misbah-ul-Haq,33,Australia,Pakistan,188,Australia,SuperSport Park,5,Australia
+286,46.6,1,B Lee,2009-09-30,1st,Umar Akmal,1,,Misbah-ul-Haq,34,Australia,Pakistan,189,Australia,SuperSport Park,5,Australia
+287,47.1,0,SR Watson,2009-09-30,1st,Umar Akmal,1,,Misbah-ul-Haq,34,Australia,Pakistan,189,Australia,SuperSport Park,5,Australia
+288,47.2,0,SR Watson,2009-09-30,1st,Umar Akmal,1,,Misbah-ul-Haq,34,Australia,Pakistan,189,Australia,SuperSport Park,5,Australia
+289,47.3,1,SR Watson,2009-09-30,1st,Umar Akmal,1,,Misbah-ul-Haq,35,Australia,Pakistan,190,Australia,SuperSport Park,5,Australia
+290,47.4,1,SR Watson,2009-09-30,1st,Misbah-ul-Haq,35,,Umar Akmal,2,Australia,Pakistan,191,Australia,SuperSport Park,5,Australia
+291,47.5,1,SR Watson,2009-09-30,1st,Umar Akmal,2,,Misbah-ul-Haq,36,Australia,Pakistan,192,Australia,SuperSport Park,5,Australia
+292,47.6,0,SR Watson,2009-09-30,1st,Misbah-ul-Haq,36,,Umar Akmal,2,Australia,Pakistan,192,Australia,SuperSport Park,5,Australia
+293,48.1,1,B Lee,2009-09-30,1st,Umar Akmal,2,,Misbah-ul-Haq,37,Australia,Pakistan,193,Australia,SuperSport Park,5,Australia
+294,48.2,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,37,,Umar Akmal,2,Australia,Pakistan,193,Australia,SuperSport Park,5,Australia
+295,48.3,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,37,,Umar Akmal,2,Australia,Pakistan,193,Australia,SuperSport Park,5,Australia
+296,48.4,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,37,,Umar Akmal,2,Australia,Pakistan,193,Australia,SuperSport Park,5,Australia
+297,48.5,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,37,,Umar Akmal,2,Australia,Pakistan,193,Australia,SuperSport Park,5,Australia
+298,48.6,0,B Lee,2009-09-30,1st,Misbah-ul-Haq,37,,Umar Akmal,2,Australia,Pakistan,193,Australia,SuperSport Park,5,Australia
+299,49.1,4,SR Watson,2009-09-30,1st,Umar Akmal,2,,Misbah-ul-Haq,41,Australia,Pakistan,197,Australia,SuperSport Park,5,Australia
+300,49.2,0,SR Watson,2009-09-30,1st,Umar Akmal,2,,Misbah-ul-Haq,41,Australia,Pakistan,197,Australia,SuperSport Park,5,Australia
+301,49.3,0,SR Watson,2009-09-30,1st,Umar Akmal,2,,Misbah-ul-Haq,41,Australia,Pakistan,197,Australia,SuperSport Park,5,Australia
+302,49.4,0,SR Watson,2009-09-30,1st,Umar Akmal,2,Misbah-ul-Haq,Misbah-ul-Haq,41,Australia,Pakistan,198,Australia,SuperSport Park,6,Australia
+303,49.5,4,SR Watson,2009-09-30,1st,Umar Akmal,2,,Naved-ul-Hasan,4,Australia,Pakistan,202,Australia,SuperSport Park,6,Australia
+304,49.6,2,SR Watson,2009-09-30,1st,Umar Akmal,2,,Naved-ul-Hasan,6,Australia,Pakistan,204,Australia,SuperSport Park,6,Australia
+305,49.7,1,SR Watson,2009-09-30,1st,Umar Akmal,2,,Naved-ul-Hasan,7,Australia,Pakistan,205,Australia,SuperSport Park,6,Australia
+306,0.1,2,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,2,Australia,SuperSport Park,0,Australia
+307,0.2,4,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,6,Australia,SuperSport Park,0,Australia
+308,0.3,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,6,Australia,SuperSport Park,0,Australia
+309,0.4,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,6,Australia,SuperSport Park,0,Australia
+310,0.5,4,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,10,Australia,SuperSport Park,0,Australia
+311,0.6,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,10,Australia,SuperSport Park,0,Australia
+312,1.1,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,11,Australia,SuperSport Park,0,Australia
+313,1.2,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,11,Australia,SuperSport Park,0,Australia
+314,1.3,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,11,Australia,SuperSport Park,0,Australia
+315,1.4,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+316,1.5,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+317,1.6,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+318,1.7,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,12,Australia,SuperSport Park,0,Australia
+319,1.8,6,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,18,Australia,SuperSport Park,0,Australia
+320,2.1,4,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,22,Australia,SuperSport Park,0,Australia
+321,2.2,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,22,Australia,SuperSport Park,0,Australia
+322,2.3,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,22,Australia,SuperSport Park,0,Australia
+323,2.4,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,22,Australia,SuperSport Park,0,Australia
+324,2.5,4,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,26,Australia,SuperSport Park,0,Australia
+325,2.6,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,26,Australia,SuperSport Park,0,Australia
+326,3.1,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,26,Australia,SuperSport Park,0,Australia
+327,3.2,4,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,30,Australia,SuperSport Park,0,Australia
+328,3.3,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,30,Australia,SuperSport Park,0,Australia
+329,3.4,4,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,34,Australia,SuperSport Park,0,Australia
+330,3.5,1,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+331,3.6,0,Mohammad Asif,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+332,4.1,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+333,4.2,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+334,4.3,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+335,4.4,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+336,4.5,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+337,4.6,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+338,5.1,0,Mohammad Asif,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+339,5.2,0,Mohammad Asif,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+340,5.3,0,Mohammad Asif,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,35,Australia,SuperSport Park,0,Australia
+341,5.4,1,Mohammad Asif,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,36,Australia,SuperSport Park,0,Australia
+342,5.5,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,36,Australia,SuperSport Park,0,Australia
+343,5.6,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,36,Australia,SuperSport Park,0,Australia
+344,6.1,1,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,37,Australia,SuperSport Park,0,Australia
+345,6.2,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,37,Australia,SuperSport Park,0,Australia
+346,6.3,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,37,Australia,SuperSport Park,0,Australia
+347,6.4,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,37,Australia,SuperSport Park,0,Australia
+348,6.5,1,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,38,Australia,SuperSport Park,0,Australia
+349,6.6,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,38,Australia,SuperSport Park,0,Australia
+350,7.1,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,38,Australia,SuperSport Park,0,Australia
+351,7.2,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,38,Australia,SuperSport Park,0,Australia
+352,7.3,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,38,Australia,SuperSport Park,0,Australia
+353,7.4,0,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,38,Australia,SuperSport Park,0,Australia
+354,7.5,1,Mohammad Asif,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,39,Australia,SuperSport Park,0,Australia
+355,7.6,0,Mohammad Asif,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,39,Australia,SuperSport Park,0,Australia
+356,8.1,0,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,39,Australia,SuperSport Park,0,Australia
+357,8.2,1,Umar Gul,2009-09-30,2nd,SR Watson,0,,TD Paine,0,Australia,Pakistan,40,Australia,SuperSport Park,0,Australia
+358,8.3,4,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,44,Australia,SuperSport Park,0,Australia
+359,8.4,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,SR Watson,0,Australia,Pakistan,44,Australia,SuperSport Park,1,Australia
+360,8.5,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,44,Australia,SuperSport Park,1,Australia
+361,8.6,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,44,Australia,SuperSport Park,1,Australia
+362,9.1,0,Mohammad Asif,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,44,Australia,SuperSport Park,1,Australia
+363,9.2,0,Mohammad Asif,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,44,Australia,SuperSport Park,1,Australia
+364,9.3,4,Mohammad Asif,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,48,Australia,SuperSport Park,1,Australia
+365,9.4,0,Mohammad Asif,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,48,Australia,SuperSport Park,1,Australia
+366,9.5,2,Mohammad Asif,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,50,Australia,SuperSport Park,1,Australia
+367,9.6,0,Mohammad Asif,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,50,Australia,SuperSport Park,1,Australia
+368,10.1,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,50,Australia,SuperSport Park,1,Australia
+369,10.2,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,50,Australia,SuperSport Park,1,Australia
+370,10.3,2,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,52,Australia,SuperSport Park,1,Australia
+371,10.4,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,53,Australia,SuperSport Park,1,Australia
+372,10.5,1,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,54,Australia,SuperSport Park,1,Australia
+373,10.6,1,Umar Gul,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,55,Australia,SuperSport Park,1,Australia
+374,10.7,0,Umar Gul,2009-09-30,2nd,TD Paine,0,,RT Ponting,0,Australia,Pakistan,55,Australia,SuperSport Park,1,Australia
+375,11.1,2,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,57,Australia,SuperSport Park,1,Australia
+376,11.2,2,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,59,Australia,SuperSport Park,1,Australia
+377,11.3,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,TD Paine,0,Australia,Pakistan,59,Australia,SuperSport Park,2,Australia
+378,11.4,4,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,63,Australia,SuperSport Park,2,Australia
+379,11.5,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,63,Australia,SuperSport Park,2,Australia
+380,11.6,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,63,Australia,SuperSport Park,2,Australia
+381,12.1,0,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,63,Australia,SuperSport Park,2,Australia
+382,12.2,1,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,64,Australia,SuperSport Park,2,Australia
+383,12.3,0,Umar Gul,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,64,Australia,SuperSport Park,2,Australia
+384,12.4,0,Umar Gul,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,64,Australia,SuperSport Park,2,Australia
+385,12.5,0,Umar Gul,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,64,Australia,SuperSport Park,2,Australia
+386,12.6,0,Umar Gul,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,64,Australia,SuperSport Park,2,Australia
+387,13.1,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,65,Australia,SuperSport Park,2,Australia
+388,13.2,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,65,Australia,SuperSport Park,2,Australia
+389,13.3,1,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,66,Australia,SuperSport Park,2,Australia
+390,13.4,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,67,Australia,SuperSport Park,2,Australia
+391,13.5,1,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,68,Australia,SuperSport Park,2,Australia
+392,13.6,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,69,Australia,SuperSport Park,2,Australia
+393,14.1,0,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,69,Australia,SuperSport Park,2,Australia
+394,14.2,0,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,69,Australia,SuperSport Park,2,Australia
+395,14.3,0,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,69,Australia,SuperSport Park,2,Australia
+396,14.4,4,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,73,Australia,SuperSport Park,2,Australia
+397,14.5,0,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,73,Australia,SuperSport Park,2,Australia
+398,14.6,0,Umar Gul,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,73,Australia,SuperSport Park,2,Australia
+399,15.1,1,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,74,Australia,SuperSport Park,2,Australia
+400,15.2,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,74,Australia,SuperSport Park,2,Australia
+401,15.3,2,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,76,Australia,SuperSport Park,2,Australia
+402,15.4,2,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,78,Australia,SuperSport Park,2,Australia
+403,15.5,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,79,Australia,SuperSport Park,2,Australia
+404,15.6,1,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,80,Australia,SuperSport Park,2,Australia
+405,16.1,4,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,84,Australia,SuperSport Park,2,Australia
+406,16.2,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,84,Australia,SuperSport Park,2,Australia
+407,16.3,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,84,Australia,SuperSport Park,2,Australia
+408,16.4,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,84,Australia,SuperSport Park,2,Australia
+409,16.5,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,84,Australia,SuperSport Park,2,Australia
+410,16.6,1,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,85,Australia,SuperSport Park,2,Australia
+411,17.1,1,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,86,Australia,SuperSport Park,2,Australia
+412,17.2,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,86,Australia,SuperSport Park,2,Australia
+413,17.3,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,86,Australia,SuperSport Park,2,Australia
+414,17.4,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,86,Australia,SuperSport Park,2,Australia
+415,17.5,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,86,Australia,SuperSport Park,2,Australia
+416,17.6,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,87,Australia,SuperSport Park,2,Australia
+417,18.1,0,Naved-ul-Hasan,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,87,Australia,SuperSport Park,2,Australia
+418,18.2,0,Naved-ul-Hasan,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,87,Australia,SuperSport Park,2,Australia
+419,18.3,1,Naved-ul-Hasan,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+420,18.4,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+421,18.5,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+422,18.6,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+423,19.1,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,88,Australia,SuperSport Park,2,Australia
+424,19.2,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+425,19.3,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+426,19.4,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+427,19.5,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+428,19.6,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,89,Australia,SuperSport Park,2,Australia
+429,20.1,1,Naved-ul-Hasan,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,90,Australia,SuperSport Park,2,Australia
+430,20.2,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,90,Australia,SuperSport Park,2,Australia
+431,20.3,2,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,92,Australia,SuperSport Park,2,Australia
+432,20.4,2,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,94,Australia,SuperSport Park,2,Australia
+433,20.5,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,94,Australia,SuperSport Park,2,Australia
+434,20.6,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,95,Australia,SuperSport Park,2,Australia
+435,20.7,6,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,101,Australia,SuperSport Park,2,Australia
+436,21.1,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,101,Australia,SuperSport Park,2,Australia
+437,21.2,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,101,Australia,SuperSport Park,2,Australia
+438,21.3,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,101,Australia,SuperSport Park,2,Australia
+439,21.4,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,102,Australia,SuperSport Park,2,Australia
+440,21.5,1,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,103,Australia,SuperSport Park,2,Australia
+441,21.6,2,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,105,Australia,SuperSport Park,2,Australia
+442,22.1,4,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,109,Australia,SuperSport Park,2,Australia
+443,22.2,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,109,Australia,SuperSport Park,2,Australia
+444,22.3,0,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,109,Australia,SuperSport Park,2,Australia
+445,22.4,4,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,113,Australia,SuperSport Park,2,Australia
+446,22.5,1,Naved-ul-Hasan,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,114,Australia,SuperSport Park,2,Australia
+447,22.6,0,Naved-ul-Hasan,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,114,Australia,SuperSport Park,2,Australia
+448,23.1,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,114,Australia,SuperSport Park,2,Australia
+449,23.2,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,114,Australia,SuperSport Park,2,Australia
+450,23.3,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,114,Australia,SuperSport Park,2,Australia
+451,23.4,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,114,Australia,SuperSport Park,2,Australia
+452,23.5,0,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,114,Australia,SuperSport Park,2,Australia
+453,23.6,1,Shahid Afridi,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,115,Australia,SuperSport Park,2,Australia
+454,24.1,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,115,Australia,SuperSport Park,2,Australia
+455,24.2,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,115,Australia,SuperSport Park,2,Australia
+456,24.3,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,115,Australia,SuperSport Park,2,Australia
+457,24.4,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,115,Australia,SuperSport Park,2,Australia
+458,24.5,1,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,116,Australia,SuperSport Park,2,Australia
+459,24.6,1,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,117,Australia,SuperSport Park,2,Australia
+460,25.1,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,117,Australia,SuperSport Park,2,Australia
+461,25.2,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,117,Australia,SuperSport Park,2,Australia
+462,25.3,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,117,Australia,SuperSport Park,2,Australia
+463,25.4,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,117,Australia,SuperSport Park,2,Australia
+464,25.5,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,117,Australia,SuperSport Park,2,Australia
+465,25.6,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,118,Australia,SuperSport Park,2,Australia
+466,26.1,1,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,119,Australia,SuperSport Park,2,Australia
+467,26.2,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,119,Australia,SuperSport Park,2,Australia
+468,26.3,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,119,Australia,SuperSport Park,2,Australia
+469,26.4,1,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,120,Australia,SuperSport Park,2,Australia
+470,26.5,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,120,Australia,SuperSport Park,2,Australia
+471,26.6,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,120,Australia,SuperSport Park,2,Australia
+472,27.1,0,Shoaib Malik,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,120,Australia,SuperSport Park,2,Australia
+473,27.2,1,Shoaib Malik,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,121,Australia,SuperSport Park,2,Australia
+474,27.3,0,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,121,Australia,SuperSport Park,2,Australia
+475,27.4,1,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,122,Australia,SuperSport Park,2,Australia
+476,27.5,1,Shoaib Malik,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,123,Australia,SuperSport Park,2,Australia
+477,27.6,1,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,124,Australia,SuperSport Park,2,Australia
+478,28.1,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,124,Australia,SuperSport Park,2,Australia
+479,28.2,1,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,125,Australia,SuperSport Park,2,Australia
+480,28.3,4,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,129,Australia,SuperSport Park,2,Australia
+481,28.4,1,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,130,Australia,SuperSport Park,2,Australia
+482,28.5,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,130,Australia,SuperSport Park,2,Australia
+483,28.6,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,130,Australia,SuperSport Park,2,Australia
+484,29.1,1,Shoaib Malik,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,131,Australia,SuperSport Park,2,Australia
+485,29.2,1,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,132,Australia,SuperSport Park,2,Australia
+486,29.3,1,Shoaib Malik,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,133,Australia,SuperSport Park,2,Australia
+487,29.4,0,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,136,Australia,SuperSport Park,2,Australia
+488,29.5,1,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,137,Australia,SuperSport Park,2,Australia
+489,29.6,1,Shoaib Malik,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,138,Australia,SuperSport Park,2,Australia
+490,29.7,0,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,138,Australia,SuperSport Park,2,Australia
+491,30.1,1,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,139,Australia,SuperSport Park,2,Australia
+492,30.2,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,139,Australia,SuperSport Park,2,Australia
+493,30.3,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,139,Australia,SuperSport Park,2,Australia
+494,30.4,1,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,140,Australia,SuperSport Park,2,Australia
+495,30.5,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,140,Australia,SuperSport Park,2,Australia
+496,30.6,0,Saeed Ajmal,2009-09-30,2nd,RT Ponting,0,,MEK Hussey,0,Australia,Pakistan,140,Australia,SuperSport Park,2,Australia
+497,31.1,0,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,140,Australia,SuperSport Park,2,Australia
+498,31.2,0,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,RT Ponting,0,Australia,Pakistan,140,Australia,SuperSport Park,3,Australia
+499,31.3,1,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+500,31.4,0,Shoaib Malik,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+501,31.5,0,Shoaib Malik,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+502,31.6,0,Shoaib Malik,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+503,32.1,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+504,32.2,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+505,32.3,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+506,32.4,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+507,32.5,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+508,32.6,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+509,33.1,0,Shoaib Malik,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,141,Australia,SuperSport Park,3,Australia
+510,33.2,1,Shoaib Malik,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,142,Australia,SuperSport Park,3,Australia
+511,33.3,1,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,143,Australia,SuperSport Park,3,Australia
+512,33.4,1,Shoaib Malik,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,144,Australia,SuperSport Park,3,Australia
+513,33.5,0,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,144,Australia,SuperSport Park,3,Australia
+514,33.6,0,Shoaib Malik,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,144,Australia,SuperSport Park,3,Australia
+515,34.1,0,Saeed Ajmal,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,144,Australia,SuperSport Park,3,Australia
+516,34.2,0,Saeed Ajmal,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,144,Australia,SuperSport Park,3,Australia
+517,34.3,1,Saeed Ajmal,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,145,Australia,SuperSport Park,3,Australia
+518,34.4,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,145,Australia,SuperSport Park,3,Australia
+519,34.5,1,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,146,Australia,SuperSport Park,3,Australia
+520,34.6,0,Saeed Ajmal,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,146,Australia,SuperSport Park,3,Australia
+521,35.1,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,147,Australia,SuperSport Park,3,Australia
+522,35.2,1,Shahid Afridi,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,148,Australia,SuperSport Park,3,Australia
+523,35.3,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,149,Australia,SuperSport Park,3,Australia
+524,35.4,4,Shahid Afridi,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,153,Australia,SuperSport Park,3,Australia
+525,35.5,1,Shahid Afridi,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,154,Australia,SuperSport Park,3,Australia
+526,35.6,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,155,Australia,SuperSport Park,3,Australia
+527,36.1,1,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,156,Australia,SuperSport Park,3,Australia
+528,36.2,1,Saeed Ajmal,2009-09-30,2nd,CJ Ferguson,0,,MEK Hussey,0,Australia,Pakistan,157,Australia,SuperSport Park,3,Australia
+529,36.3,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,157,Australia,SuperSport Park,3,Australia
+530,36.4,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CJ Ferguson,0,Australia,Pakistan,157,Australia,SuperSport Park,4,Australia
+531,36.5,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,157,Australia,SuperSport Park,4,Australia
+532,36.6,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,157,Australia,SuperSport Park,4,Australia
+533,37.1,0,Shahid Afridi,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,157,Australia,SuperSport Park,4,Australia
+534,37.2,1,Shahid Afridi,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,158,Australia,SuperSport Park,4,Australia
+535,37.3,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,158,Australia,SuperSport Park,4,Australia
+536,37.4,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,158,Australia,SuperSport Park,4,Australia
+537,37.5,0,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,163,Australia,SuperSport Park,4,Australia
+538,37.6,2,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,165,Australia,SuperSport Park,4,Australia
+539,37.7,1,Shahid Afridi,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,166,Australia,SuperSport Park,4,Australia
+540,38.1,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,166,Australia,SuperSport Park,4,Australia
+541,38.2,1,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,167,Australia,SuperSport Park,4,Australia
+542,38.3,0,Saeed Ajmal,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,167,Australia,SuperSport Park,4,Australia
+543,38.4,0,Saeed Ajmal,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,167,Australia,SuperSport Park,4,Australia
+544,38.5,1,Saeed Ajmal,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,168,Australia,SuperSport Park,4,Australia
+545,38.6,0,Saeed Ajmal,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,168,Australia,SuperSport Park,4,Australia
+546,39.1,0,Mohammad Asif,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,168,Australia,SuperSport Park,4,Australia
+547,39.2,1,Mohammad Asif,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,169,Australia,SuperSport Park,4,Australia
+548,39.3,0,Mohammad Asif,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,169,Australia,SuperSport Park,4,Australia
+549,39.4,0,Mohammad Asif,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,169,Australia,SuperSport Park,4,Australia
+550,39.5,0,Mohammad Asif,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,169,Australia,SuperSport Park,4,Australia
+551,39.6,0,Mohammad Asif,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,170,Australia,SuperSport Park,4,Australia
+552,39.7,0,Mohammad Asif,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,170,Australia,SuperSport Park,4,Australia
+553,40.1,1,Naved-ul-Hasan,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,171,Australia,SuperSport Park,4,Australia
+554,40.2,0,Naved-ul-Hasan,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,171,Australia,SuperSport Park,4,Australia
+555,40.3,1,Naved-ul-Hasan,2009-09-30,2nd,MEK Hussey,0,,CL White,0,Australia,Pakistan,172,Australia,SuperSport Park,4,Australia
+556,40.4,2,Naved-ul-Hasan,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,174,Australia,SuperSport Park,4,Australia
+557,40.5,0,Naved-ul-Hasan,2009-09-30,2nd,CL White,0,,MEK Hussey,0,Australia,Pakistan,174,Australia,SuperSport Park,5,Australia
+558,40.6,1,Naved-ul-Hasan,2009-09-30,2nd,CL White,0,,JR Hopes,0,Australia,Pakistan,175,Australia,SuperSport Park,5,Australia
+559,41.1,0,Mohammad Asif,2009-09-30,2nd,CL White,0,,JR Hopes,0,Australia,Pakistan,175,Australia,SuperSport Park,5,Australia
+560,41.2,0,Mohammad Asif,2009-09-30,2nd,CL White,0,,JR Hopes,0,Australia,Pakistan,175,Australia,SuperSport Park,6,Australia
+561,41.3,0,Mohammad Asif,2009-09-30,2nd,CL White,0,,MG Johnson,0,Australia,Pakistan,175,Australia,SuperSport Park,6,Australia
+562,41.4,1,Mohammad Asif,2009-09-30,2nd,CL White,0,,MG Johnson,0,Australia,Pakistan,176,Australia,SuperSport Park,6,Australia
+563,41.5,0,Mohammad Asif,2009-09-30,2nd,MG Johnson,0,,CL White,0,Australia,Pakistan,176,Australia,SuperSport Park,7,Australia
+564,41.6,2,Mohammad Asif,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,178,Australia,SuperSport Park,7,Australia
+565,42.1,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,178,Australia,SuperSport Park,7,Australia
+566,42.2,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,178,Australia,SuperSport Park,7,Australia
+567,42.3,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,178,Australia,SuperSport Park,7,Australia
+568,42.4,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,178,Australia,SuperSport Park,7,Australia
+569,42.5,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,178,Australia,SuperSport Park,7,Australia
+570,42.6,1,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,179,Australia,SuperSport Park,7,Australia
+571,43.1,0,Mohammad Asif,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,179,Australia,SuperSport Park,7,Australia
+572,43.2,0,Mohammad Asif,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,179,Australia,SuperSport Park,7,Australia
+573,43.3,1,Mohammad Asif,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,180,Australia,SuperSport Park,7,Australia
+574,43.4,1,Mohammad Asif,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,181,Australia,SuperSport Park,7,Australia
+575,43.5,2,Mohammad Asif,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+576,43.6,0,Mohammad Asif,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+577,44.1,0,Naved-ul-Hasan,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+578,44.2,0,Naved-ul-Hasan,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+579,44.3,0,Naved-ul-Hasan,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+580,44.4,0,Naved-ul-Hasan,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+581,44.5,0,Naved-ul-Hasan,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+582,44.6,0,Naved-ul-Hasan,2009-09-30,2nd,MG Johnson,0,,B Lee,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+583,45.1,0,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+584,45.2,0,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+585,45.3,0,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,183,Australia,SuperSport Park,7,Australia
+586,45.4,4,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,187,Australia,SuperSport Park,7,Australia
+587,45.5,0,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,MG Johnson,0,Australia,Pakistan,187,Australia,SuperSport Park,8,Australia
+588,45.6,1,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,188,Australia,SuperSport Park,8,Australia
+589,46.1,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,188,Australia,SuperSport Park,8,Australia
+590,46.2,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,188,Australia,SuperSport Park,8,Australia
+591,46.3,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,188,Australia,SuperSport Park,8,Australia
+592,46.4,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,188,Australia,SuperSport Park,8,Australia
+593,46.5,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,188,Australia,SuperSport Park,8,Australia
+594,46.6,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,188,Australia,SuperSport Park,8,Australia
+595,47.1,4,Saeed Ajmal,2009-09-30,2nd,NM Hauritz,0,,B Lee,0,Australia,Pakistan,192,Australia,SuperSport Park,8,Australia
+596,47.2,1,Saeed Ajmal,2009-09-30,2nd,NM Hauritz,0,,B Lee,0,Australia,Pakistan,193,Australia,SuperSport Park,8,Australia
+597,47.3,0,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,193,Australia,SuperSport Park,8,Australia
+598,47.4,1,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,194,Australia,SuperSport Park,8,Australia
+599,47.5,1,Saeed Ajmal,2009-09-30,2nd,NM Hauritz,0,,B Lee,0,Australia,Pakistan,195,Australia,SuperSport Park,8,Australia
+600,47.6,1,Saeed Ajmal,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,196,Australia,SuperSport Park,8,Australia
+601,48.1,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,196,Australia,SuperSport Park,8,Australia
+602,48.2,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,196,Australia,SuperSport Park,8,Australia
+603,48.3,4,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,200,Australia,SuperSport Park,8,Australia
+604,48.4,0,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,200,Australia,SuperSport Park,8,Australia
+605,48.5,1,Naved-ul-Hasan,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,201,Australia,SuperSport Park,8,Australia
+606,48.6,1,Naved-ul-Hasan,2009-09-30,2nd,NM Hauritz,0,,B Lee,0,Australia,Pakistan,202,Australia,SuperSport Park,8,Australia
+607,49.1,0,Umar Gul,2009-09-30,2nd,NM Hauritz,0,,B Lee,0,Australia,Pakistan,202,Australia,SuperSport Park,8,Australia
+608,49.2,1,Umar Gul,2009-09-30,2nd,NM Hauritz,0,,B Lee,0,Australia,Pakistan,203,Australia,SuperSport Park,8,Australia
+609,49.3,0,Umar Gul,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,203,Australia,SuperSport Park,8,Australia
+610,49.4,1,Umar Gul,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,204,Australia,SuperSport Park,8,Australia
+611,49.5,1,Umar Gul,2009-09-30,2nd,NM Hauritz,0,,B Lee,0,Australia,Pakistan,205,Australia,SuperSport Park,8,Australia
+612,49.6,0,Umar Gul,2009-09-30,2nd,B Lee,0,,NM Hauritz,0,Australia,Pakistan,206,Australia,SuperSport Park,8,Australia

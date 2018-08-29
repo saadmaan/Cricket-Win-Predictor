@@ -1,0 +1,618 @@
+,Ball,Batsman Run,Bowler,Date,Innings,Non Striker,Non Striker Run,Player Out,Striker,Striker Run,Team 1,Team 2,Team Total,Toss,Venue,Wicket,Winner/Result
+0,0.1,0,EC Rainsford,2006-09-20,1st,AN Petersen,0,,LE Bosman,0,South Africa,Zimbabwe,0,South Africa,Sedgars Park,0,South Africa
+1,0.2,0,EC Rainsford,2006-09-20,1st,AN Petersen,0,,LE Bosman,0,South Africa,Zimbabwe,0,South Africa,Sedgars Park,0,South Africa
+2,0.3,1,EC Rainsford,2006-09-20,1st,AN Petersen,0,,LE Bosman,1,South Africa,Zimbabwe,1,South Africa,Sedgars Park,0,South Africa
+3,0.4,0,EC Rainsford,2006-09-20,1st,LE Bosman,1,,AN Petersen,0,South Africa,Zimbabwe,1,South Africa,Sedgars Park,0,South Africa
+4,0.5,0,EC Rainsford,2006-09-20,1st,LE Bosman,1,,AN Petersen,0,South Africa,Zimbabwe,1,South Africa,Sedgars Park,0,South Africa
+5,0.6,4,EC Rainsford,2006-09-20,1st,LE Bosman,1,,AN Petersen,4,South Africa,Zimbabwe,5,South Africa,Sedgars Park,0,South Africa
+6,1.1,0,T Mupariwa,2006-09-20,1st,AN Petersen,4,,LE Bosman,1,South Africa,Zimbabwe,5,South Africa,Sedgars Park,0,South Africa
+7,1.2,4,T Mupariwa,2006-09-20,1st,AN Petersen,4,,LE Bosman,5,South Africa,Zimbabwe,9,South Africa,Sedgars Park,0,South Africa
+8,1.3,0,T Mupariwa,2006-09-20,1st,AN Petersen,4,,LE Bosman,5,South Africa,Zimbabwe,9,South Africa,Sedgars Park,0,South Africa
+9,1.4,0,T Mupariwa,2006-09-20,1st,AN Petersen,4,,LE Bosman,5,South Africa,Zimbabwe,9,South Africa,Sedgars Park,0,South Africa
+10,1.5,4,T Mupariwa,2006-09-20,1st,AN Petersen,4,,LE Bosman,9,South Africa,Zimbabwe,13,South Africa,Sedgars Park,0,South Africa
+11,1.6,0,T Mupariwa,2006-09-20,1st,AN Petersen,4,,LE Bosman,9,South Africa,Zimbabwe,13,South Africa,Sedgars Park,0,South Africa
+12,2.1,2,EC Rainsford,2006-09-20,1st,LE Bosman,9,,AN Petersen,6,South Africa,Zimbabwe,15,South Africa,Sedgars Park,0,South Africa
+13,2.2,0,EC Rainsford,2006-09-20,1st,LE Bosman,9,,AN Petersen,6,South Africa,Zimbabwe,15,South Africa,Sedgars Park,0,South Africa
+14,2.3,1,EC Rainsford,2006-09-20,1st,LE Bosman,9,,AN Petersen,7,South Africa,Zimbabwe,17,South Africa,Sedgars Park,0,South Africa
+15,2.4,1,EC Rainsford,2006-09-20,1st,AN Petersen,7,,LE Bosman,10,South Africa,Zimbabwe,18,South Africa,Sedgars Park,0,South Africa
+16,2.5,4,EC Rainsford,2006-09-20,1st,LE Bosman,10,,AN Petersen,11,South Africa,Zimbabwe,22,South Africa,Sedgars Park,0,South Africa
+17,2.6,0,EC Rainsford,2006-09-20,1st,LE Bosman,10,,AN Petersen,11,South Africa,Zimbabwe,22,South Africa,Sedgars Park,0,South Africa
+18,2.7,0,EC Rainsford,2006-09-20,1st,LE Bosman,10,,AN Petersen,11,South Africa,Zimbabwe,22,South Africa,Sedgars Park,0,South Africa
+19,3.1,0,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,10,South Africa,Zimbabwe,23,South Africa,Sedgars Park,0,South Africa
+20,3.2,0,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,10,South Africa,Zimbabwe,23,South Africa,Sedgars Park,0,South Africa
+21,3.3,0,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,10,South Africa,Zimbabwe,23,South Africa,Sedgars Park,0,South Africa
+22,3.4,4,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,14,South Africa,Zimbabwe,27,South Africa,Sedgars Park,0,South Africa
+23,3.5,1,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,15,South Africa,Zimbabwe,28,South Africa,Sedgars Park,0,South Africa
+24,3.6,0,T Mupariwa,2006-09-20,1st,LE Bosman,15,,AN Petersen,11,South Africa,Zimbabwe,28,South Africa,Sedgars Park,0,South Africa
+25,3.7,0,T Mupariwa,2006-09-20,1st,LE Bosman,15,,AN Petersen,11,South Africa,Zimbabwe,28,South Africa,Sedgars Park,0,South Africa
+26,4.1,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,15,South Africa,Zimbabwe,28,South Africa,Sedgars Park,0,South Africa
+27,4.2,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,15,South Africa,Zimbabwe,28,South Africa,Sedgars Park,0,South Africa
+28,4.3,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,15,South Africa,Zimbabwe,28,South Africa,Sedgars Park,0,South Africa
+29,4.4,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,15,South Africa,Zimbabwe,28,South Africa,Sedgars Park,0,South Africa
+30,4.5,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,15,South Africa,Zimbabwe,29,South Africa,Sedgars Park,0,South Africa
+31,4.6,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,15,South Africa,Zimbabwe,29,South Africa,Sedgars Park,0,South Africa
+32,4.7,1,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,16,South Africa,Zimbabwe,30,South Africa,Sedgars Park,0,South Africa
+33,5.1,0,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,16,South Africa,Zimbabwe,30,South Africa,Sedgars Park,0,South Africa
+34,5.2,4,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,20,South Africa,Zimbabwe,34,South Africa,Sedgars Park,0,South Africa
+35,5.3,0,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,20,South Africa,Zimbabwe,34,South Africa,Sedgars Park,0,South Africa
+36,5.4,4,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,24,South Africa,Zimbabwe,38,South Africa,Sedgars Park,0,South Africa
+37,5.5,0,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,24,South Africa,Zimbabwe,38,South Africa,Sedgars Park,0,South Africa
+38,5.6,1,T Mupariwa,2006-09-20,1st,AN Petersen,11,,LE Bosman,25,South Africa,Zimbabwe,39,South Africa,Sedgars Park,0,South Africa
+39,6.1,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,25,South Africa,Zimbabwe,39,South Africa,Sedgars Park,0,South Africa
+40,6.2,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,25,South Africa,Zimbabwe,39,South Africa,Sedgars Park,0,South Africa
+41,6.3,0,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,25,South Africa,Zimbabwe,39,South Africa,Sedgars Park,0,South Africa
+42,6.4,4,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,29,South Africa,Zimbabwe,43,South Africa,Sedgars Park,0,South Africa
+43,6.5,1,EC Rainsford,2006-09-20,1st,AN Petersen,11,,LE Bosman,30,South Africa,Zimbabwe,44,South Africa,Sedgars Park,0,South Africa
+44,6.6,0,EC Rainsford,2006-09-20,1st,LE Bosman,30,,AN Petersen,11,South Africa,Zimbabwe,44,South Africa,Sedgars Park,0,South Africa
+45,7.1,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,11,,LE Bosman,30,South Africa,Zimbabwe,44,South Africa,Sedgars Park,0,South Africa
+46,7.2,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,11,,LE Bosman,30,South Africa,Zimbabwe,44,South Africa,Sedgars Park,0,South Africa
+47,7.3,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,11,,LE Bosman,30,South Africa,Zimbabwe,44,South Africa,Sedgars Park,0,South Africa
+48,7.4,4,CJ Chibhabha,2006-09-20,1st,AN Petersen,11,,LE Bosman,34,South Africa,Zimbabwe,48,South Africa,Sedgars Park,0,South Africa
+49,7.5,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,11,,LE Bosman,34,South Africa,Zimbabwe,48,South Africa,Sedgars Park,0,South Africa
+50,7.6,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,11,,LE Bosman,34,South Africa,Zimbabwe,48,South Africa,Sedgars Park,0,South Africa
+51,8.1,0,T Mupariwa,2006-09-20,1st,LE Bosman,34,,AN Petersen,11,South Africa,Zimbabwe,48,South Africa,Sedgars Park,0,South Africa
+52,8.2,0,T Mupariwa,2006-09-20,1st,LE Bosman,34,,AN Petersen,11,South Africa,Zimbabwe,48,South Africa,Sedgars Park,0,South Africa
+53,8.3,3,T Mupariwa,2006-09-20,1st,LE Bosman,34,,AN Petersen,14,South Africa,Zimbabwe,51,South Africa,Sedgars Park,0,South Africa
+54,8.4,0,T Mupariwa,2006-09-20,1st,AN Petersen,14,,LE Bosman,34,South Africa,Zimbabwe,55,South Africa,Sedgars Park,0,South Africa
+55,8.5,0,T Mupariwa,2006-09-20,1st,LE Bosman,34,,AN Petersen,14,South Africa,Zimbabwe,55,South Africa,Sedgars Park,0,South Africa
+56,8.6,0,T Mupariwa,2006-09-20,1st,LE Bosman,34,,AN Petersen,14,South Africa,Zimbabwe,55,South Africa,Sedgars Park,0,South Africa
+57,8.7,4,T Mupariwa,2006-09-20,1st,LE Bosman,34,,AN Petersen,18,South Africa,Zimbabwe,59,South Africa,Sedgars Park,0,South Africa
+58,9.1,1,EC Rainsford,2006-09-20,1st,AN Petersen,18,,LE Bosman,35,South Africa,Zimbabwe,60,South Africa,Sedgars Park,0,South Africa
+59,9.2,1,EC Rainsford,2006-09-20,1st,LE Bosman,35,,AN Petersen,19,South Africa,Zimbabwe,61,South Africa,Sedgars Park,0,South Africa
+60,9.3,3,EC Rainsford,2006-09-20,1st,AN Petersen,19,,LE Bosman,38,South Africa,Zimbabwe,64,South Africa,Sedgars Park,0,South Africa
+61,9.4,1,EC Rainsford,2006-09-20,1st,LE Bosman,38,,AN Petersen,20,South Africa,Zimbabwe,65,South Africa,Sedgars Park,0,South Africa
+62,9.5,2,EC Rainsford,2006-09-20,1st,AN Petersen,20,,LE Bosman,40,South Africa,Zimbabwe,67,South Africa,Sedgars Park,0,South Africa
+63,9.6,0,EC Rainsford,2006-09-20,1st,AN Petersen,20,,LE Bosman,40,South Africa,Zimbabwe,67,South Africa,Sedgars Park,0,South Africa
+64,10.1,1,P Utseya,2006-09-20,1st,LE Bosman,40,,AN Petersen,21,South Africa,Zimbabwe,68,South Africa,Sedgars Park,0,South Africa
+65,10.2,3,P Utseya,2006-09-20,1st,AN Petersen,21,,LE Bosman,43,South Africa,Zimbabwe,71,South Africa,Sedgars Park,0,South Africa
+66,10.3,1,P Utseya,2006-09-20,1st,LE Bosman,43,,AN Petersen,22,South Africa,Zimbabwe,72,South Africa,Sedgars Park,0,South Africa
+67,10.4,1,P Utseya,2006-09-20,1st,AN Petersen,22,,LE Bosman,44,South Africa,Zimbabwe,73,South Africa,Sedgars Park,0,South Africa
+68,10.5,0,P Utseya,2006-09-20,1st,LE Bosman,44,,AN Petersen,22,South Africa,Zimbabwe,73,South Africa,Sedgars Park,0,South Africa
+69,10.6,1,P Utseya,2006-09-20,1st,LE Bosman,44,,AN Petersen,23,South Africa,Zimbabwe,74,South Africa,Sedgars Park,0,South Africa
+70,11.1,1,CJ Chibhabha,2006-09-20,1st,LE Bosman,44,,AN Petersen,24,South Africa,Zimbabwe,75,South Africa,Sedgars Park,0,South Africa
+71,11.2,1,CJ Chibhabha,2006-09-20,1st,AN Petersen,24,,LE Bosman,45,South Africa,Zimbabwe,76,South Africa,Sedgars Park,0,South Africa
+72,11.3,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,45,,AN Petersen,24,South Africa,Zimbabwe,76,South Africa,Sedgars Park,0,South Africa
+73,11.4,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,45,,AN Petersen,24,South Africa,Zimbabwe,76,South Africa,Sedgars Park,0,South Africa
+74,11.5,4,CJ Chibhabha,2006-09-20,1st,LE Bosman,45,,AN Petersen,28,South Africa,Zimbabwe,80,South Africa,Sedgars Park,0,South Africa
+75,11.6,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,45,,AN Petersen,28,South Africa,Zimbabwe,80,South Africa,Sedgars Park,0,South Africa
+76,12.1,1,P Utseya,2006-09-20,1st,AN Petersen,28,,LE Bosman,46,South Africa,Zimbabwe,81,South Africa,Sedgars Park,0,South Africa
+77,12.2,1,P Utseya,2006-09-20,1st,LE Bosman,46,,AN Petersen,29,South Africa,Zimbabwe,82,South Africa,Sedgars Park,0,South Africa
+78,12.3,1,P Utseya,2006-09-20,1st,AN Petersen,29,,LE Bosman,47,South Africa,Zimbabwe,83,South Africa,Sedgars Park,0,South Africa
+79,12.4,3,P Utseya,2006-09-20,1st,LE Bosman,47,,AN Petersen,32,South Africa,Zimbabwe,86,South Africa,Sedgars Park,0,South Africa
+80,12.5,1,P Utseya,2006-09-20,1st,AN Petersen,32,,LE Bosman,48,South Africa,Zimbabwe,87,South Africa,Sedgars Park,0,South Africa
+81,12.6,1,P Utseya,2006-09-20,1st,LE Bosman,48,,AN Petersen,33,South Africa,Zimbabwe,88,South Africa,Sedgars Park,0,South Africa
+82,13.1,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,48,,AN Petersen,33,South Africa,Zimbabwe,88,South Africa,Sedgars Park,0,South Africa
+83,13.2,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,48,,AN Petersen,33,South Africa,Zimbabwe,88,South Africa,Sedgars Park,0,South Africa
+84,13.3,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,48,,AN Petersen,33,South Africa,Zimbabwe,88,South Africa,Sedgars Park,0,South Africa
+85,13.4,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,48,,AN Petersen,33,South Africa,Zimbabwe,88,South Africa,Sedgars Park,0,South Africa
+86,13.5,1,CJ Chibhabha,2006-09-20,1st,LE Bosman,48,,AN Petersen,34,South Africa,Zimbabwe,89,South Africa,Sedgars Park,0,South Africa
+87,13.6,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,34,,LE Bosman,48,South Africa,Zimbabwe,89,South Africa,Sedgars Park,0,South Africa
+88,14.1,0,E Chigumbura,2006-09-20,1st,LE Bosman,48,,AN Petersen,34,South Africa,Zimbabwe,89,South Africa,Sedgars Park,0,South Africa
+89,14.2,0,E Chigumbura,2006-09-20,1st,LE Bosman,48,,AN Petersen,34,South Africa,Zimbabwe,89,South Africa,Sedgars Park,0,South Africa
+90,14.3,1,E Chigumbura,2006-09-20,1st,LE Bosman,48,,AN Petersen,35,South Africa,Zimbabwe,90,South Africa,Sedgars Park,0,South Africa
+91,14.4,0,E Chigumbura,2006-09-20,1st,AN Petersen,35,,LE Bosman,48,South Africa,Zimbabwe,90,South Africa,Sedgars Park,0,South Africa
+92,14.5,6,E Chigumbura,2006-09-20,1st,AN Petersen,35,,LE Bosman,54,South Africa,Zimbabwe,97,South Africa,Sedgars Park,0,South Africa
+93,14.6,4,E Chigumbura,2006-09-20,1st,AN Petersen,35,,LE Bosman,58,South Africa,Zimbabwe,101,South Africa,Sedgars Park,0,South Africa
+94,14.7,0,E Chigumbura,2006-09-20,1st,AN Petersen,35,,LE Bosman,58,South Africa,Zimbabwe,101,South Africa,Sedgars Park,0,South Africa
+95,15.1,4,CJ Chibhabha,2006-09-20,1st,LE Bosman,58,,AN Petersen,39,South Africa,Zimbabwe,105,South Africa,Sedgars Park,0,South Africa
+96,15.2,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,58,,AN Petersen,39,South Africa,Zimbabwe,105,South Africa,Sedgars Park,0,South Africa
+97,15.3,4,CJ Chibhabha,2006-09-20,1st,LE Bosman,58,,AN Petersen,43,South Africa,Zimbabwe,109,South Africa,Sedgars Park,0,South Africa
+98,15.4,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,58,,AN Petersen,43,South Africa,Zimbabwe,109,South Africa,Sedgars Park,0,South Africa
+99,15.5,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,58,,AN Petersen,43,South Africa,Zimbabwe,109,South Africa,Sedgars Park,0,South Africa
+100,15.6,0,CJ Chibhabha,2006-09-20,1st,LE Bosman,58,,AN Petersen,43,South Africa,Zimbabwe,109,South Africa,Sedgars Park,0,South Africa
+101,16.1,0,E Chigumbura,2006-09-20,1st,AN Petersen,43,,LE Bosman,58,South Africa,Zimbabwe,109,South Africa,Sedgars Park,0,South Africa
+102,16.2,4,E Chigumbura,2006-09-20,1st,AN Petersen,43,,LE Bosman,62,South Africa,Zimbabwe,113,South Africa,Sedgars Park,0,South Africa
+103,16.3,6,E Chigumbura,2006-09-20,1st,AN Petersen,43,,LE Bosman,68,South Africa,Zimbabwe,119,South Africa,Sedgars Park,0,South Africa
+104,16.4,0,E Chigumbura,2006-09-20,1st,AN Petersen,43,,LE Bosman,68,South Africa,Zimbabwe,122,South Africa,Sedgars Park,0,South Africa
+105,16.5,0,E Chigumbura,2006-09-20,1st,AN Petersen,43,,LE Bosman,68,South Africa,Zimbabwe,122,South Africa,Sedgars Park,0,South Africa
+106,16.6,1,E Chigumbura,2006-09-20,1st,AN Petersen,43,,LE Bosman,69,South Africa,Zimbabwe,123,South Africa,Sedgars Park,0,South Africa
+107,16.7,2,E Chigumbura,2006-09-20,1st,LE Bosman,69,,AN Petersen,45,South Africa,Zimbabwe,125,South Africa,Sedgars Park,0,South Africa
+108,17.1,4,CJ Chibhabha,2006-09-20,1st,AN Petersen,45,,LE Bosman,73,South Africa,Zimbabwe,129,South Africa,Sedgars Park,0,South Africa
+109,17.2,6,CJ Chibhabha,2006-09-20,1st,AN Petersen,45,,LE Bosman,79,South Africa,Zimbabwe,135,South Africa,Sedgars Park,0,South Africa
+110,17.3,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,45,,LE Bosman,79,South Africa,Zimbabwe,135,South Africa,Sedgars Park,0,South Africa
+111,17.4,0,CJ Chibhabha,2006-09-20,1st,AN Petersen,45,,LE Bosman,79,South Africa,Zimbabwe,135,South Africa,Sedgars Park,0,South Africa
+112,17.5,4,CJ Chibhabha,2006-09-20,1st,AN Petersen,45,,LE Bosman,83,South Africa,Zimbabwe,139,South Africa,Sedgars Park,0,South Africa
+113,17.6,2,CJ Chibhabha,2006-09-20,1st,AN Petersen,45,,LE Bosman,85,South Africa,Zimbabwe,141,South Africa,Sedgars Park,0,South Africa
+114,18.1,0,T Kamungozi,2006-09-20,1st,LE Bosman,85,,AN Petersen,45,South Africa,Zimbabwe,141,South Africa,Sedgars Park,0,South Africa
+115,18.2,0,T Kamungozi,2006-09-20,1st,LE Bosman,85,,AN Petersen,45,South Africa,Zimbabwe,141,South Africa,Sedgars Park,0,South Africa
+116,18.3,6,T Kamungozi,2006-09-20,1st,LE Bosman,85,,AN Petersen,51,South Africa,Zimbabwe,147,South Africa,Sedgars Park,0,South Africa
+117,18.4,1,T Kamungozi,2006-09-20,1st,LE Bosman,85,,AN Petersen,52,South Africa,Zimbabwe,148,South Africa,Sedgars Park,0,South Africa
+118,18.5,0,T Kamungozi,2006-09-20,1st,AN Petersen,52,,LE Bosman,85,South Africa,Zimbabwe,148,South Africa,Sedgars Park,0,South Africa
+119,18.6,0,T Kamungozi,2006-09-20,1st,AN Petersen,52,,LE Bosman,85,South Africa,Zimbabwe,148,South Africa,Sedgars Park,0,South Africa
+120,19.1,1,H Masakadza,2006-09-20,1st,LE Bosman,85,,AN Petersen,53,South Africa,Zimbabwe,149,South Africa,Sedgars Park,0,South Africa
+121,19.2,1,H Masakadza,2006-09-20,1st,AN Petersen,53,,LE Bosman,86,South Africa,Zimbabwe,150,South Africa,Sedgars Park,0,South Africa
+122,19.3,4,H Masakadza,2006-09-20,1st,LE Bosman,86,,AN Petersen,57,South Africa,Zimbabwe,154,South Africa,Sedgars Park,0,South Africa
+123,19.4,4,H Masakadza,2006-09-20,1st,LE Bosman,86,,AN Petersen,61,South Africa,Zimbabwe,158,South Africa,Sedgars Park,0,South Africa
+124,19.5,0,H Masakadza,2006-09-20,1st,LE Bosman,86,,AN Petersen,61,South Africa,Zimbabwe,158,South Africa,Sedgars Park,0,South Africa
+125,19.6,0,H Masakadza,2006-09-20,1st,LE Bosman,86,,AN Petersen,61,South Africa,Zimbabwe,158,South Africa,Sedgars Park,0,South Africa
+126,20.1,2,T Kamungozi,2006-09-20,1st,AN Petersen,61,,LE Bosman,88,South Africa,Zimbabwe,160,South Africa,Sedgars Park,0,South Africa
+127,20.2,0,T Kamungozi,2006-09-20,1st,AN Petersen,61,,LE Bosman,88,South Africa,Zimbabwe,160,South Africa,Sedgars Park,0,South Africa
+128,20.3,0,T Kamungozi,2006-09-20,1st,AN Petersen,61,LE Bosman,LE Bosman,88,South Africa,Zimbabwe,160,South Africa,Sedgars Park,1,South Africa
+129,20.4,0,T Kamungozi,2006-09-20,1st,AN Petersen,61,,JH Kallis,0,South Africa,Zimbabwe,160,South Africa,Sedgars Park,1,South Africa
+130,20.5,0,T Kamungozi,2006-09-20,1st,AN Petersen,61,,JH Kallis,0,South Africa,Zimbabwe,160,South Africa,Sedgars Park,1,South Africa
+131,20.6,0,T Kamungozi,2006-09-20,1st,AN Petersen,61,,JH Kallis,0,South Africa,Zimbabwe,160,South Africa,Sedgars Park,1,South Africa
+132,21.1,0,H Masakadza,2006-09-20,1st,JH Kallis,0,,AN Petersen,61,South Africa,Zimbabwe,160,South Africa,Sedgars Park,1,South Africa
+133,21.2,1,H Masakadza,2006-09-20,1st,JH Kallis,0,,AN Petersen,62,South Africa,Zimbabwe,161,South Africa,Sedgars Park,1,South Africa
+134,21.3,4,H Masakadza,2006-09-20,1st,AN Petersen,62,,JH Kallis,4,South Africa,Zimbabwe,165,South Africa,Sedgars Park,1,South Africa
+135,21.4,0,H Masakadza,2006-09-20,1st,AN Petersen,62,,JH Kallis,4,South Africa,Zimbabwe,165,South Africa,Sedgars Park,1,South Africa
+136,21.5,0,H Masakadza,2006-09-20,1st,AN Petersen,62,,JH Kallis,4,South Africa,Zimbabwe,165,South Africa,Sedgars Park,1,South Africa
+137,21.6,4,H Masakadza,2006-09-20,1st,AN Petersen,62,,JH Kallis,8,South Africa,Zimbabwe,169,South Africa,Sedgars Park,1,South Africa
+138,22.1,0,T Kamungozi,2006-09-20,1st,JH Kallis,8,,AN Petersen,62,South Africa,Zimbabwe,169,South Africa,Sedgars Park,1,South Africa
+139,22.2,4,T Kamungozi,2006-09-20,1st,JH Kallis,8,,AN Petersen,66,South Africa,Zimbabwe,173,South Africa,Sedgars Park,1,South Africa
+140,22.3,0,T Kamungozi,2006-09-20,1st,JH Kallis,8,,AN Petersen,66,South Africa,Zimbabwe,173,South Africa,Sedgars Park,1,South Africa
+141,22.4,0,T Kamungozi,2006-09-20,1st,JH Kallis,8,,AN Petersen,66,South Africa,Zimbabwe,173,South Africa,Sedgars Park,1,South Africa
+142,22.5,4,T Kamungozi,2006-09-20,1st,JH Kallis,8,,AN Petersen,70,South Africa,Zimbabwe,177,South Africa,Sedgars Park,1,South Africa
+143,22.6,1,T Kamungozi,2006-09-20,1st,JH Kallis,8,,AN Petersen,71,South Africa,Zimbabwe,178,South Africa,Sedgars Park,1,South Africa
+144,23.1,1,EC Rainsford,2006-09-20,1st,JH Kallis,8,,AN Petersen,72,South Africa,Zimbabwe,179,South Africa,Sedgars Park,1,South Africa
+145,23.2,0,EC Rainsford,2006-09-20,1st,AN Petersen,72,,JH Kallis,8,South Africa,Zimbabwe,179,South Africa,Sedgars Park,1,South Africa
+146,23.3,0,EC Rainsford,2006-09-20,1st,AN Petersen,72,,JH Kallis,8,South Africa,Zimbabwe,179,South Africa,Sedgars Park,1,South Africa
+147,23.4,0,EC Rainsford,2006-09-20,1st,AN Petersen,72,,JH Kallis,8,South Africa,Zimbabwe,179,South Africa,Sedgars Park,1,South Africa
+148,23.5,0,EC Rainsford,2006-09-20,1st,AN Petersen,72,,JH Kallis,8,South Africa,Zimbabwe,179,South Africa,Sedgars Park,1,South Africa
+149,23.6,0,EC Rainsford,2006-09-20,1st,AN Petersen,72,,JH Kallis,8,South Africa,Zimbabwe,179,South Africa,Sedgars Park,1,South Africa
+150,24.1,1,T Kamungozi,2006-09-20,1st,JH Kallis,8,,AN Petersen,73,South Africa,Zimbabwe,180,South Africa,Sedgars Park,1,South Africa
+151,24.2,0,T Kamungozi,2006-09-20,1st,AN Petersen,73,,JH Kallis,8,South Africa,Zimbabwe,180,South Africa,Sedgars Park,1,South Africa
+152,24.3,1,T Kamungozi,2006-09-20,1st,AN Petersen,73,,JH Kallis,9,South Africa,Zimbabwe,181,South Africa,Sedgars Park,1,South Africa
+153,24.4,3,T Kamungozi,2006-09-20,1st,JH Kallis,9,,AN Petersen,76,South Africa,Zimbabwe,184,South Africa,Sedgars Park,1,South Africa
+154,24.5,4,T Kamungozi,2006-09-20,1st,AN Petersen,76,,JH Kallis,13,South Africa,Zimbabwe,188,South Africa,Sedgars Park,1,South Africa
+155,24.6,0,T Kamungozi,2006-09-20,1st,AN Petersen,76,,JH Kallis,13,South Africa,Zimbabwe,188,South Africa,Sedgars Park,1,South Africa
+156,25.1,1,EC Rainsford,2006-09-20,1st,JH Kallis,13,,AN Petersen,77,South Africa,Zimbabwe,189,South Africa,Sedgars Park,1,South Africa
+157,25.2,0,EC Rainsford,2006-09-20,1st,AN Petersen,77,,JH Kallis,13,South Africa,Zimbabwe,189,South Africa,Sedgars Park,1,South Africa
+158,25.3,0,EC Rainsford,2006-09-20,1st,AN Petersen,77,,JH Kallis,13,South Africa,Zimbabwe,190,South Africa,Sedgars Park,1,South Africa
+159,25.4,2,EC Rainsford,2006-09-20,1st,AN Petersen,77,,JH Kallis,15,South Africa,Zimbabwe,192,South Africa,Sedgars Park,1,South Africa
+160,25.5,1,EC Rainsford,2006-09-20,1st,AN Petersen,77,,JH Kallis,16,South Africa,Zimbabwe,193,South Africa,Sedgars Park,1,South Africa
+161,25.6,1,EC Rainsford,2006-09-20,1st,JH Kallis,16,,AN Petersen,78,South Africa,Zimbabwe,194,South Africa,Sedgars Park,1,South Africa
+162,25.7,0,EC Rainsford,2006-09-20,1st,AN Petersen,78,,JH Kallis,16,South Africa,Zimbabwe,194,South Africa,Sedgars Park,1,South Africa
+163,26.1,0,T Kamungozi,2006-09-20,1st,JH Kallis,16,,AN Petersen,78,South Africa,Zimbabwe,194,South Africa,Sedgars Park,1,South Africa
+164,26.2,1,T Kamungozi,2006-09-20,1st,JH Kallis,16,,AN Petersen,79,South Africa,Zimbabwe,195,South Africa,Sedgars Park,1,South Africa
+165,26.3,0,T Kamungozi,2006-09-20,1st,AN Petersen,79,,JH Kallis,16,South Africa,Zimbabwe,195,South Africa,Sedgars Park,1,South Africa
+166,26.4,0,T Kamungozi,2006-09-20,1st,AN Petersen,79,,JH Kallis,16,South Africa,Zimbabwe,195,South Africa,Sedgars Park,1,South Africa
+167,26.5,0,T Kamungozi,2006-09-20,1st,AN Petersen,79,,JH Kallis,16,South Africa,Zimbabwe,195,South Africa,Sedgars Park,1,South Africa
+168,26.6,2,T Kamungozi,2006-09-20,1st,AN Petersen,79,,JH Kallis,18,South Africa,Zimbabwe,197,South Africa,Sedgars Park,1,South Africa
+169,27.1,0,P Utseya,2006-09-20,1st,JH Kallis,18,,AN Petersen,79,South Africa,Zimbabwe,197,South Africa,Sedgars Park,1,South Africa
+170,27.2,1,P Utseya,2006-09-20,1st,JH Kallis,18,,AN Petersen,80,South Africa,Zimbabwe,198,South Africa,Sedgars Park,1,South Africa
+171,27.3,0,P Utseya,2006-09-20,1st,AN Petersen,80,,JH Kallis,18,South Africa,Zimbabwe,198,South Africa,Sedgars Park,1,South Africa
+172,27.4,1,P Utseya,2006-09-20,1st,AN Petersen,80,,JH Kallis,19,South Africa,Zimbabwe,199,South Africa,Sedgars Park,1,South Africa
+173,27.5,0,P Utseya,2006-09-20,1st,JH Kallis,19,AN Petersen,AN Petersen,80,South Africa,Zimbabwe,199,South Africa,Sedgars Park,2,South Africa
+174,27.6,1,P Utseya,2006-09-20,1st,JH Kallis,19,,MV Boucher,1,South Africa,Zimbabwe,200,South Africa,Sedgars Park,2,South Africa
+175,28.1,1,T Kamungozi,2006-09-20,1st,JH Kallis,19,,MV Boucher,2,South Africa,Zimbabwe,201,South Africa,Sedgars Park,2,South Africa
+176,28.2,1,T Kamungozi,2006-09-20,1st,MV Boucher,2,,JH Kallis,20,South Africa,Zimbabwe,202,South Africa,Sedgars Park,2,South Africa
+177,28.3,1,T Kamungozi,2006-09-20,1st,JH Kallis,20,,MV Boucher,3,South Africa,Zimbabwe,203,South Africa,Sedgars Park,2,South Africa
+178,28.4,1,T Kamungozi,2006-09-20,1st,MV Boucher,3,,JH Kallis,21,South Africa,Zimbabwe,204,South Africa,Sedgars Park,2,South Africa
+179,28.5,1,T Kamungozi,2006-09-20,1st,JH Kallis,21,,MV Boucher,4,South Africa,Zimbabwe,205,South Africa,Sedgars Park,2,South Africa
+180,28.6,2,T Kamungozi,2006-09-20,1st,MV Boucher,4,,JH Kallis,23,South Africa,Zimbabwe,207,South Africa,Sedgars Park,2,South Africa
+181,29.1,1,P Utseya,2006-09-20,1st,JH Kallis,23,,MV Boucher,5,South Africa,Zimbabwe,208,South Africa,Sedgars Park,2,South Africa
+182,29.2,2,P Utseya,2006-09-20,1st,MV Boucher,5,,JH Kallis,25,South Africa,Zimbabwe,210,South Africa,Sedgars Park,2,South Africa
+183,29.3,1,P Utseya,2006-09-20,1st,MV Boucher,5,,JH Kallis,26,South Africa,Zimbabwe,211,South Africa,Sedgars Park,2,South Africa
+184,29.4,1,P Utseya,2006-09-20,1st,JH Kallis,26,,MV Boucher,6,South Africa,Zimbabwe,212,South Africa,Sedgars Park,2,South Africa
+185,29.5,0,P Utseya,2006-09-20,1st,MV Boucher,6,,JH Kallis,26,South Africa,Zimbabwe,212,South Africa,Sedgars Park,2,South Africa
+186,29.6,1,P Utseya,2006-09-20,1st,MV Boucher,6,,JH Kallis,27,South Africa,Zimbabwe,213,South Africa,Sedgars Park,2,South Africa
+187,30.1,4,T Kamungozi,2006-09-20,1st,MV Boucher,6,,JH Kallis,31,South Africa,Zimbabwe,217,South Africa,Sedgars Park,2,South Africa
+188,30.2,0,T Kamungozi,2006-09-20,1st,MV Boucher,6,,JH Kallis,31,South Africa,Zimbabwe,217,South Africa,Sedgars Park,2,South Africa
+189,30.3,0,T Kamungozi,2006-09-20,1st,MV Boucher,6,,JH Kallis,31,South Africa,Zimbabwe,217,South Africa,Sedgars Park,2,South Africa
+190,30.4,1,T Kamungozi,2006-09-20,1st,MV Boucher,6,,JH Kallis,32,South Africa,Zimbabwe,218,South Africa,Sedgars Park,2,South Africa
+191,30.5,1,T Kamungozi,2006-09-20,1st,JH Kallis,32,,MV Boucher,7,South Africa,Zimbabwe,219,South Africa,Sedgars Park,2,South Africa
+192,30.6,1,T Kamungozi,2006-09-20,1st,MV Boucher,7,,JH Kallis,33,South Africa,Zimbabwe,220,South Africa,Sedgars Park,2,South Africa
+193,31.1,2,P Utseya,2006-09-20,1st,MV Boucher,7,,JH Kallis,35,South Africa,Zimbabwe,222,South Africa,Sedgars Park,2,South Africa
+194,31.2,0,P Utseya,2006-09-20,1st,MV Boucher,7,,JH Kallis,35,South Africa,Zimbabwe,222,South Africa,Sedgars Park,2,South Africa
+195,31.3,1,P Utseya,2006-09-20,1st,MV Boucher,7,,JH Kallis,36,South Africa,Zimbabwe,223,South Africa,Sedgars Park,2,South Africa
+196,31.4,4,P Utseya,2006-09-20,1st,JH Kallis,36,,MV Boucher,11,South Africa,Zimbabwe,227,South Africa,Sedgars Park,2,South Africa
+197,31.5,1,P Utseya,2006-09-20,1st,JH Kallis,36,,MV Boucher,12,South Africa,Zimbabwe,228,South Africa,Sedgars Park,2,South Africa
+198,31.6,1,P Utseya,2006-09-20,1st,MV Boucher,12,,JH Kallis,37,South Africa,Zimbabwe,229,South Africa,Sedgars Park,2,South Africa
+199,32.1,0,T Kamungozi,2006-09-20,1st,MV Boucher,12,,JH Kallis,37,South Africa,Zimbabwe,229,South Africa,Sedgars Park,2,South Africa
+200,32.2,1,T Kamungozi,2006-09-20,1st,MV Boucher,12,,JH Kallis,38,South Africa,Zimbabwe,230,South Africa,Sedgars Park,2,South Africa
+201,32.3,2,T Kamungozi,2006-09-20,1st,JH Kallis,38,,MV Boucher,14,South Africa,Zimbabwe,232,South Africa,Sedgars Park,2,South Africa
+202,32.4,1,T Kamungozi,2006-09-20,1st,JH Kallis,38,,MV Boucher,15,South Africa,Zimbabwe,233,South Africa,Sedgars Park,2,South Africa
+203,32.5,1,T Kamungozi,2006-09-20,1st,MV Boucher,15,,JH Kallis,39,South Africa,Zimbabwe,234,South Africa,Sedgars Park,2,South Africa
+204,32.6,4,T Kamungozi,2006-09-20,1st,JH Kallis,39,,MV Boucher,19,South Africa,Zimbabwe,238,South Africa,Sedgars Park,2,South Africa
+205,33.1,1,P Utseya,2006-09-20,1st,MV Boucher,19,,JH Kallis,40,South Africa,Zimbabwe,239,South Africa,Sedgars Park,2,South Africa
+206,33.2,1,P Utseya,2006-09-20,1st,JH Kallis,40,,MV Boucher,20,South Africa,Zimbabwe,240,South Africa,Sedgars Park,2,South Africa
+207,33.3,0,P Utseya,2006-09-20,1st,MV Boucher,20,,JH Kallis,40,South Africa,Zimbabwe,240,South Africa,Sedgars Park,2,South Africa
+208,33.4,1,P Utseya,2006-09-20,1st,MV Boucher,20,,JH Kallis,41,South Africa,Zimbabwe,241,South Africa,Sedgars Park,2,South Africa
+209,33.5,1,P Utseya,2006-09-20,1st,JH Kallis,41,,MV Boucher,21,South Africa,Zimbabwe,242,South Africa,Sedgars Park,2,South Africa
+210,33.6,4,P Utseya,2006-09-20,1st,MV Boucher,21,,JH Kallis,45,South Africa,Zimbabwe,246,South Africa,Sedgars Park,2,South Africa
+211,34.1,3,T Mupariwa,2006-09-20,1st,JH Kallis,45,,MV Boucher,24,South Africa,Zimbabwe,249,South Africa,Sedgars Park,2,South Africa
+212,34.2,0,T Mupariwa,2006-09-20,1st,MV Boucher,24,,JH Kallis,45,South Africa,Zimbabwe,249,South Africa,Sedgars Park,2,South Africa
+213,34.3,0,T Mupariwa,2006-09-20,1st,MV Boucher,24,,JH Kallis,45,South Africa,Zimbabwe,249,South Africa,Sedgars Park,2,South Africa
+214,34.4,1,T Mupariwa,2006-09-20,1st,MV Boucher,24,,JH Kallis,46,South Africa,Zimbabwe,250,South Africa,Sedgars Park,2,South Africa
+215,34.5,1,T Mupariwa,2006-09-20,1st,JH Kallis,46,,MV Boucher,25,South Africa,Zimbabwe,251,South Africa,Sedgars Park,2,South Africa
+216,34.6,0,T Mupariwa,2006-09-20,1st,MV Boucher,25,,JH Kallis,46,South Africa,Zimbabwe,251,South Africa,Sedgars Park,2,South Africa
+217,35.1,0,P Utseya,2006-09-20,1st,JH Kallis,46,,MV Boucher,25,South Africa,Zimbabwe,251,South Africa,Sedgars Park,2,South Africa
+218,35.2,1,P Utseya,2006-09-20,1st,JH Kallis,46,,MV Boucher,26,South Africa,Zimbabwe,252,South Africa,Sedgars Park,2,South Africa
+219,35.3,1,P Utseya,2006-09-20,1st,MV Boucher,26,,JH Kallis,47,South Africa,Zimbabwe,253,South Africa,Sedgars Park,2,South Africa
+220,35.4,1,P Utseya,2006-09-20,1st,JH Kallis,47,,MV Boucher,27,South Africa,Zimbabwe,254,South Africa,Sedgars Park,2,South Africa
+221,35.5,1,P Utseya,2006-09-20,1st,MV Boucher,27,,JH Kallis,48,South Africa,Zimbabwe,255,South Africa,Sedgars Park,2,South Africa
+222,35.6,6,P Utseya,2006-09-20,1st,JH Kallis,48,,MV Boucher,33,South Africa,Zimbabwe,261,South Africa,Sedgars Park,2,South Africa
+223,36.1,1,T Mupariwa,2006-09-20,1st,MV Boucher,33,,JH Kallis,49,South Africa,Zimbabwe,262,South Africa,Sedgars Park,2,South Africa
+224,36.2,6,T Mupariwa,2006-09-20,1st,JH Kallis,49,,MV Boucher,39,South Africa,Zimbabwe,268,South Africa,Sedgars Park,2,South Africa
+225,36.3,2,T Mupariwa,2006-09-20,1st,JH Kallis,49,,MV Boucher,41,South Africa,Zimbabwe,270,South Africa,Sedgars Park,2,South Africa
+226,36.4,0,T Mupariwa,2006-09-20,1st,JH Kallis,49,,MV Boucher,41,South Africa,Zimbabwe,270,South Africa,Sedgars Park,2,South Africa
+227,36.5,4,T Mupariwa,2006-09-20,1st,JH Kallis,49,,MV Boucher,45,South Africa,Zimbabwe,274,South Africa,Sedgars Park,2,South Africa
+228,36.6,0,T Mupariwa,2006-09-20,1st,JH Kallis,49,,MV Boucher,45,South Africa,Zimbabwe,274,South Africa,Sedgars Park,2,South Africa
+229,37.1,1,P Utseya,2006-09-20,1st,MV Boucher,45,,JH Kallis,50,South Africa,Zimbabwe,275,South Africa,Sedgars Park,2,South Africa
+230,37.2,6,P Utseya,2006-09-20,1st,JH Kallis,50,,MV Boucher,51,South Africa,Zimbabwe,281,South Africa,Sedgars Park,2,South Africa
+231,37.3,2,P Utseya,2006-09-20,1st,JH Kallis,50,,MV Boucher,53,South Africa,Zimbabwe,283,South Africa,Sedgars Park,2,South Africa
+232,37.4,6,P Utseya,2006-09-20,1st,JH Kallis,50,,MV Boucher,59,South Africa,Zimbabwe,289,South Africa,Sedgars Park,2,South Africa
+233,37.5,1,P Utseya,2006-09-20,1st,JH Kallis,50,,MV Boucher,60,South Africa,Zimbabwe,290,South Africa,Sedgars Park,2,South Africa
+234,37.6,0,P Utseya,2006-09-20,1st,MV Boucher,60,JH Kallis,JH Kallis,50,South Africa,Zimbabwe,290,South Africa,Sedgars Park,3,South Africa
+235,38.1,0,T Kamungozi,2006-09-20,1st,JM Kemp,0,,MV Boucher,60,South Africa,Zimbabwe,290,South Africa,Sedgars Park,3,South Africa
+236,38.2,6,T Kamungozi,2006-09-20,1st,JM Kemp,0,,MV Boucher,66,South Africa,Zimbabwe,296,South Africa,Sedgars Park,3,South Africa
+237,38.3,1,T Kamungozi,2006-09-20,1st,JM Kemp,0,,MV Boucher,67,South Africa,Zimbabwe,297,South Africa,Sedgars Park,3,South Africa
+238,38.4,0,T Kamungozi,2006-09-20,1st,MV Boucher,67,,JM Kemp,0,South Africa,Zimbabwe,297,South Africa,Sedgars Park,3,South Africa
+239,38.5,1,T Kamungozi,2006-09-20,1st,MV Boucher,67,,JM Kemp,1,South Africa,Zimbabwe,298,South Africa,Sedgars Park,3,South Africa
+240,38.6,1,T Kamungozi,2006-09-20,1st,JM Kemp,1,,MV Boucher,68,South Africa,Zimbabwe,299,South Africa,Sedgars Park,3,South Africa
+241,39.1,2,P Utseya,2006-09-20,1st,JM Kemp,1,,MV Boucher,70,South Africa,Zimbabwe,301,South Africa,Sedgars Park,3,South Africa
+242,39.2,0,P Utseya,2006-09-20,1st,JM Kemp,1,,MV Boucher,70,South Africa,Zimbabwe,301,South Africa,Sedgars Park,3,South Africa
+243,39.3,1,P Utseya,2006-09-20,1st,JM Kemp,1,,MV Boucher,71,South Africa,Zimbabwe,302,South Africa,Sedgars Park,3,South Africa
+244,39.4,0,P Utseya,2006-09-20,1st,MV Boucher,71,,JM Kemp,1,South Africa,Zimbabwe,302,South Africa,Sedgars Park,3,South Africa
+245,39.5,1,P Utseya,2006-09-20,1st,MV Boucher,71,,JM Kemp,2,South Africa,Zimbabwe,303,South Africa,Sedgars Park,3,South Africa
+246,39.6,6,P Utseya,2006-09-20,1st,JM Kemp,2,,MV Boucher,77,South Africa,Zimbabwe,309,South Africa,Sedgars Park,3,South Africa
+247,40.1,0,T Kamungozi,2006-09-20,1st,MV Boucher,77,,JM Kemp,2,South Africa,Zimbabwe,309,South Africa,Sedgars Park,3,South Africa
+248,40.2,6,T Kamungozi,2006-09-20,1st,MV Boucher,77,,JM Kemp,8,South Africa,Zimbabwe,315,South Africa,Sedgars Park,3,South Africa
+249,40.3,0,T Kamungozi,2006-09-20,1st,MV Boucher,77,,JM Kemp,8,South Africa,Zimbabwe,315,South Africa,Sedgars Park,3,South Africa
+250,40.4,2,T Kamungozi,2006-09-20,1st,MV Boucher,77,,JM Kemp,10,South Africa,Zimbabwe,317,South Africa,Sedgars Park,3,South Africa
+251,40.5,0,T Kamungozi,2006-09-20,1st,MV Boucher,77,JM Kemp,JM Kemp,10,South Africa,Zimbabwe,317,South Africa,Sedgars Park,4,South Africa
+252,40.6,0,T Kamungozi,2006-09-20,1st,MV Boucher,77,,JJ van der Wath,0,South Africa,Zimbabwe,317,South Africa,Sedgars Park,4,South Africa
+253,41.1,1,EC Rainsford,2006-09-20,1st,JJ van der Wath,0,,MV Boucher,78,South Africa,Zimbabwe,318,South Africa,Sedgars Park,4,South Africa
+254,41.2,1,EC Rainsford,2006-09-20,1st,MV Boucher,78,,JJ van der Wath,1,South Africa,Zimbabwe,319,South Africa,Sedgars Park,4,South Africa
+255,41.3,1,EC Rainsford,2006-09-20,1st,JJ van der Wath,1,,MV Boucher,79,South Africa,Zimbabwe,320,South Africa,Sedgars Park,4,South Africa
+256,41.4,0,EC Rainsford,2006-09-20,1st,MV Boucher,79,,JJ van der Wath,1,South Africa,Zimbabwe,320,South Africa,Sedgars Park,4,South Africa
+257,41.5,2,EC Rainsford,2006-09-20,1st,MV Boucher,79,,JJ van der Wath,3,South Africa,Zimbabwe,322,South Africa,Sedgars Park,4,South Africa
+258,41.6,0,EC Rainsford,2006-09-20,1st,MV Boucher,79,,JJ van der Wath,3,South Africa,Zimbabwe,323,South Africa,Sedgars Park,4,South Africa
+259,41.7,2,EC Rainsford,2006-09-20,1st,MV Boucher,79,,JJ van der Wath,5,South Africa,Zimbabwe,325,South Africa,Sedgars Park,4,South Africa
+260,42.1,6,CJ Chibhabha,2006-09-20,1st,JJ van der Wath,5,,MV Boucher,85,South Africa,Zimbabwe,331,South Africa,Sedgars Park,4,South Africa
+261,42.2,4,CJ Chibhabha,2006-09-20,1st,JJ van der Wath,5,,MV Boucher,89,South Africa,Zimbabwe,335,South Africa,Sedgars Park,4,South Africa
+262,42.3,4,CJ Chibhabha,2006-09-20,1st,JJ van der Wath,5,,MV Boucher,93,South Africa,Zimbabwe,339,South Africa,Sedgars Park,4,South Africa
+263,42.4,2,CJ Chibhabha,2006-09-20,1st,JJ van der Wath,5,,MV Boucher,95,South Africa,Zimbabwe,341,South Africa,Sedgars Park,4,South Africa
+264,42.5,6,CJ Chibhabha,2006-09-20,1st,JJ van der Wath,5,,MV Boucher,101,South Africa,Zimbabwe,347,South Africa,Sedgars Park,4,South Africa
+265,42.6,4,CJ Chibhabha,2006-09-20,1st,JJ van der Wath,5,,MV Boucher,105,South Africa,Zimbabwe,351,South Africa,Sedgars Park,4,South Africa
+266,43.1,0,EC Rainsford,2006-09-20,1st,MV Boucher,105,JJ van der Wath,JJ van der Wath,5,South Africa,Zimbabwe,351,South Africa,Sedgars Park,5,South Africa
+267,43.2,0,EC Rainsford,2006-09-20,1st,MV Boucher,105,,JP Duminy,0,South Africa,Zimbabwe,351,South Africa,Sedgars Park,5,South Africa
+268,43.3,1,EC Rainsford,2006-09-20,1st,MV Boucher,105,,JP Duminy,1,South Africa,Zimbabwe,352,South Africa,Sedgars Park,5,South Africa
+269,43.4,1,EC Rainsford,2006-09-20,1st,JP Duminy,1,,MV Boucher,106,South Africa,Zimbabwe,353,South Africa,Sedgars Park,5,South Africa
+270,43.5,1,EC Rainsford,2006-09-20,1st,MV Boucher,106,,JP Duminy,2,South Africa,Zimbabwe,354,South Africa,Sedgars Park,5,South Africa
+271,43.6,1,EC Rainsford,2006-09-20,1st,JP Duminy,2,,MV Boucher,107,South Africa,Zimbabwe,355,South Africa,Sedgars Park,5,South Africa
+272,44.1,1,T Mupariwa,2006-09-20,1st,JP Duminy,2,,MV Boucher,108,South Africa,Zimbabwe,356,South Africa,Sedgars Park,5,South Africa
+273,44.2,2,T Mupariwa,2006-09-20,1st,MV Boucher,108,,JP Duminy,4,South Africa,Zimbabwe,358,South Africa,Sedgars Park,5,South Africa
+274,44.3,1,T Mupariwa,2006-09-20,1st,MV Boucher,108,,JP Duminy,5,South Africa,Zimbabwe,359,South Africa,Sedgars Park,5,South Africa
+275,44.4,6,T Mupariwa,2006-09-20,1st,JP Duminy,5,,MV Boucher,114,South Africa,Zimbabwe,365,South Africa,Sedgars Park,5,South Africa
+276,44.5,0,T Mupariwa,2006-09-20,1st,JP Duminy,5,,MV Boucher,114,South Africa,Zimbabwe,366,South Africa,Sedgars Park,5,South Africa
+277,44.6,1,T Mupariwa,2006-09-20,1st,MV Boucher,114,,JP Duminy,6,South Africa,Zimbabwe,367,South Africa,Sedgars Park,5,South Africa
+278,45.1,0,H Masakadza,2006-09-20,1st,MV Boucher,114,,JP Duminy,6,South Africa,Zimbabwe,367,South Africa,Sedgars Park,5,South Africa
+279,45.2,1,H Masakadza,2006-09-20,1st,MV Boucher,114,,JP Duminy,7,South Africa,Zimbabwe,368,South Africa,Sedgars Park,5,South Africa
+280,45.3,1,H Masakadza,2006-09-20,1st,JP Duminy,7,,MV Boucher,115,South Africa,Zimbabwe,369,South Africa,Sedgars Park,5,South Africa
+281,45.4,1,H Masakadza,2006-09-20,1st,MV Boucher,115,,JP Duminy,8,South Africa,Zimbabwe,370,South Africa,Sedgars Park,5,South Africa
+282,45.5,2,H Masakadza,2006-09-20,1st,JP Duminy,8,,MV Boucher,117,South Africa,Zimbabwe,372,South Africa,Sedgars Park,5,South Africa
+283,45.6,1,H Masakadza,2006-09-20,1st,JP Duminy,8,,MV Boucher,118,South Africa,Zimbabwe,373,South Africa,Sedgars Park,5,South Africa
+284,46.1,2,T Mupariwa,2006-09-20,1st,JP Duminy,8,,MV Boucher,120,South Africa,Zimbabwe,375,South Africa,Sedgars Park,5,South Africa
+285,46.2,1,T Mupariwa,2006-09-20,1st,JP Duminy,8,,MV Boucher,121,South Africa,Zimbabwe,376,South Africa,Sedgars Park,5,South Africa
+286,46.3,1,T Mupariwa,2006-09-20,1st,MV Boucher,121,,JP Duminy,9,South Africa,Zimbabwe,377,South Africa,Sedgars Park,5,South Africa
+287,46.4,0,T Mupariwa,2006-09-20,1st,JP Duminy,9,,MV Boucher,121,South Africa,Zimbabwe,377,South Africa,Sedgars Park,5,South Africa
+288,46.5,1,T Mupariwa,2006-09-20,1st,JP Duminy,9,,MV Boucher,122,South Africa,Zimbabwe,378,South Africa,Sedgars Park,5,South Africa
+289,46.6,2,T Mupariwa,2006-09-20,1st,MV Boucher,122,,JP Duminy,11,South Africa,Zimbabwe,380,South Africa,Sedgars Park,5,South Africa
+290,47.1,4,H Masakadza,2006-09-20,1st,JP Duminy,11,,MV Boucher,126,South Africa,Zimbabwe,384,South Africa,Sedgars Park,5,South Africa
+291,47.2,1,H Masakadza,2006-09-20,1st,JP Duminy,11,,MV Boucher,127,South Africa,Zimbabwe,385,South Africa,Sedgars Park,5,South Africa
+292,47.3,1,H Masakadza,2006-09-20,1st,MV Boucher,127,,JP Duminy,12,South Africa,Zimbabwe,386,South Africa,Sedgars Park,5,South Africa
+293,47.4,1,H Masakadza,2006-09-20,1st,JP Duminy,12,,MV Boucher,128,South Africa,Zimbabwe,387,South Africa,Sedgars Park,5,South Africa
+294,47.5,4,H Masakadza,2006-09-20,1st,MV Boucher,128,,JP Duminy,16,South Africa,Zimbabwe,391,South Africa,Sedgars Park,5,South Africa
+295,47.6,4,H Masakadza,2006-09-20,1st,MV Boucher,128,,JP Duminy,20,South Africa,Zimbabwe,395,South Africa,Sedgars Park,5,South Africa
+296,48.1,6,T Mupariwa,2006-09-20,1st,JP Duminy,20,,MV Boucher,134,South Africa,Zimbabwe,401,South Africa,Sedgars Park,5,South Africa
+297,48.2,1,T Mupariwa,2006-09-20,1st,JP Duminy,20,,MV Boucher,135,South Africa,Zimbabwe,402,South Africa,Sedgars Park,5,South Africa
+298,48.3,2,T Mupariwa,2006-09-20,1st,MV Boucher,135,,JP Duminy,22,South Africa,Zimbabwe,404,South Africa,Sedgars Park,5,South Africa
+299,48.4,0,T Mupariwa,2006-09-20,1st,MV Boucher,135,,JP Duminy,22,South Africa,Zimbabwe,404,South Africa,Sedgars Park,5,South Africa
+300,48.5,1,T Mupariwa,2006-09-20,1st,MV Boucher,135,,JP Duminy,23,South Africa,Zimbabwe,405,South Africa,Sedgars Park,5,South Africa
+301,48.6,1,T Mupariwa,2006-09-20,1st,JP Duminy,23,,MV Boucher,136,South Africa,Zimbabwe,406,South Africa,Sedgars Park,5,South Africa
+302,49.1,2,EC Rainsford,2006-09-20,1st,JP Duminy,23,,MV Boucher,138,South Africa,Zimbabwe,408,South Africa,Sedgars Park,5,South Africa
+303,49.2,2,EC Rainsford,2006-09-20,1st,JP Duminy,23,,MV Boucher,140,South Africa,Zimbabwe,410,South Africa,Sedgars Park,5,South Africa
+304,49.3,4,EC Rainsford,2006-09-20,1st,JP Duminy,23,,MV Boucher,144,South Africa,Zimbabwe,414,South Africa,Sedgars Park,5,South Africa
+305,49.4,1,EC Rainsford,2006-09-20,1st,JP Duminy,23,,MV Boucher,145,South Africa,Zimbabwe,415,South Africa,Sedgars Park,5,South Africa
+306,49.5,1,EC Rainsford,2006-09-20,1st,MV Boucher,145,,JP Duminy,24,South Africa,Zimbabwe,416,South Africa,Sedgars Park,5,South Africa
+307,49.6,2,EC Rainsford,2006-09-20,1st,JP Duminy,24,,MV Boucher,147,South Africa,Zimbabwe,418,South Africa,Sedgars Park,5,South Africa
+308,0.1,1,A Nel,2006-09-20,2nd,V Sibanda,0,,T Duffin,0,South Africa,Zimbabwe,1,South Africa,Sedgars Park,0,South Africa
+309,0.2,0,A Nel,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,1,South Africa,Sedgars Park,0,South Africa
+310,0.3,0,A Nel,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,1,South Africa,Sedgars Park,0,South Africa
+311,0.4,0,A Nel,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,2,South Africa,Sedgars Park,0,South Africa
+312,0.5,0,A Nel,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,2,South Africa,Sedgars Park,0,South Africa
+313,0.6,0,A Nel,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,2,South Africa,Sedgars Park,0,South Africa
+314,0.7,0,A Nel,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,2,South Africa,Sedgars Park,0,South Africa
+315,1.1,0,JJ van der Wath,2006-09-20,2nd,V Sibanda,0,,T Duffin,0,South Africa,Zimbabwe,3,South Africa,Sedgars Park,0,South Africa
+316,1.2,0,JJ van der Wath,2006-09-20,2nd,V Sibanda,0,,T Duffin,0,South Africa,Zimbabwe,7,South Africa,Sedgars Park,0,South Africa
+317,1.3,0,JJ van der Wath,2006-09-20,2nd,V Sibanda,0,,T Duffin,0,South Africa,Zimbabwe,7,South Africa,Sedgars Park,0,South Africa
+318,1.4,0,JJ van der Wath,2006-09-20,2nd,V Sibanda,0,,T Duffin,0,South Africa,Zimbabwe,7,South Africa,Sedgars Park,0,South Africa
+319,1.5,0,JJ van der Wath,2006-09-20,2nd,V Sibanda,0,,T Duffin,0,South Africa,Zimbabwe,7,South Africa,Sedgars Park,0,South Africa
+320,1.6,1,JJ van der Wath,2006-09-20,2nd,V Sibanda,0,,T Duffin,0,South Africa,Zimbabwe,8,South Africa,Sedgars Park,0,South Africa
+321,1.7,1,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,9,South Africa,Sedgars Park,0,South Africa
+322,2.1,0,A Nel,2006-09-20,2nd,T Duffin,0,,V Sibanda,0,South Africa,Zimbabwe,9,South Africa,Sedgars Park,1,South Africa
+323,2.2,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Sedgars Park,1,South Africa
+324,2.3,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Sedgars Park,1,South Africa
+325,2.4,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Sedgars Park,1,South Africa
+326,2.5,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Sedgars Park,1,South Africa
+327,2.6,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,9,South Africa,Sedgars Park,1,South Africa
+328,3.1,1,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,10,South Africa,Sedgars Park,1,South Africa
+329,3.2,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,10,South Africa,Sedgars Park,1,South Africa
+330,3.3,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,10,South Africa,Sedgars Park,1,South Africa
+331,3.4,4,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,14,South Africa,Sedgars Park,1,South Africa
+332,3.5,1,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,15,South Africa,Sedgars Park,1,South Africa
+333,3.6,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,15,South Africa,Sedgars Park,1,South Africa
+334,4.1,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,15,South Africa,Sedgars Park,1,South Africa
+335,4.2,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,15,South Africa,Sedgars Park,1,South Africa
+336,4.3,1,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,16,South Africa,Sedgars Park,1,South Africa
+337,4.4,0,A Nel,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,17,South Africa,Sedgars Park,1,South Africa
+338,4.5,1,A Nel,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,18,South Africa,Sedgars Park,1,South Africa
+339,4.6,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,18,South Africa,Sedgars Park,1,South Africa
+340,4.7,2,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,20,South Africa,Sedgars Park,1,South Africa
+341,5.1,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,20,South Africa,Sedgars Park,1,South Africa
+342,5.2,1,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,21,South Africa,Sedgars Park,1,South Africa
+343,5.3,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,22,South Africa,Sedgars Park,1,South Africa
+344,5.4,2,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,24,South Africa,Sedgars Park,1,South Africa
+345,5.5,1,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,25,South Africa,Sedgars Park,1,South Africa
+346,5.6,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,25,South Africa,Sedgars Park,1,South Africa
+347,5.7,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,25,South Africa,Sedgars Park,1,South Africa
+348,6.1,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,25,South Africa,Sedgars Park,1,South Africa
+349,6.2,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,25,South Africa,Sedgars Park,1,South Africa
+350,6.3,4,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,29,South Africa,Sedgars Park,1,South Africa
+351,6.4,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,29,South Africa,Sedgars Park,1,South Africa
+352,6.5,1,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,30,South Africa,Sedgars Park,1,South Africa
+353,6.6,1,A Nel,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,31,South Africa,Sedgars Park,1,South Africa
+354,7.1,1,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,32,South Africa,Sedgars Park,1,South Africa
+355,7.2,1,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,33,South Africa,Sedgars Park,1,South Africa
+356,7.3,3,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,36,South Africa,Sedgars Park,1,South Africa
+357,7.4,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,36,South Africa,Sedgars Park,1,South Africa
+358,7.5,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,36,South Africa,Sedgars Park,1,South Africa
+359,7.6,2,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,38,South Africa,Sedgars Park,1,South Africa
+360,8.1,1,A Nel,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,39,South Africa,Sedgars Park,1,South Africa
+361,8.2,6,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,45,South Africa,Sedgars Park,1,South Africa
+362,8.3,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,45,South Africa,Sedgars Park,1,South Africa
+363,8.4,4,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,49,South Africa,Sedgars Park,1,South Africa
+364,8.5,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,49,South Africa,Sedgars Park,1,South Africa
+365,8.6,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,49,South Africa,Sedgars Park,1,South Africa
+366,9.1,1,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,50,South Africa,Sedgars Park,1,South Africa
+367,9.2,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,50,South Africa,Sedgars Park,1,South Africa
+368,9.3,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,50,South Africa,Sedgars Park,1,South Africa
+369,9.4,1,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,51,South Africa,Sedgars Park,1,South Africa
+370,9.5,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,51,South Africa,Sedgars Park,1,South Africa
+371,9.6,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,51,South Africa,Sedgars Park,1,South Africa
+372,10.1,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,51,South Africa,Sedgars Park,1,South Africa
+373,10.2,1,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,52,South Africa,Sedgars Park,1,South Africa
+374,10.3,1,A Nel,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,54,South Africa,Sedgars Park,1,South Africa
+375,10.4,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,54,South Africa,Sedgars Park,1,South Africa
+376,10.5,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,54,South Africa,Sedgars Park,1,South Africa
+377,10.6,4,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,58,South Africa,Sedgars Park,1,South Africa
+378,10.7,0,A Nel,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,58,South Africa,Sedgars Park,1,South Africa
+379,11.1,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,58,South Africa,Sedgars Park,1,South Africa
+380,11.2,4,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,62,South Africa,Sedgars Park,1,South Africa
+381,11.3,2,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,64,South Africa,Sedgars Park,1,South Africa
+382,11.4,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,64,South Africa,Sedgars Park,1,South Africa
+383,11.5,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,64,South Africa,Sedgars Park,1,South Africa
+384,11.6,0,JJ van der Wath,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,64,South Africa,Sedgars Park,1,South Africa
+385,12.1,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,64,South Africa,Sedgars Park,1,South Africa
+386,12.2,1,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,65,South Africa,Sedgars Park,1,South Africa
+387,12.3,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,65,South Africa,Sedgars Park,1,South Africa
+388,12.4,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,65,South Africa,Sedgars Park,1,South Africa
+389,12.5,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,65,South Africa,Sedgars Park,1,South Africa
+390,12.6,1,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,66,South Africa,Sedgars Park,1,South Africa
+391,13.1,2,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,68,South Africa,Sedgars Park,1,South Africa
+392,13.2,1,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,69,South Africa,Sedgars Park,1,South Africa
+393,13.3,1,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,70,South Africa,Sedgars Park,1,South Africa
+394,13.4,1,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,71,South Africa,Sedgars Park,1,South Africa
+395,13.5,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,71,South Africa,Sedgars Park,1,South Africa
+396,13.6,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,71,South Africa,Sedgars Park,1,South Africa
+397,14.1,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,72,South Africa,Sedgars Park,1,South Africa
+398,14.2,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,72,South Africa,Sedgars Park,1,South Africa
+399,14.3,1,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,73,South Africa,Sedgars Park,1,South Africa
+400,14.4,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,73,South Africa,Sedgars Park,1,South Africa
+401,14.5,1,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,74,South Africa,Sedgars Park,1,South Africa
+402,14.6,1,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,75,South Africa,Sedgars Park,1,South Africa
+403,14.7,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,75,South Africa,Sedgars Park,1,South Africa
+404,15.1,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,75,South Africa,Sedgars Park,1,South Africa
+405,15.2,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,75,South Africa,Sedgars Park,1,South Africa
+406,15.3,1,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,76,South Africa,Sedgars Park,1,South Africa
+407,15.4,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,76,South Africa,Sedgars Park,1,South Africa
+408,15.5,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,80,South Africa,Sedgars Park,1,South Africa
+409,15.6,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,80,South Africa,Sedgars Park,1,South Africa
+410,16.1,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,80,South Africa,Sedgars Park,1,South Africa
+411,16.2,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,81,South Africa,Sedgars Park,1,South Africa
+412,16.3,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,81,South Africa,Sedgars Park,1,South Africa
+413,16.4,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,81,South Africa,Sedgars Park,1,South Africa
+414,16.5,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,81,South Africa,Sedgars Park,1,South Africa
+415,16.6,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,81,South Africa,Sedgars Park,1,South Africa
+416,17.1,1,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+417,17.2,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+418,17.3,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+419,17.4,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+420,17.5,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+421,17.6,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+422,18.1,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+423,18.2,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+424,18.3,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+425,18.4,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,82,South Africa,Sedgars Park,1,South Africa
+426,18.5,1,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,83,South Africa,Sedgars Park,1,South Africa
+427,18.6,2,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,85,South Africa,Sedgars Park,1,South Africa
+428,19.1,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,85,South Africa,Sedgars Park,1,South Africa
+429,19.2,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,85,South Africa,Sedgars Park,1,South Africa
+430,19.3,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,85,South Africa,Sedgars Park,1,South Africa
+431,19.4,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,85,South Africa,Sedgars Park,1,South Africa
+432,19.5,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,85,South Africa,Sedgars Park,1,South Africa
+433,19.6,1,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,86,South Africa,Sedgars Park,1,South Africa
+434,20.1,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,86,South Africa,Sedgars Park,1,South Africa
+435,20.2,4,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,90,South Africa,Sedgars Park,1,South Africa
+436,20.3,2,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,92,South Africa,Sedgars Park,1,South Africa
+437,20.4,0,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,92,South Africa,Sedgars Park,1,South Africa
+438,20.5,1,CK Langeveldt,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,93,South Africa,Sedgars Park,1,South Africa
+439,20.6,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,93,South Africa,Sedgars Park,1,South Africa
+440,21.1,1,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,94,South Africa,Sedgars Park,1,South Africa
+441,21.2,1,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,95,South Africa,Sedgars Park,1,South Africa
+442,21.3,1,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,96,South Africa,Sedgars Park,1,South Africa
+443,21.4,1,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+444,21.5,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+445,21.6,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+446,22.1,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+447,22.2,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+448,22.3,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+449,22.4,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+450,22.5,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+451,22.6,0,CK Langeveldt,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+452,23.1,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+453,23.2,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+454,23.3,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,97,South Africa,Sedgars Park,1,South Africa
+455,23.4,0,AJ Hall,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,98,South Africa,Sedgars Park,1,South Africa
+456,23.5,0,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,98,South Africa,Sedgars Park,1,South Africa
+457,23.6,1,AJ Hall,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,99,South Africa,Sedgars Park,1,South Africa
+458,24.1,1,R Telemachus,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,100,South Africa,Sedgars Park,1,South Africa
+459,24.2,0,R Telemachus,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,100,South Africa,Sedgars Park,1,South Africa
+460,24.3,1,R Telemachus,2006-09-20,2nd,CJ Chibhabha,0,,T Duffin,0,South Africa,Zimbabwe,101,South Africa,Sedgars Park,1,South Africa
+461,24.4,2,R Telemachus,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,103,South Africa,Sedgars Park,1,South Africa
+462,24.5,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,CJ Chibhabha,0,South Africa,Zimbabwe,103,South Africa,Sedgars Park,2,South Africa
+463,24.6,1,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,104,South Africa,Sedgars Park,2,South Africa
+464,25.1,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,105,South Africa,Sedgars Park,2,South Africa
+465,25.2,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,106,South Africa,Sedgars Park,2,South Africa
+466,25.3,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,107,South Africa,Sedgars Park,2,South Africa
+467,25.4,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,108,South Africa,Sedgars Park,2,South Africa
+468,25.5,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,109,South Africa,Sedgars Park,2,South Africa
+469,25.6,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,110,South Africa,Sedgars Park,2,South Africa
+470,26.1,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,110,South Africa,Sedgars Park,2,South Africa
+471,26.2,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,110,South Africa,Sedgars Park,2,South Africa
+472,26.3,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,111,South Africa,Sedgars Park,2,South Africa
+473,26.4,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,111,South Africa,Sedgars Park,2,South Africa
+474,26.5,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,111,South Africa,Sedgars Park,2,South Africa
+475,26.6,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,111,South Africa,Sedgars Park,2,South Africa
+476,26.7,1,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,112,South Africa,Sedgars Park,2,South Africa
+477,27.1,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,113,South Africa,Sedgars Park,2,South Africa
+478,27.2,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,114,South Africa,Sedgars Park,2,South Africa
+479,27.3,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,115,South Africa,Sedgars Park,2,South Africa
+480,27.4,0,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,115,South Africa,Sedgars Park,2,South Africa
+481,27.5,0,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,115,South Africa,Sedgars Park,2,South Africa
+482,27.6,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,116,South Africa,Sedgars Park,2,South Africa
+483,28.1,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,117,South Africa,Sedgars Park,2,South Africa
+484,28.2,1,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,118,South Africa,Sedgars Park,2,South Africa
+485,28.3,1,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,119,South Africa,Sedgars Park,2,South Africa
+486,28.4,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,119,South Africa,Sedgars Park,2,South Africa
+487,28.5,1,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+488,28.6,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+489,29.1,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+490,29.2,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+491,29.3,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+492,29.4,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+493,29.5,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+494,29.6,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+495,30.1,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,120,South Africa,Sedgars Park,2,South Africa
+496,30.2,2,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,122,South Africa,Sedgars Park,2,South Africa
+497,30.3,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,122,South Africa,Sedgars Park,2,South Africa
+498,30.4,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,122,South Africa,Sedgars Park,2,South Africa
+499,30.5,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,123,South Africa,Sedgars Park,2,South Africa
+500,30.6,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,123,South Africa,Sedgars Park,2,South Africa
+501,31.1,0,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,123,South Africa,Sedgars Park,2,South Africa
+502,31.2,0,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,123,South Africa,Sedgars Park,2,South Africa
+503,31.3,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,124,South Africa,Sedgars Park,2,South Africa
+504,31.4,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,124,South Africa,Sedgars Park,2,South Africa
+505,31.5,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,125,South Africa,Sedgars Park,2,South Africa
+506,31.6,2,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,127,South Africa,Sedgars Park,2,South Africa
+507,32.1,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,128,South Africa,Sedgars Park,2,South Africa
+508,32.2,1,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,129,South Africa,Sedgars Park,2,South Africa
+509,32.3,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,129,South Africa,Sedgars Park,2,South Africa
+510,32.4,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,129,South Africa,Sedgars Park,2,South Africa
+511,32.5,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,129,South Africa,Sedgars Park,2,South Africa
+512,32.6,2,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,131,South Africa,Sedgars Park,2,South Africa
+513,33.1,0,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,131,South Africa,Sedgars Park,2,South Africa
+514,33.2,4,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,135,South Africa,Sedgars Park,2,South Africa
+515,33.3,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,136,South Africa,Sedgars Park,2,South Africa
+516,33.4,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,137,South Africa,Sedgars Park,2,South Africa
+517,33.5,2,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,139,South Africa,Sedgars Park,2,South Africa
+518,33.6,3,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,142,South Africa,Sedgars Park,2,South Africa
+519,34.1,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,142,South Africa,Sedgars Park,2,South Africa
+520,34.2,1,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,143,South Africa,Sedgars Park,2,South Africa
+521,34.3,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,143,South Africa,Sedgars Park,2,South Africa
+522,34.4,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,143,South Africa,Sedgars Park,2,South Africa
+523,34.5,0,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,143,South Africa,Sedgars Park,2,South Africa
+524,34.6,1,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,144,South Africa,Sedgars Park,2,South Africa
+525,35.1,4,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,148,South Africa,Sedgars Park,2,South Africa
+526,35.2,4,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,152,South Africa,Sedgars Park,2,South Africa
+527,35.3,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,152,South Africa,Sedgars Park,2,South Africa
+528,35.4,0,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,152,South Africa,Sedgars Park,2,South Africa
+529,35.5,1,JP Duminy,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,153,South Africa,Sedgars Park,2,South Africa
+530,35.6,1,JP Duminy,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,154,South Africa,Sedgars Park,2,South Africa
+531,36.1,1,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,155,South Africa,Sedgars Park,2,South Africa
+532,36.2,0,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,155,South Africa,Sedgars Park,2,South Africa
+533,36.3,1,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,156,South Africa,Sedgars Park,2,South Africa
+534,36.4,0,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,156,South Africa,Sedgars Park,2,South Africa
+535,36.5,0,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,156,South Africa,Sedgars Park,2,South Africa
+536,36.6,4,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,160,South Africa,Sedgars Park,2,South Africa
+537,37.1,2,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,162,South Africa,Sedgars Park,2,South Africa
+538,37.2,0,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,162,South Africa,Sedgars Park,2,South Africa
+539,37.3,1,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,163,South Africa,Sedgars Park,2,South Africa
+540,37.4,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,163,South Africa,Sedgars Park,2,South Africa
+541,37.5,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,163,South Africa,Sedgars Park,2,South Africa
+542,37.6,4,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,167,South Africa,Sedgars Park,2,South Africa
+543,37.7,4,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,171,South Africa,Sedgars Park,2,South Africa
+544,38.1,1,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,172,South Africa,Sedgars Park,2,South Africa
+545,38.2,0,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,172,South Africa,Sedgars Park,2,South Africa
+546,38.3,0,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,172,South Africa,Sedgars Park,2,South Africa
+547,38.4,1,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,173,South Africa,Sedgars Park,2,South Africa
+548,38.5,1,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,174,South Africa,Sedgars Park,2,South Africa
+549,38.6,1,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,175,South Africa,Sedgars Park,2,South Africa
+550,39.1,0,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,175,South Africa,Sedgars Park,2,South Africa
+551,39.2,1,JJ van der Wath,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,176,South Africa,Sedgars Park,2,South Africa
+552,39.3,0,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,176,South Africa,Sedgars Park,2,South Africa
+553,39.4,0,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,176,South Africa,Sedgars Park,2,South Africa
+554,39.5,0,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,176,South Africa,Sedgars Park,2,South Africa
+555,39.6,0,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,177,South Africa,Sedgars Park,2,South Africa
+556,39.7,1,JJ van der Wath,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,178,South Africa,Sedgars Park,2,South Africa
+557,40.1,0,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,178,South Africa,Sedgars Park,2,South Africa
+558,40.2,4,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,182,South Africa,Sedgars Park,2,South Africa
+559,40.3,1,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,183,South Africa,Sedgars Park,2,South Africa
+560,40.4,2,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,185,South Africa,Sedgars Park,2,South Africa
+561,40.5,0,JM Kemp,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,186,South Africa,Sedgars Park,2,South Africa
+562,40.6,0,JM Kemp,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,186,South Africa,Sedgars Park,2,South Africa
+563,41.1,1,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,187,South Africa,Sedgars Park,2,South Africa
+564,41.2,1,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,188,South Africa,Sedgars Park,2,South Africa
+565,41.3,1,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,189,South Africa,Sedgars Park,2,South Africa
+566,41.4,4,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,193,South Africa,Sedgars Park,2,South Africa
+567,41.5,1,R Telemachus,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,194,South Africa,Sedgars Park,2,South Africa
+568,41.6,4,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,198,South Africa,Sedgars Park,2,South Africa
+569,42.1,1,A Nel,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,199,South Africa,Sedgars Park,2,South Africa
+570,42.2,0,A Nel,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,199,South Africa,Sedgars Park,2,South Africa
+571,42.3,0,A Nel,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,200,South Africa,Sedgars Park,2,South Africa
+572,42.4,1,A Nel,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,201,South Africa,Sedgars Park,2,South Africa
+573,42.5,1,A Nel,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,202,South Africa,Sedgars Park,2,South Africa
+574,42.6,0,A Nel,2006-09-20,2nd,H Masakadza,0,,T Duffin,0,South Africa,Zimbabwe,202,South Africa,Sedgars Park,2,South Africa
+575,43.1,4,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,206,South Africa,Sedgars Park,2,South Africa
+576,43.2,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,H Masakadza,0,South Africa,Zimbabwe,206,South Africa,Sedgars Park,3,South Africa
+577,43.3,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,BRM Taylor,0,South Africa,Zimbabwe,206,South Africa,Sedgars Park,3,South Africa
+578,43.4,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,BRM Taylor,0,South Africa,Zimbabwe,206,South Africa,Sedgars Park,3,South Africa
+579,43.5,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,BRM Taylor,0,South Africa,Zimbabwe,206,South Africa,Sedgars Park,3,South Africa
+580,43.6,0,R Telemachus,2006-09-20,2nd,T Duffin,0,,BRM Taylor,0,South Africa,Zimbabwe,206,South Africa,Sedgars Park,3,South Africa
+581,44.1,0,A Nel,2006-09-20,2nd,BRM Taylor,0,,T Duffin,0,South Africa,Zimbabwe,206,South Africa,Sedgars Park,3,South Africa
+582,44.2,2,A Nel,2006-09-20,2nd,BRM Taylor,0,,T Duffin,0,South Africa,Zimbabwe,208,South Africa,Sedgars Park,3,South Africa
+583,44.3,4,A Nel,2006-09-20,2nd,BRM Taylor,0,,T Duffin,0,South Africa,Zimbabwe,212,South Africa,Sedgars Park,3,South Africa
+584,44.4,0,A Nel,2006-09-20,2nd,BRM Taylor,0,,T Duffin,0,South Africa,Zimbabwe,212,South Africa,Sedgars Park,4,South Africa
+585,44.5,1,A Nel,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,213,South Africa,Sedgars Park,4,South Africa
+586,44.6,0,A Nel,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,213,South Africa,Sedgars Park,4,South Africa
+587,45.1,1,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,214,South Africa,Sedgars Park,4,South Africa
+588,45.2,0,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,214,South Africa,Sedgars Park,4,South Africa
+589,45.3,1,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,215,South Africa,Sedgars Park,4,South Africa
+590,45.4,0,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,215,South Africa,Sedgars Park,4,South Africa
+591,45.5,1,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,216,South Africa,Sedgars Park,4,South Africa
+592,45.6,1,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,217,South Africa,Sedgars Park,4,South Africa
+593,46.1,2,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,219,South Africa,Sedgars Park,4,South Africa
+594,46.2,0,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,219,South Africa,Sedgars Park,4,South Africa
+595,46.3,3,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,222,South Africa,Sedgars Park,4,South Africa
+596,46.4,0,CK Langeveldt,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,222,South Africa,Sedgars Park,4,South Africa
+597,46.5,1,CK Langeveldt,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,223,South Africa,Sedgars Park,4,South Africa
+598,46.6,0,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,223,South Africa,Sedgars Park,4,South Africa
+599,47.1,0,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,223,South Africa,Sedgars Park,4,South Africa
+600,47.2,0,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,223,South Africa,Sedgars Park,4,South Africa
+601,47.3,4,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,227,South Africa,Sedgars Park,4,South Africa
+602,47.4,0,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,227,South Africa,Sedgars Park,4,South Africa
+603,47.5,1,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,228,South Africa,Sedgars Park,4,South Africa
+604,47.6,1,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,229,South Africa,Sedgars Park,4,South Africa
+605,48.1,4,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,233,South Africa,Sedgars Park,4,South Africa
+606,48.2,2,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,235,South Africa,Sedgars Park,4,South Africa
+607,48.3,0,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,235,South Africa,Sedgars Park,4,South Africa
+608,48.4,1,CK Langeveldt,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,236,South Africa,Sedgars Park,4,South Africa
+609,48.5,4,CK Langeveldt,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,240,South Africa,Sedgars Park,4,South Africa
+610,48.6,1,CK Langeveldt,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,241,South Africa,Sedgars Park,4,South Africa
+611,49.1,1,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,242,South Africa,Sedgars Park,4,South Africa
+612,49.2,2,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,244,South Africa,Sedgars Park,4,South Africa
+613,49.3,0,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,244,South Africa,Sedgars Park,4,South Africa
+614,49.4,1,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,245,South Africa,Sedgars Park,4,South Africa
+615,49.5,1,AJ Hall,2006-09-20,2nd,BRM Taylor,0,,S Matsikenyeri,0,South Africa,Zimbabwe,246,South Africa,Sedgars Park,4,South Africa
+616,49.6,1,AJ Hall,2006-09-20,2nd,S Matsikenyeri,0,,BRM Taylor,0,South Africa,Zimbabwe,247,South Africa,Sedgars Park,4,South Africa
